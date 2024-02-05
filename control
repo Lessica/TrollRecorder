@@ -1,0 +1,9 @@
+Package: audio-commands
+Name: Audio Commands
+Version: 0.1
+Section: Scripting
+Depends: firmware (>= 13.0)
+Architecture: iphoneos-arm
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Something shamefully stolen from the Internet.

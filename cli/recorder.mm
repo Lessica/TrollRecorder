@@ -1,0 +1,367 @@
+#import <AVFAudio/AVFAudio.h>
+#import <AVFoundation/AVFoundation.h>
+#import <AudioToolbox/AudioToolbox.h>
+
+static const int kNumberOfBuffers = 3;
+static const int kMaximumBufferSize = 0x50000;
+static const int kMinimumBufferSize = 0x4000;
+
+static AudioStreamBasicDescription mDataFormat = {0};
+static AudioQueueRef mQueueRef = NULL;
+static AudioQueueBufferRef mBuffers[kNumberOfBuffers] = {0};
+static AudioFileID mAudioFile = 0;
+static UInt32 mBufferByteSize = 0;
+static SInt64 mCurrentPacket = 0;
+static bool mIsRecording = false;
+
+__used static void _RecorderCallback(void *ptr, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer,
+                                     const AudioTimeStamp *timestamp, UInt32 inNumPackets,
+                                     const AudioStreamPacketDescription *inPacketDesc) {
+
+    OSStatus status = noErr;
+
+    if (inNumPackets == 0 && mDataFormat.mBytesPerPacket != 0) {
+        inNumPackets = inBuffer->mAudioDataByteSize / mDataFormat.mBytesPerPacket;
+    }
+
+    status = AudioFileWritePackets(mAudioFile, false, inBuffer->mAudioDataByteSize, inPacketDesc, mCurrentPacket,
+                                   &inNumPackets, inBuffer->mAudioData);
+
+    if (status == noErr) {
+        mCurrentPacket += inNumPackets;
+    } else {
+        // NSLog(@"AudioFileWritePackets (%d)", status);
+    }
+
+    if (mIsRecording) {
+        status = AudioQueueEnqueueBuffer(inAQ, inBuffer, 0, NULL);
+
+        // if (status != noErr) {
+        //     NSLog(@"AudioQueueEnqueueBuffer (%d)", status);
+        // }
+    }
+}
+
+__used static void _RecorderListenerCallback(void *user_data, AudioQueueRef queue, AudioQueuePropertyID prop) {
+
+    UInt32 res = 0;
+    UInt32 resSize = 0;
+    OSStatus status = noErr;
+
+    resSize = sizeof(res);
+
+    status = AudioQueueGetProperty(queue, kAudioQueueProperty_IsRunning, &res, &resSize);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueueGetProperty (%d)", status);
+    }
+
+    NSLog(@"_RecorderListenerCallback: %d", res);
+    if (status == noErr && res == 0) {
+        mIsRecording = false;
+    }
+}
+
+__used static void _CalculateDerivedBufferSize(AudioQueueRef audioQueue, AudioStreamBasicDescription streamDesc,
+                                               Float64 seconds, UInt32 *outBufferSize) {
+
+    UInt32 maxPacketSize = 0;
+    UInt32 maxVBRPacketSize = 0;
+    Float64 numBytesForTime = 0;
+    OSStatus status = noErr;
+
+    maxPacketSize = streamDesc.mBytesPerPacket;
+
+    if (maxPacketSize == 0) {
+        maxVBRPacketSize = sizeof(maxPacketSize);
+
+        status = AudioQueueGetProperty(audioQueue, kAudioQueueProperty_MaximumOutputPacketSize, &maxPacketSize,
+                                       &maxVBRPacketSize);
+
+        if (status != noErr) {
+            NSLog(@"AudioQueueGetProperty (%d)", status);
+        }
+    }
+
+    numBytesForTime = streamDesc.mSampleRate * maxPacketSize * seconds;
+
+    if (numBytesForTime < kMinimumBufferSize) {
+        *outBufferSize = kMinimumBufferSize;
+    } else if (numBytesForTime > kMaximumBufferSize) {
+        *outBufferSize = kMaximumBufferSize;
+    } else {
+        *outBufferSize = numBytesForTime;
+    }
+}
+
+__used static OSStatus _RecorderSetup(CFURLRef fileURL) {
+
+    OSStatus status = noErr;
+    UInt32 dataFormatSize = 0;
+    UInt32 *magicCookie = NULL;
+    UInt32 cookieSize = 0;
+
+    Float64 sampleRate = 0;
+    UInt32 channel = 0;
+
+    sampleRate = 44100.0;
+    channel = 2;
+
+    mDataFormat.mFormatID = kAudioFormatMPEG4AAC;
+    mDataFormat.mSampleRate = sampleRate;
+    mDataFormat.mChannelsPerFrame = channel;
+
+    dataFormatSize = sizeof(mDataFormat);
+
+    status = AudioFormatGetProperty(kAudioFormatProperty_FormatInfo, 0, NULL, &dataFormatSize, &mDataFormat);
+
+    if (status != noErr) {
+        NSLog(@"AudioFormatGetProperty (%d)", status);
+        return status;
+    }
+
+    mCurrentPacket = 0;
+
+    status = AudioQueueNewInput(&mDataFormat, _RecorderCallback, NULL, NULL, NULL, 0, &mQueueRef);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueueNewInput (%d)", status);
+        return status;
+    }
+
+    _CalculateDerivedBufferSize(mQueueRef, mDataFormat, 0.5, &mBufferByteSize);
+
+    for (int i = 0; i < kNumberOfBuffers; i++) {
+        AudioQueueAllocateBuffer(mQueueRef, mBufferByteSize, &mBuffers[i]);
+        AudioQueueEnqueueBuffer(mQueueRef, mBuffers[i], 0, NULL);
+    }
+
+    status = AudioFileCreateWithURL(fileURL, kAudioFileCAFType, &mDataFormat, kAudioFileFlags_EraseFile, &mAudioFile);
+
+    if (status != noErr) {
+        NSLog(@"AudioFileCreateWithURL (%d)", status);
+        return status;
+    }
+
+    cookieSize = sizeof(UInt32);
+    status = AudioQueueGetPropertySize(mQueueRef, kAudioQueueProperty_MagicCookie, &cookieSize);
+
+    if (status == noErr) {
+        magicCookie = (UInt32 *)malloc(cookieSize);
+
+        status = AudioQueueGetProperty(mQueueRef, kAudioQueueProperty_MagicCookie, magicCookie, &cookieSize);
+        if (status == noErr) {
+            status = AudioFileSetProperty(mAudioFile, kAudioFilePropertyMagicCookieData, cookieSize, magicCookie);
+            if (status != noErr) {
+                NSLog(@"AudioFileSetProperty (%d)", status);
+            }
+        } else {
+            NSLog(@"AudioQueueGetProperty (%d)", status);
+        }
+
+        free(magicCookie);
+    } else {
+        NSLog(@"AudioQueueGetPropertySize (%d)", status);
+    }
+
+    // Ignore the error
+    status = noErr;
+
+    status = AudioQueueAddPropertyListener(mQueueRef, kAudioQueueProperty_IsRunning, _RecorderListenerCallback, NULL);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueueAddPropertyListener (%d)", status);
+    }
+
+    // Ignore the error
+    status = noErr;
+
+    return status;
+}
+
+__used static OSStatus _RecorderStart(void) {
+
+    if (mIsRecording) {
+        return noErr;
+    }
+
+    NSError *error = nil;
+    BOOL succeed = NO;
+    OSStatus status = noErr;
+
+    /* I removed some codes shamefully stolen from AudioRecorderXS by @limneos... */
+    /* ATAudioTapDescription + AudioQueueSetProperty */
+
+    /* FIXME: We need some additional setup to avoid AVAudioSession activation here. */
+    succeed = [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayAndRecord
+                                                      mode:AVAudioSessionModeDefault
+                                                   options:AVAudioSessionCategoryOptionMixWithOthers
+                                                     error:&error];
+
+    if (!succeed) {
+        NSLog(@"- [AVAudioSession setCategory:error:] error = %@", error);
+        return -1;
+    }
+
+    succeed = [[AVAudioSession sharedInstance] setActive:YES error:&error];
+
+    if (!succeed) {
+        NSLog(@"- [AVAudioSession setActive:error:] error = %@", error);
+        return -1;
+    }
+
+    status = AudioQueueStart(mQueueRef, NULL);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueueStart (%d)", status);
+        return status;
+    }
+
+    mIsRecording = true;
+
+    return status;
+}
+
+__used static OSStatus _RecorderStop(bool stopImmediately) {
+
+    if (!mIsRecording) {
+        return noErr;
+    }
+
+    OSStatus status = noErr;
+    NSError *error = nil;
+    BOOL succeed = NO;
+
+    UInt32 *magicCookie = NULL;
+    UInt32 cookieSize = 0;
+
+    status = AudioQueueStop(mQueueRef, stopImmediately);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueueStop (%d)", status);
+    }
+
+    cookieSize = sizeof(UInt32);
+    status = AudioQueueGetPropertySize(mQueueRef, kAudioQueueProperty_MagicCookie, &cookieSize);
+
+    if (status == noErr) {
+        magicCookie = (UInt32 *)malloc(cookieSize);
+
+        status = AudioQueueGetProperty(mQueueRef, kAudioQueueProperty_MagicCookie, magicCookie, &cookieSize);
+        if (status == noErr) {
+            status = AudioFileSetProperty(mAudioFile, kAudioFilePropertyMagicCookieData, cookieSize, magicCookie);
+            if (status != noErr) {
+                NSLog(@"AudioFileSetProperty (%d)", status);
+            }
+        } else {
+            NSLog(@"AudioQueueGetProperty (%d)", status);
+        }
+
+        free(magicCookie);
+    } else {
+        NSLog(@"AudioQueueGetPropertySize (%d)", status);
+    }
+
+    // Ignore the error
+    status = noErr;
+
+    succeed = [[AVAudioSession sharedInstance] setActive:NO
+                                             withOptions:AVAudioSessionSetActiveOptionNotifyOthersOnDeactivation
+                                                   error:&error];
+
+    if (!succeed) {
+        NSLog(@"- [AVAudioSession setActive:withOptions:error:] error = %@", error);
+    }
+
+    if (stopImmediately) {
+        mIsRecording = false;
+    }
+
+    return status;
+}
+
+__used static OSStatus _RecorderDispose(void) {
+
+    OSStatus status = noErr;
+
+    status = AudioFileClose(mAudioFile);
+
+    if (status != noErr) {
+        NSLog(@"AudioFileClose (%d)", status);
+    }
+
+    status = AudioQueueDispose(mQueueRef, true);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueueDispose (%d)", status);
+    }
+
+    return status;
+}
+
+__used static void _RecorderInterrupted(int signal) {
+
+    NSLog(@"Interrupted by signal %d", signal);
+    _RecorderStop(false);
+
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(2.0 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+      _RecorderStop(true);
+    });
+}
+
+int main(int argc, const char *argv[]) {
+
+    @autoreleasepool {
+
+        if (argc < 2) {
+            printf("Usage: %s <audio file>\n", argv[0]);
+            return EXIT_FAILURE;
+        }
+
+        NSString *audioFilePath = [NSString stringWithUTF8String:argv[1]];
+        CFURLRef fileURL =
+            CFURLCreateWithFileSystemPath(kCFAllocatorDefault, (CFStringRef)audioFilePath, kCFURLPOSIXPathStyle, false);
+
+        OSStatus status = _RecorderSetup(fileURL);
+
+        if (status != noErr) {
+            NSLog(@"_RecorderSetup (%d)", status);
+            return EXIT_FAILURE;
+        }
+
+        status = _RecorderStart();
+
+        if (status != noErr) {
+            NSLog(@"_RecorderStart (%d)", status);
+            return EXIT_FAILURE;
+        }
+
+        {
+            struct sigaction act, oldact;
+            act.sa_handler = &_RecorderInterrupted;
+            sigaction(SIGINT, &act, &oldact);
+        }
+
+        printf("Recording... Press <Ctrl+C> to stop.\n");
+
+        while (mIsRecording) {
+            CFRunLoopRunInMode(kCFRunLoopDefaultMode, 1e-2, true);
+        }
+
+        status = _RecorderStop(true);
+        if (status != noErr) {
+            NSLog(@"_RecorderStop (%d)", status);
+            return EXIT_FAILURE;
+        }
+
+        status = _RecorderDispose();
+        if (status != noErr) {
+            NSLog(@"_RecorderDispose (%d)", status);
+            return EXIT_FAILURE;
+        }
+
+        CFRelease(fileURL);
+    }
+
+    return EXIT_SUCCESS;
+}
