@@ -283,7 +283,7 @@ int main(int argc, const char *argv[]) {
     @autoreleasepool {
 
         if (argc < 2) {
-            printf("Usage: %s <audio file> <volume>\n", argv[0]);
+            printf("Usage: %s <audio-file> <volume>\n", argv[0]);
             return EXIT_FAILURE;
         }
 

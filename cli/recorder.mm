@@ -2,6 +2,10 @@
 #import <AVFoundation/AVFoundation.h>
 #import <AudioToolbox/AudioToolbox.h>
 
+#import "ATAudioTap.h"
+#import "ATAudioTapDescription.h"
+#import "AudioQueue+Private.h"
+
 static const int kNumberOfBuffers = 3;
 static const int kMaximumBufferSize = 0x50000;
 static const int kMinimumBufferSize = 0x4000;
@@ -13,6 +17,7 @@ static AudioFileID mAudioFile = 0;
 static UInt32 mBufferByteSize = 0;
 static SInt64 mCurrentPacket = 0;
 static bool mIsRecording = false;
+static int mATAudioTapDescriptionPID = 0;
 
 __used static void _RecorderCallback(void *ptr, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer,
                                      const AudioTimeStamp *timestamp, UInt32 inNumPackets,
@@ -189,10 +194,10 @@ __used static OSStatus _RecorderStart(void) {
     BOOL succeed = NO;
     OSStatus status = noErr;
 
-    /* I removed some codes shamefully stolen from AudioRecorderXS by @limneos... */
-    /* ATAudioTapDescription + AudioQueueSetProperty */
-
     /* FIXME: We need some additional setup to avoid AVAudioSession activation here. */
+    /* I removed some codes shamefully stolen from AudioRecorderXS by @limneos... */
+    /* See _headers_ for further details. */
+
     succeed = [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayAndRecord
                                                       mode:AVAudioSessionModeDefault
                                                    options:AVAudioSessionCategoryOptionMixWithOthers
@@ -313,12 +318,19 @@ int main(int argc, const char *argv[]) {
 
     @autoreleasepool {
 
-        if (argc < 2) {
-            printf("Usage: %s <audio file>\n", argv[0]);
+        if (argc < 3) {
+            printf("Usage: %s <channel> <audio-file>\n", argv[0]);
             return EXIT_FAILURE;
         }
 
-        NSString *audioFilePath = [NSString stringWithUTF8String:argv[1]];
+        NSString *channel = [[NSString stringWithUTF8String:argv[1]] lowercaseString];
+        if ([channel isEqualToString:@"mic"] || [channel isEqualToString:@"microphone"]) {
+            mATAudioTapDescriptionPID = kATAudioTapDescriptionPIDMicrophone;
+        } else if ([channel isEqualToString:@"speaker"]) {
+            mATAudioTapDescriptionPID = kATAudioTapDescriptionPIDSpeaker;
+        }
+
+        NSString *audioFilePath = [NSString stringWithUTF8String:argv[2]];
         CFURLRef fileURL =
             CFURLCreateWithFileSystemPath(kCFAllocatorDefault, (CFStringRef)audioFilePath, kCFURLPOSIXPathStyle, false);
 
