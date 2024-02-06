@@ -388,27 +388,31 @@ int main(int argc, const char *argv[]) {
         }
 
         {
-            struct sigaction act, oldact;
+            struct sigaction act = {{0}};
+            struct sigaction oldact = {{0}};
             act.sa_handler = &_SignalInterrupted;
             sigaction(SIGINT, &act, &oldact);
         }
 
         {
-            struct sigaction act, oldact;
+            struct sigaction act = {{0}};
+            struct sigaction oldact = {{0}};
             act.sa_handler = &_SignalStopped;
-            sigaction(SIGTSTP, &act, &oldact);
+            sigaction(SIGUSR1, &act, &oldact);
         }
 
         {
-            struct sigaction act, oldact;
+            struct sigaction act = {{0}};
+            struct sigaction oldact = {{0}};
             act.sa_handler = &_SignalResumed;
-            sigaction(SIGCONT, &act, &oldact);
+            sigaction(SIGUSR2, &act, &oldact);
         }
 
         printf("Playing > Press <Ctrl+C> to stop.\n");
 
         OSStatus timingStatus = noErr;
         NSTimeInterval lastReportedTimeInSeconds = 0.0;
+        NSTimeInterval currentTimeInSeconds = 0.0;
 
         while (mIsPlaying || mIsPaused) {
 
@@ -417,7 +421,7 @@ int main(int argc, const char *argv[]) {
             timingStatus = AudioQueueGetCurrentTime(mQueueRef, NULL, &mPlayedTime, NULL);
 
             if (timingStatus == noErr) {
-                NSTimeInterval currentTimeInSeconds = mPlayedTime.mSampleTime / mDataFormat.mSampleRate;
+                currentTimeInSeconds = mPlayedTime.mSampleTime / mDataFormat.mSampleRate;
 
                 if (currentTimeInSeconds - lastReportedTimeInSeconds > 1.0) {
                     lastReportedTimeInSeconds = currentTimeInSeconds;

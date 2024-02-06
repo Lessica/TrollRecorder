@@ -17,7 +17,9 @@ static AudioFileID mAudioFile = 0;
 static UInt32 mBufferByteSize = 0;
 static SInt64 mCurrentPacket = 0;
 static bool mIsRecording = false;
+static bool mIsPaused = false;
 static int mATAudioTapDescriptionPID = 0;
+static AudioTimeStamp mRecordedTime = {0};
 
 __used static void _RecorderCallback(void *ptr, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer,
                                      const AudioTimeStamp *timestamp, UInt32 inNumPackets,
@@ -84,7 +86,7 @@ __used static void _CalculateDerivedBufferSize(AudioQueueRef audioQueue, AudioSt
                                        &maxVBRPacketSize);
 
         if (status != noErr) {
-            NSLog(@"AudioQueueGetProperty (%d)", status);
+            // NSLog(@"AudioQueueGetProperty (%d)", status);
         }
     }
 
@@ -107,14 +109,14 @@ __used static OSStatus _RecorderSetup(CFURLRef fileURL) {
     UInt32 cookieSize = 0;
 
     Float64 sampleRate = 0;
-    UInt32 channel = 0;
+    UInt32 numberOfChannels = 0;
 
     sampleRate = 44100.0;
-    channel = 2;
+    numberOfChannels = (mATAudioTapDescriptionPID == kATAudioTapDescriptionPIDMicrophone ? 1 : 2);  // built-in mono microphone
 
     mDataFormat.mFormatID = kAudioFormatMPEG4AAC;
     mDataFormat.mSampleRate = sampleRate;
-    mDataFormat.mChannelsPerFrame = channel;
+    mDataFormat.mChannelsPerFrame = numberOfChannels;
 
     dataFormatSize = sizeof(mDataFormat);
 
@@ -157,6 +159,7 @@ __used static OSStatus _RecorderSetup(CFURLRef fileURL) {
         status = AudioQueueGetProperty(mQueueRef, kAudioQueueProperty_MagicCookie, magicCookie, &cookieSize);
         if (status == noErr) {
             status = AudioFileSetProperty(mAudioFile, kAudioFilePropertyMagicCookieData, cookieSize, magicCookie);
+
             if (status != noErr) {
                 NSLog(@"AudioFileSetProperty (%d)", status);
             }
@@ -166,7 +169,7 @@ __used static OSStatus _RecorderSetup(CFURLRef fileURL) {
 
         free(magicCookie);
     } else {
-        NSLog(@"AudioQueueGetPropertySize (%d)", status);
+        // NSLog(@"AudioQueueGetPropertySize (%d)", status);
     }
 
     // Ignore the error
@@ -222,12 +225,43 @@ __used static OSStatus _RecorderStart(void) {
         return status;
     }
 
+    mIsPaused = false;
     mIsRecording = true;
 
     return status;
 }
 
-__used static OSStatus _RecorderStop(bool stopImmediately) {
+__used static OSStatus _RecorderPause(void) {
+
+    if (!mIsRecording || mIsPaused) {
+        return noErr;
+    }
+
+    OSStatus status = noErr;
+    NSError *error = nil;
+    BOOL succeed = NO;
+
+    status = AudioQueuePause(mQueueRef);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueuePause (%d)", status);
+    }
+
+    mIsPaused = true;
+    mIsRecording = false;
+
+    succeed = [[AVAudioSession sharedInstance] setActive:NO
+                                             withOptions:AVAudioSessionSetActiveOptionNotifyOthersOnDeactivation
+                                                   error:&error];
+
+    if (!succeed) {
+        NSLog(@"- [AVAudioSession setActive:withOptions:error:] error = %@", error);
+    }
+
+    return status;
+}
+
+__used static OSStatus _RecorderStop(bool stopImmediately, bool deactivateSession) {
 
     if (!mIsRecording) {
         return noErr;
@@ -270,15 +304,18 @@ __used static OSStatus _RecorderStop(bool stopImmediately) {
     // Ignore the error
     status = noErr;
 
-    succeed = [[AVAudioSession sharedInstance] setActive:NO
+    if (deactivateSession) {
+        succeed = [[AVAudioSession sharedInstance] setActive:NO
                                              withOptions:AVAudioSessionSetActiveOptionNotifyOthersOnDeactivation
                                                    error:&error];
 
-    if (!succeed) {
-        NSLog(@"- [AVAudioSession setActive:withOptions:error:] error = %@", error);
+        if (!succeed) {
+            NSLog(@"- [AVAudioSession setActive:withOptions:error:] error = %@", error);
+        }
     }
 
     if (stopImmediately) {
+        mIsPaused = false;
         mIsRecording = false;
     }
 
@@ -304,14 +341,26 @@ __used static OSStatus _RecorderDispose(void) {
     return status;
 }
 
-__used static void _RecorderInterrupted(int signal) {
+__used static void _SignalInterrupted(int signal) {
 
-    NSLog(@"Interrupted by signal %d", signal);
-    _RecorderStop(false);
+    NSLog(@"Stopped by signal %d", signal);
+    _RecorderStop(false, false);
 
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(2.0 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
-      _RecorderStop(true);
+      _RecorderStop(true, true);
     });
+}
+
+__used static void _SignalStopped(int signal) {
+
+    NSLog(@"Paused by signal %d", signal);
+    _RecorderPause();
+}
+
+__used static void _SignalResumed(int signal) {
+
+    NSLog(@"Resumed by signal %d", signal);
+    _RecorderStart();
 }
 
 int main(int argc, const char *argv[]) {
@@ -328,6 +377,9 @@ int main(int argc, const char *argv[]) {
             mATAudioTapDescriptionPID = kATAudioTapDescriptionPIDMicrophone;
         } else if ([channel isEqualToString:@"speaker"]) {
             mATAudioTapDescriptionPID = kATAudioTapDescriptionPIDSpeaker;
+        } else {
+            printf("Invalid channel: %s\n", argv[1]);
+            return EXIT_FAILURE;
         }
 
         NSString *audioFilePath = [NSString stringWithUTF8String:argv[2]];
@@ -349,18 +401,50 @@ int main(int argc, const char *argv[]) {
         }
 
         {
-            struct sigaction act, oldact;
-            act.sa_handler = &_RecorderInterrupted;
+            struct sigaction act = {{0}};
+            struct sigaction oldact = {{0}};
+            act.sa_handler = &_SignalInterrupted;
             sigaction(SIGINT, &act, &oldact);
         }
 
-        printf("Recording... Press <Ctrl+C> to stop.\n");
-
-        while (mIsRecording) {
-            CFRunLoopRunInMode(kCFRunLoopDefaultMode, 1e-2, true);
+        {
+            struct sigaction act = {{0}};
+            struct sigaction oldact = {{0}};
+            act.sa_handler = &_SignalStopped;
+            sigaction(SIGUSR1, &act, &oldact);
         }
 
-        status = _RecorderStop(true);
+        {
+            struct sigaction act = {{0}};
+            struct sigaction oldact = {{0}};
+            act.sa_handler = &_SignalResumed;
+            sigaction(SIGUSR2, &act, &oldact);
+        }
+
+        printf("Recording > Press <Ctrl+C> to stop.\n");
+
+        OSStatus timingStatus = noErr;
+        NSTimeInterval lastReportedTimeInSeconds = 0.0;
+        NSTimeInterval currentTimeInSeconds = 0.0;
+
+        while (mIsRecording || mIsPaused) {
+            CFRunLoopRunInMode(kCFRunLoopDefaultMode, 1e-2, true);
+
+            timingStatus = AudioQueueGetCurrentTime(mQueueRef, NULL, &mRecordedTime, NULL);
+
+            if (timingStatus == noErr) {
+                currentTimeInSeconds = mRecordedTime.mSampleTime / mDataFormat.mSampleRate;
+
+                if (currentTimeInSeconds - lastReportedTimeInSeconds > 1.0) {
+                    lastReportedTimeInSeconds = currentTimeInSeconds;
+
+                    printf("Recording > %02d:%02d:%02d\n", (int)currentTimeInSeconds / 3600,
+                           (int)currentTimeInSeconds / 60 % 60, (int)currentTimeInSeconds % 60);
+                }
+            }
+        }
+
+        status = _RecorderStop(true, true);
         if (status != noErr) {
             NSLog(@"_RecorderStop (%d)", status);
             return EXIT_FAILURE;

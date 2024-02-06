@@ -5,5 +5,13 @@
   <!-- FIXME: We also need some private entitlements. -->
   <key>platform-application</key>
   <true/>
+  <key>com.apple.private.tcc.allow</key>
+  <array>
+    <string>kTCCServiceMicrophone</string>
+  </array>
+  <key>com.apple.private.tcc.manager.check-by-audit-token</key>
+  <array>
+    <string>kTCCServiceMicrophone</string>
+  </array>
 </dict>
 </plist>
