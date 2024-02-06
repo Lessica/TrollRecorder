@@ -1,0 +1,6 @@
+# clang-format
+BasedOnStyle: LLVM
+IndentWidth: 4
+AccessModifierOffset: -4
+ContinuationIndentWidth: 4
+ColumnLimit: 120

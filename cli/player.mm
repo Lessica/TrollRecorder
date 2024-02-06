@@ -15,6 +15,9 @@ static SInt64 mCurrentPacket = 0;
 static UInt32 mPacketsToRead = 0;
 static AudioStreamPacketDescription *mPacketDescs = NULL;
 static bool mIsPlaying = false;
+static bool mIsPaused = false;
+static Float64 mFileDuration = 0;
+static AudioTimeStamp mPlayedTime = {0};
 static Float32 mGain = 1.0f;
 
 __used static void _PlayerCallback(void *ptr, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer) {
@@ -65,6 +68,7 @@ __used static void _PlayerListenerCallback(void *user_data, AudioQueueRef queue,
     }
 
     NSLog(@"_PlayerListenerCallback: %d", res);
+
     if (status == noErr && res == 0) {
         mIsPlaying = false;
     }
@@ -99,6 +103,7 @@ __used static OSStatus _PlayerSetup(CFURLRef fileURL) {
     UInt32 dataFormatSize = 0;
     UInt32 maxPacketSize = 0;
     UInt32 propertySize = 0;
+    UInt64 nPackets = 0;
     UInt32 *magicCookie = NULL;
     UInt32 cookieSize = 0;
     bool isVBRFormat = false;
@@ -118,11 +123,20 @@ __used static OSStatus _PlayerSetup(CFURLRef fileURL) {
 
     if (status != noErr) {
         NSLog(@"AudioQueueNewOutput (%d)", status);
+        AudioFileClose(mAudioFile);
         return status;
     }
 
     propertySize = sizeof(maxPacketSize);
     status = AudioFileGetProperty(mAudioFile, kAudioFilePropertyPacketSizeUpperBound, &propertySize, &maxPacketSize);
+
+    if (status != noErr) {
+        NSLog(@"AudioFileGetProperty (%d)", status);
+        AudioFileClose(mAudioFile);
+        AudioQueueDispose(mQueueRef, true);
+        return status;
+    }
+
     _CalculatePlayerBufferSize(mDataFormat, maxPacketSize, 0.5, &mBufferByteSize, &mPacketsToRead);
 
     mCurrentPacket = 0;
@@ -134,6 +148,18 @@ __used static OSStatus _PlayerSetup(CFURLRef fileURL) {
     } else {
         mPacketDescs = NULL;
     }
+
+    propertySize = sizeof(nPackets);
+    status = AudioFileGetProperty(mAudioFile, kAudioFilePropertyAudioDataPacketCount, &propertySize, &nPackets);
+
+    if (status != noErr) {
+        NSLog(@"AudioFileGetProperty (%d)", status);
+        AudioFileClose(mAudioFile);
+        AudioQueueDispose(mQueueRef, true);
+        return status;
+    }
+
+    mFileDuration = (nPackets * mDataFormat.mFramesPerPacket) / mDataFormat.mSampleRate;
 
     cookieSize = sizeof(UInt32);
     status = AudioFileGetPropertyInfo(mAudioFile, kAudioFilePropertyMagicCookieData, &cookieSize, NULL);
@@ -206,14 +232,51 @@ __used static OSStatus _PlayerStart(void) {
         return -1;
     }
 
-    status = AudioQueueStart(mQueueRef, NULL);
+    status = AudioQueueStart(mQueueRef, mPlayedTime.mHostTime > 0 ? &mPlayedTime : NULL);
 
     if (status != noErr) {
         NSLog(@"AudioQueueStart (%d)", status);
         return status;
     }
 
+    mIsPaused = false;
     mIsPlaying = true;
+
+    return status;
+}
+
+__used static OSStatus _PlayerPause(void) {
+
+    if (!mIsPlaying || mIsPaused) {
+        return noErr;
+    }
+
+    OSStatus status = noErr;
+    NSError *error = nil;
+    BOOL succeed = NO;
+
+    status = AudioQueueGetCurrentTime(mQueueRef, NULL, &mPlayedTime, NULL);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueueGetCurrentTime (%d)", status);
+    }
+
+    status = AudioQueuePause(mQueueRef);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueuePause (%d)", status);
+    }
+
+    mIsPaused = true;
+    mIsPlaying = false;
+
+    succeed = [[AVAudioSession sharedInstance] setActive:NO
+                                             withOptions:AVAudioSessionSetActiveOptionNotifyOthersOnDeactivation
+                                                   error:&error];
+
+    if (!succeed) {
+        NSLog(@"- [AVAudioSession setActive:withOptions:error:] error = %@", error);
+    }
 
     return status;
 }
@@ -243,6 +306,7 @@ __used static OSStatus _PlayerStop(bool stopImmediately) {
     }
 
     if (stopImmediately) {
+        mIsPaused = false;
         mIsPlaying = false;
     }
 
@@ -274,8 +338,20 @@ __used static OSStatus _PlayerDispose(void) {
 
 __used static void _SignalInterrupted(int signal) {
 
-    NSLog(@"Interrupted by signal %d", signal);
+    NSLog(@"Stopped by signal %d", signal);
     _PlayerStop(true);
+}
+
+__used static void _SignalStopped(int signal) {
+
+    NSLog(@"Paused by signal %d", signal);
+    _PlayerPause();
+}
+
+__used static void _SignalResumed(int signal) {
+
+    NSLog(@"Resumed by signal %d", signal);
+    _PlayerStart();
 }
 
 int main(int argc, const char *argv[]) {
@@ -317,10 +393,40 @@ int main(int argc, const char *argv[]) {
             sigaction(SIGINT, &act, &oldact);
         }
 
-        printf("Playing... Press <Ctrl+C> to stop.\n");
+        {
+            struct sigaction act, oldact;
+            act.sa_handler = &_SignalStopped;
+            sigaction(SIGTSTP, &act, &oldact);
+        }
 
-        while (mIsPlaying) {
+        {
+            struct sigaction act, oldact;
+            act.sa_handler = &_SignalResumed;
+            sigaction(SIGCONT, &act, &oldact);
+        }
+
+        printf("Playing > Press <Ctrl+C> to stop.\n");
+
+        OSStatus timingStatus = noErr;
+        NSTimeInterval lastReportedTimeInSeconds = 0.0;
+
+        while (mIsPlaying || mIsPaused) {
+
             CFRunLoopRunInMode(kCFRunLoopDefaultMode, 1e-2, true);
+
+            timingStatus = AudioQueueGetCurrentTime(mQueueRef, NULL, &mPlayedTime, NULL);
+
+            if (timingStatus == noErr) {
+                NSTimeInterval currentTimeInSeconds = mPlayedTime.mSampleTime / mDataFormat.mSampleRate;
+
+                if (currentTimeInSeconds - lastReportedTimeInSeconds > 1.0) {
+                    lastReportedTimeInSeconds = currentTimeInSeconds;
+
+                    printf("Playing > %02d:%02d:%02d / %02d:%02d:%02d\n", (int)currentTimeInSeconds / 3600,
+                           (int)currentTimeInSeconds / 60 % 60, (int)currentTimeInSeconds % 60,
+                           (int)mFileDuration / 3600, (int)mFileDuration / 60 % 60, (int)mFileDuration % 60);
+                }
+            }
         }
 
         status = _PlayerStop(true);

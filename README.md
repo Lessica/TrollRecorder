@@ -4,11 +4,11 @@
 
 Partial codes are not open-sourced because they're contributed by my friends.
 
-## Features
+## Milestones
 
-- [x] Common recording
-- [x] Phone call recording
-- [ ] Launch via App or “Shortcuts”
+- [x] Playing & recording via command-line interface
+- [x] Phone call recording via command-line interface
+- [ ] Launch in background via App or “Shortcuts”
 - [ ] Status indicator with a global HUD
 - [ ] Records saved to “Voice Memos”
 
