@@ -5,6 +5,8 @@
   <!-- FIXME: We also need some private entitlements. -->
   <key>platform-application</key>
   <true/>
+  <key>com.apple.private.security.no-container</key>
+  <true/>
   <key>com.apple.private.tcc.allow</key>
   <array>
     <string>kTCCServiceMicrophone</string>
