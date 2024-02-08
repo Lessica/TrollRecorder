@@ -9,11 +9,11 @@ Partial codes are not open-sourced because they're contributed by my friends.
 - [x] Playing &amp; recording via command-line interface
 - [x] Pause &amp; resume via signals (`SIGUSR1` &amp; `SIGUSR2`)
 - [x] Phone call recording via command-line interface
-- [ ] Mix audio from both sides of a phone call
+- [x] Mix/combine stereo audio from both sides of a phone call
+- [ ] Elegant app by [@Lakr233](https://github.com/Lakr233)
 - [ ] Launch in background via App or “Shortcuts”
-- [ ] Status indicator with a global HUD
-- [ ] Records saved to “Voice Memos”
-- [ ] Use `SFSpeechRecognizer` to transcribe records
+- [ ] Status indicator and toolbar with a global HUD
+- [ ] Use `SFSpeechRecognizer` to transcribe records (Advanced features may need purchase)
 
 ## Special Thanks
 
