@@ -198,7 +198,7 @@ __used static OSStatus _RecorderStart(void) {
     OSStatus status = noErr;
 
     /* FIXME: We need some additional setup to avoid AVAudioSession activation here. */
-    /* I removed some codes shamefully stolen from AudioRecorderXS by @limneos... */
+    /* I removed some codes shamefully stolen from AudioRecorder XS by @limneos... */
     /* See _headers_ for further details. */
 
     succeed = [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayAndRecord

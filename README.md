@@ -2,7 +2,7 @@
 
 **WIP (Work-In-Progress)**: A simple audio recorder for TrollStore.
 
-Partial codes are not open-sourced because they're contributed by my friends.
+Partial codes in `audio-recorder` and `audio-mixer` are not open-sourced because they're provided by my friends.
 
 ## Milestones
 

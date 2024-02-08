@@ -1,9 +1,9 @@
 ARCHS := arm64  # arm64e
-INSTALL_TARGET_PROCESSES := audio-player audio-recorder
+INSTALL_TARGET_PROCESSES := audio-player audio-recorder audio-mixer
 
 include $(THEOS)/makefiles/common.mk
 
-TOOL_NAME := audio-player audio-recorder
+TOOL_NAME := audio-player audio-recorder audio-mixer
 
 audio-player_USE_MODULES := 0
 audio-player_FILES += cli/player.mm
@@ -30,6 +30,19 @@ audio-recorder_CODESIGN_FLAGS += --entitlements cli/recorder.plist $(TARGET_CODE
 endif
 audio-recorder_FRAMEWORKS += AudioToolbox AVFAudio
 audio-recorder_INSTALL_PATH += /usr/local/bin
+
+audio-mixer_USE_MODULES := 0
+audio-mixer_FILES += cli/mixer.mm
+audio-mixer_CFLAGS += -fobjc-arc
+audio-mixer_CFLAGS += -Iinclude
+audio-mixer_CCFLAGS += -std=gnu++17
+ifeq ($(TARGET_CODESIGN),ldid)
+audio-mixer_CODESIGN_FLAGS += -Scli/mixer.plist
+else
+audio-mixer_CODESIGN_FLAGS += --entitlements cli/mixer.plist $(TARGET_CODESIGN_FLAGS)
+endif
+audio-mixer_FRAMEWORKS += AudioToolbox AVFAudio
+audio-mixer_INSTALL_PATH += /usr/local/bin
 
 include $(THEOS_MAKE_PATH)/tool.mk
 

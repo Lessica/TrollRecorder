@@ -6,5 +6,7 @@
   <true/>
   <key>com.apple.private.security.no-container</key>
   <true/>
+  <key>com.apple.private.security.container-manager</key>
+  <true/>
 </dict>
 </plist>
