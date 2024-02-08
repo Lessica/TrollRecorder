@@ -10,6 +10,7 @@ Partial codes in `audio-recorder` and `audio-mixer` are not open-sourced because
 - [x] Pause &amp; resume via signals (`SIGUSR1` &amp; `SIGUSR2`)
 - [x] Phone call recording via command-line interface
 - [x] Mix/combine stereo audio from both sides of a phone call
+- [ ] Observe phone calls and trigger required actions
 - [ ] Elegant app by [@Lakr233](https://github.com/Lakr233)
 - [ ] Launch in background via App or “Shortcuts”
 - [ ] Status indicator and toolbar with a global HUD
