@@ -2,10 +2,11 @@
 #import <AudioToolbox/AudioToolbox.h>
 
 #define BUFFER_SIZE 8192
+static const Float64 kMaxSampleRate = 44100.0;
 
 static bool mIsCombinerMode = false;
 static Float64 mPreferredSampleRate = 0;
-static const Float64 kMaxSampleRate = 44100.0;
+static AudioFileTypeID mOutputAudioFileTypeID = kAudioFileWAVEType;
 
 __used static AVAudioFormat *_SetupStreamDescription(AudioStreamBasicDescription *audioFormatPtr, Float64 sampleRate,
                                                      UInt32 numChannels) {
@@ -39,6 +40,18 @@ int main(int argc, const char *argv[]) {
         NSString *audioPath1 = [NSString stringWithUTF8String:argv[1]];
         NSString *audioPath2 = [NSString stringWithUTF8String:argv[2]];
         NSString *outputPath = [NSString stringWithUTF8String:argv[3]];
+        NSString *outputExt = [[outputPath pathExtension] lowercaseString];
+
+        if ([outputExt isEqualToString:@"m4a"]) {
+            mOutputAudioFileTypeID = kAudioFileM4AType;
+        } else if ([outputExt isEqualToString:@"wav"]) {
+            mOutputAudioFileTypeID = kAudioFileWAVEType;
+        } else if ([outputExt isEqualToString:@"caf"]) {
+            mOutputAudioFileTypeID = kAudioFileCAFType;
+        } else {
+            NSLog(@"Unsupported output file type: %@", outputExt);
+            return EXIT_FAILURE;
+        }
 
         if (argc > 4) {
             mPreferredSampleRate = MIN([[NSString stringWithUTF8String:argv[4]] doubleValue], kMaxSampleRate);
@@ -103,7 +116,6 @@ int main(int argc, const char *argv[]) {
             }
 
             UInt32 outputNumberOfChannels = 2;
-            AudioFileTypeID outputAudioFileTypeID = kAudioFileM4AType;
             Float64 outputSampleRate =
                 mPreferredSampleRate > 0
                     ? mPreferredSampleRate
@@ -127,8 +139,11 @@ int main(int argc, const char *argv[]) {
                 break;
             }
 
+            AudioChannelLayout channelLayout = {0};
+            channelLayout.mChannelLayoutTag = kAudioChannelLayoutTag_Stereo;
+
             outputAudioFormat = _SetupStreamDescription(&outStreamDesc, outputSampleRate, outputNumberOfChannels);
-            err = ExtAudioFileCreateWithURL(outURL, outputAudioFileTypeID, &outStreamDesc, NULL,
+            err = ExtAudioFileCreateWithURL(outURL, mOutputAudioFileTypeID, &outStreamDesc, &channelLayout,
                                             kAudioFileFlags_EraseFile, &outputAudioFileRef);
 
             if (err != noErr) {
