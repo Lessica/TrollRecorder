@@ -20,6 +20,7 @@ Partial codes in `audio-recorder` and `audio-mixer` are not open-sourced because
 - Audio Mixer: [CallAssist](https://buy.htv123.com) by [@xybp888](https://github.com/xybp888)
 - Audio Tap Bypass: [AudioRecorder XS](https://limneos.net/audiorecorderxs/) by [@limneos](https://twitter.com/limneos)
 - [iOS Runtime Headers](https://developer.limneos.net/) by [@limneos](https://twitter.com/limneos)
+- [LearnAudioToolBox](https://github.com/liuxinxiaoyue/LearnAudioToolBox) by [@liuxinxiaoyue](https://github.com/liuxinxiaoyue)
 
 ## License
 
