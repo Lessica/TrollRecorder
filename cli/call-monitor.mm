@@ -1,7 +1,9 @@
 #import "CTCall.h"
 #import "CTSetting.h"
 #import "CTTelephonyCenter.h"
-#import <Foundation/Foundation.h>
+#import <CallKit/CXCall.h>
+#import <CallKit/CXCallController.h>
+#import <CallKit/CXCallObserver.h>
 
 static NSString *_CTCallStatusStringRepresentation(CTCallStatus status) {
     switch (status) {
@@ -14,9 +16,9 @@ static NSString *_CTCallStatusStringRepresentation(CTCallStatus status) {
     case kCTCallStatusOutgoingInitiated:
         return @"Outgoing Initiated";
     case kCTCallStatusIncomingCall:
-        return @"Incoming Call";
+        return @"Incoming";
     case kCTCallStatusIncomingCallEnded:
-        return @"Incoming Call Ended";
+        return @"Incoming Ended";
     default:
         return @"Unknown";
     }
@@ -38,7 +40,7 @@ static NSString *_CTCallTypeStringRepresentation(CTCallType type) {
 static void _TelephonyEventCallback(CFNotificationCenterRef center, void *observer, CFStringRef name,
                                     const void *object, CFDictionaryRef userInfo) {
 
-    NSLog(@"Telephony event name = %@", name);
+    NSLog(@"CoreTelephony event name = %@", name);
 
     if (CFStringCompare(name, kCTCallIdentificationChangeNotification, 0) == kCFCompareEqualTo ||
         CFStringCompare(name, kCTCallStatusChangeNotification, 0) == kCFCompareEqualTo) {
@@ -84,16 +86,62 @@ static void _TelephonyEventCallback(CFNotificationCenterRef center, void *observ
 
         if (callUniqueStringID)
             CFRelease(callUniqueStringID);
+
     } else {
         NSLog(@"  object = %@", object);
         NSLog(@"  userInfo = %@", userInfo);
     }
 }
 
+static NSString *_CXCallStatusStringRepresentation(CXCall *call) {
+    if (!call.outgoing && !call.onHold && !call.hasConnected && !call.hasEnded) {
+        return @"Incoming";
+    } else if (!call.outgoing && !call.onHold && !call.hasConnected && call.hasEnded) {
+        return @"Incoming Terminated";
+    } else if (!call.outgoing && !call.onHold && call.hasConnected && !call.hasEnded) {
+        return @"Incoming Answered";
+    } else if (!call.outgoing && !call.onHold && call.hasConnected && call.hasEnded) {
+        return @"Incoming Ended";
+    } else if (call.outgoing && !call.onHold && !call.hasConnected && !call.hasEnded) {
+        return @"Outgoing Initiated";
+    } else if (call.outgoing && !call.onHold && !call.hasConnected && call.hasEnded) {
+        return @"Outgoing Terminated";
+    } else if (call.outgoing && !call.onHold && call.hasConnected && !call.hasEnded) {
+        return @"Outgoing Answered";
+    } else if (call.outgoing && !call.onHold && call.hasConnected && call.hasEnded) {
+        return @"Outgoing Ended";
+    }
+    return @"Unknown";
+}
+
+@interface CXCallController (Private)
+- (void)setCallObserver:(CXCallObserver *)arg1;
+@end
+
+@interface CallMonitorCallObserverDelegate : NSObject <CXCallObserverDelegate>
+@end
+
+@implementation CallMonitorCallObserverDelegate
+
+- (void)callObserver:(CXCallObserver *)callObserver callChanged:(CXCall *)call {
+    NSLog(@"CallKit call changed");
+
+    NSLog(@"  Count = %lu", callObserver.calls.count);
+    NSLog(@"  IsTheOnlyCall = %@", callObserver.calls.count <= 1 ? @"YES" : @"NO");
+
+    NSLog(@"  Status = %@", _CXCallStatusStringRepresentation(call));
+    NSLog(@"  Type = %@", @"CallKit");
+
+    NSLog(@"  UniqueStringID = %@", call.UUID.UUIDString);
+}
+
+@end
+
 int main(int argc, const char *argv[]) {
 
     @autoreleasepool {
 
+        /* Register for CoreTelephony notifications */
         CTTelephonyCenterAddObserver(CTTelephonyCenterGetDefault(), NULL, _TelephonyEventCallback,
                                      kCTCallStatusChangeNotification, NULL,
                                      CFNotificationSuspensionBehaviorDeliverImmediately);
@@ -101,6 +149,11 @@ int main(int argc, const char *argv[]) {
         CTTelephonyCenterAddObserver(CTTelephonyCenterGetDefault(), NULL, _TelephonyEventCallback,
                                      kCTCallIdentificationChangeNotification, NULL,
                                      CFNotificationSuspensionBehaviorDeliverImmediately);
+
+        /* Register for CallKit notifications */
+        static CXCallController *mCallController = [[CXCallController alloc] initWithQueue:dispatch_get_main_queue()];
+        static CallMonitorCallObserverDelegate *mCallObserverDelegate = [CallMonitorCallObserverDelegate new];
+        [mCallController.callObserver setDelegate:mCallObserverDelegate queue:dispatch_get_main_queue()];
 
         CFRunLoopRun();
     }

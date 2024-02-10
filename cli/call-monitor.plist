@@ -8,20 +8,24 @@
   <true/>
   <key>com.apple.private.security.container-manager</key>
   <true/>
-	<key>com.apple.CommCenter.fine-grained</key>
-	<array>
-		<string>sms</string>
-		<string>spi</string>
-		<string>identity</string>
-		<string>bb-xpc</string>
-		<string>phone</string>
-	</array>
-	<key>com.apple.telephonyutilities.callservicesd</key>
-	<array>
-		<string>access-calls</string>
-		<string>modify-calls</string>
-		<string>access-call-providers</string>
-		<string>access-moments</string>
-	</array>
+  <key>com.apple.CommCenter.fine-grained</key>
+  <array>
+    <string>sms</string>
+    <string>spi</string>
+    <string>identity</string>
+    <string>bb-xpc</string>
+    <string>phone</string>
+  </array>
+  <key>com.apple.telephonyutilities.callservicesd</key>
+  <array>
+    <string>access-calls</string>
+    <string>modify-calls</string>
+    <string>modify-status-bar</string>
+    <string>access-call-capabilities</string>
+    <string>modify-call-capabilities</string>
+    <string>access-call-providers</string>
+    <string>access-moments</string>
+    <string>modify-moments</string>
+  </array>
 </dict>
 </plist>

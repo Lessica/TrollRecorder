@@ -46,7 +46,7 @@ call-monitor_CFLAGS += -fobjc-arc
 call-monitor_CFLAGS += -Iinclude
 call-monitor_CCFLAGS += -std=gnu++17
 call-monitor_CODESIGN_FLAGS += -Scli/call-monitor.plist
-call-monitor_FRAMEWORKS += Foundation CoreTelephony
+call-monitor_FRAMEWORKS += Foundation CallKit CoreTelephony
 call-monitor_INSTALL_PATH += /usr/local/bin
 
 include $(THEOS_MAKE_PATH)/tool.mk
