@@ -12,7 +12,7 @@ Partial codes in `audio-recorder` and `audio-mixer` are not open-sourced because
 - [x] Mix/combine stereo audio from both sides of a phone call
 - [x] Observe phone calls and trigger required actions
 - [x] Elegant app by [@Lakr233](https://github.com/Lakr233)
-- [ ] Launch in background via App or “Shortcuts”
+- [x] Launch in background via App or “Shortcuts”
 - [ ] Status indicator and toolbar with a global HUD
 - [ ] Use `SFSpeechRecognizer` to transcribe records (Advanced features may need purchase)
 
