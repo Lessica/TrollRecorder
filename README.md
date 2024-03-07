@@ -2,7 +2,7 @@
 
 A simple audio recorder for TrollStore.
 
-**Only the core codes and command line interfaces are open-sourced, in its binary format.**
+**Only the core codes and command line interfaces are open-sourced, they're distributed in its binary format.**
 
 ## Milestones
 
