@@ -1,8 +1,8 @@
-# TrollRecorder
+# TrollRecorder-CLI
 
-**WIP (Work-In-Progress)**: A simple audio recorder for TrollStore.
+A simple audio recorder for TrollStore.
 
-Partial codes in `audio-recorder` and `audio-mixer` are not open-sourced because they're provided by my friends.
+**Only the core codes and command line interfaces are open-sourced, in its binary format.**
 
 ## Milestones
 
@@ -14,7 +14,6 @@ Partial codes in `audio-recorder` and `audio-mixer` are not open-sourced because
 - [x] Elegant app by [@Lakr233](https://github.com/Lakr233)
 - [x] Launch in background via App or “Shortcuts”
 - [x] Status indicator and toolbar with a global HUD
-- [ ] Use `SFSpeechRecognizer` to transcribe records (Advanced features may need purchase)
 
 ## Special Thanks
 
@@ -25,4 +24,4 @@ Partial codes in `audio-recorder` and `audio-mixer` are not open-sourced because
 
 ## License
 
-TrollRecorder should be a [Free Software](https://www.gnu.org/philosophy/free-sw.html) licensed under the [GNU General Public License](LICENSE).
+TrollRecorder-CLI should be a [Free Software](https://www.gnu.org/philosophy/free-sw.html) licensed under the [GNU General Public License](LICENSE).
