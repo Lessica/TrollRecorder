@@ -1,10 +1,16 @@
-# TrollRecorder-CLI
+# TrollRecorder
 
-A simple audio recorder for TrollStore.
+The most advanced audio recorder with TrollStore.
 
-**Only the core codes and command line interfaces are open-sourced. The app is distributed in its binary format as a Troll Store package.**
+<img src='https://docs.havoc.app/img/badges/get_square.svg' ref='https://havoc.app/package/trollrecorder' width='150'>
+
+**Core features are free to use.** You can purchase a license to unlock advanced features. Paid licenses are valid for lifetime, and up to 10 devices. (According to Havoc, may change over time.)
 
 ![Screenshot](./res/screenshot.png)
+
+Recorder Core, **and only itself**, is open-sourced here. You can download the source code and compile it yourself.
+
+The app is not open-sourced.
 
 ## Milestones
 
