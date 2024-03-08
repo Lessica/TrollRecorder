@@ -2,7 +2,12 @@
 
 The most advanced audio recorder with TrollStore.
 
-![https://havoc.app/package/trollrecorder](https://docs.havoc.app/img/badges/get_square.svg | width=100)
+<a href="[url](https://havoc.app/package/trollrecorder)">
+    <img 
+        src="https://docs.havoc.app/img/badges/get_square.svg"
+        width="150"
+    />
+</a>
 
 **Core features are free to use.** You can purchase a license to unlock advanced features. Paid licenses are valid for lifetime, and up to 10 devices. (According to Havoc, may change over time.)
 
