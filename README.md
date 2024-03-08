@@ -2,7 +2,9 @@
 
 A simple audio recorder for TrollStore.
 
-**Only the core codes and command line interfaces are open-sourced, they're distributed in its binary format.**
+**Only the core codes and command line interfaces are open-sourced. The app is distributed in its binary format as a Troll Store package.**
+
+![Screenshot](./res/screenshot.png)
 
 ## Milestones
 
