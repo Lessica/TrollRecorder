@@ -32,6 +32,10 @@ The app is not open-sourced.
 - [iOS Runtime Headers](https://developer.limneos.net/) by [@limneos](https://twitter.com/limneos)
 - [LearnAudioToolBox](https://github.com/liuxinxiaoyue/LearnAudioToolBox) by [@liuxinxiaoyue](https://github.com/liuxinxiaoyue)
 
+## Special Thanks @ Translator
+
+- [Spanish](https://github.com/Lessica/TrollRecorder/issues/9) from [@Deci8BelioS](https://github.com/Deci8BelioS)
+
 ## License
 
 TrollRecorder-CLI should be a [Free Software](https://www.gnu.org/philosophy/free-sw.html) licensed under the [GNU General Public License](LICENSE).
