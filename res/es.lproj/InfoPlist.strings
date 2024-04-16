@@ -1,0 +1,25 @@
+"CFBundleDisplayName" = "TrollRecorder";
+
+"NSContactsUsageDescription" = "TrollRecorder necesita acceder a tus contactos para mostrar el nombre de tu amigo en lugar de su número de teléfono.";
+
+"NSFaceIDUsageDescription" = "TrollRecorder necesita acceder a Face ID para verificar tu identidad.";
+
+"NSLocalNetworkUsageDescription" = "TrollRecorder necesita acceso a tu red local para permitir compartir grabaciones con otros dispositivos.";
+
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder necesita acceder a tu ubicación para guardarla con tus grabaciones.";
+
+"NSLocationAlwaysUsageDescription" = "TrollRecorder necesita acceder a tu ubicación para guardarla con tus grabaciones.";
+
+"NSLocationTemporaryUsageDescriptionDictionary" = "TrollRecorder necesita acceder a tu ubicación para guardarla con tus grabaciones.";
+
+"NSLocationUsageDescription" = "TrollRecorder necesita acceder a tu ubicación para guardarla con tus grabaciones.";
+
+"NSLocationWhenInUseUsageDescription" = "TrollRecorder necesita acceder a tu ubicación para guardarla con tus grabaciones.";
+
+"NSMicrophoneUsageDescription" = "TrollRecorder necesita acceso a su micrófono para implementar las funciones de grabación más básicas.";
+
+"NSSpeechRecognitionUsageDescription" = "TrollRecorder requiere el uso de tecnología de reconocimiento de voz para producir una copia de texto de su grabación.";
+
+"Toggle Hoverball" = "Activar/Desactivar Hoverball";
+
+"Toggle Recording" = "Activar/Desactivar Grabación";
