@@ -1,35 +1,35 @@
-# Privacy Policy
+# Política de privacidad
 
-"TrollRecorder" is committed to safeguarding your privacy. This privacy policy outlines how we handle your personal information.
+"TrollRecorder" se compromete a salvaguardar su privacidad. Esta política de privacidad describe cómo manejamos su información personal.
 
-## Personal Data Handling
+## Tratamiento de datos personales
 
-"TrollRecorder" does not gather or upload any personal data. The sole exception is the purchase record, retrieved from your account, which is necessary to activate the paid features of the app. 
+"TrollRecorder" no recoge ni carga ningún dato personal. La única excepción es el registro de compra, recuperado de su cuenta, que es necesario para activar las funciones de pago de la aplicación.
 
-All permissions requested by the app serve to provide the service as needed by the app's functionality. All data processing occurs locally on your device and is not uploaded to our server.
+Todos los permisos solicitados por la aplicación sirven para proporcionar el servicio necesario para la funcionalidad de la aplicación. Todos los datos se procesan localmente en su dispositivo y no se cargan en nuestro servidor.
 
-## Cookies and Similar Technologies
+## Cookies y tecnologías similares
 
-We employ cookies or similar technologies to recognize your purchase record, facilitating the activation of paid features.
+Empleamos cookies o tecnologías similares para reconocer su registro de compra, facilitando la activación de funciones de pago.
 
-## Third Parties
+## Terceros
 
-Your personal information remains confidential, we do not share it with third parties.
+Su información personal permanece confidencial, no la compartimos con terceros.
 
-## Links to Other Websites
+## Enlaces a otros sitios web
 
-While we may include links in our app for your convenience and reference, we are not responsible for the privacy policies on these external sites. We advise you to be aware that these sites' privacy policies may differ from ours.
+Aunque podemos incluir enlaces en nuestra aplicación para su comodidad y referencia, no somos responsables de las políticas de privacidad de estos sitios externos. Le aconsejamos que tenga en cuenta que las políticas de privacidad de estos sitios pueden diferir de las nuestras.
 
-## Data Security
+## Seguridad de los datos
 
-We prioritize the security of your personal information. However, while we utilize commercially acceptable means to protect your personal information, please note that no method of electronic storage or internet transmission is entirely secure. We cannot guarantee absolute security, but we strive to provide the highest level of protection possible.
+Damos prioridad a la seguridad de su información personal. Sin embargo, aunque utilizamos medios comercialmente aceptables para proteger su información personal, tenga en cuenta que ningún método de almacenamiento electrónico o transmisión por Internet es totalmente seguro. No podemos garantizar una seguridad absoluta, pero nos esforzamos por ofrecer el mayor nivel de protección posible.
 
-## Changes to This Privacy Policy
+## Cambios en esta política de privacidad
 
-This Privacy Policy is effective as of 2024/2/29. We reserve the right to update or make changes to our Privacy Policy at any time. Any changes will take effect immediately after being posted on this page. 
+Esta Política de Privacidad es efectiva a partir del 2024/2/29. Nos reservamos el derecho de actualizar o realizar cambios en nuestra Política de Privacidad en cualquier momento. Cualquier cambio entrará en vigor inmediatamente después de su publicación en esta página.
 
-We recommend that you periodically review this Privacy Policy. If we make any significant changes to this Privacy Policy, we will notify you either through the email address you have provided to us or by posting a prominent notice on our app.
+Le recomendamos que revise periódicamente esta Política de Privacidad. Si realizamos algún cambio significativo en esta Política de Privacidad, se lo notificaremos a través de la dirección de correo electrónico que nos haya proporcionado o publicando un aviso destacado en nuestra aplicación.
 
-## Contact Us
+## Contacte con nosotros
 
-If you have any questions or concerns regarding this privacy policy, please contact us at [82flex@gmail.com](mailto:82flex@gmail.com).
+Si tiene alguna pregunta o duda sobre esta política de privacidad, póngase en contacto con nosotros en [82flex@gmail.com](mailto:82flex@gmail.com).
