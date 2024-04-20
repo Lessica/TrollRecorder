@@ -1,627 +1,624 @@
-# Software License
+# Licencia de Software
 
-## Special Thanks
+## Agradecimientos Especiales
 
-- Audio Mixer: [CallAssist](https://buy.htv123.com) by [@xybp888](https://github.com/xybp888)
-- Audio Tap Bypass: [AudioRecorder XS](https://limneos.net/audiorecorderxs/) by [@limneos](https://twitter.com/limneos)
-- [iOS Runtime Headers](https://developer.limneos.net/) by [@limneos](https://twitter.com/limneos)
-- [LearnAudioToolBox](https://github.com/liuxinxiaoyue/LearnAudioToolBox) by [@liuxinxiaoyue](https://github.com/liuxinxiaoyue)
+- Mezclador de Audio: [CallAssist](https://buy.htv123.com) por [@xybp888](https://github.com/xybp888)
+- Bypass de Captura de Audio: [AudioRecorder XS](https://limneos.net/audiorecorderxs/) por [@limneos](https://twitter.com/limneos)
+- [Cabeceras de Tiempo de Ejecución de iOS](https://developer.limneos.net/) por [@limneos](https://twitter.com/limneos)
+- [LearnAudioToolBox](https://github.com/liuxinxiaoyue/LearnAudioToolBox) por [@liuxinxiaoyue](https://github.com/liuxinxiaoyue)
 
 ## [ColorfulX](https://github.com/Lakr233/ColorfulX)
 
-MIT License
+Licencia MIT
 
-Copyright (c) 2023 Lakr Aream & Arthur
+Derechos de autor (c) 2023 Lakr Aream & Arthur
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se otorga permiso, de manera gratuita, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para tratar
+el Software sin restricciones, incluyendo sin limitación los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Software, y para permitir a las personas a quienes se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+La nota de derechos de autor anterior y este aviso de permiso se incluirán en todos
+los ejemplares o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
+AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS
+RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJAN DE,
+O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
 SOFTWARE.
 
 ## [SpringInterpolation](https://github.com/Lakr233/SpringInterpolation)
 
-MIT License
+Licencia MIT
 
-Copyright (c) 2023 Lakr Aream
+Derechos de autor (c) 2023 Lakr Aream
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se otorga permiso, de manera gratuita, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para tratar
+el Software sin restricciones, incluyendo sin limitación los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Software, y para permitir a las personas a quienes se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+La nota de derechos de autor anterior y este aviso de permiso se incluirán en todos
+los ejemplares o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
+AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS
+RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJAN DE,
+O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
 SOFTWARE.
 
 ## [TrollSpeed](https://github.com/Lessica/TrollSpeed)
 
-MIT License
+Licencia MIT
 
-Copyright (c) 2023-2024 Lessica <82flex@gmail.com>
+Derechos de autor (c) 2023-2024 Lessica <82flex@gmail.com>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se otorga permiso, de manera gratuita, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para tratar
+el Software sin restricciones, incluyendo sin limitación los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Software, y para permitir a las personas a quienes se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+La nota de derechos de autor anterior y este aviso de permiso se incluirán en todos
+los ejemplares o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
+AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS
+RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJAN DE,
+O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
 SOFTWARE.
 
 ## [Down](https://github.com/johnxnguyen/Down)
 
-The MIT License (MIT)
+Licencia MIT (MIT)
 
-Copyright (c) 2016 Rob Phillips.
+Derechos de autor (c) 2016 Rob Phillips.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se otorga permiso, de manera gratuita, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para tratar
+el Software sin restricciones, incluyendo sin limitación los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Software, y para permitir a las personas a quienes se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+La nota de derechos de autor anterior y este aviso de permiso se incluirán en
+todos los ejemplares o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
+AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS
+RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJAN DE,
+O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
+SOFTWARE.
 
 -----
 
 ### cmark
 
-Copyright (c) 2014, John MacFarlane
+Derechos de autor (c) 2014, John MacFarlane
 
-All rights reserved.
+Todos los derechos reservados.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+La redistribución y el uso en formas de código fuente y binarias, con o sin
+modificación, están permitidos siempre que se cumplan las siguientes condiciones:
 
-* Redistributions of source code must retain the above copyright
-  notice, this list of conditions and the following disclaimer.
+* Las redistribuciones del código fuente deben retener el aviso de derechos de autor anterior,
+  esta lista de condiciones y el siguiente descargo de responsabilidad.
 
-* Redistributions in binary form must reproduce the above
-  copyright notice, this list of conditions and the following
-  disclaimer in the documentation and/or other materials provided
-  with the distribution.
+* Las redistribuciones en forma binaria deben reproducir el aviso de derechos de autor anterior,
+  esta lista de condiciones y el siguiente descargo de responsabilidad en la documentación y/o otros materiales proporcionados
+  con la distribución.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ESTE SOFTWARE SE PROPORCIONA POR LOS TITULARES DE LOS DERECHOS DE AUTOR Y LOS COLABORADORES
+"TAL CUAL" Y CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS IMPLÍCITAS
+DE COMERCIABILIDAD Y APTITUD PARA UN PROPÓSITO PARTICULAR SON RECHAZADAS. EN NINGÚN CASO EL PROPIETARIO DE LOS DERECHOS DE AUTOR
+O LOS COLABORADORES SERÁN RESPONSABLES POR CUALQUIER DAÑO DIRECTO, INDIRECTO, INCIDENTAL,
+ESPECIAL, EJEMPLAR, O CONSECUENTE (INCLUYENDO, PERO NO LIMITADO A, LA ADQUISICIÓN
+DE BIENES O SERVICIOS SUSTITUTOS; PÉRDIDA DE USO, DATOS, O BENEFICIOS; O INTERRUPCIÓN DE NEGOCIOS) SIN EMBARGO CAUSADA Y SOBRE CUALQUIER
+TEORÍA DE RESPONSABILIDAD, YA SEA POR CONTRATO, RESPONSABILIDAD ESTRICTA, O AGRAVIO
+(INCLUYENDO NEGLIGENCIA O DE OTRA MANERA) QUE SURJA DE CUALQUIER MODO DEL USO
+DE ESTE SOFTWARE, AUN SI SE ADVIERTE DE LA POSIBILIDAD DE DICHO DAÑO.
 
 -----
 
 ### houdini.h, houdini_href_e.c, houdini_html_e.c, houdini_html_u.c, html_unescape.gperf, html_unescape.h
 
-derive from <https://github.com/vmg/houdini> (with some modifications)
+Derivados de <https://github.com/vmg/houdini> (con algunas modificaciones)
 
 Copyright (C) 2012 Vicent Martí
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
+Se otorga permiso, de manera gratuita, a cualquier persona que obtenga una copia de
+este software y los archivos de documentación asociados (el "Software"), para tratar
+el Software sin restricciones, incluyendo sin limitación los derechos de
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias
+del Software, y para permitir a las personas a quienes se les proporcione el Software hacerlo,
+sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todos
+los ejemplares o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+PROPIETARIO DE LOS DERECHOS DE AUTOR O LOS COLABORADORES SERÁN RESPONSABLES DE
+CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE
+CONTRATO, AGRAVIO O DE OTRO MODO, DERIVADAS DE, FUERA DE O EN RELACIÓN CON EL
+SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 
 -----
 
 ### buffer.h, buffer.c, chunk.h
 
-are derived from code (C) 2012 Github, Inc.
+Derivados del código (C) 2012 Github, Inc.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
+Se otorga permiso, de manera gratuita, a cualquier persona que obtenga una copia de
+este software y los archivos de documentación asociados (el "Software"), para tratar
+el Software sin restricciones, incluyendo sin limitación los derechos de
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias
+del Software, y para permitir a las personas a quienes se les proporcione el Software hacerlo,
+sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todos
+los ejemplares o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+PROPIETARIO DE LOS DERECHOS DE AUTOR O LOS COLABORADORES SERÁN RESPONSABLES DE
+CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE
+CONTRATO, AGRAVIO O DE OTRO MODO, DERIVADAS DE, FUERA DE O EN RELACIÓN CON EL
+SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 
 -----
 
-### utf8.c and utf8.c
+### utf8.c y utf8.c
 
-are derived from utf8proc
+Derivados de utf8proc
 (<http://www.public-software-group.org/utf8proc>),
-(C) 2009 Public Software Group e. V., Berlin, Germany.
+(C) 2009 Public Software Group e. V., Berlín, Alemania.
 
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the "Software"),
-to deal in the Software without restriction, including without limitation
-the rights to use, copy, modify, merge, publish, distribute, sublicense,
-and/or sell copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following conditions:
+Se otorga permiso, de manera gratuita, a cualquier persona que obtenga una
+copia de este software y los archivos de documentación asociados (el "Software"),
+para tratar el Software sin restricciones, incluyendo sin limitación los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar,
+y/o vender copias del Software, y para permitir a las personas a quienes el
+Software sea proporcionado hacerlo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso se incluirán en
+todas las copias o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
+AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN,
+DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO
+MOTIVO, DERIVADO DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS
+EN EL SOFTWARE.
 
 -----
 
-### The normalization code in runtests.py was derived from the markdowntest project, Copyright 2013 Karl Dubost:
+### El código de normalización en runtests.py se derivó del proyecto markdowntest, Copyright 2013 Karl Dubost:
 
-The MIT License (MIT)
+La Licencia MIT (MIT)
 
 Copyright (c) 2013 Karl Dubost
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga
+una copia de este software y los archivos de documentación asociados (el
+"Software"), para tratar en el Software sin restricciones, incluyendo
+sin limitación los derechos de usar, copiar, modificar, fusionar,
+publicar, distribuir, sublicenciar y/o vender copias del Software, y
+permitir a las personas a quienes se les proporcione el Software hacerlo,
+sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso deberán
+incluirse en todas las copias o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE
+COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN
+NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN
+RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA
+SEA EN UNA ACCIÓN DE CONTRATO, TORT O DE OTRO MODO, QUE SURJA DE, FUERA DE
+O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 
 -----
 
-### The CommonMark spec (test/spec.txt) is
+### La especificación CommonMark (test/spec.txt) es
 
 Copyright (C) 2014-15 John MacFarlane
 
-Released under the Creative Commons CC-BY-SA 4.0 license:
+Publicado bajo la licencia Creative Commons CC-BY-SA 4.0:
 <http://creativecommons.org/licenses/by-sa/4.0/>.
 
 -----
 
-### The test software in test/ is
+### El software de prueba en test/ es
 
 Copyright (c) 2014, John MacFarlane
 
-All rights reserved.
+Todos los derechos reservados.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Se permite la redistribución y el uso en forma fuente y binaria, con o sin
+modificaciones, siempre que se cumplan las siguientes condiciones:
 
-* Redistributions of source code must retain the above copyright
-  notice, this list of conditions and the following disclaimer.
+* Las redistribuciones del código fuente deben conservar los avisos de
+  derechos de autor mencionados arriba, esta lista de condiciones y el
+  siguiente descargo de responsabilidad.
+  
+* Las redistribuciones en forma binaria deben reproducir los avisos de
+  derechos de autor mencionados arriba, esta lista de condiciones y el
+  siguiente descargo de responsabilidad en la documentación y/o en otros
+  materiales proporcionados con la distribución.
 
-* Redistributions in binary form must reproduce the above
-  copyright notice, this list of conditions and the following
-  disclaimer in the documentation and/or other materials provided
-  with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ESTE SOFTWARE SE PROPORCIONA POR LOS TITULARES DE DERECHOS DE AUTOR Y
+COLABORADORES "TAL CUAL" Y CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA,
+INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS DE COMERCIABILIDAD E
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR SON RECHAZADAS. EN NINGÚN CASO LOS
+TITULARES DE DERECHOS DE AUTOR O LOS COLABORADORES SERÁN RESPONSABLES POR
+CUALQUIER DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O
+CONSECUENCIAL (INCLUYENDO, PERO NO LIMITADO A, LA ADQUISICIÓN DE BIENES O
+SERVICIOS SUSTITUTOS; LA PÉRDIDA DE USO, DE DATOS O DE BENEFICIOS; O
+INTERRUPCIÓN DEL NEGOCIO) CAUSADA Y EN CUALQUIER TEORÍA DE RESPONSABILIDAD,
+YA SEA POR CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUYENDO
+NEGLIGENCIA O DE OTRO MODO) QUE SURJA DE CUALQUIER MANERA DEL USO DE ESTE
+SOFTWARE, INCLUSO SI SE HA ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
 
 ## [DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage)
 
-The MIT License (MIT)
+La Licencia MIT (MIT)
 
 Copyright (c) 2013 Dennis Schmidt
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+Por la presente se otorga permiso, de forma gratuita, a cualquier persona que obtenga
+una copia de este software y archivos de documentación asociados (el "Software"), para tratar con
+el Software sin restricción, incluyendo sin limitación los derechos a
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender copias de
+el Software, y permitir a las personas a las que el Software está amueblado hacerlo,
+sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso deben incluirse en todos
+copias o porciones sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO,
+DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO,
+PROVENIENTE DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO
+OPERACIONES EN EL SOFTWARE.
 
 ## [PermissionsKit](https://github.com/sparrowcode/PermissionsKit)
 
-MIT License
+Licencia MIT
 
 Copyright (c) 2023 Sparrow Code
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y archivos de documentación asociados (el "Software"), para tratar
+con el Software sin restricción, incluyendo sin limitación los derechos a
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender
+copias del Software, y permitir a las personas a las que el Software está
+amueblado hacerlo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso deben incluirse en
+todas las copias o porciones sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO,
+DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO,
+PROVENIENTE DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO
+OPERACIONES EN EL SOFTWARE.
 
 ## [Pow](https://github.com/EmergeTools/Pow)
 
-MIT License
+Licencia MIT
 
 Copyright (c) 2023 Emerge Tools, Inc.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y archivos de documentación asociados (el "Software"), para tratar
+con el Software sin restricción, incluyendo sin limitación los derechos a
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender
+copias del Software, y permitir a las personas a las que el Software está
+amueblado hacerlo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso deben incluirse en
+todas las copias o porciones sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO,
+DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO,
+PROVENIENTE DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO
+OPERACIONES EN EL SOFTWARE.
 
 ## [SPIndicator](https://github.com/ivanvorobei/SPIndicator)
 
-MIT License
+Licencia MIT
 
 Copyright (c) 2021 Ivan Vorobei
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y archivos de documentación asociados (el "Software"), para tratar
+con el Software sin restricción, incluyendo sin limitación los derechos a
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender
+copias del Software, y permitir a las personas a las que el Software está
+amueblado hacerlo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso deben incluirse en
+todas las copias o porciones sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO,
+DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO,
+PROVENIENTE DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO
+OPERACIONES EN EL SOFTWARE.
 
 ## [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)
 
-MIT License
+Licencia MIT
 
 Copyright (c) 2015-2018 SwifterSwift (https://github.com/swifterswift)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y archivos de documentación asociados (el "Software"), para tratar
+con el Software sin restricción, incluyendo
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+ sin limitación los derechos a
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender
+copias del Software, y permitir a las personas a las que el Software está
+amueblado hacerlo, sujeto a las siguientes condiciones:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+El aviso de derechos de autor anterior y este aviso de permiso deben incluirse en
+todas las copias o porciones sustanciales del Software.
 
-## [libphonenumber](https://github.com/google/libphonenumber) and [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS)
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO,
+DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO,
+PROVENIENTE DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO
+OPERACIONES EN EL SOFTWARE.
 
-                                 Apache License
-                           Version 2.0, January 2004
+## [libphonenumber](https://github.com/google/libphonenumber) y [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS)
+
+                                 Licencia Apache
+                           Versión 2.0, Enero de 2004
                         http://www.apache.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   TÉRMINOS Y CONDICIONES PARA EL USO, REPRODUCCIÓN Y DISTRIBUCIÓN
 
-   1. Definitions.
+   1. Definiciones.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+      "Licencia" significará los términos y condiciones para el uso, reproducción
+      y distribución según se definen en las Secciones 1 a 9 de este documento.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+      "Licenciante" significará el propietario de los derechos de autor o la entidad autorizada por
+      el propietario de los derechos de autor que concede la Licencia.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+      "Entidad Legal" significará la unión de la entidad actuante y todas las demás
+      entidades que controlan, son controladas por o están bajo control común
+      con esa entidad. A los efectos de esta definición,
+      "control" significa (i) el poder, directo o indirecto, de causar la
+      dirección o gestión de dicha entidad, ya sea por contrato o
+      de otra manera, o (ii) la propiedad de cincuenta por ciento (50%) o más de
+      las acciones en circulación, o (iii) la propiedad beneficiosa de dicha entidad.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+      "Usted" (o "Su") significará una persona física o Entidad Legal
+      ejerciendo permisos otorgados por esta Licencia.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+      "Forma Fuente" significará la forma preferida para realizar modificaciones,
+      incluyendo pero no limitado a código fuente de software, documentación
+      fuente, y archivos de configuración.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+      "Forma Objeto" significará cualquier forma resultante de la
+      transformación mecánica o traducción de una forma Fuente, incluyendo pero
+      no limitado a código objeto compilado, documentación generada,
+      y conversiones a otros tipos de medios.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+      "Obra" significará la obra de autoría, ya sea en Forma Fuente o
+      Forma Objeto, puesta a disposición bajo la Licencia, como se indica por un
+      aviso de derechos de autor que está incluido o adjunto a la obra
+      (se proporciona un ejemplo en el Apéndice a continuación).
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+      "Obras Derivadas" significará cualquier obra, ya sea en Forma Fuente o Forma Objeto,
+      que se base en (o se derive de) la Obra y para la cual las
+      revisiones editoriales, anotaciones, elaboraciones u otras modificaciones
+      representan, en su totalidad, una obra original de autoría. A los efectos
+      de esta Licencia, las Obras Derivadas no incluirán obras que permanezcan
+      separables de, o simplemente enlacen (o se unan por nombre) a las interfaces de,
+      la Obra y las Obras Derivadas de esta.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+      "Contribución" significará cualquier obra de autoría, incluyendo
+      la versión original de la Obra y cualquier modificación o adición
+      a esa Obra o Obras Derivadas de esta, que sea intencionalmente
+      enviada al Licenciante para su inclusión en la Obra por el propietario de los derechos de autor
+      o por una persona física o Entidad Legal autorizada a enviar en nombre de
+      el propietario de los derechos de autor. A los efectos de esta definición, "enviado"
+      significa cualquier forma de comunicación electrónica, verbal o escrita enviada
+      al Licenciante o sus representantes, incluyendo pero no limitado a
+      comunicación en listas de correo electrónico electrónicas, sistemas de control de código fuente,
+      y sistemas de seguimiento de problemas que son gestionados por, o en nombre de, el
+      Licenciante con el fin de discutir y mejorar la Obra, pero
+      excluyendo la comunicación que esté claramente marcada o de otro modo
+      designada por escrito por el propietario de los derechos de autor como "No una Contribución."
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+      "Contribuyente" significará el Licenciante y cualquier persona física o Entidad Legal
+      en nombre de la cual se ha recibido una Contribución por parte del Licenciante y
+      posteriormente incorporada dentro de la Obra.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+   2. Concesión de licencia de derechos de autor. Sujeto a los términos y condiciones de
+      esta Licencia, cada Colaborador le concede a Usted una licencia perpetua,
+      mundial, no exclusiva, gratuita, libre de regalías, irrevocable
+      de derechos de autor para reproducir, preparar Trabajos Derivados de,
+      exhibir públicamente, ejecutar públicamente, sublicenciar y distribuir la
+      y distribuir la Obra y dichas Obras Derivadas en forma de Fuente u Objeto.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+   3. Concesión de Licencia de Patente. Sujeto a los términos y condiciones de
+      esta Licencia, cada Contribuyente otorga a Usted una perpetua,
+      mundial, no exclusiva, sin cargo, libre de regalías, irrevocable
+      (excepto según se establece en esta sección) licencia de patente para hacer, hacer hacer,
+      uso, ofrecer en venta, vender, importar y transferir de otra manera el Trabajo,
+      cuando dicha licencia se aplique únicamente a aquellas reclamaciones de patente licenciables
+      por dicho Contribuyente que sean necesariamente infringidas por su
+      Contribución(es) solo o por la combinación de su Contribución(es)
+      con el Trabajo al que se presentaron dichas Contribuciones. Si Usted
+      instituye litigios de patentes contra cualquier entidad (incluyendo una
+      contrademanda o contrademanda en una demanda) alegando que el Trabajo
+      o una Contribución incorporada dentro del Trabajo constituye directa
+      o contributivamente infracción de patente, entonces cualquier licencia de patente
+      otorgada a Usted bajo esta Licencia para ese Trabajo se terminará
+      a partir de la fecha en que se presente dicho litigio.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+   4. Redistribución. Usted puede reproducir y distribuir copias del
+      Trabajo o Obras Derivadas del mismo en cualquier medio, con o sin
+      modificaciones, y en Forma Fuente o Forma Objeto, siempre que Usted
+      cumpla con las siguientes condiciones:
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+      (a) Usted debe dar a cualquier otro receptor del Trabajo o
+          Obras Derivadas una copia de esta Licencia; y
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+      (b) Usted debe hacer que cualquier archivo modificado lleve avisos destacados
+          indicando que Usted ha cambiado los archivos; y
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+      (c) Usted debe conservar, en la Forma Fuente de cualquier Obras Derivadas
+          que Usted distribuya, todos los avisos de derechos de autor, patentes, marcas registradas y
+          atribución de la Forma Fuente del Trabajo,
+          excluyendo aquellos avisos que no se refieran a ninguna parte de
+          las Obras Derivadas; y
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+      (d) Si el Trabajo incluye un archivo de texto "AVISO" como parte de su
+          distribución, entonces cualquier Obras Derivadas que Usted distribuya debe
+          incluir una copia legible de los avisos de atribución contenidos
+          dentro de dicho archivo "AVISO", excluyendo aquellos avisos que no
+          se refieran a ninguna parte de las Obras Derivadas, en al menos uno
+          de los siguientes lugares: dentro de un archivo de texto "AVISO" distribuido
+          como parte de las Obras Derivadas; dentro de la Forma Fuente o
+          documentación, si se proporciona junto con las Obras Derivadas; o,
+          dentro de una pantalla generada por las Obras Derivadas, si y
+          dondequiera que dichos avisos de terceros aparezcan normalmente. El contenido
+          del archivo "AVISO" es solo para fines informativos y
+          no modifica la Licencia. Usted puede agregar sus propios avisos de atribución
+          dentro de las Obras Derivadas que Usted distribuya, junto
+          o como un apéndice al texto del AVISO del Trabajo, siempre que tal
+          avisos de atribución adicionales no puedan interpretarse como modificadores
+          de la Licencia.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+      Usted puede agregar su propia declaración de derechos de autor a Sus modificaciones y
+      puede proporcionar términos y condiciones de licencia adicionales o diferentes
+      para el uso, reproducción o distribución de Sus modificaciones, o
+      para cualquier Obras Derivadas como un todo, siempre que Su uso,
+      reproducción y distribución del Trabajo cumpla de otra manera con
+      las condiciones establecidas en esta Licencia.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+   5. Presentación de Contribuciones. A menos que Usted lo declare explícitamente de otra manera,
+      cualquier Contribución intencionalmente enviada para su inclusión en el Trabajo
+      por Usted al Licenciante se regirá por los términos y condiciones de
+      esta Licencia, sin términos o condiciones adicionales.
+      No obstante lo anterior, nada en este documento modificará o anulará
+      los términos de cualquier acuerdo de licencia separado que Usted pueda haber ejecutado
+      con el Licenciante con respecto a tales Contribuciones.
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+   6. Marcas registradas. Esta Licencia no otorga permiso para usar las marcas comerciales
+      nombres comerciales, marcas de servicio o nombres de productos del Licenciante,
+      excepto según sea necesario para un uso razonable y habitual en la descripción de la
+      origen del Trabajo y reproduciendo el contenido del archivo "AVISO".
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+   7. Renuncia de Garantía. A menos que lo exija la ley aplicable o
+      acordado por escrito, el Licenciante proporciona el Trabajo (y cada
+      Contribuyente proporciona sus Contribuciones) en una base "COMO ESTÁ",
+      SIN GARANTÍAS O CONDICIONES DE NINGÚN TIPO, ya sea expresa o
+      implícita, incluyendo, sin limitación, cualquier garantía o condición de
+      TÍTULO, NO INFRACCIÓN, COMERCIABILIDAD o APTITUD PARA UNA
+      PROPÓSITO PARTICULAR. Usted es el único responsable de determinar la
+      idoneidad de usar o redistribuir el Trabajo y asume cualquier
+      riesgos asociados con Su ejercicio de permisos bajo esta Licencia.
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+   8. Limitación de Responsabilidad. En ningún caso y bajo ninguna teoría legal,
+      ya sea en responsabilidad extracontractual (incluyendo negligencia), contrato o de otro modo,
+      a menos que lo exija la ley aplicable (como actos deliberados y extremadamente
+      negligentes) o acordado por escrito, ningún Contribuyente será
+      responsable ante Usted por daños, incluyendo cualquier directo, indirecto, especial,
+      incidental o consecuente daños de cualquier carácter que surjan como
+      resultado de esta Licencia o del uso o imposibilidad de usar el
+      Trabajo (incluyendo pero no limitado a daños por pérdida de buena voluntad,
+      paro de trabajo, falla o mal funcionamiento del ordenador, o cualquier y todo
+      otros daños o pérdidas comerciales), incluso si tal Contribuyente
+      ha sido informado de la posibilidad de tales daños.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+   9. Aceptación de Garantía o Responsabilidad Adicional. Al redistribuir
+      el Trabajo o Obras Derivadas del mismo, Usted puede optar por ofrecer,
+      y cobrar una tarifa por, aceptación de soporte, garantía, indemnización,
+      u otras obligaciones de responsabilidad y/o derechos consistentes con esta
+      Licencia. Sin embargo, al aceptar tales obligaciones, Usted puede actuar solo
+      en su propio nombre y bajo su única responsabilidad, no en nombre de
+      ningún otro Contribuyente, y solo si Usted acepta indemnizar,
+      defender y mantener a cada Contribuyente indemne de cualquier responsabilidad
+      incurrida por, o reclamaciones presentadas contra, tal Contribuyente por razón
+      de su aceptación de cualquier garantía o responsabilidad adicional.
 
-   END OF TERMS AND CONDITIONS
+   FIN DE TÉRMINOS Y CONDICIONES
 
 ## [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)
 
-The MIT License (MIT)
+Licencia MIT (MIT)
 
-Copyright (c) 2018 Roy Marmelstein
+Derechos de autor (c) 2018 Roy Marmelstein
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Por la presente se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para tratar
+en el Software sin restricción, incluidos, entre otros, los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender
+copias del Software, y para permitir a las personas a las que se les proporcione el Software
+hacerlo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso deben incluirse en todos
+copias o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+AUTOR O LOS TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA
+RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE,
+FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.
 
 ## [GCDWebServer](https://github.com/swisspol/GCDWebServer)
 
-Copyright (c) 2012-2014, Pierre-Olivier Latour
-All rights reserved.
+Derechos de autor (c) 2012-2014, Pierre-Olivier Latour
+Todos los derechos reservados.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright
-      notice, this list of conditions and the following disclaimer in the
-      documentation and/or other materials provided with the distribution.
-    * The name of Pierre-Olivier Latour may not be used to endorse
-      or promote products derived from this software without specific
-      prior written permission.
+Se permiten la redistribución y el uso en forma de código fuente y binario, con o sin
+modificación, siempre que se cumplan las siguientes condiciones:
+    * Las redistribuciones del código fuente deben conservar los derechos de autor anteriores
+      aviso, esta lista de condiciones y el siguiente descargo de responsabilidad.
+    * Las redistribuciones en forma binaria deben reproducir los derechos de autor anteriores
+      aviso, esta lista de condiciones y el siguiente descargo de responsabilidad en el
+      documentación y / o otros materiales proporcionados con la distribución.
+    * El nombre de Pierre-Olivier Latour no puede ser utilizado para respaldar
+      o promocionar productos derivados de este software sin especificar
+      permiso previo por escrito.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL PIERRE-OLIVIER LATOUR BE LIABLE FOR ANY
-DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ESTE SOFTWARE SE PROPORCIONA POR LOS TITULARES DE DERECHOS DE AUTOR Y COLABORADORES "COMO ESTÁ" Y
+CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, EL IMPLÍCITO
+GARANTÍAS DE COMERCIABILIDAD Y APTITUD PARA UN PROPÓSITO PARTICULAR SON
+RENUNCIADO. EN NINGÚN CASO EL PIERRE-OLIVIER LATOUR
+SERÁ RESPONSABLE POR CUALQUIER DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O
+CONSECUENTE (INCLUYENDO, PERO NO LIMITADO A, LA ADQUISICIÓN DE BIENES O SERVICIOS
+SUSTITUTOS; PÉRDIDA DE USO, DATOS O BENEFICIOS; O INTERRUPCIÓN DEL NEGOCIO) SIN EMBARGO
+CAUSADO Y SOBRE CUALQUIER TEORÍA DE RESPONSABILIDAD, YA SEA EN CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO
+(INCLUYENDO NEGLIGENCIA O DE OTRO MODO) QUE SURJA DE CUALQUIER MANERA DEL USO DEL SOFTWARE, INCLUSO SI SE
+ADVERTIDO DE LA POSIBILIDAD DE DICHO DAÑO.
