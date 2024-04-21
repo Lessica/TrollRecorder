@@ -182,4 +182,4 @@ The "TrollRecorder" software developer relies on the "TrollRecorder" software to
 2. The place of this Agreement is Jiangning District, Nanjing City, Jiangsu Province, People's Republic of China.
 3. If any dispute or controversy arises between you and the developer of the "TrollRecorder" software, it shall first be resolved through friendly negotiation; in the event that the negotiation fails, you agree to submit the dispute or controversy to the place where the Agreement is signed (i.e., Jiangning District of the People's Republic of China).
 
-Translated with DeepL.com (free version), for original copy of this EULA, please contact us. For differences between the original and the translated version, the original version shall prevail.
+**Translated with DeepL.com (free version), for original copy of this EULA, please contact us. For differences between the original and the translated version, the original version shall prevail.**

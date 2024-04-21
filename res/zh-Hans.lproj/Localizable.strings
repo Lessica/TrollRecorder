@@ -1012,6 +1012,9 @@
 /* No comment provided by engineer. */
 "Transition When Idle" = "闲置效果";
 
+/* To translators: Replace @AUTHOR_NAME with your name. */
+"Translated by @AUTHOR_NAME" = "由 @AUTHOR_NAME 翻译";
+
 "Troll Recorder" = "巨魔录音机";
 
 /* No comment provided by engineer. */
@@ -1156,6 +1159,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "你选择了密码验证。";
-
-/* To translators: Replace @AUTHOR_NAME with your name. */
-"Translated by @AUTHOR_NAME" = "由 @AUTHOR_NAME 翻译";

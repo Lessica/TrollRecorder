@@ -2,10 +2,15 @@
 
 ## Special Thanks
 
-- Audio Mixer: [CallAssist](https://buy.htv123.com) by [@xybp888](https://github.com/xybp888)
-- Audio Tap Bypass: [AudioRecorder XS](https://limneos.net/audiorecorderxs/) by [@limneos](https://twitter.com/limneos)
-- [iOS Runtime Headers](https://developer.limneos.net/) by [@limneos](https://twitter.com/limneos)
+- [AudioRecorder XS](https://limneos.net/audiorecorderxs/), [User Interface without SpringBoard](https://github.com/limneos/UIDaemon) and [iOS Runtime Headers](https://developer.limneos.net/) by [@limneos](https://twitter.com/limneos), one of my favourite developer.
+- [CallAssist](https://buy.htv123.com) by [@xybp888](https://github.com/xybp888)
 - [LearnAudioToolBox](https://github.com/liuxinxiaoyue/LearnAudioToolBox) by [@liuxinxiaoyue](https://github.com/liuxinxiaoyue)
+
+## Translators
+
+- Spanish by [@Deci8BelioS](https://github.com/Deci8BelioS)
+- French by [@DzMoha](https://twitter.com/contact_nadhir)
+- Traditional Chinese by [@CaslenZ](https://github.com/CaslenZ)
 
 ## [ColorfulX](https://github.com/Lakr233/ColorfulX)
 
@@ -212,7 +217,7 @@ DEALINGS IN THE SOFTWARE.
 
 -----
 
-### The normalization code in runtests.py was derived from the markdowntest project, Copyright 2013 Karl Dubost:
+### The normalization code in runtests.py was derived from the markdowntest project, Copyright 2013 Karl Dubost
 
 The MIT License (MIT)
 
