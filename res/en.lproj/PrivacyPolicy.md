@@ -33,3 +33,5 @@ We recommend that you periodically review this Privacy Policy. If we make any si
 ## Contact Us
 
 If you have any questions or concerns regarding this privacy policy, please contact us at [82flex@gmail.com](mailto:82flex@gmail.com).
+
+**Translated with DeepL.com (free version), for original copy of this privacy policy, please contact us. For differences between the original and the translated version, the original version shall prevail.**

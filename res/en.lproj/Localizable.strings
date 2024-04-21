@@ -1012,6 +1012,9 @@
 /* No comment provided by engineer. */
 "Transition When Idle" = "Transition When Idle";
 
+/* To translators: Replace @AUTHOR_NAME with your name. */
+"Translated by @AUTHOR_NAME" = "Translated by @AUTHOR_NAME";
+
 "Troll Recorder" = "Troll Recorder";
 
 /* No comment provided by engineer. */
@@ -1156,6 +1159,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "You’ve pressed password.";
-
-/* To translators: Replace @AUTHOR_NAME with your name. */
-"Translated by @AUTHOR_NAME" = "Translated by @AUTHOR_NAME";
