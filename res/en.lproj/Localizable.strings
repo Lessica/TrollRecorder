@@ -50,7 +50,7 @@
 "90 Days Ago" = "90 Days Ago";
 
 /* No comment provided by engineer. */
-"A new version of the app is available." = "A new version of the app is available.";
+"A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground.";
@@ -77,10 +77,16 @@
 "Agree" = "Agree";
 
 /* No comment provided by engineer. */
+"Allow Access To WeChat" = "Allow Access To WeChat";
+
+/* No comment provided by engineer. */
 "Allow Automatic Recording" = "Allow Automatic Recording";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Always Dark";
@@ -272,6 +278,9 @@
 "Copy Transcript" = "Copy Transcript";
 
 /* No comment provided by engineer. */
+"Create Archive" = "Create Archive";
+
+/* No comment provided by engineer. */
 "Created At" = "Created At";
 
 "deactivate" = "deactivate";
@@ -343,6 +352,9 @@
 
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Display the source bundle name of the recording.";
+
+/* No comment provided by engineer. */
+"Double-click the physical volume up button to start or stop recording during a call." = "Double-click the physical volume up button to start or stop recording during a call.";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duration Before Idle";
@@ -477,9 +489,6 @@
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here.";
 
 /* No comment provided by engineer. */
-"Ignore For 7 Days" = "Ignore For 7 Days";
-
-/* No comment provided by engineer. */
 "In 1 Hour" = "In 1 Hour";
 
 /* No comment provided by engineer. */
@@ -502,6 +511,9 @@
 
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format.";
+
+/* No comment provided by engineer. */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "Is Favourite";
@@ -613,6 +625,9 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "New Matching Pattern";
+
+/* No comment provided by engineer. */
+"New Version Available" = "New Version Available";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "No phone number found in selected contacts.";
@@ -732,6 +747,9 @@
 "Purchase" = "Purchase";
 
 /* No comment provided by engineer. */
+"Quick Recording" = "Quick Recording";
+
+/* No comment provided by engineer. */
 "Re-authenticate" = "Re-authenticate";
 
 /* No comment provided by engineer. */
@@ -846,6 +864,9 @@
 
 /* No comment provided by engineer. */
 "Show Contact Names" = "Show Contact Names";
+
+/* No comment provided by engineer. */
+"Show On Lock Screen" = "Show On Lock Screen";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Show Recording Duration";
@@ -998,8 +1019,6 @@
 
 "Toggle Recording" = "Toggle Recording";
 
-"Toggle Recording" = "Toggle Recording";
-
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
@@ -1045,13 +1064,10 @@
 "Unsupported Configuration" = "Unsupported Configuration";
 
 /* No comment provided by engineer. */
-"Update Available" = "Update Available";
-
-/* No comment provided by engineer. */
-"Update Now" = "Update Now";
-
-/* No comment provided by engineer. */
 "Updating…" = "Updating…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "Upgrade Now";
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Upgrade to %@";
@@ -1126,6 +1142,9 @@
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "We’ve got new phone call recordings!";
+
+/* No comment provided by engineer. */
+"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "When unlocked, the global hoverball is displayed even if you are not on the home screen.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Whether to force the application to use the light or the dark user interface.";

@@ -1,0 +1,1181 @@
+/* No comment provided by engineer. */
+"%@ Hz" = "%@ Hz";
+
+/* No comment provided by engineer. */
+"%@ is locked." = "%@ bị khóa.";
+
+/* No comment provided by engineer. */
+"%@ is not available." = "%@ không có sẵn.";
+
+/* No comment provided by engineer. */
+"%@ is not set up." = "%@ không được thiết lập.";
+
+/* No comment provided by engineer. */
+"%@ may not be configured" = "%@ có thể không được cấu hình";
+
+/* No comment provided by engineer. */
+"%d Exclusive Features" = "%d Các tính năng độc quyền";
+
+/* No comment provided by engineer. */
+"%d recordings" = "%d các bản ghi âm";
+
+/* No comment provided by engineer. */
+"%ld Recording" = "%ld Ghi";
+
+/* No comment provided by engineer. */
+"%ld Recording ◇ %@" = "%ld Ghi ◇ %@";
+
+/* No comment provided by engineer. */
+"%ld Recordings" = "%ld Các bản ghi âm";
+
+/* No comment provided by engineer. */
+"%ld Recordings ◇ %@" = "%ld Các bản ghi âm ◇ %@";
+
+/* No comment provided by engineer. */
+"3 Seconds" = "3 Giây";
+
+/* No comment provided by engineer. */
+"30 Days Ago" = "30 Ngày Trước";
+
+/* No comment provided by engineer. */
+"4 Seconds" = "4 Giây";
+
+/* No comment provided by engineer. */
+"5 Seconds" = "5 Giây";
+
+/* No comment provided by engineer. */
+"6 Seconds" = "6 Giây";
+
+/* No comment provided by engineer. */
+"90 Days Ago" = "90 Ngày Trước";
+
+/* TODO */
+"A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
+
+/* No comment provided by engineer. */
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Truy cập các bản ghi âm của bạn từ trình duyệt WebDAV từ một thiết bị khác trong mạng. Máy chủ chỉ hoạt động khi ứng dụng ở phía trước.";
+
+"activate" = "kích hoạt";
+
+"Activate the recorder hoverball." = "Kích hoạt bong bóng ghi âm.";
+
+"Add" = "Thêm";
+
+/* No comment provided by engineer. */
+"Additional Contact" = "Liên hệ bổ sung";
+
+/* No comment provided by engineer. */
+"Advanced Audio Coding" = "Mã hóa âm thanh nâng cao";
+
+/* No comment provided by engineer. */
+"Advanced Options" = "Các tùy chọn nâng cao";
+
+/* No comment provided by engineer. */
+"Advanced Search" = "Tìm kiếm nâng cao";
+
+/* No comment provided by engineer. */
+"Agree" = "Đồng ý";
+
+/* TODO */
+"Allow Access To WeChat" = "Allow Access To WeChat";
+
+/* No comment provided by engineer. */
+"Allow Automatic Recording" = "Cho phép ghi âm tự động";
+
+/* No comment provided by engineer. */
+"Allow Hoverball Wake-Ups" = "Cho phép bong bóng được bật";
+
+/* TODO */
+"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
+
+/* No comment provided by engineer. */
+"Always Dark" = "Luôn tối";
+
+/* No comment provided by engineer. */
+"Always Dynamic" = "Luôn năng động";
+
+/* No comment provided by engineer. */
+"Always keep the global hoverball window visible." = "Luôn giữ cho cửa sổ bong bóng được hiển thị mọi lúc";
+
+/* No comment provided by engineer. */
+"Always Light" = "Luôn sáng";
+
+/* No comment provided by engineer. */
+"Always On" = "Luôn bật";
+
+/* No comment provided by engineer. */
+"Analysing Audio" = "Phân tích âm thanh";
+
+/* No comment provided by engineer. */
+"Appearance" = "Vẻ bề ngoài";
+
+/* No comment provided by engineer. */
+"Apple’s Core Audio" = "Âm thanh cốt lõi của Apple";
+
+/* No comment provided by engineer. */
+"Application" = "Ứng dụng";
+
+/* No comment provided by engineer. */
+"Application Overrides" = "Ghi đè ứng dụng";
+
+/* No comment provided by engineer. */
+"Applications" = "Các ứng dụng";
+
+/* No comment provided by engineer. */
+"At the end of recording, the audio files of each channel during recording are retained." = "Vào cuối quá trình ghi âm, các tệp âm thanh của mỗi kênh trong quá trình ghi âm được giữ lại.";
+
+/* No comment provided by engineer. */
+"Audio Compression" = "Nén âm thanh";
+
+/* No comment provided by engineer. */
+"Authenticate with %@" = "Xác thực với %@";
+
+/* No comment provided by engineer. */
+"Automatic Recording" = "Ghi âm tự động";
+
+/* No comment provided by engineer. */
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "Tự động kích hoạt các dịch vụ nền khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình chính.";
+
+/* No comment provided by engineer. */
+"Automatically merge microphone and speaker into a single file after record complete." = "Tự động hợp nhất micrô và loa thành một tệp duy nhất sau khi ghi âm hoàn tất.";
+
+/* No comment provided by engineer. */
+"Automatically remove recordings created earlier than specified date except those marked ones." = "Tự động xóa các bản ghi được tạo sớm hơn ngày được chỉ định ngoại trừ những bản được đánh dấu.";
+
+/* No comment provided by engineer. */
+"Automatically removes cached data left behind when a recording fails at regular intervals." = "Tự động xóa dữ liệu được lưu trong bộ nhớ cache bị bỏ lại khi ghi âm không thành công trong khoảng thời gian đều đặn.";
+
+/* No comment provided by engineer. */
+"Automatically stop recording when the free disk space is extremely low." = "Tự động dừng ghi âm khi dung lượng ổ cứng trống cực kỳ thấp.";
+
+/* No comment provided by engineer. */
+"Available for Lifetime" = "Có sẵn vĩnh viễn";
+
+/* No comment provided by engineer. */
+"Avoid screen being locked automatically when WebDAV server is used by any client." = "Tránh màn hình bị khóa tự động khi máy chủ WebDAV được sử dụng bởi bất kỳ khách hàng nào.";
+
+/* No comment provided by engineer. */
+"Background Style" = "Phong cách nền";
+
+/* No comment provided by engineer. */
+"Batch Export" = "Xuất hàng loạt";
+
+/* No comment provided by engineer. */
+"Before starting a call recording, a prompt voice is played to the opposite end." = "Trước khi bắt đầu ghi âm cuộc gọi, một giọng nói nhắc nhở được phát ở đầu đối diện.";
+
+/* No comment provided by engineer. */
+"Best" = "Tốt nhất";
+
+/* No comment provided by engineer. */
+"Biometric Authentication" = "Xác thực sinh trắc học";
+
+/* No comment provided by engineer. */
+"Bonjour server started at: %@" = "Máy chủ Bonjour bắt đầu lúc: %@";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "Mã định danh gói";
+
+/* No comment provided by engineer. */
+"Bundle Name" = "Tên gói";
+
+/* No comment provided by engineer. */
+"Buy TrollRecorder Pro" = "Mua TrollRecorder Pro";
+
+/* No comment provided by engineer. */
+"Calculating…" = "Đang tính toán...";
+
+/* No comment provided by engineer. */
+"Call Recording" = "Ghi âm cuộc gọi";
+
+/* No comment provided by engineer. */
+"Call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi từ “%@” và %ld các ứng dụng khác";
+
+/* No comment provided by engineer. */
+"Call recording from “%@”." = "Ghi âm cuộc gọi từ “%@”.";
+
+/* No comment provided by engineer. */
+"Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Ghi âm cuộc gọi chỉ bắt đầu khi một cuộc gọi đi được trả lời hoặc một cuộc gọi đến được nhận.";
+
+/* No comment provided by engineer. */
+"Cancel" = "Huỷ";
+
+/* No comment provided by engineer. */
+"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Chọn định dạng âm thanh đầu ra cho bộ hoà âm. Định dạng Wave Audio không hỗ trợ mã hóa nâng cao.";
+
+/* No comment provided by engineer. */
+"Choose the output file format for the mixer." = "Chọn định dạng tệp đầu ra cho bộ hoà âm.";
+
+/* No comment provided by engineer. */
+"Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "Chọn tốc độ lấy mẫu của đầu ra của hòa âm. Thấp: 8 kHz, Thông thường: 22.05 kHz, Tốt nhất: 44.1 kHz.";
+
+/* No comment provided by engineer. */
+"Choose the size preset of the global hoverball." = "Chọn kích thước đặt trước của quả bóng bay mọi nơi.";
+
+/* No comment provided by engineer. */
+"Clean Caches Automatically" = "Tự động làm sạch bộ nhớ đệm";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "Lựa chọn rõ ràng";
+
+/* No comment provided by engineer. */
+"Combined" = "Kết hợp";
+
+/* No comment provided by engineer. */
+"Combined Mode" = "Chế độ kết hợp";
+
+/* No comment provided by engineer. */
+"Compress Recording" = "Ghi âm nén";
+
+/* No comment provided by engineer. */
+"Connected Clients: %d" = "Khách hàng được kết nối: %d";
+
+/* No comment provided by engineer. */
+"Contact Exceptions" = "Ngoại lệ liên hệ";
+
+/* No comment provided by engineer. */
+"Contact Us" = "Liên hệ với chúng tôi";
+
+/* No comment provided by engineer. */
+"Contact via Discord" = "Liên hệ qua Discord";
+
+/* No comment provided by engineer. */
+"Contact via Email" = "Liên hệ qua Email";
+
+/* No comment provided by engineer. */
+"Contact via QQ" = "Liên hệ qua QQ";
+
+/* No comment provided by engineer. */
+"Contacts" = "Liên hệ";
+
+/* No comment provided by engineer. */
+"Contacts in this list will not be recorded in any situation." = "Các liên hệ trong danh sách này sẽ không được ghi lại trong bất kỳ tình huống nào.";
+
+/* No comment provided by engineer. */
+"Continue" = "Tiếp tục";
+
+/* No comment provided by engineer. */
+"Convert Failed" = "Chuyển đổi không thành công";
+
+/* No comment provided by engineer. */
+"Convert Now" = "Chuyển đổi ngay bây giờ";
+
+/* No comment provided by engineer. */
+"Convert Succeed" = "Chuyển đổi thành công";
+
+/* No comment provided by engineer. */
+"Converting" = "Đang chuyển đổi";
+
+/* No comment provided by engineer. */
+"Copied" = "Đã sao chép";
+
+/* No comment provided by engineer. */
+"Copied Transcript" = "Lời thoại đã được sao chép";
+
+/* No comment provided by engineer. */
+"Copy Path" = "Sao chép đường dẫn";
+
+/* No comment provided by engineer. */
+"Copy Transcript" = "Sao chép lời thoại";
+
+/* TODO */
+"Create Archive" = "Create Archive";
+
+/* No comment provided by engineer. */
+"Created At" = "Được tạo ra tại";
+
+"deactivate" = "huỷ kích hoạt";
+
+/* No comment provided by engineer. */
+"Deactivate" = "Huỷ kích hoạt";
+
+/* No comment provided by engineer. */
+"Deactivate & Sign Out" = "Hủy kích hoạt & Đăng xuất";
+
+"Deactivate the recorder hoverball." = "Vô hiệu hóa bong bóng ghi âm.";
+
+/* No comment provided by engineer. */
+"Delete" = "Xoá";
+
+/* No comment provided by engineer. */
+"Delete Recording" = "Xóa bản ghi âm";
+
+/* No comment provided by engineer. */
+"Delete Selected %ld Items" = "Xóa %ld Mục Đã Chọn";
+
+/* No comment provided by engineer. */
+"Delete Selected Item" = "Xóa mục đã chọn";
+
+/* No comment provided by engineer. */
+"Direction" = "Hướng";
+
+/* No comment provided by engineer. */
+"Discard Recording" = "Bỏ ghi âm";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Sa thải";
+
+/* No comment provided by engineer. */
+"Display a notification banner and make some noise when recording ends." = "Hiển thị biểu ngữ thông báo và tạo ra một số tiếng chuông khi ghi âm kết thúc.";
+
+/* No comment provided by engineer. */
+"Display a notification banner and update the badge on the application icon when recording ends." = "Hiển thị biểu ngữ thông báo và cập nhật huy hiệu trên biểu tượng ứng dụng khi quá trình ghi âm kết thúc.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording ends." = "Hiển thị biểu ngữ thông báo khi ghi âm kết thúc.";
+
+/* No comment provided by engineer. */
+"Display the detail of recordings in the notification banner." = "Hiển thị chi tiết các bản ghi âm trong biểu ngữ thông báo.";
+
+/* No comment provided by engineer. */
+"Display the exact duration of the recorded audio." = "Hiển thị thời lượng chính xác của âm thanh được ghi lại.";
+
+/* No comment provided by engineer. */
+"Display the global hoverball during a call in the current application." = "Hiển thị bong bóng mọi nơi trong một cuộc gọi trong ứng dụng hiện tại.";
+
+/* No comment provided by engineer. */
+"Display the global hoverball during a call." = "Hiển thị bong bóng mọi nơi trong một cuộc gọi.";
+
+/* No comment provided by engineer. */
+"Display the global hoverball when both the audio inputs and outputs are continuously active." = "Hiển thị bong bóng mọi nơi khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
+
+/* No comment provided by engineer. */
+"Display the names of contacts in your address book instead of their phone numbers." = "Hiển thị tên của các liên hệ trong sổ địa chỉ của bạn thay vì số điện thoại của họ.";
+
+/* No comment provided by engineer. */
+"Display the path extension as the format of the recording." = "Hiển thị phần mở rộng đường dẫn dưới dạng định dạng của bản ghi.";
+
+/* No comment provided by engineer. */
+"Display the preview images of the audio waveform of short recordings." = "Hiển thị hình ảnh xem trước của dạng sóng âm thanh của các bản ghi âm ngắn.";
+
+/* No comment provided by engineer. */
+"Display the short name of the SIM card used for the recording if available." = "Hiển thị tên ngắn của thẻ SIM được sử dụng để ghi âm nếu có.";
+
+/* No comment provided by engineer. */
+"Display the source bundle name of the recording." = "Hiển thị tên gói nguồn của bản ghi.";
+
+/* No comment provided by engineer. */
+"Double-click the physical volume up button to start or stop recording during a call." = "Nhấp đúp vào nút tăng âm lượng vật lý để bắt đầu hoặc dừng ghi âm trong một cuộc gọi.";
+
+/* No comment provided by engineer. */
+"Duration Before Idle" = "Thời lượng trước khi nhàn rỗi";
+
+/* No comment provided by engineer. */
+"Dynamic Transition" = "Chuyển đổi năng động";
+
+/* No comment provided by engineer. */
+"E.U.L.A." = "E.U.L.A.";
+
+/* No comment provided by engineer. */
+"Enable %@" = "Cho phép %@";
+
+/* No comment provided by engineer. */
+"Enable WebDAV Server" = "Bật máy chủ WebDAV";
+
+/* No comment provided by engineer. */
+"Enabled" = "Đã kích hoạt";
+
+/* No comment provided by engineer. */
+"End Date" = "Ngày kết thúc";
+
+/* No comment provided by engineer. */
+"Enhanced Automatic Recording" = "Ghi âm tự động nâng cao";
+
+/* No comment provided by engineer. */
+"Enhanced Scene Identification" = "Nhận dạng cảnh nâng cao";
+
+/* No comment provided by engineer. */
+"Enter your password" = "Nhập mật khẩu của bạn";
+
+/* No comment provided by engineer. */
+"Error" = "Lỗi";
+
+"exit" = "thoát";
+
+"Exit Hoverball" = "Thoát bong bóng";
+
+/* No comment provided by engineer. */
+"Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";
+
+/* No comment provided by engineer. */
+"Export to Anywhere" = "Xuất đến mọi nơi";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
+
+/* No comment provided by engineer. */
+"FaceTime Exclude List" = "Danh sách loại trừ FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime VIP" = "FaceTime VIP";
+
+/* No comment provided by engineer. */
+"Failed to initialize speech recognizer using current locale “%@”." = "Không thể khởi tạo bộ nhận dạng giọng nói bằng cách sử dụng ngôn ngữ hiện tại “%@”.";
+
+/* No comment provided by engineer. */
+"Failed to play: %@" = "Không chạy được: %@";
+
+/* No comment provided by engineer. */
+"Failed to recover: %@" = "Không thể khôi phục: %@";
+
+/* No comment provided by engineer. */
+"Failed to remove %@" = "Không thể xóa %@";
+
+/* No comment provided by engineer. */
+"Faster Support" = "Hỗ trợ nhanh hơn";
+
+/* No comment provided by engineer. */
+"Features Unlocked" = "Các tính năng đã được mở khóa";
+
+/* No comment provided by engineer. */
+"File Size" = "Kích thước tập tin";
+
+/* No comment provided by engineer. */
+"Filza Not Installed" = "Filza Không Được Cài Đặt";
+
+/* No comment provided by engineer. */
+"Finalizing" = "Đang hoàn thiện";
+
+/* No comment provided by engineer. */
+"Fold to Screen Edge" = "Gấp đến cạnh màn hình";
+
+/* No comment provided by engineer. */
+"Follow System" = "Theo dõi hệ thống";
+
+/* No comment provided by engineer. */
+"Format" = "Định dạng";
+
+/* No comment provided by engineer. */
+"Frequently Asked Questions" = "Những câu hỏi thường gặp";
+
+/* No comment provided by engineer. */
+"From" = "Từ";
+
+/* No comment provided by engineer. */
+"From: %@" = "Từ: %@";
+
+/* No comment provided by engineer. */
+"Get advanced control when recording right in your call." = "Nhận điều khiển nâng cao khi ghi âm ngay trong cuộc gọi của bạn.";
+
+/* No comment provided by engineer. */
+"Get In Touch" = "Liên lạc";
+
+/* No comment provided by engineer. */
+"Get notifications after record complete." = "Nhận thông báo sau khi hoàn thành bản ghi.";
+
+/* No comment provided by engineer. */
+"Hide When Snapshot" = "Ẩn khi chụp ảnh màn hình";
+
+/* No comment provided by engineer. */
+"Hoverball" = "Bong bóng";
+
+/* No comment provided by engineer. */
+"Hoverball Plus" = "Bong bóng +";
+
+/* No comment provided by engineer. */
+"Hoverball Size" = "Kích thước bong bóng";
+
+/* No comment provided by engineer. */
+"Hoverball Style" = "Phong cách bong bóng";
+
+"hud" = "hud";
+
+/* No comment provided by engineer. */
+"I Agree to the E.U.L.A." = "Tôi đồng ý với E.U.L.A.";
+
+/* No comment provided by engineer. */
+"Idle" = "Nhàn rỗi";
+
+/* No comment provided by engineer. */
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Nếu điện thoại của bạn hỗ trợ thẻ SIM kép, bí danh thẻ SIM được sử dụng cho cuộc gọi được ghi lại sẽ được hiển thị ở đây.";
+
+/* No comment provided by engineer. */
+"In 1 Hour" = "Trong 1 Giờ";
+
+/* No comment provided by engineer. */
+"In 15 Minutes" = "Trong 15 Phút";
+
+/* No comment provided by engineer. */
+"Incoming" = "Đến";
+
+/* No comment provided by engineer. */
+"Incoming call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đến từ “%@” và các ứng dụng %ld khác.";
+
+/* No comment provided by engineer. */
+"Incoming call recording from “%@”." = "Ghi âm cuộc gọi đến từ “%@”.";
+
+/* No comment provided by engineer. */
+"Inconsistency Found" = "Tìm thấy sự không nhất quán";
+
+/* No comment provided by engineer. */
+"Install" = "Cài đặt";
+
+/* No comment provided by engineer. */
+"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Cài đặt hành động “Nén âm thanh” vào “Phím tắt”, sau đó chia sẻ bản ghi âm của bạn với hành động này để nén âm thanh của bạn sang định dạng AAC/AIFF.";
+
+/* TODO */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
+/* No comment provided by engineer. */
+"Is Favourite" = "Được yêu thích";
+
+/* No comment provided by engineer. */
+"Keep Screen On When Connected" = "Giữ Màn Hình Bật Khi Kết Nối";
+
+/* No comment provided by engineer. */
+"Larger" = "Lớn hơn";
+
+/* No comment provided by engineer. */
+"Later" = "Sau";
+
+/* No comment provided by engineer. */
+"Launch Application At End" = "Khởi chạy ứng dụng ở cuối";
+
+/* No comment provided by engineer. */
+"Launch When First Unlocked" = "Khởi chạy khi mở khóa lần đầu tiên";
+
+/* No comment provided by engineer. */
+"Link Device to Havoc" = "Liên kết thiết bị với Havoc";
+
+/* No comment provided by engineer. */
+"Loading…" = "Đang tải...";
+
+/* No comment provided by engineer. */
+"Local Storage" = "Lưu trữ cục bộ";
+
+/* No comment provided by engineer. */
+"Localized name of the provider application. That is, where this recording comes from." = "Tên bản địa hóa của ứng dụng nhà cung cấp. Đó là, bản ghi âm này đến từ đâu.";
+
+/* No comment provided by engineer. */
+"Location" = "Vị trí";
+
+/* No comment provided by engineer. */
+"Location Services" = "Dịch vụ định vị";
+
+/* No comment provided by engineer. */
+"Low" = "Thấp";
+
+/* No comment provided by engineer. */
+"Low Disk Space" = "Dung lượng đĩa thấp";
+
+/* No comment provided by engineer. */
+"Made with love by @Lessica & @Lakr233" = "Được làm bằng tình yêu bởi @Lessica & @Lakr233";
+
+/* No comment provided by engineer. */
+"Make the global hoverball invisible when taking screenshots or screen recordings." = "Làm cho bong bóng mọi nơi trở nên vô hình khi chụp ảnh màn hình hoặc ghi lại màn hình.";
+
+/* No comment provided by engineer. */
+"Make the global hoverball semi-transparent or folded when leave it for a while." = "Làm cho bong bóng trong suốt hoặc gấp lại khi để nó trong một thời gian.";
+
+/* No comment provided by engineer. */
+"Making a phone call to begin recording." = "Gọi điện thoại để bắt đầu ghi âm.";
+
+/* No comment provided by engineer. */
+"Mark" = "Đánh dấu";
+
+/* No comment provided by engineer. */
+"Maximum" = "Tối đa";
+
+/* No comment provided by engineer. */
+"Medium" = "Trung bình";
+
+/* No comment provided by engineer. */
+"Merged File" = "Tệp đã hợp nhất";
+
+/* No comment provided by engineer. */
+"Microphone" = "Micro";
+
+/* No comment provided by engineer. */
+"Microphone and speaker are recorded in different channels." = "Micrô và loa được ghi lại ở các kênh khác nhau.";
+
+/* No comment provided by engineer. */
+"Mixed" = "Được phối lại";
+
+/* No comment provided by engineer. */
+"Mixer & Combiner" = "Phối & Kết hợp";
+
+/* No comment provided by engineer. */
+"Mixer Audio Format" = "Phối định dạng âm thanh";
+
+/* No comment provided by engineer. */
+"Mixer File Format" = "Định dạng tập tin bản phối lại";
+
+/* No comment provided by engineer. */
+"Mixer Sample Rate" = "Tỷ lệ mẫu bản phối lại";
+
+/* No comment provided by engineer. */
+"Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "Di chuyển các bản ghi âm đã xóa vào một thư mục đặc biệt cho phép bạn khôi phục các mục đã xóa nếu bạn đổi ý hoặc nhận ra rằng bạn cần chúng sau này.";
+
+/* No comment provided by engineer. */
+"MPEG-4 Audio" = "Âm thanh MPEG-4";
+
+/* No comment provided by engineer. */
+"Multiple Devices" = "Nhiều thiết bị";
+
+/* No comment provided by engineer. */
+"My Favourites" = "Mục yêu thích của tôi";
+
+/* No comment provided by engineer. */
+"Needs all features?" = "Cần tất cả các tính năng?";
+
+/* No comment provided by engineer. */
+"Network Storage" = "Lưu trữ mạng";
+
+/* No comment provided by engineer. */
+"Never" = "Không bao giờ";
+
+/* No comment provided by engineer. */
+"New Matching Pattern" = "Mô hình kết hợp mới";
+
+/* TODO */
+"New Version Available" = "New Version Available";
+
+/* No comment provided by engineer. */
+"No phone number found in selected contacts." = "Không tìm thấy số điện thoại trong các liên hệ đã chọn.";
+
+/* No comment provided by engineer. */
+"No phone number or email address found in selected contacts." = "Không tìm thấy số điện thoại hoặc địa chỉ email trong các liên hệ được chọn.";
+
+/* No comment provided by engineer. */
+"No Recording" = "Không ghi âm";
+
+/* No comment provided by engineer. */
+"No speech detected." = "Không phát hiện lời nói nào.";
+
+/* No comment provided by engineer. */
+"No Transition" = "Không có sự chuyển đổi";
+
+/* No comment provided by engineer. */
+"None" = "Không";
+
+/* No comment provided by engineer. */
+"Nothing Imported" = "Không có gì được nhập vào";
+
+/* No comment provided by engineer. */
+"Notifications" = "Thông báo";
+
+/* No comment provided by engineer. */
+"OK" = "Được rồi";
+
+/* No comment provided by engineer. */
+"Oops!" = "Rất tiếc!";
+
+/* No comment provided by engineer. */
+"Open" = "Mở";
+
+"open" = "mở";
+
+"Open Hoverball" = "Mở bong bóng";
+
+/* No comment provided by engineer. */
+"Open In Filza" = "Mở Trong Filza";
+
+/* No comment provided by engineer. */
+"Open Recycle Bin" = "Mở thùng rác";
+
+"Open Troll Recorder" = "Mở Troll Recorder";
+
+/* No comment provided by engineer. */
+"Open “Filza File Manager” to view or recover your recordings." = "Mở “Trình quản lý tệp Filza” để xem hoặc khôi phục các bản ghi âm của bạn.";
+
+/* TODO */
+"Operation Timeout\nQuit this application and try again." = "Operation Timeout\nQuit this application and try again.";
+
+/* No comment provided by engineer. */
+"Optic ID" = "Optic ID";
+
+/* No comment provided by engineer. */
+"Outgoing" = "Đi ra";
+
+/* No comment provided by engineer. */
+"Outgoing call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đi từ “%@” và các ứng dụng %ld khác.";
+
+/* No comment provided by engineer. */
+"Outgoing call recording from “%@”." = "Ghi âm cuộc gọi đi từ “%@”.";
+
+/* No comment provided by engineer. */
+"Paused" = "Tạm dừng";
+
+/* No comment provided by engineer. */
+"Phone Address" = "Địa chỉ điện thoại";
+
+/* No comment provided by engineer. */
+"Phone Call Exclude List" = "Danh sách loại trừ cuộc gọi điện thoại";
+
+/* No comment provided by engineer. */
+"Phone Call VIP" = "Cuộc gọi điện thoại VIP";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Số điện thoại";
+
+/* No comment provided by engineer. */
+"Phone Number or Email Address" = "Số điện thoại hoặc địa chỉ email";
+
+/* No comment provided by engineer. */
+"Play Recording Warning" = "Phát Cảnh Báo Ghi Âm";
+
+/* No comment provided by engineer. */
+"Popover Control" = "Kiểm soát cửa sổ bật lên";
+
+/* No comment provided by engineer. */
+"Populate Location When App Starts" = "Điền vị trí khi ứng dụng bắt đầu";
+
+/* No comment provided by engineer. */
+"Popup Audible Banner At End" = "Biểu ngữ âm thanh bật lên ở cuối";
+
+/* No comment provided by engineer. */
+"Popup Banner & Badge At End" = "Biểu ngữ bật lên & Huy hiệu ở cuối";
+
+/* No comment provided by engineer. */
+"Popup Banner At End" = "Biểu ngữ bật lên ở cuối";
+
+/* No comment provided by engineer. */
+"Popup Banner With Detail" = "Biểu ngữ bật lên với chi tiết";
+
+/* No comment provided by engineer. */
+"Preserve All Channels" = "Bảo tồn tất cả các kênh";
+
+/* No comment provided by engineer. */
+"Preview Disabled" = "Xem trước bị vô hiệu hóa";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Chính sách bảo mật";
+
+/* No comment provided by engineer. */
+"Privacy Policy & User Agreements" = "Chính sách bảo mật & Thỏa thuận người dùng";
+
+/* No comment provided by engineer. */
+"Purchase" = "Mua";
+
+/* No comment provided by engineer. */
+"Quick Recording" = "Ghi âm nhanh";
+
+/* No comment provided by engineer. */
+"Re-authenticate" = "Xác thực lại";
+
+/* No comment provided by engineer. */
+"Reaching Daemon" = "Tiếp cận Daemon";
+
+/* No comment provided by engineer. */
+"Ready" = "Sẵn sàng";
+
+/* No comment provided by engineer. */
+"Record all incoming and outgoing calls automatically." = "Tự động ghi lại tất cả các cuộc gọi đến và đi.";
+
+/* No comment provided by engineer. */
+"Record Automatically" = "Ghi lại tự động";
+
+/* No comment provided by engineer. */
+"Record Only When Connected" = "Chỉ Ghi Lại Khi Được Kết Nối";
+
+/* No comment provided by engineer. */
+"Record with Location" = "Ghi lại với vị trí";
+
+"recording" = "ghi";
+
+/* No comment provided by engineer. */
+"Recording" = "Đang ghi";
+
+/* No comment provided by engineer. */
+"Recording starts when both the audio inputs and outputs are continuously active." = "Ghi âm bắt đầu khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
+
+/* No comment provided by engineer. */
+"Recording%@_%@" = "Đang ghi%@_%@";
+
+/* No comment provided by engineer. */
+"Recordings" = "Bản ghi âm";
+
+/* No comment provided by engineer. */
+"Recover Files" = "Khôi phục các tập tin";
+
+/* No comment provided by engineer. */
+"Regular" = "Thường xuyên";
+
+/* No comment provided by engineer. */
+"Reinstall %@" = "Cài đặt lại %@";
+
+/* No comment provided by engineer. */
+"Remove Outdated Recordings" = "Xóa bản ghi lỗi thời";
+
+/* No comment provided by engineer. */
+"Rename" = "Đổi tên";
+
+/* No comment provided by engineer. */
+"Respring" = "Respring";
+
+/* No comment provided by engineer. */
+"Reverse Selection" = "Lựa chọn ngược";
+
+/* No comment provided by engineer. */
+"Sample Rate" = "Tỷ lệ mẫu";
+
+/* No comment provided by engineer. */
+"Scene Identification" = "Nhận dạng cảnh";
+
+/* No comment provided by engineer. */
+"Search" = "Tìm kiếm";
+
+/* No comment provided by engineer. */
+"Search Apps…" = "Tìm kiếm ứng dụng...";
+
+/* No comment provided by engineer. */
+"Search Contacts…" = "Tìm kiếm danh bạ...";
+
+/* No comment provided by engineer. */
+"Search in depth with all available information saved when recording such as contact info or locations." = "Tìm kiếm chuyên sâu với tất cả thông tin có sẵn được lưu khi ghi lại như thông tin liên hệ hoặc vị trí.";
+
+/* No comment provided by engineer. */
+"Search Recordings…" = "Tìm kiếm các bản ghi âm...";
+
+/* No comment provided by engineer. */
+"Secure Payment" = "Thanh toán an toàn";
+
+/* No comment provided by engineer. */
+"Select" = "Lựa chọn";
+
+/* No comment provided by engineer. */
+"Select a recording to play." = "Chọn một bản ghi âm để phát.";
+
+/* No comment provided by engineer. */
+"Select All" = "Chọn tất cả";
+
+/* No comment provided by engineer. */
+"Semi-Transparent" = "Bán trong suốt";
+
+/* No comment provided by engineer. */
+"Separated Channels" = "Các kênh riêng biệt";
+
+/* No comment provided by engineer. */
+"Server started at: %@" = "Máy chủ bắt đầu lúc: %@";
+
+/* No comment provided by engineer. */
+"Set a new name for this recording, or leave blank to use default." = "Đặt tên mới cho bản ghi này hoặc để trống để sử dụng mặc định.";
+
+/* No comment provided by engineer. */
+"Settings" = "Cài đặt";
+
+/* No comment provided by engineer. */
+"Setup Failed" = "Thiết lập không thành công";
+
+/* No comment provided by engineer. */
+"Share" = "Chia sẻ";
+
+/* No comment provided by engineer. */
+"Show Bundle Name" = "Hiển thị tên gói";
+
+/* No comment provided by engineer. */
+"Show Contact Names" = "Hiển thị tên liên hệ";
+
+/* No comment provided by engineer. */
+"Show On Lock Screen" = "Hiển thị trên màn hình khóa";
+
+/* No comment provided by engineer. */
+"Show Recording Duration" = "Hiển thị thời lượng ghi âm";
+
+/* No comment provided by engineer. */
+"Show Recording Format" = "Hiển thị định dạng ghi âm";
+
+/* No comment provided by engineer. */
+"Show SIM Card Alias" = "Hiển thị bí danh thẻ SIM";
+
+/* No comment provided by engineer. */
+"Show Waveform Previews" = "Hiển thị bản xem trước dạng sóng";
+
+/* No comment provided by engineer. */
+"SIM Card Alias" = "Bí danh thẻ SIM";
+
+/* No comment provided by engineer. */
+"Smaller" = "Nhỏ hơn";
+
+/* No comment provided by engineer. */
+"Software License" = "Giấy phép phần mềm";
+
+/* No comment provided by engineer. */
+"Speaker" = "Người nói";
+
+"start" = "bắt đầu";
+
+"Start a new call recoring, or stop an existing one." = "Bắt đầu ghi âm cuộc gọi mới hoặc dừng cuộc gọi hiện có.";
+
+/* No comment provided by engineer. */
+"Start Call Recording" = "Bắt đầu ghi âm cuộc gọi";
+
+/* No comment provided by engineer. */
+"Start Date" = "Ngày bắt đầu";
+
+"Start or prepare a new call recording manually." = "Bắt đầu hoặc chuẩn bị ghi âm cuộc gọi mới theo cách thủ công.";
+
+"Start Recording" = "Bắt đầu ghi âm";
+
+"stop" = "dừng lại";
+
+/* No comment provided by engineer. */
+"Stop & Reset Service" = "Dừng & Đặt lại Dịch vụ";
+
+/* No comment provided by engineer. */
+"Stop & Save" = "Dừng lại & Lưu";
+
+"Stop a call recording session if exists." = "Dừng phiên ghi âm cuộc gọi nếu có.";
+
+"Stop Recording" = "Dừng Ghi Âm";
+
+/* No comment provided by engineer. */
+"Stop Recording When Disk Exhausted" = "Dừng Ghi Âm Khi Đĩa Hết";
+
+/* No comment provided by engineer. */
+"Stop Service" = "Dừng dịch vụ";
+
+/* No comment provided by engineer. */
+"System Applications" = "Ứng dụng hệ thống";
+
+/* No comment provided by engineer. */
+"System Audio" = "Hệ thống âm thanh";
+
+/* No comment provided by engineer. */
+"Tap to Exit" = "Nhấn để thoát";
+
+/* No comment provided by engineer. */
+"Temporary Ignore" = "Tạm thời bỏ qua";
+
+/* No comment provided by engineer. */
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Thiết lập ứng dụng đã gặp lỗi không xác định, Launch Daemon không phản hồi yêu cầu của chúng tôi. Chúng tôi đang cố gắng kết nối lại, vui lòng đợi. Nếu sự cố vẫn tiếp diễn, bạn có thể thử cài đặt lại ứng dụng.";
+
+/* No comment provided by engineer. */
+"The application will launch automatically when recording ends." = "Ứng dụng sẽ tự động khởi chạy khi ghi âm kết thúc.";
+
+/* No comment provided by engineer. */
+"The date and time when the audio was created." = "Ngày và giờ khi âm thanh được tạo ra.";
+
+/* No comment provided by engineer. */
+"The device will vibrate when recording ends." = "Thiết bị sẽ rung khi ghi âm kết thúc.";
+
+/* No comment provided by engineer. */
+"The device will vibrate when recording starts." = "Thiết bị sẽ rung khi bắt đầu ghi âm.";
+
+/* No comment provided by engineer. */
+"The device will vibrate with special haptic patterns when recording starts and ends." = "Thiết bị sẽ rung với các mẫu xúc giác đặc biệt khi bắt đầu và kết thúc ghi âm.";
+
+/* No comment provided by engineer. */
+"The direction of the call. May not available for all audio files." = "Hướng của cuộc gọi. Có thể không có sẵn cho tất cả các tệp âm thanh.";
+
+/* No comment provided by engineer. */
+"The file format of the selected audio file." = "Định dạng tệp của tệp âm thanh đã chọn.";
+
+/* No comment provided by engineer. */
+"The location metadata will be continuously updated while the recording is in progress." = "Siêu dữ liệu vị trí sẽ được cập nhật liên tục trong khi quá trình ghi đang diễn ra.";
+
+/* No comment provided by engineer. */
+"The location where the recording was recorded." = "Vị trí nơi ghi âm được ghi lại.";
+
+/* No comment provided by engineer. */
+"The missing location metadata will be populated if you open the application right after the recording." = "Siêu dữ liệu vị trí bị thiếu sẽ được điền nếu bạn mở ứng dụng ngay sau khi ghi.";
+
+/* No comment provided by engineer. */
+"The number of samples per second, higher sample rate means better audio quality with larger file size." = "Số lượng mẫu mỗi giây, tốc độ mẫu cao hơn có nghĩa là chất lượng âm thanh tốt hơn với kích thước tệp lớn hơn.";
+
+/* No comment provided by engineer. */
+"The phone number. Third party application or CallKit calls may not have this value." = "Số điện thoại. Ứng dụng của bên thứ ba hoặc các cuộc gọi CallKit có thể không có giá trị này.";
+
+/* No comment provided by engineer. */
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Chế độ xử lý bài đăng sẽ được sử dụng. Chế độ kết hợp sẽ nhét âm thanh loa âm thanh nổi vào kênh bên trái, với micrô ở kênh bên phải. Chế độ hỗn hợp sẽ sao chép kênh micrô sang âm thanh nổi và trộn nó với các kênh loa.";
+
+/* No comment provided by engineer. */
+"The size of selected audio file." = "Kích thước của tệp âm thanh đã chọn.";
+
+/* No comment provided by engineer. */
+"The time interval before the global hoverball becomes idle." = "Khoảng thời gian trước khi bong bóng mọi nơi trở nên nhàn rỗi.";
+
+/* No comment provided by engineer. */
+"The unique identifier of the provider application." = "Mã định danh duy nhất của ứng dụng nhà cung cấp.";
+
+/* No comment provided by engineer. */
+"There is nothing but air." = "Không có gì ngoài không khí.";
+
+/* No comment provided by engineer. */
+"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "Vẫn có nguy cơ dịch vụ nền sẽ không thể chuyển đổi tệp ghi ngay sau khi nó đã được ghi lại. May mắn thay, bây giờ bạn có thể hoàn thành bước cuối cùng này!";
+
+/* No comment provided by engineer. */
+"There was a problem verifying your identity." = "Đã xảy ra sự cố khi xác minh danh tính của bạn.";
+
+/* No comment provided by engineer. */
+"This feature requires a paid subscription. Please upgrade to use this feature." = "Tính năng này yêu cầu đăng ký trả phí. Vui lòng nâng cấp để sử dụng tính năng này.";
+
+/* No comment provided by engineer. */
+"This field accept phone number for matching contact." = "Trường này chấp nhận số điện thoại để liên hệ phù hợp.";
+
+/* No comment provided by engineer. */
+"This field accept phone number or an email address for matching contact." = "Trường này chấp nhận số điện thoại hoặc địa chỉ email để liên hệ phù hợp.";
+
+/* No comment provided by engineer. */
+"To" = "Đến";
+
+/* No comment provided by engineer. */
+"To: %@" = "Đến: %@";
+
+"toggle" = "bật/tắt";
+
+"Toggle Hoverball" = "Bật/Tắt bong bóng";
+
+"Toggle ON/OFF the recorder hoverball." = "Bật/Tắt bong bóng của máy ghi âm.";
+
+"Toggle Recording" = "Bật tắt ghi âm";
+
+/* No comment provided by engineer. */
+"Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"Track Location Updates" = "Theo dõi cập nhật vị trí";
+
+/* No comment provided by engineer. */
+"Transcript" = "Lời thoại";
+
+/* No comment provided by engineer. */
+"Transition When Idle" = "Chuyển đổi khi nhàn rỗi";
+
+/* To translators: Replace @AUTHOR_NAME with your name. */
+"Translated by @AUTHOR_NAME" = "Được dịch bởi @2311WithLuv";
+
+"Troll Recorder" = "Troll Recorder";
+
+/* No comment provided by engineer. */
+"TrollRecorder" = "TrollRecorder";
+
+/* No comment provided by engineer. */
+"Turn this option off to make the other options on this page take effect for the current application." = "Tắt tùy chọn này để làm cho các tùy chọn khác trên trang này có hiệu lực đối với ứng dụng hiện tại.";
+
+/* No comment provided by engineer. */
+"Uncompressed" = "Không nén";
+
+/* No comment provided by engineer. */
+"Unknown" = "Không xác định";
+
+/* No comment provided by engineer. */
+"Unknown Error" = "Lỗi không xác định";
+
+/* No comment provided by engineer. */
+"Unknown Place" = "Địa điểm không xác định";
+
+/* No comment provided by engineer. */
+"Unknown Provider" = "Nhà cung cấp không xác định";
+
+/* No comment provided by engineer. */
+"Unmark" = "Bỏ đánh dấu";
+
+/* No comment provided by engineer. */
+"Unsupported Configuration" = "Cấu hình không được hỗ trợ";
+
+/* No comment provided by engineer. */
+"Updating…" = "Đang cập nhật...";
+
+/* TODO */
+"Upgrade Now" = "Upgrade Now";
+
+/* No comment provided by engineer. */
+"Upgrade to %@" = "Nâng cấp lên %@";
+
+/* No comment provided by engineer. */
+"Use biometric authentication to unlock the application." = "Sử dụng xác thực sinh trắc học để mở khóa ứng dụng.";
+
+/* No comment provided by engineer. */
+"Use Date" = "Ngày sử dụng";
+
+/* No comment provided by engineer. */
+"Use Date Range" = "Sử dụng phạm vi ngày";
+
+/* No comment provided by engineer. */
+"Use Default Settings" = "Sử dụng cài đặt mặc định";
+
+/* No comment provided by engineer. */
+"Use Haptic Patterns" = "Sử dụng mô hình xúc giác";
+
+/* No comment provided by engineer. */
+"Use Recycle Bin" = "Sử dụng Thùng rác";
+
+/* No comment provided by engineer. */
+"User Agreement" = "Thỏa thuận người dùng";
+
+/* No comment provided by engineer. */
+"User Applications" = "Ứng dụng người dùng";
+
+/* No comment provided by engineer. */
+"User denied access to speech recognition." = "Người dùng bị từ chối quyền truy cập vào nhận dạng giọng nói.";
+
+/* No comment provided by engineer. */
+"User Interface Style" = "Phong cách giao diện người dùng";
+
+"Utility" = "Tiện ích";
+
+/* No comment provided by engineer. */
+"Verification Failed" = "Xác minh không thành công";
+
+/* No comment provided by engineer. */
+"Verify License" = "Xác minh giấy phép";
+
+/* No comment provided by engineer. */
+"Version %@ Build %@" = "Phiên bản %@ Xây dựng %@";
+
+/* No comment provided by engineer. */
+"Version %@ Build %@ - New Version %@ Build %@" = "Phiên bản %@ Xây dựng %@ - Phiên bản mới %@ Xây dựng %@";
+
+/* No comment provided by engineer. */
+"Vibrate At Begin" = "Rung khi bắt đầu";
+
+/* No comment provided by engineer. */
+"Vibrate At End" = "Rung khi kết thúc";
+
+/* No comment provided by engineer. */
+"VIP contacts will always be recorded and added to the favourites." = "Các liên hệ VIP sẽ luôn được ghi lại và thêm vào các mục yêu thích.";
+
+/* No comment provided by engineer. */
+"Warning, your call is being recorded now. Warning, your call is being recorded now." = "Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.
+Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.";
+
+/* No comment provided by engineer. */
+"Waveform Audio" = "Âm thanh dạng sóng";
+
+/* No comment provided by engineer. */
+"We love colorful and moving backgrounds, but option here for you to disable it." = "Chúng tôi thích những hình nền đầy màu sắc và chuyển động, nhưng hãy chọn ở đây để bạn vô hiệu hóa nó.";
+
+/* No comment provided by engineer. */
+"Welcome to" = "Chào mừng đến với";
+
+/* No comment provided by engineer. */
+"We’ve got a new phone call recording!" = "Chúng tôi có một bản ghi âm cuộc gọi điện thoại mới!";
+
+/* No comment provided by engineer. */
+"We’ve got new phone call recordings!" = "Chúng tôi có bản ghi âm cuộc gọi điện thoại mới!";
+
+/* No comment provided by engineer. */
+"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "Khi được mở khóa, bong bóng mọi nơi sẽ được hiển thị ngay cả khi bạn không ở trên màn hình chính.";
+
+/* No comment provided by engineer. */
+"Whether to force the application to use the light or the dark user interface." = "Cho dù buộc ứng dụng sử dụng giao diện người dùng sáng hay tối.";
+
+/* No comment provided by engineer. */
+"Whether to force the global hoverball to use the light or the dark style." = "Cho dù buộc bong bóng mọi nơi sử dụng phong cách ánh sáng hay bóng tối.";
+
+/* No comment provided by engineer. */
+"Will start recording automatically on audio or video calls in the current application." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video trong ứng dụng hiện tại.";
+
+/* No comment provided by engineer. */
+"Will start recording automatically on audio or video calls." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video.";
+
+/* No comment provided by engineer. */
+"Write latitude and longitude to the recording metadata." = "Viết vĩ độ và kinh độ vào siêu dữ liệu ghi.";
+
+/* No comment provided by engineer. */
+"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Bạn phải chọn “Luôn luôn” cho TrollRecorder để xác định vị trí của bạn trong nền. Nếu bạn chọn “Trong khi sử dụng ứng dụng”, các địa điểm sẽ chỉ được cập nhật khi bạn khởi chạy ứng dụng sau khi ghi âm.";
+
+/* No comment provided by engineer. */
+"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect.";
+
+/* No comment provided by engineer. */
+"You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "Bạn cần cài đặt “Trình quản lý tệp Filza” với lược đồ url được bật để xem hoặc khôi phục các bản ghi âm của bạn.";
+
+/* No comment provided by engineer. */
+"You’ve enabled biometric authentication so it’s required to verify your identity." = "Bạn đã bật xác thực sinh trắc học nên cần phải xác minh danh tính của bạn.";
+
+/* No comment provided by engineer. */
+"You’ve pressed cancel." = "Bạn đã nhấn hủy.";
+
+/* No comment provided by engineer. */
+"You’ve pressed password." = "Bạn đã nhấn mật khẩu.";

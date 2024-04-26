@@ -49,8 +49,8 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "Hace 90 días";
 
-/* No comment provided by engineer. */
-"A new version of the app is available." = "Hay disponible una nueva versión de la aplicación.";
+/* TODO */
+"A new version (%@) of “TrollRecorder” is available." = "Hay disponible una nueva versión de la aplicación (%@).";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Accede a tus grabaciones desde un navegador WebDAV de otro dispositivo en la red. El servidor está activo sólo cuando la aplicación está en primer plano.";
@@ -76,11 +76,17 @@
 /* No comment provided by engineer. */
 "Agree" = "Aceptar";
 
+/* TODO */
+"Allow Access To WeChat" = "Allow Access To WeChat";
+
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Permitir grabación automática";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Permitir activaciones del HUD";
+
+/* TODO */
+"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Siempre oscuro";
@@ -271,6 +277,9 @@
 /* No comment provided by engineer. */
 "Copy Transcript" = "Copiar Texto";
 
+/* TODO */
+"Create Archive" = "Create Archive";
+
 /* No comment provided by engineer. */
 "Created At" = "Creado en";
 
@@ -343,6 +352,9 @@
 
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Muestra el nombre del paquete fuente de la grabación.";
+
+/* TODO */
+"Double-click the physical volume up button to start or stop recording during a call." = "Double-click the physical volume up button to start or stop recording during a call.";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duración antes de inactividad";
@@ -477,9 +489,6 @@
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Si tu teléfono admite dos tarjetas SIM, el alias de la tarjeta SIM utilizada para la llamada grabada se muestra aquí.";
 
 /* No comment provided by engineer. */
-"Ignore For 7 Days" = "Ignorar durante 7 días";
-
-/* No comment provided by engineer. */
 "In 1 Hour" = "En 1 hora";
 
 /* No comment provided by engineer. */
@@ -503,6 +512,9 @@
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Instala la acción “Comprimir Audio” en “Atajos”, luego comparte tus grabaciones a esta acción para comprimir tu audio a formato AAC/AIFF.";
 
+/* TODO */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
 /* No comment provided by engineer. */
 "Is Favourite" = "Es favorito";
 
@@ -512,8 +524,8 @@
 /* No comment provided by engineer. */
 "Larger" = "Más grande";
 
-/* No comment provided by engineer. */
-"Later" = "Más tarde";
+/* TODO */
+"Later" = "Ignorar durante 7 días";
 
 /* No comment provided by engineer. */
 "Launch Application At End" = "Lanzar la aplicación al final";
@@ -613,6 +625,9 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Nuevo patrón de coincidencia";
+
+/* TODO */
+"New Version Available" = "Actualización disponible";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "No se ha encontrado ningún número de teléfono en los contactos seleccionados.";
@@ -731,6 +746,9 @@
 /* No comment provided by engineer. */
 "Purchase" = "Comprar";
 
+/* TODO */
+"Quick Recording" = "Quick Recording";
+
 /* No comment provided by engineer. */
 "Re-authenticate" = "Volver a autenticar";
 
@@ -846,6 +864,9 @@
 
 /* No comment provided by engineer. */
 "Show Contact Names" = "Mostrar nombres de contacto";
+
+/* TODO */
+"Show On Lock Screen" = "Show On Lock Screen";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Mostrar duración de grabación";
@@ -998,8 +1019,6 @@
 
 "Toggle Recording" = "Activar/desactivar grabación";
 
-"Toggle Recording" = "Activar/desactivar grabación";
-
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
@@ -1011,6 +1030,9 @@
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Transición cuando está inactivo";
+
+/* To translators: Replace @AUTHOR_NAME with your name. */
+"Translated by @AUTHOR_NAME" = "Traducido por @Deci8BelioS";
 
 "Troll Recorder" = "Troll Recorder";
 
@@ -1042,13 +1064,10 @@
 "Unsupported Configuration" = "Configuración no admitida";
 
 /* No comment provided by engineer. */
-"Update Available" = "Actualización disponible";
-
-/* No comment provided by engineer. */
-"Update Now" = "Actualizar ahora";
-
-/* No comment provided by engineer. */
 "Updating…" = "Actualizando…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "Actualizar ahora";
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Actualizar a %@";
@@ -1124,6 +1143,9 @@
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "¡Tenemos nuevas grabaciones de llamadas telefónicas!";
 
+/* TODO */
+"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "When unlocked, the global hoverball is displayed even if you are not on the home screen.";
+
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Si se debe forzar a la aplicación a utilizar la interfaz de usuario clara u oscura.";
 
@@ -1156,6 +1178,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Has pulsado contraseña.";
-
-/* To translators: Replace @AUTHOR_NAME with your name. */
-"Translated by @AUTHOR_NAME" = "Traducido por @Deci8BelioS";

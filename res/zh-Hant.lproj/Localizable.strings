@@ -49,8 +49,8 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 天前";
 
-/* No comment provided by engineer. */
-"A new version of the app is available." = "有新版本的應用程式可用。";
+/* TODO */
+"A new version (%@) of “TrollRecorder” is available." = "有新版本的應用程式 %@ 可用。";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺設備的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前臺時服務可用。";
@@ -76,11 +76,17 @@
 /* No comment provided by engineer. */
 "Agree" = "同意";
 
+/* TODO */
+"Allow Access To WeChat" = "Allow Access To WeChat";
+
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允許自動錄音";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允許喚醒懸浮球";
+
+/* TODO */
+"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "保持深色";
@@ -176,7 +182,7 @@
 "Buy TrollRecorder Pro" = "購買高級授權";
 
 /* No comment provided by engineer. */
-"Calculating…" = "計算中...";
+"Calculating…" = "計算中…";
 
 /* No comment provided by engineer. */
 "Call Recording" = "通話錄音";
@@ -271,6 +277,9 @@
 /* No comment provided by engineer. */
 "Copy Transcript" = "複製轉錄";
 
+/* TODO */
+"Create Archive" = "Create Archive";
+
 /* No comment provided by engineer. */
 "Created At" = "創建於";
 
@@ -343,6 +352,9 @@
 
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "顯示錄音來源的捆綁包名稱。";
+
+/* TODO */
+"Double-click the physical volume up button to start or stop recording during a call." = "Double-click the physical volume up button to start or stop recording during a call.";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "閑置時長";
@@ -477,9 +489,6 @@
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果您的手機支援 2 張 SIM 卡，錄音通話時所使用的 SIM 卡別名將顯示在這裏。";
 
 /* No comment provided by engineer. */
-"Ignore For 7 Days" = "忽略 7 天";
-
-/* No comment provided by engineer. */
 "In 1 Hour" = "1 小時内";
 
 /* No comment provided by engineer. */
@@ -503,6 +512,9 @@
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安裝“壓縮音頻”操作到“捷徑”中，然後分享你的錄音到這個操作中，以將你的音頻壓縮為AAC/AIFF格式。";
 
+/* TODO */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
 /* No comment provided by engineer. */
 "Is Favourite" = "是否收藏";
 
@@ -512,8 +524,8 @@
 /* No comment provided by engineer. */
 "Larger" = "較大";
 
-/* No comment provided by engineer. */
-"Later" = "以後再説";
+/* TODO */
+"Later" = "忽略 7 天";
 
 /* No comment provided by engineer. */
 "Launch Application At End" = "結束時啓動應用";
@@ -555,7 +567,7 @@
 "Make the global hoverball semi-transparent or folded when leave it for a while." = "儅懸浮球閑置一段時間後，使其半透明或摺曡到熒幕邊緣。";
 
 /* No comment provided by engineer. */
-"Making a phone call to begin recording." = "進行通話以開始錄製。。";
+"Making a phone call to begin recording." = "進行通話以開始錄製。";
 
 /* No comment provided by engineer. */
 "Mark" = "收藏";
@@ -613,6 +625,9 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "新匹配條目";
+
+/* TODO */
+"New Version Available" = "有更新可用";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "在選定的聯絡人中未找到電話號碼。";
@@ -732,6 +747,9 @@
 "Purchase" = "購買";
 
 /* No comment provided by engineer. */
+"Quick Recording" = "快速錄音";
+
+/* No comment provided by engineer. */
 "Re-authenticate" = "重新驗證";
 
 /* No comment provided by engineer. */
@@ -846,6 +864,9 @@
 
 /* No comment provided by engineer. */
 "Show Contact Names" = "顯示聯絡人姓名";
+
+/* No comment provided by engineer. */
+"Show On Lock Screen" = "在鎖定螢幕上顯示";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "顯示錄音時長";
@@ -998,8 +1019,6 @@
 
 "Toggle Recording" = "開始/停止錄音";
 
-"Toggle Recording" = "開始/停止錄音";
-
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
@@ -1045,13 +1064,10 @@
 "Unsupported Configuration" = "不支援的配置";
 
 /* No comment provided by engineer. */
-"Update Available" = "有更新可用";
-
-/* No comment provided by engineer. */
-"Update Now" = "立即更新";
-
-/* No comment provided by engineer. */
 "Updating…" = "正在更新…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "立即更新";
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "升級到 %@";
@@ -1126,6 +1142,9 @@
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "我們生成了一份新的通話錄音！";
+
+/* TODO */
+"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "When unlocked, the global hoverball is displayed even if you are not on the home screen.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制應用程式使用淺色或深色用戶界面。";

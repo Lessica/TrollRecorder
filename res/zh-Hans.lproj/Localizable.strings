@@ -50,7 +50,7 @@
 "90 Days Ago" = "90 天前";
 
 /* No comment provided by engineer. */
-"A new version of the app is available." = "有新版本的应用程序可用。";
+"A new version (%@) of “TrollRecorder” is available." = "巨魔录音机有新版本 %@ 可用。";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "从网络中的另一台设备的 WebDAV 浏览器中访问你的录音。仅当应用程序处于前台时服务可用。";
@@ -77,10 +77,16 @@
 "Agree" = "同意";
 
 /* No comment provided by engineer. */
+"Allow Access To WeChat" = "允许访问微信";
+
+/* No comment provided by engineer. */
 "Allow Automatic Recording" = "允许自动录音";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允许唤醒悬浮球";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "允许读取微信联系人列表和 VoIP 通话记录以自动填充录音的联系人姓名。";
 
 /* No comment provided by engineer. */
 "Always Dark" = "保持深色";
@@ -272,6 +278,9 @@
 "Copy Transcript" = "复制转录";
 
 /* No comment provided by engineer. */
+"Create Archive" = "制作归档";
+
+/* No comment provided by engineer. */
 "Created At" = "创建于";
 
 "deactivate" = "deactivate";
@@ -343,6 +352,9 @@
 
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "显示录音来源的捆绑包名称。";
+
+/* No comment provided by engineer. */
+"Double-click the physical volume up button to start or stop recording during a call." = "通话过程中，快速双击音量增加按键开始或停止录音。";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "闲置时长";
@@ -477,9 +489,6 @@
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果你的手机支持双卡，录音通话时所使用的 SIM 卡别名将显示在这里。";
 
 /* No comment provided by engineer. */
-"Ignore For 7 Days" = "忽略 7 天";
-
-/* No comment provided by engineer. */
 "In 1 Hour" = "1 小时内";
 
 /* No comment provided by engineer. */
@@ -502,6 +511,9 @@
 
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安装 “压缩音频” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以将你的音频压缩为 AAC/AIFF 格式。";
+
+/* No comment provided by engineer. */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安装 “制作归档” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以创建一个 ZIP 压缩文件。";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "是否收藏";
@@ -613,6 +625,9 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "新匹配条目";
+
+/* No comment provided by engineer. */
+"New Version Available" = "有新版本可用";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "在选定的联系人中未找到电话号码。";
@@ -732,6 +747,9 @@
 "Purchase" = "购买";
 
 /* No comment provided by engineer. */
+"Quick Recording" = "快速录音";
+
+/* No comment provided by engineer. */
 "Re-authenticate" = "重新验证";
 
 /* No comment provided by engineer. */
@@ -846,6 +864,9 @@
 
 /* No comment provided by engineer. */
 "Show Contact Names" = "显示联系人姓名";
+
+/* No comment provided by engineer. */
+"Show On Lock Screen" = "在锁屏界面显示";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "显示录音时长";
@@ -998,8 +1019,6 @@
 
 "Toggle Recording" = "开始/停止录音";
 
-"Toggle Recording" = "开始/停止录音";
-
 /* No comment provided by engineer. */
 "Touch ID" = "指纹 ID";
 
@@ -1045,13 +1064,10 @@
 "Unsupported Configuration" = "不支持的配置";
 
 /* No comment provided by engineer. */
-"Update Available" = "有更新可用";
-
-/* No comment provided by engineer. */
-"Update Now" = "立即更新";
-
-/* No comment provided by engineer. */
 "Updating…" = "正在更新…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "立即更新";
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "升级到 %@";
@@ -1126,6 +1142,9 @@
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "我们生成了一些新的通话录音！";
+
+/* No comment provided by engineer. */
+"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，全局悬浮球也会在锁屏界面显示。暂时仍无法在未解锁前显示。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制应用程序使用浅色或深色用户界面。";

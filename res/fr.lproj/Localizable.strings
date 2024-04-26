@@ -49,8 +49,8 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "Il y a 90 jours";
 
-/* No comment provided by engineer. */
-"A new version of the app is available." = "Une nouvelle version de l'application est disponible.";
+/* TODO */
+"A new version (%@) of “TrollRecorder” is available." = "Une nouvelle version de l'application est disponible (%@).";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Accédez à vos enregistrements depuis un navigateur WebDAV à partir d'un autre appareil sur le réseau. Le serveur est actif uniquement lorsque l'application est à l'avant-plan.";
@@ -76,11 +76,17 @@
 /* No comment provided by engineer. */
 "Agree" = "Accepter";
 
+/* TODO */
+"Allow Access To WeChat" = "Allow Access To WeChat";
+
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Autoriser l'enregistrement automatique";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Autoriser les réveils Hoverball";
+
+/* TODO */
+"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Toujours sombre";
@@ -271,6 +277,9 @@
 /* No comment provided by engineer. */
 "Copy Transcript" = "Copier la transcription";
 
+/* TODO */
+"Create Archive" = "Create Archive";
+
 /* No comment provided by engineer. */
 "Created At" = "Créé le";
 
@@ -343,6 +352,9 @@
 
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Afficher le nom du paquet source de l'enregistrement.";
+
+/* TODO */
+"Double-click the physical volume up button to start or stop recording during a call." = "Double-click the physical volume up button to start or stop recording during a call.";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Durée avant inactivité";
@@ -477,9 +489,6 @@
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Si votre téléphone prend en charge les cartes SIM doubles, l'alias de la carte SIM utilisé pour l'appel enregistré est affiché ici.";
 
 /* No comment provided by engineer. */
-"Ignore For 7 Days" = "Ignorer pendant 7 jours";
-
-/* No comment provided by engineer. */
 "In 1 Hour" = "Dans 1 heure";
 
 /* No comment provided by engineer. */
@@ -503,6 +512,9 @@
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Installez l'action « Compress Audio » dans « Raccourcis », puis partagez vos enregistrements vers cette action pour compresser votre audio au format AAC/AIFF.";
 
+/* TODO */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
 /* No comment provided by engineer. */
 "Is Favourite" = "Est favori";
 
@@ -512,8 +524,8 @@
 /* No comment provided by engineer. */
 "Larger" = "Plus grand";
 
-/* No comment provided by engineer. */
-"Later" = "Plus tard";
+/* TODO */
+"Later" = "Ignorer pendant 7 jours";
 
 /* No comment provided by engineer. */
 "Launch Application At End" = "Lancer l'application à la fin";
@@ -613,6 +625,9 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Nouveau Motif de Correspondance";
+
+/* TODO */
+"New Version Available" = "Mise à jour disponible";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "Aucun numéro de téléphone trouvé dans les contacts sélectionnés.";
@@ -731,6 +746,9 @@
 /* No comment provided by engineer. */
 "Purchase" = "Achat";
 
+/* TODO */
+"Quick Recording" = "Quick Recording";
+
 /* No comment provided by engineer. */
 "Re-authenticate" = "Ré-authentifier";
 
@@ -846,6 +864,9 @@
 
 /* No comment provided by engineer. */
 "Show Contact Names" = "Afficher les noms des contacts";
+
+/* TODO */
+"Show On Lock Screen" = "Show On Lock Screen";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Afficher la durée de l'enregistrement";
@@ -998,8 +1019,6 @@
 
 "Toggle Recording" = "Activer/désactiver l'enregistrement";
 
-"Toggle Recording" = "Activer/désactiver l'enregistrement";
-
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
@@ -1011,6 +1030,9 @@
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Transition en mode inactif";
+
+/* To translators: Replace @AUTHOR_NAME with your name. */
+"Translated by @AUTHOR_NAME" = "Traduit par @DzMoha";
 
 "Troll Recorder" = "Enregistreur de farces";
 
@@ -1042,13 +1064,10 @@
 "Unsupported Configuration" = "Configuration non prise en charge";
 
 /* No comment provided by engineer. */
-"Update Available" = "Mise à jour disponible";
-
-/* No comment provided by engineer. */
-"Update Now" = "Mettre à jour maintenant";
-
-/* No comment provided by engineer. */
 "Updating…" = "Mise à jour en cours…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "Mettre à jour maintenant";
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Mettre à niveau vers %@";
@@ -1124,6 +1143,9 @@
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "Nous avons de nouveaux enregistrements d'appels téléphoniques !";
 
+/* TODO */
+"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "When unlocked, the global hoverball is displayed even if you are not on the home screen.";
+
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Indique si l'application doit utiliser l'interface utilisateur claire ou sombre.";
 
@@ -1156,6 +1178,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Vous avez appuyé sur Mot de passe.";
-
-/* To translators: Replace @AUTHOR_NAME with your name. */
-"Translated by @AUTHOR_NAME" = "Traduit par @DzMoha";
