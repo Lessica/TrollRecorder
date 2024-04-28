@@ -77,16 +77,13 @@
 "Agree" = "Agree";
 
 /* No comment provided by engineer. */
-"Allow Access To WeChat" = "Allow Access To WeChat";
+"Allow Access To Call History" = "Allow Access To Call History";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Allow Automatic Recording";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
-
-/* No comment provided by engineer. */
-"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Always Dark";
@@ -392,6 +389,9 @@
 "exit" = "exit";
 
 "Exit Hoverball" = "Exit Hoverball";
+
+/* No comment provided by engineer. */
+"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Export recordings to anywhere you want without limitations.";

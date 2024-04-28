@@ -77,16 +77,13 @@
 "Agree" = "同意";
 
 /* TODO */
-"Allow Access To WeChat" = "Allow Access To WeChat";
+"Allow Access To Call History" = "Allow Access To Call History";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允許自動錄音";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允許喚醒懸浮球";
-
-/* TODO */
-"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "保持深色";
@@ -392,6 +389,9 @@
 "exit" = "exit";
 
 "Exit Hoverball" = "關閉懸浮球";
+
+/* TODO */
+"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "將錄音匯出並保存到任何地方。";

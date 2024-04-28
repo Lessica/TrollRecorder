@@ -77,16 +77,13 @@
 "Agree" = "Đồng ý";
 
 /* TODO */
-"Allow Access To WeChat" = "Allow Access To WeChat";
+"Allow Access To Call History" = "Allow Access To Call History";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Cho phép ghi âm tự động";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Cho phép bong bóng được bật";
-
-/* TODO */
-"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Luôn tối";
@@ -392,6 +389,9 @@
 "exit" = "thoát";
 
 "Exit Hoverball" = "Thoát bong bóng";
+
+/* TODO */
+"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";

@@ -77,16 +77,13 @@
 "Agree" = "Aceptar";
 
 /* TODO */
-"Allow Access To WeChat" = "Allow Access To WeChat";
+"Allow Access To Call History" = "Allow Access To Call History";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Permitir grabación automática";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Permitir activaciones del HUD";
-
-/* TODO */
-"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "Allow to read WeChat contact list and VoIP history to populate contact names of recordings.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Siempre oscuro";
@@ -392,6 +389,9 @@
 "exit" = "salir";
 
 "Exit Hoverball" = "Salir del HUD";
+
+/* TODO */
+"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Exporta grabaciones a donde quieras sin limitaciones.";

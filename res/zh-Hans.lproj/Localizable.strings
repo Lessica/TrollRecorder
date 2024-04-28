@@ -77,16 +77,13 @@
 "Agree" = "同意";
 
 /* No comment provided by engineer. */
-"Allow Access To WeChat" = "允许访问微信";
+"Allow Access To Call History" = "允许访问通话记录";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允许自动录音";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允许唤醒悬浮球";
-
-/* No comment provided by engineer. */
-"Allow to read WeChat contact list and VoIP history to populate contact names of recordings." = "允许读取微信联系人列表和 VoIP 通话记录以自动填充录音的联系人姓名。";
 
 /* No comment provided by engineer. */
 "Always Dark" = "保持深色";
@@ -392,6 +389,9 @@
 "exit" = "exit";
 
 "Exit Hoverball" = "关闭悬浮球";
+
+/* No comment provided by engineer. */
+"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "实验性功能：允许读取微信联系人列表和 VoIP 通话记录以自动填充录音的联系人姓名。仅支持新版本官方微信。";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "将录音导出并保存到任何地方。";
