@@ -77,7 +77,7 @@
 "Agree" = "同意";
 
 /* TODO */
-"Allow Access To Call History" = "Allow Access To Call History";
+"Allow Access To Call History" = "允許訪問呼叫歷史記錄";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允許自動錄音";
@@ -275,7 +275,7 @@
 "Copy Transcript" = "複製轉錄";
 
 /* TODO */
-"Create Archive" = "Create Archive";
+"Create Archive" = "創建存檔";
 
 /* No comment provided by engineer. */
 "Created At" = "創建於";
@@ -351,7 +351,7 @@
 "Display the source bundle name of the recording." = "顯示錄音來源的捆綁包名稱。";
 
 /* TODO */
-"Double-click the physical volume up button to start or stop recording during a call." = "Double-click the physical volume up button to start or stop recording during a call.";
+"Double-click the physical volume up button to start or stop recording during a call." = "雙擊音量上鍵以在通話過程中開始或停止錄音。";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "閑置時長";
@@ -391,7 +391,7 @@
 "Exit Hoverball" = "關閉懸浮球";
 
 /* TODO */
-"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
+"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "實驗性功能：允許讀取 WeChat 連絡人清單和 VoIP 通話歷史記錄以填充錄音的連絡人姓名。 僅支持最新版本的 WeChat。";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "將錄音匯出並保存到任何地方。";
@@ -513,7 +513,7 @@
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安裝“壓縮音頻”操作到“捷徑”中，然後分享你的錄音到這個操作中，以將你的音頻壓縮為AAC/AIFF格式。";
 
 /* TODO */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "將“創建檔案”操作安裝到“捷徑”中，然後將您的錄製共享到此操作以創建ZIP檔案。";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "是否收藏";
@@ -1144,7 +1144,7 @@
 "We’ve got new phone call recordings!" = "我們生成了一份新的通話錄音！";
 
 /* TODO */
-"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "When unlocked, the global hoverball is displayed even if you are not on the home screen.";
+"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "解鎖後，即使您不在主荧幕上，也會顯示全局懸浮球。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制應用程式使用淺色或深色用戶界面。";
