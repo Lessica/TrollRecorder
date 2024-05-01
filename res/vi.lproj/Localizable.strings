@@ -351,9 +351,6 @@
 "Display the source bundle name of the recording." = "Hiển thị tên gói nguồn của bản ghi.";
 
 /* No comment provided by engineer. */
-"Double-click the physical volume up button to start or stop recording during a call." = "Nhấp đúp vào nút tăng âm lượng vật lý để bắt đầu hoặc dừng ghi âm trong một cuộc gọi.";
-
-/* No comment provided by engineer. */
 "Duration Before Idle" = "Thời lượng trước khi nhàn rỗi";
 
 /* No comment provided by engineer. */
@@ -733,6 +730,9 @@
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Bảo tồn tất cả các kênh";
+
+/* TODO */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Press both of the physical volume buttons to start or stop recording during a call.";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "Xem trước bị vô hiệu hóa";

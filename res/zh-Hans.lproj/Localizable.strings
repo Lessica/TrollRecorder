@@ -351,9 +351,6 @@
 "Display the source bundle name of the recording." = "显示录音来源的捆绑包名称。";
 
 /* No comment provided by engineer. */
-"Double-click the physical volume up button to start or stop recording during a call." = "通话过程中，快速双击音量增加按键开始或停止录音。";
-
-/* No comment provided by engineer. */
 "Duration Before Idle" = "闲置时长";
 
 /* No comment provided by engineer. */
@@ -733,6 +730,9 @@
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "保留所有通道";
+
+/* No comment provided by engineer. */
+"Press both of the physical volume buttons to start or stop recording during a call." = "通话过程中，同时按下两个音量键开始或停止录音。";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "预览已关闭";
