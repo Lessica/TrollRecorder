@@ -350,9 +350,6 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Muestra el nombre del paquete fuente de la grabación.";
 
-/* TODO */
-"Double-click the physical volume up button to start or stop recording during a call." = "Double-click the physical volume up button to start or stop recording during a call.";
-
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duración antes de inactividad";
 
@@ -733,6 +730,9 @@
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Preservar Todos los Canales";
+
+/* TODO */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Press both of the physical volume buttons to start or stop recording during a call.";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "Audio demasiado largo";
