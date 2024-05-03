@@ -77,13 +77,19 @@
 "Agree" = "Aceptar";
 
 /* TODO */
-"Allow Access To Call History" = "Allow Access To Call History";
+"Allow Access to Call History" = "Allow Access to Call History";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Permitir grabación automática";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Permitir activaciones del HUD";
+
+/* TODO */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
+
+/* TODO */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Siempre oscuro";
@@ -290,6 +296,15 @@
 
 "Deactivate the recorder hoverball." = "Desactivar la grabadora HUD.";
 
+/* TODO */
+"deflate failed" = "deflate failed";
+
+/* TODO */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* TODO */
+"deflateInit2 failed" = "deflateInit2 failed";
+
 /* No comment provided by engineer. */
 "Delete" = "Borrar";
 
@@ -386,9 +401,6 @@
 "exit" = "salir";
 
 "Exit Hoverball" = "Salir del HUD";
-
-/* TODO */
-"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Exporta grabaciones a donde quieras sin limitaciones.";
@@ -525,7 +537,7 @@
 "Later" = "Ignorar durante 7 días";
 
 /* No comment provided by engineer. */
-"Launch Application At End" = "Lanzar la aplicación al final";
+"Launch Application at End" = "Lanzar la aplicación al final";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Lanzar al desbloquear por primera vez";
@@ -664,7 +676,7 @@
 "Open Hoverball" = "Abrir HUD";
 
 /* No comment provided by engineer. */
-"Open In Filza" = "Abrir en Filza";
+"Open in Filza" = "Abrir en Filza";
 
 /* No comment provided by engineer. */
 "Open Recycle Bin" = "Abrir papelera de reciclaje";
@@ -717,16 +729,16 @@
 "Populate Location When App Starts" = "Rellenar ubicación al iniciar la aplicación";
 
 /* No comment provided by engineer. */
-"Popup Audible Banner At End" = "Banner sonoro emergente al final";
+"Popup Audible Banner at End" = "Banner sonoro emergente al final";
 
 /* No comment provided by engineer. */
-"Popup Banner & Badge At End" = "Banner emergente e insignia al final";
+"Popup Banner & Badge at End" = "Banner emergente e insignia al final";
 
 /* No comment provided by engineer. */
-"Popup Banner At End" = "Banner emergente al final";
+"Popup Banner at End" = "Banner emergente al final";
 
 /* No comment provided by engineer. */
-"Popup Banner With Detail" = "Banner emergente con detalle";
+"Popup Banner with Detail" = "Banner emergente con detalle";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Preservar Todos los Canales";
@@ -763,6 +775,9 @@
 
 /* No comment provided by engineer. */
 "Record Automatically" = "Grabar automáticamente";
+
+/* TODO */
+"Record Calls on Other Devices" = "Record Calls on Other Devices";
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Graba sólo cuando estés conectado";
@@ -866,7 +881,7 @@
 "Show Contact Names" = "Mostrar nombres de contacto";
 
 /* TODO */
-"Show On Lock Screen" = "Show On Lock Screen";
+"Show on Lock Screen" = "Show on Lock Screen";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Mostrar duración de grabación";
@@ -1117,10 +1132,10 @@
 "Version %@ Build %@ - New Version %@ Build %@" = "Versión %@ Compilación %@ - Nueva versión %@ Compilación %@";
 
 /* No comment provided by engineer. */
-"Vibrate At Begin" = "Vibrar al inicio";
+"Vibrate at Begin" = "Vibrar al inicio";
 
 /* No comment provided by engineer. */
-"Vibrate At End" = "Vibrar al final";
+"Vibrate at End" = "Vibrar al final";
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Los contactos VIP siempre se grabarán y se añadirán a los favoritos.";

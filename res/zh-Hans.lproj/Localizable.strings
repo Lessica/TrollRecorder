@@ -77,13 +77,19 @@
 "Agree" = "同意";
 
 /* No comment provided by engineer. */
-"Allow Access To Call History" = "允许访问通话记录";
+"Allow Access to Call History" = "允许访问通话记录";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允许自动录音";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允许唤醒悬浮球";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "允许读取微信联系人列表和 VoIP 通话记录以自动填充录音的联系人姓名。仅支持新版本官方微信。";
+
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允许录制已登录 iCloud 帐户、在您附近且接入无线局域网的设备上的通话。";
 
 /* No comment provided by engineer. */
 "Always Dark" = "保持深色";
@@ -291,6 +297,15 @@
 "Deactivate the recorder hoverball." = "启动服务，并关闭录音悬浮球。";
 
 /* No comment provided by engineer. */
+"deflate failed" = "deflate 失败";
+
+/* No comment provided by engineer. */
+"deflateEnd failed" = "deflateEnd 失败";
+
+/* No comment provided by engineer. */
+"deflateInit2 failed" = "deflateInit2 失败";
+
+/* No comment provided by engineer. */
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
@@ -386,9 +401,6 @@
 "exit" = "exit";
 
 "Exit Hoverball" = "关闭悬浮球";
-
-/* No comment provided by engineer. */
-"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "实验性功能：允许读取微信联系人列表和 VoIP 通话记录以自动填充录音的联系人姓名。仅支持新版本官方微信。";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "将录音导出并保存到任何地方。";
@@ -525,7 +537,7 @@
 "Later" = "以后再说";
 
 /* No comment provided by engineer. */
-"Launch Application At End" = "结束时启动应用";
+"Launch Application at End" = "结束时启动应用";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "首次解锁时启动";
@@ -664,7 +676,7 @@
 "Open Hoverball" = "打开悬浮球";
 
 /* No comment provided by engineer. */
-"Open In Filza" = "在 Filza 中打开";
+"Open in Filza" = "在 Filza 中打开";
 
 /* No comment provided by engineer. */
 "Open Recycle Bin" = "打开回收站";
@@ -717,16 +729,16 @@
 "Populate Location When App Starts" = "应用启动时填充位置";
 
 /* No comment provided by engineer. */
-"Popup Audible Banner At End" = "显示有声通知";
+"Popup Audible Banner at End" = "显示有声通知";
 
 /* No comment provided by engineer. */
-"Popup Banner & Badge At End" = "显示通知和徽章";
+"Popup Banner & Badge at End" = "显示通知和徽章";
 
 /* No comment provided by engineer. */
-"Popup Banner At End" = "显示通知";
+"Popup Banner at End" = "显示通知";
 
 /* No comment provided by engineer. */
-"Popup Banner With Detail" = "显示通知详情";
+"Popup Banner with Detail" = "显示通知详情";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "保留所有通道";
@@ -763,6 +775,9 @@
 
 /* No comment provided by engineer. */
 "Record Automatically" = "自动录制";
+
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "录制其他设备上的通话";
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "接通时录音";
@@ -866,7 +881,7 @@
 "Show Contact Names" = "显示联系人姓名";
 
 /* No comment provided by engineer. */
-"Show On Lock Screen" = "在锁屏界面显示";
+"Show on Lock Screen" = "在锁屏界面显示";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "显示录音时长";
@@ -1117,10 +1132,10 @@
 "Version %@ Build %@ - New Version %@ Build %@" = "版本 %@ 构建 %@ - 新版本 %@ 构建 %@";
 
 /* No comment provided by engineer. */
-"Vibrate At Begin" = "开始时振动";
+"Vibrate at Begin" = "开始时振动";
 
 /* No comment provided by engineer. */
-"Vibrate At End" = "结束时振动";
+"Vibrate at End" = "结束时振动";
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP 联系人将始终被录音并添加到收藏中。";

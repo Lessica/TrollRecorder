@@ -77,13 +77,19 @@
 "Agree" = "Agree";
 
 /* No comment provided by engineer. */
-"Allow Access To Call History" = "Allow Access To Call History";
+"Allow Access to Call History" = "Allow Access to Call History";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Allow Automatic Recording";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
+
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Always Dark";
@@ -291,6 +297,15 @@
 "Deactivate the recorder hoverball." = "Deactivate the recorder hoverball.";
 
 /* No comment provided by engineer. */
+"deflate failed" = "deflate failed";
+
+/* No comment provided by engineer. */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* No comment provided by engineer. */
+"deflateInit2 failed" = "deflateInit2 failed";
+
+/* No comment provided by engineer. */
 "Delete" = "Delete";
 
 /* No comment provided by engineer. */
@@ -386,9 +401,6 @@
 "exit" = "exit";
 
 "Exit Hoverball" = "Exit Hoverball";
-
-/* No comment provided by engineer. */
-"Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Experimental: Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Export recordings to anywhere you want without limitations.";
@@ -525,7 +537,7 @@
 "Later" = "Later";
 
 /* No comment provided by engineer. */
-"Launch Application At End" = "Launch Application At End";
+"Launch Application at End" = "Launch Application at End";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Launch When First Unlocked";
@@ -664,7 +676,7 @@
 "Open Hoverball" = "Open Hoverball";
 
 /* No comment provided by engineer. */
-"Open In Filza" = "Open In Filza";
+"Open in Filza" = "Open in Filza";
 
 /* No comment provided by engineer. */
 "Open Recycle Bin" = "Open Recycle Bin";
@@ -717,16 +729,16 @@
 "Populate Location When App Starts" = "Populate Location When App Starts";
 
 /* No comment provided by engineer. */
-"Popup Audible Banner At End" = "Popup Audible Banner At End";
+"Popup Audible Banner at End" = "Popup Audible Banner at End";
 
 /* No comment provided by engineer. */
-"Popup Banner & Badge At End" = "Popup Banner & Badge At End";
+"Popup Banner & Badge at End" = "Popup Banner & Badge at End";
 
 /* No comment provided by engineer. */
-"Popup Banner At End" = "Popup Banner At End";
+"Popup Banner at End" = "Popup Banner at End";
 
 /* No comment provided by engineer. */
-"Popup Banner With Detail" = "Popup Banner With Detail";
+"Popup Banner with Detail" = "Popup Banner with Detail";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Preserve All Channels";
@@ -763,6 +775,9 @@
 
 /* No comment provided by engineer. */
 "Record Automatically" = "Record Automatically";
+
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "Record Calls on Other Devices";
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Record Only When Connected";
@@ -866,7 +881,7 @@
 "Show Contact Names" = "Show Contact Names";
 
 /* No comment provided by engineer. */
-"Show On Lock Screen" = "Show On Lock Screen";
+"Show on Lock Screen" = "Show on Lock Screen";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Show Recording Duration";
@@ -1117,10 +1132,10 @@
 "Version %@ Build %@ - New Version %@ Build %@" = "Version %@ Build %@ - New Version %@ Build %@";
 
 /* No comment provided by engineer. */
-"Vibrate At Begin" = "Vibrate At Begin";
+"Vibrate at Begin" = "Vibrate at Begin";
 
 /* No comment provided by engineer. */
-"Vibrate At End" = "Vibrate At End";
+"Vibrate at End" = "Vibrate at End";
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP contacts will always be recorded and added to the favourites.";
