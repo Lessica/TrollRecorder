@@ -53,7 +53,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "有新版本的應用程式 %@ 可用。";
 
 /* No comment provided by engineer. */
-"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺設備的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前臺時服務可用。";
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺裝置的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前臺時服務可用。";
 
 "activate" = "activate";
 
@@ -65,7 +65,7 @@
 "Additional Contact" = "自定義聯絡人";
 
 /* No comment provided by engineer. */
-"Advanced Audio Coding" = "高級音頻編碼 (AAC)";
+"Advanced Audio Coding" = "高級音訊編碼 (AAC)";
 
 /* No comment provided by engineer. */
 "Advanced Options" = "高級選項";
@@ -88,8 +88,8 @@
 /* No comment provided by engineer. */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "允許讀取 WeChat 連絡人清單和 VoIP 通話歷史記錄以填充錄音的連絡人姓名。 僅支持最新版本的 WeChat。";
 
-/* TODO */
-"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允許錄製已登錄 iCloud、在您附近且已接入 WLAN 的裝置上的通話。";
 
 /* No comment provided by engineer. */
 "Always Dark" = "保持深色";
@@ -107,7 +107,7 @@
 "Always On" = "始終顯示";
 
 /* No comment provided by engineer. */
-"Analysing Audio" = "正在分析音頻";
+"Analysing Audio" = "正在分析音訊";
 
 /* No comment provided by engineer. */
 "Appearance" = "顯示與外觀";
@@ -125,10 +125,10 @@
 "Applications" = "應用程式";
 
 /* No comment provided by engineer. */
-"At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音頻檔案。 佔用較多存儲空間，請謹慎開啟。";
+"At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音訊檔案。 佔用較多存儲空間，請謹慎開啟。";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "音頻壓縮";
+"Audio Compression" = "音訊壓縮";
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "使用 %@ 進行驗證";
@@ -137,7 +137,7 @@
 "Automatic Recording" = "自動錄音";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "當設備重新啟動並解鎖時，自動啟用後臺服務。 需要將“巨魔錄音機”小組件添加到主荧幕任意位置才能使此選項生效。";
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用後臺服務。 需要將“巨魔錄音機”小組件添加到主荧幕任意位置才能使此選項生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將麥克風和揚聲器合併成一個檔案。";
@@ -203,7 +203,7 @@
 "Cancel" = "取消";
 
 /* No comment provided by engineer. */
-"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "選擇混音器的輸出音頻格式。 波形音頻格式不支持高級編碼。";
+"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "選擇混音器的輸出音訊格式。 波形音訊格式不支持高級編碼。";
 
 /* No comment provided by engineer. */
 "Choose the output file format for the mixer." = "選擇混音器的輸出檔案格式。";
@@ -227,7 +227,7 @@
 "Combined Mode" = "組合模式";
 
 /* No comment provided by engineer. */
-"Compress Recording" = "壓縮音頻";
+"Compress Recording" = "壓縮音訊";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連結客戶端：%d";
@@ -296,14 +296,14 @@
 
 "Deactivate the recorder hoverball." = "啓動服務，并關閉錄音懸浮球。";
 
-/* TODO */
-"deflate failed" = "deflate failed";
+/* No comment provided by engineer. */
+"deflate failed" = "deflate 失敗";
 
-/* TODO */
-"deflateEnd failed" = "deflateEnd failed";
+/* No comment provided by engineer. */
+"deflateEnd failed" = "deflateEnd 失敗";
 
-/* TODO */
-"deflateInit2 failed" = "deflateInit2 failed";
+/* No comment provided by engineer. */
+"deflateInit2 failed" = "deflateInit2 失敗";
 
 /* No comment provided by engineer. */
 "Delete" = "刪除";
@@ -339,7 +339,7 @@
 "Display the detail of recordings in the notification banner." = "在通知橫幅中顯示錄音的詳細資訊。";
 
 /* No comment provided by engineer. */
-"Display the exact duration of the recorded audio." = "顯示已錄製音頻的精準時間長度。";
+"Display the exact duration of the recorded audio." = "顯示已錄製音訊的精準時間長度。";
 
 /* No comment provided by engineer. */
 "Display the global hoverball during a call in the current application." = "在當前應用程式中通話時顯示全局懸浮球。";
@@ -348,7 +348,7 @@
 "Display the global hoverball during a call." = "在通話中顯示全局懸浮球。";
 
 /* No comment provided by engineer. */
-"Display the global hoverball when both the audio inputs and outputs are continuously active." = "儅音頻輸入和輸出都處於持續活躍狀態時，顯示全局懸浮球。";
+"Display the global hoverball when both the audio inputs and outputs are continuously active." = "當音訊輸入和輸出都處於持續活躍狀態時，顯示全局懸浮球。";
 
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "顯示通訊錄中聯絡人的姓名，而不是他們的電話號碼。";
@@ -357,7 +357,7 @@
 "Display the path extension as the format of the recording." = "顯示錄音的檔案格式，即其路徑的擴展名。";
 
 /* No comment provided by engineer. */
-"Display the preview images of the audio waveform of short recordings." = "顯示簡短錄音的音頻波形預覽視圖。";
+"Display the preview images of the audio waveform of short recordings." = "顯示簡短錄音的音訊波形預覽視圖。";
 
 /* No comment provided by engineer. */
 "Display the short name of the SIM card used for the recording if available." = "如果可用，顯示此錄音通話時所使用的 SIM 卡的簡稱。";
@@ -519,7 +519,7 @@
 "Install" = "安裝";
 
 /* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安裝“壓縮音頻”操作到“捷徑”中，然後分享你的錄音到這個操作中，以將你的音頻壓縮為AAC/AIFF格式。";
+"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安裝“壓縮音訊”操作到“捷徑”中，然後分享你的錄音到這個操作中，以將你的音訊壓縮為AAC/AIFF格式。";
 
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "將“創建檔案”操作安裝到“捷徑”中，然後將您的錄製共享到此操作以創建ZIP檔案。";
@@ -543,7 +543,7 @@
 "Launch When First Unlocked" = "首次解鎖時啓動";
 
 /* No comment provided by engineer. */
-"Link Device to Havoc" = "將設備連結到 Havoc";
+"Link Device to Havoc" = "將裝置連結到 Havoc";
 
 /* No comment provided by engineer. */
 "Loading…" = "載入中…";
@@ -573,7 +573,7 @@
 "Make the global hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或螢幕錄製時使懸浮球不可見。";
 
 /* No comment provided by engineer. */
-"Make the global hoverball semi-transparent or folded when leave it for a while." = "儅懸浮球閑置一段時間後，使其半透明或摺曡到熒幕邊緣。";
+"Make the global hoverball semi-transparent or folded when leave it for a while." = "當懸浮球閑置一段時間後，使其半透明或摺曡到熒幕邊緣。";
 
 /* No comment provided by engineer. */
 "Making a phone call to begin recording." = "進行通話以開始錄製。";
@@ -603,7 +603,7 @@
 "Mixer & Combiner" = "混音器與合并器";
 
 /* No comment provided by engineer. */
-"Mixer Audio Format" = "音頻格式";
+"Mixer Audio Format" = "音訊格式";
 
 /* No comment provided by engineer. */
 "Mixer File Format" = "檔案格式";
@@ -615,10 +615,10 @@
 "Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "將删除的錄音移動到一個特殊的資料檔案夾，允許你在改變主意或後來意識到需要它們時恢復已删除的項目。";
 
 /* No comment provided by engineer. */
-"MPEG-4 Audio" = "MPEG-4 音頻 (m4a)";
+"MPEG-4 Audio" = "MPEG-4 音訊 (m4a)";
 
 /* No comment provided by engineer. */
-"Multiple Devices" = "在多達 5 臺設備上同時使用";
+"Multiple Devices" = "在多達 5 臺裝置上同時使用";
 
 /* No comment provided by engineer. */
 "My Favourites" = "我的收藏";
@@ -776,8 +776,8 @@
 /* No comment provided by engineer. */
 "Record Automatically" = "自動錄製";
 
-/* TODO */
-"Record Calls on Other Devices" = "Record Calls on Other Devices";
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "錄製其他裝置上的通話";
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "接通時錄音";
@@ -791,7 +791,7 @@
 "recording" = "錄音";
 
 /* No comment provided by engineer. */
-"Recording starts when both the audio inputs and outputs are continuously active." = "儅音頻輸入和輸出都處於持續活躍狀態時，錄音開始。";
+"Recording starts when both the audio inputs and outputs are continuously active." = "當音訊輸入和輸出都處於持續活躍狀態時，錄音開始。";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "錄音%@_%@";
@@ -943,7 +943,7 @@
 "System Applications" = "系統應用程式";
 
 /* No comment provided by engineer. */
-"System Audio" = "系統音頻";
+"System Audio" = "系統音訊";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "輕觸退出";
@@ -958,43 +958,43 @@
 "The application will launch automatically when recording ends." = "錄音結束時應用將自動啓動。";
 
 /* No comment provided by engineer. */
-"The date and time when the audio was created." = "音頻創建的日期和時間。";
+"The date and time when the audio was created." = "音訊創建的日期和時間。";
 
 /* No comment provided by engineer. */
-"The device will vibrate when recording ends." = "錄音結束時設備將震動。";
+"The device will vibrate when recording ends." = "錄音結束時裝置將震動。";
 
 /* No comment provided by engineer. */
-"The device will vibrate when recording starts." = "錄音開始時設備將震動。";
+"The device will vibrate when recording starts." = "錄音開始時裝置將震動。";
 
 /* No comment provided by engineer. */
-"The device will vibrate with special haptic patterns when recording starts and ends." = "設備將在錄音開始和結束時以特殊的觸覺模式震動。";
+"The device will vibrate with special haptic patterns when recording starts and ends." = "裝置將在錄音開始和結束時以特殊的觸覺模式震動。";
 
 /* No comment provided by engineer. */
-"The direction of the call. May not available for all audio files." = "通話的方向。可能并非所有音頻檔案都可用。";
+"The direction of the call. May not available for all audio files." = "通話的方向。可能并非所有音訊檔案都可用。";
 
 /* No comment provided by engineer. */
-"The file format of the selected audio file." = "當前音頻文件的文件格式。";
+"The file format of the selected audio file." = "當前音訊文件的文件格式。";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "如果在錄音過程中地理位置發生變化，將更新同步到錄音元數據中。";
 
 /* No comment provided by engineer. */
-"The location where the recording was recorded." = "音頻錄製的位置。";
+"The location where the recording was recorded." = "音訊錄製的位置。";
 
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "如果你在錄音結束後的一段時間內打開應用程式，缺失的位置元數據將被填充。";
 
 /* No comment provided by engineer. */
-"The number of samples per second, higher sample rate means better audio quality with larger file size." = "每秒的樣本數，更高的取樣速率意味著更好的音頻質量和更大的檔案大小。";
+"The number of samples per second, higher sample rate means better audio quality with larger file size." = "每秒的樣本數，更高的取樣速率意味著更好的音訊質量和更大的檔案大小。";
 
 /* No comment provided by engineer. */
 "The phone number. Third party application or CallKit calls may not have this value." = "電話號碼。 第三方應用或 CallKit 可能沒有此值。";
 
 /* No comment provided by engineer. */
-"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用於通道合併的方式。 組合模式會將立體聲揚聲器音頻壓縮到左聲道，麥克風在右聲道。 關閉後為混合模式，會將麥克風通道複製到立體聲並與揚聲器通道混合輸出。";
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用於通道合併的方式。 組合模式會將立體聲揚聲器音訊壓縮到左聲道，麥克風在右聲道。 關閉後為混合模式，會將麥克風通道複製到立體聲並與揚聲器通道混合輸出。";
 
 /* No comment provided by engineer. */
-"The size of selected audio file." = "選定音頻檔案的大小。";
+"The size of selected audio file." = "選定音訊檔案的大小。";
 
 /* No comment provided by engineer. */
 "The time interval before the global hoverball becomes idle." = "全局懸浮球變爲閑置狀態之前的時間。";
@@ -1144,7 +1144,7 @@
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "警告，您的通話正在被錄音。 警告，您的通話正在被錄音。";
 
 /* No comment provided by engineer. */
-"Waveform Audio" = "波形音頻 (wav)";
+"Waveform Audio" = "波形音訊 (wav)";
 
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我們喜歡移動著的、多彩的背景，但是我們依然提供了選項讓你來關閉它。";
