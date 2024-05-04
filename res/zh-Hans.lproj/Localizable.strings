@@ -1030,6 +1030,9 @@
 "To" = "结束于";
 
 /* No comment provided by engineer. */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服务的活跃状态，你需要为巨魔录音机选择 “始终” 或 “使用 App 期间”。";
+
+/* No comment provided by engineer. */
 "To: %@" = "结束于：%@";
 
 "toggle" = "toggle";
