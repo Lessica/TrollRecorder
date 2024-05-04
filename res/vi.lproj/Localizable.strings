@@ -151,6 +151,9 @@
 /* No comment provided by engineer. */
 "Automatically stop recording when the free disk space is extremely low." = "Tự động dừng ghi âm khi dung lượng ổ cứng trống cực kỳ thấp.";
 
+/* TODO */
+"Automatically Suspend in Background" = "Automatically Suspend in Background";
+
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Có sẵn vĩnh viễn";
 
@@ -382,6 +385,9 @@
 
 /* No comment provided by engineer. */
 "Enabled" = "Đã kích hoạt";
+
+/* TODO */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground.";
 
 /* No comment provided by engineer. */
 "End Date" = "Ngày kết thúc";

@@ -152,6 +152,9 @@
 "Automatically stop recording when the free disk space is extremely low." = "当剩余磁盘空间极低时，自动停止录音。";
 
 /* No comment provided by engineer. */
+"Automatically Suspend in Background" = "后台自动暂停";
+
+/* No comment provided by engineer. */
 "Available for Lifetime" = "一次购买终身可用";
 
 /* No comment provided by engineer. */
@@ -382,6 +385,9 @@
 
 /* No comment provided by engineer. */
 "Enabled" = "启用";
+
+/* No comment provided by engineer. */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "当应用程序进入后台且最后一个连接关闭时，自动暂停 WebDAV 服务。当应用程序回到前台时恢复服务。";
 
 /* No comment provided by engineer. */
 "End Date" = "结束日期";

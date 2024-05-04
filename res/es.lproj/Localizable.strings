@@ -151,6 +151,9 @@
 /* No comment provided by engineer. */
 "Automatically stop recording when the free disk space is extremely low." = "Detener automáticamente la grabación cuando el espacio libre en disco sea extremadamente bajo.";
 
+/* TODO */
+"Automatically Suspend in Background" = "Automatically Suspend in Background";
+
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Disponible de por vida";
 
@@ -382,6 +385,9 @@
 
 /* No comment provided by engineer. */
 "Enabled" = "Activado";
+
+/* TODO */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground.";
 
 /* No comment provided by engineer. */
 "End Date" = "Fecha de finalización";
