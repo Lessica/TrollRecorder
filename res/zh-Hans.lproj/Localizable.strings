@@ -77,6 +77,9 @@
 "Agree" = "同意";
 
 /* No comment provided by engineer. */
+"All Edges" = "所有边缘";
+
+/* No comment provided by engineer. */
 "Allow Access to Call History" = "允许访问通话记录";
 
 /* No comment provided by engineer. */
@@ -98,7 +101,7 @@
 "Always Dynamic" = "保持动态";
 
 /* No comment provided by engineer. */
-"Always keep the global hoverball window visible." = "总是保持全局悬浮球可见。";
+"Always keep the hoverball window visible." = "总是保持悬浮球可见。";
 
 /* No comment provided by engineer. */
 "Always Light" = "保持浅色";
@@ -126,6 +129,9 @@
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多存储空间，请谨慎开启。";
+
+/* No comment provided by engineer. */
+"Attachable Edges" = "可吸附边缘";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "音频压缩";
@@ -179,6 +185,9 @@
 "Bonjour server started at: %@" = "Bonjour 服务已启动：%@";
 
 /* No comment provided by engineer. */
+"bottom edge" = "底边";
+
+/* No comment provided by engineer. */
 "Bundle Identifier" = "捆绑包标识符";
 
 /* No comment provided by engineer. */
@@ -215,7 +224,7 @@
 "Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "选择混音器的输出采样率。低：8 kHz，普通：22.05 kHz，最好：44.1 kHz。";
 
 /* No comment provided by engineer. */
-"Choose the size preset of the global hoverball." = "选择全局悬浮球的预设尺寸。";
+"Choose the size preset of the hoverball." = "选择悬浮球的预设尺寸。";
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "自动清理缓存";
@@ -289,6 +298,12 @@
 /* No comment provided by engineer. */
 "Created At" = "创建于";
 
+/* No comment provided by engineer. */
+"Custom Layout Guide" = "自定义安全区域";
+
+/* No comment provided by engineer. */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "自定义一个矩形区域，帮助你在屏幕上定位悬浮球。";
+
 "deactivate" = "deactivate";
 
 /* No comment provided by engineer. */
@@ -345,13 +360,13 @@
 "Display the exact duration of the recorded audio." = "显示已录制音频的准确时间长度。";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call in the current application." = "在当前应用程序中通话时显示全局悬浮球。";
+"Display the hoverball during a call in the current application." = "在当前应用程序中通话时显示悬浮球。";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call." = "在通话中显示全局悬浮球。";
+"Display the hoverball during a call." = "在通话中显示悬浮球。";
 
 /* No comment provided by engineer. */
-"Display the global hoverball when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，显示全局悬浮球。";
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，显示悬浮球。";
 
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "显示通讯录当中联系人的姓名，而不是他们的电话号码。";
@@ -367,6 +382,15 @@
 
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "显示录音来源的捆绑包名称。";
+
+/* No comment provided by engineer. */
+"Don’t ask again" = "不再询问";
+
+/* No comment provided by engineer. */
+"Double tap to restore __all edges__  \nto their default sizes." = "轻点两次以恢复 __所有边缘__ 至默认尺寸。";
+
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此处__ 以调节 ___%@___ 的尺寸。";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "闲置时长";
@@ -391,6 +415,9 @@
 
 /* No comment provided by engineer. */
 "End Date" = "结束日期";
+
+/* No comment provided by engineer. */
+"End Editing" = "结束编辑";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "增强自动录音";
@@ -549,6 +576,12 @@
 "Launch When First Unlocked" = "首次解锁时启动";
 
 /* No comment provided by engineer. */
+"Leading & Trailing" = "左右边缘";
+
+/* No comment provided by engineer. */
+"leading edge" = "左边";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "将设备链接到 Havoc";
 
 /* No comment provided by engineer. */
@@ -576,10 +609,10 @@
 "Made with love by @Lessica & @Lakr233" = "@Lessica 和 @Lakr233 一起写的";
 
 /* No comment provided by engineer. */
-"Make the global hoverball invisible when taking screenshots or screen recordings." = "在进行截屏或屏幕录制时使悬浮球不可见。";
+"Make the hoverball invisible when taking screenshots or screen recordings." = "在进行截屏或屏幕录制时使悬浮球不可见。";
 
 /* No comment provided by engineer. */
-"Make the global hoverball semi-transparent or folded when leave it for a while." = "当悬浮球闲置一段时间后，使其半透明或折叠到屏幕边缘。";
+"Make the hoverball semi-transparent or folded when leave it for a while." = "当悬浮球闲置一段时间后，使其半透明或折叠到屏幕边缘。";
 
 /* No comment provided by engineer. */
 "Making a phone call to begin recording." = "进行通话以开始录制。";
@@ -669,7 +702,7 @@
 "Notifications" = "通知与提醒";
 
 /* No comment provided by engineer. */
-"OK" = "确定";
+"OK" = "好";
 
 /* No comment provided by engineer. */
 "Oops!" = "似乎出了一点小问题";
@@ -693,9 +726,6 @@
 "Open “Filza File Manager” to view or recover your recordings." = "打开 “Filza 文件管理器” 查看或恢复你的录音。";
 
 /* No comment provided by engineer. */
-"Operation Timeout\nQuit this application and try again." = "操作超时\n退出此应用程序并重试。";
-
-/* No comment provided by engineer. */
 "Optic ID" = "视网膜 ID";
 
 /* No comment provided by engineer. */
@@ -706,6 +736,9 @@
 
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "来自 “%@” 的去电录音。";
+
+/* No comment provided by engineer. */
+"Pause Recording" = "暂停录音";
 
 /* No comment provided by engineer. */
 "Paused" = "暂停";
@@ -768,6 +801,9 @@
 "Quick Recording" = "快速录音";
 
 /* No comment provided by engineer. */
+"Quit this application and try again." = "退出此应用程序并重试。";
+
+/* No comment provided by engineer. */
 "Re-authenticate" = "重新验证";
 
 /* No comment provided by engineer. */
@@ -822,6 +858,12 @@
 
 /* No comment provided by engineer. */
 "Respring" = "妙手回春";
+
+/* No comment provided by engineer. */
+"Resume Recording" = "继续录音";
+
+/* No comment provided by engineer. */
+"Resume with Warning" = "继续并警告";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "反选";
@@ -952,6 +994,9 @@
 "System Audio" = "系统音频";
 
 /* No comment provided by engineer. */
+"Tap __any edge__  \nto select it as an ___active edge___." = "轻按并选中 __任一边缘__，  \n使其进入 ___活跃状态___。";
+
+/* No comment provided by engineer. */
 "Tap to Exit" = "轻点退出";
 
 /* No comment provided by engineer. */
@@ -1003,7 +1048,7 @@
 "The size of selected audio file." = "选定音频文件的大小。";
 
 /* No comment provided by engineer. */
-"The time interval before the global hoverball becomes idle." = "全局悬浮球变为闲置状态之前的时间。";
+"The time interval before the hoverball becomes idle." = "悬浮球变为闲置状态之前的时间。";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "提供方应用程序的唯一标识符。";
@@ -1027,6 +1072,12 @@
 "This field accept phone number or an email address for matching contact." = "此字段可填写电话号码或电子邮箱地址以匹配联系人。";
 
 /* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你可以购买 “巨魔录音机” 来启用 “微信通话助理”，你想现在购买吗？";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你似乎没有启用 “微信通话助理”，你想立即启用吗？";
+
+/* No comment provided by engineer. */
 "To" = "结束于";
 
 /* No comment provided by engineer. */
@@ -1044,10 +1095,16 @@
 "Toggle Recording" = "开始/停止录音";
 
 /* No comment provided by engineer. */
+"top edge" = "顶边";
+
+/* No comment provided by engineer. */
 "Touch ID" = "指纹 ID";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "处理位置变化";
+
+/* No comment provided by engineer. */
+"trailing edge" = "右边";
 
 /* No comment provided by engineer. */
 "Transcript" = "转录";
@@ -1171,13 +1228,16 @@
 "We’ve got new phone call recordings!" = "我们生成了一些新的通话录音！";
 
 /* No comment provided by engineer. */
-"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，全局悬浮球也会在锁屏界面显示。暂时仍无法在未解锁前显示。";
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。暂时仍无法在未解锁前显示。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制应用程序使用浅色或深色用户界面。";
 
 /* No comment provided by engineer. */
-"Whether to force the global hoverball to use the light or the dark style." = "是否强制全局悬浮球使用浅色或深色样式。";
+"Whether to force the hoverball to use the light or the dark style." = "是否强制悬浮球使用浅色或深色样式。";
+
+/* No comment provided by engineer. */
+"Which edges of the screen the hoverball can be attached to." = "悬浮球可以附着在屏幕的哪些边缘。";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "在当前应用程序中通话时自动开始录音。";

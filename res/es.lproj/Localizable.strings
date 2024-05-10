@@ -77,6 +77,9 @@
 "Agree" = "Aceptar";
 
 /* TODO */
+"All Edges" = "All Edges";
+
+/* TODO */
 "Allow Access to Call History" = "Allow Access to Call History";
 
 /* No comment provided by engineer. */
@@ -98,7 +101,7 @@
 "Always Dynamic" = "Siempre dinámico";
 
 /* No comment provided by engineer. */
-"Always keep the global hoverball window visible." = "Mantener siempre visible la ventana HUD global.";
+"Always keep the hoverball window visible." = "Mantener siempre visible la ventana HUD global.";
 
 /* No comment provided by engineer. */
 "Always Light" = "Siempre claro";
@@ -126,6 +129,9 @@
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "Al final de la grabación, se conservan los archivos de audio de cada canal durante la grabación.";
+
+/* TODO */
+"Attachable Edges" = "Attachable Edges";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Compresión de audio";
@@ -178,6 +184,9 @@
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Servidor Bonjour iniciado en: %@";
 
+/* TODO */
+"bottom edge" = "bottom edge";
+
 /* No comment provided by engineer. */
 "Bundle Identifier" = "Identificador de paquete";
 
@@ -215,7 +224,7 @@
 "Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "Elige la tasa de muestreo de la salida de la mezcladora. Baja: 8 kHz, Regular: 22.05 kHz, Mejor: 44.1 kHz.";
 
 /* No comment provided by engineer. */
-"Choose the size preset of the global hoverball." = "Elige el tamaño preestablecido del HUD global.";
+"Choose the size preset of the hoverball." = "Elige el tamaño preestablecido del HUD global.";
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "Limpiar cachés automáticamente";
@@ -289,6 +298,12 @@
 /* No comment provided by engineer. */
 "Created At" = "Creado en";
 
+/* TODO */
+"Custom Layout Guide" = "Custom Layout Guide";
+
+/* TODO */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
+
 /* No comment provided by engineer. */
 "Deactivate" = "Desactivar";
 
@@ -345,13 +360,13 @@
 "Display the exact duration of the recorded audio." = "Muestra la duración exacta del audio grabado.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call in the current application." = "Muestra el HUD global durante una llamada en la aplicación actual.";
+"Display the hoverball during a call in the current application." = "Muestra el HUD global durante una llamada en la aplicación actual.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call." = "Muestra el HUD global durante una llamada.";
+"Display the hoverball during a call." = "Muestra el HUD global durante una llamada.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball when both the audio inputs and outputs are continuously active." = "Muestra el HUD global cuando tanto las entradas como las salidas de audio están activas continuamente.";
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Muestra el HUD global cuando tanto las entradas como las salidas de audio están activas continuamente.";
 
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "Mostrar los nombres de los contactos de la agenda en lugar de sus números de teléfono.";
@@ -367,6 +382,15 @@
 
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Muestra el nombre del paquete fuente de la grabación.";
+
+/* TODO */
+"Don’t ask again" = "Don’t ask again";
+
+/* TODO */
+"Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
+
+/* TODO */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duración antes de inactividad";
@@ -391,6 +415,9 @@
 
 /* No comment provided by engineer. */
 "End Date" = "Fecha de finalización";
+
+/* TODO */
+"End Editing" = "End Editing";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "Grabación automática mejorada";
@@ -548,6 +575,12 @@
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Lanzar al desbloquear por primera vez";
 
+/* TODO */
+"Leading & Trailing" = "Leading & Trailing";
+
+/* TODO */
+"leading edge" = "leading edge";
+
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Vincular dispositivo a Havoc";
 
@@ -576,10 +609,10 @@
 "Made with love by @Lessica & @Lakr233" = "Hecho con amor por @Lessica & @Lakr233";
 
 /* No comment provided by engineer. */
-"Make the global hoverball invisible when taking screenshots or screen recordings." = "Hacer invisible el HUD global al hacer capturas o grabaciones de pantalla.";
+"Make the hoverball invisible when taking screenshots or screen recordings." = "Hacer invisible el HUD global al hacer capturas o grabaciones de pantalla.";
 
 /* No comment provided by engineer. */
-"Make the global hoverball semi-transparent or folded when leave it for a while." = "Hacer que el HUD global sea semitransparente o plegado cuando lo dejes por un tiempo.";
+"Make the hoverball semi-transparent or folded when leave it for a while." = "Hacer que el HUD global sea semitransparente o plegado cuando lo dejes por un tiempo.";
 
 /* No comment provided by engineer. */
 "Making a phone call to begin recording." = "Hacer una llamada telefónica para iniciar la grabación.";
@@ -693,9 +726,6 @@
 "Open “Filza File Manager” to view or recover your recordings." = "Abre “Filza File Manager” para ver o recuperar tus grabaciones.";
 
 /* No comment provided by engineer. */
-"Operation Timeout\nQuit this application and try again." = "Tiempo de espera de la operación\nSalga de esta aplicación e inténtelo de nuevo.";
-
-/* No comment provided by engineer. */
 "Optic ID" = "ID óptica";
 
 /* No comment provided by engineer. */
@@ -706,6 +736,9 @@
 
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "Grabación de llamadas salientes de “%@”.";
+
+/* TODO */
+"Pause Recording" = "Pause Recording";
 
 /* No comment provided by engineer. */
 "Paused" = "En pausa";
@@ -768,6 +801,9 @@
 "Quick Recording" = "Quick Recording";
 
 /* No comment provided by engineer. */
+"Quit this application and try again." = "Salga de esta aplicación e inténtelo de nuevo.";
+
+/* No comment provided by engineer. */
 "Re-authenticate" = "Volver a autenticar";
 
 /* No comment provided by engineer. */
@@ -822,6 +858,12 @@
 
 /* No comment provided by engineer. */
 "Respring" = "Respring";
+
+/* TODO */
+"Resume Recording" = "Resume Recording";
+
+/* TODO */
+"Resume with Warning" = "Resume with Warning";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Selección inversa";
@@ -951,6 +993,9 @@
 /* No comment provided by engineer. */
 "System Audio" = "Audio del sistema";
 
+/* TODO */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+
 /* No comment provided by engineer. */
 "Tap to Exit" = "Toque para salir";
 
@@ -1003,7 +1048,7 @@
 "The size of selected audio file." = "El tamaño del archivo de audio seleccionado.";
 
 /* No comment provided by engineer. */
-"The time interval before the global hoverball becomes idle." = "El intervalo de tiempo antes de que el HUD global se vuelva inactivo.";
+"The time interval before the hoverball becomes idle." = "El intervalo de tiempo antes de que el HUD global se vuelva inactivo.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "El identificador único de la aplicación proveedora.";
@@ -1026,6 +1071,12 @@
 /* No comment provided by engineer. */
 "This field accept phone number or an email address for matching contact." = "Este campo acepta un número de teléfono o una dirección de correo electrónico para buscar un contacto.";
 
+/* TODO */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
+
+/* TODO */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+
 /* No comment provided by engineer. */
 "To" = "Hasta";
 
@@ -1043,11 +1094,17 @@
 
 "Toggle Recording" = "Activar/desactivar grabación";
 
+/* TODO */
+"top edge" = "top edge";
+
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "Seguimiento de las actualizaciones de ubicación";
+
+/* TODO */
+"trailing edge" = "trailing edge";
 
 /* No comment provided by engineer. */
 "Transcript" = "Transcripción";
@@ -1171,13 +1228,16 @@
 "We’ve got new phone call recordings!" = "¡Tenemos nuevas grabaciones de llamadas telefónicas!";
 
 /* TODO */
-"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "When unlocked, the global hoverball is displayed even if you are not on the home screen.";
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Si se debe forzar a la aplicación a utilizar la interfaz de usuario clara u oscura.";
 
 /* No comment provided by engineer. */
-"Whether to force the global hoverball to use the light or the dark style." = "Si se debe forzar al HUD global a utilizar el estilo claro u oscuro.";
+"Whether to force the hoverball to use the light or the dark style." = "Si se debe forzar al HUD global a utilizar el estilo claro u oscuro.";
+
+/* TODO */
+"Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Empezará a grabar automáticamente en llamadas de audio o vídeo en la aplicación actual.";

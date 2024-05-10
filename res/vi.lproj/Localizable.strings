@@ -77,6 +77,9 @@
 "Agree" = "Đồng ý";
 
 /* TODO */
+"All Edges" = "All Edges";
+
+/* TODO */
 "Allow Access to Call History" = "Allow Access to Call History";
 
 /* No comment provided by engineer. */
@@ -98,7 +101,7 @@
 "Always Dynamic" = "Luôn năng động";
 
 /* No comment provided by engineer. */
-"Always keep the global hoverball window visible." = "Luôn giữ cho cửa sổ bong bóng được hiển thị mọi lúc";
+"Always keep the hoverball window visible." = "Luôn giữ cho cửa sổ bong bóng được hiển thị mọi lúc";
 
 /* No comment provided by engineer. */
 "Always Light" = "Luôn sáng";
@@ -126,6 +129,9 @@
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "Vào cuối quá trình ghi âm, các tệp âm thanh của mỗi kênh trong quá trình ghi âm được giữ lại.";
+
+/* TODO */
+"Attachable Edges" = "Attachable Edges";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Nén âm thanh";
@@ -178,6 +184,9 @@
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Máy chủ Bonjour bắt đầu lúc: %@";
 
+/* TODO */
+"bottom edge" = "bottom edge";
+
 /* No comment provided by engineer. */
 "Bundle Identifier" = "Mã định danh gói";
 
@@ -215,7 +224,7 @@
 "Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "Chọn tốc độ lấy mẫu của đầu ra của hòa âm. Thấp: 8 kHz, Thông thường: 22.05 kHz, Tốt nhất: 44.1 kHz.";
 
 /* No comment provided by engineer. */
-"Choose the size preset of the global hoverball." = "Chọn kích thước đặt trước của quả bóng bay mọi nơi.";
+"Choose the size preset of the hoverball." = "Chọn kích thước đặt trước của quả bóng bay mọi nơi.";
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "Tự động làm sạch bộ nhớ đệm";
@@ -289,6 +298,12 @@
 /* No comment provided by engineer. */
 "Created At" = "Được tạo ra tại";
 
+/* TODO */
+"Custom Layout Guide" = "Custom Layout Guide";
+
+/* TODO */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
+
 "deactivate" = "huỷ kích hoạt";
 
 /* No comment provided by engineer. */
@@ -345,13 +360,13 @@
 "Display the exact duration of the recorded audio." = "Hiển thị thời lượng chính xác của âm thanh được ghi lại.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call in the current application." = "Hiển thị bong bóng mọi nơi trong một cuộc gọi trong ứng dụng hiện tại.";
+"Display the hoverball during a call in the current application." = "Hiển thị bong bóng mọi nơi trong một cuộc gọi trong ứng dụng hiện tại.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call." = "Hiển thị bong bóng mọi nơi trong một cuộc gọi.";
+"Display the hoverball during a call." = "Hiển thị bong bóng mọi nơi trong một cuộc gọi.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball when both the audio inputs and outputs are continuously active." = "Hiển thị bong bóng mọi nơi khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Hiển thị bong bóng mọi nơi khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
 
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "Hiển thị tên của các liên hệ trong sổ địa chỉ của bạn thay vì số điện thoại của họ.";
@@ -367,6 +382,15 @@
 
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Hiển thị tên gói nguồn của bản ghi.";
+
+/* TODO */
+"Don’t ask again" = "Don’t ask again";
+
+/* TODO */
+"Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
+
+/* TODO */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Thời lượng trước khi nhàn rỗi";
@@ -391,6 +415,9 @@
 
 /* No comment provided by engineer. */
 "End Date" = "Ngày kết thúc";
+
+/* TODO */
+"End Editing" = "End Editing";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "Ghi âm tự động nâng cao";
@@ -548,6 +575,12 @@
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Khởi chạy khi mở khóa lần đầu tiên";
 
+/* TODO */
+"Leading & Trailing" = "Leading & Trailing";
+
+/* TODO */
+"leading edge" = "leading edge";
+
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
 
@@ -576,10 +609,10 @@
 "Made with love by @Lessica & @Lakr233" = "Được làm bằng tình yêu bởi @Lessica & @Lakr233";
 
 /* No comment provided by engineer. */
-"Make the global hoverball invisible when taking screenshots or screen recordings." = "Làm cho bong bóng mọi nơi trở nên vô hình khi chụp ảnh màn hình hoặc ghi lại màn hình.";
+"Make the hoverball invisible when taking screenshots or screen recordings." = "Làm cho bong bóng mọi nơi trở nên vô hình khi chụp ảnh màn hình hoặc ghi lại màn hình.";
 
 /* No comment provided by engineer. */
-"Make the global hoverball semi-transparent or folded when leave it for a while." = "Làm cho bong bóng trong suốt hoặc gấp lại khi để nó trong một thời gian.";
+"Make the hoverball semi-transparent or folded when leave it for a while." = "Làm cho bong bóng trong suốt hoặc gấp lại khi để nó trong một thời gian.";
 
 /* No comment provided by engineer. */
 "Making a phone call to begin recording." = "Gọi điện thoại để bắt đầu ghi âm.";
@@ -692,9 +725,6 @@
 /* No comment provided by engineer. */
 "Open “Filza File Manager” to view or recover your recordings." = "Mở “Trình quản lý tệp Filza” để xem hoặc khôi phục các bản ghi âm của bạn.";
 
-/* TODO */
-"Operation Timeout\nQuit this application and try again." = "Operation Timeout\nQuit this application and try again.";
-
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
 
@@ -706,6 +736,9 @@
 
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "Ghi âm cuộc gọi đi từ “%@”.";
+
+/* TODO */
+"Pause Recording" = "Pause Recording";
 
 /* No comment provided by engineer. */
 "Paused" = "Tạm dừng";
@@ -767,6 +800,9 @@
 /* No comment provided by engineer. */
 "Quick Recording" = "Ghi âm nhanh";
 
+/* TODO */
+"Quit this application and try again." = "Quit this application and try again.";
+
 /* No comment provided by engineer. */
 "Re-authenticate" = "Xác thực lại";
 
@@ -822,6 +858,12 @@
 
 /* No comment provided by engineer. */
 "Respring" = "Respring";
+
+/* TODO */
+"Resume Recording" = "Resume Recording";
+
+/* TODO */
+"Resume with Warning" = "Resume with Warning";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Lựa chọn ngược";
@@ -951,6 +993,9 @@
 /* No comment provided by engineer. */
 "System Audio" = "Hệ thống âm thanh";
 
+/* TODO */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+
 /* No comment provided by engineer. */
 "Tap to Exit" = "Nhấn để thoát";
 
@@ -1003,7 +1048,7 @@
 "The size of selected audio file." = "Kích thước của tệp âm thanh đã chọn.";
 
 /* No comment provided by engineer. */
-"The time interval before the global hoverball becomes idle." = "Khoảng thời gian trước khi bong bóng mọi nơi trở nên nhàn rỗi.";
+"The time interval before the hoverball becomes idle." = "Khoảng thời gian trước khi bong bóng mọi nơi trở nên nhàn rỗi.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "Mã định danh duy nhất của ứng dụng nhà cung cấp.";
@@ -1026,6 +1071,12 @@
 /* No comment provided by engineer. */
 "This field accept phone number or an email address for matching contact." = "Trường này chấp nhận số điện thoại hoặc địa chỉ email để liên hệ phù hợp.";
 
+/* TODO */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
+
+/* TODO */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+
 /* No comment provided by engineer. */
 "To" = "Đến";
 
@@ -1043,11 +1094,17 @@
 
 "Toggle Recording" = "Bật tắt ghi âm";
 
+/* TODO */
+"top edge" = "top edge";
+
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "Theo dõi cập nhật vị trí";
+
+/* TODO */
+"trailing edge" = "trailing edge";
 
 /* No comment provided by engineer. */
 "Transcript" = "Lời thoại";
@@ -1172,13 +1229,16 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 "We’ve got new phone call recordings!" = "Chúng tôi có bản ghi âm cuộc gọi điện thoại mới!";
 
 /* No comment provided by engineer. */
-"When unlocked, the global hoverball is displayed even if you are not on the home screen." = "Khi được mở khóa, bong bóng mọi nơi sẽ được hiển thị ngay cả khi bạn không ở trên màn hình chính.";
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "Khi được mở khóa, bong bóng mọi nơi sẽ được hiển thị ngay cả khi bạn không ở trên màn hình chính.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Cho dù buộc ứng dụng sử dụng giao diện người dùng sáng hay tối.";
 
 /* No comment provided by engineer. */
-"Whether to force the global hoverball to use the light or the dark style." = "Cho dù buộc bong bóng mọi nơi sử dụng phong cách ánh sáng hay bóng tối.";
+"Whether to force the hoverball to use the light or the dark style." = "Cho dù buộc bong bóng mọi nơi sử dụng phong cách ánh sáng hay bóng tối.";
+
+/* TODO */
+"Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video trong ứng dụng hiện tại.";
