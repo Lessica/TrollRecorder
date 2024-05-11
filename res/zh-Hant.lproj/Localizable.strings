@@ -76,8 +76,8 @@
 /* No comment provided by engineer. */
 "Agree" = "同意";
 
-/* TODO */
-"All Edges" = "All Edges";
+/* No comment provided by engineer. */
+"All Edges" = "所有邊緣";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "允許訪問呼叫歷史記錄";
@@ -107,7 +107,7 @@
 "Always Light" = "保持淺色";
 
 /* No comment provided by engineer. */
-"Always On" = "始終顯示";
+"Always On" = "總是顯示";
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音訊";
@@ -130,8 +130,8 @@
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音訊檔案。 佔用較多存儲空間，請謹慎開啟。";
 
-/* TODO */
-"Attachable Edges" = "Attachable Edges";
+/* No comment provided by engineer. */
+"Attachable Edges" = "可吸附邊緣";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "音訊壓縮";
@@ -143,7 +143,7 @@
 "Automatic Recording" = "自動錄音";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用後臺服務。 需要將“巨魔錄音機”小組件添加到主荧幕任意位置才能使此選項生效。";
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小組件添加到主荧幕任意位置才能使此選項生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將麥克風和揚聲器合併成一個檔案。";
@@ -157,8 +157,8 @@
 /* No comment provided by engineer. */
 "Automatically stop recording when the free disk space is extremely low." = "當剩餘磁碟空間極低時，自動停止錄音。";
 
-/* TODO */
-"Automatically Suspend in Background" = "Automatically Suspend in Background";
+/* No comment provided by engineer. */
+"Automatically Suspend in Background" = "背景程式自動停止";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "一次購買終身可用";
@@ -184,8 +184,8 @@
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour 服務已啓動：%@";
 
-/* TODO */
-"bottom edge" = "bottom edge";
+/* No comment provided by engineer. */
+"bottom edge" = "底部邊緣";
 
 /* No comment provided by engineer. */
 "Bundle Identifier" = "捆綁包標識符";
@@ -298,11 +298,11 @@
 /* No comment provided by engineer. */
 "Created At" = "創建於";
 
-/* TODO */
-"Custom Layout Guide" = "Custom Layout Guide";
+/* No comment provided by engineer. */
+"Custom Layout Guide" = "自定義安全區域";
 
-/* TODO */
-"Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
+/* No comment provided by engineer. */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "自定義一個矩形區域以幫助您在熒幕上定位懸浮球。";
 
 "deactivate" = "deactivate";
 
@@ -383,14 +383,14 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "顯示錄音來源的捆綁包名稱。";
 
-/* TODO */
-"Don’t ask again" = "Don’t ask again";
+/* No comment provided by engineer. */
+"Don’t ask again" = "不再詢問";
 
-/* TODO */
-"Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
+/* No comment provided by engineer. */
+"Double tap to restore __all edges__  \nto their default sizes." = "輕觸兩次以恢復 __所有邊緣__ 至默認尺寸。";
 
-/* TODO */
-"Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "閑置時長";
@@ -410,14 +410,14 @@
 /* No comment provided by engineer. */
 "Enabled" = "啓用";
 
-/* TODO */
-"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground.";
+/* No comment provided by engineer. */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "當應用程式進入背景且最後一個連接關閉時，自動停止 WebDAV 服務。當應用程式回到前景時恢復服務。";
 
 /* No comment provided by engineer. */
 "End Date" = "結束日期";
 
-/* TODO */
-"End Editing" = "End Editing";
+/* No comment provided by engineer. */
+"End Editing" = "結束編輯";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "增强自動錄音";
@@ -478,7 +478,7 @@
 "Finalizing" = "完成中";
 
 /* No comment provided by engineer. */
-"Fold to Screen Edge" = "摺叠到螢幕邊緣";
+"Fold to Screen Edge" = "摺叠到熒幕邊緣";
 
 /* No comment provided by engineer. */
 "Follow System" = "跟隨系統";
@@ -575,11 +575,11 @@
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "首次解鎖時啓動";
 
-/* TODO */
-"Leading & Trailing" = "Leading & Trailing";
+/* No comment provided by engineer. */
+"Leading & Trailing" = "左右邊緣";
 
-/* TODO */
-"leading edge" = "leading edge";
+/* No comment provided by engineer. */
+"leading edge" = "左部邊緣";
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "將裝置連結到 Havoc";
@@ -609,7 +609,7 @@
 "Made with love by @Lessica & @Lakr233" = "@Lessica 和 @Lakr233 一起寫的";
 
 /* No comment provided by engineer. */
-"Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或螢幕錄製時使懸浮球不可見。";
+"Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或熒幕錄製時使懸浮球不可見。";
 
 /* No comment provided by engineer. */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "當懸浮球閑置一段時間後，使其半透明或摺曡到熒幕邊緣。";
@@ -737,8 +737,8 @@
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "来自 “%@” 的去電錄音。";
 
-/* TODO */
-"Pause Recording" = "Pause Recording";
+/* No comment provided by engineer. */
+"Pause Recording" = "暫停錄音";
 
 /* No comment provided by engineer. */
 "Paused" = "暫停";
@@ -859,11 +859,11 @@
 /* No comment provided by engineer. */
 "Respring" = "妙手回春";
 
-/* TODO */
-"Resume Recording" = "Resume Recording";
+/* No comment provided by engineer. */
+"Resume Recording" = "繼續錄音";
 
-/* TODO */
-"Resume with Warning" = "Resume with Warning";
+/* No comment provided by engineer. */
+"Resume with Warning" = "繼續並警告";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "反選";
@@ -929,7 +929,7 @@
 "Show Contact Names" = "顯示聯絡人姓名";
 
 /* No comment provided by engineer. */
-"Show on Lock Screen" = "在鎖定螢幕上顯示";
+"Show on Lock Screen" = "在鎖定熒幕上顯示";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "顯示錄音時長";
@@ -993,8 +993,8 @@
 /* No comment provided by engineer. */
 "System Audio" = "系統音訊";
 
-/* TODO */
-"Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+/* No comment provided by engineer. */
+"Tap __any edge__  \nto select it as an ___active edge___." = "輕觸並選中 __任一邊緣__，  \n使其進入 ___活躍狀態___。";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "輕觸退出";
@@ -1057,7 +1057,7 @@
 "There is nothing but air." = "這裏只有空氣。";
 
 /* No comment provided by engineer. */
-"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "在錄製完成時，後臺服務未能立即合併錄音檔案。 萬幸的是，現在你可以完成這最後一步！";
+"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "在錄製完成時，背景服務未能立即合併錄音檔案。 萬幸的是，現在你可以完成這最後一步！";
 
 /* No comment provided by engineer. */
 "There was a problem verifying your identity." = "驗證你的身時出現問題。";
@@ -1071,17 +1071,17 @@
 /* No comment provided by engineer. */
 "This field accept phone number or an email address for matching contact." = "此字段可填寫電話號碼或電郵地址以匹配聯絡人。";
 
-/* TODO */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人姓名和備注。\n你可以購買 “巨魔錄音機” 以啓用 “WeChat 通話助理” ，你想現在購買嗎？";
 
-/* TODO */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人姓名和備注。\n你似乎沒有啓用 “WeChat 通話助理” ，你想立即啓用嗎？";
 
 /* No comment provided by engineer. */
 "To" = "結束于";
 
-/* TODO */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder.";
+/* No comment provided by engineer. */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服務的活躍狀態，你需要為巨魔錄音機選擇 “總是” 或 “使用 App 時” 。";
 
 /* No comment provided by engineer. */
 "To: %@" = "結束于：%@";
@@ -1094,8 +1094,8 @@
 
 "Toggle Recording" = "開始/停止錄音";
 
-/* TODO */
-"top edge" = "top edge";
+/* No comment provided by engineer. */
+"top edge" = "頂部邊緣";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
@@ -1103,8 +1103,8 @@
 /* No comment provided by engineer. */
 "Track Location Updates" = "處理位置變化";
 
-/* TODO */
-"trailing edge" = "trailing edge";
+/* No comment provided by engineer. */
+"trailing edge" = "右部邊緣";
 
 /* No comment provided by engineer. */
 "Transcript" = "轉錄";
@@ -1204,7 +1204,7 @@
 "Vibrate at End" = "結束時震動";
 
 /* No comment provided by engineer. */
-"VIP contacts will always be recorded and added to the favourites." = "VIP聯絡人將始終被錄音並添加到收藏中。";
+"VIP contacts will always be recorded and added to the favourites." = "VIP聯絡人將總是被錄音並添加到收藏中。";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "警告，您的通話正在被錄音。 警告，您的通話正在被錄音。";
@@ -1236,8 +1236,8 @@
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "是否强制懸浮球使用淺色或深色樣式。";
 
-/* TODO */
-"Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
+/* No comment provided by engineer. */
+"Which edges of the screen the hoverball can be attached to." = "懸浮球可以附著在熒幕的哪些邊緣。";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "在當前應用程序中通話時自動開啓錄音。";
@@ -1249,7 +1249,7 @@
 "Write latitude and longitude to the recording metadata." = "將經緯度寫入錄音元數據。";
 
 /* No comment provided by engineer. */
-"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必須選擇“始終”以使巨魔錄音機能够在後臺確定你的位置。 如果你選擇“使用App期間”，你需要在錄音結束後15分鐘內啟動應用程式以更新位置。";
+"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必須選擇“總是”以使巨魔錄音機能够在背景確定你的位置。 如果你選擇“使用 App 時”，你需要在錄音結束後15分鐘內啟動應用程式以更新位置。";
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要啟用“增强自動錄音”或“增强通話場景識別”以使此頁面上的選項生效。";
