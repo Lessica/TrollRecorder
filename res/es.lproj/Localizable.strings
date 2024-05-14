@@ -94,6 +94,9 @@
 /* TODO */
 "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
 
+/* TODO */
+"Always" = "Always";
+
 /* No comment provided by engineer. */
 "Always Dark" = "Siempre oscuro";
 
@@ -159,6 +162,9 @@
 
 /* TODO */
 "Automatically Suspend in Background" = "Automatically Suspend in Background";
+
+/* TODO */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect.";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Disponible de por vida";
@@ -338,6 +344,9 @@
 /* No comment provided by engineer. */
 "Direction" = "Direction";
 
+/* TODO */
+"Disabled" = "Disabled";
+
 /* No comment provided by engineer. */
 "Discard Recording" = "Descartar grabación";
 
@@ -352,6 +361,9 @@
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "Mostrar un banner de notificación al finalizar la grabación.";
+
+/* TODO */
+"Display a notification banner when recording starts." = "Display a notification banner when recording starts.";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Muestra el detalle de las grabaciones en el banner de notificación.";
@@ -503,6 +515,9 @@
 
 /* No comment provided by engineer. */
 "Get notifications after record complete." = "Recibir notificaciones una vez finalizado el registro.";
+
+/* TODO */
+"Go Home When Unlocked" = "Go Home When Unlocked";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Ocultar el HUD al hacer una instantánea";
@@ -773,6 +788,9 @@
 /* No comment provided by engineer. */
 "Popup Banner & Badge at End" = "Banner emergente e insignia al final";
 
+/* TODO */
+"Popup Banner at Begin" = "Popup Banner at Begin";
+
 /* No comment provided by engineer. */
 "Popup Banner at End" = "Banner emergente al final";
 
@@ -834,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "La grabación comienza cuando tanto las entradas como las salidas de audio están continuamente activas.";
+
+/* TODO */
+"Recording successfully started." = "Recording successfully started.";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "Grabación%@_%@";
@@ -968,6 +989,9 @@
 "Start or prepare a new call recording manually." = "Iniciar o preparar una nueva grabación de llamada manualmente.";
 
 "Start Recording" = "Iniciar grabación";
+
+/* TODO */
+"Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
 "stop" = "detener";
 
@@ -1221,11 +1245,17 @@
 /* No comment provided by engineer. */
 "Welcome to" = "Bienvenido a";
 
+/* TODO */
+"We’re unable to display a hoverball before your device is unlocked." = "We’re unable to display a hoverball before your device is unlocked.";
+
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "¡Tenemos una nueva grabación de llamada telefónica!";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "¡Tenemos nuevas grabaciones de llamadas telefónicas!";
+
+/* TODO */
+"When Locked" = "When Locked";
 
 /* TODO */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";

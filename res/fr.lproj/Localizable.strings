@@ -94,6 +94,9 @@
 /* TODO */
 "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
 
+/* TODO */
+"Always" = "Always";
+
 /* No comment provided by engineer. */
 "Always Dark" = "Toujours sombre";
 
@@ -159,6 +162,9 @@
 
 /* TODO */
 "Automatically Suspend in Background" = "Automatically Suspend in Background";
+
+/* TODO */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect.";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Disponible à vie";
@@ -338,6 +344,9 @@
 /* No comment provided by engineer. */
 "Direction" = "Direction";
 
+/* TODO */
+"Disabled" = "Disabled";
+
 /* No comment provided by engineer. */
 "Discard Recording" = "Rejeter l'enregistrement";
 
@@ -352,6 +361,9 @@
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "Afficher une bannière de notification lorsque l'enregistrement se termine.";
+
+/* TODO */
+"Display a notification banner when recording starts." = "Display a notification banner when recording starts.";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Afficher les détails des enregistrements dans la bannière de notification.";
@@ -503,6 +515,9 @@
 
 /* No comment provided by engineer. */
 "Get notifications after record complete." = "Recevez des notifications une fois l'enregistrement terminé.";
+
+/* TODO */
+"Go Home When Unlocked" = "Go Home When Unlocked";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Masquer lors de la capture d'écran";
@@ -773,6 +788,9 @@
 /* No comment provided by engineer. */
 "Popup Banner & Badge at End" = "Bannière contextuelle et badge à la fin";
 
+/* TODO */
+"Popup Banner at Begin" = "Popup Banner at Begin";
+
 /* No comment provided by engineer. */
 "Popup Banner at End" = "Bannière contextuelle à la fin";
 
@@ -834,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "L'enregistrement démarre lorsque à la fois les entrées et les sorties audio sont continuellement actives.";
+
+/* TODO */
+"Recording successfully started." = "Recording successfully started.";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "Enregistrement%@_%@";
@@ -968,6 +989,9 @@
 "Start or prepare a new call recording manually." = "Démarrer ou préparer manuellement un nouvel enregistrement d'appel.";
 
 "Start Recording" = "Démarrer l'enregistrement";
+
+/* TODO */
+"Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
 "stop" = "arrêter";
 
@@ -1221,11 +1245,17 @@
 /* No comment provided by engineer. */
 "Welcome to" = "Bienvenue à";
 
+/* TODO */
+"We’re unable to display a hoverball before your device is unlocked." = "We’re unable to display a hoverball before your device is unlocked.";
+
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Nous avons un nouvel enregistrement d'appel téléphonique !";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "Nous avons de nouveaux enregistrements d'appels téléphoniques !";
+
+/* TODO */
+"When Locked" = "When Locked";
 
 /* TODO */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";

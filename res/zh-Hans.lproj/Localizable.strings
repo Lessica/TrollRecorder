@@ -95,6 +95,9 @@
 "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允许录制已登录 iCloud 帐户、在您附近且接入无线局域网的设备上的通话。";
 
 /* No comment provided by engineer. */
+"Always" = "始终";
+
+/* No comment provided by engineer. */
 "Always Dark" = "保持深色";
 
 /* No comment provided by engineer. */
@@ -161,6 +164,9 @@
 "Automatically Suspend in Background" = "后台自动暂停";
 
 /* No comment provided by engineer. */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解锁后自动上划进入桌面。锁定后十秒内解锁，此动作不会生效。";
+
+/* No comment provided by engineer. */
 "Available for Lifetime" = "一次购买终身可用";
 
 /* No comment provided by engineer. */
@@ -203,10 +209,10 @@
 "Call Recording" = "通话录音";
 
 /* No comment provided by engineer. */
-"Call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的通话录音。";
+"Call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的通话录音";
 
 /* No comment provided by engineer. */
-"Call recording from “%@”." = "来自 “%@” 的通话录音。";
+"Call recording from “%@”." = "来自 “%@” 的通话录音";
 
 /* No comment provided by engineer. */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "打开此开关，使去电被对方接听时才自动开始录音。来电总是在被接听时才自动开始录音。";
@@ -339,6 +345,9 @@
 "Direction" = "通话类型";
 
 /* No comment provided by engineer. */
+"Disabled" = "关闭";
+
+/* No comment provided by engineer. */
 "Discard Recording" = "丢弃录音";
 
 /* No comment provided by engineer. */
@@ -352,6 +361,9 @@
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "录音结束时，显示通知横幅。";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording starts." = "录音开始时，显示通知横幅。";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "在通知横幅中显示录音的详细信息。";
@@ -505,6 +517,9 @@
 "Get notifications after record complete." = "录音完成后可推送通知提醒。";
 
 /* No comment provided by engineer. */
+"Go Home When Unlocked" = "解锁后回到桌面";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏时隐藏";
 
 /* No comment provided by engineer. */
@@ -540,10 +555,10 @@
 "Incoming" = "来电";
 
 /* No comment provided by engineer. */
-"Incoming call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的来电录音。";
+"Incoming call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的来电录音";
 
 /* No comment provided by engineer. */
-"Incoming call recording from “%@”." = "来自 “%@” 的来电录音。";
+"Incoming call recording from “%@”." = "来自 “%@” 的来电录音";
 
 /* No comment provided by engineer. */
 "Inconsistency Found" = "配置不一致";
@@ -732,10 +747,10 @@
 "Outgoing" = "去电";
 
 /* No comment provided by engineer. */
-"Outgoing call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的去电录音。";
+"Outgoing call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的去电录音";
 
 /* No comment provided by engineer. */
-"Outgoing call recording from “%@”." = "来自 “%@” 的去电录音。";
+"Outgoing call recording from “%@”." = "来自 “%@” 的去电录音";
 
 /* No comment provided by engineer. */
 "Pause Recording" = "暂停录音";
@@ -774,7 +789,10 @@
 "Popup Banner & Badge at End" = "显示通知和徽章";
 
 /* No comment provided by engineer. */
-"Popup Banner at End" = "显示通知";
+"Popup Banner at Begin" = "显示开始通知";
+
+/* No comment provided by engineer. */
+"Popup Banner at End" = "显示结束通知";
 
 /* No comment provided by engineer. */
 "Popup Banner with Detail" = "显示通知详情";
@@ -834,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，录音开始。";
+
+/* No comment provided by engineer. */
+"Recording successfully started." = "录音成功开始";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "录音%@_%@";
@@ -968,6 +989,9 @@
 "Start or prepare a new call recording manually." = "手动开始或准备开始一次新的通话录音。";
 
 "Start Recording" = "开始录音";
+
+/* No comment provided by engineer. */
+"Stay tuned. We’re recording your call in the background." = "请继续。我们正在后台录制你的通话。";
 
 "stop" = "停止";
 
@@ -1222,10 +1246,16 @@
 "Welcome to" = "欢迎使用";
 
 /* No comment provided by engineer. */
+"We’re unable to display a hoverball before your device is unlocked." = "在你的设备解锁之前，悬浮球无法显示。";
+
+/* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "我们生成了一份新的通话录音！";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "我们生成了一些新的通话录音！";
+
+/* No comment provided by engineer. */
+"When Locked" = "仅锁定时";
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。暂时仍无法在未解锁前显示。";

@@ -94,6 +94,9 @@
 /* TODO */
 "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
 
+/* TODO */
+"Always" = "Always";
+
 /* No comment provided by engineer. */
 "Always Dark" = "Luôn tối";
 
@@ -159,6 +162,9 @@
 
 /* TODO */
 "Automatically Suspend in Background" = "Automatically Suspend in Background";
+
+/* TODO */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect.";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Có sẵn vĩnh viễn";
@@ -338,6 +344,9 @@
 /* No comment provided by engineer. */
 "Direction" = "Hướng";
 
+/* TODO */
+"Disabled" = "Disabled";
+
 /* No comment provided by engineer. */
 "Discard Recording" = "Bỏ ghi âm";
 
@@ -352,6 +361,9 @@
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "Hiển thị biểu ngữ thông báo khi ghi âm kết thúc.";
+
+/* TODO */
+"Display a notification banner when recording starts." = "Display a notification banner when recording starts.";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Hiển thị chi tiết các bản ghi âm trong biểu ngữ thông báo.";
@@ -503,6 +515,9 @@
 
 /* No comment provided by engineer. */
 "Get notifications after record complete." = "Nhận thông báo sau khi hoàn thành bản ghi.";
+
+/* TODO */
+"Go Home When Unlocked" = "Go Home When Unlocked";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Ẩn khi chụp ảnh màn hình";
@@ -773,6 +788,9 @@
 /* No comment provided by engineer. */
 "Popup Banner & Badge at End" = "Biểu ngữ bật lên & Huy hiệu ở cuối";
 
+/* TODO */
+"Popup Banner at Begin" = "Popup Banner at Begin";
+
 /* No comment provided by engineer. */
 "Popup Banner at End" = "Biểu ngữ bật lên ở cuối";
 
@@ -834,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Ghi âm bắt đầu khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
+
+/* TODO */
+"Recording successfully started." = "Recording successfully started.";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "Đang ghi%@_%@";
@@ -968,6 +989,9 @@
 "Start or prepare a new call recording manually." = "Bắt đầu hoặc chuẩn bị ghi âm cuộc gọi mới theo cách thủ công.";
 
 "Start Recording" = "Bắt đầu ghi âm";
+
+/* TODO */
+"Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
 "stop" = "dừng lại";
 
@@ -1222,11 +1246,17 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 /* No comment provided by engineer. */
 "Welcome to" = "Chào mừng đến với";
 
+/* TODO */
+"We’re unable to display a hoverball before your device is unlocked." = "We’re unable to display a hoverball before your device is unlocked.";
+
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Chúng tôi có một bản ghi âm cuộc gọi điện thoại mới!";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "Chúng tôi có bản ghi âm cuộc gọi điện thoại mới!";
+
+/* TODO */
+"When Locked" = "When Locked";
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "Khi được mở khóa, bong bóng mọi nơi sẽ được hiển thị ngay cả khi bạn không ở trên màn hình chính.";
