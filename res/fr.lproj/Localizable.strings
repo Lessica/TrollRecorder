@@ -13,6 +13,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ Peut ne pas être configuré.";
 
+/* TODO */
+"%@ rows not loaded" = "%@ rows not loaded";
+
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "%d Fonctionnalités exclusives";
 
@@ -31,6 +34,15 @@
 /* No comment provided by engineer. */
 "%ld Recordings ◇ %@" = "%ld Enregistrements ◇ %@";
 
+/* TODO */
+"(%lu bytes)" = "(%lu bytes)";
+
+/* TODO */
+"(%lu items)" = "(%lu items)";
+
+/* TODO */
+"(null)" = "(null)";
+
 /* No comment provided by engineer. */
 "3 Seconds" = "3 secondes";
 
@@ -48,6 +60,9 @@
 
 /* No comment provided by engineer. */
 "90 Days Ago" = "Il y a 90 jours";
+
+/* TODO */
+"<%@: %p>" = "<%@: %p>";
 
 /* TODO */
 "A new version (%@) of “TrollRecorder” is available." = "Une nouvelle version de l'application est disponible (%@).";
@@ -220,6 +235,9 @@
 /* No comment provided by engineer. */
 "Cancel" = "Annulé.";
 
+/* TODO */
+"Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
+
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Choisissez le format audio de sortie pour le mélangeur. Le format audio Wave n'inclut pas de codage avancé.";
 
@@ -238,6 +256,9 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "Effacer la sélection";
 
+/* TODO */
+"Collapse Recursively" = "Collapse Recursively";
+
 /* No comment provided by engineer. */
 "Combined" = "Combiné";
 
@@ -246,6 +267,9 @@
 
 /* No comment provided by engineer. */
 "Compress Recording" = "Enregistrer la compression";
+
+/* TODO */
+"Confirm" = "Confirm";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Clients connectés : %d";
@@ -292,11 +316,23 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "Transcription copiée";
 
+/* TODO */
+"Copy" = "Copy";
+
+/* TODO */
+"Copy Key" = "Copy Key";
+
+/* TODO */
+"Copy Name" = "Copy Name";
+
 /* No comment provided by engineer. */
 "Copy Path" = "Copier le chemin";
 
 /* No comment provided by engineer. */
 "Copy Transcript" = "Copier la transcription";
+
+/* TODO */
+"Copy Value" = "Copy Value";
 
 /* TODO */
 "Create Archive" = "Create Archive";
@@ -321,6 +357,9 @@
 "Deactivate the recorder hoverball." = "Désactiver la hoverball de l'enregistreur.";
 
 /* TODO */
+"Debugging" = "Debugging";
+
+/* TODO */
 "deflate failed" = "deflate failed";
 
 /* TODO */
@@ -340,6 +379,9 @@
 
 /* No comment provided by engineer. */
 "Delete Selected Item" = "Supprimer l'élément sélectionné";
+
+/* TODO */
+"Developer Options" = "Developer Options";
 
 /* No comment provided by engineer. */
 "Direction" = "Direction";
@@ -396,6 +438,12 @@
 "Display the source bundle name of the recording." = "Afficher le nom du paquet source de l'enregistrement.";
 
 /* TODO */
+"Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
+
+/* TODO */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
+
+/* TODO */
 "Don’t ask again" = "Don’t ask again";
 
 /* TODO */
@@ -447,6 +495,9 @@
 
 "Exit Hoverball" = "Quitter la hoverball";
 
+/* TODO */
+"Expand Recursively" = "Expand Recursively";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Exportez les enregistrements où vous le souhaitez sans limitations.";
 
@@ -488,6 +539,9 @@
 
 /* No comment provided by engineer. */
 "Finalizing" = "Finalisation";
+
+/* TODO */
+"Focus" = "Focus";
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "Replier sur le bord de l'écran";
@@ -575,6 +629,9 @@
 /* No comment provided by engineer. */
 "Is Favourite" = "Est favori";
 
+/* TODO */
+"Item #%lu" = "Item #%lu";
+
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "Maintenir l'écran allumé lorsqu'il est connecté";
 
@@ -613,6 +670,12 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "Services de localisation";
+
+/* TODO */
+"Log Viewer" = "Log Viewer";
+
+/* TODO */
+"Logging" = "Logging";
 
 /* No comment provided by engineer. */
 "Low" = "Faible";
@@ -692,6 +755,9 @@
 /* TODO */
 "New Version Available" = "Mise à jour disponible";
 
+/* TODO */
+"NO" = "NO";
+
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "Aucun numéro de téléphone trouvé dans les contacts sélectionnés.";
 
@@ -715,6 +781,9 @@
 
 /* No comment provided by engineer. */
 "Notifications" = "Notifications";
+
+/* TODO */
+"Object Viewer" = "Object Viewer";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -751,6 +820,9 @@
 
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "Enregistrement de l'appel sortant depuis « %@ ».";
+
+/* TODO */
+"Path List Viewer" = "Path List Viewer";
 
 /* TODO */
 "Pause Recording" = "Pause Recording";
@@ -877,6 +949,9 @@
 /* No comment provided by engineer. */
 "Rename" = "Renommer";
 
+/* TODO */
+"Reset Service" = "Reset Service";
+
 /* No comment provided by engineer. */
 "Respring" = "Redémarrer SpringBoard";
 
@@ -888,6 +963,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Sélection inverse";
+
+/* TODO */
+"Root" = "Root";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Taux d'échantillonnage";
@@ -964,6 +1042,9 @@
 /* No comment provided by engineer. */
 "Show Waveform Previews" = "Afficher les prévisualisations de forme d'onde";
 
+/* TODO */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
+
 /* No comment provided by engineer. */
 "SIM Card Alias" = "Alias de la carte SIM";
 
@@ -1026,11 +1107,17 @@
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Ignorer temporairement";
 
+/* TODO */
+"Text Viewer" = "Text Viewer";
+
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "L'installation de l'application a rencontré une erreur inconnue, le démon de lancement n'a pas répondu à nos demandes. Nous essayons de reconnecter, veuillez patienter. Si le problème persiste, vous pouvez essayer de réinstaller l'application.";
 
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "L'application se lancera automatiquement lorsque l'enregistrement se termine.";
+
+/* TODO */
+"The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "La date et l'heure à laquelle l'audio a été créé.";
@@ -1227,6 +1314,27 @@
 /* No comment provided by engineer. */
 "Vibrate at End" = "Vibrer à la fin";
 
+/* TODO */
+"View Details" = "View Details";
+
+/* TODO */
+"View Logs: Application" = "View Logs: Application";
+
+/* TODO */
+"View Logs: Call Monitor" = "View Logs: Call Monitor";
+
+/* TODO */
+"View Logs: Call Recorder" = "View Logs: Call Recorder";
+
+/* TODO */
+"View Logs: Hoverball" = "View Logs: Hoverball";
+
+/* TODO */
+"View Logs: Launch Agent" = "View Logs: Launch Agent";
+
+/* TODO */
+"View Recording Details" = "View Recording Details";
+
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Les contacts VIP seront toujours enregistrés et ajoutés aux favoris.";
 
@@ -1278,6 +1386,9 @@
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Écrire la latitude et la longitude dans les métadonnées de l'enregistrement.";
 
+/* TODO */
+"YES" = "YES";
+
 /* No comment provided by engineer. */
 "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Vous devez sélectionner « Toujours » pour que TrollRecorder détermine votre emplacement en arrière-plan. Si vous sélectionnez « Pendant l'utilisation de l'application », les emplacements seront mis à jour uniquement lorsque vous lancez l'application après l'enregistrement.";
 
@@ -1295,3 +1406,6 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Vous avez appuyé sur Mot de passe.";
+
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "";

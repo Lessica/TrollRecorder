@@ -13,6 +13,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ có thể không được cấu hình";
 
+/* TODO */
+"%@ rows not loaded" = "%@ rows not loaded";
+
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "%d Các tính năng độc quyền";
 
@@ -31,6 +34,15 @@
 /* No comment provided by engineer. */
 "%ld Recordings ◇ %@" = "%ld Các bản ghi âm ◇ %@";
 
+/* TODO */
+"(%lu bytes)" = "(%lu bytes)";
+
+/* TODO */
+"(%lu items)" = "(%lu items)";
+
+/* TODO */
+"(null)" = "(null)";
+
 /* No comment provided by engineer. */
 "3 Seconds" = "3 Giây";
 
@@ -48,6 +60,9 @@
 
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 Ngày Trước";
+
+/* TODO */
+"<%@: %p>" = "<%@: %p>";
 
 /* TODO */
 "A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
@@ -78,6 +93,9 @@
 
 /* TODO */
 "All Edges" = "All Edges";
+
+/* TODO */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
 
 /* TODO */
 "Allow Access to Call History" = "Allow Access to Call History";
@@ -220,6 +238,9 @@
 /* No comment provided by engineer. */
 "Cancel" = "Huỷ";
 
+/* TODO */
+"Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
+
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Chọn định dạng âm thanh đầu ra cho bộ hoà âm. Định dạng Wave Audio không hỗ trợ mã hóa nâng cao.";
 
@@ -238,6 +259,9 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "Lựa chọn rõ ràng";
 
+/* TODO */
+"Collapse Recursively" = "Collapse Recursively";
+
 /* No comment provided by engineer. */
 "Combined" = "Kết hợp";
 
@@ -246,6 +270,9 @@
 
 /* No comment provided by engineer. */
 "Compress Recording" = "Ghi âm nén";
+
+/* TODO */
+"Confirm" = "Confirm";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Khách hàng được kết nối: %d";
@@ -292,11 +319,23 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "Lời thoại đã được sao chép";
 
+/* TODO */
+"Copy" = "Copy";
+
+/* TODO */
+"Copy Key" = "Copy Key";
+
+/* TODO */
+"Copy Name" = "Copy Name";
+
 /* No comment provided by engineer. */
 "Copy Path" = "Sao chép đường dẫn";
 
 /* No comment provided by engineer. */
 "Copy Transcript" = "Sao chép lời thoại";
+
+/* TODO */
+"Copy Value" = "Copy Value";
 
 /* TODO */
 "Create Archive" = "Create Archive";
@@ -321,6 +360,9 @@
 "Deactivate the recorder hoverball." = "Vô hiệu hóa bong bóng ghi âm.";
 
 /* TODO */
+"Debugging" = "Debugging";
+
+/* TODO */
 "deflate failed" = "deflate failed";
 
 /* TODO */
@@ -340,6 +382,9 @@
 
 /* No comment provided by engineer. */
 "Delete Selected Item" = "Xóa mục đã chọn";
+
+/* TODO */
+"Developer Options" = "Developer Options";
 
 /* No comment provided by engineer. */
 "Direction" = "Hướng";
@@ -396,6 +441,12 @@
 "Display the source bundle name of the recording." = "Hiển thị tên gói nguồn của bản ghi.";
 
 /* TODO */
+"Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
+
+/* TODO */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
+
+/* TODO */
 "Don’t ask again" = "Don’t ask again";
 
 /* TODO */
@@ -447,6 +498,9 @@
 
 "Exit Hoverball" = "Thoát bong bóng";
 
+/* TODO */
+"Expand Recursively" = "Expand Recursively";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";
 
@@ -488,6 +542,9 @@
 
 /* No comment provided by engineer. */
 "Finalizing" = "Đang hoàn thiện";
+
+/* TODO */
+"Focus" = "Focus";
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "Gấp đến cạnh màn hình";
@@ -575,6 +632,9 @@
 /* No comment provided by engineer. */
 "Is Favourite" = "Được yêu thích";
 
+/* TODO */
+"Item #%lu" = "Item #%lu";
+
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "Giữ Màn Hình Bật Khi Kết Nối";
 
@@ -613,6 +673,12 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "Dịch vụ định vị";
+
+/* TODO */
+"Log Viewer" = "Log Viewer";
+
+/* TODO */
+"Logging" = "Logging";
 
 /* No comment provided by engineer. */
 "Low" = "Thấp";
@@ -692,6 +758,9 @@
 /* TODO */
 "New Version Available" = "New Version Available";
 
+/* TODO */
+"NO" = "NO";
+
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "Không tìm thấy số điện thoại trong các liên hệ đã chọn.";
 
@@ -715,6 +784,9 @@
 
 /* No comment provided by engineer. */
 "Notifications" = "Thông báo";
+
+/* TODO */
+"Object Viewer" = "Object Viewer";
 
 /* No comment provided by engineer. */
 "OK" = "Được rồi";
@@ -751,6 +823,9 @@
 
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "Ghi âm cuộc gọi đi từ “%@”.";
+
+/* TODO */
+"Path List Viewer" = "Path List Viewer";
 
 /* TODO */
 "Pause Recording" = "Pause Recording";
@@ -877,6 +952,9 @@
 /* No comment provided by engineer. */
 "Rename" = "Đổi tên";
 
+/* TODO */
+"Reset Service" = "Reset Service";
+
 /* No comment provided by engineer. */
 "Respring" = "Respring";
 
@@ -888,6 +966,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Lựa chọn ngược";
+
+/* TODO */
+"Root" = "Root";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Tỷ lệ mẫu";
@@ -964,6 +1045,9 @@
 /* No comment provided by engineer. */
 "Show Waveform Previews" = "Hiển thị bản xem trước dạng sóng";
 
+/* TODO */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
+
 /* No comment provided by engineer. */
 "SIM Card Alias" = "Bí danh thẻ SIM";
 
@@ -1026,11 +1110,17 @@
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Tạm thời bỏ qua";
 
+/* TODO */
+"Text Viewer" = "Text Viewer";
+
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Thiết lập ứng dụng đã gặp lỗi không xác định, Launch Daemon không phản hồi yêu cầu của chúng tôi. Chúng tôi đang cố gắng kết nối lại, vui lòng đợi. Nếu sự cố vẫn tiếp diễn, bạn có thể thử cài đặt lại ứng dụng.";
 
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "Ứng dụng sẽ tự động khởi chạy khi ghi âm kết thúc.";
+
+/* TODO */
+"The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "Ngày và giờ khi âm thanh được tạo ra.";
@@ -1227,6 +1317,27 @@
 /* No comment provided by engineer. */
 "Vibrate at End" = "Rung khi kết thúc";
 
+/* TODO */
+"View Details" = "View Details";
+
+/* TODO */
+"View Logs: Application" = "View Logs: Application";
+
+/* TODO */
+"View Logs: Call Monitor" = "View Logs: Call Monitor";
+
+/* TODO */
+"View Logs: Call Recorder" = "View Logs: Call Recorder";
+
+/* TODO */
+"View Logs: Hoverball" = "View Logs: Hoverball";
+
+/* TODO */
+"View Logs: Launch Agent" = "View Logs: Launch Agent";
+
+/* TODO */
+"View Recording Details" = "View Recording Details";
+
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Các liên hệ VIP sẽ luôn được ghi lại và thêm vào các mục yêu thích.";
 
@@ -1278,6 +1389,9 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Viết vĩ độ và kinh độ vào siêu dữ liệu ghi.";
+
+/* TODO */
+"YES" = "YES";
 
 /* No comment provided by engineer. */
 "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Bạn phải chọn “Luôn luôn” cho TrollRecorder để xác định vị trí của bạn trong nền. Nếu bạn chọn “Trong khi sử dụng ứng dụng”, các địa điểm sẽ chỉ được cập nhật khi bạn khởi chạy ứng dụng sau khi ghi âm.";

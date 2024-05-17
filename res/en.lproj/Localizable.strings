@@ -13,6 +13,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ may not be configured";
 
+/* StripedTextTableViewController */
+"%@ rows not loaded" = "%@ rows not loaded";
+
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "%d Exclusive Features";
 
@@ -32,6 +35,15 @@
 "%ld Recordings ◇ %@" = "%ld Recordings ◇ %@";
 
 /* No comment provided by engineer. */
+"(%lu bytes)" = "(%lu bytes)";
+
+/* No comment provided by engineer. */
+"(%lu items)" = "(%lu items)";
+
+/* No comment provided by engineer. */
+"(null)" = "(null)";
+
+/* No comment provided by engineer. */
 "3 Seconds" = "3 Seconds";
 
 /* No comment provided by engineer. */
@@ -48,6 +60,9 @@
 
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 Days Ago";
+
+/* ObjectTableViewController */
+"<%@: %p>" = "<%@: %p>";
 
 /* No comment provided by engineer. */
 "A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
@@ -78,6 +93,9 @@
 
 /* No comment provided by engineer. */
 "All Edges" = "All Edges";
+
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "Allow Access to Call History";
@@ -221,6 +239,9 @@
 "Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
+"Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
+
+/* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding.";
 
 /* No comment provided by engineer. */
@@ -238,6 +259,9 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "Clear Selection";
 
+/* ObjectTableViewController */
+"Collapse Recursively" = "Collapse Recursively";
+
 /* No comment provided by engineer. */
 "Combined" = "Combined";
 
@@ -246,6 +270,10 @@
 
 /* No comment provided by engineer. */
 "Compress Recording" = "Compress Recording";
+
+/* PlainTextViewController
+   StripedTextTableViewController */
+"Confirm" = "Confirm";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Connected Clients: %d";
@@ -292,11 +320,23 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "Copied Transcript";
 
+/* StripedTextTableViewController */
+"Copy" = "Copy";
+
+/* ObjectTableViewController */
+"Copy Key" = "Copy Key";
+
+/* PathListTableViewController */
+"Copy Name" = "Copy Name";
+
 /* No comment provided by engineer. */
 "Copy Path" = "Copy Path";
 
 /* No comment provided by engineer. */
 "Copy Transcript" = "Copy Transcript";
+
+/* ObjectTableViewController */
+"Copy Value" = "Copy Value";
 
 /* No comment provided by engineer. */
 "Create Archive" = "Create Archive";
@@ -321,6 +361,9 @@
 "Deactivate the recorder hoverball." = "Deactivate the recorder hoverball.";
 
 /* No comment provided by engineer. */
+"Debugging" = "Debugging";
+
+/* No comment provided by engineer. */
 "deflate failed" = "deflate failed";
 
 /* No comment provided by engineer. */
@@ -340,6 +383,9 @@
 
 /* No comment provided by engineer. */
 "Delete Selected Item" = "Delete Selected Item";
+
+/* No comment provided by engineer. */
+"Developer Options" = "Developer Options";
 
 /* No comment provided by engineer. */
 "Direction" = "Direction";
@@ -395,6 +441,13 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Display the source bundle name of the recording.";
 
+/* PlainTextViewController
+   StripedTextTableViewController */
+"Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
+
+/* No comment provided by engineer. */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
+
 /* No comment provided by engineer. */
 "Don’t ask again" = "Don’t ask again";
 
@@ -447,6 +500,9 @@
 
 "Exit Hoverball" = "Exit Hoverball";
 
+/* ObjectTableViewController */
+"Expand Recursively" = "Expand Recursively";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Export recordings to anywhere you want without limitations.";
 
@@ -488,6 +544,9 @@
 
 /* No comment provided by engineer. */
 "Finalizing" = "Finalizing";
+
+/* ObjectTableViewController */
+"Focus" = "Focus";
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "Fold to Screen Edge";
@@ -576,6 +635,9 @@
 "Is Favourite" = "Is Favourite";
 
 /* No comment provided by engineer. */
+"Item #%lu" = "Item #%lu";
+
+/* No comment provided by engineer. */
 "Keep Screen On When Connected" = "Keep Screen On When Connected";
 
 /* No comment provided by engineer. */
@@ -613,6 +675,12 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "Location Services";
+
+/* StripedTextTableViewController */
+"Log Viewer" = "Log Viewer";
+
+/* No comment provided by engineer. */
+"Logging" = "Logging";
 
 /* No comment provided by engineer. */
 "Low" = "Low";
@@ -693,6 +761,9 @@
 "New Version Available" = "New Version Available";
 
 /* No comment provided by engineer. */
+"NO" = "NO";
+
+/* No comment provided by engineer. */
 "No phone number found in selected contacts." = "No phone number found in selected contacts.";
 
 /* No comment provided by engineer. */
@@ -715,6 +786,9 @@
 
 /* No comment provided by engineer. */
 "Notifications" = "Notifications";
+
+/* ObjectTableViewController */
+"Object Viewer" = "Object Viewer";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -751,6 +825,9 @@
 
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "Outgoing call recording from “%@”.";
+
+/* PathListTableViewController */
+"Path List Viewer" = "Path List Viewer";
 
 /* No comment provided by engineer. */
 "Pause Recording" = "Pause Recording";
@@ -878,6 +955,9 @@
 "Rename" = "Rename";
 
 /* No comment provided by engineer. */
+"Reset Service" = "Reset Service";
+
+/* No comment provided by engineer. */
 "Respring" = "Respring";
 
 /* No comment provided by engineer. */
@@ -888,6 +968,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Reverse Selection";
+
+/* ObjectTableViewController */
+"Root" = "Root";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Sample Rate";
@@ -965,6 +1048,9 @@
 "Show Waveform Previews" = "Show Waveform Previews";
 
 /* No comment provided by engineer. */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
+
+/* No comment provided by engineer. */
 "SIM Card Alias" = "SIM Card Alias";
 
 /* No comment provided by engineer. */
@@ -1026,11 +1112,17 @@
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Temporary Ignore";
 
+/* PlainTextViewController */
+"Text Viewer" = "Text Viewer";
+
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application.";
 
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "The application will launch automatically when recording ends.";
+
+/* No comment provided by engineer. */
+"The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "The date and time when the audio was created.";
@@ -1228,6 +1320,27 @@
 "Vibrate at End" = "Vibrate at End";
 
 /* No comment provided by engineer. */
+"View Details" = "View Details";
+
+/* No comment provided by engineer. */
+"View Logs: Application" = "View Logs: Application";
+
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "View Logs: Call Monitor";
+
+/* No comment provided by engineer. */
+"View Logs: Call Recorder" = "View Logs: Call Recorder";
+
+/* No comment provided by engineer. */
+"View Logs: Hoverball" = "View Logs: Hoverball";
+
+/* No comment provided by engineer. */
+"View Logs: Launch Agent" = "View Logs: Launch Agent";
+
+/* No comment provided by engineer. */
+"View Recording Details" = "View Recording Details";
+
+/* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP contacts will always be recorded and added to the favourites.";
 
 /* No comment provided by engineer. */
@@ -1277,6 +1390,9 @@
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Write latitude and longitude to the recording metadata.";
+
+/* No comment provided by engineer. */
+"YES" = "YES";
 
 /* No comment provided by engineer. */
 "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording.";

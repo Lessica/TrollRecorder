@@ -13,6 +13,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ 可能未配置";
 
+/* TODO */
+"%@ rows not loaded" = "%@ rows not loaded";
+
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "超過 %d 個專屬功能";
 
@@ -31,6 +34,15 @@
 /* No comment provided by engineer. */
 "%ld Recordings ◇ %@" = "%ld 錄音 ◇ %@";
 
+/* TODO */
+"(%lu bytes)" = "(%lu bytes)";
+
+/* TODO */
+"(%lu items)" = "(%lu items)";
+
+/* TODO */
+"(null)" = "(null)";
+
 /* No comment provided by engineer. */
 "3 Seconds" = "3 秒";
 
@@ -48,6 +60,9 @@
 
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 天前";
+
+/* TODO */
+"<%@: %p>" = "<%@: %p>";
 
 /* No comment provided by engineer. */
 "A new version (%@) of “TrollRecorder” is available." = "有新版本的應用程式 %@ 可用。";
@@ -78,6 +93,9 @@
 
 /* No comment provided by engineer. */
 "All Edges" = "所有邊緣";
+
+/* TODO */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "允許訪問呼叫歷史記錄";
@@ -220,6 +238,9 @@
 /* No comment provided by engineer. */
 "Cancel" = "取消";
 
+/* TODO */
+"Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
+
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "選擇混音器的輸出音訊格式。 波形音訊格式不支持高級編碼。";
 
@@ -238,6 +259,9 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "清楚篩選項";
 
+/* TODO */
+"Collapse Recursively" = "Collapse Recursively";
+
 /* No comment provided by engineer. */
 "Combined" = "組合";
 
@@ -246,6 +270,9 @@
 
 /* No comment provided by engineer. */
 "Compress Recording" = "壓縮音訊";
+
+/* TODO */
+"Confirm" = "Confirm";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連結客戶端：%d";
@@ -292,11 +319,23 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "已複製轉錄";
 
+/* TODO */
+"Copy" = "Copy";
+
+/* TODO */
+"Copy Key" = "Copy Key";
+
+/* TODO */
+"Copy Name" = "Copy Name";
+
 /* No comment provided by engineer. */
 "Copy Path" = "複製路徑";
 
 /* No comment provided by engineer. */
 "Copy Transcript" = "複製轉錄";
+
+/* TODO */
+"Copy Value" = "Copy Value";
 
 /* No comment provided by engineer. */
 "Create Archive" = "創建存檔";
@@ -320,6 +359,9 @@
 
 "Deactivate the recorder hoverball." = "啓動服務，并關閉錄音懸浮球。";
 
+/* TODO */
+"Debugging" = "Debugging";
+
 /* No comment provided by engineer. */
 "deflate failed" = "deflate 失敗";
 
@@ -340,6 +382,9 @@
 
 /* No comment provided by engineer. */
 "Delete Selected Item" = "刪除選中項";
+
+/* TODO */
+"Developer Options" = "Developer Options";
 
 /* No comment provided by engineer. */
 "Direction" = "通話類型";
@@ -395,6 +440,12 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "顯示錄音來源的捆綁包名稱。";
 
+/* TODO */
+"Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
+
+/* TODO */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
+
 /* No comment provided by engineer. */
 "Don’t ask again" = "不再詢問";
 
@@ -447,6 +498,9 @@
 
 "Exit Hoverball" = "關閉懸浮球";
 
+/* TODO */
+"Expand Recursively" = "Expand Recursively";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "將錄音匯出並保存到任何地方。";
 
@@ -488,6 +542,9 @@
 
 /* No comment provided by engineer. */
 "Finalizing" = "完成中";
+
+/* TODO */
+"Focus" = "Focus";
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "摺叠到熒幕邊緣";
@@ -575,6 +632,9 @@
 /* No comment provided by engineer. */
 "Is Favourite" = "是否收藏";
 
+/* TODO */
+"Item #%lu" = "Item #%lu";
+
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "連結時保持熒幕常亮";
 
@@ -613,6 +673,12 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "位置服務";
+
+/* TODO */
+"Log Viewer" = "Log Viewer";
+
+/* TODO */
+"Logging" = "Logging";
 
 /* No comment provided by engineer. */
 "Low" = "低";
@@ -692,6 +758,9 @@
 /* No comment provided by engineer. */
 "New Version Available" = "有更新可用";
 
+/* TODO */
+"NO" = "NO";
+
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "在選定的聯絡人中未找到電話號碼。";
 
@@ -715,6 +784,9 @@
 
 /* No comment provided by engineer. */
 "Notifications" = "通知與提醒";
+
+/* TODO */
+"Object Viewer" = "Object Viewer";
 
 /* No comment provided by engineer. */
 "OK" = "確認";
@@ -751,6 +823,9 @@
 
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "來自 “%@” 的去電錄音";
+
+/* TODO */
+"Path List Viewer" = "Path List Viewer";
 
 /* No comment provided by engineer. */
 "Pause Recording" = "暫停錄音";
@@ -877,6 +952,9 @@
 /* No comment provided by engineer. */
 "Rename" = "重命名";
 
+/* TODO */
+"Reset Service" = "Reset Service";
+
 /* No comment provided by engineer. */
 "Respring" = "妙手回春";
 
@@ -888,6 +966,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "反選";
+
+/* TODO */
+"Root" = "Root";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "取樣速率";
@@ -964,6 +1045,9 @@
 /* No comment provided by engineer. */
 "Show Waveform Previews" = "顯示波形預覽";
 
+/* TODO */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
+
 /* No comment provided by engineer. */
 "SIM Card Alias" = "SIM 卡別稱";
 
@@ -1026,11 +1110,17 @@
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暫時忽略";
 
+/* TODO */
+"Text Viewer" = "Text Viewer";
+
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "設定應用程式遇到了未知錯誤，守護進程沒有響應我們的請求。 我們正在嘗試重新連接，請稍後。 若問題持續存在，你可以嘗試重新安裝應用程序。";
 
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "錄音結束時應用將自動啓動。";
+
+/* TODO */
+"The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "音訊創建的日期和時間。";
@@ -1227,6 +1317,27 @@
 /* No comment provided by engineer. */
 "Vibrate at End" = "結束時震動";
 
+/* TODO */
+"View Details" = "View Details";
+
+/* TODO */
+"View Logs: Application" = "View Logs: Application";
+
+/* TODO */
+"View Logs: Call Monitor" = "View Logs: Call Monitor";
+
+/* TODO */
+"View Logs: Call Recorder" = "View Logs: Call Recorder";
+
+/* TODO */
+"View Logs: Hoverball" = "View Logs: Hoverball";
+
+/* TODO */
+"View Logs: Launch Agent" = "View Logs: Launch Agent";
+
+/* TODO */
+"View Recording Details" = "View Recording Details";
+
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP聯絡人將總是被錄音並添加到收藏中。";
 
@@ -1277,6 +1388,9 @@
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "將經緯度寫入錄音元數據。";
+
+/* TODO */
+"YES" = "YES";
 
 /* No comment provided by engineer. */
 "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必須選擇“總是”以使巨魔錄音機能够在背景確定你的位置。 如果你選擇“使用 App 時”，你需要在錄音結束後15分鐘內啟動應用程式以更新位置。";
