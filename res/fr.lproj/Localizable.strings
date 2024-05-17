@@ -95,6 +95,9 @@
 "All Edges" = "All Edges";
 
 /* TODO */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
+
+/* TODO */
 "Allow Access to Call History" = "Allow Access to Call History";
 
 /* No comment provided by engineer. */
@@ -809,6 +812,9 @@
 /* No comment provided by engineer. */
 "Open “Filza File Manager” to view or recover your recordings." = "Ouvrez 'Gestionnaire de fichiers Filza' pour afficher ou récupérer vos enregistrements.";
 
+/* TODO */
+"Operation Failed" = "Operation Failed";
+
 /* No comment provided by engineer. */
 "Optic ID" = "Identifiant Optique";
 
@@ -868,6 +874,9 @@
 
 /* No comment provided by engineer. */
 "Popup Banner with Detail" = "Bannière contextuelle avec détail";
+
+/* TODO */
+"Preparing" = "Preparing";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Préserver tous les canaux";
@@ -1406,6 +1415,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Vous avez appuyé sur Mot de passe.";
-
-/* No comment provided by engineer. */
-"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "";
