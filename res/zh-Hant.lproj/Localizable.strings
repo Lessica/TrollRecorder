@@ -13,8 +13,8 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ 可能未配置";
 
-/* TODO */
-"%@ rows not loaded" = "%@ rows not loaded";
+/* No comment provided by engineer. */
+"%@ rows not loaded" = "%@ 行未載入";
 
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "超過 %d 個專屬功能";
@@ -34,14 +34,14 @@
 /* No comment provided by engineer. */
 "%ld Recordings ◇ %@" = "%ld 錄音 ◇ %@";
 
-/* TODO */
-"(%lu bytes)" = "(%lu bytes)";
+/* No comment provided by engineer. */
+"(%lu bytes)" = "(%lu 位元組)";
 
-/* TODO */
-"(%lu items)" = "(%lu items)";
+/* No comment provided by engineer. */
+"(%lu items)" = "(%lu 項)";
 
-/* TODO */
-"(null)" = "(null)";
+/* No comment provided by engineer. */
+"(null)" = "(空)";
 
 /* No comment provided by engineer. */
 "3 Seconds" = "3 秒";
@@ -61,7 +61,7 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 天前";
 
-/* TODO */
+/* ObjectTableViewController */
 "<%@: %p>" = "<%@: %p>";
 
 /* No comment provided by engineer. */
@@ -94,8 +94,8 @@
 /* No comment provided by engineer. */
 "All Edges" = "所有邊緣";
 
-/* TODO */
-"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "所有日志將被保留 7 天。過期日志將被自動刪除。";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "允許訪問呼叫歷史記錄";
@@ -197,7 +197,7 @@
 "Batch Export" = "批量匯出";
 
 /* No comment provided by engineer. */
-"Before starting a call recording, a prompt voice is played to the opposite end." = "接通並開始通話錄音前，向對方播放一段提示語音。 請遵守你所在地的法律法規。 關閉提示音後，可能會影響通話錄音作為證據使用的法律效力。";
+"Before starting a call recording, a prompt voice is played to the opposite end." = "接通並開始通話錄音前，向對方播放一段提示語音。 請遵守你所在地的法律法規。 關閉提示音後，可能會影響通話錄音作爲證據使用的法律效力。";
 
 /* No comment provided by engineer. */
 "Best" = "最好";
@@ -238,8 +238,8 @@
 /* No comment provided by engineer. */
 "Cancel" = "取消";
 
-/* TODO */
-"Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
+/* No comment provided by engineer. */
+"Cannot parse text with UTF-8 encoding: “@”." = "無法使用 UTF-8 編碼解析文本: “@”.";
 
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "選擇混音器的輸出音訊格式。 波形音訊格式不支持高級編碼。";
@@ -259,8 +259,8 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "清楚篩選項";
 
-/* TODO */
-"Collapse Recursively" = "Collapse Recursively";
+/* No comment provided by engineer. */
+"Collapse Recursively" = "遞迴摺叠";
 
 /* No comment provided by engineer. */
 "Combined" = "組合";
@@ -271,8 +271,9 @@
 /* No comment provided by engineer. */
 "Compress Recording" = "壓縮音訊";
 
-/* TODO */
-"Confirm" = "Confirm";
+/* PlainTextViewController
+   StripedTextTableViewController */
+"Confirm" = "確認";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連結客戶端：%d";
@@ -319,14 +320,14 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "已複製轉錄";
 
-/* TODO */
-"Copy" = "Copy";
+/* No comment provided by engineer. */
+"Copy" = "複製";
 
-/* TODO */
-"Copy Key" = "Copy Key";
+/* No comment provided by engineer. */
+"Copy Key" = "複製鍵";
 
-/* TODO */
-"Copy Name" = "Copy Name";
+/* No comment provided by engineer. */
+"Copy Name" = "複製名稱";
 
 /* No comment provided by engineer. */
 "Copy Path" = "複製路徑";
@@ -334,8 +335,8 @@
 /* No comment provided by engineer. */
 "Copy Transcript" = "複製轉錄";
 
-/* TODO */
-"Copy Value" = "Copy Value";
+/* No comment provided by engineer. */
+"Copy Value" = "複製值";
 
 /* No comment provided by engineer. */
 "Create Archive" = "創建存檔";
@@ -359,8 +360,8 @@
 
 "Deactivate the recorder hoverball." = "啓動服務，并關閉錄音懸浮球。";
 
-/* TODO */
-"Debugging" = "Debugging";
+/* No comment provided by engineer. */
+"Debugging" = "調試";
 
 /* No comment provided by engineer. */
 "deflate failed" = "deflate 失敗";
@@ -383,8 +384,8 @@
 /* No comment provided by engineer. */
 "Delete Selected Item" = "刪除選中項";
 
-/* TODO */
-"Developer Options" = "Developer Options";
+/* No comment provided by engineer. */
+"Developer Options" = "開發者選項";
 
 /* No comment provided by engineer. */
 "Direction" = "通話類型";
@@ -440,11 +441,11 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "顯示錄音來源的捆綁包名稱。";
 
-/* TODO */
-"Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
+/* No comment provided by engineer. */
+"Do you want to clear this log file “%@”?" = "你確認要清除日志檔案 “%@” 嗎？";
 
-/* TODO */
-"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
+/* No comment provided by engineer. */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你確認要重置軟體授權，并將所有設定還原爲原始值嗎？你的錄音檔案不會被刪除。";
 
 /* No comment provided by engineer. */
 "Don’t ask again" = "不再詢問";
@@ -474,7 +475,7 @@
 "Enabled" = "啓用";
 
 /* No comment provided by engineer. */
-"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "當應用程式進入背景且最後一個連接關閉時，自動停止 WebDAV 服務。當應用程式回到前景時恢復服務。";
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "當應用程式進入背景且最後一個連線關閉時，自動停止 WebDAV 服務。當應用程式回到前景時恢復服務。";
 
 /* No comment provided by engineer. */
 "End Date" = "結束日期";
@@ -498,8 +499,8 @@
 
 "Exit Hoverball" = "關閉懸浮球";
 
-/* TODO */
-"Expand Recursively" = "Expand Recursively";
+/* No comment provided by engineer. */
+"Expand Recursively" = "遞歸展開";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "將錄音匯出並保存到任何地方。";
@@ -543,8 +544,8 @@
 /* No comment provided by engineer. */
 "Finalizing" = "完成中";
 
-/* TODO */
-"Focus" = "Focus";
+/* No comment provided by engineer. */
+"Focus" = "聚焦";
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "摺叠到熒幕邊緣";
@@ -624,7 +625,7 @@
 "Install" = "安裝";
 
 /* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安裝“壓縮音訊”操作到“捷徑”中，然後分享你的錄音到這個操作中，以將你的音訊壓縮為AAC/AIFF格式。";
+"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安裝“壓縮音訊”操作到“捷徑”中，然後分享你的錄音到這個操作中，以將你的音訊壓縮爲AAC/AIFF格式。";
 
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "將“創建檔案”操作安裝到“捷徑”中，然後將您的錄製共享到此操作以創建ZIP檔案。";
@@ -632,8 +633,8 @@
 /* No comment provided by engineer. */
 "Is Favourite" = "是否收藏";
 
-/* TODO */
-"Item #%lu" = "Item #%lu";
+/* No comment provided by engineer. */
+"Item #%lu" = "項 #%lu";
 
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "連結時保持熒幕常亮";
@@ -674,11 +675,11 @@
 /* No comment provided by engineer. */
 "Location Services" = "位置服務";
 
-/* TODO */
-"Log Viewer" = "Log Viewer";
+/* No comment provided by engineer. */
+"Log Viewer" = "日志檢視器";
 
-/* TODO */
-"Logging" = "Logging";
+/* No comment provided by engineer. */
+"Logging" = "日志";
 
 /* No comment provided by engineer. */
 "Low" = "低";
@@ -758,8 +759,8 @@
 /* No comment provided by engineer. */
 "New Version Available" = "有更新可用";
 
-/* TODO */
-"NO" = "NO";
+/* No comment provided by engineer. */
+"NO" = "否";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "在選定的聯絡人中未找到電話號碼。";
@@ -785,8 +786,8 @@
 /* No comment provided by engineer. */
 "Notifications" = "通知與提醒";
 
-/* TODO */
-"Object Viewer" = "Object Viewer";
+/* No comment provided by engineer. */
+"Object Viewer" = "對象檢視器";
 
 /* No comment provided by engineer. */
 "OK" = "確認";
@@ -812,8 +813,8 @@
 /* No comment provided by engineer. */
 "Open “Filza File Manager” to view or recover your recordings." = "打開 “Filza 檔案管理器” 查看或恢復你的錄音。";
 
-/* TODO */
-"Operation Failed" = "Operation Failed";
+/* No comment provided by engineer. */
+"Operation Failed" = "操作失敗";
 
 /* No comment provided by engineer. */
 "Optic ID" = "視網膜 ID";
@@ -827,8 +828,8 @@
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "來自 “%@” 的去電錄音";
 
-/* TODO */
-"Path List Viewer" = "Path List Viewer";
+/* No comment provided by engineer. */
+"Path List Viewer" = "路徑列表檢視器";
 
 /* No comment provided by engineer. */
 "Pause Recording" = "暫停錄音";
@@ -873,10 +874,10 @@
 "Popup Banner at End" = "顯示結束通知";
 
 /* No comment provided by engineer. */
-"Popup Banner with Detail" = "顯示通知詳情";
+"Popup Banner with Detail" = "顯示通知詳細資訊";
 
-/* TODO */
-"Preparing" = "Preparing";
+/* No comment provided by engineer. */
+"Preparing" = "準備中";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "保留所有通道";
@@ -906,7 +907,7 @@
 "Re-authenticate" = "重新驗證";
 
 /* No comment provided by engineer. */
-"Reaching Daemon" = "連接守護進程";
+"Reaching Daemon" = "連線守護進程";
 
 /* No comment provided by engineer. */
 "Ready" = "就緒";
@@ -958,8 +959,8 @@
 /* No comment provided by engineer. */
 "Rename" = "重命名";
 
-/* TODO */
-"Reset Service" = "Reset Service";
+/* No comment provided by engineer. */
+"Reset Service" = "重置服務";
 
 /* No comment provided by engineer. */
 "Respring" = "妙手回春";
@@ -973,8 +974,8 @@
 /* No comment provided by engineer. */
 "Reverse Selection" = "反選";
 
-/* TODO */
-"Root" = "Root";
+/* No comment provided by engineer. */
+"Root" = "根";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "取樣速率";
@@ -1019,7 +1020,7 @@
 "Server started at: %@" = "服務已啓動：%@";
 
 /* No comment provided by engineer. */
-"Set a new name for this recording, or leave blank to use default." = "為這段錄音設定一個新的名稱，或者留空使用默認名稱。";
+"Set a new name for this recording, or leave blank to use default." = "爲這段錄音設定一個新的名稱，或者留空使用默認名稱。";
 
 /* No comment provided by engineer. */
 "Settings" = "設定";
@@ -1051,8 +1052,8 @@
 /* No comment provided by engineer. */
 "Show Waveform Previews" = "顯示波形預覽";
 
-/* TODO */
-"Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
+/* No comment provided by engineer. */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "爲開發者展示 “查看詳細資訊” 菜單項，以查看錄音的細節清單。";
 
 /* No comment provided by engineer. */
 "SIM Card Alias" = "SIM 卡別稱";
@@ -1116,17 +1117,17 @@
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暫時忽略";
 
-/* TODO */
-"Text Viewer" = "Text Viewer";
+/* No comment provided by engineer. */
+"Text Viewer" = "文本檢視器";
 
 /* No comment provided by engineer. */
-"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "設定應用程式遇到了未知錯誤，守護進程沒有響應我們的請求。 我們正在嘗試重新連接，請稍後。 若問題持續存在，你可以嘗試重新安裝應用程序。";
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "設定應用程式遇到了未知錯誤，守護進程沒有響應我們的請求。 我們正在嘗試重新連線，請稍後。 若問題持續存在，你可以嘗試重新安裝應用程序。";
 
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "錄音結束時應用將自動啓動。";
 
-/* TODO */
-"The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
+/* No comment provided by engineer. */
+"The content of text file “%@” is empty." = "文本檔案 “%@” 的内容爲空。";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "音訊創建的日期和時間。";
@@ -1162,7 +1163,7 @@
 "The phone number. Third party application or CallKit calls may not have this value." = "電話號碼。 第三方應用或 CallKit 可能沒有此值。";
 
 /* No comment provided by engineer. */
-"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用於通道合併的方式。 組合模式會將立體聲揚聲器音訊壓縮到左聲道，麥克風在右聲道。 關閉後為混合模式，會將麥克風通道複製到立體聲並與揚聲器通道混合輸出。";
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用於通道合併的方式。 組合模式會將立體聲揚聲器音訊壓縮到左聲道，麥克風在右聲道。 關閉後爲混合模式，會將麥克風通道複製到立體聲並與揚聲器通道混合輸出。";
 
 /* No comment provided by engineer. */
 "The size of selected audio file." = "選定音訊檔案的大小。";
@@ -1201,7 +1202,7 @@
 "To" = "結束于";
 
 /* No comment provided by engineer. */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服務的活躍狀態，你需要為巨魔錄音機選擇 “總是” 或 “使用 App 時” 。";
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服務的活躍狀態，你需要爲巨魔錄音機選擇 “總是” 或 “使用 App 時” 。";
 
 /* No comment provided by engineer. */
 "To: %@" = "結束于：%@";
@@ -1323,26 +1324,26 @@
 /* No comment provided by engineer. */
 "Vibrate at End" = "結束時震動";
 
-/* TODO */
-"View Details" = "View Details";
+/* No comment provided by engineer. */
+"View Details" = "查看詳細資訊";
 
-/* TODO */
-"View Logs: Application" = "View Logs: Application";
+/* No comment provided by engineer. */
+"View Logs: Application" = "應用程式";
 
-/* TODO */
-"View Logs: Call Monitor" = "View Logs: Call Monitor";
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "通話監視服務";
 
-/* TODO */
-"View Logs: Call Recorder" = "View Logs: Call Recorder";
+/* No comment provided by engineer. */
+"View Logs: Call Recorder" = "通話錄音服務";
 
-/* TODO */
-"View Logs: Hoverball" = "View Logs: Hoverball";
+/* No comment provided by engineer. */
+"View Logs: Hoverball" = "懸浮球";
 
-/* TODO */
-"View Logs: Launch Agent" = "View Logs: Launch Agent";
+/* No comment provided by engineer. */
+"View Logs: Launch Agent" = "啓用代理";
 
-/* TODO */
-"View Recording Details" = "View Recording Details";
+/* No comment provided by engineer. */
+"View Recording Details" = "查看錄音詳細資訊";
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP聯絡人將總是被錄音並添加到收藏中。";
@@ -1395,8 +1396,8 @@
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "將經緯度寫入錄音元數據。";
 
-/* TODO */
-"YES" = "YES";
+/* No comment provided by engineer. */
+"YES" = "是";
 
 /* No comment provided by engineer. */
 "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必須選擇“總是”以使巨魔錄音機能够在背景確定你的位置。 如果你選擇“使用 App 時”，你需要在錄音結束後15分鐘內啟動應用程式以更新位置。";
