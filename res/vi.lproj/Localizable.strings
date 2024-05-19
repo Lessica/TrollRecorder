@@ -241,6 +241,9 @@
 /* TODO */
 "Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
 
+/* TODO */
+"Child Pages" = "Child Pages";
+
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Chọn định dạng âm thanh đầu ra cho bộ hoà âm. Định dạng Wave Audio không hỗ trợ mã hóa nâng cao.";
 
@@ -425,6 +428,9 @@
 /* No comment provided by engineer. */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Hiển thị bong bóng mọi nơi khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
 
+/* TODO */
+"Display the name or description of each option." = "Display the name or description of each option.";
+
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "Hiển thị tên của các liên hệ trong sổ địa chỉ của bạn thay vì số điện thoại của họ.";
 
@@ -564,6 +570,9 @@
 /* No comment provided by engineer. */
 "From: %@" = "Từ: %@";
 
+/* TODO */
+"Full" = "Full";
+
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Nhận điều khiển nâng cao khi ghi âm ngay trong cuộc gọi của bạn.";
 
@@ -607,6 +616,9 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "Trong 15 Phút";
+
+/* TODO */
+"Child Pages" = "Child Pages";
 
 /* No comment provided by engineer. */
 "Incoming" = "Đến";
@@ -911,6 +923,9 @@
 /* No comment provided by engineer. */
 "Ready" = "Sẵn sàng";
 
+/* TODO */
+"Ready to record!" = "Ready to record!";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Tự động ghi lại tất cả các cuộc gọi đến và đi.";
 
@@ -936,6 +951,9 @@
 
 /* TODO */
 "Recording successfully started." = "Recording successfully started.";
+
+/* TODO */
+"Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "Đang ghi%@_%@";
@@ -1038,6 +1056,9 @@
 
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "Hiển thị trên màn hình khóa";
+
+/* TODO */
+"Show Option Description" = "Show Option Description";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Hiển thị thời lượng ghi âm";
@@ -1365,6 +1386,9 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 
 /* TODO */
 "We’re unable to display a hoverball before your device is unlocked." = "We’re unable to display a hoverball before your device is unlocked.";
+
+/* TODO */
+"We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Chúng tôi có một bản ghi âm cuộc gọi điện thoại mới!";

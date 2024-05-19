@@ -241,6 +241,9 @@
 /* TODO */
 "Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
 
+/* TODO */
+"Child Pages" = "Child Pages";
+
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Elige el formato de audio de salida para la mezcladora. El formato de audio Wave no admite codificación avanzada.";
 
@@ -425,6 +428,9 @@
 /* No comment provided by engineer. */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Muestra el HUD global cuando tanto las entradas como las salidas de audio están activas continuamente.";
 
+/* TODO */
+"Display the name or description of each option." = "Display the name or description of each option.";
+
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "Mostrar los nombres de los contactos de la agenda en lugar de sus números de teléfono.";
 
@@ -564,6 +570,9 @@
 /* No comment provided by engineer. */
 "From: %@" = "Desde: %@";
 
+/* TODO */
+"Full" = "Full";
+
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Consigue un control avanzado al grabar directamente en tu llamada.";
 
@@ -607,6 +616,9 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "En 15 minutos";
+
+/* TODO */
+"Child Pages" = "Child Pages";
 
 /* No comment provided by engineer. */
 "Incoming" = "Entrante";
@@ -911,6 +923,9 @@
 /* No comment provided by engineer. */
 "Ready" = "Listo";
 
+/* TODO */
+"Ready to record!" = "Ready to record!";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Graba automáticamente todas las llamadas entrantes y salientes.";
 
@@ -936,6 +951,9 @@
 
 /* TODO */
 "Recording successfully started." = "Recording successfully started.";
+
+/* TODO */
+"Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "Grabación%@_%@";
@@ -1038,6 +1056,9 @@
 
 /* TODO */
 "Show on Lock Screen" = "Show on Lock Screen";
+
+/* TODO */
+"Show Option Description" = "Show Option Description";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Mostrar duración de grabación";
@@ -1364,6 +1385,9 @@
 
 /* TODO */
 "We’re unable to display a hoverball before your device is unlocked." = "We’re unable to display a hoverball before your device is unlocked.";
+
+/* TODO */
+"We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "¡Tenemos una nueva grabación de llamada telefónica!";

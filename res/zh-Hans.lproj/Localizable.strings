@@ -182,7 +182,7 @@
 "Automatically Suspend in Background" = "后台自动暂停";
 
 /* No comment provided by engineer. */
-"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解锁后自动上划进入桌面。锁定后十秒内解锁，此动作不会生效。";
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解锁后自动上划进入桌面。锁定后 10 秒内解锁，此动作不会生效。";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "一次购买终身可用";
@@ -240,6 +240,9 @@
 
 /* No comment provided by engineer. */
 "Cannot parse text with UTF-8 encoding: “@”." = "无法使用 UTF-8 编码解析文本：“@”";
+
+/* No comment provided by engineer. */
+"Child Pages" = "子页面";
 
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "选择混音器的输出音频格式。波形音频格式不支持高级编码。";
@@ -427,6 +430,9 @@
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，显示悬浮球。";
 
 /* No comment provided by engineer. */
+"Display the name or description of each option." = "显示每个选项的名称或描述。";
+
+/* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "显示通讯录当中联系人的姓名，而不是他们的电话号码。";
 
 /* No comment provided by engineer. */
@@ -567,6 +573,9 @@
 "From: %@" = "起始于：%@";
 
 /* No comment provided by engineer. */
+"Full" = "完整";
+
+/* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "在通话中打开控制面板即可控制录制参数。";
 
 /* No comment provided by engineer. */
@@ -609,6 +618,9 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "15 分钟内";
+
+/* No comment provided by engineer. */
+"Child Pages" = "子页面";
 
 /* No comment provided by engineer. */
 "Incoming" = "来电";
@@ -914,6 +926,9 @@
 "Ready" = "就绪";
 
 /* No comment provided by engineer. */
+"Ready to record!" = "准备录音！";
+
+/* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "自动录制所有来电和去电。";
 
 /* No comment provided by engineer. */
@@ -938,6 +953,9 @@
 
 /* No comment provided by engineer. */
 "Recording successfully started." = "正在录音中";
+
+/* No comment provided by engineer. */
+"Recording will begin when the call is answered." = "即将于通话接通后开始录音。";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "录音%@_%@";
@@ -1040,6 +1058,9 @@
 
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "在锁屏界面显示";
+
+/* No comment provided by engineer. */
+"Show Option Description" = "显示选项描述";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "显示录音时长";
@@ -1368,6 +1389,9 @@
 "We’re unable to display a hoverball before your device is unlocked." = "在你的设备解锁之前，悬浮球无法显示。";
 
 /* No comment provided by engineer. */
+"We’re unable to show hoverball before unlocking due to technical reasons." = "由于技术原因，我们无法在解锁前显示悬浮球。";
+
+/* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "我们生成了一份新的通话录音！";
 
 /* No comment provided by engineer. */
@@ -1377,7 +1401,7 @@
 "When Locked" = "仅锁定时";
 
 /* No comment provided by engineer. */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。暂时仍无法在未解锁前显示。";
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制应用程序使用浅色或深色用户界面。";
@@ -1401,7 +1425,7 @@
 "YES" = "是";
 
 /* No comment provided by engineer. */
-"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必须选择 “始终” 以使巨魔录音机能够在后台确定你的位置。如果你选择 “使用 App 期间”，你需要在录音结束后 15 分钟内启动应用程序以更新位置。";
+"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必须选择 “始终” 以使巨魔录音机能够在后台确定你的位置。如果你选择 “使用 App 期间”，你需要在录音结束后 15 分钟或 1 小时内启动应用程序以更新位置。";
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要启用 “增强自动录音” 或 “增强通话场景识别” 以使此页面上的选项生效。";

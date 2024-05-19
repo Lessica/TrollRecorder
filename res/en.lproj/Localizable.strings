@@ -242,6 +242,9 @@
 "Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
 
 /* No comment provided by engineer. */
+"Child Pages" = "Child Pages";
+
+/* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding.";
 
 /* No comment provided by engineer. */
@@ -427,6 +430,9 @@
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Display the hoverball when both the audio inputs and outputs are continuously active.";
 
 /* No comment provided by engineer. */
+"Display the name or description of each option." = "Display the name or description of each option.";
+
+/* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "Display the names of contacts in your address book instead of their phone numbers.";
 
 /* No comment provided by engineer. */
@@ -567,6 +573,9 @@
 "From: %@" = "From: %@";
 
 /* No comment provided by engineer. */
+"Full" = "Full";
+
+/* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Get advanced control when recording right in your call.";
 
 /* No comment provided by engineer. */
@@ -609,6 +618,9 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "In 15 Minutes";
+
+/* No comment provided by engineer. */
+"Child Pages" = "Child Pages";
 
 /* No comment provided by engineer. */
 "Incoming" = "Incoming";
@@ -914,6 +926,9 @@
 "Ready" = "Ready";
 
 /* No comment provided by engineer. */
+"Ready to record!" = "Ready to record!";
+
+/* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Record all incoming and outgoing calls automatically.";
 
 /* No comment provided by engineer. */
@@ -938,6 +953,9 @@
 
 /* No comment provided by engineer. */
 "Recording successfully started." = "Recording successfully started.";
+
+/* No comment provided by engineer. */
+"Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "Recording%@_%@";
@@ -1040,6 +1058,9 @@
 
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "Show on Lock Screen";
+
+/* No comment provided by engineer. */
+"Show Option Description" = "Show Option Description";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Show Recording Duration";
@@ -1366,6 +1387,9 @@
 
 /* No comment provided by engineer. */
 "We’re unable to display a hoverball before your device is unlocked." = "We’re unable to display a hoverball before your device is unlocked.";
+
+/* No comment provided by engineer. */
+"We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "We’ve got a new phone call recording!";
