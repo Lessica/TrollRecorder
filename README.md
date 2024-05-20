@@ -31,7 +31,7 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 ## 1.x Milestones
 
 - [ ] Slide-to-Play
-- [ ] Hover-ball on Lockscreen
+- [x] <del>Hover-ball on Lockscreen</del> Notification on Lockscreen
 - [ ] Network Backup: iCloud Backup / iCloud Drive
 
 ## 2.x Milestones
