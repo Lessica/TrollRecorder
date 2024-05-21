@@ -104,6 +104,9 @@
 "Allow Automatic Recording" = "允许自动录音";
 
 /* No comment provided by engineer. */
+"Allow Deletion of Cloud Recordings" = "允许删除云端录音";
+
+/* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允许唤醒悬浮球";
 
 /* No comment provided by engineer. */
@@ -403,10 +406,10 @@
 "Dismiss" = "忽略";
 
 /* No comment provided by engineer. */
-"Display a notification banner and make some noise when recording ends." = "录音结束时，显示通知横幅并发出声音。";
+"Display a notification banner and play an audible notice." = "显示通知横幅时发出提示音。";
 
 /* No comment provided by engineer. */
-"Display a notification banner and update the badge on the application icon when recording ends." = "录音结束时，显示通知横幅并更新应用程序图标上的徽章。";
+"Display a notification banner and update the badge above the application icon." = "显示通知横幅时更新应用程序图标上的角标。";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "录音结束时，显示通知横幅。";
@@ -462,6 +465,9 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此处__ 以调节 ___%@___ 的尺寸。";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "闲置时长";
@@ -588,6 +594,9 @@
 "Go Home When Unlocked" = "解锁后回到桌面";
 
 /* No comment provided by engineer. */
+"Google Drive" = "Google 云端硬盘";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏时隐藏";
 
 /* No comment provided by engineer. */
@@ -608,6 +617,9 @@
 "I Agree to the E.U.L.A." = "我已经阅读并同意《最终用户许可协议》";
 
 /* No comment provided by engineer. */
+"iCloud Drive" = "iCloud 云盘";
+
+/* No comment provided by engineer. */
 "Idle" = "空闲";
 
 /* No comment provided by engineer. */
@@ -618,9 +630,6 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "15 分钟内";
-
-/* No comment provided by engineer. */
-"Child Pages" = "子页面";
 
 /* No comment provided by engineer. */
 "Incoming" = "来电";
@@ -875,19 +884,19 @@
 "Populate Location When App Starts" = "应用启动时填充位置";
 
 /* No comment provided by engineer. */
-"Popup Audible Banner at End" = "显示有声通知";
-
-/* No comment provided by engineer. */
-"Popup Banner & Badge at End" = "显示通知和徽章";
-
-/* No comment provided by engineer. */
 "Popup Banner at Begin" = "显示开始通知";
 
 /* No comment provided by engineer. */
 "Popup Banner at End" = "显示结束通知";
 
 /* No comment provided by engineer. */
+"Popup Banner with Badge" = "显示通知角标";
+
+/* No comment provided by engineer. */
 "Popup Banner with Detail" = "显示通知详情";
+
+/* No comment provided by engineer. */
+"Popup Banner with Sound" = "显示有声通知";
 
 /* No comment provided by engineer. */
 "Preparing" = "准备中";
@@ -1030,6 +1039,9 @@
 "Select All" = "全选";
 
 /* No comment provided by engineer. */
+"Select the primary cloud service provider for recording synchronization." = "选择用于录音同步的主要云服务提供商。";
+
+/* No comment provided by engineer. */
 "Semi-Transparent" = "半透明";
 
 /* No comment provided by engineer. */
@@ -1123,6 +1135,12 @@
 
 /* No comment provided by engineer. */
 "Stop Service" = "停止服务";
+
+/* No comment provided by engineer. */
+"Sync Service Mode" = "同步服务模式";
+
+/* No comment provided by engineer. */
+"Sync Service Provider" = "同步服务提供商";
 
 /* No comment provided by engineer. */
 "System Applications" = "系统应用程序";
@@ -1297,6 +1315,12 @@
 "Upgrade to %@" = "升级到 %@";
 
 /* No comment provided by engineer. */
+"Upload" = "上传";
+
+/* No comment provided by engineer. */
+"Upload & Download" = "上传与下载";
+
+/* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "使用生物识别验证来解锁应用程序。";
 
 /* No comment provided by engineer. */
@@ -1380,6 +1404,9 @@
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我们喜欢移动着的、多彩的背景，但是我们依然提供了选项让你来关闭它。";
 
 /* No comment provided by engineer. */
+"WebDAV Server" = "WebDAV 服务器";
+
+/* No comment provided by engineer. */
 "WeChat Assistant" = "微信通话助理";
 
 /* No comment provided by engineer. */
@@ -1402,6 +1429,12 @@
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";
+
+/* No comment provided by engineer. */
+"Whether to apply the deletion of recordings to the cloud drive." = "删除本地录音时是否同步删除云端录音。";
+
+/* No comment provided by engineer. */
+"Whether to download recordings from the cloud drive." = "是否从云端下载录音。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制应用程序使用浅色或深色用户界面。";
@@ -1429,6 +1462,9 @@
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要启用 “增强自动录音” 或 “增强通话场景识别” 以使此页面上的选项生效。";
+
+/* No comment provided by engineer. */
+"You may need to reboot your device to make this application work properly." = "你可能需要重新启动你的设备以使此应用程序正常工作。";
 
 /* No comment provided by engineer. */
 "You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "你需要安装具备 URL Scheme 跳转能力的 “Filza 文件管理器” 来查看或恢复你的录音。";

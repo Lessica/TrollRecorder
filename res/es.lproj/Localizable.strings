@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Permitir grabación automática";
 
+/* TODO */
+"Allow Deletion of Cloud Recordings" = "Allow Deletion of Cloud Recordings";
+
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Permitir activaciones del HUD";
 
@@ -401,11 +404,11 @@
 /* No comment provided by engineer. */
 "Dismiss" = "Descartar";
 
-/* No comment provided by engineer. */
-"Display a notification banner and make some noise when recording ends." = "Mostrar un banner de notificación y hacer ruido al finalizar la grabación.";
+/* TODO */
+"Display a notification banner and play an audible notice." = "Display a notification banner and play an audible notice.";
 
-/* No comment provided by engineer. */
-"Display a notification banner and update the badge on the application icon when recording ends." = "Muestra un banner de notificación y actualiza la insignia del icono de la aplicación cuando finaliza la grabación.";
+/* TODO */
+"Display a notification banner and update the badge above the application icon." = "Display a notification banner and update the badge above the application icon.";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "Mostrar un banner de notificación al finalizar la grabación.";
@@ -460,6 +463,9 @@
 
 /* TODO */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+
+/* TODO */
+"Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duración antes de inactividad";
@@ -585,6 +591,9 @@
 /* TODO */
 "Go Home When Unlocked" = "Go Home When Unlocked";
 
+/* TODO */
+"Google Drive" = "Google Drive";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Ocultar el HUD al hacer una instantánea";
 
@@ -605,6 +614,9 @@
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "Estoy de acuerdo con la E.U.L.A.";
 
+/* TODO */
+"iCloud Drive" = "iCloud Drive";
+
 /* No comment provided by engineer. */
 "Idle" = "En espera";
 
@@ -616,9 +628,6 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "En 15 minutos";
-
-/* TODO */
-"Child Pages" = "Child Pages";
 
 /* No comment provided by engineer. */
 "Incoming" = "Entrante";
@@ -872,20 +881,20 @@
 /* No comment provided by engineer. */
 "Populate Location When App Starts" = "Rellenar ubicación al iniciar la aplicación";
 
-/* No comment provided by engineer. */
-"Popup Audible Banner at End" = "Banner sonoro emergente al final";
-
-/* No comment provided by engineer. */
-"Popup Banner & Badge at End" = "Banner emergente e insignia al final";
-
 /* TODO */
 "Popup Banner at Begin" = "Popup Banner at Begin";
 
 /* No comment provided by engineer. */
 "Popup Banner at End" = "Banner emergente al final";
 
+/* TODO */
+"Popup Banner with Badge" = "Popup Banner with Badge";
+
 /* No comment provided by engineer. */
 "Popup Banner with Detail" = "Banner emergente con detalle";
+
+/* TODO */
+"Popup Banner with Sound" = "Popup Banner with Sound";
 
 /* TODO */
 "Preparing" = "Preparing";
@@ -1027,6 +1036,9 @@
 /* No comment provided by engineer. */
 "Select All" = "Seleccionar todo";
 
+/* TODO */
+"Select the primary cloud service provider for recording synchronization." = "Select the primary cloud service provider for recording synchronization.";
+
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Semi-transparente";
 
@@ -1121,6 +1133,12 @@
 
 /* No comment provided by engineer. */
 "Stop Service" = "Detener servicio";
+
+/* TODO */
+"Sync Service Mode" = "Sync Service Mode";
+
+/* TODO */
+"Sync Service Provider" = "Sync Service Provider";
 
 /* No comment provided by engineer. */
 "System Applications" = "Aplicaciones del sistema";
@@ -1294,6 +1312,12 @@
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Actualizar a %@";
 
+/* TODO */
+"Upload" = "Upload";
+
+/* TODO */
+"Upload & Download" = "Upload & Download";
+
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Utilice la autenticación biométrica para desbloquear la aplicación.";
 
@@ -1378,6 +1402,9 @@
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Nos encantan los fondos coloridos y en movimiento, pero aquí tienes la opción de desactivarlos.";
 
 /* TODO */
+"WebDAV Server" = "WebDAV Server";
+
+/* TODO */
 "WeChat Assistant" = "WeChat Assistant";
 
 /* No comment provided by engineer. */
@@ -1400,6 +1427,12 @@
 
 /* TODO */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
+
+/* TODO */
+"Whether to apply the deletion of recordings to the cloud drive." = "Whether to apply the deletion of recordings to the cloud drive.";
+
+/* TODO */
+"Whether to download recordings from the cloud drive." = "Whether to download recordings from the cloud drive.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Si se debe forzar a la aplicación a utilizar la interfaz de usuario clara u oscura.";
@@ -1427,6 +1460,9 @@
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Es posible que tengas que activar “Grabación automática mejorada” o “Identificación de escenas mejorada” para que las opciones de esta página surtan efecto.";
+
+/* TODO */
+"You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
 
 /* No comment provided by engineer. */
 "You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "Necesitas instalar “Filza File Manager” para ver o recuperar tus grabaciones.";

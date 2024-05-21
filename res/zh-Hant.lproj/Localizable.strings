@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允許自動錄音";
 
+/* TODO */
+"Allow Deletion of Cloud Recordings" = "Allow Deletion of Cloud Recordings";
+
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允許喚醒懸浮球";
 
@@ -402,11 +405,11 @@
 /* No comment provided by engineer. */
 "Dismiss" = "忽略";
 
-/* No comment provided by engineer. */
-"Display a notification banner and make some noise when recording ends." = "錄音結束時，顯示通知橫幅並發出聲音。";
+/* TODO */
+"Display a notification banner and play an audible notice." = "Display a notification banner and play an audible notice.";
 
-/* No comment provided by engineer. */
-"Display a notification banner and update the badge on the application icon when recording ends." = "錄音結束時，顯示通知橫幅并更新應用程式圖標上的徽章。";
+/* TODO */
+"Display a notification banner and update the badge above the application icon." = "Display a notification banner and update the badge above the application icon.";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "錄音結束時，顯示通知橫幅。";
@@ -461,6 +464,9 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
+
+/* TODO */
+"Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "閑置時長";
@@ -586,6 +592,9 @@
 /* No comment provided by engineer. */
 "Go Home When Unlocked" = "解鎖後回到主熒幕";
 
+/* TODO */
+"Google Drive" = "Google Drive";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏時隱藏";
 
@@ -606,6 +615,9 @@
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "我已经阅读并同意《最終用戶授權合約》";
 
+/* TODO */
+"iCloud Drive" = "iCloud Drive";
+
 /* No comment provided by engineer. */
 "Idle" = "空閑";
 
@@ -617,9 +629,6 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "15 分鐘内";
-
-/* No comment provided by engineer. */
-"Child Pages" = "子頁面";
 
 /* No comment provided by engineer. */
 "Incoming" = "來電";
@@ -874,19 +883,19 @@
 "Populate Location When App Starts" = "應用啓動時填充位置";
 
 /* No comment provided by engineer. */
-"Popup Audible Banner at End" = "顯示有聲通知";
-
-/* No comment provided by engineer. */
-"Popup Banner & Badge at End" = "顯示通知和徽章";
-
-/* No comment provided by engineer. */
 "Popup Banner at Begin" = "顯示開始通知";
 
 /* No comment provided by engineer. */
 "Popup Banner at End" = "顯示結束通知";
 
+/* TODO */
+"Popup Banner with Badge" = "Popup Banner with Badge";
+
 /* No comment provided by engineer. */
 "Popup Banner with Detail" = "顯示通知詳細資訊";
+
+/* TODO */
+"Popup Banner with Sound" = "Popup Banner with Sound";
 
 /* No comment provided by engineer. */
 "Preparing" = "準備中";
@@ -1028,6 +1037,9 @@
 /* No comment provided by engineer. */
 "Select All" = "全選";
 
+/* TODO */
+"Select the primary cloud service provider for recording synchronization." = "Select the primary cloud service provider for recording synchronization.";
+
 /* No comment provided by engineer. */
 "Semi-Transparent" = "半透明";
 
@@ -1122,6 +1134,12 @@
 
 /* No comment provided by engineer. */
 "Stop Service" = "停止服務";
+
+/* TODO */
+"Sync Service Mode" = "Sync Service Mode";
+
+/* TODO */
+"Sync Service Provider" = "Sync Service Provider";
 
 /* No comment provided by engineer. */
 "System Applications" = "系統應用程式";
@@ -1295,6 +1313,12 @@
 /* No comment provided by engineer. */
 "Upgrade to %@" = "升級到 %@";
 
+/* TODO */
+"Upload" = "Upload";
+
+/* TODO */
+"Upload & Download" = "Upload & Download";
+
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "使用生物特徵識別驗證來解鎖應用程式。";
 
@@ -1378,6 +1402,9 @@
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我們喜歡移動著的、多彩的背景，但是我們依然提供了選項讓你來關閉它。";
 
+/* TODO */
+"WebDAV Server" = "WebDAV Server";
+
 /* No comment provided by engineer. */
 "WeChat Assistant" = "WeChat 通話助理";
 
@@ -1401,6 +1428,12 @@
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解鎖後，即使您不在主荧幕上，也會顯示懸浮球。";
+
+/* TODO */
+"Whether to apply the deletion of recordings to the cloud drive." = "Whether to apply the deletion of recordings to the cloud drive.";
+
+/* TODO */
+"Whether to download recordings from the cloud drive." = "Whether to download recordings from the cloud drive.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制應用程式使用淺色或深色用戶界面。";
@@ -1428,6 +1461,9 @@
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要啟用“增强自動錄音”或“增强通話場景識別”以使此頁面上的選項生效。";
+
+/* TODO */
+"You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
 
 /* No comment provided by engineer. */
 "You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "你需要安裝具備 URL Scheme 跳轉能力的“Filza 檔案管理器”來查看或恢復你的錄音。";

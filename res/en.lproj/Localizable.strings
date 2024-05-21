@@ -104,6 +104,9 @@
 "Allow Automatic Recording" = "Allow Automatic Recording";
 
 /* No comment provided by engineer. */
+"Allow Deletion of Cloud Recordings" = "Allow Deletion of Cloud Recordings";
+
+/* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
 
 /* No comment provided by engineer. */
@@ -403,10 +406,10 @@
 "Dismiss" = "Dismiss";
 
 /* No comment provided by engineer. */
-"Display a notification banner and make some noise when recording ends." = "Display a notification banner and make some noise when recording ends.";
+"Display a notification banner and play an audible notice." = "Display a notification banner and play an audible notice.";
 
 /* No comment provided by engineer. */
-"Display a notification banner and update the badge on the application icon when recording ends." = "Display a notification banner and update the badge on the application icon when recording ends.";
+"Display a notification banner and update the badge above the application icon." = "Display a notification banner and update the badge above the application icon.";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "Display a notification banner when recording ends.";
@@ -462,6 +465,9 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duration Before Idle";
@@ -588,6 +594,9 @@
 "Go Home When Unlocked" = "Go Home When Unlocked";
 
 /* No comment provided by engineer. */
+"Google Drive" = "Google Drive";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "Hide When Snapshot";
 
 /* No comment provided by engineer. */
@@ -608,6 +617,9 @@
 "I Agree to the E.U.L.A." = "I Agree to the E.U.L.A.";
 
 /* No comment provided by engineer. */
+"iCloud Drive" = "iCloud Drive";
+
+/* No comment provided by engineer. */
 "Idle" = "Idle";
 
 /* No comment provided by engineer. */
@@ -618,9 +630,6 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "In 15 Minutes";
-
-/* No comment provided by engineer. */
-"Child Pages" = "Child Pages";
 
 /* No comment provided by engineer. */
 "Incoming" = "Incoming";
@@ -875,19 +884,19 @@
 "Populate Location When App Starts" = "Populate Location When App Starts";
 
 /* No comment provided by engineer. */
-"Popup Audible Banner at End" = "Popup Audible Banner at End";
-
-/* No comment provided by engineer. */
-"Popup Banner & Badge at End" = "Popup Banner & Badge at End";
-
-/* No comment provided by engineer. */
 "Popup Banner at Begin" = "Popup Banner at Begin";
 
 /* No comment provided by engineer. */
 "Popup Banner at End" = "Popup Banner at End";
 
 /* No comment provided by engineer. */
+"Popup Banner with Badge" = "Popup Banner with Badge";
+
+/* No comment provided by engineer. */
 "Popup Banner with Detail" = "Popup Banner with Detail";
+
+/* No comment provided by engineer. */
+"Popup Banner with Sound" = "Popup Banner with Sound";
 
 /* No comment provided by engineer. */
 "Preparing" = "Preparing";
@@ -1030,6 +1039,9 @@
 "Select All" = "Select All";
 
 /* No comment provided by engineer. */
+"Select the primary cloud service provider for recording synchronization." = "Select the primary cloud service provider for recording synchronization.";
+
+/* No comment provided by engineer. */
 "Semi-Transparent" = "Semi-Transparent";
 
 /* No comment provided by engineer. */
@@ -1123,6 +1135,12 @@
 
 /* No comment provided by engineer. */
 "Stop Service" = "Stop Service";
+
+/* No comment provided by engineer. */
+"Sync Service Mode" = "Sync Service Mode";
+
+/* No comment provided by engineer. */
+"Sync Service Provider" = "Sync Service Provider";
 
 /* No comment provided by engineer. */
 "System Applications" = "System Applications";
@@ -1297,6 +1315,12 @@
 "Upgrade to %@" = "Upgrade to %@";
 
 /* No comment provided by engineer. */
+"Upload" = "Upload";
+
+/* No comment provided by engineer. */
+"Upload & Download" = "Upload & Download";
+
+/* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Use biometric authentication to unlock the application.";
 
 /* No comment provided by engineer. */
@@ -1380,6 +1404,9 @@
 "We love colorful and moving backgrounds, but option here for you to disable it." = "We love colorful and moving backgrounds, but option here for you to disable it.";
 
 /* No comment provided by engineer. */
+"WebDAV Server" = "WebDAV Server";
+
+/* No comment provided by engineer. */
 "WeChat Assistant" = "WeChat Assistant";
 
 /* No comment provided by engineer. */
@@ -1402,6 +1429,12 @@
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
+
+/* No comment provided by engineer. */
+"Whether to apply the deletion of recordings to the cloud drive." = "Whether to apply the deletion of recordings to the cloud drive.";
+
+/* No comment provided by engineer. */
+"Whether to download recordings from the cloud drive." = "Whether to download recordings from the cloud drive.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Whether to force the application to use the light or the dark user interface.";
@@ -1429,6 +1462,9 @@
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect.";
+
+/* No comment provided by engineer. */
+"You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
 
 /* No comment provided by engineer. */
 "You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings.";
