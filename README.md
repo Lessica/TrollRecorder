@@ -54,7 +54,8 @@ A botch job is a waste of time. That's why we always built our app in the best q
 
 - Spanish by [@Deci8BelioS](https://github.com/Deci8BelioS)
 - French by [@DzMoha](https://twitter.com/contact_nadhir)
-- Traditional Chinese by [@CaslenZ](https://github.com/CaslenZ)
+- Traditional Chinese (Hong Kong) by [@CaslenZ](https://github.com/CaslenZ)
+- Traditional Chinese (Taiwan) by [@雲端戰神一刀秒](https://github.com/mp614t)
 - Vietnamese by [@2311WithLuv](https://www.facebook.com/If2019)
 
 ## Localization
