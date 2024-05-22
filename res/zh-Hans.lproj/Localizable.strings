@@ -152,6 +152,15 @@
 "Applications" = "应用程序";
 
 /* No comment provided by engineer. */
+"Archive" = "归档";
+
+/* No comment provided by engineer. */
+"Archive, upload or download recordings from the cloud drive." = "从云端归档、上传或下载录音。";
+
+/* No comment provided by engineer. */
+"Archive: Collect mixed or combined recordings, rename, and upload them to cloud storage.\nUpload: Upload existing recordings to cloud storage, in their original format.\nSync: Upload existing recordings to cloud storage, and download new recordings from cloud storage." = "归档：仅将混合或组合录音重命名并上传到云端。\n上传：将现有录音以原始格式上传到云端。\n同步：将现有录音上传到云端，并从云端下载新录音。";
+
+/* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多存储空间，请谨慎开启。";
 
 /* No comment provided by engineer. */
@@ -1137,6 +1146,9 @@
 "Stop Service" = "停止服务";
 
 /* No comment provided by engineer. */
+"Sync" = "同步";
+
+/* No comment provided by engineer. */
 "Sync Service Mode" = "同步服务模式";
 
 /* No comment provided by engineer. */
@@ -1324,6 +1336,9 @@
 "Use biometric authentication to unlock the application." = "使用生物识别验证来解锁应用程序。";
 
 /* No comment provided by engineer. */
+"Use Cellular Network" = "使用蜂窝网络";
+
+/* No comment provided by engineer. */
 "Use Date" = "使用日期";
 
 /* No comment provided by engineer. */
@@ -1429,6 +1444,9 @@
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";
+
+/* No comment provided by engineer. */
+"Whether to allow the use of cellular network for recording synchronization. Additional charges may apply for data usage." = "是否允许使用蜂窝网络进行录音同步。数据使用可能会产生额外费用。";
 
 /* No comment provided by engineer. */
 "Whether to apply the deletion of recordings to the cloud drive." = "删除本地录音时是否同步删除云端录音。";

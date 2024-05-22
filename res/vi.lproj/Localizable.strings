@@ -151,6 +151,15 @@
 /* No comment provided by engineer. */
 "Applications" = "Các ứng dụng";
 
+/* TODO */
+"Archive" = "Archive";
+
+/* TODO */
+"Archive, upload or download recordings from the cloud drive." = "Archive, upload or download recordings from the cloud drive.";
+
+/* TODO */
+"Archive: Collect mixed or combined recordings, rename, and upload them to cloud storage.\nUpload: Upload existing recordings to cloud storage, in their original format.\nSync: Upload existing recordings to cloud storage, and download new recordings from cloud storage." = "Archive: Collect mixed or combined recordings, rename, and upload them to cloud storage.\nUpload: Upload existing recordings to cloud storage, in their original format.\nSync: Upload existing recordings to cloud storage, and download new recordings from cloud storage.";
+
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "Vào cuối quá trình ghi âm, các tệp âm thanh của mỗi kênh trong quá trình ghi âm được giữ lại.";
 
@@ -1135,6 +1144,9 @@
 "Stop Service" = "Dừng dịch vụ";
 
 /* TODO */
+"Sync" = "Sync";
+
+/* TODO */
 "Sync Service Mode" = "Sync Service Mode";
 
 /* TODO */
@@ -1321,6 +1333,9 @@
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Sử dụng xác thực sinh trắc học để mở khóa ứng dụng.";
 
+/* TODO */
+"Use Cellular Network" = "Use Cellular Network";
+
 /* No comment provided by engineer. */
 "Use Date" = "Ngày sử dụng";
 
@@ -1428,6 +1443,9 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "Khi được mở khóa, bong bóng mọi nơi sẽ được hiển thị ngay cả khi bạn không ở trên màn hình chính.";
+
+/* TODO */
+"Whether to allow the use of cellular network for recording synchronization. Additional charges may apply for data usage." = "Whether to allow the use of cellular network for recording synchronization. Additional charges may apply for data usage.";
 
 /* TODO */
 "Whether to apply the deletion of recordings to the cloud drive." = "Whether to apply the deletion of recordings to the cloud drive.";
