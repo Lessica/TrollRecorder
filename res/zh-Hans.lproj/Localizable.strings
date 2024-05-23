@@ -74,8 +74,6 @@
 
 "Activate the recorder hoverball." = "启动服务，并打开录音悬浮球。";
 
-"Add" = "添加";
-
 /* No comment provided by engineer. */
 "Additional Contact" = "自定义联系人";
 
@@ -102,9 +100,6 @@
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允许自动录音";
-
-/* No comment provided by engineer. */
-"Allow Deletion of Cloud Recordings" = "允许删除云端录音";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允许唤醒悬浮球";
@@ -155,10 +150,7 @@
 "Archive" = "归档";
 
 /* No comment provided by engineer. */
-"Archive, upload or download recordings from the cloud drive." = "从云端归档、上传或下载录音。";
-
-/* No comment provided by engineer. */
-"Archive: Collect mixed or combined recordings, rename, and upload them to cloud storage.\nUpload: Upload existing recordings to cloud storage, in their original format.\nSync: Upload existing recordings to cloud storage, and download new recordings from cloud storage." = "归档：仅将混合或组合录音重命名并上传到云端。\n上传：将现有录音以原始格式上传到云端。\n同步：将现有录音上传到云端，并从云端下载新录音。";
+"Archive, upload or download recordings from cloud drive." = "从云端归档、上传或下载录音。";
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多存储空间，请谨慎开启。";
@@ -216,6 +208,9 @@
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "生物识别验证";
+
+/* No comment provided by engineer. */
+"Bisync" = "双向同步";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour 服务已启动：%@";
@@ -341,9 +336,6 @@
 /* ObjectTableViewController */
 "Copy Key" = "拷贝键";
 
-/* PathListTableViewController */
-"Copy Name" = "拷贝名称";
-
 /* No comment provided by engineer. */
 "Copy Path" = "拷贝路径";
 
@@ -377,15 +369,6 @@
 
 /* No comment provided by engineer. */
 "Debugging" = "调试";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate 失败";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd 失败";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 失败";
 
 /* No comment provided by engineer. */
 "Delete" = "删除";
@@ -489,6 +472,9 @@
 
 /* No comment provided by engineer. */
 "Enable %@" = "启用 %@";
+
+/* No comment provided by engineer. */
+"Enable Logging" = "启用日志";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "启用 WebDAV 服务器";
@@ -859,9 +845,6 @@
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "来自 “%@” 的去电录音";
 
-/* PathListTableViewController */
-"Path List Viewer" = "路径列表查看器";
-
 /* No comment provided by engineer. */
 "Pause Recording" = "暂停录音";
 
@@ -1169,9 +1152,6 @@
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暂时忽略";
 
-/* PlainTextViewController */
-"Text Viewer" = "文本查看器";
-
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "设置应用程序遇到了未知错误，守护进程没有响应我们的请求。我们正在尝试重新连接，请稍后。若问题持续存在，你可以尝试重新安装应用程序。";
 
@@ -1254,6 +1234,9 @@
 "To" = "结束于";
 
 /* No comment provided by engineer. */
+"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "如需配置 iCloud 云盘，请转到 “设置 > 蜂窝移动网络 > iCloud 云盘”。";
+
+/* No comment provided by engineer. */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服务的活跃状态，你需要为巨魔录音机选择 “始终” 或 “使用 App 期间”。";
 
 /* No comment provided by engineer. */
@@ -1291,9 +1274,6 @@
 "Troll Recorder" = "巨魔录音机";
 
 /* No comment provided by engineer. */
-"TrollRecorder" = "巨魔录音机";
-
-/* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "关闭此选项，使此页面上的其他选项对当前应用程序生效。";
 
 /* No comment provided by engineer. */
@@ -1328,9 +1308,6 @@
 
 /* No comment provided by engineer. */
 "Upload" = "上传";
-
-/* No comment provided by engineer. */
-"Upload & Download" = "上传与下载";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "使用生物识别验证来解锁应用程序。";
@@ -1428,9 +1405,6 @@
 "Welcome to" = "欢迎使用";
 
 /* No comment provided by engineer. */
-"We’re unable to display a hoverball before your device is unlocked." = "在你的设备解锁之前，悬浮球无法显示。";
-
-/* No comment provided by engineer. */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "由于技术原因，我们无法在解锁前显示悬浮球。";
 
 /* No comment provided by engineer. */
@@ -1443,16 +1417,10 @@
 "When Locked" = "仅锁定时";
 
 /* No comment provided by engineer. */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "未连接无线局域网时，使用蜂窝网络传输录音。可能会产生额外费用。";
+
+/* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";
-
-/* No comment provided by engineer. */
-"Whether to allow the use of cellular network for recording synchronization. Additional charges may apply for data usage." = "是否允许使用蜂窝网络进行录音同步。数据使用可能会产生额外费用。";
-
-/* No comment provided by engineer. */
-"Whether to apply the deletion of recordings to the cloud drive." = "删除本地录音时是否同步删除云端录音。";
-
-/* No comment provided by engineer. */
-"Whether to download recordings from the cloud drive." = "是否从云端下载录音。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制应用程序使用浅色或深色用户界面。";
@@ -1471,6 +1439,9 @@
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "将经纬度写入录音元数据。";
+
+/* No comment provided by engineer. */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "将运行时日志写入文件系统。你需要重新启动服务以应用更改。";
 
 /* No comment provided by engineer. */
 "YES" = "是";
@@ -1495,3 +1466,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "你选择了密码验证。";
+
+/* No comment provided by engineer. */
+"deflate failed" = "deflate failed";
+
+/* No comment provided by engineer. */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* No comment provided by engineer. */
+"deflateInit2 failed" = "deflateInit2 failed";

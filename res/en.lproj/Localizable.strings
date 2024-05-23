@@ -74,8 +74,6 @@
 
 "Activate the recorder hoverball." = "Activate the recorder hoverball.";
 
-"Add" = "Add";
-
 /* No comment provided by engineer. */
 "Additional Contact" = "Additional Contact";
 
@@ -102,9 +100,6 @@
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Allow Automatic Recording";
-
-/* No comment provided by engineer. */
-"Allow Deletion of Cloud Recordings" = "Allow Deletion of Cloud Recordings";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
@@ -155,10 +150,7 @@
 "Archive" = "Archive";
 
 /* No comment provided by engineer. */
-"Archive, upload or download recordings from the cloud drive." = "Archive, upload or download recordings from the cloud drive.";
-
-/* No comment provided by engineer. */
-"Archive: Collect mixed or combined recordings, rename, and upload them to cloud storage.\nUpload: Upload existing recordings to cloud storage, in their original format.\nSync: Upload existing recordings to cloud storage, and download new recordings from cloud storage." = "Archive: Collect mixed or combined recordings, rename, and upload them to cloud storage.\nUpload: Upload existing recordings to cloud storage, in their original format.\nSync: Upload existing recordings to cloud storage, and download new recordings from cloud storage.";
+"Archive, upload or download recordings from cloud drive." = "Archive, upload or download recordings from cloud drive.";
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "At the end of recording, the audio files of each channel during recording are retained.";
@@ -216,6 +208,9 @@
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Biometric Authentication";
+
+/* No comment provided by engineer. */
+"Bisync" = "Bisync";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour server started at: %@";
@@ -341,9 +336,6 @@
 /* ObjectTableViewController */
 "Copy Key" = "Copy Key";
 
-/* PathListTableViewController */
-"Copy Name" = "Copy Name";
-
 /* No comment provided by engineer. */
 "Copy Path" = "Copy Path";
 
@@ -377,15 +369,6 @@
 
 /* No comment provided by engineer. */
 "Debugging" = "Debugging";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate failed";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 failed";
 
 /* No comment provided by engineer. */
 "Delete" = "Delete";
@@ -489,6 +472,9 @@
 
 /* No comment provided by engineer. */
 "Enable %@" = "Enable %@";
+
+/* No comment provided by engineer. */
+"Enable Logging" = "Enable Logging";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "Enable WebDAV Server";
@@ -859,9 +845,6 @@
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "Outgoing call recording from “%@”.";
 
-/* PathListTableViewController */
-"Path List Viewer" = "Path List Viewer";
-
 /* No comment provided by engineer. */
 "Pause Recording" = "Pause Recording";
 
@@ -1169,9 +1152,6 @@
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Temporary Ignore";
 
-/* PlainTextViewController */
-"Text Viewer" = "Text Viewer";
-
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application.";
 
@@ -1254,6 +1234,9 @@
 "To" = "To";
 
 /* No comment provided by engineer. */
+"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”.";
+
+/* No comment provided by engineer. */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder.";
 
 /* No comment provided by engineer. */
@@ -1291,9 +1274,6 @@
 "Troll Recorder" = "Troll Recorder";
 
 /* No comment provided by engineer. */
-"TrollRecorder" = "TrollRecorder";
-
-/* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Turn this option off to make the other options on this page take effect for the current application.";
 
 /* No comment provided by engineer. */
@@ -1328,9 +1308,6 @@
 
 /* No comment provided by engineer. */
 "Upload" = "Upload";
-
-/* No comment provided by engineer. */
-"Upload & Download" = "Upload & Download";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Use biometric authentication to unlock the application.";
@@ -1428,9 +1405,6 @@
 "Welcome to" = "Welcome to";
 
 /* No comment provided by engineer. */
-"We’re unable to display a hoverball before your device is unlocked." = "We’re unable to display a hoverball before your device is unlocked.";
-
-/* No comment provided by engineer. */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
 
 /* No comment provided by engineer. */
@@ -1443,16 +1417,10 @@
 "When Locked" = "When Locked";
 
 /* No comment provided by engineer. */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply.";
+
+/* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
-
-/* No comment provided by engineer. */
-"Whether to allow the use of cellular network for recording synchronization. Additional charges may apply for data usage." = "Whether to allow the use of cellular network for recording synchronization. Additional charges may apply for data usage.";
-
-/* No comment provided by engineer. */
-"Whether to apply the deletion of recordings to the cloud drive." = "Whether to apply the deletion of recordings to the cloud drive.";
-
-/* No comment provided by engineer. */
-"Whether to download recordings from the cloud drive." = "Whether to download recordings from the cloud drive.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Whether to force the application to use the light or the dark user interface.";
@@ -1471,6 +1439,9 @@
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Write latitude and longitude to the recording metadata.";
+
+/* No comment provided by engineer. */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Write runtime logs into filesystem. You need to restart services to apply changes.";
 
 /* No comment provided by engineer. */
 "YES" = "YES";
@@ -1495,3 +1466,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "You’ve pressed password.";
+
+/* No comment provided by engineer. */
+"deflate failed" = "deflate failed";
+
+/* No comment provided by engineer. */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* No comment provided by engineer. */
+"deflateInit2 failed" = "deflateInit2 failed";

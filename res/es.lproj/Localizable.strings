@@ -74,8 +74,6 @@
 
 "Activate the recorder hoverball." = "Activar el HUD de la grabadora.";
 
-"Add" = "Añadir";
-
 /* No comment provided by engineer. */
 "Additional Contact" = "Contacto adicional";
 
@@ -102,9 +100,6 @@
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Permitir grabación automática";
-
-/* TODO */
-"Allow Deletion of Cloud Recordings" = "Allow Deletion of Cloud Recordings";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Permitir activaciones del HUD";
@@ -155,10 +150,7 @@
 "Archive" = "Archive";
 
 /* TODO */
-"Archive, upload or download recordings from the cloud drive." = "Archive, upload or download recordings from the cloud drive.";
-
-/* TODO */
-"Archive: Collect mixed or combined recordings, rename, and upload them to cloud storage.\nUpload: Upload existing recordings to cloud storage, in their original format.\nSync: Upload existing recordings to cloud storage, and download new recordings from cloud storage." = "Archive: Collect mixed or combined recordings, rename, and upload them to cloud storage.\nUpload: Upload existing recordings to cloud storage, in their original format.\nSync: Upload existing recordings to cloud storage, and download new recordings from cloud storage.";
+"Archive, upload or download recordings from cloud drive." = "Archive, upload or download recordings from cloud drive.";
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "Al final de la grabación, se conservan los archivos de audio de cada canal durante la grabación.";
@@ -216,6 +208,9 @@
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Autenticación biométrica";
+
+/* TODO */
+"Bisync" = "Bisync";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Servidor Bonjour iniciado en: %@";
@@ -340,9 +335,6 @@
 /* TODO */
 "Copy Key" = "Copy Key";
 
-/* TODO */
-"Copy Name" = "Copy Name";
-
 /* No comment provided by engineer. */
 "Copy Path" = "Copiar ruta";
 
@@ -376,15 +368,6 @@
 
 /* TODO */
 "Debugging" = "Debugging";
-
-/* TODO */
-"deflate failed" = "deflate failed";
-
-/* TODO */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* TODO */
-"deflateInit2 failed" = "deflateInit2 failed";
 
 /* No comment provided by engineer. */
 "Delete" = "Borrar";
@@ -487,6 +470,9 @@
 
 /* No comment provided by engineer. */
 "Enable %@" = "Activar %@";
+
+/* TODO */
+"Enable Logging" = "Enable Logging";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "Activar servidor WebDAV";
@@ -858,9 +844,6 @@
 "Outgoing call recording from “%@”." = "Grabación de llamadas salientes de “%@”.";
 
 /* TODO */
-"Path List Viewer" = "Path List Viewer";
-
-/* TODO */
 "Pause Recording" = "Pause Recording";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1150,6 @@
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Ignorar temporalmente";
 
-/* TODO */
-"Text Viewer" = "Text Viewer";
-
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "La configuración de la aplicación ha encontrado un error desconocido, el Launch Daemon no ha respondido a nuestras peticiones. Estamos intentando reconectar, por favor espere. Si el problema persiste, puede intentar reinstalar la aplicación.";
 
@@ -1252,6 +1232,9 @@
 "To" = "Hasta";
 
 /* TODO */
+"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”.";
+
+/* TODO */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder.";
 
 /* No comment provided by engineer. */
@@ -1289,9 +1272,6 @@
 "Troll Recorder" = "Troll Recorder";
 
 /* No comment provided by engineer. */
-"TrollRecorder" = "TrollRecorder";
-
-/* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Desactiva esta opción para que las demás opciones de esta página surtan efecto en la aplicación actual.";
 
 /* No comment provided by engineer. */
@@ -1326,9 +1306,6 @@
 
 /* TODO */
 "Upload" = "Upload";
-
-/* TODO */
-"Upload & Download" = "Upload & Download";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Utilice la autenticación biométrica para desbloquear la aplicación.";
@@ -1426,9 +1403,6 @@
 "Welcome to" = "Bienvenido a";
 
 /* TODO */
-"We’re unable to display a hoverball before your device is unlocked." = "We’re unable to display a hoverball before your device is unlocked.";
-
-/* TODO */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
 
 /* No comment provided by engineer. */
@@ -1441,16 +1415,10 @@
 "When Locked" = "When Locked";
 
 /* TODO */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply.";
+
+/* TODO */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
-
-/* TODO */
-"Whether to allow the use of cellular network for recording synchronization. Additional charges may apply for data usage." = "Whether to allow the use of cellular network for recording synchronization. Additional charges may apply for data usage.";
-
-/* TODO */
-"Whether to apply the deletion of recordings to the cloud drive." = "Whether to apply the deletion of recordings to the cloud drive.";
-
-/* TODO */
-"Whether to download recordings from the cloud drive." = "Whether to download recordings from the cloud drive.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Si se debe forzar a la aplicación a utilizar la interfaz de usuario clara u oscura.";
@@ -1469,6 +1437,9 @@
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Escribe la latitud y la longitud en los metadatos de la grabación.";
+
+/* TODO */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Write runtime logs into filesystem. You need to restart services to apply changes.";
 
 /* TODO */
 "YES" = "YES";
@@ -1493,3 +1464,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Has pulsado contraseña.";
+
+/* No comment provided by engineer. */
+"deflate failed" = "deflate failed";
+
+/* No comment provided by engineer. */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* No comment provided by engineer. */
+"deflateInit2 failed" = "deflateInit2 failed";
