@@ -102,6 +102,9 @@
 "Allow Automatic Recording" = "Allow Automatic Recording";
 
 /* No comment provided by engineer. */
+"Allow Deletion of Local Recordings" = "Allow Deletion of Local Recordings";
+
+/* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
 
 /* No comment provided by engineer. */
@@ -207,10 +210,10 @@
 "Best" = "Best";
 
 /* No comment provided by engineer. */
-"Biometric Authentication" = "Biometric Authentication";
+"Bi-sync" = "Bi-sync";
 
 /* No comment provided by engineer. */
-"Bisync" = "Bisync";
+"Biometric Authentication" = "Biometric Authentication";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour server started at: %@";
@@ -369,6 +372,15 @@
 
 /* No comment provided by engineer. */
 "Debugging" = "Debugging";
+
+/* No comment provided by engineer. */
+"deflate failed" = "deflate failed";
+
+/* No comment provided by engineer. */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* No comment provided by engineer. */
+"deflateInit2 failed" = "deflateInit2 failed";
 
 /* No comment provided by engineer. */
 "Delete" = "Delete";
@@ -618,6 +630,9 @@
 "Idle" = "Idle";
 
 /* No comment provided by engineer. */
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
+
+/* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here.";
 
 /* No comment provided by engineer. */
@@ -646,6 +661,12 @@
 
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
+/* No comment provided by engineer. */
+"iPad" = "iPad";
+
+/* No comment provided by engineer. */
+"iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "Is Favourite";
@@ -835,6 +856,9 @@
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
+
+/* No comment provided by engineer. */
+"Optimize %@ Storage" = "Optimize %@ Storage";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Outgoing";
@@ -1423,6 +1447,9 @@
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
 
 /* No comment provided by engineer. */
+"When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded.";
+
+/* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Whether to force the application to use the light or the dark user interface.";
 
 /* No comment provided by engineer. */
@@ -1466,12 +1493,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "You’ve pressed password.";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate failed";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 failed";

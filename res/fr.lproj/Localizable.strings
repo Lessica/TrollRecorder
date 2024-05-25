@@ -101,6 +101,9 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Autoriser l'enregistrement automatique";
 
+/* Translated with Microsoft Translator */
+"Allow Deletion of Local Recordings" = "Autoriser la suppression des enregistrements locaux";
+
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Autoriser les réveils Hoverball";
 
@@ -206,11 +209,11 @@
 /* No comment provided by engineer. */
 "Best" = "Meilleur";
 
+/* TODO */
+"Bi-sync" = "Bi-sync";
+
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Authentification biométrique";
-
-/* TODO */
-"Bisync" = "Bisync";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour, le serveur a démarré à : %@";
@@ -368,6 +371,15 @@
 
 /* TODO */
 "Debugging" = "Debugging";
+
+/* TODO */
+"deflate failed" = "deflate failed";
+
+/* TODO */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* TODO */
+"deflateInit2 failed" = "deflateInit2 failed";
 
 /* No comment provided by engineer. */
 "Delete" = "Supprimer";
@@ -615,6 +627,9 @@
 /* No comment provided by engineer. */
 "Idle" = "En veille";
 
+/* Translated with Microsoft Translator */
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "Si la synchronisation bidirectionnelle est activée, permettre à la suppression du nuage d'être répercutée sur le système de fichiers local.";
+
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Si votre téléphone prend en charge les cartes SIM doubles, l'alias de la carte SIM utilisé pour l'appel enregistré est affiché ici.";
 
@@ -644,6 +659,12 @@
 
 /* TODO */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
+/* No comment provided by engineer. */
+"iPad" = "iPad";
+
+/* No comment provided by engineer. */
+"iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "Est favori";
@@ -833,6 +854,9 @@
 
 /* No comment provided by engineer. */
 "Optic ID" = "Identifiant Optique";
+
+/* Translated with Microsoft Translator */
+"Optimize %@ Storage" = "Optimiser %@ Stockage";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Sortant";
@@ -1420,6 +1444,9 @@
 /* TODO */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
 
+/* Translated with Microsoft Translator */
+"When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded." = "Lorsque votre %@ manque d'espace, les enregistrements locaux des chaînes séparées seront supprimés une fois qu'ils auront été téléchargés.";
+
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Indique si l'application doit utiliser l'interface utilisateur claire ou sombre.";
 
@@ -1464,12 +1491,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Vous avez appuyé sur Mot de passe.";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate failed";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 failed";

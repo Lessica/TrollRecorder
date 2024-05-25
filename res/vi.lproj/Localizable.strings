@@ -101,6 +101,9 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Cho phép ghi âm tự động";
 
+/* TODO */
+"Allow Deletion of Local Recordings" = "Allow Deletion of Local Recordings";
+
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Cho phép bong bóng được bật";
 
@@ -206,11 +209,11 @@
 /* No comment provided by engineer. */
 "Best" = "Tốt nhất";
 
+/* TODO */
+"Bi-sync" = "Bi-sync";
+
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Xác thực sinh trắc học";
-
-/* TODO */
-"Bisync" = "Bisync";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Máy chủ Bonjour bắt đầu lúc: %@";
@@ -368,6 +371,15 @@
 
 /* TODO */
 "Debugging" = "Debugging";
+
+/* TODO */
+"deflate failed" = "deflate failed";
+
+/* TODO */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* TODO */
+"deflateInit2 failed" = "deflateInit2 failed";
 
 /* No comment provided by engineer. */
 "Delete" = "Xoá";
@@ -615,6 +627,9 @@
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
 
+/* TODO */
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
+
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Nếu điện thoại của bạn hỗ trợ thẻ SIM kép, bí danh thẻ SIM được sử dụng cho cuộc gọi được ghi lại sẽ được hiển thị ở đây.";
 
@@ -644,6 +659,12 @@
 
 /* TODO */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
+/* TODO */
+"iPad" = "iPad";
+
+/* TODO */
+"iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "Được yêu thích";
@@ -833,6 +854,9 @@
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
+
+/* TODO */
+"Optimize %@ Storage" = "Optimize %@ Storage";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Đi ra";
@@ -1421,6 +1445,9 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "Khi được mở khóa, bong bóng mọi nơi sẽ được hiển thị ngay cả khi bạn không ở trên màn hình chính.";
 
+/* TODO */
+"When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded.";
+
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Cho dù buộc ứng dụng sử dụng giao diện người dùng sáng hay tối.";
 
@@ -1465,12 +1492,3 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Bạn đã nhấn mật khẩu.";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate failed";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 failed";

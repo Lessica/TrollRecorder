@@ -101,6 +101,9 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允許自動錄音";
 
+/* TODO */
+"Allow Deletion of Local Recordings" = "Allow Deletion of Local Recordings";
+
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允許喚醒懸浮球";
 
@@ -206,11 +209,11 @@
 /* No comment provided by engineer. */
 "Best" = "最好";
 
+/* TODO */
+"Bi-sync" = "Bi-sync";
+
 /* No comment provided by engineer. */
 "Biometric Authentication" = "生物識別驗證";
-
-/* TODO */
-"Bisync" = "Bisync";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour 服務已啓動：%@";
@@ -368,6 +371,15 @@
 
 /* No comment provided by engineer. */
 "Debugging" = "調試";
+
+/* TODO */
+"deflate failed" = "deflate failed";
+
+/* TODO */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* TODO */
+"deflateInit2 failed" = "deflateInit2 failed";
 
 /* No comment provided by engineer. */
 "Delete" = "刪除";
@@ -615,6 +627,9 @@
 /* No comment provided by engineer. */
 "Idle" = "空閒";
 
+/* TODO */
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
+
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果你的手機支持雙卡，錄音通話時所使用的 SIM 卡別名將顯示在這裡。";
 
@@ -644,6 +659,12 @@
 
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安裝 「製作歸檔」 操作到 「快捷指令」 中，然後分享你的錄音到這個操作中，以創建一個 ZIP 壓縮文件。";
+
+/* TODO */
+"iPad" = "iPad";
+
+/* TODO */
+"iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "是否收藏";
@@ -833,6 +854,9 @@
 
 /* No comment provided by engineer. */
 "Optic ID" = "視網膜 ID";
+
+/* TODO */
+"Optimize %@ Storage" = "Optimize %@ Storage";
 
 /* No comment provided by engineer. */
 "Outgoing" = "去電";
@@ -1421,6 +1445,9 @@
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解鎖後，即使你不進入主屏幕，懸浮球也會在鎖屏界面顯示。";
 
+/* TODO */
+"When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded.";
+
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否強制應用程序使用淺色或深色用戶界面。";
 
@@ -1465,12 +1492,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "你選擇了密碼驗證。";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate failed";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 failed";

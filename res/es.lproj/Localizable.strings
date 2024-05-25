@@ -101,6 +101,9 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Permitir grabación automática";
 
+/* Translated with Microsoft Translator */
+"Allow Deletion of Local Recordings" = "Permitir el borrado de grabaciones locales";
+
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Permitir activaciones del HUD";
 
@@ -206,11 +209,11 @@
 /* No comment provided by engineer. */
 "Best" = "Mejor";
 
+/* TODO */
+"Bi-sync" = "Bi-sync";
+
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Autenticación biométrica";
-
-/* TODO */
-"Bisync" = "Bisync";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Servidor Bonjour iniciado en: %@";
@@ -356,10 +359,10 @@
 /* TODO */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
 
+"deactivate" = "desactivar";
+
 /* No comment provided by engineer. */
 "Deactivate" = "Desactivar";
-
-"deactivate" = "desactivar";
 
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "Desactivar y cerrar sesión";
@@ -368,6 +371,15 @@
 
 /* TODO */
 "Debugging" = "Debugging";
+
+/* TODO */
+"deflate failed" = "deflate failed";
+
+/* TODO */
+"deflateEnd failed" = "deflateEnd failed";
+
+/* TODO */
+"deflateInit2 failed" = "deflateInit2 failed";
 
 /* No comment provided by engineer. */
 "Delete" = "Borrar";
@@ -615,6 +627,9 @@
 /* No comment provided by engineer. */
 "Idle" = "En espera";
 
+/* Translated with Microsoft Translator */
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "Si la sincronización bidireccional está activada, permite que la eliminación desde la nube se refleje en el sistema de archivos local.";
+
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Si tu teléfono admite dos tarjetas SIM, el alias de la tarjeta SIM utilizada para la llamada grabada se muestra aquí.";
 
@@ -644,6 +659,12 @@
 
 /* TODO */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
+/* No comment provided by engineer. */
+"iPad" = "iPad";
+
+/* No comment provided by engineer. */
+"iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "Es favorito";
@@ -833,6 +854,9 @@
 
 /* No comment provided by engineer. */
 "Optic ID" = "ID óptica";
+
+/* Translated with Microsoft Translator */
+"Optimize %@ Storage" = "Optimizar %@ Almacenamiento";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Saliente";
@@ -1420,6 +1444,9 @@
 /* TODO */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
 
+/* Translated with Microsoft Translator */
+"When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded." = "Cuando tu %@ tenga poco espacio, las grabaciones locales de los canales separados se eliminarán una vez cargadas.";
+
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Si se debe forzar a la aplicación a utilizar la interfaz de usuario clara u oscura.";
 
@@ -1464,12 +1491,3 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Has pulsado contraseña.";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate failed";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 failed";
