@@ -171,7 +171,7 @@
 "Automatic Recording" = "自动录音";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "当设备重新启动并解锁时，自动启用后台服务。需要将 “巨魔录音机” 小组件添加到主屏幕任意位置才能使此选项生效。";
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "当设备重新启动并解锁时，自动启用后台服务。需要将 “巨魔录音机” 小组件添加到主屏幕任意位置才能使此选项生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "录音完成后，自动将麦克风和扬声器合并成一个文件。";
@@ -1447,7 +1447,7 @@
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";
 
 /* No comment provided by engineer. */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded." = "如果你的 %@ 空间不足，本地录音将在上传后被删除。";
+"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空间不足，本地录音将在上传后被删除。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制应用程序使用浅色或深色用户界面。";

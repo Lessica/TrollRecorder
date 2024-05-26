@@ -171,7 +171,7 @@
 "Automatic Recording" = "Enregistrement automatique";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "Activer automatiquement les services en arrière-plan lorsque l'appareil est redémarré et déverrouillé. Pour activer cette fonctionnalité, le widget TrollRecorder doit être ajouté n'importe où sur l'écran d'accueil.";
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Activer automatiquement les services en arrière-plan lorsque l'appareil est redémarré et déverrouillé. Pour activer cette fonctionnalité, le widget TrollRecorder doit être ajouté n'importe où sur l'écran d'accueil.";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Combiner automatiquement le microphone et le haut-parleur en un seul fichier après l'enregistrement complet.";
@@ -1445,7 +1445,7 @@
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
 
 /* Translated with Microsoft Translator */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’re uploaded." = "Lorsque votre %@ manque d'espace, les enregistrements locaux des chaînes séparées seront supprimés une fois qu'ils auront été téléchargés.";
+"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "Lorsque votre %@ manque d'espace, les enregistrements locaux des chaînes séparées seront supprimés une fois qu'ils auront été téléchargés.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Indique si l'application doit utiliser l'interface utilisateur claire ou sombre.";
