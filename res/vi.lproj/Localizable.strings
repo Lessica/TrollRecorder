@@ -152,9 +152,6 @@
 /* TODO */
 "Archive" = "Archive";
 
-/* TODO */
-"Archive, upload or download recordings from cloud drive." = "Archive, upload or download recordings from cloud drive.";
-
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "Vào cuối quá trình ghi âm, các tệp âm thanh của mỗi kênh trong quá trình ghi âm được giữ lại.";
 
@@ -933,6 +930,9 @@
 /* No comment provided by engineer. */
 "Purchase" = "Mua";
 
+/* TODO */
+"Purge Recycle Bin" = "Purge Recycle Bin";
+
 /* No comment provided by engineer. */
 "Quick Recording" = "Ghi âm nhanh";
 
@@ -1330,6 +1330,9 @@
 
 /* TODO */
 "Upload" = "Upload";
+
+/* TODO */
+"Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Sử dụng xác thực sinh trắc học để mở khóa ứng dụng.";

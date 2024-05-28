@@ -153,10 +153,7 @@
 "Archive" = "归档";
 
 /* No comment provided by engineer. */
-"Archive, upload or download recordings from cloud drive." = "从云端归档、上传或下载录音。";
-
-/* No comment provided by engineer. */
-"At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多存储空间，请谨慎开启。";
+"At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多储存空间，请谨慎开启。";
 
 /* No comment provided by engineer. */
 "Attachable Edges" = "可吸附边缘";
@@ -183,7 +180,7 @@
 "Automatically removes cached data left behind when a recording fails at regular intervals." = "定期自动删除录音失败时留下的缓存数据。";
 
 /* No comment provided by engineer. */
-"Automatically stop recording when the free disk space is extremely low." = "当剩余磁盘空间极低时，自动停止录音。";
+"Automatically stop recording when the free disk space is extremely low." = "当剩余储存空间极低时，自动停止录音。";
 
 /* No comment provided by engineer. */
 "Automatically Suspend in Background" = "后台自动暂停";
@@ -723,7 +720,7 @@
 "Low" = "低";
 
 /* No comment provided by engineer. */
-"Low Disk Space" = "磁盘空间不足";
+"Low Disk Space" = "储存空间不足";
 
 /* No comment provided by engineer. */
 "Made with love by @Lessica & @Lakr233" = "@Lessica 和 @Lakr233 一起写的";
@@ -858,7 +855,7 @@
 "Optic ID" = "视网膜 ID";
 
 /* No comment provided by engineer. */
-"Optimize %@ Storage" = "优化 %@ 存储空间";
+"Optimize %@ Storage" = "优化 %@ 储存空间";
 
 /* No comment provided by engineer. */
 "Outgoing" = "去电";
@@ -934,6 +931,9 @@
 
 /* No comment provided by engineer. */
 "Purchase" = "购买";
+
+/* No comment provided by engineer. */
+"Purge Recycle Bin" = "清空回收站";
 
 /* No comment provided by engineer. */
 "Quick Recording" = "快速录音";
@@ -1147,7 +1147,7 @@
 "Stop Recording" = "停止录音";
 
 /* No comment provided by engineer. */
-"Stop Recording When Disk Exhausted" = "磁盘空间不足时停止录音";
+"Stop Recording When Disk Exhausted" = "空间不足时停止录音";
 
 /* No comment provided by engineer. */
 "Stop Service" = "停止服务";
@@ -1156,10 +1156,10 @@
 "Sync" = "同步";
 
 /* No comment provided by engineer. */
-"Sync Service Mode" = "同步服务模式";
+"Sync Service Mode" = "服务模式";
 
 /* No comment provided by engineer. */
-"Sync Service Provider" = "同步服务提供商";
+"Sync Service Provider" = "服务提供商";
 
 /* No comment provided by engineer. */
 "System Applications" = "系统应用程序";
@@ -1334,6 +1334,9 @@
 "Upload" = "上传";
 
 /* No comment provided by engineer. */
+"Upload, download or synconize recordings between local and cloud drive." = "在本地与云端之间上传、下载或同步录音。";
+
+/* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "使用生物识别验证来解锁应用程序。";
 
 /* No comment provided by engineer. */
@@ -1447,7 +1450,7 @@
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";
 
 /* No comment provided by engineer. */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空间不足，本地录音将在上传后被删除。";
+"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空间不足，分离通道的本地录音在上传后将被删除。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制应用程序使用浅色或深色用户界面。";

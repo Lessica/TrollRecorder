@@ -153,9 +153,6 @@
 "Archive" = "Archive";
 
 /* No comment provided by engineer. */
-"Archive, upload or download recordings from cloud drive." = "Archive, upload or download recordings from cloud drive.";
-
-/* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "At the end of recording, the audio files of each channel during recording are retained.";
 
 /* No comment provided by engineer. */
@@ -936,6 +933,9 @@
 "Purchase" = "Purchase";
 
 /* No comment provided by engineer. */
+"Purge Recycle Bin" = "Purge Recycle Bin";
+
+/* No comment provided by engineer. */
 "Quick Recording" = "Quick Recording";
 
 /* No comment provided by engineer. */
@@ -1332,6 +1332,9 @@
 
 /* No comment provided by engineer. */
 "Upload" = "Upload";
+
+/* No comment provided by engineer. */
+"Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Use biometric authentication to unlock the application.";

@@ -152,9 +152,6 @@
 /* TODO */
 "Archive" = "Archive";
 
-/* TODO */
-"Archive, upload or download recordings from cloud drive." = "Archive, upload or download recordings from cloud drive.";
-
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音頻文件。佔用較多存儲空間，請謹慎開啓。";
 
@@ -933,6 +930,9 @@
 /* No comment provided by engineer. */
 "Purchase" = "購買";
 
+/* TODO */
+"Purge Recycle Bin" = "Purge Recycle Bin";
+
 /* No comment provided by engineer. */
 "Quick Recording" = "快速錄音";
 
@@ -1331,6 +1331,9 @@
 
 /* No comment provided by engineer. */
 "Upload" = "上傳";
+
+/* TODO */
+"Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "使用生物識別驗證來解鎖應用程序。";

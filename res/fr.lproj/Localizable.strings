@@ -152,9 +152,6 @@
 /* TODO */
 "Archive" = "Archive";
 
-/* TODO */
-"Archive, upload or download recordings from cloud drive." = "Archive, upload or download recordings from cloud drive.";
-
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "À la fin de l'enregistrement, les fichiers audio de chaque canal pendant l'enregistrement sont conservés.";
 
@@ -933,6 +930,9 @@
 /* No comment provided by engineer. */
 "Purchase" = "Achat";
 
+/* Translated with Microsoft Translator */
+"Purge Recycle Bin" = "Purger la corbeille";
+
 /* TODO */
 "Quick Recording" = "Quick Recording";
 
@@ -1330,6 +1330,9 @@
 
 /* TODO */
 "Upload" = "Upload";
+
+/* TODO */
+"Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Utiliser l'authentification biométrique pour déverrouiller l'application.";
