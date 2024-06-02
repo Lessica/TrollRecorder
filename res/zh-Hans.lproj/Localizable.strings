@@ -174,13 +174,16 @@
 "Automatically merge microphone and speaker into a single file after record complete." = "录音完成后，自动将麦克风和扬声器合并成一个文件。";
 
 /* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "定期自动清理回收站，并移除录音失败时留下的缓存。";
+
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "应用程序启动时，自动从 GitHub 查询最新版本。";
+
+/* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "自动删除早于指定日期创建的录音，除了那些被收藏的录音。";
 
 /* No comment provided by engineer. */
-"Automatically removes cached data left behind when a recording fails at regular intervals." = "定期自动删除录音失败时留下的缓存数据。";
-
-/* No comment provided by engineer. */
-"Automatically stop recording when the free disk space is extremely low." = "当剩余储存空间极低时，自动停止录音。";
+"Automatically stop recording when available disk space is extremely low." = "当剩余储存空间极低时，自动停止录音。";
 
 /* No comment provided by engineer. */
 "Automatically Suspend in Background" = "后台自动暂停";
@@ -246,7 +249,10 @@
 "Cancel" = "取消";
 
 /* No comment provided by engineer. */
-"Cannot parse text with UTF-8 encoding: “@”." = "无法使用 UTF-8 编码解析文本：“@”";
+"Cannot parse text with UTF-8 encoding: “%@”." = "无法使用 UTF-8 编码解析文本：“%@”。";
+
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "启动时检查更新";
 
 /* No comment provided by engineer. */
 "Child Pages" = "子页面";
@@ -271,6 +277,9 @@
 
 /* ObjectTableViewController */
 "Collapse Recursively" = "递归折叠";
+
+/* No comment provided by engineer. */
+"Collecting" = "收集";
 
 /* No comment provided by engineer. */
 "Combined" = "组合";
@@ -370,14 +379,14 @@
 /* No comment provided by engineer. */
 "Debugging" = "调试";
 
-/* TODO */
-"deflate failed" = "deflate failed";
+/* No comment provided by engineer. */
+"deflate failed" = "deflate 失败";
 
-/* TODO */
-"deflateEnd failed" = "deflateEnd failed";
+/* No comment provided by engineer. */
+"deflateEnd failed" = "deflateEnd 失败";
 
-/* TODO */
-"deflateInit2 failed" = "deflateInit2 failed";
+/* No comment provided by engineer. */
+"deflateInit2 failed" = "deflateInit2 失败";
 
 /* No comment provided by engineer. */
 "Delete" = "删除";
@@ -478,6 +487,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "最终用户许可协议";
+
+/* No comment provided by engineer. */
+"Empty Trash" = "清空垃圾桶";
 
 /* No comment provided by engineer. */
 "Enable %@" = "启用 %@";
@@ -768,7 +780,7 @@
 "Mixer Sample Rate" = "采样率";
 
 /* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "将删除的录音移动到一个特殊的文件夹，允许你在改变主意或后来意识到需要它们时恢复已删除的项目。";
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "将删除的录音移动到一个特殊的文件夹，允许你在改变主意或后来意识到需要它们时恢复已删除的项目。";
 
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "MPEG-4 音频 (m4a)";
@@ -992,10 +1004,16 @@
 "Recover Files" = "恢复文件";
 
 /* No comment provided by engineer. */
+"Recycle Bin" = "回收站";
+
+/* No comment provided by engineer. */
 "Regular" = "普通";
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "重新安装 %@";
+
+/* No comment provided by engineer. */
+"Remove All Recordings Permanently" = "永久删除所有录音";
 
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "删除过期录音";
@@ -1008,6 +1026,15 @@
 
 /* No comment provided by engineer. */
 "Respring" = "妙手回春";
+
+/* No comment provided by engineer. */
+"Restore" = "恢复";
+
+/* No comment provided by engineer. */
+"Restore Selected %ld Items" = "恢复选中的 %ld 项";
+
+/* No comment provided by engineer. */
+"Restore Selected Item" = "恢复选中项";
 
 /* No comment provided by engineer. */
 "Resume Recording" = "继续录音";

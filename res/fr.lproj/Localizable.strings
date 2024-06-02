@@ -13,8 +13,8 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ Peut ne pas être configuré.";
 
-/* TODO */
-"%@ rows not loaded" = "%@ rows not loaded";
+/* Translated with Microsoft Translator */
+"%@ rows not loaded" = "%@ lignes non chargées";
 
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "%d Fonctionnalités exclusives";
@@ -34,13 +34,13 @@
 /* No comment provided by engineer. */
 "%ld Recordings ◇ %@" = "%ld Enregistrements ◇ %@";
 
-/* TODO */
-"(%lu bytes)" = "(%lu bytes)";
+/* Translated with Microsoft Translator */
+"(%lu bytes)" = "(%lu octets)";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "(%lu items)" = "(%lu items)";
 
-/* TODO */
+/* No comment provided by engineer. */
 "(null)" = "(null)";
 
 /* No comment provided by engineer. */
@@ -61,10 +61,10 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "Il y a 90 jours";
 
-/* TODO */
+/* No comment provided by engineer. */
 "<%@: %p>" = "<%@: %p>";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "A new version (%@) of “TrollRecorder” is available." = "Une nouvelle version de l'application est disponible (%@).";
 
 /* No comment provided by engineer. */
@@ -77,8 +77,8 @@
 /* No comment provided by engineer. */
 "Additional Contact" = "Contact supplémentaire";
 
-/* No comment provided by engineer. */
-"Advanced Audio Coding" = "Advanced Audio Coding";
+/* Translated with Microsoft Translator */
+"Advanced Audio Coding" = "Codage audio avancé";
 
 /* No comment provided by engineer. */
 "Advanced Options" = "Options avancées";
@@ -89,14 +89,14 @@
 /* No comment provided by engineer. */
 "Agree" = "Accepter";
 
-/* TODO */
-"All Edges" = "All Edges";
+/* Translated with Microsoft Translator */
+"All Edges" = "Tous les bords";
 
-/* TODO */
-"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
+/* Translated with Microsoft Translator */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Tous les journaux sont conservés pendant 7 jours. Les journaux périmés seront automatiquement supprimés.";
 
-/* TODO */
-"Allow Access to Call History" = "Allow Access to Call History";
+/* Translated with Microsoft Translator */
+"Allow Access to Call History" = "Autoriser l'accès à l'historique des appels";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Autoriser l'enregistrement automatique";
@@ -107,14 +107,14 @@
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Autoriser les réveils Hoverball";
 
-/* TODO */
-"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
+/* Translated with Microsoft Translator */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Permet de lire la liste des contacts WeChat et l'historique des appels VoIP pour renseigner les noms des contacts dans les enregistrements. Seules les versions récentes de WeChat sont prises en charge.";
 
-/* TODO */
-"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
+/* Translated with Microsoft Translator */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Permet d'enregistrer les appels téléphoniques reçus sur des appareils connectés à votre compte iCloud lorsqu'ils se trouvent à proximité et qu'ils sont connectés à un réseau local sans fil.";
 
-/* TODO */
-"Always" = "Always";
+/* Translated with Microsoft Translator */
+"Always" = "Toujours";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Toujours sombre";
@@ -140,7 +140,7 @@
 /* No comment provided by engineer. */
 "Apple’s Core Audio" = "Core Audio d'Apple";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Application" = "Application";
 
 /* No comment provided by engineer. */
@@ -149,14 +149,14 @@
 /* No comment provided by engineer. */
 "Applications" = "Applications";
 
-/* TODO */
-"Archive" = "Archive";
+/* Translated with Microsoft Translator */
+"Archive" = "Archives";
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "À la fin de l'enregistrement, les fichiers audio de chaque canal pendant l'enregistrement sont conservés.";
 
-/* TODO */
-"Attachable Edges" = "Attachable Edges";
+/* Translated with Microsoft Translator */
+"Attachable Edges" = "Bords attachables";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Compression audio";
@@ -174,19 +174,22 @@
 "Automatically merge microphone and speaker into a single file after record complete." = "Combiner automatiquement le microphone et le haut-parleur en un seul fichier après l'enregistrement complet.";
 
 /* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "Supprime automatiquement les données mises en cache laissées après un échec d'enregistrement à des intervalles réguliers.";
+
+/* Translated with Microsoft Translator */
+"Automatically query the latest version from GitHub when the application starts." = "Demander automatiquement la dernière version de GitHub au démarrage de l'application.";
+
+/* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Supprimer automatiquement les enregistrements créés avant la date spécifiée, à l'exception de ceux marqués.";
 
 /* No comment provided by engineer. */
-"Automatically removes cached data left behind when a recording fails at regular intervals." = "Supprime automatiquement les données mises en cache laissées après un échec d'enregistrement à des intervalles réguliers.";
+"Automatically stop recording when available disk space is extremely low." = "Arrêter automatiquement l'enregistrement lorsque l'espace disque libre est extrêmement faible.";
 
-/* No comment provided by engineer. */
-"Automatically stop recording when the free disk space is extremely low." = "Arrêter automatiquement l'enregistrement lorsque l'espace disque libre est extrêmement faible.";
+/* Translated with Microsoft Translator */
+"Automatically Suspend in Background" = "Suspension automatique en arrière-plan";
 
-/* TODO */
-"Automatically Suspend in Background" = "Automatically Suspend in Background";
-
-/* TODO */
-"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect.";
+/* Translated with Microsoft Translator */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Lever automatiquement la souris vers le bureau lorsqu'elle est déverrouillée. Si vous déverrouillez l'appareil dans les 10 secondes qui suivent, cette action n'est pas prise en compte.";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Disponible à vie";
@@ -206,7 +209,7 @@
 /* No comment provided by engineer. */
 "Best" = "Meilleur";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "Bi-sync" = "Bi-sync";
 
 /* No comment provided by engineer. */
@@ -215,8 +218,8 @@
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour, le serveur a démarré à : %@";
 
-/* TODO */
-"bottom edge" = "bottom edge";
+/* Translated with Microsoft Translator */
+"bottom edge" = "bord inférieur";
 
 /* No comment provided by engineer. */
 "Bundle Identifier" = "Identifiant du bundle";
@@ -245,11 +248,14 @@
 /* No comment provided by engineer. */
 "Cancel" = "Annulé.";
 
-/* TODO */
-"Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
+/* Translated with Microsoft Translator */
+"Cannot parse text with UTF-8 encoding: “%@”." = "Impossible d'analyser le texte avec l'encodage UTF-8 : “%@”.";
 
-/* TODO */
-"Child Pages" = "Child Pages";
+/* Translated with Microsoft Translator */
+"Check Updates at Launch" = "Vérifier les mises à jour au moment du lancement";
+
+/* Translated with Microsoft Translator */
+"Child Pages" = "Pages des enfants";
 
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Choisissez le format audio de sortie pour le mélangeur. Le format audio Wave n'inclut pas de codage avancé.";
@@ -269,8 +275,11 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "Effacer la sélection";
 
-/* TODO */
-"Collapse Recursively" = "Collapse Recursively";
+/* Translated with Microsoft Translator */
+"Collapse Recursively" = "Effondrement récursif";
+
+/* No comment provided by engineer. */
+"Collecting" = "Collecte";
 
 /* No comment provided by engineer. */
 "Combined" = "Combiné";
@@ -281,8 +290,8 @@
 /* No comment provided by engineer. */
 "Compress Recording" = "Enregistrer la compression";
 
-/* TODO */
-"Confirm" = "Confirm";
+/* Translated with Microsoft Translator */
+"Confirm" = "Confirmer";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Clients connectés : %d";
@@ -302,7 +311,7 @@
 /* No comment provided by engineer. */
 "Contact via QQ" = "Contacter via QQ";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Contacts" = "Contacts";
 
 /* No comment provided by engineer. */
@@ -329,11 +338,11 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "Transcription copiée";
 
-/* TODO */
-"Copy" = "Copy";
+/* Translated with Microsoft Translator */
+"Copy" = "Copie";
 
-/* TODO */
-"Copy Key" = "Copy Key";
+/* Translated with Microsoft Translator */
+"Copy Key" = "Touche de copie";
 
 /* No comment provided by engineer. */
 "Copy Path" = "Copier le chemin";
@@ -341,20 +350,20 @@
 /* No comment provided by engineer. */
 "Copy Transcript" = "Copier la transcription";
 
-/* TODO */
-"Copy Value" = "Copy Value";
+/* Translated with Microsoft Translator */
+"Copy Value" = "Valeur de la copie";
 
-/* TODO */
-"Create Archive" = "Create Archive";
+/* Translated with Microsoft Translator */
+"Create Archive" = "Créer une archive";
 
 /* No comment provided by engineer. */
 "Created At" = "Créé le";
 
-/* TODO */
-"Custom Layout Guide" = "Custom Layout Guide";
+/* Translated with Microsoft Translator */
+"Custom Layout Guide" = "Guide de mise en page personnalisé";
 
-/* TODO */
-"Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
+/* Translated with Microsoft Translator */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Personnalisez une région rectangulaire qui vous aide à positionner le hoverball sur l'écran.";
 
 "deactivate" = "Désactiver";
 
@@ -366,17 +375,17 @@
 
 "Deactivate the recorder hoverball." = "Désactiver la hoverball de l'enregistreur.";
 
-/* TODO */
-"Debugging" = "Debugging";
+/* Translated with Microsoft Translator */
+"Debugging" = "Débogage";
 
-/* TODO */
-"deflate failed" = "deflate failed";
+/* Translated with Microsoft Translator */
+"deflate failed" = "deflate a échoué";
 
-/* TODO */
-"deflateEnd failed" = "deflateEnd failed";
+/* Translated with Microsoft Translator */
+"deflateEnd failed" = "deflateEnd a échoué";
 
-/* TODO */
-"deflateInit2 failed" = "deflateInit2 failed";
+/* Translated with Microsoft Translator */
+"deflateInit2 failed" = "deflateInit2 a échoué";
 
 /* No comment provided by engineer. */
 "Delete" = "Supprimer";
@@ -390,14 +399,14 @@
 /* No comment provided by engineer. */
 "Delete Selected Item" = "Supprimer l'élément sélectionné";
 
-/* TODO */
-"Developer Options" = "Developer Options";
+/* Translated with Microsoft Translator */
+"Developer Options" = "Options pour les développeurs";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Direction" = "Direction";
 
-/* TODO */
-"Disabled" = "Disabled";
+/* Translated with Microsoft Translator */
+"Disabled" = "Handicapés";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "Rejeter l'enregistrement";
@@ -405,17 +414,17 @@
 /* No comment provided by engineer. */
 "Dismiss" = "Rejeter";
 
-/* TODO */
-"Display a notification banner and play an audible notice." = "Display a notification banner and play an audible notice.";
+/* Translated with Microsoft Translator */
+"Display a notification banner and play an audible notice." = "Affiche une bannière de notification et émet un signal sonore.";
 
-/* TODO */
-"Display a notification banner and update the badge above the application icon." = "Display a notification banner and update the badge above the application icon.";
+/* Translated with Microsoft Translator */
+"Display a notification banner and update the badge above the application icon." = "Afficher une bannière de notification et mettre à jour le badge au-dessus de l'icône de l'application.";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "Afficher une bannière de notification lorsque l'enregistrement se termine.";
 
-/* TODO */
-"Display a notification banner when recording starts." = "Display a notification banner when recording starts.";
+/* Translated with Microsoft Translator */
+"Display a notification banner when recording starts." = "Affiche une bannière de notification lorsque l'enregistrement commence.";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Afficher les détails des enregistrements dans la bannière de notification.";
@@ -432,8 +441,8 @@
 /* No comment provided by engineer. */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Afficher la hoverball globale lorsque les entrées audio et les sorties sont continuellement actives.";
 
-/* TODO */
-"Display the name or description of each option." = "Display the name or description of each option.";
+/* Translated with Microsoft Translator */
+"Display the name or description of each option." = "Affichez le nom ou la description de chaque option.";
 
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "Afficher les noms des contacts de votre carnet d'adresses au lieu de leurs numéros de téléphone.";
@@ -450,22 +459,22 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Afficher le nom du paquet source de l'enregistrement.";
 
-/* TODO */
-"Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
+/* Translated with Microsoft Translator */
+"Do you want to clear this log file “%@”?" = "Voulez-vous effacer ce fichier journal “%@”?";
 
-/* TODO */
-"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
+/* Translated with Microsoft Translator */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Voulez-vous réinitialiser la licence du logiciel et rétablir tous les paramètres à leurs valeurs par défaut ? Vos enregistrements ne seront pas supprimés.";
 
-/* TODO */
-"Don’t ask again" = "Don’t ask again";
+/* Translated with Microsoft Translator */
+"Don’t ask again" = "Ne demandez plus rien";
 
-/* TODO */
-"Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
+/* Translated with Microsoft Translator */
+"Double tap to restore __all edges__  \nto their default sizes." = "Double tapotement pour rétablir __tous les bords__  \ndans leurs tailles par défaut.";
 
-/* TODO */
-"Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+/* Translated with Microsoft Translator */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Faites glisser __ici__ pour ajuster  \nla taille de la ___%@___.";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
@@ -478,10 +487,13 @@
 "E.U.L.A." = "E.U.L.A.";
 
 /* No comment provided by engineer. */
+"Empty Trash" = "Vider la poubelle";
+
+/* No comment provided by engineer. */
 "Enable %@" = "Activer %@";
 
-/* TODO */
-"Enable Logging" = "Enable Logging";
+/* Translated with Microsoft Translator */
+"Enable Logging" = "Activer la journalisation";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "Activer le serveur WebDAV";
@@ -489,14 +501,14 @@
 /* No comment provided by engineer. */
 "Enabled" = "Activé";
 
-/* TODO */
-"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground.";
+/* Translated with Microsoft Translator */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Permet au serveur WebDAV de se suspendre automatiquement lorsque l'application passe en arrière-plan et que la dernière connexion est fermée, puis de se reprendre lorsque l'application revient au premier plan.";
 
 /* No comment provided by engineer. */
 "End Date" = "Date de fin";
 
-/* TODO */
-"End Editing" = "End Editing";
+/* Translated with Microsoft Translator */
+"End Editing" = "Fin de l'édition";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "Enregistrement automatique amélioré";
@@ -514,8 +526,8 @@
 
 "Exit Hoverball" = "Quitter la hoverball";
 
-/* TODO */
-"Expand Recursively" = "Expand Recursively";
+/* Translated with Microsoft Translator */
+"Expand Recursively" = "Développer de manière récursive";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Exportez les enregistrements où vous le souhaitez sans limitations.";
@@ -559,7 +571,7 @@
 /* No comment provided by engineer. */
 "Finalizing" = "Finalisation";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "Focus" = "Focus";
 
 /* No comment provided by engineer. */
@@ -580,8 +592,8 @@
 /* No comment provided by engineer. */
 "From: %@" = "De : %@";
 
-/* TODO */
-"Full" = "Full";
+/* Translated with Microsoft Translator */
+"Full" = "Complet";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Obtenez un contrôle avancé lors de l'enregistrement directement pendant votre appel.";
@@ -592,19 +604,19 @@
 /* No comment provided by engineer. */
 "Get notifications after record complete." = "Recevez des notifications une fois l'enregistrement terminé.";
 
-/* TODO */
-"Go Home When Unlocked" = "Go Home When Unlocked";
+/* Translated with Microsoft Translator */
+"Go Home When Unlocked" = "Rentrer à la maison après déverrouillage";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "Google Drive" = "Google Drive";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Masquer lors de la capture d'écran";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Hoverball" = "Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Hoverball Plus" = "Hoverball Plus";
 
 /* No comment provided by engineer. */
@@ -618,7 +630,7 @@
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "J'accepte l'EULA.";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
@@ -654,8 +666,8 @@
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Installez l'action « Compress Audio » dans « Raccourcis », puis partagez vos enregistrements vers cette action pour compresser votre audio au format AAC/AIFF.";
 
-/* TODO */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+/* Translated with Microsoft Translator */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Installez l'action “Créer une archive” dans “Raccourcis”, puis partagez vos enregistrements avec cette action pour créer une archive ZIP.";
 
 /* No comment provided by engineer. */
 "iPad" = "iPad";
@@ -666,8 +678,8 @@
 /* No comment provided by engineer. */
 "Is Favourite" = "Est favori";
 
-/* TODO */
-"Item #%lu" = "Item #%lu";
+/* Translated with Microsoft Translator */
+"Item #%lu" = "Article #%lu";
 
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "Maintenir l'écran allumé lorsqu'il est connecté";
@@ -675,7 +687,7 @@
 /* No comment provided by engineer. */
 "Larger" = "Plus grand";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "Later" = "Ignorer pendant 7 jours";
 
 /* No comment provided by engineer. */
@@ -684,11 +696,11 @@
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Lancer lorsque déverrouillé pour la première fois";
 
-/* TODO */
-"Leading & Trailing" = "Leading & Trailing";
+/* Translated with Microsoft Translator */
+"Leading & Trailing" = "En tête et à la traîne";
 
-/* TODO */
-"leading edge" = "leading edge";
+/* Translated with Microsoft Translator */
+"leading edge" = "avant-garde";
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Lier l'appareil à Havoc";
@@ -708,11 +720,11 @@
 /* No comment provided by engineer. */
 "Location Services" = "Services de localisation";
 
-/* TODO */
-"Log Viewer" = "Log Viewer";
+/* Translated with Microsoft Translator */
+"Log Viewer" = "Visionneuse de journaux";
 
-/* TODO */
-"Logging" = "Logging";
+/* Translated with Microsoft Translator */
+"Logging" = "Enregistrement";
 
 /* No comment provided by engineer. */
 "Low" = "Faible";
@@ -735,7 +747,7 @@
 /* No comment provided by engineer. */
 "Mark" = "Marquer";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Maximum" = "Maximum";
 
 /* No comment provided by engineer. */
@@ -744,7 +756,7 @@
 /* No comment provided by engineer. */
 "Merged File" = "Fichier fusionné";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Microphone" = "Microphone";
 
 /* No comment provided by engineer. */
@@ -766,7 +778,7 @@
 "Mixer Sample Rate" = "Fréquence d'échantillonnage du mixeur";
 
 /* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "Déplacer les enregistrements supprimés vers un dossier spécial qui vous permet de restaurer les éléments supprimés si vous changez d'avis ou réalisez que vous en avez besoin plus tard.";
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Déplacer les enregistrements supprimés vers un dossier spécial qui vous permet de restaurer les éléments supprimés si vous changez d'avis ou réalisez que vous en avez besoin plus tard.";
 
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "Audio MPEG-4";
@@ -789,11 +801,11 @@
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Nouveau Motif de Correspondance";
 
-/* TODO */
+/* Translated with Microsoft Translator */
 "New Version Available" = "Mise à jour disponible";
 
-/* TODO */
-"NO" = "NO";
+/* Translated with Microsoft Translator */
+"NO" = "NON";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "Aucun numéro de téléphone trouvé dans les contacts sélectionnés.";
@@ -816,17 +828,17 @@
 /* No comment provided by engineer. */
 "Nothing Imported" = "Rien importé";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Notifications" = "Notifications";
 
-/* TODO */
-"Object Viewer" = "Object Viewer";
+/* Translated with Microsoft Translator */
+"Object Viewer" = "Visualisateur d'objets";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Oops!" = "Oops!";
+"Oops!" = "Oups !";
 
 /* No comment provided by engineer. */
 "Open" = "Ouvrir";
@@ -846,8 +858,8 @@
 /* No comment provided by engineer. */
 "Open “Filza File Manager” to view or recover your recordings." = "Ouvrez 'Gestionnaire de fichiers Filza' pour afficher ou récupérer vos enregistrements.";
 
-/* TODO */
-"Operation Failed" = "Operation Failed";
+/* Translated with Microsoft Translator */
+"Operation Failed" = "Échec de l'opération";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Identifiant Optique";
@@ -864,8 +876,8 @@
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "Enregistrement de l'appel sortant depuis « %@ ».";
 
-/* TODO */
-"Pause Recording" = "Pause Recording";
+/* Translated with Microsoft Translator */
+"Pause Recording" = "Pause de l'enregistrement";
 
 /* No comment provided by engineer. */
 "Paused" = "En pause";
@@ -894,29 +906,29 @@
 /* No comment provided by engineer. */
 "Populate Location When App Starts" = "Remplir l'emplacement lorsque l'application démarre";
 
-/* TODO */
-"Popup Banner at Begin" = "Popup Banner at Begin";
+/* Translated with Microsoft Translator */
+"Popup Banner at Begin" = "Bannière pop-up au début";
 
 /* No comment provided by engineer. */
 "Popup Banner at End" = "Bannière contextuelle à la fin";
 
-/* TODO */
-"Popup Banner with Badge" = "Popup Banner with Badge";
+/* Translated with Microsoft Translator */
+"Popup Banner with Badge" = "Bannière pop-up avec badge";
 
 /* No comment provided by engineer. */
 "Popup Banner with Detail" = "Bannière contextuelle avec détail";
 
-/* TODO */
-"Popup Banner with Sound" = "Popup Banner with Sound";
+/* Translated with Microsoft Translator */
+"Popup Banner with Sound" = "Bannière pop-up avec son";
 
-/* TODO */
-"Preparing" = "Preparing";
+/* Translated with Microsoft Translator */
+"Preparing" = "Préparation";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Préserver tous les canaux";
 
-/* TODO */
-"Press both of the physical volume buttons to start or stop recording during a call." = "Press both of the physical volume buttons to start or stop recording during a call.";
+/* Translated with Microsoft Translator */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Appuyez sur les deux boutons de volume physiques pour démarrer ou arrêter l'enregistrement pendant un appel.";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "Prévisualisation désactivée";
@@ -933,8 +945,8 @@
 /* Translated with Microsoft Translator */
 "Purge Recycle Bin" = "Purger la corbeille";
 
-/* TODO */
-"Quick Recording" = "Quick Recording";
+/* Translated with Microsoft Translator */
+"Quick Recording" = "Enregistrement rapide";
 
 /* No comment provided by engineer. */
 "Quit this application and try again." = "Quittez cette application et réessayez.";
@@ -948,8 +960,8 @@
 /* No comment provided by engineer. */
 "Ready" = "Prêt";
 
-/* TODO */
-"Ready to record!" = "Ready to record!";
+/* Translated with Microsoft Translator */
+"Ready to record!" = "Prêt à enregistrer !";
 
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Enregistrer automatiquement tous les appels entrants et sortants.";
@@ -957,8 +969,8 @@
 /* No comment provided by engineer. */
 "Record Automatically" = "Enregistrer automatiquement";
 
-/* TODO */
-"Record Calls on Other Devices" = "Record Calls on Other Devices";
+/* Translated with Microsoft Translator */
+"Record Calls on Other Devices" = "Enregistrer des appels sur d'autres appareils";
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Enregistrer uniquement lorsqu'il est connecté";
@@ -974,11 +986,11 @@
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "L'enregistrement démarre lorsque à la fois les entrées et les sorties audio sont continuellement actives.";
 
-/* TODO */
-"Recording successfully started." = "Recording successfully started.";
+/* Translated with Microsoft Translator */
+"Recording successfully started." = "L'enregistrement a commencé avec succès.";
 
-/* TODO */
-"Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
+/* Translated with Microsoft Translator */
+"Recording will begin when the call is answered." = "L'enregistrement commencera lorsque l'appel sera pris.";
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "Enregistrement%@_%@";
@@ -990,10 +1002,16 @@
 "Recover Files" = "Récupérer des fichiers";
 
 /* No comment provided by engineer. */
+"Recycle Bin" = "Corbeille";
+
+/* No comment provided by engineer. */
 "Regular" = "Ordinaire";
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "Réinstaller %@";
+
+/* No comment provided by engineer. */
+"Remove All Recordings Permanently" = "Supprimer tous les enregistrements de façon permanente";
 
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "Supprimer les enregistrements obsolètes";
@@ -1001,23 +1019,32 @@
 /* No comment provided by engineer. */
 "Rename" = "Renommer";
 
-/* TODO */
-"Reset Service" = "Reset Service";
+/* Translated with Microsoft Translator */
+"Reset Service" = "Réinitialiser le service";
 
 /* No comment provided by engineer. */
 "Respring" = "Redémarrer SpringBoard";
 
-/* TODO */
-"Resume Recording" = "Resume Recording";
+/* No comment provided by engineer. */
+"Restore" = "Restaurer";
 
-/* TODO */
-"Resume with Warning" = "Resume with Warning";
+/* No comment provided by engineer. */
+"Restore Selected %ld Items" = "Restaurer %ld Items";
+
+/* No comment provided by engineer. */
+"Restore Selected Item" = "Restaurer l'article";
+
+/* Translated with Microsoft Translator */
+"Resume Recording" = "Enregistrement du curriculum vitae";
+
+/* Translated with Microsoft Translator */
+"Resume with Warning" = "Reprise avec avertissement";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Sélection inverse";
 
-/* TODO */
-"Root" = "Root";
+/* Translated with Microsoft Translator */
+"Root" = "Racine";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Taux d'échantillonnage";
@@ -1052,8 +1079,8 @@
 /* No comment provided by engineer. */
 "Select All" = "Sélectionner tout";
 
-/* TODO */
-"Select the primary cloud service provider for recording synchronization." = "Select the primary cloud service provider for recording synchronization.";
+/* Translated with Microsoft Translator */
+"Select the primary cloud service provider for recording synchronization." = "Sélectionnez le fournisseur de services en nuage principal pour la synchronisation des enregistrements.";
 
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Semi-transparent";
@@ -1082,11 +1109,11 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "Afficher les noms des contacts";
 
-/* TODO */
-"Show on Lock Screen" = "Show on Lock Screen";
+/* Translated with Microsoft Translator */
+"Show on Lock Screen" = "Afficher sur l'écran de verrouillage";
 
-/* TODO */
-"Show Option Description" = "Show Option Description";
+/* Translated with Microsoft Translator */
+"Show Option Description" = "Afficher la description de l'option";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Afficher la durée de l'enregistrement";
@@ -1100,8 +1127,8 @@
 /* No comment provided by engineer. */
 "Show Waveform Previews" = "Afficher les prévisualisations de forme d'onde";
 
-/* TODO */
-"Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
+/* Translated with Microsoft Translator */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Afficher l'élément de menu “View Details” pour que les développeurs puissent vérifier les manifestes des enregistrements.";
 
 /* No comment provided by engineer. */
 "SIM Card Alias" = "Alias de la carte SIM";
@@ -1129,8 +1156,8 @@
 
 "Start Recording" = "Démarrer l'enregistrement";
 
-/* TODO */
-"Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
+/* Translated with Microsoft Translator */
+"Stay tuned. We’re recording your call in the background." = "Restez à l'écoute. Nous enregistrons votre appel en arrière-plan.";
 
 "stop" = "arrêter";
 
@@ -1150,14 +1177,14 @@
 /* No comment provided by engineer. */
 "Stop Service" = "Arrêter le service";
 
-/* TODO */
-"Sync" = "Sync";
+/* Translated with Microsoft Translator */
+"Sync" = "Synchronisation";
 
-/* TODO */
-"Sync Service Mode" = "Sync Service Mode";
+/* Translated with Microsoft Translator */
+"Sync Service Mode" = "Mode de service de synchronisation";
 
-/* TODO */
-"Sync Service Provider" = "Sync Service Provider";
+/* Translated with Microsoft Translator */
+"Sync Service Provider" = "Fournisseur de services de synchronisation";
 
 /* No comment provided by engineer. */
 "System Applications" = "Applications système";
@@ -1165,8 +1192,8 @@
 /* No comment provided by engineer. */
 "System Audio" = "Audio système";
 
-/* TODO */
-"Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+/* Translated with Microsoft Translator */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Appuyez sur __n'importe quel bord__  \npour le sélectionner en tant que ___bord actif___.";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Touchez pour quitter";
@@ -1180,8 +1207,8 @@
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "L'application se lancera automatiquement lorsque l'enregistrement se termine.";
 
-/* TODO */
-"The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
+/* Translated with Microsoft Translator */
+"The content of text file “%@” is empty." = "Le contenu du fichier texte “%@” est vide.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "La date et l'heure à laquelle l'audio a été créé.";
@@ -1246,20 +1273,20 @@
 /* No comment provided by engineer. */
 "This field accept phone number or an email address for matching contact." = "Ce champ accepte un numéro de téléphone ou une adresse e-mail pour la correspondance des contacts.";
 
-/* TODO */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
+/* Translated with Microsoft Translator */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Cet enregistrement provient de WeChat, et “Assistant WeChat” vous aide à remplir les noms des contacts WeChat et les remarques la prochaine fois.\nVous pouvez acheter “TrollRecorder Pro” pour activer “Assistant WeChat”, voulez-vous l'acheter maintenant ?";
 
-/* TODO */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+/* Translated with Microsoft Translator */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Cet enregistrement provient de WeChat, et “Assistant WeChat” vous aide à remplir les noms des contacts WeChat et les remarques la prochaine fois.\nVous ne semblez pas avoir activé “Assistant WeChat”, voulez-vous l'activer immédiatement ?";
 
 /* No comment provided by engineer. */
 "To" = "À";
 
-/* TODO */
-"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”.";
+/* Translated with Microsoft Translator */
+"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "Pour configurer iCloud Drive, allez dans “Réglages > Cellulaire > iCloud Drive”.";
 
-/* TODO */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder.";
+/* Translated with Microsoft Translator */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "Pour conserver l'accès au WebDAV, vous devez sélectionner “Toujours” ou “Pendant l'utilisation de l'application” pour TrollRecorder.";
 
 /* No comment provided by engineer. */
 "To: %@" = "À : %@";
@@ -1272,17 +1299,17 @@
 
 "Toggle Recording" = "Activer/désactiver l'enregistrement";
 
-/* TODO */
-"top edge" = "top edge";
+/* Translated with Microsoft Translator */
+"top edge" = "bord supérieur";
 
-/* No comment provided by engineer. */
+/* Translated with Microsoft Translator */
 "Touch ID" = "Touch ID";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "Suivre les mises à jour de l'emplacement";
 
-/* TODO */
-"trailing edge" = "trailing edge";
+/* Translated with Microsoft Translator */
+"trailing edge" = "bord de fuite";
 
 /* No comment provided by engineer. */
 "Transcript" = "Transcription";
@@ -1328,17 +1355,17 @@
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Mettre à niveau vers %@";
 
-/* TODO */
-"Upload" = "Upload";
+/* Translated with Microsoft Translator */
+"Upload" = "Télécharger";
 
-/* TODO */
-"Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
+/* Translated with Microsoft Translator */
+"Upload, download or synconize recordings between local and cloud drive." = "Chargement, téléchargement ou synchronisation des enregistrements entre le disque local et le disque en nuage.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application." = "Utiliser l'authentification biométrique pour déverrouiller l'application.";
 
-/* TODO */
-"Use Cellular Network" = "Use Cellular Network";
+/* Translated with Microsoft Translator */
+"Use Cellular Network" = "Utiliser le réseau cellulaire";
 
 /* No comment provided by engineer. */
 "Use Date" = "Utiliser la date";
@@ -1387,26 +1414,26 @@
 /* No comment provided by engineer. */
 "Vibrate at End" = "Vibrer à la fin";
 
-/* TODO */
-"View Details" = "View Details";
+/* Translated with Microsoft Translator */
+"View Details" = "Voir les détails";
 
-/* TODO */
-"View Logs: Application" = "View Logs: Application";
+/* Translated with Microsoft Translator */
+"View Logs: Application" = "Voir les journaux : Application";
 
-/* TODO */
-"View Logs: Call Monitor" = "View Logs: Call Monitor";
+/* Translated with Microsoft Translator */
+"View Logs: Call Monitor" = "Voir les journaux : Moniteur d'appels";
 
-/* TODO */
-"View Logs: Call Recorder" = "View Logs: Call Recorder";
+/* Translated with Microsoft Translator */
+"View Logs: Call Recorder" = "Afficher les journaux : Enregistreur d'appels";
 
-/* TODO */
-"View Logs: Hoverball" = "View Logs: Hoverball";
+/* Translated with Microsoft Translator */
+"View Logs: Hoverball" = "Voir les journaux : Hoverball";
 
-/* TODO */
-"View Logs: Launch Agent" = "View Logs: Launch Agent";
+/* Translated with Microsoft Translator */
+"View Logs: Launch Agent" = "Voir les journaux : Agent de lancement";
 
-/* TODO */
-"View Recording Details" = "View Recording Details";
+/* Translated with Microsoft Translator */
+"View Recording Details" = "Voir les détails de l'enregistrement";
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Les contacts VIP seront toujours enregistrés et ajoutés aux favoris.";
@@ -1420,17 +1447,17 @@
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Nous aimons les arrière-plans colorés et animés, mais vous avez ici l'option de les désactiver.";
 
-/* TODO */
-"WebDAV Server" = "WebDAV Server";
+/* Translated with Microsoft Translator */
+"WebDAV Server" = "Serveur WebDAV";
 
-/* TODO */
-"WeChat Assistant" = "WeChat Assistant";
+/* Translated with Microsoft Translator */
+"WeChat Assistant" = "Assistant WeChat";
 
 /* No comment provided by engineer. */
 "Welcome to" = "Bienvenue à";
 
-/* TODO */
-"We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
+/* Translated with Microsoft Translator */
+"We’re unable to show hoverball before unlocking due to technical reasons." = "Pour des raisons techniques, nous ne pouvons pas montrer le hoverball avant le déverrouillage.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Nous avons un nouvel enregistrement d'appel téléphonique !";
@@ -1438,14 +1465,14 @@
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "Nous avons de nouveaux enregistrements d'appels téléphoniques !";
 
-/* TODO */
-"When Locked" = "When Locked";
+/* Translated with Microsoft Translator */
+"When Locked" = "En cas de verrouillage";
 
-/* TODO */
-"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply.";
+/* Translated with Microsoft Translator */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Si vous n'êtes pas connecté au WLAN, utilisez le réseau cellulaire pour transférer l'enregistrement. Des frais supplémentaires peuvent s'appliquer.";
 
-/* TODO */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
+/* Translated with Microsoft Translator */
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "Lorsqu'il est déverrouillé, le hoverball s'affiche même si vous n'êtes pas sur l'écran d'accueil.";
 
 /* Translated with Microsoft Translator */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "Lorsque votre %@ manque d'espace, les enregistrements locaux des chaînes séparées seront supprimés une fois qu'ils auront été téléchargés.";
@@ -1456,8 +1483,8 @@
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "Indique si le hoverball global doit utiliser le style clair ou sombre.";
 
-/* TODO */
-"Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
+/* Translated with Microsoft Translator */
+"Which edges of the screen the hoverball can be attached to." = "Les bords de l'écran auxquels l'hoverball peut être attaché.";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Démarrera automatiquement l'enregistrement lors des appels audio ou vidéo dans l'application actuelle.";
@@ -1468,11 +1495,11 @@
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Écrire la latitude et la longitude dans les métadonnées de l'enregistrement.";
 
-/* TODO */
-"Write runtime logs into filesystem. You need to restart services to apply changes." = "Write runtime logs into filesystem. You need to restart services to apply changes.";
+/* Translated with Microsoft Translator */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Écrire les journaux d'exécution dans le système de fichiers. Vous devez redémarrer les services pour appliquer les modifications.";
 
-/* TODO */
-"YES" = "YES";
+/* Translated with Microsoft Translator */
+"YES" = "OUI";
 
 /* No comment provided by engineer. */
 "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Vous devez sélectionner « Toujours » pour que TrollRecorder détermine votre emplacement en arrière-plan. Si vous sélectionnez « Pendant l'utilisation de l'application », les emplacements seront mis à jour uniquement lorsque vous lancez l'application après l'enregistrement.";
@@ -1480,8 +1507,8 @@
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Vous devrez peut-être activer « Enregistrement automatique amélioré » ou « Identification de scène améliorée » afin que les options sur cette page prennent effet.";
 
-/* TODO */
-"You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
+/* Translated with Microsoft Translator */
+"You may need to reboot your device to make this application work properly." = "Il se peut que vous deviez redémarrer votre appareil pour que cette application fonctionne correctement.";
 
 /* No comment provided by engineer. */
 "You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "Vous devez installer « Filza File Manager » avec le schéma d'URL activé pour afficher ou récupérer vos enregistrements.";

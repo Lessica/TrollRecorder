@@ -174,13 +174,16 @@
 "Automatically merge microphone and speaker into a single file after record complete." = "Automatically merge microphone and speaker into a single file after record complete.";
 
 /* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "Automatically purge recycle bin and remove failure caches.";
+
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "Automatically query the latest version from GitHub when the application starts.";
+
+/* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Automatically remove recordings created earlier than specified date except those marked ones.";
 
 /* No comment provided by engineer. */
-"Automatically removes cached data left behind when a recording fails at regular intervals." = "Automatically removes cached data left behind when a recording fails at regular intervals.";
-
-/* No comment provided by engineer. */
-"Automatically stop recording when the free disk space is extremely low." = "Automatically stop recording when the free disk space is extremely low.";
+"Automatically stop recording when available disk space is extremely low." = "Automatically stop recording when available disk space is extremely low.";
 
 /* No comment provided by engineer. */
 "Automatically Suspend in Background" = "Automatically Suspend in Background";
@@ -246,7 +249,10 @@
 "Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
-"Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
+"Cannot parse text with UTF-8 encoding: “%@”." = "Cannot parse text with UTF-8 encoding: “%@”.";
+
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "Check Updates at Launch";
 
 /* No comment provided by engineer. */
 "Child Pages" = "Child Pages";
@@ -271,6 +277,9 @@
 
 /* ObjectTableViewController */
 "Collapse Recursively" = "Collapse Recursively";
+
+/* No comment provided by engineer. */
+"Collecting" = "Collecting";
 
 /* No comment provided by engineer. */
 "Combined" = "Combined";
@@ -478,6 +487,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "E.U.L.A.";
+
+/* No comment provided by engineer. */
+"Empty Trash" = "Empty Trash";
 
 /* No comment provided by engineer. */
 "Enable %@" = "Enable %@";
@@ -768,7 +780,7 @@
 "Mixer Sample Rate" = "Mixer Sample Rate";
 
 /* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later.";
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later.";
 
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "MPEG-4 Audio";
@@ -992,10 +1004,16 @@
 "Recover Files" = "Recover Files";
 
 /* No comment provided by engineer. */
+"Recycle Bin" = "Recycle Bin";
+
+/* No comment provided by engineer. */
 "Regular" = "Regular";
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "Reinstall %@";
+
+/* No comment provided by engineer. */
+"Remove All Recordings Permanently" = "Remove All Recordings Permanently";
 
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "Remove Outdated Recordings";
@@ -1008,6 +1026,15 @@
 
 /* No comment provided by engineer. */
 "Respring" = "Respring";
+
+/* No comment provided by engineer. */
+"Restore" = "Restore";
+
+/* No comment provided by engineer. */
+"Restore Selected %ld Items" = "Restore Selected %ld Items";
+
+/* No comment provided by engineer. */
+"Restore Selected Item" = "Restore Selected Item";
 
 /* No comment provided by engineer. */
 "Resume Recording" = "Resume Recording";

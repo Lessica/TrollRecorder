@@ -30,16 +30,17 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 
 ## 1.x Milestones
 
-- [ ] Slide-to-Play
 - [x] <del>Hover-ball on Lockscreen</del> Notification on Lockscreen
-- [ ] Network Backup: iCloud Backup / iCloud Drive
+- [ ] Network Storage
+  - [ ] iCloud Backup
+  - [ ] iCloud Drive
+  - [ ] Google Drive
+  - [ ] Dropbox
 
 ## 2.x Milestones
 
 A botch job is a waste of time. That's why we always built our app in the best quality.
 
-- [ ] Network Backup: Google Drive
-- [ ] Network Backup: Dropbox
 - [ ] Record System Audio (What You Hear)
 - [ ] Record like Voice Memos
 - [ ] Built-In Audio Editor

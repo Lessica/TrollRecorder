@@ -174,13 +174,16 @@
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將麥克風和揚聲器合併成一個檔案。";
 
 /* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "定期自動清理回收站和錄音失敗時留下的緩存。";
+
+/* TODO */
+"Automatically query the latest version from GitHub when the application starts." = "Automatically query the latest version from GitHub when the application starts.";
+
+/* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "自動删除早於指定日期創建的錄音，除了那些被收藏的錄音。";
 
 /* No comment provided by engineer. */
-"Automatically removes cached data left behind when a recording fails at regular intervals." = "定期自動删除錄音失敗時留下的緩存數據。";
-
-/* No comment provided by engineer. */
-"Automatically stop recording when the free disk space is extremely low." = "當剩餘磁碟空間極低時，自動停止錄音。";
+"Automatically stop recording when available disk space is extremely low." = "當剩餘磁碟空間極低時，自動停止錄音。";
 
 /* No comment provided by engineer. */
 "Automatically Suspend in Background" = "背景程式自動停止";
@@ -246,7 +249,10 @@
 "Cancel" = "取消";
 
 /* No comment provided by engineer. */
-"Cannot parse text with UTF-8 encoding: “@”." = "無法使用 UTF-8 編碼解析文本: “@”.";
+"Cannot parse text with UTF-8 encoding: “%@”." = "無法使用 UTF-8 編碼解析文本: “%@”。";
+
+/* TODO */
+"Check Updates at Launch" = "Check Updates at Launch";
 
 /* No comment provided by engineer. */
 "Child Pages" = "子頁面";
@@ -271,6 +277,9 @@
 
 /* No comment provided by engineer. */
 "Collapse Recursively" = "遞迴摺叠";
+
+/* TODO */
+"Collecting" = "Collecting";
 
 /* No comment provided by engineer. */
 "Combined" = "組合";
@@ -477,6 +486,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "最終用戶授權合約";
+
+/* TODO */
+"Empty Trash" = "Empty Trash";
 
 /* No comment provided by engineer. */
 "Enable %@" = "啓用 %@";
@@ -767,7 +779,7 @@
 "Mixer Sample Rate" = "取樣速率";
 
 /* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "將删除的錄音移動到一個特殊的資料檔案夾，允許你在改變主意或後來意識到需要它們時恢復已删除的項目。";
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "將删除的錄音移動到一個特殊的資料檔案夾，允許你在改變主意或後來意識到需要它們時恢復已删除的項目。";
 
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "MPEG-4 音訊 (m4a)";
@@ -990,11 +1002,17 @@
 /* No comment provided by engineer. */
 "Recover Files" = "恢復檔案";
 
+/* TODO */
+"Recycle Bin" = "Recycle Bin";
+
 /* No comment provided by engineer. */
 "Regular" = "普通";
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "重新安裝 %@";
+
+/* TODO */
+"Remove All Recordings Permanently" = "Remove All Recordings Permanently";
 
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "刪除過期錄音";
@@ -1007,6 +1025,15 @@
 
 /* No comment provided by engineer. */
 "Respring" = "妙手回春";
+
+/* TODO */
+"Restore" = "Restore";
+
+/* TODO */
+"Restore Selected %ld Items" = "Restore Selected %ld Items";
+
+/* TODO */
+"Restore Selected Item" = "Restore Selected Item";
 
 /* No comment provided by engineer. */
 "Resume Recording" = "繼續錄音";

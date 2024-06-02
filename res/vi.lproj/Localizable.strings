@@ -173,14 +173,17 @@
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Tự động hợp nhất micrô và loa thành một tệp duy nhất sau khi ghi âm hoàn tất.";
 
+/* TODO */
+"Automatically purge recycle bin and remove failure caches." = "Automatically purge recycle bin and remove failure caches.";
+
+/* TODO */
+"Automatically query the latest version from GitHub when the application starts." = "Automatically query the latest version from GitHub when the application starts.";
+
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Tự động xóa các bản ghi được tạo sớm hơn ngày được chỉ định ngoại trừ những bản được đánh dấu.";
 
 /* No comment provided by engineer. */
-"Automatically removes cached data left behind when a recording fails at regular intervals." = "Tự động xóa dữ liệu được lưu trong bộ nhớ cache bị bỏ lại khi ghi âm không thành công trong khoảng thời gian đều đặn.";
-
-/* No comment provided by engineer. */
-"Automatically stop recording when the free disk space is extremely low." = "Tự động dừng ghi âm khi dung lượng ổ cứng trống cực kỳ thấp.";
+"Automatically stop recording when available disk space is extremely low." = "Tự động dừng ghi âm khi dung lượng ổ cứng trống cực kỳ thấp.";
 
 /* TODO */
 "Automatically Suspend in Background" = "Automatically Suspend in Background";
@@ -246,7 +249,10 @@
 "Cancel" = "Huỷ";
 
 /* TODO */
-"Cannot parse text with UTF-8 encoding: “@”." = "Cannot parse text with UTF-8 encoding: “@”.";
+"Cannot parse text with UTF-8 encoding: “%@”." = "Cannot parse text with UTF-8 encoding: “%@”.";
+
+/* TODO */
+"Check Updates at Launch" = "Check Updates at Launch";
 
 /* TODO */
 "Child Pages" = "Child Pages";
@@ -271,6 +277,9 @@
 
 /* TODO */
 "Collapse Recursively" = "Collapse Recursively";
+
+/* TODO */
+"Collecting" = "Collecting";
 
 /* No comment provided by engineer. */
 "Combined" = "Kết hợp";
@@ -476,6 +485,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "E.U.L.A.";
+
+/* TODO */
+"Empty Trash" = "Empty Trash";
 
 /* No comment provided by engineer. */
 "Enable %@" = "Cho phép %@";
@@ -766,7 +778,7 @@
 "Mixer Sample Rate" = "Tỷ lệ mẫu bản phối lại";
 
 /* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "Di chuyển các bản ghi âm đã xóa vào một thư mục đặc biệt cho phép bạn khôi phục các mục đã xóa nếu bạn đổi ý hoặc nhận ra rằng bạn cần chúng sau này.";
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Di chuyển các bản ghi âm đã xóa vào một thư mục đặc biệt cho phép bạn khôi phục các mục đã xóa nếu bạn đổi ý hoặc nhận ra rằng bạn cần chúng sau này.";
 
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "Âm thanh MPEG-4";
@@ -989,11 +1001,17 @@
 /* No comment provided by engineer. */
 "Recover Files" = "Khôi phục các tập tin";
 
+/* TODO */
+"Recycle Bin" = "Recycle Bin";
+
 /* No comment provided by engineer. */
 "Regular" = "Thường xuyên";
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "Cài đặt lại %@";
+
+/* TODO */
+"Remove All Recordings Permanently" = "Remove All Recordings Permanently";
 
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "Xóa bản ghi lỗi thời";
@@ -1006,6 +1024,15 @@
 
 /* No comment provided by engineer. */
 "Respring" = "Respring";
+
+/* TODO */
+"Restore" = "Restore";
+
+/* TODO */
+"Restore Selected %ld Items" = "Restore Selected %ld Items";
+
+/* TODO */
+"Restore Selected Item" = "Restore Selected Item";
 
 /* TODO */
 "Resume Recording" = "Resume Recording";
