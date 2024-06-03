@@ -279,7 +279,7 @@
 "Collapse Recursively" = "递归折叠";
 
 /* No comment provided by engineer. */
-"Collecting" = "收集";
+"Collecting" = "收集中";
 
 /* No comment provided by engineer. */
 "Combined" = "组合";
@@ -401,6 +401,9 @@
 "Delete Selected Item" = "删除选中项";
 
 /* No comment provided by engineer. */
+"Deselect All" = "取消全选";
+
+/* No comment provided by engineer. */
 "Developer Options" = "开发者选项";
 
 /* No comment provided by engineer. */
@@ -489,7 +492,10 @@
 "E.U.L.A." = "最终用户许可协议";
 
 /* No comment provided by engineer. */
-"Empty Trash" = "清空垃圾桶";
+"Empty Trash" = "清空回收站";
+
+/* No comment provided by engineer. */
+"Empty Trash (%@)" = "清空回收站 (%@)";
 
 /* No comment provided by engineer. */
 "Enable %@" = "启用 %@";
@@ -684,6 +690,9 @@
 "Item #%lu" = "项 #%lu";
 
 /* No comment provided by engineer. */
+"Just now" = "现在";
+
+/* No comment provided by engineer. */
 "Keep Screen On When Connected" = "连接时保持屏幕常亮";
 
 /* No comment provided by engineer. */
@@ -832,6 +841,9 @@
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "未导入任何内容";
+
+/* No comment provided by engineer. */
+"Nothing Inside" = "这里面空无一物";
 
 /* No comment provided by engineer. */
 "Notifications" = "通知与提醒";
@@ -1004,6 +1016,9 @@
 "Recordings" = "录音";
 
 /* No comment provided by engineer. */
+"Recordings here are permanently removed after 30 days." = "这里的录音将在 30 天后被永久删除。";
+
+/* No comment provided by engineer. */
 "Recover Files" = "恢复文件";
 
 /* No comment provided by engineer. */
@@ -1038,6 +1053,9 @@
 
 /* No comment provided by engineer. */
 "Restore Selected Item" = "恢复选中项";
+
+/* No comment provided by engineer. */
+"Restoring" = "恢复中";
 
 /* No comment provided by engineer. */
 "Resume Recording" = "继续录音";
@@ -1261,7 +1279,7 @@
 "The unique identifier of the provider application." = "提供方应用程序的唯一标识符。";
 
 /* No comment provided by engineer. */
-"There is nothing but air." = "这里只有空气。";
+"There is nothing but air." = "这里，只有空气。";
 
 /* No comment provided by engineer. */
 "There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "在录制完成时，后台服务未能立即合并录音文件。万幸的是，现在你可以完成这最后一步！";
