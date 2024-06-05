@@ -52,6 +52,9 @@
 /* No comment provided by engineer. */
 "4 Seconds" = "4 秒";
 
+/* TODO */
+"45 Days Ago" = "45 Days Ago";
+
 /* No comment provided by engineer. */
 "5 Seconds" = "5 秒";
 
@@ -133,6 +136,9 @@
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音訊";
+
+/* TODO */
+"App Icon" = "App Icon";
 
 /* No comment provided by engineer. */
 "Appearance" = "顯示與外觀";
@@ -400,6 +406,9 @@
 /* No comment provided by engineer. */
 "Delete Selected Item" = "刪除選中項";
 
+/* No comment provided by engineer. */
+"Deleting" = "刪除中";
+
 /* TODO */
 "Deselect All" = "Deselect All";
 
@@ -542,6 +551,12 @@
 /* No comment provided by engineer. */
 "Export to Anywhere" = "任意匯出";
 
+/* TODO */
+"Export with Metadata" = "Export with Metadata";
+
+/* TODO */
+"Exporting" = "Exporting";
+
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
@@ -550,6 +565,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
+
+/* TODO */
+"Failed to export %d recordings" = "Failed to export %d recordings";
 
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "無法以當前區域 “%@” 初初始化轉錄引擎。";
@@ -561,7 +579,7 @@
 "Failed to recover: %@" = "無法恢復：%@";
 
 /* No comment provided by engineer. */
-"Failed to remove %@" = "無法刪除 %@";
+"Failed to remove: %@" = "無法刪除：%@";
 
 /* No comment provided by engineer. */
 "Faster Support" = "更快的技術支援";
@@ -701,7 +719,7 @@
 "Later" = "忽略 7 天";
 
 /* No comment provided by engineer. */
-"Launch Application at End" = "結束時啓動應用";
+"Launch App at End" = "結束時啓動應用";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "首次解鎖時啓動";
@@ -789,6 +807,9 @@
 
 /* No comment provided by engineer. */
 "Mixer Sample Rate" = "取樣速率";
+
+/* TODO */
+"More icons, more innovation." = "More icons, more innovation.";
 
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "將删除的錄音移動到一個特殊的資料檔案夾，允許你在改變主意或後來意識到需要它們時恢復已删除的項目。";
@@ -1071,6 +1092,9 @@
 /* No comment provided by engineer. */
 "Sample Rate" = "取樣速率";
 
+/* TODO */
+"Save" = "Save";
+
 /* No comment provided by engineer. */
 "Scene Identification" = "通話場景識別";
 
@@ -1342,6 +1366,7 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "由 @CaslenZ 翻譯";
 
+/* No comment provided by engineer. */
 "Troll Recorder" = "巨魔錄音機";
 
 /* No comment provided by engineer. */
@@ -1352,6 +1377,9 @@
 
 /* No comment provided by engineer. */
 "Unknown" = "未知";
+
+/* TODO */
+"Unknown Artist" = "Unknown Artist";
 
 /* No comment provided by engineer. */
 "Unknown Error" = "未知錯誤";
@@ -1513,6 +1541,9 @@
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls." = "通話時自動開始錄音。";
+
+/* TODO */
+"Write ID3 tags to the exported audio files." = "Write ID3 tags to the exported audio files.";
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "將經緯度寫入錄音元數據。";

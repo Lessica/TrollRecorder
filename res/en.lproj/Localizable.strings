@@ -53,6 +53,9 @@
 "4 Seconds" = "4 Seconds";
 
 /* No comment provided by engineer. */
+"45 Days Ago" = "45 Days Ago";
+
+/* No comment provided by engineer. */
 "5 Seconds" = "5 Seconds";
 
 /* No comment provided by engineer. */
@@ -133,6 +136,9 @@
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "Analysing Audio";
+
+/* No comment provided by engineer. */
+"App Icon" = "App Icon";
 
 /* No comment provided by engineer. */
 "Appearance" = "Appearance";
@@ -401,6 +407,9 @@
 "Delete Selected Item" = "Delete Selected Item";
 
 /* No comment provided by engineer. */
+"Deleting" = "Deleting";
+
+/* No comment provided by engineer. */
 "Deselect All" = "Deselect All";
 
 /* No comment provided by engineer. */
@@ -544,6 +553,12 @@
 "Export to Anywhere" = "Export to Anywhere";
 
 /* No comment provided by engineer. */
+"Export with Metadata" = "Export with Metadata";
+
+/* No comment provided by engineer. */
+"Exporting" = "Exporting";
+
+/* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
 /* No comment provided by engineer. */
@@ -551,6 +566,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
+
+/* No comment provided by engineer. */
+"Failed to export %d recordings" = "Failed to export %d recordings";
 
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Failed to initialize speech recognizer using current locale “%@”.";
@@ -562,7 +580,7 @@
 "Failed to recover: %@" = "Failed to recover: %@";
 
 /* No comment provided by engineer. */
-"Failed to remove %@" = "Failed to remove %@";
+"Failed to remove: %@" = "Failed to remove: %@";
 
 /* No comment provided by engineer. */
 "Faster Support" = "Faster Support";
@@ -702,7 +720,7 @@
 "Later" = "Later";
 
 /* No comment provided by engineer. */
-"Launch Application at End" = "Launch Application at End";
+"Launch App at End" = "Launch App at End";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Launch When First Unlocked";
@@ -790,6 +808,9 @@
 
 /* No comment provided by engineer. */
 "Mixer Sample Rate" = "Mixer Sample Rate";
+
+/* No comment provided by engineer. */
+"More icons, more innovation." = "More icons, more innovation.";
 
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later.";
@@ -1073,6 +1094,9 @@
 "Sample Rate" = "Sample Rate";
 
 /* No comment provided by engineer. */
+"Save" = "Save";
+
+/* No comment provided by engineer. */
 "Scene Identification" = "Scene Identification";
 
 /* No comment provided by engineer. */
@@ -1343,6 +1367,7 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Translated by @AUTHOR_NAME";
 
+/* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
 
 /* No comment provided by engineer. */
@@ -1353,6 +1378,9 @@
 
 /* No comment provided by engineer. */
 "Unknown" = "Unknown";
+
+/* No comment provided by engineer. */
+"Unknown Artist" = "Unknown Artist";
 
 /* No comment provided by engineer. */
 "Unknown Error" = "Unknown Error";
@@ -1514,6 +1542,9 @@
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls." = "Will start recording automatically on audio or video calls.";
+
+/* No comment provided by engineer. */
+"Write ID3 tags to the exported audio files." = "Write ID3 tags to the exported audio files.";
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Write latitude and longitude to the recording metadata.";

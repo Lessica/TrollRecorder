@@ -52,6 +52,9 @@
 /* No comment provided by engineer. */
 "4 Seconds" = "4 segundos";
 
+/* Translated with Microsoft Translator */
+"45 Days Ago" = "Hace 45 días";
+
 /* No comment provided by engineer. */
 "5 Seconds" = "5 segundos";
 
@@ -133,6 +136,9 @@
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "Analizando audio";
+
+/* Translated with Microsoft Translator */
+"App Icon" = "Icono de la aplicación";
 
 /* No comment provided by engineer. */
 "Appearance" = "Apariencia";
@@ -400,6 +406,9 @@
 "Delete Selected Item" = "Borrar elemento seleccionado";
 
 /* Translated with Microsoft Translator */
+"Deleting" = "Borrado de";
+
+/* Translated with Microsoft Translator */
 "Deselect All" = "Deseleccionar todo";
 
 /* Translated with Microsoft Translator */
@@ -541,6 +550,12 @@
 /* No comment provided by engineer. */
 "Export to Anywhere" = "Exportar a cualquier lugar";
 
+/* Translated with Microsoft Translator */
+"Export with Metadata" = "Exportar con metadatos";
+
+/* Translated with Microsoft Translator */
+"Exporting" = "Exportación de";
+
 /* No comment provided by engineer. */
 "Face ID" = "Identificación facial";
 
@@ -549,6 +564,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "VIP de FaceTime";
+
+/* Translated with Microsoft Translator */
+"Failed to export %d recordings" = "Error al exportar %d grabaciones";
 
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Error al inicializar el reconocedor de voz utilizando la configuración regional actual “%@”.";
@@ -560,7 +578,7 @@
 "Failed to recover: %@" = "Error al recuperar: %@";
 
 /* No comment provided by engineer. */
-"Failed to remove %@" = "Error al eliminar %@";
+"Failed to remove: %@" = "Error al eliminar: %@";
 
 /* No comment provided by engineer. */
 "Faster Support" = "Soporte más rápido";
@@ -700,7 +718,7 @@
 "Later" = "Ignorar durante 7 días";
 
 /* No comment provided by engineer. */
-"Launch Application at End" = "Lanzar la aplicación al final";
+"Launch App at End" = "Lanzar la aplicación al final";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Lanzar al desbloquear por primera vez";
@@ -788,6 +806,9 @@
 
 /* No comment provided by engineer. */
 "Mixer Sample Rate" = "Tasa de Muestreo del Mezclador";
+
+/* Translated with Microsoft Translator */
+"More icons, more innovation." = "Más iconos, más innovación.";
 
 /* Translated with Microsoft Translator */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Mueve las grabaciones borradas a una carpeta especial que te permita restaurarlas si cambias de opinión o te das cuenta de que las necesitas más adelante.";
@@ -1070,6 +1091,9 @@
 /* No comment provided by engineer. */
 "Sample Rate" = "Frecuencia de muestreo";
 
+/* Translated with Microsoft Translator */
+"Save" = "Guardar";
+
 /* No comment provided by engineer. */
 "Scene Identification" = "Identificación de Escena";
 
@@ -1341,6 +1365,7 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Traducido por @Deci8BelioS";
 
+/* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
 
 /* No comment provided by engineer. */
@@ -1351,6 +1376,9 @@
 
 /* No comment provided by engineer. */
 "Unknown" = "Desconocido";
+
+/* Translated with Microsoft Translator */
+"Unknown Artist" = "Artista desconocido";
 
 /* No comment provided by engineer. */
 "Unknown Error" = "Error desconocido";
@@ -1512,6 +1540,9 @@
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls." = "Empezará a grabar automáticamente en llamadas de audio o vídeo.";
+
+/* Translated with Microsoft Translator */
+"Write ID3 tags to the exported audio files." = "Escribe etiquetas ID3 en los archivos de audio exportados.";
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Escribe la latitud y la longitud en los metadatos de la grabación.";

@@ -52,6 +52,9 @@
 /* No comment provided by engineer. */
 "4 Seconds" = "4 Giây";
 
+/* TODO */
+"45 Days Ago" = "45 Days Ago";
+
 /* No comment provided by engineer. */
 "5 Seconds" = "5 Giây";
 
@@ -133,6 +136,9 @@
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "Phân tích âm thanh";
+
+/* TODO */
+"App Icon" = "App Icon";
 
 /* No comment provided by engineer. */
 "Appearance" = "Vẻ bề ngoài";
@@ -400,6 +406,9 @@
 "Delete Selected Item" = "Xóa mục đã chọn";
 
 /* TODO */
+"Deleting" = "Deleting";
+
+/* TODO */
 "Deselect All" = "Deselect All";
 
 /* TODO */
@@ -541,6 +550,12 @@
 /* No comment provided by engineer. */
 "Export to Anywhere" = "Xuất đến mọi nơi";
 
+/* TODO */
+"Export with Metadata" = "Export with Metadata";
+
+/* TODO */
+"Exporting" = "Exporting";
+
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
@@ -549,6 +564,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
+
+/* TODO */
+"Failed to export %d recordings" = "Failed to export %d recordings";
 
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Không thể khởi tạo bộ nhận dạng giọng nói bằng cách sử dụng ngôn ngữ hiện tại “%@”.";
@@ -560,7 +578,7 @@
 "Failed to recover: %@" = "Không thể khôi phục: %@";
 
 /* No comment provided by engineer. */
-"Failed to remove %@" = "Không thể xóa %@";
+"Failed to remove: %@" = "Không thể xóa: %@";
 
 /* No comment provided by engineer. */
 "Faster Support" = "Hỗ trợ nhanh hơn";
@@ -700,7 +718,7 @@
 "Later" = "Sau";
 
 /* No comment provided by engineer. */
-"Launch Application at End" = "Khởi chạy ứng dụng ở cuối";
+"Launch App at End" = "Khởi chạy ứng dụng ở cuối";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Khởi chạy khi mở khóa lần đầu tiên";
@@ -788,6 +806,9 @@
 
 /* No comment provided by engineer. */
 "Mixer Sample Rate" = "Tỷ lệ mẫu bản phối lại";
+
+/* TODO */
+"More icons, more innovation." = "More icons, more innovation.";
 
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Di chuyển các bản ghi âm đã xóa vào một thư mục đặc biệt cho phép bạn khôi phục các mục đã xóa nếu bạn đổi ý hoặc nhận ra rằng bạn cần chúng sau này.";
@@ -1070,6 +1091,9 @@
 /* No comment provided by engineer. */
 "Sample Rate" = "Tỷ lệ mẫu";
 
+/* TODO */
+"Save" = "Save";
+
 /* No comment provided by engineer. */
 "Scene Identification" = "Nhận dạng cảnh";
 
@@ -1341,6 +1365,7 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Được dịch bởi @2311WithLuv";
 
+/* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
 
 /* No comment provided by engineer. */
@@ -1351,6 +1376,9 @@
 
 /* No comment provided by engineer. */
 "Unknown" = "Không xác định";
+
+/* TODO */
+"Unknown Artist" = "Unknown Artist";
 
 /* No comment provided by engineer. */
 "Unknown Error" = "Lỗi không xác định";
@@ -1513,6 +1541,9 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video.";
+
+/* TODO */
+"Write ID3 tags to the exported audio files." = "Write ID3 tags to the exported audio files.";
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Viết vĩ độ và kinh độ vào siêu dữ liệu ghi.";

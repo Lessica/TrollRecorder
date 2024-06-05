@@ -52,6 +52,9 @@
 /* No comment provided by engineer. */
 "4 Seconds" = "4 secondes";
 
+/* Translated with Microsoft Translator */
+"45 Days Ago" = "Il y a 45 jours";
+
 /* No comment provided by engineer. */
 "5 Seconds" = "5 secondes";
 
@@ -133,6 +136,9 @@
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "Analyse audio en cours";
+
+/* Translated with Microsoft Translator */
+"App Icon" = "Icône de l'application";
 
 /* No comment provided by engineer. */
 "Appearance" = "Apparence";
@@ -400,6 +406,9 @@
 "Delete Selected Item" = "Supprimer l'élément sélectionné";
 
 /* Translated with Microsoft Translator */
+"Deleting" = "Suppression";
+
+/* Translated with Microsoft Translator */
 "Deselect All" = "Désélectionner tout";
 
 /* Translated with Microsoft Translator */
@@ -541,6 +550,12 @@
 /* No comment provided by engineer. */
 "Export to Anywhere" = "Exporter partout";
 
+/* Translated with Microsoft Translator */
+"Export with Metadata" = "Exportation avec métadonnées";
+
+/* Translated with Microsoft Translator */
+"Exporting" = "Exportation";
+
 /* No comment provided by engineer. */
 "Face ID" = "Identification faciale";
 
@@ -549,6 +564,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "VIP FaceTime";
+
+/* Translated with Microsoft Translator */
+"Failed to export %d recordings" = "Échec de l'exportation de %d enregistrements";
 
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Échec de l'initialisation du reconnaissance vocale en utilisant la locale actuelle « %@ ».";
@@ -560,7 +578,7 @@
 "Failed to recover: %@" = "Échec de la récupération : %@";
 
 /* No comment provided by engineer. */
-"Failed to remove %@" = "Échec de la suppression de %@";
+"Failed to remove: %@" = "Échec de la suppression : %@";
 
 /* No comment provided by engineer. */
 "Faster Support" = "Assistance plus rapide";
@@ -700,7 +718,7 @@
 "Later" = "Ignorer pendant 7 jours";
 
 /* No comment provided by engineer. */
-"Launch Application at End" = "Lancer l'application à la fin";
+"Launch App at End" = "Lancer l'application à la fin";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Lancer lorsque déverrouillé pour la première fois";
@@ -788,6 +806,9 @@
 
 /* No comment provided by engineer. */
 "Mixer Sample Rate" = "Fréquence d'échantillonnage du mixeur";
+
+/* Translated with Microsoft Translator */
+"More icons, more innovation." = "Plus d'icônes, plus d'innovation.";
 
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Déplacer les enregistrements supprimés vers un dossier spécial qui vous permet de restaurer les éléments supprimés si vous changez d'avis ou réalisez que vous en avez besoin plus tard.";
@@ -1070,6 +1091,9 @@
 /* No comment provided by engineer. */
 "Sample Rate" = "Taux d'échantillonnage";
 
+/* Translated with Microsoft Translator */
+"Save" = "Économiser";
+
 /* No comment provided by engineer. */
 "Scene Identification" = "Identification de scène";
 
@@ -1341,6 +1365,7 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Traduit par @DzMoha";
 
+/* No comment provided by engineer. */
 "Troll Recorder" = "Enregistreur de farces";
 
 /* No comment provided by engineer. */
@@ -1351,6 +1376,9 @@
 
 /* No comment provided by engineer. */
 "Unknown" = "Inconnu";
+
+/* Translated with Microsoft Translator */
+"Unknown Artist" = "Artiste inconnu";
 
 /* No comment provided by engineer. */
 "Unknown Error" = "Erreur inconnue";
@@ -1512,6 +1540,9 @@
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls." = "Démarrera automatiquement l'enregistrement lors des appels audio ou vidéo.";
+
+/* Translated with Microsoft Translator */
+"Write ID3 tags to the exported audio files." = "Inscrire les balises ID3 sur les fichiers audio exportés.";
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Écrire la latitude et la longitude dans les métadonnées de l'enregistrement.";
