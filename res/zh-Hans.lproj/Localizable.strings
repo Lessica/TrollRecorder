@@ -135,6 +135,9 @@
 "Always On" = "始终显示";
 
 /* No comment provided by engineer. */
+"AM/PM String" = "上午/下午";
+
+/* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音频";
 
 /* No comment provided by engineer. */
@@ -228,6 +231,12 @@
 "bottom edge" = "底边";
 
 /* No comment provided by engineer. */
+"Build and use a custom export name template for exported audio files." = "为导出的音频文件创建并使用自定义文件名称模板。";
+
+/* No comment provided by engineer. */
+"Bundle Display Name" = "捆绑包显示名称";
+
+/* No comment provided by engineer. */
 "Bundle Identifier" = "捆绑包标识符";
 
 /* No comment provided by engineer. */
@@ -304,6 +313,9 @@
 "Connected Clients: %d" = "已连接客户端：%d";
 
 /* No comment provided by engineer. */
+"Constants" = "常量";
+
+/* No comment provided by engineer. */
 "Contact Exceptions" = "联系人例外";
 
 /* No comment provided by engineer. */
@@ -323,6 +335,9 @@
 
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "此列表中的联系人将不会被录音。";
+
+/* No comment provided by engineer. */
+"Content Sharing" = "内容共享";
 
 /* No comment provided by engineer. */
 "Continue" = "继续";
@@ -367,10 +382,22 @@
 "Created At" = "创建于";
 
 /* No comment provided by engineer. */
+"Custom Export Name" = "自定义导出名称";
+
+/* No comment provided by engineer. */
 "Custom Layout Guide" = "自定义安全区域";
 
 /* No comment provided by engineer. */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "自定义一个矩形区域，帮助你在屏幕上定位悬浮球。";
+
+/* No comment provided by engineer. */
+"Date & Time" = "日期和时间";
+
+/* No comment provided by engineer. */
+"Day of Month Number" = "月份日期";
+
+/* No comment provided by engineer. */
+"Day of Week String" = "星期几";
 
 "deactivate" = "deactivate";
 
@@ -384,6 +411,9 @@
 
 /* No comment provided by engineer. */
 "Debugging" = "调试";
+
+/* No comment provided by engineer. */
+"Decoded User Location" = "地理位置";
 
 /* No comment provided by engineer. */
 "deflate failed" = "deflate 失败";
@@ -416,7 +446,13 @@
 "Developer Options" = "开发者选项";
 
 /* No comment provided by engineer. */
-"Direction" = "通话类型";
+"Direction" = "通话方向";
+
+/* No comment provided by engineer. */
+"Direction Capitalized" = "通话方向（首字母大写）";
+
+/* No comment provided by engineer. */
+"Direction Description" = "通话方向（描述）";
 
 /* No comment provided by engineer. */
 "Disabled" = "关闭";
@@ -492,7 +528,13 @@
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
+"Duration" = "持续时间";
+
+/* No comment provided by engineer. */
 "Duration Before Idle" = "闲置时长";
+
+/* No comment provided by engineer. */
+"Duration Description" = "持续时间（描述）";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "仅转场";
@@ -589,6 +631,9 @@
 "Features Unlocked" = "功能已解锁";
 
 /* No comment provided by engineer. */
+"File Format" = "文件格式";
+
+/* No comment provided by engineer. */
 "File Size" = "文件大小";
 
 /* No comment provided by engineer. */
@@ -610,6 +655,9 @@
 "Format" = "格式";
 
 /* No comment provided by engineer. */
+"Formatted Location" = "地理位置（格式化）";
+
+/* No comment provided by engineer. */
 "Frequently Asked Questions" = "获取帮助";
 
 /* No comment provided by engineer. */
@@ -620,6 +668,18 @@
 
 /* No comment provided by engineer. */
 "Full" = "完整";
+
+/* No comment provided by engineer. */
+"Full Date" = "完整日期";
+
+/* No comment provided by engineer. */
+"Full Month Name" = "月份名称";
+
+/* No comment provided by engineer. */
+"Full Time" = "完整时间";
+
+/* No comment provided by engineer. */
+"Full Year" = "完整年份";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "在通话中打开控制面板即可控制录制参数。";
@@ -640,6 +700,15 @@
 "Hide When Snapshot" = "截屏时隐藏";
 
 /* No comment provided by engineer. */
+"Hours Minutes Seconds" = "小时/分钟/秒";
+
+/* No comment provided by engineer. */
+"Hours, 12-hour Clock" = "小时（12 小时制）";
+
+/* No comment provided by engineer. */
+"Hours, 24-hour Clock" = "小时（24 小时制）";
+
+/* No comment provided by engineer. */
 "Hoverball" = "悬浮球";
 
 /* No comment provided by engineer. */
@@ -652,6 +721,9 @@
 "Hoverball Style" = "显示样式";
 
 "hud" = "hud";
+
+/* No comment provided by engineer. */
+"Hyphen" = "连字符";
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "我已经阅读并同意《最终用户许可协议》";
@@ -756,6 +828,12 @@
 "Logging" = "日志";
 
 /* No comment provided by engineer. */
+"Long Date" = "长日期";
+
+/* No comment provided by engineer. */
+"Long Time" = "长时间";
+
+/* No comment provided by engineer. */
 "Low" = "低";
 
 /* No comment provided by engineer. */
@@ -786,13 +864,25 @@
 "Medium" = "适中";
 
 /* No comment provided by engineer. */
+"Medium Date" = "中等日期";
+
+/* No comment provided by engineer. */
+"Medium Time" = "中等时间";
+
+/* No comment provided by engineer. */
 "Merged File" = "合并文件";
+
+/* No comment provided by engineer. */
+"Metadata" = "元数据";
 
 /* No comment provided by engineer. */
 "Microphone" = "麦克风";
 
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "麦克风和扬声器在不同的文件中录音。";
+
+/* No comment provided by engineer. */
+"Minutes" = "分钟";
 
 /* No comment provided by engineer. */
 "Mixed" = "混合";
@@ -810,6 +900,9 @@
 "Mixer Sample Rate" = "采样率";
 
 /* No comment provided by engineer. */
+"Month Number" = "月份";
+
+/* No comment provided by engineer. */
 "More icons, more innovation." = "多点图标，多点新意。";
 
 /* No comment provided by engineer. */
@@ -823,6 +916,12 @@
 
 /* No comment provided by engineer. */
 "My Favourites" = "我的收藏";
+
+/* No comment provided by engineer. */
+"Name" = "名称";
+
+/* No comment provided by engineer. */
+"Name with Alias" = "带别名的名称";
 
 /* No comment provided by engineer. */
 "Needs all features?" = "需要全部功能？";
@@ -900,6 +999,9 @@
 "Operation Failed" = "操作失败";
 
 /* No comment provided by engineer. */
+"Operator Name" = "运营商名称";
+
+/* No comment provided by engineer. */
 "Optic ID" = "视网膜 ID";
 
 /* No comment provided by engineer. */
@@ -915,10 +1017,16 @@
 "Outgoing call recording from “%@”." = "来自 “%@” 的去电录音";
 
 /* No comment provided by engineer. */
+"Page not found" = "未找到页面";
+
+/* No comment provided by engineer. */
 "Pause Recording" = "暂停录音";
 
 /* No comment provided by engineer. */
 "Paused" = "暂停";
+
+/* No comment provided by engineer. */
+"Period" = "句点";
 
 /* No comment provided by engineer. */
 "Phone Address" = "电话号码";
@@ -934,6 +1042,9 @@
 
 /* No comment provided by engineer. */
 "Phone Number or Email Address" = "电话号码或电子邮箱地址";
+
+/* No comment provided by engineer. */
+"Placemark Name" = "地标名称";
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放录音提示";
@@ -987,6 +1098,9 @@
 "Quick Recording" = "快速录音";
 
 /* No comment provided by engineer. */
+"Quit and relaunch to continue using the Pro features." = "重启应用以继续使用专业版功能。";
+
+/* No comment provided by engineer. */
 "Quit this application and try again." = "退出此应用程序并重试。";
 
 /* No comment provided by engineer. */
@@ -1022,6 +1136,9 @@
 "recording" = "录音";
 
 /* No comment provided by engineer. */
+"Recording (Localized)" = "录音";
+
+/* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，录音开始。";
 
 /* No comment provided by engineer. */
@@ -1032,6 +1149,9 @@
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "录音%@_%@";
+
+/* No comment provided by engineer. */
+"RECORDING_LOCALIZED" = "录音";
 
 /* No comment provided by engineer. */
 "Recordings" = "录音";
@@ -1115,6 +1235,9 @@
 "Search Recordings…" = "搜索录音…";
 
 /* No comment provided by engineer. */
+"Seconds" = "秒数";
+
+/* No comment provided by engineer. */
 "Secure Payment" = "安全的支付方式";
 
 /* No comment provided by engineer. */
@@ -1133,7 +1256,19 @@
 "Semi-Transparent" = "半透明";
 
 /* No comment provided by engineer. */
+"Sender Name" = "号卡名称";
+
+/* No comment provided by engineer. */
+"Sender Phone Address" = "号卡电话号码";
+
+/* No comment provided by engineer. */
+"Sender Short Name" = "号卡别名";
+
+/* No comment provided by engineer. */
 "Separated Channels" = "分离音轨";
+
+/* No comment provided by engineer. */
+"Separators" = "分隔符";
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "服务已启动：%@";
@@ -1149,6 +1284,18 @@
 
 /* No comment provided by engineer. */
 "Share" = "分享";
+
+/* No comment provided by engineer. */
+"Short Date" = "简短日期";
+
+/* No comment provided by engineer. */
+"Short Day of Week String" = "周几";
+
+/* No comment provided by engineer. */
+"Short Month Name" = "月份缩写";
+
+/* No comment provided by engineer. */
+"Short Time" = "简短时间";
 
 /* No comment provided by engineer. */
 "Show Bundle Name" = "显示捆绑包名称";
@@ -1185,6 +1332,12 @@
 
 /* No comment provided by engineer. */
 "Software License" = "软件许可";
+
+/* No comment provided by engineer. */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "出现了一些问题，我们无法验证你的购买。你可以轻按 “查看我的账户”，确认你的订单状态或兑换礼品代码。";
+
+/* No comment provided by engineer. */
+"Space" = "空格";
 
 /* No comment provided by engineer. */
 "Speaker" = "扬声器";
@@ -1327,6 +1480,9 @@
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你似乎没有启用 “微信通话助理”，你想立即启用吗？";
 
 /* No comment provided by engineer. */
+"Three-digit Milliseconds" = "毫秒数";
+
+/* No comment provided by engineer. */
 "To" = "结束于";
 
 /* No comment provided by engineer. */
@@ -1374,10 +1530,37 @@
 "Turn this option off to make the other options on this page take effect for the current application." = "关闭此选项，使此页面上的其他选项对当前应用程序生效。";
 
 /* No comment provided by engineer. */
+"Two-digit Day of Month Number" = "两位数月份日期";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 12-hour Clock" = "两位数小时（12 小时制）";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 24-hour Clock" = "两位数小时（24 小时制）";
+
+/* No comment provided by engineer. */
+"Two-digit Minutes" = "两位数分钟";
+
+/* No comment provided by engineer. */
+"Two-digit Month Number" = "两位数月份";
+
+/* No comment provided by engineer. */
+"Two-digit Seconds" = "两位秒数";
+
+/* No comment provided by engineer. */
+"Type to search…" = "键入以搜索…";
+
+/* No comment provided by engineer. */
 "Uncompressed" = "未压缩 (PCM)";
 
 /* No comment provided by engineer. */
+"Underscore" = "下划线";
+
+/* No comment provided by engineer. */
 "Unknown" = "未知";
+
+/* No comment provided by engineer. */
+"Unknown Address" = "地址不详";
 
 /* No comment provided by engineer. */
 "Unknown Artist" = "未知艺术家";
@@ -1386,7 +1569,7 @@
 "Unknown Error" = "未知错误";
 
 /* No comment provided by engineer. */
-"Unknown Place" = "未知地点";
+"Unknown Place" = "地点不详";
 
 /* No comment provided by engineer. */
 "Unknown Provider" = "未知提供方";
@@ -1448,6 +1631,15 @@
 "Utility" = "实用工具";
 
 /* No comment provided by engineer. */
+"Variant" = "变体";
+
+/* No comment provided by engineer. */
+"Variant Capitalized" = "变体（首字母大写）";
+
+/* No comment provided by engineer. */
+"Variant Description" = "变体（描述）";
+
+/* No comment provided by engineer. */
 "Verification Failed" = "验证失败";
 
 /* No comment provided by engineer. */
@@ -1482,6 +1674,9 @@
 
 /* No comment provided by engineer. */
 "View Logs: Launch Agent" = "启动代理";
+
+/* No comment provided by engineer. */
+"View My Account" = "查看我的账户";
 
 /* No comment provided by engineer. */
 "View Recording Details" = "查看录音详情";
@@ -1544,13 +1739,16 @@
 "Will start recording automatically on audio or video calls." = "通话时自动开始录音。";
 
 /* No comment provided by engineer. */
-"Write ID3 tags to the exported audio files." = "分享或导出音频文件时写入 ID3 标签。";
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "分享或导出音频文件时写入 ID3 标签，包括标题、艺术家、专辑、流派、年份和封面。";
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "将经纬度写入录音元数据。";
 
 /* No comment provided by engineer. */
 "Write runtime logs into filesystem. You need to restart services to apply changes." = "将运行时日志写入文件系统。你需要重新启动服务以应用更改。";
+
+/* No comment provided by engineer. */
+"Year Month Day" = "年/月/日";
 
 /* No comment provided by engineer. */
 "YES" = "是";

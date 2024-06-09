@@ -134,6 +134,9 @@
 /* No comment provided by engineer. */
 "Always On" = "HUD siempre visible";
 
+/* Translated with Microsoft Translator */
+"AM/PM String" = "Cadena AM/PM";
+
 /* No comment provided by engineer. */
 "Analysing Audio" = "Analizando audio";
 
@@ -227,6 +230,12 @@
 /* Translated with Microsoft Translator */
 "bottom edge" = "borde inferior";
 
+/* Translated with Microsoft Translator */
+"Build and use a custom export name template for exported audio files." = "Crea y utiliza una plantilla de nombre de exportación personalizada para los archivos de audio exportados.";
+
+/* Translated with Microsoft Translator */
+"Bundle Display Name" = "Nombre del paquete";
+
 /* No comment provided by engineer. */
 "Bundle Identifier" = "Identificador de paquete";
 
@@ -302,6 +311,9 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Clientes conectados: %d";
 
+/* Translated with Microsoft Translator */
+"Constants" = "Constantes";
+
 /* No comment provided by engineer. */
 "Contact Exceptions" = "Excepciones de contacto";
 
@@ -322,6 +334,9 @@
 
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "Los contactos de esta lista no se grabarán en ninguna situación.";
+
+/* Translated with Microsoft Translator */
+"Content Sharing" = "Compartir contenidos";
 
 /* No comment provided by engineer. */
 "Continue" = "Continuar";
@@ -366,10 +381,22 @@
 "Created At" = "Creado en";
 
 /* Translated with Microsoft Translator */
+"Custom Export Name" = "Nombre de exportación personalizado";
+
+/* Translated with Microsoft Translator */
 "Custom Layout Guide" = "Guía de diseño personalizado";
 
 /* Translated with Microsoft Translator */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "Personaliza una región rectangular que te ayude a colocar la hoverball en la pantalla.";
+
+/* Translated with Microsoft Translator */
+"Date & Time" = "Fecha y hora";
+
+/* Translated with Microsoft Translator */
+"Day of Month Number" = "Día del mes Número";
+
+/* Translated with Microsoft Translator */
+"Day of Week String" = "Día de la semana";
 
 "deactivate" = "desactivar";
 
@@ -383,6 +410,9 @@
 
 /* Translated with Microsoft Translator */
 "Debugging" = "Depuración";
+
+/* Translated with Microsoft Translator */
+"Decoded User Location" = "Localización del usuario descodificada";
 
 /* Translated with Microsoft Translator */
 "deflate failed" = "deflate failed";
@@ -416,6 +446,12 @@
 
 /* Translated with Microsoft Translator */
 "Direction" = "Dirección";
+
+/* Translated with Microsoft Translator */
+"Direction Capitalized" = "Dirección Capitalización";
+
+/* Translated with Microsoft Translator */
+"Direction Description" = "Dirección Descripción";
 
 /* Translated with Microsoft Translator */
 "Disabled" = "Discapacitados";
@@ -489,8 +525,14 @@
 /* Translated with Microsoft Translator */
 "Dropbox" = "Dropbox";
 
+/* Translated with Microsoft Translator */
+"Duration" = "Duración";
+
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duración antes de inactividad";
+
+/* Translated with Microsoft Translator */
+"Duration Description" = "Duración Descripción";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "Imagen fija";
@@ -586,6 +628,9 @@
 /* No comment provided by engineer. */
 "Features Unlocked" = "Funciones desbloqueadas";
 
+/* Translated with Microsoft Translator */
+"File Format" = "Formato de archivo";
+
 /* No comment provided by engineer. */
 "File Size" = "Tamaño de archivo";
 
@@ -607,6 +652,9 @@
 /* No comment provided by engineer. */
 "Format" = "Formato";
 
+/* Translated with Microsoft Translator */
+"Formatted Location" = "Ubicación formateada";
+
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Obtener ayuda y preguntas frecuentes";
 
@@ -618,6 +666,18 @@
 
 /* Translated with Microsoft Translator */
 "Full" = "Completo";
+
+/* Translated with Microsoft Translator */
+"Full Date" = "Fecha completa";
+
+/* Translated with Microsoft Translator */
+"Full Month Name" = "Nombre completo del mes";
+
+/* Translated with Microsoft Translator */
+"Full Time" = "A tiempo completo";
+
+/* Translated with Microsoft Translator */
+"Full Year" = "Año completo";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Consigue un control avanzado al grabar directamente en tu llamada.";
@@ -637,6 +697,15 @@
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Ocultar el HUD al hacer una instantánea";
 
+/* Translated with Microsoft Translator */
+"Hours Minutes Seconds" = "Horas Minutos Segundos";
+
+/* Translated with Microsoft Translator */
+"Hours, 12-hour Clock" = "Horas, Reloj de 12 horas";
+
+/* Translated with Microsoft Translator */
+"Hours, 24-hour Clock" = "Horas, Reloj de 24 horas";
+
 /* No comment provided by engineer. */
 "Hoverball" = "Bola flotante";
 
@@ -650,6 +719,9 @@
 "Hoverball Style" = "Estilo del HUD";
 
 "hud" = "hud";
+
+/* Translated with Microsoft Translator */
+"Hyphen" = "Guión";
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "Estoy de acuerdo con la E.U.L.A.";
@@ -753,6 +825,12 @@
 /* Translated with Microsoft Translator */
 "Logging" = "Registro";
 
+/* Translated with Microsoft Translator */
+"Long Date" = "Fecha larga";
+
+/* Translated with Microsoft Translator */
+"Long Time" = "Mucho tiempo";
+
 /* No comment provided by engineer. */
 "Low" = "Bajo";
 
@@ -783,14 +861,26 @@
 /* No comment provided by engineer. */
 "Medium" = "Medio";
 
+/* Translated with Microsoft Translator */
+"Medium Date" = "Fecha media";
+
+/* Translated with Microsoft Translator */
+"Medium Time" = "Tiempo medio";
+
 /* No comment provided by engineer. */
 "Merged File" = "Archivo fusionado";
+
+/* Translated with Microsoft Translator */
+"Metadata" = "Metadatos";
 
 /* No comment provided by engineer. */
 "Microphone" = "Micrófono";
 
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "El micrófono y el altavoz se graban en canales diferentes.";
+
+/* Translated with Microsoft Translator */
+"Minutes" = "Actas";
 
 /* No comment provided by engineer. */
 "Mixed" = "Mezcla";
@@ -808,6 +898,9 @@
 "Mixer Sample Rate" = "Tasa de Muestreo del Mezclador";
 
 /* Translated with Microsoft Translator */
+"Month Number" = "Mes Número";
+
+/* Translated with Microsoft Translator */
 "More icons, more innovation." = "Más iconos, más innovación.";
 
 /* Translated with Microsoft Translator */
@@ -821,6 +914,12 @@
 
 /* No comment provided by engineer. */
 "My Favourites" = "Mis favoritos";
+
+/* Translated with Microsoft Translator */
+"Name" = "Nombre";
+
+/* Translated with Microsoft Translator */
+"Name with Alias" = "Nombre con alias";
 
 /* No comment provided by engineer. */
 "Needs all features?" = "¿Necesitas todas las funciones?";
@@ -897,6 +996,9 @@
 /* Translated with Microsoft Translator */
 "Operation Failed" = "Operación fallida";
 
+/* Translated with Microsoft Translator */
+"Operator Name" = "Nombre del operador";
+
 /* No comment provided by engineer. */
 "Optic ID" = "ID óptica";
 
@@ -913,10 +1015,16 @@
 "Outgoing call recording from “%@”." = "Grabación de llamadas salientes de “%@”.";
 
 /* Translated with Microsoft Translator */
+"Page not found" = "Página no encontrada";
+
+/* Translated with Microsoft Translator */
 "Pause Recording" = "Pausa de grabación";
 
 /* No comment provided by engineer. */
 "Paused" = "En pausa";
+
+/* Translated with Microsoft Translator */
+"Period" = "Periodo";
 
 /* No comment provided by engineer. */
 "Phone Address" = "Dirección de teléfono";
@@ -932,6 +1040,9 @@
 
 /* No comment provided by engineer. */
 "Phone Number or Email Address" = "Número de teléfono o dirección de correo electrónico";
+
+/* Translated with Microsoft Translator */
+"Placemark Name" = "Nombre de la marca";
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Reproducir aviso de grabación";
@@ -984,6 +1095,9 @@
 /* Translated with Microsoft Translator */
 "Quick Recording" = "Grabación rápida";
 
+/* Translated with Microsoft Translator */
+"Quit and relaunch to continue using the Pro features." = "Sal y reinicia para seguir utilizando las funciones Pro.";
+
 /* No comment provided by engineer. */
 "Quit this application and try again." = "Salga de esta aplicación e inténtelo de nuevo.";
 
@@ -1019,6 +1133,9 @@
 
 "recording" = "grabación";
 
+/* Translated with Microsoft Translator */
+"Recording (Localized)" = "Grabación (localizada)";
+
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "La grabación comienza cuando tanto las entradas como las salidas de audio están continuamente activas.";
 
@@ -1030,6 +1147,9 @@
 
 /* No comment provided by engineer. */
 "Recording%@_%@" = "Grabación%@_%@";
+
+/* Translated with Microsoft Translator */
+"RECORDING_LOCALIZED" = "Grabación";
 
 /* No comment provided by engineer. */
 "Recordings" = "Grabaciones";
@@ -1112,6 +1232,9 @@
 /* No comment provided by engineer. */
 "Search Recordings…" = "Búsqueda de grabaciones...";
 
+/* Translated with Microsoft Translator */
+"Seconds" = "Segundos";
+
 /* No comment provided by engineer. */
 "Secure Payment" = "Pago seguro";
 
@@ -1130,8 +1253,20 @@
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Semi-transparente";
 
+/* Translated with Microsoft Translator */
+"Sender Name" = "Nombre del remitente";
+
+/* Translated with Microsoft Translator */
+"Sender Phone Address" = "Teléfono del remitente Dirección";
+
+/* Translated with Microsoft Translator */
+"Sender Short Name" = "Nombre corto del remitente";
+
 /* No comment provided by engineer. */
 "Separated Channels" = "Canales separados";
+
+/* Translated with Microsoft Translator */
+"Separators" = "Separadores";
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "Servidor iniciado en: %@";
@@ -1147,6 +1282,18 @@
 
 /* No comment provided by engineer. */
 "Share" = "Compartir";
+
+/* Translated with Microsoft Translator */
+"Short Date" = "Fecha corta";
+
+/* Translated with Microsoft Translator */
+"Short Day of Week String" = "Cadena corta de día de la semana";
+
+/* Translated with Microsoft Translator */
+"Short Month Name" = "Nombre abreviado del mes";
+
+/* Translated with Microsoft Translator */
+"Short Time" = "Poco tiempo";
 
 /* No comment provided by engineer. */
 "Show Bundle Name" = "Mostrar nombre del paquete";
@@ -1183,6 +1330,12 @@
 
 /* No comment provided by engineer. */
 "Software License" = "Licencia de software";
+
+/* Translated with Microsoft Translator */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Pulse “Ver mi cuenta” para comprobar sus pedidos, compras o canjear un código de regalo.";
+
+/* Translated with Microsoft Translator */
+"Space" = "Espacio";
 
 /* No comment provided by engineer. */
 "Speaker" = "Altavoz";
@@ -1324,6 +1477,9 @@
 /* Translated with Microsoft Translator */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Esta grabación es de WeChat, y el “Asistente WeChat” te ayuda a rellenar los nombres de los contactos de WeChat y los comentarios la próxima vez.\nParece que no tienes activado “Asistente WeChat”, ¿quieres activarlo inmediatamente?";
 
+/* Translated with Microsoft Translator */
+"Three-digit Milliseconds" = "Milisegundos de tres dígitos";
+
 /* No comment provided by engineer. */
 "To" = "Hasta";
 
@@ -1371,11 +1527,38 @@
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Desactiva esta opción para que las demás opciones de esta página surtan efecto en la aplicación actual.";
 
+/* Translated with Microsoft Translator */
+"Two-digit Day of Month Number" = "Número de dos dígitos del día del mes";
+
+/* Translated with Microsoft Translator */
+"Two-digit Hours, 12-hour Clock" = "Horas de dos dígitos, Reloj de 12 horas";
+
+/* Translated with Microsoft Translator */
+"Two-digit Hours, 24-hour Clock" = "Horas de dos dígitos, reloj de 24 horas";
+
+/* Translated with Microsoft Translator */
+"Two-digit Minutes" = "Minutos de dos cifras";
+
+/* Translated with Microsoft Translator */
+"Two-digit Month Number" = "Número de dos cifras del mes";
+
+/* Translated with Microsoft Translator */
+"Two-digit Seconds" = "Segundos de dos cifras";
+
+/* Translated with Microsoft Translator */
+"Type to search…" = "Escriba para buscar...";
+
 /* No comment provided by engineer. */
 "Uncompressed" = "Sin comprimir";
 
+/* Translated with Microsoft Translator */
+"Underscore" = "Subrayado";
+
 /* No comment provided by engineer. */
 "Unknown" = "Desconocido";
+
+/* Translated with Microsoft Translator */
+"Unknown Address" = "Dirección desconocida";
 
 /* Translated with Microsoft Translator */
 "Unknown Artist" = "Artista desconocido";
@@ -1445,6 +1628,15 @@
 
 "Utility" = "Utilidad";
 
+/* Translated with Microsoft Translator */
+"Variant" = "Variante";
+
+/* Translated with Microsoft Translator */
+"Variant Capitalized" = "Variante Capitalizada";
+
+/* Translated with Microsoft Translator */
+"Variant Description" = "Descripción de la variante";
+
 /* No comment provided by engineer. */
 "Verification Failed" = "Verificación fallida";
 
@@ -1480,6 +1672,9 @@
 
 /* Translated with Microsoft Translator */
 "View Logs: Launch Agent" = "Ver Registros: Agente de Lanzamiento";
+
+/* Translated with Microsoft Translator */
+"View My Account" = "Ver mi cuenta";
 
 /* Translated with Microsoft Translator */
 "View Recording Details" = "Ver detalles de la grabación";
@@ -1542,13 +1737,16 @@
 "Will start recording automatically on audio or video calls." = "Empezará a grabar automáticamente en llamadas de audio o vídeo.";
 
 /* Translated with Microsoft Translator */
-"Write ID3 tags to the exported audio files." = "Escribe etiquetas ID3 en los archivos de audio exportados.";
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Escribe etiquetas ID3 en los archivos de audio exportados, incluyendo título, artista, álbum, género, año e ilustraciones.";
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Escribe la latitud y la longitud en los metadatos de la grabación.";
 
 /* Translated with Microsoft Translator */
 "Write runtime logs into filesystem. You need to restart services to apply changes." = "Escriba los registros de ejecución en el sistema de archivos. Es necesario reiniciar los servicios para aplicar los cambios.";
+
+/* Translated with Microsoft Translator */
+"Year Month Day" = "Año Mes Día";
 
 /* Translated with Microsoft Translator */
 "YES" = "SÍ";
