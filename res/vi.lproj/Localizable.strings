@@ -270,6 +270,9 @@
 "Check Updates at Launch" = "Check Updates at Launch";
 
 /* TODO */
+"Checking service status" = "Checking service status";
+
+/* TODO */
 "Child Pages" = "Child Pages";
 
 /* No comment provided by engineer. */
@@ -334,6 +337,9 @@
 
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "Các liên hệ trong danh sách này sẽ không được ghi lại trong bất kỳ tình huống nào.";
+
+/* TODO */
+"Contacts Permission Denied" = "Contacts Permission Denied";
 
 /* TODO */
 "Content Sharing" = "Content Sharing";
@@ -514,6 +520,9 @@
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
 
 /* TODO */
+"Done" = "Done";
+
+/* TODO */
 "Don’t ask again" = "Don’t ask again";
 
 /* TODO */
@@ -634,6 +643,9 @@
 /* No comment provided by engineer. */
 "File Size" = "Kích thước tập tin";
 
+/* TODO */
+"Filter" = "Filter";
+
 /* No comment provided by engineer. */
 "Filza Not Installed" = "Filza Không Được Cài Đặt";
 
@@ -654,6 +666,9 @@
 
 /* TODO */
 "Formatted Location" = "Formatted Location";
+
+/* TODO */
+"Forward 10 seconds" = "Forward 10 seconds";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Những câu hỏi thường gặp";
@@ -807,6 +822,9 @@
 /* No comment provided by engineer. */
 "Loading…" = "Đang tải…";
 
+/* TODO */
+"Local Network Permission Denied" = "Local Network Permission Denied";
+
 /* No comment provided by engineer. */
 "Local Storage" = "Lưu trữ cục bộ";
 
@@ -815,6 +833,9 @@
 
 /* No comment provided by engineer. */
 "Location" = "Vị trí";
+
+/* TODO */
+"Location Permission Denied" = "Location Permission Denied";
 
 /* No comment provided by engineer. */
 "Location Services" = "Dịch vụ định vị";
@@ -903,6 +924,9 @@
 /* TODO */
 "More icons, more innovation." = "More icons, more innovation.";
 
+/* TODO */
+"More Options" = "More Options";
+
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Di chuyển các bản ghi âm đã xóa vào một thư mục đặc biệt cho phép bạn khôi phục các mục đã xóa nếu bạn đổi ý hoặc nhận ra rằng bạn cần chúng sau này.";
 
@@ -963,6 +987,9 @@
 /* TODO */
 "Nothing Inside" = "Nothing Inside";
 
+/* TODO */
+"Notification Permission Denied" = "Notification Permission Denied";
+
 /* No comment provided by engineer. */
 "Notifications" = "Thông báo";
 
@@ -1018,6 +1045,9 @@
 "Page not found" = "Page not found";
 
 /* TODO */
+"Pause" = "Pause";
+
+/* TODO */
 "Pause Recording" = "Pause Recording";
 
 /* No comment provided by engineer. */
@@ -1044,8 +1074,14 @@
 /* TODO */
 "Placemark Name" = "Placemark Name";
 
+/* TODO */
+"Play" = "Play";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Phát Cảnh Báo Ghi Âm";
+
+/* TODO */
+"Play/Pause" = "Play/Pause";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Kiểm soát cửa sổ bật lên";
@@ -1136,6 +1172,9 @@
 /* TODO */
 "Recording (Localized)" = "Recording (Localized)";
 
+/* TODO */
+"Recording Options" = "Recording Options";
+
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Ghi âm bắt đầu khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
 
@@ -1168,6 +1207,9 @@
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "Cài đặt lại %@";
+
+/* TODO */
+"Release Notes" = "Release Notes";
 
 /* TODO */
 "Remove All Recordings Permanently" = "Remove All Recordings Permanently";
@@ -1204,6 +1246,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Lựa chọn ngược";
+
+/* TODO */
+"Rewind 5 seconds" = "Rewind 5 seconds";
 
 /* TODO */
 "Root" = "Root";
@@ -1270,6 +1315,15 @@
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "Máy chủ bắt đầu lúc: %@";
+
+/* TODO */
+"Service is alive" = "Service is alive";
+
+/* TODO */
+"Service is dead" = "Service is dead";
+
+/* TODO */
+"Service Status" = "Service Status";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "Đặt tên mới cho bản ghi này hoặc để trống để sử dụng mặc định.";
@@ -1395,6 +1449,9 @@
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Nhấn để thoát";
+
+/* TODO */
+"Tap to open settings" = "Tap to open settings";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Tạm thời bỏ qua";
@@ -1772,3 +1829,6 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Bạn đã nhấn mật khẩu.";
+
+/* TODO */
+"“%@” is not available" = "“%@” is not available";

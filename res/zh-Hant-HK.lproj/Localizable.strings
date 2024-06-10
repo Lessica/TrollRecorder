@@ -269,6 +269,9 @@
 /* TODO */
 "Check Updates at Launch" = "Check Updates at Launch";
 
+/* TODO */
+"Checking service status" = "Checking service status";
+
 /* No comment provided by engineer. */
 "Child Pages" = "子頁面";
 
@@ -335,6 +338,9 @@
 
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "此列表中的聯絡人將不會被錄音";
+
+/* TODO */
+"Contacts Permission Denied" = "Contacts Permission Denied";
 
 /* TODO */
 "Content Sharing" = "Content Sharing";
@@ -514,6 +520,9 @@
 /* No comment provided by engineer. */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你確認要重置軟體授權，并將所有設定還原爲原始值嗎？你的錄音檔案不會被刪除。";
 
+/* TODO */
+"Done" = "Done";
+
 /* No comment provided by engineer. */
 "Don’t ask again" = "不再詢問";
 
@@ -635,6 +644,9 @@
 /* No comment provided by engineer. */
 "File Size" = "檔案大小";
 
+/* TODO */
+"Filter" = "Filter";
+
 /* No comment provided by engineer. */
 "Filza Not Installed" = "Filza 未安裝";
 
@@ -655,6 +667,9 @@
 
 /* TODO */
 "Formatted Location" = "Formatted Location";
+
+/* TODO */
+"Forward 10 seconds" = "Forward 10 seconds";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "獲取幫助";
@@ -808,6 +823,9 @@
 /* No comment provided by engineer. */
 "Loading…" = "載入中…";
 
+/* TODO */
+"Local Network Permission Denied" = "Local Network Permission Denied";
+
 /* No comment provided by engineer. */
 "Local Storage" = "本地儲存";
 
@@ -816,6 +834,9 @@
 
 /* No comment provided by engineer. */
 "Location" = "地理位置";
+
+/* TODO */
+"Location Permission Denied" = "Location Permission Denied";
 
 /* No comment provided by engineer. */
 "Location Services" = "位置服務";
@@ -904,6 +925,9 @@
 /* TODO */
 "More icons, more innovation." = "More icons, more innovation.";
 
+/* TODO */
+"More Options" = "More Options";
+
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "將删除的錄音移動到一個特殊的資料檔案夾，允許你在改變主意或後來意識到需要它們時恢復已删除的項目。";
 
@@ -964,6 +988,9 @@
 /* TODO */
 "Nothing Inside" = "Nothing Inside";
 
+/* TODO */
+"Notification Permission Denied" = "Notification Permission Denied";
+
 /* No comment provided by engineer. */
 "Notifications" = "通知與提醒";
 
@@ -1018,6 +1045,9 @@
 /* TODO */
 "Page not found" = "Page not found";
 
+/* TODO */
+"Pause" = "Pause";
+
 /* No comment provided by engineer. */
 "Pause Recording" = "暫停錄音";
 
@@ -1045,8 +1075,14 @@
 /* TODO */
 "Placemark Name" = "Placemark Name";
 
+/* TODO */
+"Play" = "Play";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音提示";
+
+/* TODO */
+"Play/Pause" = "Play/Pause";
 
 /* No comment provided by engineer. */
 "Popover Control" = "懸浮球";
@@ -1137,6 +1173,9 @@
 /* TODO */
 "Recording (Localized)" = "Recording (Localized)";
 
+/* TODO */
+"Recording Options" = "Recording Options";
+
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "當音訊輸入和輸出都處於持續活躍狀態時，錄音開始。";
 
@@ -1169,6 +1208,9 @@
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "重新安裝 %@";
+
+/* TODO */
+"Release Notes" = "Release Notes";
 
 /* TODO */
 "Remove All Recordings Permanently" = "Remove All Recordings Permanently";
@@ -1205,6 +1247,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "反選";
+
+/* TODO */
+"Rewind 5 seconds" = "Rewind 5 seconds";
 
 /* No comment provided by engineer. */
 "Root" = "根";
@@ -1271,6 +1316,15 @@
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "服務已啓動：%@";
+
+/* TODO */
+"Service is alive" = "Service is alive";
+
+/* TODO */
+"Service is dead" = "Service is dead";
+
+/* TODO */
+"Service Status" = "Service Status";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "爲這段錄音設定一個新的名稱，或者留空使用默認名稱。";
@@ -1396,6 +1450,9 @@
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "輕觸退出";
+
+/* TODO */
+"Tap to open settings" = "Tap to open settings";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暫時忽略";
@@ -1772,3 +1829,6 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "你選擇了密碼驗證。";
+
+/* TODO */
+"“%@” is not available" = "“%@” is not available";

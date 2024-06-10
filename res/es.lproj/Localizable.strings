@@ -270,6 +270,9 @@
 "Check Updates at Launch" = "Compruebe las actualizaciones en el momento del lanzamiento";
 
 /* Translated with Microsoft Translator */
+"Checking service status" = "Comprobar el estado del servicio";
+
+/* Translated with Microsoft Translator */
 "Child Pages" = "Páginas para niños";
 
 /* No comment provided by engineer. */
@@ -334,6 +337,9 @@
 
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "Los contactos de esta lista no se grabarán en ninguna situación.";
+
+/* Translated with Microsoft Translator */
+"Contacts Permission Denied" = "Contactos Permiso denegado";
 
 /* Translated with Microsoft Translator */
 "Content Sharing" = "Compartir contenidos";
@@ -514,6 +520,9 @@
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "¿Desea restablecer la licencia de software y restaurar todos los ajustes a sus valores por defecto? Sus grabaciones no se eliminarán.";
 
 /* Translated with Microsoft Translator */
+"Done" = "Hecho";
+
+/* Translated with Microsoft Translator */
 "Don’t ask again" = "No vuelvas a preguntar";
 
 /* Translated with Microsoft Translator */
@@ -634,6 +643,9 @@
 /* No comment provided by engineer. */
 "File Size" = "Tamaño de archivo";
 
+/* Translated with Microsoft Translator */
+"Filter" = "Filtro";
+
 /* No comment provided by engineer. */
 "Filza Not Installed" = "Filza no instalado";
 
@@ -654,6 +666,9 @@
 
 /* Translated with Microsoft Translator */
 "Formatted Location" = "Ubicación formateada";
+
+/* Translated with Microsoft Translator */
+"Forward 10 seconds" = "Adelante 10 segundos";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Obtener ayuda y preguntas frecuentes";
@@ -807,6 +822,9 @@
 /* No comment provided by engineer. */
 "Loading…" = "Cargando...";
 
+/* Translated with Microsoft Translator */
+"Local Network Permission Denied" = "Permiso de red local denegado";
+
 /* No comment provided by engineer. */
 "Local Storage" = "Almacenamiento local";
 
@@ -815,6 +833,9 @@
 
 /* No comment provided by engineer. */
 "Location" = "Ubicación";
+
+/* Translated with Microsoft Translator */
+"Location Permission Denied" = "Ubicación Permiso denegado";
 
 /* No comment provided by engineer. */
 "Location Services" = "Servicios de ubicación";
@@ -904,6 +925,9 @@
 "More icons, more innovation." = "Más iconos, más innovación.";
 
 /* Translated with Microsoft Translator */
+"More Options" = "Más opciones";
+
+/* Translated with Microsoft Translator */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Mueve las grabaciones borradas a una carpeta especial que te permita restaurarlas si cambias de opinión o te das cuenta de que las necesitas más adelante.";
 
 /* No comment provided by engineer. */
@@ -963,6 +987,9 @@
 /* Translated with Microsoft Translator */
 "Nothing Inside" = "Nada en el interior";
 
+/* Translated with Microsoft Translator */
+"Notification Permission Denied" = "Notificación Permiso denegado";
+
 /* No comment provided by engineer. */
 "Notifications" = "Notificaciones";
 
@@ -1018,6 +1045,9 @@
 "Page not found" = "Página no encontrada";
 
 /* Translated with Microsoft Translator */
+"Pause" = "Pausa";
+
+/* Translated with Microsoft Translator */
 "Pause Recording" = "Pausa de grabación";
 
 /* No comment provided by engineer. */
@@ -1044,8 +1074,14 @@
 /* Translated with Microsoft Translator */
 "Placemark Name" = "Nombre de la marca";
 
+/* Translated with Microsoft Translator */
+"Play" = "Jugar";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Reproducir aviso de grabación";
+
+/* Translated with Microsoft Translator */
+"Play/Pause" = "Reproducir/Pausa";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Control emergente";
@@ -1136,6 +1172,9 @@
 /* Translated with Microsoft Translator */
 "Recording (Localized)" = "Grabación (localizada)";
 
+/* Translated with Microsoft Translator */
+"Recording Options" = "Opciones de grabación";
+
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "La grabación comienza cuando tanto las entradas como las salidas de audio están continuamente activas.";
 
@@ -1168,6 +1207,9 @@
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "Volver a instalar %@";
+
+/* Translated with Microsoft Translator */
+"Release Notes" = "Notas de publicación";
 
 /* Translated with Microsoft Translator */
 "Remove All Recordings Permanently" = "Eliminar todas las grabaciones permanentemente";
@@ -1204,6 +1246,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Selección inversa";
+
+/* Translated with Microsoft Translator */
+"Rewind 5 seconds" = "Rebobinar 5 segundos";
 
 /* Translated with Microsoft Translator */
 "Root" = "Raíz";
@@ -1270,6 +1315,15 @@
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "Servidor iniciado en: %@";
+
+/* Translated with Microsoft Translator */
+"Service is alive" = "El servicio está vivo";
+
+/* Translated with Microsoft Translator */
+"Service is dead" = "El servicio ha muerto";
+
+/* Translated with Microsoft Translator */
+"Service Status" = "Estado del servicio";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "Establece un nuevo nombre para esta grabación, o déjalo en blanco para usar el predeterminado.";
@@ -1395,6 +1449,9 @@
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Toque para salir";
+
+/* Translated with Microsoft Translator */
+"Tap to open settings" = "Pulse para abrir la configuración";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Ignorar temporalmente";
@@ -1771,3 +1828,6 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Has pulsado contraseña.";
+
+/* Translated with Microsoft Translator */
+"“%@” is not available" = "“%@” no está disponible";

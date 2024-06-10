@@ -270,6 +270,9 @@
 "Check Updates at Launch" = "启动时检查更新";
 
 /* No comment provided by engineer. */
+"Checking service status" = "检查服务状态";
+
+/* No comment provided by engineer. */
 "Child Pages" = "子页面";
 
 /* No comment provided by engineer. */
@@ -335,6 +338,9 @@
 
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "此列表中的联系人将不会被录音。";
+
+/* No comment provided by engineer. */
+"Contacts Permission Denied" = "联系人被拒绝访问";
 
 /* No comment provided by engineer. */
 "Content Sharing" = "内容共享";
@@ -516,6 +522,9 @@
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你确定要重置软件许可，并将所有设置还原为默认值吗？你的录音不会被删除。";
 
 /* No comment provided by engineer. */
+"Done" = "已完成";
+
+/* No comment provided by engineer. */
 "Don’t ask again" = "不再询问";
 
 /* No comment provided by engineer. */
@@ -637,6 +646,9 @@
 "File Size" = "文件大小";
 
 /* No comment provided by engineer. */
+"Filter" = "过滤器";
+
+/* No comment provided by engineer. */
 "Filza Not Installed" = "Filza 未安装";
 
 /* No comment provided by engineer. */
@@ -656,6 +668,9 @@
 
 /* No comment provided by engineer. */
 "Formatted Location" = "地理位置（格式化）";
+
+/* No comment provided by engineer. */
+"Forward 10 seconds" = "前进 10 秒";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "获取帮助";
@@ -810,6 +825,9 @@
 "Loading…" = "载入中…";
 
 /* No comment provided by engineer. */
+"Local Network Permission Denied" = "本地网络被拒绝访问";
+
+/* No comment provided by engineer. */
 "Local Storage" = "本地存储";
 
 /* No comment provided by engineer. */
@@ -817,6 +835,9 @@
 
 /* No comment provided by engineer. */
 "Location" = "地理位置";
+
+/* No comment provided by engineer. */
+"Location Permission Denied" = "地理位置被拒绝访问";
 
 /* No comment provided by engineer. */
 "Location Services" = "位置服务";
@@ -906,6 +927,9 @@
 "More icons, more innovation." = "多点图标，多点新意。";
 
 /* No comment provided by engineer. */
+"More Options" = "更多选项";
+
+/* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "将删除的录音移动到一个特殊的文件夹，允许你在改变主意或后来意识到需要它们时恢复已删除的项目。";
 
 /* No comment provided by engineer. */
@@ -966,6 +990,9 @@
 "Nothing Inside" = "这里面空无一物";
 
 /* No comment provided by engineer. */
+"Notification Permission Denied" = "推送通知被拒绝访问";
+
+/* No comment provided by engineer. */
 "Notifications" = "通知与提醒";
 
 /* ObjectTableViewController */
@@ -1020,6 +1047,9 @@
 "Page not found" = "未找到页面";
 
 /* No comment provided by engineer. */
+"Pause" = "暂停";
+
+/* No comment provided by engineer. */
 "Pause Recording" = "暂停录音";
 
 /* No comment provided by engineer. */
@@ -1047,7 +1077,13 @@
 "Placemark Name" = "地标名称";
 
 /* No comment provided by engineer. */
+"Play" = "播放";
+
+/* No comment provided by engineer. */
 "Play Recording Warning" = "播放录音提示";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "播放/暂停";
 
 /* No comment provided by engineer. */
 "Popover Control" = "悬浮球";
@@ -1139,6 +1175,9 @@
 "Recording (Localized)" = "录音";
 
 /* No comment provided by engineer. */
+"Recording Options" = "录音选项";
+
+/* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，录音开始。";
 
 /* No comment provided by engineer. */
@@ -1170,6 +1209,9 @@
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "重新安装 %@";
+
+/* No comment provided by engineer. */
+"Release Notes" = "发行说明";
 
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "永久删除所有录音";
@@ -1206,6 +1248,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "反选";
+
+/* No comment provided by engineer. */
+"Rewind 5 seconds" = "倒回 5 秒钟";
 
 /* ObjectTableViewController */
 "Root" = "根";
@@ -1272,6 +1317,15 @@
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "服务已启动：%@";
+
+/* No comment provided by engineer. */
+"Service is alive" = "服务正常运行";
+
+/* No comment provided by engineer. */
+"Service is dead" = "服务已停止";
+
+/* No comment provided by engineer. */
+"Service Status" = "服务状态";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "为这段录音设置一个新的名称，或者留空使用默认名称。";
@@ -1397,6 +1451,9 @@
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "轻点退出";
+
+/* No comment provided by engineer. */
+"Tap to open settings" = "轻按以打开设置";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暂时忽略";
@@ -1773,3 +1830,6 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "你选择了密码验证。";
+
+/* No comment provided by engineer. */
+"“%@” is not available" = "“%@” 不可用";

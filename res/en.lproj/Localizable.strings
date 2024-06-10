@@ -270,6 +270,9 @@
 "Check Updates at Launch" = "Check Updates at Launch";
 
 /* No comment provided by engineer. */
+"Checking service status" = "Checking service status";
+
+/* No comment provided by engineer. */
 "Child Pages" = "Child Pages";
 
 /* No comment provided by engineer. */
@@ -335,6 +338,9 @@
 
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "Contacts in this list will not be recorded in any situation.";
+
+/* No comment provided by engineer. */
+"Contacts Permission Denied" = "Contacts Permission Denied";
 
 /* No comment provided by engineer. */
 "Content Sharing" = "Content Sharing";
@@ -516,6 +522,9 @@
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
 
 /* No comment provided by engineer. */
+"Done" = "Done";
+
+/* No comment provided by engineer. */
 "Don’t ask again" = "Don’t ask again";
 
 /* No comment provided by engineer. */
@@ -637,6 +646,9 @@
 "File Size" = "File Size";
 
 /* No comment provided by engineer. */
+"Filter" = "Filter";
+
+/* No comment provided by engineer. */
 "Filza Not Installed" = "Filza Not Installed";
 
 /* No comment provided by engineer. */
@@ -656,6 +668,9 @@
 
 /* No comment provided by engineer. */
 "Formatted Location" = "Formatted Location";
+
+/* No comment provided by engineer. */
+"Forward 10 seconds" = "Forward 10 seconds";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Frequently Asked Questions";
@@ -810,6 +825,9 @@
 "Loading…" = "Loading…";
 
 /* No comment provided by engineer. */
+"Local Network Permission Denied" = "Local Network Permission Denied";
+
+/* No comment provided by engineer. */
 "Local Storage" = "Local Storage";
 
 /* No comment provided by engineer. */
@@ -817,6 +835,9 @@
 
 /* No comment provided by engineer. */
 "Location" = "Location";
+
+/* No comment provided by engineer. */
+"Location Permission Denied" = "Location Permission Denied";
 
 /* No comment provided by engineer. */
 "Location Services" = "Location Services";
@@ -906,6 +927,9 @@
 "More icons, more innovation." = "More icons, more innovation.";
 
 /* No comment provided by engineer. */
+"More Options" = "More Options";
+
+/* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later.";
 
 /* No comment provided by engineer. */
@@ -966,6 +990,9 @@
 "Nothing Inside" = "Nothing Inside";
 
 /* No comment provided by engineer. */
+"Notification Permission Denied" = "Notification Permission Denied";
+
+/* No comment provided by engineer. */
 "Notifications" = "Notifications";
 
 /* ObjectTableViewController */
@@ -1020,6 +1047,9 @@
 "Page not found" = "Page not found";
 
 /* No comment provided by engineer. */
+"Pause" = "Pause";
+
+/* No comment provided by engineer. */
 "Pause Recording" = "Pause Recording";
 
 /* No comment provided by engineer. */
@@ -1047,7 +1077,13 @@
 "Placemark Name" = "Placemark Name";
 
 /* No comment provided by engineer. */
+"Play" = "Play";
+
+/* No comment provided by engineer. */
 "Play Recording Warning" = "Play Recording Warning";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Play/Pause";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Popover Control";
@@ -1139,6 +1175,9 @@
 "Recording (Localized)" = "Recording (Localized)";
 
 /* No comment provided by engineer. */
+"Recording Options" = "Recording Options";
+
+/* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Recording starts when both the audio inputs and outputs are continuously active.";
 
 /* No comment provided by engineer. */
@@ -1170,6 +1209,9 @@
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "Reinstall %@";
+
+/* No comment provided by engineer. */
+"Release Notes" = "Release Notes";
 
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "Remove All Recordings Permanently";
@@ -1206,6 +1248,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Reverse Selection";
+
+/* No comment provided by engineer. */
+"Rewind 5 seconds" = "Rewind 5 seconds";
 
 /* ObjectTableViewController */
 "Root" = "Root";
@@ -1272,6 +1317,15 @@
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "Server started at: %@";
+
+/* No comment provided by engineer. */
+"Service is alive" = "Service is alive";
+
+/* No comment provided by engineer. */
+"Service is dead" = "Service is dead";
+
+/* No comment provided by engineer. */
+"Service Status" = "Service Status";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "Set a new name for this recording, or leave blank to use default.";
@@ -1397,6 +1451,9 @@
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Tap to Exit";
+
+/* No comment provided by engineer. */
+"Tap to open settings" = "Tap to open settings";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Temporary Ignore";
@@ -1773,3 +1830,6 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "You’ve pressed password.";
+
+/* No comment provided by engineer. */
+"“%@” is not available" = "“%@” is not available";

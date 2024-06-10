@@ -270,6 +270,9 @@
 "Check Updates at Launch" = "Vérifier les mises à jour au moment du lancement";
 
 /* Translated with Microsoft Translator */
+"Checking service status" = "Vérification de l'état des services";
+
+/* Translated with Microsoft Translator */
 "Child Pages" = "Pages des enfants";
 
 /* No comment provided by engineer. */
@@ -334,6 +337,9 @@
 
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "Les contacts de cette liste ne seront enregistrés dans aucune situation.";
+
+/* Translated with Microsoft Translator */
+"Contacts Permission Denied" = "Contacts Permission refusée";
 
 /* Translated with Microsoft Translator */
 "Content Sharing" = "Partage de contenu";
@@ -514,6 +520,9 @@
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Voulez-vous réinitialiser la licence du logiciel et rétablir tous les paramètres à leurs valeurs par défaut ? Vos enregistrements ne seront pas supprimés.";
 
 /* Translated with Microsoft Translator */
+"Done" = "Terminé";
+
+/* Translated with Microsoft Translator */
 "Don’t ask again" = "Ne demandez plus rien";
 
 /* Translated with Microsoft Translator */
@@ -634,6 +643,9 @@
 /* No comment provided by engineer. */
 "File Size" = "Taille du fichier";
 
+/* Translated with Microsoft Translator */
+"Filter" = "Filtre";
+
 /* No comment provided by engineer. */
 "Filza Not Installed" = "Filza non installé";
 
@@ -654,6 +666,9 @@
 
 /* Translated with Microsoft Translator */
 "Formatted Location" = "Emplacement formaté";
+
+/* Translated with Microsoft Translator */
+"Forward 10 seconds" = "Avance de 10 secondes";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Questions fréquemment posées";
@@ -807,6 +822,9 @@
 /* No comment provided by engineer. */
 "Loading…" = "Chargement…";
 
+/* Translated with Microsoft Translator */
+"Local Network Permission Denied" = "Permission du réseau local refusée";
+
 /* No comment provided by engineer. */
 "Local Storage" = "Stockage local";
 
@@ -815,6 +833,9 @@
 
 /* No comment provided by engineer. */
 "Location" = "Emplacement";
+
+/* Translated with Microsoft Translator */
+"Location Permission Denied" = "Permission de localisation refusée";
 
 /* No comment provided by engineer. */
 "Location Services" = "Services de localisation";
@@ -903,6 +924,9 @@
 /* Translated with Microsoft Translator */
 "More icons, more innovation." = "Plus d'icônes, plus d'innovation.";
 
+/* Translated with Microsoft Translator */
+"More Options" = "Plus d'options";
+
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Déplacer les enregistrements supprimés vers un dossier spécial qui vous permet de restaurer les éléments supprimés si vous changez d'avis ou réalisez que vous en avez besoin plus tard.";
 
@@ -964,6 +988,9 @@
 "Nothing Inside" = "Rien à l'intérieur";
 
 /* Translated with Microsoft Translator */
+"Notification Permission Denied" = "Notification Permission refusée";
+
+/* Translated with Microsoft Translator */
 "Notifications" = "Notifications";
 
 /* Translated with Microsoft Translator */
@@ -1018,6 +1045,9 @@
 "Page not found" = "Page non trouvée";
 
 /* Translated with Microsoft Translator */
+"Pause" = "Pause";
+
+/* Translated with Microsoft Translator */
 "Pause Recording" = "Pause de l'enregistrement";
 
 /* No comment provided by engineer. */
@@ -1044,8 +1074,14 @@
 /* Translated with Microsoft Translator */
 "Placemark Name" = "Nom du repère";
 
+/* Translated with Microsoft Translator */
+"Play" = "Jouer";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Avertissement de lecture d'enregistrement";
+
+/* Translated with Microsoft Translator */
+"Play/Pause" = "Lecture/Pause";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Contrôle de fenêtre contextuelle";
@@ -1136,6 +1172,9 @@
 /* Translated with Microsoft Translator */
 "Recording (Localized)" = "Enregistrement (localisé)";
 
+/* Translated with Microsoft Translator */
+"Recording Options" = "Options d'enregistrement";
+
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "L'enregistrement démarre lorsque à la fois les entrées et les sorties audio sont continuellement actives.";
 
@@ -1168,6 +1207,9 @@
 
 /* No comment provided by engineer. */
 "Reinstall %@" = "Réinstaller %@";
+
+/* Translated with Microsoft Translator */
+"Release Notes" = "Notes de mise à jour";
 
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "Supprimer tous les enregistrements de façon permanente";
@@ -1204,6 +1246,9 @@
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Sélection inverse";
+
+/* Translated with Microsoft Translator */
+"Rewind 5 seconds" = "Revenir en arrière de 5 secondes";
 
 /* Translated with Microsoft Translator */
 "Root" = "Racine";
@@ -1270,6 +1315,15 @@
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "Serveur démarré à : %@";
+
+/* Translated with Microsoft Translator */
+"Service is alive" = "Le service est vivant";
+
+/* Translated with Microsoft Translator */
+"Service is dead" = "Le service est mort";
+
+/* Translated with Microsoft Translator */
+"Service Status" = "Statut du service";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "Définissez un nouveau nom pour cet enregistrement, ou laissez vide pour utiliser le nom par défaut.";
@@ -1395,6 +1449,9 @@
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Touchez pour quitter";
+
+/* Translated with Microsoft Translator */
+"Tap to open settings" = "Appuyez sur pour ouvrir les paramètres";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Ignorer temporairement";
@@ -1771,3 +1828,6 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Vous avez appuyé sur Mot de passe.";
+
+/* Translated with Microsoft Translator */
+"“%@” is not available" = "“%@” n'est pas disponible";
