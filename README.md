@@ -45,6 +45,12 @@ A botch job is a waste of time. That's why we always built our app in the best q
 - [ ] Record like Voice Memos
 - [ ] Built-In Audio Editor
 
+## Video Introduction
+
+<a href="https://www.youtube.com/watch?v=3aDnHGMbHk8">
+   <img src="https://img.youtube.com/vi/3aDnHGMbHk8/0.jpg" style="width:33%;">
+</a>
+
 ## Special Thanks
 
 - [AudioRecorder XS](https://limneos.net/audiorecorderxs/), [User Interface without SpringBoard](https://github.com/limneos/UIDaemon) and [iOS Runtime Headers](https://developer.limneos.net/) by [@limneos](https://twitter.com/limneos), one of my favourite developer.
