@@ -20,9 +20,6 @@
 "%d Exclusive Features" = "%d Fonctionnalités exclusives";
 
 /* No comment provided by engineer. */
-"%d recordings" = "%d enregistrements";
-
-/* No comment provided by engineer. */
 "%ld Recording" = "%ld Enregistrement";
 
 /* No comment provided by engineer. */
@@ -158,9 +155,6 @@
 /* No comment provided by engineer. */
 "Applications" = "Applications";
 
-/* Translated with Microsoft Translator */
-"Archive" = "Archives";
-
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "À la fin de l'enregistrement, les fichiers audio de chaque canal pendant l'enregistrement sont conservés.";
 
@@ -175,6 +169,9 @@
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "Enregistrement automatique";
+
+/* Translated with Microsoft Translator */
+"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "Créez automatiquement des archives ZIP pour les enregistrements primaires mixés et combinés chaque mois, et stockez-les dans iCloud Drive.";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Activer automatiquement les services en arrière-plan lorsque l'appareil est redémarré et déverrouillé. Pour activer cette fonctionnalité, le widget TrollRecorder doit être ajouté n'importe où sur l'écran d'accueil.";
@@ -417,18 +414,6 @@
 /* Translated with Microsoft Translator */
 "Debugging" = "Débogage";
 
-/* Translated with Microsoft Translator */
-"Decoded User Location" = "Localisation décodée de l'utilisateur";
-
-/* Translated with Microsoft Translator */
-"deflate failed" = "deflate a échoué";
-
-/* Translated with Microsoft Translator */
-"deflateEnd failed" = "deflateEnd a échoué";
-
-/* Translated with Microsoft Translator */
-"deflateInit2 failed" = "deflateInit2 a échoué";
-
 /* No comment provided by engineer. */
 "Delete" = "Supprimer";
 
@@ -645,9 +630,6 @@
 
 /* Translated with Microsoft Translator */
 "Filter" = "Filtre";
-
-/* No comment provided by engineer. */
-"Filza Not Installed" = "Filza non installé";
 
 /* No comment provided by engineer. */
 "Finalizing" = "Finalisation";
@@ -1012,13 +994,7 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "Ouvrir dans Filza";
 
-/* No comment provided by engineer. */
-"Open Recycle Bin" = "Ouvrir la corbeille de recyclage";
-
 "Open Troll Recorder" = "Ouvrir l'enregistreur de troll";
-
-/* No comment provided by engineer. */
-"Open “Filza File Manager” to view or recover your recordings." = "Ouvrez 'Gestionnaire de fichiers Filza' pour afficher ou récupérer vos enregistrements.";
 
 /* Translated with Microsoft Translator */
 "Operation Failed" = "Échec de l'opération";
@@ -1126,9 +1102,6 @@
 "Purchase" = "Achat";
 
 /* Translated with Microsoft Translator */
-"Purge Recycle Bin" = "Purger la corbeille";
-
-/* Translated with Microsoft Translator */
 "Quick Recording" = "Enregistrement rapide";
 
 /* Translated with Microsoft Translator */
@@ -1184,9 +1157,6 @@
 /* Translated with Microsoft Translator */
 "Recording will begin when the call is answered." = "L'enregistrement commencera lorsque l'appel sera pris.";
 
-/* No comment provided by engineer. */
-"Recording%@_%@" = "Enregistrement%@_%@";
-
 /* Translated with Microsoft Translator */
 "RECORDING_LOCALIZED" = "Enregistrement";
 
@@ -1197,16 +1167,10 @@
 "Recordings here are permanently removed after 30 days." = "Les enregistrements sont définitivement supprimés au bout de 30 jours.";
 
 /* No comment provided by engineer. */
-"Recover Files" = "Récupérer des fichiers";
-
-/* No comment provided by engineer. */
 "Recycle Bin" = "Corbeille";
 
 /* No comment provided by engineer. */
 "Regular" = "Ordinaire";
-
-/* No comment provided by engineer. */
-"Reinstall %@" = "Réinstaller %@";
 
 /* Translated with Microsoft Translator */
 "Release Notes" = "Notes de mise à jour";
@@ -1384,6 +1348,9 @@
 
 /* No comment provided by engineer. */
 "Smaller" = "Plus petit";
+
+/* Translated with Microsoft Translator */
+"Smart Cloud Archive" = "Smart Cloud Archive";
 
 /* No comment provided by engineer. */
 "Software License" = "Licence logicielle";
@@ -1820,8 +1787,11 @@
 /* Translated with Microsoft Translator */
 "You may need to reboot your device to make this application work properly." = "Il se peut que vous deviez redémarrer votre appareil pour que cette application fonctionne correctement.";
 
-/* No comment provided by engineer. */
-"You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "Vous devez installer « Filza File Manager » avec le schéma d'URL activé pour afficher ou récupérer vos enregistrements.";
+/* Translated with Microsoft Translator */
+"You’re now using the free version of “TrollRecorder JB”." = "Vous utilisez maintenant la version gratuite de “TrollRecorder JB”.";
+
+/* Translated with Microsoft Translator */
+"You’re now using the free version of “TrollRecorder”." = "Vous utilisez maintenant la version gratuite de “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "Vous avez activé l'authentification biométrique, il est donc nécessaire de vérifier votre identité.";

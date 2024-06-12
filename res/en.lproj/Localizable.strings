@@ -20,9 +20,6 @@
 "%d Exclusive Features" = "%d Exclusive Features";
 
 /* No comment provided by engineer. */
-"%d recordings" = "%d recordings";
-
-/* No comment provided by engineer. */
 "%ld Recording" = "%ld Recording";
 
 /* No comment provided by engineer. */
@@ -159,9 +156,6 @@
 "Applications" = "Applications";
 
 /* No comment provided by engineer. */
-"Archive" = "Archive";
-
-/* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "At the end of recording, the audio files of each channel during recording are retained.";
 
 /* No comment provided by engineer. */
@@ -175,6 +169,9 @@
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "Automatic Recording";
+
+/* No comment provided by engineer. */
+"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive.";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen.";
@@ -419,18 +416,6 @@
 "Debugging" = "Debugging";
 
 /* No comment provided by engineer. */
-"Decoded User Location" = "Decoded User Location";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate failed";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 failed";
-
-/* No comment provided by engineer. */
 "Delete" = "Delete";
 
 /* No comment provided by engineer. */
@@ -647,9 +632,6 @@
 
 /* No comment provided by engineer. */
 "Filter" = "Filter";
-
-/* No comment provided by engineer. */
-"Filza Not Installed" = "Filza Not Installed";
 
 /* No comment provided by engineer. */
 "Finalizing" = "Finalizing";
@@ -1014,13 +996,7 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "Open in Filza";
 
-/* No comment provided by engineer. */
-"Open Recycle Bin" = "Open Recycle Bin";
-
 "Open Troll Recorder" = "Open Troll Recorder";
-
-/* No comment provided by engineer. */
-"Open “Filza File Manager” to view or recover your recordings." = "Open “Filza File Manager” to view or recover your recordings.";
 
 /* No comment provided by engineer. */
 "Operation Failed" = "Operation Failed";
@@ -1128,9 +1104,6 @@
 "Purchase" = "Purchase";
 
 /* No comment provided by engineer. */
-"Purge Recycle Bin" = "Purge Recycle Bin";
-
-/* No comment provided by engineer. */
 "Quick Recording" = "Quick Recording";
 
 /* No comment provided by engineer. */
@@ -1187,9 +1160,6 @@
 "Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* No comment provided by engineer. */
-"Recording%@_%@" = "Recording%@_%@";
-
-/* No comment provided by engineer. */
 "RECORDING_LOCALIZED" = "Recording";
 
 /* No comment provided by engineer. */
@@ -1199,16 +1169,10 @@
 "Recordings here are permanently removed after 30 days." = "Recordings here are permanently removed after 30 days.";
 
 /* No comment provided by engineer. */
-"Recover Files" = "Recover Files";
-
-/* No comment provided by engineer. */
 "Recycle Bin" = "Recycle Bin";
 
 /* No comment provided by engineer. */
 "Regular" = "Regular";
-
-/* No comment provided by engineer. */
-"Reinstall %@" = "Reinstall %@";
 
 /* No comment provided by engineer. */
 "Release Notes" = "Release Notes";
@@ -1386,6 +1350,9 @@
 
 /* No comment provided by engineer. */
 "Smaller" = "Smaller";
+
+/* No comment provided by engineer. */
+"Smart Cloud Archive" = "Smart Cloud Archive";
 
 /* No comment provided by engineer. */
 "Software License" = "Software License";
@@ -1823,7 +1790,10 @@
 "You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
 
 /* No comment provided by engineer. */
-"You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings.";
+"You’re now using the free version of “TrollRecorder JB”." = "You’re now using the free version of “TrollRecorder JB”.";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder”." = "You’re now using the free version of “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "You’ve enabled biometric authentication so it’s required to verify your identity.";

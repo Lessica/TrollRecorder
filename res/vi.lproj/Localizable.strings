@@ -20,9 +20,6 @@
 "%d Exclusive Features" = "%d Các tính năng độc quyền";
 
 /* No comment provided by engineer. */
-"%d recordings" = "%d các bản ghi âm";
-
-/* No comment provided by engineer. */
 "%ld Recording" = "%ld Ghi";
 
 /* No comment provided by engineer. */
@@ -158,9 +155,6 @@
 /* No comment provided by engineer. */
 "Applications" = "Các ứng dụng";
 
-/* TODO */
-"Archive" = "Archive";
-
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "Vào cuối quá trình ghi âm, các tệp âm thanh của mỗi kênh trong quá trình ghi âm được giữ lại.";
 
@@ -175,6 +169,9 @@
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "Ghi âm tự động";
+
+/* TODO */
+"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive.";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Tự động kích hoạt các dịch vụ nền khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình chính.";
@@ -417,18 +414,6 @@
 /* TODO */
 "Debugging" = "Debugging";
 
-/* TODO */
-"Decoded User Location" = "Decoded User Location";
-
-/* TODO */
-"deflate failed" = "deflate failed";
-
-/* TODO */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* TODO */
-"deflateInit2 failed" = "deflateInit2 failed";
-
 /* No comment provided by engineer. */
 "Delete" = "Xoá";
 
@@ -645,9 +630,6 @@
 
 /* TODO */
 "Filter" = "Filter";
-
-/* No comment provided by engineer. */
-"Filza Not Installed" = "Filza Không Được Cài Đặt";
 
 /* No comment provided by engineer. */
 "Finalizing" = "Đang hoàn thiện";
@@ -1012,13 +994,7 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "Mở Trong Filza";
 
-/* No comment provided by engineer. */
-"Open Recycle Bin" = "Mở thùng rác";
-
 "Open Troll Recorder" = "Mở Troll Recorder";
-
-/* No comment provided by engineer. */
-"Open “Filza File Manager” to view or recover your recordings." = "Mở “Trình quản lý tệp Filza” để xem hoặc khôi phục các bản ghi âm của bạn.";
 
 /* TODO */
 "Operation Failed" = "Operation Failed";
@@ -1125,9 +1101,6 @@
 /* No comment provided by engineer. */
 "Purchase" = "Mua";
 
-/* TODO */
-"Purge Recycle Bin" = "Purge Recycle Bin";
-
 /* No comment provided by engineer. */
 "Quick Recording" = "Ghi âm nhanh";
 
@@ -1184,9 +1157,6 @@
 /* TODO */
 "Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
-/* No comment provided by engineer. */
-"Recording%@_%@" = "Đang ghi%@_%@";
-
 /* TODO */
 "RECORDING_LOCALIZED" = "Recording";
 
@@ -1196,17 +1166,11 @@
 /* TODO */
 "Recordings here are permanently removed after 30 days." = "Recordings here are permanently removed after 30 days.";
 
-/* No comment provided by engineer. */
-"Recover Files" = "Khôi phục các tập tin";
-
 /* TODO */
 "Recycle Bin" = "Recycle Bin";
 
 /* No comment provided by engineer. */
 "Regular" = "Thường xuyên";
-
-/* No comment provided by engineer. */
-"Reinstall %@" = "Cài đặt lại %@";
 
 /* TODO */
 "Release Notes" = "Release Notes";
@@ -1384,6 +1348,9 @@
 
 /* No comment provided by engineer. */
 "Smaller" = "Nhỏ hơn";
+
+/* TODO */
+"Smart Cloud Archive" = "Smart Cloud Archive";
 
 /* No comment provided by engineer. */
 "Software License" = "Giấy phép phần mềm";
@@ -1821,8 +1788,11 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 /* TODO */
 "You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
 
-/* No comment provided by engineer. */
-"You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "Bạn cần cài đặt “Trình quản lý tệp Filza” với lược đồ url được bật để xem hoặc khôi phục các bản ghi âm của bạn.";
+/* TODO */
+"You’re now using the free version of “TrollRecorder JB”." = "You’re now using the free version of “TrollRecorder JB”.";
+
+/* TODO */
+"You’re now using the free version of “TrollRecorder”." = "You’re now using the free version of “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "Bạn đã bật xác thực sinh trắc học nên cần phải xác minh danh tính của bạn.";

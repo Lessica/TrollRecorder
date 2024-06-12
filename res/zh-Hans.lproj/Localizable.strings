@@ -20,9 +20,6 @@
 "%d Exclusive Features" = "超过 %d 个专属功能";
 
 /* No comment provided by engineer. */
-"%d recordings" = "%d 条录音";
-
-/* No comment provided by engineer. */
 "%ld Recording" = "%ld 条录音";
 
 /* No comment provided by engineer. */
@@ -159,9 +156,6 @@
 "Applications" = "应用程序";
 
 /* No comment provided by engineer. */
-"Archive" = "归档";
-
-/* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多储存空间，请谨慎开启。";
 
 /* No comment provided by engineer. */
@@ -175,6 +169,9 @@
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "自动录音";
+
+/* No comment provided by engineer. */
+"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "每月自动为混合和组合的主要录音创建 ZIP 档案，并将其存储在 iCloud Drive 中。";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "当设备重新启动并解锁时，自动启用后台服务。需要将 “巨魔录音机” 小组件添加到主屏幕任意位置才能使此选项生效。";
@@ -231,7 +228,7 @@
 "bottom edge" = "底边";
 
 /* No comment provided by engineer. */
-"Build and use a custom export name template for exported audio files." = "为导出的音频文件创建并使用自定义文件名称模板。";
+"Build and use a custom export name template for exported audio files." = "为导出或归档的音频文件创建并使用自定义文件名称模板。";
 
 /* No comment provided by engineer. */
 "Bundle Display Name" = "捆绑包显示名称";
@@ -417,18 +414,6 @@
 
 /* No comment provided by engineer. */
 "Debugging" = "调试";
-
-/* No comment provided by engineer. */
-"Decoded User Location" = "地理位置";
-
-/* No comment provided by engineer. */
-"deflate failed" = "deflate 失败";
-
-/* No comment provided by engineer. */
-"deflateEnd failed" = "deflateEnd 失败";
-
-/* No comment provided by engineer. */
-"deflateInit2 failed" = "deflateInit2 失败";
 
 /* No comment provided by engineer. */
 "Delete" = "删除";
@@ -649,9 +634,6 @@
 "Filter" = "过滤器";
 
 /* No comment provided by engineer. */
-"Filza Not Installed" = "Filza 未安装";
-
-/* No comment provided by engineer. */
 "Finalizing" = "完成中";
 
 /* ObjectTableViewController */
@@ -780,7 +762,7 @@
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安装 “压缩音频” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以将你的音频压缩为 AAC/AIFF 格式。";
 
 /* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安装 “制作归档” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以创建一个 ZIP 压缩文件。";
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安装 “制作归档” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以创建一个 ZIP 档案。";
 
 /* No comment provided by engineer. */
 "iPad" = "iPad";
@@ -1014,13 +996,7 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "在 Filza 中打开";
 
-/* No comment provided by engineer. */
-"Open Recycle Bin" = "打开回收站";
-
 "Open Troll Recorder" = "打开巨魔录音机";
-
-/* No comment provided by engineer. */
-"Open “Filza File Manager” to view or recover your recordings." = "打开 “Filza 文件管理器” 查看或恢复你的录音。";
 
 /* No comment provided by engineer. */
 "Operation Failed" = "操作失败";
@@ -1128,9 +1104,6 @@
 "Purchase" = "购买";
 
 /* No comment provided by engineer. */
-"Purge Recycle Bin" = "清空回收站";
-
-/* No comment provided by engineer. */
 "Quick Recording" = "快速录音";
 
 /* No comment provided by engineer. */
@@ -1187,9 +1160,6 @@
 "Recording will begin when the call is answered." = "即将于通话接通后开始录音。";
 
 /* No comment provided by engineer. */
-"Recording%@_%@" = "录音%@_%@";
-
-/* No comment provided by engineer. */
 "RECORDING_LOCALIZED" = "录音";
 
 /* No comment provided by engineer. */
@@ -1199,16 +1169,10 @@
 "Recordings here are permanently removed after 30 days." = "这里的录音将在 30 天后被永久删除。";
 
 /* No comment provided by engineer. */
-"Recover Files" = "恢复文件";
-
-/* No comment provided by engineer. */
 "Recycle Bin" = "回收站";
 
 /* No comment provided by engineer. */
 "Regular" = "普通";
-
-/* No comment provided by engineer. */
-"Reinstall %@" = "重新安装 %@";
 
 /* No comment provided by engineer. */
 "Release Notes" = "发行说明";
@@ -1386,6 +1350,9 @@
 
 /* No comment provided by engineer. */
 "Smaller" = "较小";
+
+/* No comment provided by engineer. */
+"Smart Cloud Archive" = "智能云归档";
 
 /* No comment provided by engineer. */
 "Software License" = "软件许可";
@@ -1823,7 +1790,10 @@
 "You may need to reboot your device to make this application work properly." = "你可能需要重新启动你的设备以使此应用程序正常工作。";
 
 /* No comment provided by engineer. */
-"You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "你需要安装具备 URL Scheme 跳转能力的 “Filza 文件管理器” 来查看或恢复你的录音。";
+"You’re now using the free version of “TrollRecorder JB”." = "你现在正在试用巨魔录音机越狱版。";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder”." = "你现在正在试用巨魔录音机。";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "你已启用生物识别验证，因此需要验证你的身份。";

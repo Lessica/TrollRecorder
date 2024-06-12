@@ -20,9 +20,6 @@
 "%d Exclusive Features" = "超過 %d 個專屬功能";
 
 /* No comment provided by engineer. */
-"%d recordings" = "%d 個錄音";
-
-/* No comment provided by engineer. */
 "%ld Recording" = "%ld 錄音";
 
 /* No comment provided by engineer. */
@@ -158,9 +155,6 @@
 /* No comment provided by engineer. */
 "Applications" = "應用程序";
 
-/* TODO */
-"Archive" = "Archive";
-
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音頻文件。佔用較多存儲空間，請謹慎開啓。";
 
@@ -175,6 +169,9 @@
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "自動錄音";
+
+/* TODO */
+"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive.";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "當設備重新啓動並解鎖時，自動啓用後台服務。需要將 「巨魔錄音機」 小組件添加到主屏幕任意位置才能使此選項生效。";
@@ -417,18 +414,6 @@
 /* No comment provided by engineer. */
 "Debugging" = "調試";
 
-/* TODO */
-"Decoded User Location" = "Decoded User Location";
-
-/* TODO */
-"deflate failed" = "deflate failed";
-
-/* TODO */
-"deflateEnd failed" = "deflateEnd failed";
-
-/* TODO */
-"deflateInit2 failed" = "deflateInit2 failed";
-
 /* No comment provided by engineer. */
 "Delete" = "刪除";
 
@@ -645,9 +630,6 @@
 
 /* TODO */
 "Filter" = "Filter";
-
-/* No comment provided by engineer. */
-"Filza Not Installed" = "Filza 未安裝";
 
 /* No comment provided by engineer. */
 "Finalizing" = "完成中";
@@ -1012,13 +994,7 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "在 Filza 中打開";
 
-/* No comment provided by engineer. */
-"Open Recycle Bin" = "打開回收站";
-
 "Open Troll Recorder" = "打開巨魔錄音機";
-
-/* No comment provided by engineer. */
-"Open “Filza File Manager” to view or recover your recordings." = "打開 「Filza 文件管理器」 查看或恢復你的錄音。";
 
 /* No comment provided by engineer. */
 "Operation Failed" = "操作失敗";
@@ -1125,9 +1101,6 @@
 /* No comment provided by engineer. */
 "Purchase" = "購買";
 
-/* TODO */
-"Purge Recycle Bin" = "Purge Recycle Bin";
-
 /* No comment provided by engineer. */
 "Quick Recording" = "快速錄音";
 
@@ -1184,9 +1157,6 @@
 /* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "即將於通話接通後開始錄音。";
 
-/* No comment provided by engineer. */
-"Recording%@_%@" = "錄音%@_%@";
-
 /* TODO */
 "RECORDING_LOCALIZED" = "Recording";
 
@@ -1196,17 +1166,11 @@
 /* TODO */
 "Recordings here are permanently removed after 30 days." = "Recordings here are permanently removed after 30 days.";
 
-/* No comment provided by engineer. */
-"Recover Files" = "恢復文件";
-
 /* TODO */
 "Recycle Bin" = "Recycle Bin";
 
 /* No comment provided by engineer. */
 "Regular" = "普通";
-
-/* No comment provided by engineer. */
-"Reinstall %@" = "重新安裝 %@";
 
 /* TODO */
 "Release Notes" = "Release Notes";
@@ -1384,6 +1348,9 @@
 
 /* No comment provided by engineer. */
 "Smaller" = "較小";
+
+/* TODO */
+"Smart Cloud Archive" = "Smart Cloud Archive";
 
 /* No comment provided by engineer. */
 "Software License" = "軟件許可";
@@ -1821,8 +1788,11 @@
 /* No comment provided by engineer. */
 "You may need to reboot your device to make this application work properly." = "你可能需要重新啓動你的設備以使此應用程序正常工作。";
 
-/* No comment provided by engineer. */
-"You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "你需要安裝具備 URL Scheme 跳轉能力的 「Filza 文件管理器」 來查看或恢復你的錄音。";
+/* TODO */
+"You’re now using the free version of “TrollRecorder JB”." = "You’re now using the free version of “TrollRecorder JB”.";
+
+/* TODO */
+"You’re now using the free version of “TrollRecorder”." = "You’re now using the free version of “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "你已啓用生物識別驗證，因此需要驗證你的身份。";
