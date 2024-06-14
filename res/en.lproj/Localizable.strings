@@ -132,6 +132,9 @@
 "Always On" = "Always On";
 
 /* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "Always schedule background processing tasks to run at the next available opportunity.";
+
+/* No comment provided by engineer. */
 "AM/PM String" = "AM/PM String";
 
 /* No comment provided by engineer. */
@@ -171,7 +174,7 @@
 "Automatic Recording" = "Automatic Recording";
 
 /* No comment provided by engineer. */
-"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive.";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen.";
@@ -204,6 +207,9 @@
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Avoid screen being locked automatically when WebDAV server is used by any client.";
 
 /* No comment provided by engineer. */
+"Background App Refresh Permission Denied" = "Background App Refresh Permission Denied";
+
+/* No comment provided by engineer. */
 "Background Style" = "Background Style";
 
 /* No comment provided by engineer. */
@@ -223,6 +229,9 @@
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour server started at: %@";
+
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "Boost Periodic Tasks";
 
 /* No comment provided by engineer. */
 "bottom edge" = "bottom edge";
@@ -289,6 +298,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Clear Selection";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
 
 /* ObjectTableViewController */
 "Collapse Recursively" = "Collapse Recursively";
@@ -729,6 +741,9 @@
 "iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
+"iCloud Drive Not Logged In" = "iCloud Drive Not Logged In";
+
+/* No comment provided by engineer. */
 "Idle" = "Idle";
 
 /* No comment provided by engineer. */
@@ -1062,6 +1077,9 @@
 "Play/Pause" = "Play/Pause";
 
 /* No comment provided by engineer. */
+"Please check your mail configuration." = "Please check your mail configuration.";
+
+/* No comment provided by engineer. */
 "Popover Control" = "Popover Control";
 
 /* No comment provided by engineer. */
@@ -1175,6 +1193,9 @@
 "Regular" = "Regular";
 
 /* No comment provided by engineer. */
+"Relaunched" = "Relaunched";
+
+/* No comment provided by engineer. */
 "Release Notes" = "Release Notes";
 
 /* No comment provided by engineer. */
@@ -1221,6 +1242,9 @@
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Sample Rate";
+
+/* No comment provided by engineer. */
+"Sandbox Build" = "Sandbox Build";
 
 /* No comment provided by engineer. */
 "Save" = "Save";
@@ -1356,6 +1380,9 @@
 
 /* No comment provided by engineer. */
 "Software License" = "Software License";
+
+/* No comment provided by engineer. */
+"Some settings have been reset to default values." = "Some settings have been reset to default values.";
 
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code.";
@@ -1501,6 +1528,9 @@
 "This field accept phone number or an email address for matching contact." = "This field accept phone number or an email address for matching contact.";
 
 /* No comment provided by engineer. */
+"This is a sandbox build, the daemon is not available." = "This is a sandbox build, the daemon is not available.";
+
+/* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
 
 /* No comment provided by engineer. */
@@ -1517,6 +1547,12 @@
 
 /* No comment provided by engineer. */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder.";
+
+/* No comment provided by engineer. */
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder.";
+
+/* No comment provided by engineer. */
+"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings.";
 
 /* No comment provided by engineer. */
 "To: %@" = "To: %@";

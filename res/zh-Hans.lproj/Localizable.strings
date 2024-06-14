@@ -111,7 +111,7 @@
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "允许读取微信联系人列表和 VoIP 通话记录以自动填充录音的联系人姓名。仅支持新版本官方微信。";
 
 /* No comment provided by engineer. */
-"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允许录制已登录 iCloud 帐户、在您附近且接入无线局域网的设备上的通话。";
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允许录制已登录 iCloud 帐户、在你附近且接入无线局域网的设备上的通话。";
 
 /* No comment provided by engineer. */
 "Always" = "始终";
@@ -130,6 +130,9 @@
 
 /* No comment provided by engineer. */
 "Always On" = "始终显示";
+
+/* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "始终将后台处理任务安排在下一次合适的时机运行。";
 
 /* No comment provided by engineer. */
 "AM/PM String" = "上午/下午";
@@ -171,7 +174,7 @@
 "Automatic Recording" = "自动录音";
 
 /* No comment provided by engineer. */
-"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "每月自动为混合和组合的主要录音创建 ZIP 档案，并将其存储在 iCloud Drive 中。";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "每月自动为混合和组合模式的录音创建克隆，并将其存储在 iCloud 云盘中。当前月份的录音不会被归档。";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "当设备重新启动并解锁时，自动启用后台服务。需要将 “巨魔录音机” 小组件添加到主屏幕任意位置才能使此选项生效。";
@@ -204,6 +207,9 @@
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "当 WebDAV 服务器被任何客户端使用时，避免屏幕自动锁定。";
 
 /* No comment provided by engineer. */
+"Background App Refresh Permission Denied" = "后台 App 刷新被拒绝";
+
+/* No comment provided by engineer. */
 "Background Style" = "背景样式";
 
 /* No comment provided by engineer. */
@@ -223,6 +229,9 @@
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour 服务已启动：%@";
+
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "加速定时任务";
 
 /* No comment provided by engineer. */
 "bottom edge" = "底边";
@@ -289,6 +298,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "清除筛选项";
+
+/* No comment provided by engineer. */
+"Close" = "关闭";
 
 /* ObjectTableViewController */
 "Collapse Recursively" = "递归折叠";
@@ -729,6 +741,9 @@
 "iCloud Drive" = "iCloud 云盘";
 
 /* No comment provided by engineer. */
+"iCloud Drive Not Logged In" = "未登录 iCloud 云盘";
+
+/* No comment provided by engineer. */
 "Idle" = "空闲";
 
 /* No comment provided by engineer. */
@@ -1062,6 +1077,9 @@
 "Play/Pause" = "播放/暂停";
 
 /* No comment provided by engineer. */
+"Please check your mail configuration." = "请检查你的邮件配置。";
+
+/* No comment provided by engineer. */
 "Popover Control" = "悬浮球";
 
 /* No comment provided by engineer. */
@@ -1175,6 +1193,9 @@
 "Regular" = "普通";
 
 /* No comment provided by engineer. */
+"Relaunched" = "妙手已回春";
+
+/* No comment provided by engineer. */
 "Release Notes" = "发行说明";
 
 /* No comment provided by engineer. */
@@ -1221,6 +1242,9 @@
 
 /* No comment provided by engineer. */
 "Sample Rate" = "采样率";
+
+/* No comment provided by engineer. */
+"Sandbox Build" = "沙盒构建";
 
 /* No comment provided by engineer. */
 "Save" = "保存";
@@ -1356,6 +1380,9 @@
 
 /* No comment provided by engineer. */
 "Software License" = "软件许可";
+
+/* No comment provided by engineer. */
+"Some settings have been reset to default values." = "某些设置已重置为默认值";
 
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "出现了一些问题，我们无法验证你的购买。你可以轻按 “查看我的账户”，确认你的订单状态或兑换礼品代码。";
@@ -1501,6 +1528,9 @@
 "This field accept phone number or an email address for matching contact." = "此字段可填写电话号码或电子邮箱地址以匹配联系人。";
 
 /* No comment provided by engineer. */
+"This is a sandbox build, the daemon is not available." = "守护进程不可用";
+
+/* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你可以购买 “巨魔录音机” 来启用 “微信通话助理”，你想现在购买吗？";
 
 /* No comment provided by engineer. */
@@ -1517,6 +1547,12 @@
 
 /* No comment provided by engineer. */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服务的活跃状态，你需要为巨魔录音机选择 “始终” 或 “使用 App 期间”。";
+
+/* No comment provided by engineer. */
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "如需使用智能云存档，你需要为巨魔录音机启用后台 App 刷新。";
+
+/* No comment provided by engineer. */
+"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "要使用智能云存档，你必须在设置中登录 iCloud 云盘。";
 
 /* No comment provided by engineer. */
 "To: %@" = "结束于：%@";

@@ -132,6 +132,9 @@
 "Always On" = "Luôn bật";
 
 /* TODO */
+"Always schedule background processing tasks to run at the next available opportunity." = "Always schedule background processing tasks to run at the next available opportunity.";
+
+/* TODO */
 "AM/PM String" = "AM/PM String";
 
 /* No comment provided by engineer. */
@@ -171,7 +174,7 @@
 "Automatic Recording" = "Ghi âm tự động";
 
 /* TODO */
-"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive.";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Tự động kích hoạt các dịch vụ nền khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình chính.";
@@ -203,6 +206,9 @@
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Tránh màn hình bị khóa tự động khi máy chủ WebDAV được sử dụng bởi bất kỳ khách hàng nào.";
 
+/* TODO */
+"Background App Refresh Permission Denied" = "Background App Refresh Permission Denied";
+
 /* No comment provided by engineer. */
 "Background Style" = "Phong cách nền";
 
@@ -223,6 +229,9 @@
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Máy chủ Bonjour bắt đầu lúc: %@";
+
+/* TODO */
+"Boost Periodic Tasks" = "Boost Periodic Tasks";
 
 /* TODO */
 "bottom edge" = "bottom edge";
@@ -289,6 +298,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Lựa chọn rõ ràng";
+
+/* TODO */
+"Close" = "Close";
 
 /* TODO */
 "Collapse Recursively" = "Collapse Recursively";
@@ -726,6 +738,9 @@
 /* TODO */
 "iCloud Drive" = "iCloud Drive";
 
+/* TODO */
+"iCloud Drive Not Logged In" = "iCloud Drive Not Logged In";
+
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
 
@@ -1059,6 +1074,9 @@
 /* TODO */
 "Play/Pause" = "Play/Pause";
 
+/* TODO */
+"Please check your mail configuration." = "Please check your mail configuration.";
+
 /* No comment provided by engineer. */
 "Popover Control" = "Kiểm soát cửa sổ bật lên";
 
@@ -1173,6 +1191,9 @@
 "Regular" = "Thường xuyên";
 
 /* TODO */
+"Relaunched" = "Relaunched";
+
+/* TODO */
 "Release Notes" = "Release Notes";
 
 /* TODO */
@@ -1219,6 +1240,9 @@
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Tỷ lệ mẫu";
+
+/* TODO */
+"Sandbox Build" = "Sandbox Build";
 
 /* TODO */
 "Save" = "Save";
@@ -1354,6 +1378,9 @@
 
 /* No comment provided by engineer. */
 "Software License" = "Giấy phép phần mềm";
+
+/* TODO */
+"Some settings have been reset to default values." = "Some settings have been reset to default values.";
 
 /* TODO */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code.";
@@ -1499,6 +1526,9 @@
 "This field accept phone number or an email address for matching contact." = "Trường này chấp nhận số điện thoại hoặc địa chỉ email để liên hệ phù hợp.";
 
 /* TODO */
+"This is a sandbox build, the daemon is not available." = "This is a sandbox build, the daemon is not available.";
+
+/* TODO */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
 
 /* TODO */
@@ -1515,6 +1545,12 @@
 
 /* TODO */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder.";
+
+/* TODO */
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder.";
+
+/* TODO */
+"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings.";
 
 /* No comment provided by engineer. */
 "To: %@" = "Đến: %@";

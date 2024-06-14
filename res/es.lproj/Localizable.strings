@@ -132,6 +132,9 @@
 "Always On" = "HUD siempre visible";
 
 /* Translated with Microsoft Translator */
+"Always schedule background processing tasks to run at the next available opportunity." = "Programe siempre las tareas de procesamiento en segundo plano para que se ejecuten en la siguiente oportunidad disponible.";
+
+/* Translated with Microsoft Translator */
 "AM/PM String" = "Cadena AM/PM";
 
 /* No comment provided by engineer. */
@@ -171,7 +174,7 @@
 "Automatic Recording" = "Grabación automática";
 
 /* Translated with Microsoft Translator */
-"Automatically create ZIP archives for mixed & combined primary recordings every month, and store them in iCloud Drive." = "Crea automáticamente archivos ZIP para grabaciones primarias mezcladas y combinadas cada mes, y almacénalos en iCloud Drive.";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Crea automáticamente clones de grabaciones primarias mezcladas y combinadas cada mes y almacénalos en iCloud Drive. Las grabaciones del mes actual no se archivarán.";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Habilita automáticamente los servicios en segundo plano cuando el dispositivo se reinicia y se desbloquea. Para activar esta función, es necesario añadir el widget “TrollRecorder“ en cualquier lugar de la pantalla de inicio.";
@@ -203,6 +206,9 @@
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Evitar que la pantalla se bloquee automáticamente cuando el servidor WebDAV es utilizado por cualquier cliente.";
 
+/* Translated with Microsoft Translator */
+"Background App Refresh Permission Denied" = "Permiso de actualización de fondo denegado";
+
 /* No comment provided by engineer. */
 "Background Style" = "Estilo de fondo";
 
@@ -223,6 +229,9 @@
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Servidor Bonjour iniciado en: %@";
+
+/* Translated with Microsoft Translator */
+"Boost Periodic Tasks" = "Impulsar las tareas periódicas";
 
 /* Translated with Microsoft Translator */
 "bottom edge" = "borde inferior";
@@ -289,6 +298,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Borrar selección";
+
+/* Translated with Microsoft Translator */
+"Close" = "Cerrar";
 
 /* Translated with Microsoft Translator */
 "Collapse Recursively" = "Contraer recursivamente";
@@ -726,6 +738,9 @@
 /* Translated with Microsoft Translator */
 "iCloud Drive" = "iCloud Drive";
 
+/* Translated with Microsoft Translator */
+"iCloud Drive Not Logged In" = "No se ha iniciado sesión en iCloud Drive";
+
 /* No comment provided by engineer. */
 "Idle" = "En espera";
 
@@ -1059,6 +1074,9 @@
 /* Translated with Microsoft Translator */
 "Play/Pause" = "Reproducir/Pausa";
 
+/* Translated with Microsoft Translator */
+"Please check your mail configuration." = "Por favor, compruebe la configuración de su correo.";
+
 /* No comment provided by engineer. */
 "Popover Control" = "Control emergente";
 
@@ -1173,6 +1191,9 @@
 "Regular" = "Regular";
 
 /* Translated with Microsoft Translator */
+"Relaunched" = "Relanzado";
+
+/* Translated with Microsoft Translator */
 "Release Notes" = "Notas de publicación";
 
 /* Translated with Microsoft Translator */
@@ -1219,6 +1240,9 @@
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Frecuencia de muestreo";
+
+/* Translated with Microsoft Translator */
+"Sandbox Build" = "Construcción Sandbox";
 
 /* Translated with Microsoft Translator */
 "Save" = "Guardar";
@@ -1354,6 +1378,9 @@
 
 /* No comment provided by engineer. */
 "Software License" = "Licencia de software";
+
+/* Translated with Microsoft Translator */
+"Some settings have been reset to default values." = "Algunos ajustes se han restablecido a los valores predeterminados.";
 
 /* Translated with Microsoft Translator */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Pulse “Ver mi cuenta” para comprobar sus pedidos, compras o canjear un código de regalo.";
@@ -1499,6 +1526,9 @@
 "This field accept phone number or an email address for matching contact." = "Este campo acepta un número de teléfono o una dirección de correo electrónico para buscar un contacto.";
 
 /* Translated with Microsoft Translator */
+"This is a sandbox build, the daemon is not available." = "Esta es una construcción sandbox, el demonio no está disponible.";
+
+/* Translated with Microsoft Translator */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Esta grabación es de WeChat, y el “Asistente WeChat” te ayuda a rellenar los nombres de los contactos de WeChat y los comentarios la próxima vez.\nPuedes comprar “TrollRecorder Pro” para activar el “Asistente WeChat”, ¿quieres comprarlo ahora?";
 
 /* Translated with Microsoft Translator */
@@ -1515,6 +1545,12 @@
 
 /* Translated with Microsoft Translator */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "Para mantener vivo el acceso WebDAV, tiene que seleccionar “Siempre” o “Mientras usa la aplicación” para TrollRecorder.";
+
+/* Translated with Microsoft Translator */
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "Para utilizar Smart Cloud Archive, tiene que activar Background App Refresh para TrollRecorder.";
+
+/* Translated with Microsoft Translator */
+"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "Para utilizar Smart Cloud Archive, tienes que iniciar sesión en iCloud Drive en Ajustes.";
 
 /* No comment provided by engineer. */
 "To: %@" = "Hasta: %@";
