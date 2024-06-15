@@ -31,17 +31,16 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 ## 1.x Milestones
 
 - [x] <del>Hover-ball on Lockscreen</del> Notification on Lockscreen
-- [ ] Network Storage
-  - [ ] iCloud Backup
-  - [ ] iCloud Drive
-  - [ ] Google Drive
-  - [ ] Dropbox
+- [x] <del>iCloud Drive</del> Smart Cloud Archive
+- [ ] iCloud Backup
+- [ ] Google Drive
+- [ ] Dropbox
 
 ## 2.x Milestones
 
 A botch job is a waste of time. That's why we always built our app in the best quality.
 
-- [ ] Record System Audio (What You Hear)
+- [ ] Record System Audio (i.e. What You Hear)
 - [ ] Record like Voice Memos
 - [ ] Built-In Audio Editor
 
@@ -53,6 +52,7 @@ A botch job is a waste of time. That's why we always built our app in the best q
 
 ## Special Thanks
 
+- [TrollStore](https://github.com/opa334/TrollStore) and [Dopamine](https://github.com/opa334/Dopamine) by [@opa334dev](https://twitter.com/opa334dev)
 - [AudioRecorder XS](https://limneos.net/audiorecorderxs/), [User Interface without SpringBoard](https://github.com/limneos/UIDaemon) and [iOS Runtime Headers](https://developer.limneos.net/) by [@limneos](https://twitter.com/limneos), one of my favourite developer.
 - [CallAssist](https://buy.htv123.com) by [@xybp888](https://github.com/xybp888)
 - [LearnAudioToolBox](https://github.com/liuxinxiaoyue/LearnAudioToolBox) by [@liuxinxiaoyue](https://github.com/liuxinxiaoyue)
