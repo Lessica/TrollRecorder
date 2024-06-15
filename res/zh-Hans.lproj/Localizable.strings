@@ -936,6 +936,9 @@
 "Multiple Devices" = "在多达 5 台设备上同时使用";
 
 /* No comment provided by engineer. */
+"My Favourite" = "已收藏";
+
+/* No comment provided by engineer. */
 "My Favourites" = "我的收藏";
 
 /* No comment provided by engineer. */
@@ -979,6 +982,9 @@
 
 /* No comment provided by engineer. */
 "None" = "无";
+
+/* No comment provided by engineer. */
+"Not My Favourite" = "未收藏";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "未导入任何内容";
@@ -1623,19 +1629,46 @@
 "Unknown" = "未知";
 
 /* No comment provided by engineer. */
-"Unknown Address" = "地址不详";
+"Unknown Address" = "未知地址";
 
 /* No comment provided by engineer. */
 "Unknown Artist" = "未知艺术家";
 
 /* No comment provided by engineer. */
+"Unknown Direction" = "未知方向";
+
+/* No comment provided by engineer. */
+"Unknown Duration" = "未知持续时间";
+
+/* No comment provided by engineer. */
 "Unknown Error" = "未知错误";
 
 /* No comment provided by engineer. */
-"Unknown Place" = "地点不详";
+"Unknown File Format" = "未知文件格式";
+
+/* No comment provided by engineer. */
+"Unknown Location" = "未知地点";
+
+/* No comment provided by engineer. */
+"Unknown Operator" = "未知运营商";
+
+/* No comment provided by engineer. */
+"Unknown Phone Address" = "未知电话号码";
+
+/* No comment provided by engineer. */
+"Unknown Place" = "未知地点";
 
 /* No comment provided by engineer. */
 "Unknown Provider" = "未知提供方";
+
+/* No comment provided by engineer. */
+"Unknown Sample Rate" = "未知采样率";
+
+/* No comment provided by engineer. */
+"Unknown Sender" = "未知号卡";
+
+/* No comment provided by engineer. */
+"Unknown Variant" = "未知变体";
 
 /* No comment provided by engineer. */
 "Unmark" = "取消收藏";
