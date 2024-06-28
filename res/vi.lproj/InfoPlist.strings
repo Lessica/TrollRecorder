@@ -4,8 +4,6 @@
 
 "NSFaceIDUsageDescription" = "TrollRecorder cần quyền truy cập vào Face ID để xác minh danh tính của bạn.";
 
-"NSLocalNetworkUsageDescription" = "TrollRecorder cần quyền truy cập vào mạng cục bộ của bạn để cho phép chia sẻ bản ghi âm với các thiết bị khác.";
-
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
 
 "NSLocationAlwaysUsageDescription" = "TrollRecorder cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
@@ -19,6 +17,8 @@
 "NSMicrophoneUsageDescription" = "TrollRecorder cần truy cập vào micrô của bạn để thực hiện các tính năng ghi âm cơ bản nhất.";
 
 "NSSpeechRecognitionUsageDescription" = "TrollRecorder muốn sử dụng nhận dạng giọng nói để tạo bảng điểm cho các bản ghi âm của bạn.";
+
+"NSUbiquitousContainerName" = "TrollRecorder";
 
 "Toggle Hoverball" = "Bật/Tắt Bong bóng";
 

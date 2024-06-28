@@ -86,6 +86,9 @@
 /* No comment provided by engineer. */
 "Advanced Search" = "高級搜尋";
 
+/* TODO */
+"After %@" = "After %@";
+
 /* No comment provided by engineer. */
 "Agree" = "同意";
 
@@ -214,6 +217,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "批量匯出";
+
+/* TODO */
+"Before %@" = "Before %@";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "接通並開始通話錄音前，向對方播放一段提示語音。 請遵守你所在地的法律法規。 關閉提示音後，可能會影響通話錄音作爲證據使用的法律效力。";
@@ -463,6 +469,9 @@
 /* No comment provided by engineer. */
 "Discard Recording" = "丟棄錄音";
 
+/* TODO */
+"Discreet Voice Memos" = "Discreet Voice Memos";
+
 /* No comment provided by engineer. */
 "Dismiss" = "忽略";
 
@@ -557,7 +566,19 @@
 "Enable %@" = "啓用 %@";
 
 /* TODO */
+"Enable Biometric Authentication" = "Enable Biometric Authentication";
+
+/* TODO */
+"Enable Face ID" = "Enable Face ID";
+
+/* TODO */
 "Enable Logging" = "Enable Logging";
+
+/* TODO */
+"Enable Optic ID" = "Enable Optic ID";
+
+/* TODO */
+"Enable Touch ID" = "Enable Touch ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "啓用 WebDAV 伺服器";
@@ -607,6 +628,12 @@
 
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
+
+/* TODO */
+"FaceTime" = "FaceTime";
+
+/* TODO */
+"FaceTime Audio" = "FaceTime Audio";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "FaceTime 排除列表";
@@ -704,6 +731,9 @@
 /* TODO */
 "Google Drive" = "Google Drive";
 
+/* TODO */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏時隱藏";
 
@@ -727,6 +757,9 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "顯示樣式";
+
+/* TODO */
+"How would you like to call?" = "How would you like to call?";
 
 "hud" = "hud";
 
@@ -829,6 +862,9 @@
 /* No comment provided by engineer. */
 "Localized name of the provider application. That is, where this recording comes from." = "提供方應用程式的本地化名稱，即這段錄音從何而來。";
 
+/* TODO */
+"Locate in Maps" = "Locate in Maps";
+
 /* No comment provided by engineer. */
 "Location" = "地理位置";
 
@@ -837,6 +873,9 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "位置服務";
+
+/* TODO */
+"Locked" = "Locked";
 
 /* No comment provided by engineer. */
 "Log Viewer" = "日志檢視器";
@@ -1016,6 +1055,9 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "在 Filza 中打開";
 
+/* TODO */
+"Open in Maps" = "Open in Maps";
+
 "Open Troll Recorder" = "打開巨魔錄音機";
 
 /* No comment provided by engineer. */
@@ -1053,6 +1095,9 @@
 
 /* TODO */
 "Period" = "Period";
+
+/* TODO */
+"Phone" = "Phone";
 
 /* No comment provided by engineer. */
 "Phone Address" = "電話號碼";
@@ -1137,6 +1182,9 @@
 
 /* No comment provided by engineer. */
 "Re-authenticate" = "重新驗證";
+
+/* TODO */
+"Re-enable Suggested Options" = "Re-enable Suggested Options";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "連線守護進程";
@@ -1266,8 +1314,14 @@
 /* No comment provided by engineer. */
 "Search Contacts…" = "搜索联系人…";
 
+/* TODO */
+"Search in %@…" = "Search in %@…";
+
 /* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "在錄音時保存所有可用資訊，如聯絡資訊或位置，以便搜尋。";
+
+/* TODO */
+"Search in Maps" = "Search in Maps";
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "搜尋錄音…";
@@ -1434,6 +1488,9 @@
 "Stop Service" = "停止服務";
 
 /* TODO */
+"Suggested Applications" = "Suggested Applications";
+
+/* TODO */
 "Sync" = "Sync";
 
 /* TODO */
@@ -1450,6 +1507,15 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "輕觸並選中 __任一邊緣__，  \n使其進入 ___活躍狀態___。";
+
+/* TODO */
+"Tap again to make a phone call." = "Tap again to make a phone call.";
+
+/* TODO */
+"Tap again to open or search the location in Maps." = "Tap again to open or search the location in Maps.";
+
+/* TODO */
+"Tap again to start a FaceTime call." = "Tap again to start a FaceTime call.";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "輕觸退出";
@@ -1514,6 +1580,9 @@
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "提供方應用程式的唯一標識符。";
 
+/* TODO */
+"The URL is not valid." = "The URL is not valid.";
+
 /* No comment provided by engineer. */
 "There is nothing but air." = "這裏只有空氣。";
 
@@ -1540,6 +1609,18 @@
 
 /* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人姓名和備注。\n你似乎沒有啓用 “WeChat 通話助理” ，你想立即啓用嗎？";
+
+/* TODO */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "This version of WeChat (%@) is not supported. Please upgrade to the latest version.";
+
+/* TODO */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected.";
+
+/* TODO */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version.";
+
+/* TODO */
+"This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
 
 /* TODO */
 "Three-digit Milliseconds" = "Three-digit Milliseconds";
@@ -1691,7 +1772,7 @@
 "Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
 
 /* No comment provided by engineer. */
-"Use biometric authentication to unlock the application." = "使用生物特徵識別驗證來解鎖應用程式。";
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物特徵識別驗證來解鎖應用程式。啓用此功能時，後台播放不可用。";
 
 /* TODO */
 "Use Cellular Network" = "Use Cellular Network";
@@ -1827,6 +1908,9 @@
 /* No comment provided by engineer. */
 "Which edges of the screen the hoverball can be attached to." = "懸浮球可以附著在熒幕的哪些邊緣。";
 
+/* TODO */
+"Why don’t you make a phone call?" = "Why don’t you make a phone call?";
+
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "在當前應用程序中通話時自動開啓錄音。";
 
@@ -1849,7 +1933,7 @@
 "YES" = "是";
 
 /* No comment provided by engineer. */
-"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必須選擇“總是”以使巨魔錄音機能够在背景確定你的位置。 如果你選擇“使用 App 時”，你需要在錄音結束後15分鐘內啟動應用程式以更新位置。";
+"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必須選擇“總是”以使巨魔錄音機能够在後台確定你的位置。 如果你選擇“使用 App 時”，你需要在錄音結束後15分鐘內啟動應用程式以更新位置。";
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要啟用“增强自動錄音”或“增强通話場景識別”以使此頁面上的選項生效。";

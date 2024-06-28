@@ -86,6 +86,9 @@
 /* No comment provided by engineer. */
 "Advanced Search" = "Tìm kiếm nâng cao";
 
+/* TODO */
+"After %@" = "After %@";
+
 /* No comment provided by engineer. */
 "Agree" = "Đồng ý";
 
@@ -214,6 +217,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Xuất hàng loạt";
+
+/* TODO */
+"Before %@" = "Before %@";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Trước khi bắt đầu ghi âm cuộc gọi, một giọng nói nhắc nhở được phát ở đầu đối diện.";
@@ -462,6 +468,9 @@
 /* No comment provided by engineer. */
 "Discard Recording" = "Bỏ ghi âm";
 
+/* TODO */
+"Discreet Voice Memos" = "Discreet Voice Memos";
+
 /* No comment provided by engineer. */
 "Dismiss" = "Sa thải";
 
@@ -556,7 +565,19 @@
 "Enable %@" = "Cho phép %@";
 
 /* TODO */
+"Enable Biometric Authentication" = "Enable Biometric Authentication";
+
+/* TODO */
+"Enable Face ID" = "Enable Face ID";
+
+/* TODO */
 "Enable Logging" = "Enable Logging";
+
+/* TODO */
+"Enable Optic ID" = "Enable Optic ID";
+
+/* TODO */
+"Enable Touch ID" = "Enable Touch ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "Bật máy chủ WebDAV";
@@ -606,6 +627,12 @@
 
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
+
+/* TODO */
+"FaceTime" = "FaceTime";
+
+/* TODO */
+"FaceTime Audio" = "FaceTime Audio";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "Danh sách loại trừ FaceTime";
@@ -703,6 +730,9 @@
 /* TODO */
 "Google Drive" = "Google Drive";
 
+/* TODO */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Ẩn khi chụp ảnh màn hình";
 
@@ -726,6 +756,9 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "Phong cách bong bóng";
+
+/* TODO */
+"How would you like to call?" = "How would you like to call?";
 
 "hud" = "hud";
 
@@ -828,6 +861,9 @@
 /* No comment provided by engineer. */
 "Localized name of the provider application. That is, where this recording comes from." = "Tên bản địa hóa của ứng dụng nhà cung cấp. Đó là, bản ghi âm này đến từ đâu.";
 
+/* TODO */
+"Locate in Maps" = "Locate in Maps";
+
 /* No comment provided by engineer. */
 "Location" = "Vị trí";
 
@@ -836,6 +872,9 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "Dịch vụ định vị";
+
+/* TODO */
+"Locked" = "Locked";
 
 /* TODO */
 "Log Viewer" = "Log Viewer";
@@ -1015,6 +1054,9 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "Mở Trong Filza";
 
+/* TODO */
+"Open in Maps" = "Open in Maps";
+
 "Open Troll Recorder" = "Mở Troll Recorder";
 
 /* TODO */
@@ -1052,6 +1094,9 @@
 
 /* TODO */
 "Period" = "Period";
+
+/* TODO */
+"Phone" = "Phone";
 
 /* No comment provided by engineer. */
 "Phone Address" = "Địa chỉ điện thoại";
@@ -1136,6 +1181,9 @@
 
 /* No comment provided by engineer. */
 "Re-authenticate" = "Xác thực lại";
+
+/* TODO */
+"Re-enable Suggested Options" = "Re-enable Suggested Options";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "Tiếp cận Daemon";
@@ -1265,8 +1313,14 @@
 /* No comment provided by engineer. */
 "Search Contacts…" = "Tìm kiếm danh bạ…";
 
+/* TODO */
+"Search in %@…" = "Search in %@…";
+
 /* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Tìm kiếm chuyên sâu với tất cả thông tin có sẵn được lưu khi ghi lại như thông tin liên hệ hoặc vị trí.";
+
+/* TODO */
+"Search in Maps" = "Search in Maps";
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "Tìm kiếm các bản ghi âm…";
@@ -1433,6 +1487,9 @@
 "Stop Service" = "Dừng dịch vụ";
 
 /* TODO */
+"Suggested Applications" = "Suggested Applications";
+
+/* TODO */
 "Sync" = "Sync";
 
 /* TODO */
@@ -1449,6 +1506,15 @@
 
 /* TODO */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+
+/* TODO */
+"Tap again to make a phone call." = "Tap again to make a phone call.";
+
+/* TODO */
+"Tap again to open or search the location in Maps." = "Tap again to open or search the location in Maps.";
+
+/* TODO */
+"Tap again to start a FaceTime call." = "Tap again to start a FaceTime call.";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Nhấn để thoát";
@@ -1513,6 +1579,9 @@
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "Mã định danh duy nhất của ứng dụng nhà cung cấp.";
 
+/* TODO */
+"The URL is not valid." = "The URL is not valid.";
+
 /* No comment provided by engineer. */
 "There is nothing but air." = "Không có gì ngoài không khí.";
 
@@ -1539,6 +1608,18 @@
 
 /* TODO */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+
+/* TODO */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "This version of WeChat (%@) is not supported. Please upgrade to the latest version.";
+
+/* TODO */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected.";
+
+/* TODO */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version.";
+
+/* TODO */
+"This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
 
 /* TODO */
 "Three-digit Milliseconds" = "Three-digit Milliseconds";
@@ -1689,8 +1770,8 @@
 /* TODO */
 "Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
 
-/* No comment provided by engineer. */
-"Use biometric authentication to unlock the application." = "Sử dụng xác thực sinh trắc học để mở khóa ứng dụng.";
+/* TODO */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled.";
 
 /* TODO */
 "Use Cellular Network" = "Use Cellular Network";
@@ -1826,6 +1907,9 @@ Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ."
 
 /* TODO */
 "Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
+
+/* TODO */
+"Why don’t you make a phone call?" = "Why don’t you make a phone call?";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video trong ứng dụng hiện tại.";

@@ -86,6 +86,9 @@
 /* No comment provided by engineer. */
 "Advanced Search" = "Recherche avancée";
 
+/* Translated with Microsoft Translator */
+"After %@" = "Après %@";
+
 /* No comment provided by engineer. */
 "Agree" = "Accepter";
 
@@ -214,6 +217,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Exportation en lot";
+
+/* Translated with Microsoft Translator */
+"Before %@" = "Avant %@";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Avant de commencer l'enregistrement d'un appel, une voix d'avertissement est diffusée à l'autre extrémité.";
@@ -462,6 +468,9 @@
 /* No comment provided by engineer. */
 "Discard Recording" = "Rejeter l'enregistrement";
 
+/* Translated with Microsoft Translator */
+"Discreet Voice Memos" = "Memos vocaux discrets";
+
 /* No comment provided by engineer. */
 "Dismiss" = "Rejeter";
 
@@ -556,7 +565,19 @@
 "Enable %@" = "Activer %@";
 
 /* Translated with Microsoft Translator */
+"Enable Biometric Authentication" = "Activer l'authentification biométrique";
+
+/* Translated with Microsoft Translator */
+"Enable Face ID" = "Activer Face ID";
+
+/* Translated with Microsoft Translator */
 "Enable Logging" = "Activer la journalisation";
+
+/* Translated with Microsoft Translator */
+"Enable Optic ID" = "Activer l'identification optique";
+
+/* Translated with Microsoft Translator */
+"Enable Touch ID" = "Activer Touch ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "Activer le serveur WebDAV";
@@ -606,6 +627,12 @@
 
 /* No comment provided by engineer. */
 "Face ID" = "Identification faciale";
+
+/* Translated with Microsoft Translator */
+"FaceTime" = "FaceTime";
+
+/* Translated with Microsoft Translator */
+"FaceTime Audio" = "Audio FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "Liste d'exclusion FaceTime";
@@ -704,6 +731,9 @@
 "Google Drive" = "Google Drive";
 
 /* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Masquer l'application “Memos vocaux” de l'écran de verrouillage, et masquer ses activités “Dynamic Island”. Cette fonctionnalité peut nécessiter un ressort pour prendre effet.";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "Masquer lors de la capture d'écran";
 
 /* Translated with Microsoft Translator */
@@ -726,6 +756,9 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "Style du hoverball";
+
+/* Translated with Microsoft Translator */
+"How would you like to call?" = "Comment voulez-vous appeler ?";
 
 "hud" = "hud";
 
@@ -828,6 +861,9 @@
 /* No comment provided by engineer. */
 "Localized name of the provider application. That is, where this recording comes from." = "Nom localisé de l'application fournisseur. C'est-à-dire, d'où provient cet enregistrement.";
 
+/* Translated with Microsoft Translator */
+"Locate in Maps" = "Localiser dans les cartes";
+
 /* No comment provided by engineer. */
 "Location" = "Emplacement";
 
@@ -836,6 +872,9 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "Services de localisation";
+
+/* Translated with Microsoft Translator */
+"Locked" = "Verrouillé";
 
 /* Translated with Microsoft Translator */
 "Log Viewer" = "Visionneuse de journaux";
@@ -1015,6 +1054,9 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "Ouvrir dans Filza";
 
+/* Translated with Microsoft Translator */
+"Open in Maps" = "Ouvrir dans Maps";
+
 "Open Troll Recorder" = "Ouvrir l'enregistreur de troll";
 
 /* Translated with Microsoft Translator */
@@ -1052,6 +1094,9 @@
 
 /* Translated with Microsoft Translator */
 "Period" = "Période";
+
+/* Translated with Microsoft Translator */
+"Phone" = "Téléphone";
 
 /* No comment provided by engineer. */
 "Phone Address" = "Adresse téléphonique";
@@ -1136,6 +1181,9 @@
 
 /* No comment provided by engineer. */
 "Re-authenticate" = "Ré-authentifier";
+
+/* Translated with Microsoft Translator */
+"Re-enable Suggested Options" = "Réactiver les options suggérées";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "Accès au démon";
@@ -1265,8 +1313,14 @@
 /* No comment provided by engineer. */
 "Search Contacts…" = "Rechercher des contacts…";
 
+/* Translated with Microsoft Translator */
+"Search in %@…" = "Recherche dans %@…";
+
 /* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Recherche approfondie avec toutes les informations disponibles enregistrées lors de l'enregistrement, telles que les informations de contact ou les emplacements.";
+
+/* Translated with Microsoft Translator */
+"Search in Maps" = "Recherche dans les cartes";
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "Rechercher des enregistrements…";
@@ -1433,6 +1487,9 @@
 "Stop Service" = "Arrêter le service";
 
 /* Translated with Microsoft Translator */
+"Suggested Applications" = "Applications suggérées";
+
+/* Translated with Microsoft Translator */
 "Sync" = "Synchronisation";
 
 /* Translated with Microsoft Translator */
@@ -1449,6 +1506,15 @@
 
 /* Translated with Microsoft Translator */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Appuyez sur __n'importe quel bord__  \npour le sélectionner en tant que ___bord actif___.";
+
+/* Translated with Microsoft Translator */
+"Tap again to make a phone call." = "Appuyez à nouveau pour passer un appel téléphonique.";
+
+/* Translated with Microsoft Translator */
+"Tap again to open or search the location in Maps." = "Touchez à nouveau pour ouvrir ou rechercher le lieu dans Maps.";
+
+/* Translated with Microsoft Translator */
+"Tap again to start a FaceTime call." = "Appuyez à nouveau pour démarrer un appel FaceTime.";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Touchez pour quitter";
@@ -1513,6 +1579,9 @@
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "L'identifiant unique de l'application fournisseur.";
 
+/* Translated with Microsoft Translator */
+"The URL is not valid." = "L'URL n'est pas valide.";
+
 /* No comment provided by engineer. */
 "There is nothing but air." = "Il n'y a rien d'autre que de l'air.";
 
@@ -1539,6 +1608,18 @@
 
 /* Translated with Microsoft Translator */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Cet enregistrement provient de WeChat, et “Assistant WeChat” vous aide à remplir les noms des contacts WeChat et les remarques la prochaine fois.\nVous ne semblez pas avoir activé “Assistant WeChat”, voulez-vous l'activer immédiatement ?";
+
+/* TODO */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "This version of WeChat (%@) is not supported. Please upgrade to the latest version.";
+
+/* TODO */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected.";
+
+/* TODO */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version.";
+
+/* TODO */
+"This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
 
 /* Translated with Microsoft Translator */
 "Three-digit Milliseconds" = "Millisecondes à trois chiffres";
@@ -1689,8 +1770,8 @@
 /* Translated with Microsoft Translator */
 "Upload, download or synconize recordings between local and cloud drive." = "Chargement, téléchargement ou synchronisation des enregistrements entre le disque local et le disque en nuage.";
 
-/* No comment provided by engineer. */
-"Use biometric authentication to unlock the application." = "Utiliser l'authentification biométrique pour déverrouiller l'application.";
+/* Translated with Microsoft Translator */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Utiliser l'authentification biométrique pour déverrouiller l'application. La lecture en arrière-plan n'est pas disponible lorsque cette fonction est activée.";
 
 /* Translated with Microsoft Translator */
 "Use Cellular Network" = "Utiliser le réseau cellulaire";
@@ -1825,6 +1906,9 @@
 
 /* Translated with Microsoft Translator */
 "Which edges of the screen the hoverball can be attached to." = "Les bords de l'écran auxquels l'hoverball peut être attaché.";
+
+/* Translated with Microsoft Translator */
+"Why don’t you make a phone call?" = "Pourquoi ne pas passer un coup de fil ?";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Démarrera automatiquement l'enregistrement lors des appels audio ou vidéo dans l'application actuelle.";

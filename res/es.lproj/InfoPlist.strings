@@ -4,8 +4,6 @@
 
 "NSFaceIDUsageDescription" = "TrollRecorder necesita acceder a Face ID para verificar tu identidad.";
 
-"NSLocalNetworkUsageDescription" = "TrollRecorder necesita acceso a tu red local para permitir compartir grabaciones con otros dispositivos.";
-
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder necesita acceder a tu ubicación para guardarla con tus grabaciones.";
 
 "NSLocationAlwaysUsageDescription" = "TrollRecorder necesita acceder a tu ubicación para guardarla con tus grabaciones.";
@@ -19,6 +17,8 @@
 "NSMicrophoneUsageDescription" = "TrollRecorder necesita acceso a su micrófono para implementar las funciones de grabación más básicas.";
 
 "NSSpeechRecognitionUsageDescription" = "TrollRecorder requiere el uso de tecnología de reconocimiento de voz para producir una copia de texto de su grabación.";
+
+"NSUbiquitousContainerName" = "TrollRecorder";
 
 "Toggle Hoverball" = "Activar/Desactivar Bola flotante";
 

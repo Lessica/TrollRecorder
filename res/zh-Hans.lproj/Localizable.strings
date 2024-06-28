@@ -87,6 +87,9 @@
 "Advanced Search" = "高级搜索";
 
 /* No comment provided by engineer. */
+"After %@" = "%@ 之后";
+
+/* No comment provided by engineer. */
 "Agree" = "同意";
 
 /* No comment provided by engineer. */
@@ -153,7 +156,7 @@
 "Application" = "应用程序";
 
 /* No comment provided by engineer. */
-"Application Overrides" = "应用程序覆盖";
+"Application Overrides" = "偏好设置";
 
 /* No comment provided by engineer. */
 "Applications" = "应用程序";
@@ -214,6 +217,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "批量导出";
+
+/* No comment provided by engineer. */
+"Before %@" = "%@ 之前";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "接通并开始通话录音前，向对方播放一段提示语音。请遵守你所在地的法律法规。关闭提示音后，可能会影响通话录音作为证据使用的法律效力。";
@@ -464,6 +470,9 @@
 "Discard Recording" = "丢弃录音";
 
 /* No comment provided by engineer. */
+"Discreet Voice Memos" = "隐秘语音备忘录";
+
+/* No comment provided by engineer. */
 "Dismiss" = "忽略";
 
 /* No comment provided by engineer. */
@@ -509,7 +518,7 @@
 "Display the short name of the SIM card used for the recording if available." = "如果可用，显示此录音通话时所使用的 SIM 卡的简称。";
 
 /* No comment provided by engineer. */
-"Display the source bundle name of the recording." = "显示录音来源的捆绑包名称。";
+"Display the source bundle name of the recording." = "显示录音的来源，即通话时所使用的应用程序名称。";
 
 /* PlainTextViewController
    StripedTextTableViewController */
@@ -558,7 +567,19 @@
 "Enable %@" = "启用 %@";
 
 /* No comment provided by engineer. */
+"Enable Biometric Authentication" = "启用生物识别验证";
+
+/* No comment provided by engineer. */
+"Enable Face ID" = "启用面容 ID";
+
+/* No comment provided by engineer. */
 "Enable Logging" = "启用日志";
+
+/* No comment provided by engineer. */
+"Enable Optic ID" = "启用光学 ID";
+
+/* No comment provided by engineer. */
+"Enable Touch ID" = "启用触控 ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "启用 WebDAV 服务器";
@@ -608,6 +629,12 @@
 
 /* No comment provided by engineer. */
 "Face ID" = "面容 ID";
+
+/* No comment provided by engineer. */
+"FaceTime" = "FaceTime 通话";
+
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime 音频";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "FaceTime 排除列表";
@@ -706,6 +733,9 @@
 "Google Drive" = "Google 云端硬盘";
 
 /* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隐藏 “语音备忘录” 在锁屏界面上的显示，并隐藏其 “灵动岛” 活动。此功能可能需要妙手回春才能完全生效。";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏时隐藏";
 
 /* No comment provided by engineer. */
@@ -728,6 +758,9 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "显示样式";
+
+/* No comment provided by engineer. */
+"How would you like to call?" = "你想如何拨打电话？";
 
 "hud" = "hud";
 
@@ -831,6 +864,9 @@
 "Localized name of the provider application. That is, where this recording comes from." = "提供方应用程序的本地化名称，即这段录音从何而来。";
 
 /* No comment provided by engineer. */
+"Locate in Maps" = "在地图中定位";
+
+/* No comment provided by engineer. */
 "Location" = "地理位置";
 
 /* No comment provided by engineer. */
@@ -838,6 +874,9 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "位置服务";
+
+/* No comment provided by engineer. */
+"Locked" = "已锁定";
 
 /* StripedTextTableViewController */
 "Log Viewer" = "日志查看器";
@@ -1017,6 +1056,9 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "在 Filza 中打开";
 
+/* No comment provided by engineer. */
+"Open in Maps" = "在地图中打开";
+
 "Open Troll Recorder" = "打开巨魔录音机";
 
 /* No comment provided by engineer. */
@@ -1026,7 +1068,7 @@
 "Operator Name" = "运营商名称";
 
 /* No comment provided by engineer. */
-"Optic ID" = "视网膜 ID";
+"Optic ID" = "光学 ID";
 
 /* No comment provided by engineer. */
 "Optimize %@ Storage" = "优化 %@ 储存空间";
@@ -1056,6 +1098,9 @@
 "Period" = "句点";
 
 /* No comment provided by engineer. */
+"Phone" = "电话";
+
+/* No comment provided by engineer. */
 "Phone Address" = "电话号码";
 
 /* No comment provided by engineer. */
@@ -1077,7 +1122,7 @@
 "Play" = "播放";
 
 /* No comment provided by engineer. */
-"Play Recording Warning" = "播放录音提示";
+"Play Recording Warning" = "播放录音警告";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "播放/暂停";
@@ -1138,6 +1183,9 @@
 
 /* No comment provided by engineer. */
 "Re-authenticate" = "重新验证";
+
+/* No comment provided by engineer. */
+"Re-enable Suggested Options" = "重新启用建议选项";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "连接守护进程";
@@ -1268,7 +1316,13 @@
 "Search Contacts…" = "搜索联系人…";
 
 /* No comment provided by engineer. */
+"Search in %@…" = "在 %@ 搜索…";
+
+/* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "在录音时保存所有可用信息，如联系信息或位置，以便搜索。";
+
+/* No comment provided by engineer. */
+"Search in Maps" = "在地图中搜索";
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "搜索录音…";
@@ -1435,6 +1489,9 @@
 "Stop Service" = "停止服务";
 
 /* No comment provided by engineer. */
+"Suggested Applications" = "建议应用";
+
+/* No comment provided by engineer. */
 "Sync" = "同步";
 
 /* No comment provided by engineer. */
@@ -1444,13 +1501,22 @@
 "Sync Service Provider" = "服务提供商";
 
 /* No comment provided by engineer. */
-"System Applications" = "系统应用程序";
+"System Applications" = "系统应用";
 
 /* No comment provided by engineer. */
 "System Audio" = "系统音频";
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "轻按并选中 __任一边缘__，  \n使其进入 ___活跃状态___。";
+
+/* No comment provided by engineer. */
+"Tap again to make a phone call." = "再次轻点以拨打电话";
+
+/* No comment provided by engineer. */
+"Tap again to open or search the location in Maps." = "再次轻点以在地图中打开或搜索";
+
+/* No comment provided by engineer. */
+"Tap again to start a FaceTime call." = "再次轻点开始 FaceTime 通话";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "轻点退出";
@@ -1516,6 +1582,9 @@
 "The unique identifier of the provider application." = "提供方应用程序的唯一标识符。";
 
 /* No comment provided by engineer. */
+"The URL is not valid." = "无效的 URL。";
+
+/* No comment provided by engineer. */
 "There is nothing but air." = "这里，只有空气。";
 
 /* No comment provided by engineer. */
@@ -1541,6 +1610,18 @@
 
 /* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你似乎没有启用 “微信通话助理”，你想立即启用吗？";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "微信通话助理不支持当前版本的微信（%@）。请升级到最新版本。";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "微信通话助理未经测试，可能不支持当前版本的微信（%@）。";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "微信通话助理仅提供对当前版本的微信（%@）的有限支持：视频通话会识别为上一次语音通话的联系人名称。建议升级到最新版本。";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is supported." = "微信通话助理支持当前版本的微信（%@）。";
 
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "毫秒数";
@@ -1575,7 +1656,7 @@
 "top edge" = "顶边";
 
 /* No comment provided by engineer. */
-"Touch ID" = "指纹 ID";
+"Touch ID" = "触控 ID";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "处理位置变化";
@@ -1692,7 +1773,7 @@
 "Upload, download or synconize recordings between local and cloud drive." = "在本地与云端之间上传、下载或同步录音。";
 
 /* No comment provided by engineer. */
-"Use biometric authentication to unlock the application." = "使用生物识别验证来解锁应用程序。";
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物识别验证来解锁应用程序。启用此功能时，后台播放不可用。";
 
 /* No comment provided by engineer. */
 "Use Cellular Network" = "使用蜂窝网络";
@@ -1716,7 +1797,7 @@
 "User Agreement" = "用户协议";
 
 /* No comment provided by engineer. */
-"User Applications" = "用户应用程序";
+"User Applications" = "用户应用";
 
 /* No comment provided by engineer. */
 "User denied access to speech recognition." = "用户拒绝了对语音识别授予隐私访问权限。";
@@ -1827,6 +1908,9 @@
 
 /* No comment provided by engineer. */
 "Which edges of the screen the hoverball can be attached to." = "悬浮球可以附着在屏幕的哪些边缘。";
+
+/* No comment provided by engineer. */
+"Why don’t you make a phone call?" = "为什么不打个电话试试呢？";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "在当前应用程序中通话时自动开始录音。";

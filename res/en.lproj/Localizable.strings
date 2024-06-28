@@ -87,6 +87,9 @@
 "Advanced Search" = "Advanced Search";
 
 /* No comment provided by engineer. */
+"After %@" = "After %@";
+
+/* No comment provided by engineer. */
 "Agree" = "Agree";
 
 /* No comment provided by engineer. */
@@ -214,6 +217,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Batch Export";
+
+/* No comment provided by engineer. */
+"Before %@" = "Before %@";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Before starting a call recording, a prompt voice is played to the opposite end.";
@@ -464,6 +470,9 @@
 "Discard Recording" = "Discard Recording";
 
 /* No comment provided by engineer. */
+"Discreet Voice Memos" = "Discreet Voice Memos";
+
+/* No comment provided by engineer. */
 "Dismiss" = "Dismiss";
 
 /* No comment provided by engineer. */
@@ -558,7 +567,19 @@
 "Enable %@" = "Enable %@";
 
 /* No comment provided by engineer. */
+"Enable Biometric Authentication" = "Enable Biometric Authentication";
+
+/* No comment provided by engineer. */
+"Enable Face ID" = "Enable Face ID";
+
+/* No comment provided by engineer. */
 "Enable Logging" = "Enable Logging";
+
+/* No comment provided by engineer. */
+"Enable Optic ID" = "Enable Optic ID";
+
+/* No comment provided by engineer. */
+"Enable Touch ID" = "Enable Touch ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "Enable WebDAV Server";
@@ -608,6 +629,12 @@
 
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
+
+/* No comment provided by engineer. */
+"FaceTime" = "FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime Audio";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "FaceTime Exclude List";
@@ -706,6 +733,9 @@
 "Google Drive" = "Google Drive";
 
 /* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "Hide When Snapshot";
 
 /* No comment provided by engineer. */
@@ -728,6 +758,9 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "Hoverball Style";
+
+/* No comment provided by engineer. */
+"How would you like to call?" = "How would you like to call?";
 
 "hud" = "hud";
 
@@ -831,6 +864,9 @@
 "Localized name of the provider application. That is, where this recording comes from." = "Localized name of the provider application. That is, where this recording comes from.";
 
 /* No comment provided by engineer. */
+"Locate in Maps" = "Locate in Maps";
+
+/* No comment provided by engineer. */
 "Location" = "Location";
 
 /* No comment provided by engineer. */
@@ -838,6 +874,9 @@
 
 /* No comment provided by engineer. */
 "Location Services" = "Location Services";
+
+/* No comment provided by engineer. */
+"Locked" = "Locked";
 
 /* StripedTextTableViewController */
 "Log Viewer" = "Log Viewer";
@@ -1017,6 +1056,9 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "Open in Filza";
 
+/* No comment provided by engineer. */
+"Open in Maps" = "Open in Maps";
+
 "Open Troll Recorder" = "Open Troll Recorder";
 
 /* No comment provided by engineer. */
@@ -1054,6 +1096,9 @@
 
 /* No comment provided by engineer. */
 "Period" = "Period";
+
+/* No comment provided by engineer. */
+"Phone" = "Phone";
 
 /* No comment provided by engineer. */
 "Phone Address" = "Phone Address";
@@ -1138,6 +1183,9 @@
 
 /* No comment provided by engineer. */
 "Re-authenticate" = "Re-authenticate";
+
+/* No comment provided by engineer. */
+"Re-enable Suggested Options" = "Re-enable Suggested Options";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "Reaching Daemon";
@@ -1268,7 +1316,13 @@
 "Search Contacts…" = "Search Contacts…";
 
 /* No comment provided by engineer. */
+"Search in %@…" = "Search in %@…";
+
+/* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Search in depth with all available information saved when recording such as contact info or locations.";
+
+/* No comment provided by engineer. */
+"Search in Maps" = "Search in Maps";
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "Search Recordings…";
@@ -1435,6 +1489,9 @@
 "Stop Service" = "Stop Service";
 
 /* No comment provided by engineer. */
+"Suggested Applications" = "Suggested Applications";
+
+/* No comment provided by engineer. */
 "Sync" = "Sync";
 
 /* No comment provided by engineer. */
@@ -1451,6 +1508,15 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+
+/* No comment provided by engineer. */
+"Tap again to make a phone call." = "Tap again to make a phone call.";
+
+/* No comment provided by engineer. */
+"Tap again to open or search the location in Maps." = "Tap again to open or search the location in Maps.";
+
+/* No comment provided by engineer. */
+"Tap again to start a FaceTime call." = "Tap again to start a FaceTime call.";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Tap to Exit";
@@ -1516,6 +1582,9 @@
 "The unique identifier of the provider application." = "The unique identifier of the provider application.";
 
 /* No comment provided by engineer. */
+"The URL is not valid." = "The URL is not valid.";
+
+/* No comment provided by engineer. */
 "There is nothing but air." = "There is nothing but air.";
 
 /* No comment provided by engineer. */
@@ -1541,6 +1610,18 @@
 
 /* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "This version of WeChat (%@) is not supported. Please upgrade to the latest version.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
 
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "Three-digit Milliseconds";
@@ -1692,7 +1773,7 @@
 "Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
 
 /* No comment provided by engineer. */
-"Use biometric authentication to unlock the application." = "Use biometric authentication to unlock the application.";
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled.";
 
 /* No comment provided by engineer. */
 "Use Cellular Network" = "Use Cellular Network";
@@ -1827,6 +1908,9 @@
 
 /* No comment provided by engineer. */
 "Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
+
+/* No comment provided by engineer. */
+"Why don’t you make a phone call?" = "Why don’t you make a phone call?";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Will start recording automatically on audio or video calls in the current application.";
