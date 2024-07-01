@@ -85,6 +85,8 @@ A botch job is a waste of time. That's why we always built our app in the best q
 | 自定义采样率 | - | ✅ | 更好的音频质量 |
 | 触控/面容 ID | - | ✅ | |
 | 隐秘语音备忘录 | - | ⚠️ | 仅越狱版提供，让语音备忘录保持隐身录制 |
+| 电话/联系人联动 | - | 即将推出 | 仅越狱版提供，在电话、FaceTime 与联系人 App 中回放录音 |
+| 更多网络存储 | - | 即将推出 | Google Drive 和 Dropbox |
 
 ### 巨魔版 vs 越狱版
 
@@ -94,6 +96,7 @@ A botch job is a waste of time. That's why we always built our app in the best q
 | 首次解锁后启动 | ✅ | - | 需将「巨魔录音机」小组件添加到主屏幕 |
 | 越狱后自启动 | - | ✅ | |
 | 隐秘语音备忘录 | - | ✅ | 让语音备忘录保持隐身录制 |
+| 电话/联系人联动 | - | 即将推出 | 在电话、FaceTime 与联系人 App 中回放录音 |
 
 ## Special Thanks
 
