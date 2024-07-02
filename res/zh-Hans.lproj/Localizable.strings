@@ -162,6 +162,9 @@
 "Applications" = "应用程序";
 
 /* No comment provided by engineer. */
+"Associate with Call History" = "与通话记录关联";
+
+/* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多储存空间，请谨慎开启。";
 
 /* No comment provided by engineer. */
@@ -825,10 +828,16 @@
 "Item #%lu" = "项 #%lu";
 
 /* No comment provided by engineer. */
+"Just in case that you love it." = "但愿你喜欢。";
+
+/* No comment provided by engineer. */
 "Just now" = "现在";
 
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "连接时保持屏幕常亮";
+
+/* No comment provided by engineer. */
+"Kill all applications and restart the render server (backboardd)." = "关闭所有应用程序并重启渲染服务（backboardd）。";
 
 /* No comment provided by engineer. */
 "Larger" = "较大";
@@ -1122,6 +1131,9 @@
 "Play" = "播放";
 
 /* No comment provided by engineer. */
+"Play back existing call recordings directly in the call history list." = "直接在通话记录列表中回放现有通话录音。";
+
+/* No comment provided by engineer. */
 "Play Recording Warning" = "播放录音警告";
 
 /* No comment provided by engineer. */
@@ -1266,6 +1278,9 @@
 
 /* No comment provided by engineer. */
 "Respring" = "妙手回春";
+
+/* No comment provided by engineer. */
+"Restart Render Server" = "重启渲染服务";
 
 /* No comment provided by engineer. */
 "Restore" = "恢复";
@@ -1792,6 +1807,9 @@
 
 /* No comment provided by engineer. */
 "Use Recycle Bin" = "使用回收站";
+
+/* No comment provided by engineer. */
+"Use Snapshot Transition" = "使用快照效果";
 
 /* No comment provided by engineer. */
 "User Agreement" = "用户协议";

@@ -161,6 +161,9 @@
 /* No comment provided by engineer. */
 "Applications" = "應用程式";
 
+/* TODO */
+"Associate with Call History" = "Associate with Call History";
+
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音訊檔案。 佔用較多存儲空間，請謹慎開啟。";
 
@@ -824,10 +827,16 @@
 "Item #%lu" = "項 #%lu";
 
 /* TODO */
+"Just in case that you love it." = "Just in case that you love it.";
+
+/* TODO */
 "Just now" = "Just now";
 
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "連線時保持熒幕常亮";
+
+/* TODO */
+"Kill all applications and restart the render server (backboardd)." = "Kill all applications and restart the render server (backboardd).";
 
 /* No comment provided by engineer. */
 "Larger" = "較大";
@@ -1120,6 +1129,9 @@
 /* TODO */
 "Play" = "Play";
 
+/* TODO */
+"Play back existing call recordings directly in the call history list." = "Play back existing call recordings directly in the call history list.";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音提示";
 
@@ -1265,6 +1277,9 @@
 
 /* No comment provided by engineer. */
 "Respring" = "妙手回春";
+
+/* TODO */
+"Restart Render Server" = "Restart Render Server";
 
 /* TODO */
 "Restore" = "Restore";
@@ -1791,6 +1806,9 @@
 
 /* No comment provided by engineer. */
 "Use Recycle Bin" = "使用回收站";
+
+/* TODO */
+"Use Snapshot Transition" = "Use Snapshot Transition";
 
 /* No comment provided by engineer. */
 "User Agreement" = "用戶合約";

@@ -161,6 +161,9 @@
 /* No comment provided by engineer. */
 "Applications" = "Các ứng dụng";
 
+/* TODO */
+"Associate with Call History" = "Associate with Call History";
+
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "Vào cuối quá trình ghi âm, các tệp âm thanh của mỗi kênh trong quá trình ghi âm được giữ lại.";
 
@@ -823,10 +826,16 @@
 "Item #%lu" = "Item #%lu";
 
 /* TODO */
+"Just in case that you love it." = "Just in case that you love it.";
+
+/* TODO */
 "Just now" = "Just now";
 
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "Giữ Màn Hình Bật Khi Kết Nối";
+
+/* TODO */
+"Kill all applications and restart the render server (backboardd)." = "Kill all applications and restart the render server (backboardd).";
 
 /* No comment provided by engineer. */
 "Larger" = "Lớn hơn";
@@ -1119,6 +1128,9 @@
 /* TODO */
 "Play" = "Play";
 
+/* TODO */
+"Play back existing call recordings directly in the call history list." = "Play back existing call recordings directly in the call history list.";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Phát Cảnh Báo Ghi Âm";
 
@@ -1264,6 +1276,9 @@
 
 /* No comment provided by engineer. */
 "Respring" = "Respring";
+
+/* TODO */
+"Restart Render Server" = "Restart Render Server";
 
 /* TODO */
 "Restore" = "Restore";
@@ -1790,6 +1805,9 @@
 
 /* No comment provided by engineer. */
 "Use Recycle Bin" = "Sử dụng Thùng rác";
+
+/* TODO */
+"Use Snapshot Transition" = "Use Snapshot Transition";
 
 /* No comment provided by engineer. */
 "User Agreement" = "Thỏa thuận người dùng";
