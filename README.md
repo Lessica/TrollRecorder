@@ -9,7 +9,7 @@ Not the first, but the best phone call recorder with [TrollStore](https://ios.cf
 ![Screenshot](./res/screenshot.png)
 
 - Supports iOS 15.0 to iOS 17.0
-- No iOS 14 support.
+- **No iOS 14 support.**
 
 #### Jailbreak Version
 
