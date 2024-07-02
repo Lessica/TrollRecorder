@@ -44,12 +44,6 @@ A botch job is a waste of time. That's why we always built our app in the best q
 - [ ] Record like Voice Memos
 - [ ] Built-In Audio Editor
 
-## Video Introduction
-
-<a href="https://www.youtube.com/watch?v=3aDnHGMbHk8">
-   <img src="https://img.youtube.com/vi/3aDnHGMbHk8/0.jpg" style="width:33%;">
-</a>
-
 ## 解锁全部功能
 
 - 🌟 超过 50 个高级功能
