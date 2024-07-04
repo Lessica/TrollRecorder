@@ -49,8 +49,8 @@
 /* No comment provided by engineer. */
 "4 Seconds" = "4 秒";
 
-/* TODO */
-"45 Days Ago" = "45 Days Ago";
+/* No comment provided by engineer. */
+"45 Days Ago" = "45 天前";
 
 /* No comment provided by engineer. */
 "5 Seconds" = "5 秒";
@@ -86,8 +86,8 @@
 /* No comment provided by engineer. */
 "Advanced Search" = "高級搜尋";
 
-/* TODO */
-"After %@" = "After %@";
+/* No comment provided by engineer. */
+"After %@" = "%@ 之後";
 
 /* No comment provided by engineer. */
 "Agree" = "同意";
@@ -104,8 +104,8 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允許自動錄音";
 
-/* TODO */
-"Allow Deletion of Local Recordings" = "Allow Deletion of Local Recordings";
+/* No comment provided by engineer. */
+"Allow Deletion of Local Recordings" = "允許刪除本地錄音";
 
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允許喚醒懸浮球";
@@ -134,17 +134,17 @@
 /* No comment provided by engineer. */
 "Always On" = "總是顯示";
 
-/* TODO */
-"Always schedule background processing tasks to run at the next available opportunity." = "Always schedule background processing tasks to run at the next available opportunity.";
+/* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "總是將背景處理任務安排在下一次合適的時機運行。";
 
-/* TODO */
-"AM/PM String" = "AM/PM String";
+/* No comment provided by engineer. */
+"AM/PM String" = "上午/下午";
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音訊";
 
-/* TODO */
-"App Icon" = "App Icon";
+/* No comment provided by engineer. */
+"App Icon" = "應用程式圖標";
 
 /* No comment provided by engineer. */
 "Appearance" = "顯示與外觀";
@@ -161,8 +161,8 @@
 /* No comment provided by engineer. */
 "Applications" = "應用程式";
 
-/* TODO */
-"Associate with Call History" = "Associate with Call History";
+/* No comment provided by engineer. */
+"Associate with Call History" = "與通話記錄連結";
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音訊檔案。 佔用較多存儲空間，請謹慎開啟。";
@@ -179,8 +179,8 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "自動錄音";
 
-/* TODO */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
+/* No comment provided by engineer. */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "当前月份的录音不会被归档。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲端硬碟中。";
 
 /* No comment provided by engineer. */
 "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小組件添加到主荧幕任意位置才能使此選項生效。";
@@ -191,8 +191,8 @@
 /* No comment provided by engineer. */
 "Automatically purge recycle bin and remove failure caches." = "定期自動清理回收站和錄音失敗時留下的緩存。";
 
-/* TODO */
-"Automatically query the latest version from GitHub when the application starts." = "Automatically query the latest version from GitHub when the application starts.";
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "應用程式啓動時，自動從 GutHub 查詢最新版本。";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "自動删除早於指定日期創建的錄音，除了那些被收藏的錄音。";
@@ -212,8 +212,8 @@
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "當 WebDAV 伺服器被任何用戶端使用時，避免荧幕自動鎖定。";
 
-/* TODO */
-"Background App Refresh Permission Denied" = "Background App Refresh Permission Denied";
+/* No comment provided by engineer. */
+"Background App Refresh Permission Denied" = "背景 App 重新整理被拒絕";
 
 /* No comment provided by engineer. */
 "Background Style" = "背景樣式";
@@ -221,8 +221,8 @@
 /* No comment provided by engineer. */
 "Batch Export" = "批量匯出";
 
-/* TODO */
-"Before %@" = "Before %@";
+/* No comment provided by engineer. */
+"Before %@" = "%@ 之前";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "接通並開始通話錄音前，向對方播放一段提示語音。 請遵守你所在地的法律法規。 關閉提示音後，可能會影響通話錄音作爲證據使用的法律效力。";
@@ -230,8 +230,8 @@
 /* No comment provided by engineer. */
 "Best" = "最好";
 
-/* TODO */
-"Bi-sync" = "Bi-sync";
+/* No comment provided by engineer. */
+"Bi-sync" = "雙向同步";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "生物特徵識別認證";
@@ -239,17 +239,17 @@
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour 服務已啓動：%@";
 
-/* TODO */
-"Boost Periodic Tasks" = "Boost Periodic Tasks";
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "加速定時任務";
 
 /* No comment provided by engineer. */
 "bottom edge" = "底部邊緣";
 
-/* TODO */
-"Build and use a custom export name template for exported audio files." = "Build and use a custom export name template for exported audio files.";
+/* No comment provided by engineer. */
+"Build and use a custom export name template for exported audio files." = "為匯出或歸檔的音頻檔案創建并使用自定義檔案名稱模板。";
 
-/* TODO */
-"Bundle Display Name" = "Bundle Display Name";
+/* No comment provided by engineer. */
+"Bundle Display Name" = "捆綁包顯示名稱";
 
 /* No comment provided by engineer. */
 "Bundle Identifier" = "捆綁包標識符";
@@ -281,11 +281,11 @@
 /* No comment provided by engineer. */
 "Cannot parse text with UTF-8 encoding: “%@”." = "無法使用 UTF-8 編碼解析文本: “%@”。";
 
-/* TODO */
-"Check Updates at Launch" = "Check Updates at Launch";
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "啓動時檢查更新";
 
-/* TODO */
-"Checking service status" = "Checking service status";
+/* No comment provided by engineer. */
+"Checking service status" = "檢查服務狀態";
 
 /* No comment provided by engineer. */
 "Child Pages" = "子頁面";
@@ -308,14 +308,14 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "清楚篩選項";
 
-/* TODO */
-"Close" = "Close";
+/* No comment provided by engineer. */
+"Close" = "關閉";
 
 /* No comment provided by engineer. */
 "Collapse Recursively" = "遞迴摺叠";
 
-/* TODO */
-"Collecting" = "Collecting";
+/* No comment provided by engineer. */
+"Collecting" = "收集中";
 
 /* No comment provided by engineer. */
 "Combined" = "組合";
@@ -333,8 +333,8 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連線客戶端：%d";
 
-/* TODO */
-"Constants" = "Constants";
+/* No comment provided by engineer. */
+"Constants" = "常量";
 
 /* No comment provided by engineer. */
 "Contact Exceptions" = "聯絡人例外";
@@ -357,11 +357,11 @@
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "此列表中的聯絡人將不會被錄音";
 
-/* TODO */
-"Contacts Permission Denied" = "Contacts Permission Denied";
+/* No comment provided by engineer. */
+"Contacts Permission Denied" = "聯絡人被拒絕訪問";
 
-/* TODO */
-"Content Sharing" = "Content Sharing";
+/* No comment provided by engineer. */
+"Content Sharing" = "内容共享";
 
 /* No comment provided by engineer. */
 "Continue" = "繼續";
@@ -405,8 +405,8 @@
 /* No comment provided by engineer. */
 "Created At" = "創建於";
 
-/* TODO */
-"Custom Export Name" = "Custom Export Name";
+/* TNo comment provided by engineer. */
+"Custom Export Name" = "自定義匯出名稱";
 
 /* No comment provided by engineer. */
 "Custom Layout Guide" = "自定義安全區域";
@@ -414,14 +414,14 @@
 /* No comment provided by engineer. */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "自定義一個矩形區域以幫助您在熒幕上定位懸浮球。";
 
-/* TODO */
-"Date & Time" = "Date & Time";
+/* No comment provided by engineer. */
+"Date & Time" = "日期與時間";
 
-/* TODO */
-"Day of Month Number" = "Day of Month Number";
+/* No comment provided by engineer. */
+"Day of Month Number" = "月份日期";
 
-/* TODO */
-"Day of Week String" = "Day of Week String";
+/* No comment provided by engineer. */
+"Day of Week String" = "星期幾";
 
 "deactivate" = "deactivate";
 
@@ -451,8 +451,8 @@
 /* No comment provided by engineer. */
 "Deleting" = "刪除中";
 
-/* TODO */
-"Deselect All" = "Deselect All";
+/* No comment provided by engineer. */
+"Deselect All" = "取消全選";
 
 /* No comment provided by engineer. */
 "Developer Options" = "開發者選項";
@@ -460,11 +460,11 @@
 /* No comment provided by engineer. */
 "Direction" = "通話類型";
 
-/* TODO */
-"Direction Capitalized" = "Direction Capitalized";
+/* TNo comment provided by engineer. */
+"Direction Capitalized" = "通話方向（首字母大寫）";
 
-/* TODO */
-"Direction Description" = "Direction Description";
+/* No comment provided by engineer. */
+"Direction Description" = "通話方向（描述）";
 
 /* No comment provided by engineer. */
 "Disabled" = "關閉";
@@ -472,17 +472,17 @@
 /* No comment provided by engineer. */
 "Discard Recording" = "丟棄錄音";
 
-/* TODO */
-"Discreet Voice Memos" = "Discreet Voice Memos";
+/* TNo comment provided by engineer. */
+"Discreet Voice Memos" = "隱秘語音備忘錄";
 
 /* No comment provided by engineer. */
 "Dismiss" = "忽略";
 
-/* TODO */
-"Display a notification banner and play an audible notice." = "Display a notification banner and play an audible notice.";
+/* No comment provided by engineer. */
+"Display a notification banner and play an audible notice." = "顯示通知橫幅時發出提示音。";
 
-/* TODO */
-"Display a notification banner and update the badge above the application icon." = "Display a notification banner and update the badge above the application icon.";
+/* No comment provided by engineer. */
+"Display a notification banner and update the badge above the application icon." = "顯示通知橫幅時更新應用程式圖標上的角標。";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "錄音結束時，顯示通知橫幅。";
@@ -529,8 +529,8 @@
 /* No comment provided by engineer. */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你確認要重置軟體授權，并將所有設定還原爲原始值嗎？你的錄音檔案不會被刪除。";
 
-/* TODO */
-"Done" = "Done";
+/* No comment provided by engineer. */
+"Done" = "已完成";
 
 /* No comment provided by engineer. */
 "Don’t ask again" = "不再詢問";
@@ -541,17 +541,17 @@
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
 
-/* TODO */
-"Duration" = "Duration";
+/* No comment provided by engineer. */
+"Duration" = "持續時間";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "閑置時長";
 
-/* TODO */
-"Duration Description" = "Duration Description";
+/* No comment provided by engineer. */
+"Duration Description" = "持續時間（描述）";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "僅轉場";
@@ -559,29 +559,29 @@
 /* No comment provided by engineer. */
 "E.U.L.A." = "最終用戶授權合約";
 
-/* TODO */
-"Empty Trash" = "Empty Trash";
+/* No comment provided by engineer. */
+"Empty Trash" = "清空回收站";
 
-/* TODO */
-"Empty Trash (%@)" = "Empty Trash (%@)";
+/* No comment provided by engineer. */
+"Empty Trash (%@)" = "清空回收站 (%@)";
 
 /* No comment provided by engineer. */
 "Enable %@" = "啓用 %@";
 
-/* TODO */
-"Enable Biometric Authentication" = "Enable Biometric Authentication";
+/* No comment provided by engineer. */
+"Enable Biometric Authentication" = "啓用生物特徵識別驗證";
 
-/* TODO */
-"Enable Face ID" = "Enable Face ID";
+/* No comment provided by engineer. */
+"Enable Face ID" = "啓用 Face ID";
 
-/* TODO */
-"Enable Logging" = "Enable Logging";
+/* No comment provided by engineer. */
+"Enable Logging" = "啓用日志";
 
-/* TODO */
-"Enable Optic ID" = "Enable Optic ID";
+/* No comment provided by engineer. */
+"Enable Optic ID" = "啓用 Optic ID";
 
-/* TODO */
-"Enable Touch ID" = "Enable Touch ID";
+/* TNo comment provided by engineer. */
+"Enable Touch ID" = "啓用 Touch ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "啓用 WebDAV 伺服器";
@@ -623,20 +623,20 @@
 /* No comment provided by engineer. */
 "Export to Anywhere" = "任意匯出";
 
-/* TODO */
-"Export with Metadata" = "Export with Metadata";
+/* No comment provided by engineer. */
+"Export with Metadata" = "匯出元數據";
 
-/* TODO */
-"Exporting" = "Exporting";
+/* No comment provided by engineer. */
+"Exporting" = "匯出中";
 
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
-/* TODO */
+/* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
 
-/* TODO */
-"FaceTime Audio" = "FaceTime Audio";
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime 音訊";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "FaceTime 排除列表";
@@ -644,8 +644,8 @@
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
 
-/* TODO */
-"Failed to export %d recordings" = "Failed to export %d recordings";
+/* No comment provided by engineer. */
+"Failed to export %d recordings" = "無法匯出 %d 條錄音";
 
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "無法以當前區域 “%@” 初初始化轉錄引擎。";
@@ -665,14 +665,14 @@
 /* No comment provided by engineer. */
 "Features Unlocked" = "功能已解鎖";
 
-/* TODO */
-"File Format" = "File Format";
+/* No comment provided by engineer. */
+"File Format" = "檔案格式";
 
 /* No comment provided by engineer. */
 "File Size" = "檔案大小";
 
-/* TODO */
-"Filter" = "Filter";
+/* No comment provided by engineer. */
+"Filter" = "過濾器";
 
 /* No comment provided by engineer. */
 "Finalizing" = "完成中";
@@ -689,11 +689,11 @@
 /* No comment provided by engineer. */
 "Format" = "格式";
 
-/* TODO */
-"Formatted Location" = "Formatted Location";
+/* TNo comment provided by engineer. */
+"Formatted Location" = "地理位置（格式化）";
 
-/* TODO */
-"Forward 10 seconds" = "Forward 10 seconds";
+/* No comment provided by engineer. */
+"Forward 10 seconds" = "前進 10 秒";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "獲取幫助";
@@ -707,17 +707,17 @@
 /* No comment provided by engineer. */
 "Full" = "完整";
 
-/* TODO */
-"Full Date" = "Full Date";
+/* No comment provided by engineer. */
+"Full Date" = "完整日期";
 
-/* TODO */
-"Full Month Name" = "Full Month Name";
+/* No comment provided by engineer. */
+"Full Month Name" = "月份名稱";
 
-/* TODO */
-"Full Time" = "Full Time";
+/* No comment provided by engineer. */
+"Full Time" = "完整時間";
 
-/* TODO */
-"Full Year" = "Full Year";
+/* No comment provided by engineer. */
+"Full Year" = "完整年份";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "在通話中打開控制面板即可控制錄製參數。";
@@ -731,23 +731,23 @@
 /* No comment provided by engineer. */
 "Go Home When Unlocked" = "解鎖後回到主熒幕";
 
-/* TODO */
-"Google Drive" = "Google Drive";
+/* No comment provided by engineer. */
+"Google Drive" = "Google 雲端硬碟";
 
-/* TODO */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏 “語音備忘錄” 在鎖屏界面上的顯示，並隱藏其 “動態島” 活動。此功能可能需要妙手回春才能完全生效。";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏時隱藏";
 
-/* TODO */
-"Hours Minutes Seconds" = "Hours Minutes Seconds";
+/* No comment provided by engineer. */
+"Hours Minutes Seconds" = "小時/分鐘/秒";
 
-/* TODO */
-"Hours, 12-hour Clock" = "Hours, 12-hour Clock";
+/* No comment provided by engineer. */
+"Hours, 12-hour Clock" = "小時（12小時制）";
 
-/* TODO */
-"Hours, 24-hour Clock" = "Hours, 24-hour Clock";
+/* No comment provided by engineer. */
+"Hours, 24-hour Clock" = "小時（24小時制）";
 
 /* No comment provided by engineer. */
 "Hoverball" = "懸浮球";
@@ -761,28 +761,28 @@
 /* No comment provided by engineer. */
 "Hoverball Style" = "顯示樣式";
 
-/* TODO */
-"How would you like to call?" = "How would you like to call?";
+/* No comment provided by engineer. */
+"How would you like to call?" = "你想如何撥打電話？";
 
 "hud" = "hud";
 
-/* TODO */
-"Hyphen" = "Hyphen";
+/* No comment provided by engineer. */
+"Hyphen" = "連字符";
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "我已经阅读并同意《最終用戶授權合約》";
 
-/* TODO */
-"iCloud Drive" = "iCloud Drive";
+/* No comment provided by engineer. */
+"iCloud Drive" = "iCloud 雲端硬碟";
 
-/* TODO */
-"iCloud Drive Not Logged In" = "iCloud Drive Not Logged In";
+/* TNo comment provided by engineer. */
+"iCloud Drive Not Logged In" = "未登入 iCloud 雲端硬碟";
 
 /* No comment provided by engineer. */
 "Idle" = "空閑";
 
-/* TODO */
-"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
+/* No comment provided by engineer. */
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "如果啓用的雙向同步，則允許將雲端的刪除反映到本地檔案系統中。";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果您的手機支援 2 張 SIM 卡，錄音通話時所使用的 SIM 卡別名將顯示在這裏。";
@@ -814,10 +814,10 @@
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "將“創建檔案”操作安裝到“捷徑”中，然後將您的錄製共享到此操作以創建ZIP檔案。";
 
-/* TODO */
+/* No comment provided by engineer. */
 "iPad" = "iPad";
 
-/* TODO */
+/* No comment provided by engineer. */
 "iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
@@ -826,17 +826,17 @@
 /* No comment provided by engineer. */
 "Item #%lu" = "項 #%lu";
 
-/* TODO */
-"Just in case that you love it." = "Just in case that you love it.";
+/* No comment provided by engineer. */
+"Just in case that you love it." = "但願你鍾意。";
 
-/* TODO */
-"Just now" = "Just now";
+/* No comment provided by engineer. */
+"Just now" = "現在";
 
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "連線時保持熒幕常亮";
 
-/* TODO */
-"Kill all applications and restart the render server (backboardd)." = "Kill all applications and restart the render server (backboardd).";
+/* No comment provided by engineer. */
+"Kill all applications and restart the render server (backboardd)." = "關閉所有應用程式並重啓渲染服務（backboardd）";
 
 /* No comment provided by engineer. */
 "Larger" = "較大";
@@ -862,8 +862,8 @@
 /* No comment provided by engineer. */
 "Loading…" = "載入中…";
 
-/* TODO */
-"Local Network Permission Denied" = "Local Network Permission Denied";
+/* No comment provided by engineer. */
+"Local Network Permission Denied" = "本地網絡被拒絕訪問";
 
 /* No comment provided by engineer. */
 "Local Storage" = "本地儲存";
@@ -871,20 +871,20 @@
 /* No comment provided by engineer. */
 "Localized name of the provider application. That is, where this recording comes from." = "提供方應用程式的本地化名稱，即這段錄音從何而來。";
 
-/* TODO */
-"Locate in Maps" = "Locate in Maps";
+/* No comment provided by engineer. */
+"Locate in Maps" = "在地圖中定位";
 
 /* No comment provided by engineer. */
 "Location" = "地理位置";
 
-/* TODO */
-"Location Permission Denied" = "Location Permission Denied";
+/* No comment provided by engineer. */
+"Location Permission Denied" = "地理位置被拒絕訪問";
 
 /* No comment provided by engineer. */
 "Location Services" = "位置服務";
 
-/* TODO */
-"Locked" = "Locked";
+/* No comment provided by engineer. */
+"Locked" = "已鎖定";
 
 /* No comment provided by engineer. */
 "Log Viewer" = "日志檢視器";
@@ -892,11 +892,11 @@
 /* No comment provided by engineer. */
 "Logging" = "日志";
 
-/* TODO */
-"Long Date" = "Long Date";
+/* No comment provided by engineer. */
+"Long Date" = "長日期";
 
-/* TODO */
-"Long Time" = "Long Time";
+/* No comment provided by engineer. */
+"Long Time" = "長時間";
 
 /* No comment provided by engineer. */
 "Low" = "低";
@@ -907,8 +907,8 @@
 /* No comment provided by engineer. */
 "Made with love by @Lessica & @Lakr233" = "@Lessica 和 @Lakr233 一起寫的";
 
-/* TODO */
-"Mail composition failed" = "Mail composition failed";
+/* No comment provided by engineer. */
+"Mail composition failed" = "郵件發送失敗";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或熒幕錄製時使懸浮球不可見。";
@@ -928,16 +928,16 @@
 /* No comment provided by engineer. */
 "Medium" = "適中";
 
-/* TODO */
-"Medium Date" = "Medium Date";
+/* No comment provided by engineer. */
+"Medium Date" = "中等日期";
 
-/* TODO */
-"Medium Time" = "Medium Time";
+/* No comment provided by engineer. */
+"Medium Time" = "中等時間";
 
 /* No comment provided by engineer. */
 "Merged File" = "合并檔案";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Metadata" = "Metadata";
 
 /* No comment provided by engineer. */
@@ -946,8 +946,8 @@
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "麥克風和揚聲器在不同的檔案中錄音。";
 
-/* TODO */
-"Minutes" = "Minutes";
+/* No comment provided by engineer. */
+"Minutes" = "分鐘";
 
 /* No comment provided by engineer. */
 "Mixed" = "混合";
@@ -964,14 +964,14 @@
 /* No comment provided by engineer. */
 "Mixer Sample Rate" = "取樣速率";
 
-/* TODO */
-"Month Number" = "Month Number";
+/* No comment provided by engineer. */
+"Month Number" = "月份";
 
-/* TODO */
-"More icons, more innovation." = "More icons, more innovation.";
+/* No comment provided by engineer. */
+"More icons, more innovation." = "多點圖標，多點新意。";
 
-/* TODO */
-"More Options" = "More Options";
+/* No comment provided by engineer. */
+"More Options" = "更多選項";
 
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "將删除的錄音移動到一個特殊的資料檔案夾，允許你在改變主意或後來意識到需要它們時恢復已删除的項目。";
@@ -982,17 +982,17 @@
 /* No comment provided by engineer. */
 "Multiple Devices" = "在多達 5 臺裝置上同時使用";
 
-/* TODO */
-"My Favourite" = "My Favourite";
+/* No comment provided by engineer. */
+"My Favourite" = "已收藏";
 
 /* No comment provided by engineer. */
 "My Favourites" = "我的收藏";
 
-/* TODO */
-"Name" = "Name";
+/* No comment provided by engineer. */
+"Name" = "名稱";
 
-/* TODO */
-"Name with Alias" = "Name with Alias";
+/* No comment provided by engineer. */
+"Name with Alias" = "帶別名的名稱";
 
 /* No comment provided by engineer. */
 "Needs all features?" = "需要全部功能？";
@@ -1030,17 +1030,17 @@
 /* No comment provided by engineer. */
 "None" = "無";
 
-/* TODO */
-"Not My Favourite" = "Not My Favourite";
+/* No comment provided by engineer. */
+"Not My Favourite" = "未收藏";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "未導入任何内容";
 
-/* TODO */
-"Nothing Inside" = "Nothing Inside";
+/* No comment provided by engineer. */
+"Nothing Inside" = "這裏面空無一物";
 
-/* TODO */
-"Notification Permission Denied" = "Notification Permission Denied";
+/* No comment provided by engineer. */
+"Notification Permission Denied" = "推送通知被拒絕訪問";
 
 /* No comment provided by engineer. */
 "Notifications" = "通知與提醒";
@@ -1064,22 +1064,22 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "在 Filza 中打開";
 
-/* TODO */
-"Open in Maps" = "Open in Maps";
+/* No comment provided by engineer. */
+"Open in Maps" = "在地圖中打開";
 
 "Open Troll Recorder" = "打開巨魔錄音機";
 
 /* No comment provided by engineer. */
 "Operation Failed" = "操作失敗";
 
-/* TODO */
-"Operator Name" = "Operator Name";
+/* No comment provided by engineer. */
+"Operator Name" = "運營商名稱";
 
 /* No comment provided by engineer. */
-"Optic ID" = "視網膜 ID";
+"Optic ID" = "Optic ID";
 
-/* TODO */
-"Optimize %@ Storage" = "Optimize %@ Storage";
+/* No comment provided by engineer. */
+"Optimize %@ Storage" = "優化 %@ 儲存空間";
 
 /* No comment provided by engineer. */
 "Outgoing" = "去電";
@@ -1090,11 +1090,11 @@
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "來自 “%@” 的去電錄音";
 
-/* TODO */
-"Page not found" = "Page not found";
+/* No comment provided by engineer. */
+"Page not found" = "未找到頁面";
 
-/* TODO */
-"Pause" = "Pause";
+/* No comment provided by engineer. */
+"Pause" = "暫停";
 
 /* No comment provided by engineer. */
 "Pause Recording" = "暫停錄音";
@@ -1102,11 +1102,11 @@
 /* No comment provided by engineer. */
 "Paused" = "暫停";
 
-/* TODO */
-"Period" = "Period";
+/* No comment provided by engineer. */
+"Period" = "句點";
 
-/* TODO */
-"Phone" = "Phone";
+/* No comment provided by engineer. */
+"Phone" = "電話";
 
 /* No comment provided by engineer. */
 "Phone Address" = "電話號碼";
@@ -1123,23 +1123,23 @@
 /* No comment provided by engineer. */
 "Phone Number or Email Address" = "電話號碼或電郵地址";
 
-/* TODO */
-"Placemark Name" = "Placemark Name";
+/* No comment provided by engineer. */
+"Placemark Name" = "地標名稱";
 
-/* TODO */
-"Play" = "Play";
+/* No comment provided by engineer. */
+"Play" = "播放";
 
-/* TODO */
-"Play back existing call recordings directly in the call history list." = "Play back existing call recordings directly in the call history list.";
+/* No comment provided by engineer. */
+"Play back existing call recordings directly in the call history list." = "直接在通話記錄列表中回播現有通話錄音。";
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音提示";
 
-/* TODO */
-"Play/Pause" = "Play/Pause";
+/* No comment provided by engineer. */
+"Play/Pause" = "播放/暫停";
 
-/* TODO */
-"Please check your mail configuration." = "Please check your mail configuration.";
+/* TNo comment provided by engineer. */
+"Please check your mail configuration." = "請檢查你的郵件配置。";
 
 /* No comment provided by engineer. */
 "Popover Control" = "懸浮球";
