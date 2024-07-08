@@ -13,23 +13,32 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ 可能未配置";
 
+/* StripedTextTableViewController */
+"%@ rows not loaded" = "%@ 行未加载";
+
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "超过 %d 个专属功能";
 
 /* No comment provided by engineer. */
-"%d recordings" = "%d 个录音";
+"%ld Recording" = "%ld 条录音";
 
 /* No comment provided by engineer. */
-"%ld Recording" = "%ld 录音";
+"%ld Recording ◇ %@" = "%ld 条录音 ◇ %@";
 
 /* No comment provided by engineer. */
-"%ld Recording ◇ %@" = "%ld 录音 ◇ %@";
+"%ld Recordings" = "%ld 条录音";
 
 /* No comment provided by engineer. */
-"%ld Recordings" = "%ld 录音";
+"%ld Recordings ◇ %@" = "%ld 条录音 ◇ %@";
 
 /* No comment provided by engineer. */
-"%ld Recordings ◇ %@" = "%ld 录音 ◇ %@";
+"(%lu bytes)" = "(%lu 字节)";
+
+/* No comment provided by engineer. */
+"(%lu items)" = "(%lu 项)";
+
+/* No comment provided by engineer. */
+"(null)" = "(空)";
 
 /* No comment provided by engineer. */
 "3 Seconds" = "3 秒";
@@ -41,6 +50,9 @@
 "4 Seconds" = "4 秒";
 
 /* No comment provided by engineer. */
+"45 Days Ago" = "45 天前";
+
+/* No comment provided by engineer. */
 "5 Seconds" = "5 秒";
 
 /* No comment provided by engineer. */
@@ -49,8 +61,11 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 天前";
 
+/* ObjectTableViewController */
+"<%@: %p>" = "<%@: %p>";
+
 /* No comment provided by engineer. */
-"A new version of the app is available." = "有新版本的应用程序可用。";
+"A new version (%@) of “TrollRecorder” is available." = "巨魔录音机有新版本 %@ 可用。";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "从网络中的另一台设备的 WebDAV 浏览器中访问你的录音。仅当应用程序处于前台时服务可用。";
@@ -58,8 +73,6 @@
 "activate" = "activate";
 
 "Activate the recorder hoverball." = "启动服务，并打开录音悬浮球。";
-
-"Add" = "添加";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "自定义联系人";
@@ -74,13 +87,37 @@
 "Advanced Search" = "高级搜索";
 
 /* No comment provided by engineer. */
+"After %@" = "%@ 之后";
+
+/* No comment provided by engineer. */
 "Agree" = "同意";
+
+/* No comment provided by engineer. */
+"All Edges" = "所有边缘";
+
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "所有日志将被保留 7 天。过期日志将被自动删除。";
+
+/* No comment provided by engineer. */
+"Allow Access to Call History" = "允许访问通话记录";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "允许自动录音";
 
 /* No comment provided by engineer. */
+"Allow Deletion of Local Recordings" = "允许删除本地录音";
+
+/* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允许唤醒悬浮球";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "允许读取微信联系人列表和 VoIP 通话记录以自动填充录音的联系人姓名。仅支持新版本官方微信。";
+
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允许录制已登录 iCloud 帐户、在你附近且接入无线局域网的设备上的通话。";
+
+/* No comment provided by engineer. */
+"Always" = "始终";
 
 /* No comment provided by engineer. */
 "Always Dark" = "保持深色";
@@ -89,7 +126,7 @@
 "Always Dynamic" = "保持动态";
 
 /* No comment provided by engineer. */
-"Always keep the global hoverball window visible." = "总是保持全局悬浮球可见。";
+"Always keep the hoverball window visible." = "总是保持悬浮球可见。";
 
 /* No comment provided by engineer. */
 "Always Light" = "保持浅色";
@@ -98,7 +135,16 @@
 "Always On" = "始终显示";
 
 /* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "始终将后台处理任务安排在下一次合适的时机运行。";
+
+/* No comment provided by engineer. */
+"AM/PM String" = "上午/下午";
+
+/* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音频";
+
+/* No comment provided by engineer. */
+"App Icon" = "应用程序图标";
 
 /* No comment provided by engineer. */
 "Appearance" = "显示与外观";
@@ -110,13 +156,19 @@
 "Application" = "应用程序";
 
 /* No comment provided by engineer. */
-"Application Overrides" = "应用程序覆盖";
+"Application Overrides" = "偏好设置";
 
 /* No comment provided by engineer. */
 "Applications" = "应用程序";
 
 /* No comment provided by engineer. */
-"At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多存储空间，请谨慎开启。";
+"Associate with Call History" = "与通话记录关联";
+
+/* No comment provided by engineer. */
+"At the end of recording, the audio files of each channel during recording are retained." = "录音结束时，保留录音期间每个通道的原始音频文件。占用较多储存空间，请谨慎开启。";
+
+/* No comment provided by engineer. */
+"Attachable Edges" = "可吸附边缘";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "音频压缩";
@@ -128,19 +180,31 @@
 "Automatic Recording" = "自动录音";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "当设备重新启动并解锁时，自动启用后台服务。需要将 “巨魔录音机” 小组件添加到主屏幕任意位置才能使此选项生效。";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "每月自动为混合和组合模式的录音创建克隆，并将其存储在 iCloud 云盘中。当前月份的录音不会被归档。";
+
+/* No comment provided by engineer. */
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "当设备重新启动并解锁时，自动启用后台服务。需要将 “巨魔录音机” 小组件添加到主屏幕任意位置才能使此选项生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "录音完成后，自动将麦克风和扬声器合并成一个文件。";
 
 /* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "定期自动清理回收站，并移除录音失败时留下的缓存。";
+
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "应用程序启动时，自动从 GitHub 查询最新版本。";
+
+/* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "自动删除早于指定日期创建的录音，除了那些被收藏的录音。";
 
 /* No comment provided by engineer. */
-"Automatically removes cached data left behind when a recording fails at regular intervals." = "定期自动删除录音失败时留下的缓存数据。";
+"Automatically stop recording when available disk space is extremely low." = "当剩余储存空间极低时，自动停止录音。";
 
 /* No comment provided by engineer. */
-"Automatically stop recording when the free disk space is extremely low." = "当剩余磁盘空间极低时，自动停止录音。";
+"Automatically Suspend in Background" = "后台自动暂停";
+
+/* No comment provided by engineer. */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解锁后自动上划进入桌面。锁定后 10 秒内解锁，此动作不会生效。";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "一次购买终身可用";
@@ -149,10 +213,16 @@
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "当 WebDAV 服务器被任何客户端使用时，避免屏幕自动锁定。";
 
 /* No comment provided by engineer. */
+"Background App Refresh Permission Denied" = "后台 App 刷新被拒绝";
+
+/* No comment provided by engineer. */
 "Background Style" = "背景样式";
 
 /* No comment provided by engineer. */
 "Batch Export" = "批量导出";
+
+/* No comment provided by engineer. */
+"Before %@" = "%@ 之前";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "接通并开始通话录音前，向对方播放一段提示语音。请遵守你所在地的法律法规。关闭提示音后，可能会影响通话录音作为证据使用的法律效力。";
@@ -161,10 +231,25 @@
 "Best" = "最好";
 
 /* No comment provided by engineer. */
+"Bi-sync" = "双向同步";
+
+/* No comment provided by engineer. */
 "Biometric Authentication" = "生物识别验证";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour 服务已启动：%@";
+
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "加速定时任务";
+
+/* No comment provided by engineer. */
+"bottom edge" = "底边";
+
+/* No comment provided by engineer. */
+"Build and use a custom export name template for exported audio files." = "为导出或归档的音频文件创建并使用自定义文件名称模板。";
+
+/* No comment provided by engineer. */
+"Bundle Display Name" = "捆绑包显示名称";
 
 /* No comment provided by engineer. */
 "Bundle Identifier" = "捆绑包标识符";
@@ -182,16 +267,28 @@
 "Call Recording" = "通话录音";
 
 /* No comment provided by engineer. */
-"Call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的通话录音。";
+"Call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的通话录音";
 
 /* No comment provided by engineer. */
-"Call recording from “%@”." = "来自 “%@” 的通话录音。";
+"Call recording from “%@”." = "来自 “%@” 的通话录音";
 
 /* No comment provided by engineer. */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "打开此开关，使去电被对方接听时才自动开始录音。来电总是在被接听时才自动开始录音。";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Cannot parse text with UTF-8 encoding: “%@”." = "无法使用 UTF-8 编码解析文本：“%@”。";
+
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "启动时检查更新";
+
+/* No comment provided by engineer. */
+"Checking service status" = "检查服务状态";
+
+/* No comment provided by engineer. */
+"Child Pages" = "子页面";
 
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "选择混音器的输出音频格式。波形音频格式不支持高级编码。";
@@ -203,13 +300,22 @@
 "Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "选择混音器的输出采样率。低：8 kHz，普通：22.05 kHz，最好：44.1 kHz。";
 
 /* No comment provided by engineer. */
-"Choose the size preset of the global hoverball." = "选择全局悬浮球的预设尺寸。";
+"Choose the size preset of the hoverball." = "选择悬浮球的预设尺寸。";
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "自动清理缓存";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "清除筛选项";
+
+/* No comment provided by engineer. */
+"Close" = "关闭";
+
+/* ObjectTableViewController */
+"Collapse Recursively" = "递归折叠";
+
+/* No comment provided by engineer. */
+"Collecting" = "收集中";
 
 /* No comment provided by engineer. */
 "Combined" = "组合";
@@ -220,8 +326,15 @@
 /* No comment provided by engineer. */
 "Compress Recording" = "压缩音频";
 
+/* PlainTextViewController
+   StripedTextTableViewController */
+"Confirm" = "确认";
+
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已连接客户端：%d";
+
+/* No comment provided by engineer. */
+"Constants" = "常量";
 
 /* No comment provided by engineer. */
 "Contact Exceptions" = "联系人例外";
@@ -245,6 +358,12 @@
 "Contacts in this list will not be recorded in any situation." = "此列表中的联系人将不会被录音。";
 
 /* No comment provided by engineer. */
+"Contacts Permission Denied" = "联系人被拒绝访问";
+
+/* No comment provided by engineer. */
+"Content Sharing" = "内容共享";
+
+/* No comment provided by engineer. */
 "Continue" = "继续";
 
 /* No comment provided by engineer. */
@@ -265,14 +384,44 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "已复制转录";
 
+/* StripedTextTableViewController */
+"Copy" = "拷贝";
+
+/* ObjectTableViewController */
+"Copy Key" = "拷贝键";
+
 /* No comment provided by engineer. */
-"Copy Path" = "复制路径";
+"Copy Path" = "拷贝路径";
 
 /* No comment provided by engineer. */
 "Copy Transcript" = "复制转录";
 
+/* ObjectTableViewController */
+"Copy Value" = "拷贝值";
+
+/* No comment provided by engineer. */
+"Create Archive" = "制作归档";
+
 /* No comment provided by engineer. */
 "Created At" = "创建于";
+
+/* No comment provided by engineer. */
+"Custom Export Name" = "自定义导出名称";
+
+/* No comment provided by engineer. */
+"Custom Layout Guide" = "自定义安全区域";
+
+/* No comment provided by engineer. */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "自定义一个矩形区域，帮助你在屏幕上定位悬浮球。";
+
+/* No comment provided by engineer. */
+"Date & Time" = "日期和时间";
+
+/* No comment provided by engineer. */
+"Day of Month Number" = "月份日期";
+
+/* No comment provided by engineer. */
+"Day of Week String" = "星期几";
 
 "deactivate" = "deactivate";
 
@@ -283,6 +432,9 @@
 "Deactivate & Sign Out" = "反激活并退出登录";
 
 "Deactivate the recorder hoverball." = "启动服务，并关闭录音悬浮球。";
+
+/* No comment provided by engineer. */
+"Debugging" = "调试";
 
 /* No comment provided by engineer. */
 "Delete" = "删除";
@@ -297,22 +449,46 @@
 "Delete Selected Item" = "删除选中项";
 
 /* No comment provided by engineer. */
-"Direction" = "通话类型";
+"Deleting" = "删除中";
+
+/* No comment provided by engineer. */
+"Deselect All" = "取消全选";
+
+/* No comment provided by engineer. */
+"Developer Options" = "开发者选项";
+
+/* No comment provided by engineer. */
+"Direction" = "通话方向";
+
+/* No comment provided by engineer. */
+"Direction Capitalized" = "通话方向（首字母大写）";
+
+/* No comment provided by engineer. */
+"Direction Description" = "通话方向（描述）";
+
+/* No comment provided by engineer. */
+"Disabled" = "关闭";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "丢弃录音";
 
 /* No comment provided by engineer. */
+"Discreet Voice Memos" = "隐秘语音备忘录";
+
+/* No comment provided by engineer. */
 "Dismiss" = "忽略";
 
 /* No comment provided by engineer. */
-"Display a notification banner and make some noise when recording ends." = "录音结束时，显示通知横幅并发出声音。";
+"Display a notification banner and play an audible notice." = "显示通知横幅时发出提示音。";
 
 /* No comment provided by engineer. */
-"Display a notification banner and update the badge on the application icon when recording ends." = "录音结束时，显示通知横幅并更新应用程序图标上的徽章。";
+"Display a notification banner and update the badge above the application icon." = "显示通知横幅时更新应用程序图标上的角标。";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "录音结束时，显示通知横幅。";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording starts." = "录音开始时，显示通知横幅。";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "在通知横幅中显示录音的详细信息。";
@@ -321,13 +497,16 @@
 "Display the exact duration of the recorded audio." = "显示已录制音频的准确时间长度。";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call in the current application." = "在当前应用程序中通话时显示全局悬浮球。";
+"Display the hoverball during a call in the current application." = "在当前应用程序中通话时显示悬浮球。";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call." = "在通话中显示全局悬浮球。";
+"Display the hoverball during a call." = "在通话中显示悬浮球。";
 
 /* No comment provided by engineer. */
-"Display the global hoverball when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，显示全局悬浮球。";
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，显示悬浮球。";
+
+/* No comment provided by engineer. */
+"Display the name or description of each option." = "显示每个选项的名称或描述。";
 
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "显示通讯录当中联系人的姓名，而不是他们的电话号码。";
@@ -342,10 +521,38 @@
 "Display the short name of the SIM card used for the recording if available." = "如果可用，显示此录音通话时所使用的 SIM 卡的简称。";
 
 /* No comment provided by engineer. */
-"Display the source bundle name of the recording." = "显示录音来源的捆绑包名称。";
+"Display the source bundle name of the recording." = "显示录音的来源，即通话时所使用的应用程序名称。";
+
+/* PlainTextViewController
+   StripedTextTableViewController */
+"Do you want to clear this log file “%@”?" = "你确定要清空日志文件 “%@” 吗？";
+
+/* No comment provided by engineer. */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你确定要重置软件许可，并将所有设置还原为默认值吗？你的录音不会被删除。";
+
+/* No comment provided by engineer. */
+"Done" = "已完成";
+
+/* No comment provided by engineer. */
+"Don’t ask again" = "不再询问";
+
+/* No comment provided by engineer. */
+"Double tap to restore __all edges__  \nto their default sizes." = "轻点两次以恢复 __所有边缘__ 至默认尺寸。";
+
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此处__ 以调节 ___%@___ 的尺寸。";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
+
+/* No comment provided by engineer. */
+"Duration" = "持续时间";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "闲置时长";
+
+/* No comment provided by engineer. */
+"Duration Description" = "持续时间（描述）";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "仅转场";
@@ -354,7 +561,28 @@
 "E.U.L.A." = "最终用户许可协议";
 
 /* No comment provided by engineer. */
+"Empty Trash" = "清空回收站";
+
+/* No comment provided by engineer. */
+"Empty Trash (%@)" = "清空回收站 (%@)";
+
+/* No comment provided by engineer. */
 "Enable %@" = "启用 %@";
+
+/* No comment provided by engineer. */
+"Enable Biometric Authentication" = "启用生物识别验证";
+
+/* No comment provided by engineer. */
+"Enable Face ID" = "启用面容 ID";
+
+/* No comment provided by engineer. */
+"Enable Logging" = "启用日志";
+
+/* No comment provided by engineer. */
+"Enable Optic ID" = "启用光学 ID";
+
+/* No comment provided by engineer. */
+"Enable Touch ID" = "启用触控 ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "启用 WebDAV 服务器";
@@ -363,7 +591,13 @@
 "Enabled" = "启用";
 
 /* No comment provided by engineer. */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "当应用程序进入后台且最后一个连接关闭时，自动暂停 WebDAV 服务。当应用程序回到前台时恢复服务。";
+
+/* No comment provided by engineer. */
 "End Date" = "结束日期";
+
+/* No comment provided by engineer. */
+"End Editing" = "结束编辑";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "增强自动录音";
@@ -381,6 +615,9 @@
 
 "Exit Hoverball" = "关闭悬浮球";
 
+/* ObjectTableViewController */
+"Expand Recursively" = "递归展开";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "将录音导出并保存到任何地方。";
 
@@ -388,7 +625,19 @@
 "Export to Anywhere" = "任意导出";
 
 /* No comment provided by engineer. */
+"Export with Metadata" = "导出元数据";
+
+/* No comment provided by engineer. */
+"Exporting" = "导出中";
+
+/* No comment provided by engineer. */
 "Face ID" = "面容 ID";
+
+/* No comment provided by engineer. */
+"FaceTime" = "FaceTime 通话";
+
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime 音频";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "FaceTime 排除列表";
@@ -397,16 +646,19 @@
 "FaceTime VIP" = "FaceTime VIP";
 
 /* No comment provided by engineer. */
+"Failed to export %d recordings" = "无法导出 %d 条录音";
+
+/* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "无法以当前区域 “%@” 初始化转录引擎。";
 
 /* No comment provided by engineer. */
-"Failed to play: %@" = "无法播放：%@";
+"Failed to play: %@" = "播放失败：%@";
 
 /* No comment provided by engineer. */
-"Failed to recover: %@" = "无法恢复：%@";
+"Failed to recover: %@" = "恢复失败：%@";
 
 /* No comment provided by engineer. */
-"Failed to remove %@" = "无法删除 %@";
+"Failed to remove: %@" = "删除失败：%@";
 
 /* No comment provided by engineer. */
 "Faster Support" = "更快的技术支持";
@@ -415,13 +667,19 @@
 "Features Unlocked" = "功能已解锁";
 
 /* No comment provided by engineer. */
+"File Format" = "文件格式";
+
+/* No comment provided by engineer. */
 "File Size" = "文件大小";
 
 /* No comment provided by engineer. */
-"Filza Not Installed" = "Filza 未安装";
+"Filter" = "过滤器";
 
 /* No comment provided by engineer. */
 "Finalizing" = "完成中";
+
+/* ObjectTableViewController */
+"Focus" = "聚焦";
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "折叠到屏幕边缘";
@@ -433,6 +691,12 @@
 "Format" = "格式";
 
 /* No comment provided by engineer. */
+"Formatted Location" = "地理位置（格式化）";
+
+/* No comment provided by engineer. */
+"Forward 10 seconds" = "前进 10 秒";
+
+/* No comment provided by engineer. */
 "Frequently Asked Questions" = "获取帮助";
 
 /* No comment provided by engineer. */
@@ -440,6 +704,21 @@
 
 /* No comment provided by engineer. */
 "From: %@" = "起始于：%@";
+
+/* No comment provided by engineer. */
+"Full" = "完整";
+
+/* No comment provided by engineer. */
+"Full Date" = "完整日期";
+
+/* No comment provided by engineer. */
+"Full Month Name" = "月份名称";
+
+/* No comment provided by engineer. */
+"Full Time" = "完整时间";
+
+/* No comment provided by engineer. */
+"Full Year" = "完整年份";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "在通话中打开控制面板即可控制录制参数。";
@@ -451,7 +730,25 @@
 "Get notifications after record complete." = "录音完成后可推送通知提醒。";
 
 /* No comment provided by engineer. */
+"Go Home When Unlocked" = "解锁后回到桌面";
+
+/* No comment provided by engineer. */
+"Google Drive" = "Google 云端硬盘";
+
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隐藏 “语音备忘录” 在锁屏界面上的显示，并隐藏其 “灵动岛” 活动。此功能可能需要妙手回春才能完全生效。";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏时隐藏";
+
+/* No comment provided by engineer. */
+"Hours Minutes Seconds" = "小时/分钟/秒";
+
+/* No comment provided by engineer. */
+"Hours, 12-hour Clock" = "小时（12 小时制）";
+
+/* No comment provided by engineer. */
+"Hours, 24-hour Clock" = "小时（24 小时制）";
 
 /* No comment provided by engineer. */
 "Hoverball" = "悬浮球";
@@ -465,19 +762,31 @@
 /* No comment provided by engineer. */
 "Hoverball Style" = "显示样式";
 
+/* No comment provided by engineer. */
+"How would you like to call?" = "你想如何拨打电话？";
+
 "hud" = "hud";
+
+/* No comment provided by engineer. */
+"Hyphen" = "连字符";
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "我已经阅读并同意《最终用户许可协议》";
 
 /* No comment provided by engineer. */
+"iCloud Drive" = "iCloud 云盘";
+
+/* No comment provided by engineer. */
+"iCloud Drive Not Logged In" = "未登录 iCloud 云盘";
+
+/* No comment provided by engineer. */
 "Idle" = "空闲";
 
 /* No comment provided by engineer. */
-"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果你的手机支持双卡，录音通话时所使用的 SIM 卡别名将显示在这里。";
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "如果启用了双向同步，则允许将云端的删除反映到本地文件系统中。";
 
 /* No comment provided by engineer. */
-"Ignore For 7 Days" = "忽略 7 天";
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果你的手机支持双卡，录音通话时所使用的 SIM 卡别名将显示在这里。";
 
 /* No comment provided by engineer. */
 "In 1 Hour" = "1 小时内";
@@ -489,10 +798,10 @@
 "Incoming" = "来电";
 
 /* No comment provided by engineer. */
-"Incoming call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的来电录音。";
+"Incoming call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的来电录音";
 
 /* No comment provided by engineer. */
-"Incoming call recording from “%@”." = "来自 “%@” 的来电录音。";
+"Incoming call recording from “%@”." = "来自 “%@” 的来电录音";
 
 /* No comment provided by engineer. */
 "Inconsistency Found" = "配置不一致";
@@ -504,10 +813,31 @@
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安装 “压缩音频” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以将你的音频压缩为 AAC/AIFF 格式。";
 
 /* No comment provided by engineer. */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安装 “制作归档” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以创建一个 ZIP 档案。";
+
+/* No comment provided by engineer. */
+"iPad" = "iPad";
+
+/* No comment provided by engineer. */
+"iPhone" = "iPhone";
+
+/* No comment provided by engineer. */
 "Is Favourite" = "是否收藏";
 
 /* No comment provided by engineer. */
+"Item #%lu" = "项 #%lu";
+
+/* No comment provided by engineer. */
+"Just in case that you love it." = "但愿你喜欢。";
+
+/* No comment provided by engineer. */
+"Just now" = "现在";
+
+/* No comment provided by engineer. */
 "Keep Screen On When Connected" = "连接时保持屏幕常亮";
+
+/* No comment provided by engineer. */
+"Kill all applications and restart the render server (backboardd)." = "关闭所有应用程序并重启渲染服务（backboardd）。";
 
 /* No comment provided by engineer. */
 "Larger" = "较大";
@@ -516,10 +846,16 @@
 "Later" = "以后再说";
 
 /* No comment provided by engineer. */
-"Launch Application At End" = "结束时启动应用";
+"Launch App at End" = "结束时启动应用";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "首次解锁时启动";
+
+/* No comment provided by engineer. */
+"Leading & Trailing" = "左右边缘";
+
+/* No comment provided by engineer. */
+"leading edge" = "左边";
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "将设备链接到 Havoc";
@@ -528,31 +864,58 @@
 "Loading…" = "载入中…";
 
 /* No comment provided by engineer. */
+"Local Network Permission Denied" = "本地网络被拒绝访问";
+
+/* No comment provided by engineer. */
 "Local Storage" = "本地存储";
 
 /* No comment provided by engineer. */
 "Localized name of the provider application. That is, where this recording comes from." = "提供方应用程序的本地化名称，即这段录音从何而来。";
 
 /* No comment provided by engineer. */
+"Locate in Maps" = "在地图中定位";
+
+/* No comment provided by engineer. */
 "Location" = "地理位置";
+
+/* No comment provided by engineer. */
+"Location Permission Denied" = "地理位置被拒绝访问";
 
 /* No comment provided by engineer. */
 "Location Services" = "位置服务";
 
 /* No comment provided by engineer. */
+"Locked" = "已锁定";
+
+/* StripedTextTableViewController */
+"Log Viewer" = "日志查看器";
+
+/* No comment provided by engineer. */
+"Logging" = "日志";
+
+/* No comment provided by engineer. */
+"Long Date" = "长日期";
+
+/* No comment provided by engineer. */
+"Long Time" = "长时间";
+
+/* No comment provided by engineer. */
 "Low" = "低";
 
 /* No comment provided by engineer. */
-"Low Disk Space" = "磁盘空间不足";
+"Low Disk Space" = "储存空间不足";
 
 /* No comment provided by engineer. */
 "Made with love by @Lessica & @Lakr233" = "@Lessica 和 @Lakr233 一起写的";
 
 /* No comment provided by engineer. */
-"Make the global hoverball invisible when taking screenshots or screen recordings." = "在进行截屏或屏幕录制时使悬浮球不可见。";
+"Mail composition failed" = "邮件发送失败";
 
 /* No comment provided by engineer. */
-"Make the global hoverball semi-transparent or folded when leave it for a while." = "当悬浮球闲置一段时间后，使其半透明或折叠到屏幕边缘。";
+"Make the hoverball invisible when taking screenshots or screen recordings." = "在进行截屏或屏幕录制时使悬浮球不可见。";
+
+/* No comment provided by engineer. */
+"Make the hoverball semi-transparent or folded when leave it for a while." = "当悬浮球闲置一段时间后，使其半透明或折叠到屏幕边缘。";
 
 /* No comment provided by engineer. */
 "Making a phone call to begin recording." = "进行通话以开始录制。";
@@ -567,13 +930,25 @@
 "Medium" = "适中";
 
 /* No comment provided by engineer. */
+"Medium Date" = "中等日期";
+
+/* No comment provided by engineer. */
+"Medium Time" = "中等时间";
+
+/* No comment provided by engineer. */
 "Merged File" = "合并文件";
+
+/* No comment provided by engineer. */
+"Metadata" = "元数据";
 
 /* No comment provided by engineer. */
 "Microphone" = "麦克风";
 
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "麦克风和扬声器在不同的文件中录音。";
+
+/* No comment provided by engineer. */
+"Minutes" = "分钟";
 
 /* No comment provided by engineer. */
 "Mixed" = "混合";
@@ -591,7 +966,16 @@
 "Mixer Sample Rate" = "采样率";
 
 /* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "将删除的录音移动到一个特殊的文件夹，允许你在改变主意或后来意识到需要它们时恢复已删除的项目。";
+"Month Number" = "月份";
+
+/* No comment provided by engineer. */
+"More icons, more innovation." = "多点图标，多点新意。";
+
+/* No comment provided by engineer. */
+"More Options" = "更多选项";
+
+/* No comment provided by engineer. */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "将删除的录音移动到一个特殊的文件夹，允许你在改变主意或后来意识到需要它们时恢复已删除的项目。";
 
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "MPEG-4 音频 (m4a)";
@@ -600,7 +984,16 @@
 "Multiple Devices" = "在多达 5 台设备上同时使用";
 
 /* No comment provided by engineer. */
+"My Favourite" = "已收藏";
+
+/* No comment provided by engineer. */
 "My Favourites" = "我的收藏";
+
+/* No comment provided by engineer. */
+"Name" = "名称";
+
+/* No comment provided by engineer. */
+"Name with Alias" = "带别名的名称";
 
 /* No comment provided by engineer. */
 "Needs all features?" = "需要全部功能？";
@@ -613,6 +1006,12 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "新匹配条目";
+
+/* No comment provided by engineer. */
+"New Version Available" = "有新版本可用";
+
+/* No comment provided by engineer. */
+"NO" = "否";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "在选定的联系人中未找到电话号码。";
@@ -633,13 +1032,25 @@
 "None" = "无";
 
 /* No comment provided by engineer. */
+"Not My Favourite" = "未收藏";
+
+/* No comment provided by engineer. */
 "Nothing Imported" = "未导入任何内容";
+
+/* No comment provided by engineer. */
+"Nothing Inside" = "这里面空无一物";
+
+/* No comment provided by engineer. */
+"Notification Permission Denied" = "推送通知被拒绝访问";
 
 /* No comment provided by engineer. */
 "Notifications" = "通知与提醒";
 
+/* ObjectTableViewController */
+"Object Viewer" = "对象查看器";
+
 /* No comment provided by engineer. */
-"OK" = "确定";
+"OK" = "好";
 
 /* No comment provided by engineer. */
 "Oops!" = "似乎出了一点小问题";
@@ -652,33 +1063,51 @@
 "Open Hoverball" = "打开悬浮球";
 
 /* No comment provided by engineer. */
-"Open In Filza" = "在 Filza 中打开";
+"Open in Filza" = "在 Filza 中打开";
 
 /* No comment provided by engineer. */
-"Open Recycle Bin" = "打开回收站";
+"Open in Maps" = "在地图中打开";
 
 "Open Troll Recorder" = "打开巨魔录音机";
 
 /* No comment provided by engineer. */
-"Open “Filza File Manager” to view or recover your recordings." = "打开 “Filza 文件管理器” 查看或恢复你的录音。";
+"Operation Failed" = "操作失败";
 
 /* No comment provided by engineer. */
-"Operation Timeout\nQuit this application and try again." = "操作超时\n退出此应用程序并重试。";
+"Operator Name" = "运营商名称";
 
 /* No comment provided by engineer. */
-"Optic ID" = "视网膜 ID";
+"Optic ID" = "光学 ID";
+
+/* No comment provided by engineer. */
+"Optimize %@ Storage" = "优化 %@ 储存空间";
 
 /* No comment provided by engineer. */
 "Outgoing" = "去电";
 
 /* No comment provided by engineer. */
-"Outgoing call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的去电录音。";
+"Outgoing call recording from “%@” and other %ld applications." = "来自 “%@” 和其他 %ld 个应用程序的去电录音";
 
 /* No comment provided by engineer. */
-"Outgoing call recording from “%@”." = "来自 “%@” 的去电录音。";
+"Outgoing call recording from “%@”." = "来自 “%@” 的去电录音";
+
+/* No comment provided by engineer. */
+"Page not found" = "未找到页面";
+
+/* No comment provided by engineer. */
+"Pause" = "暂停";
+
+/* No comment provided by engineer. */
+"Pause Recording" = "暂停录音";
 
 /* No comment provided by engineer. */
 "Paused" = "暂停";
+
+/* No comment provided by engineer. */
+"Period" = "句点";
+
+/* No comment provided by engineer. */
+"Phone" = "电话";
 
 /* No comment provided by engineer. */
 "Phone Address" = "电话号码";
@@ -696,7 +1125,22 @@
 "Phone Number or Email Address" = "电话号码或电子邮箱地址";
 
 /* No comment provided by engineer. */
-"Play Recording Warning" = "播放录音提示";
+"Placemark Name" = "地标名称";
+
+/* No comment provided by engineer. */
+"Play" = "播放";
+
+/* No comment provided by engineer. */
+"Play back existing call recordings directly in the call history list." = "直接在通话记录列表中回放现有通话录音。";
+
+/* No comment provided by engineer. */
+"Play Recording Warning" = "播放录音警告";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "播放/暂停";
+
+/* No comment provided by engineer. */
+"Please check your mail configuration." = "请检查你的邮件配置。";
 
 /* No comment provided by engineer. */
 "Popover Control" = "悬浮球";
@@ -705,19 +1149,28 @@
 "Populate Location When App Starts" = "应用启动时填充位置";
 
 /* No comment provided by engineer. */
-"Popup Audible Banner At End" = "显示有声通知";
+"Popup Banner at Begin" = "显示开始通知";
 
 /* No comment provided by engineer. */
-"Popup Banner & Badge At End" = "显示通知和徽章";
+"Popup Banner at End" = "显示结束通知";
 
 /* No comment provided by engineer. */
-"Popup Banner At End" = "显示通知";
+"Popup Banner with Badge" = "显示通知角标";
 
 /* No comment provided by engineer. */
-"Popup Banner With Detail" = "显示通知详情";
+"Popup Banner with Detail" = "显示通知详情";
+
+/* No comment provided by engineer. */
+"Popup Banner with Sound" = "显示有声通知";
+
+/* No comment provided by engineer. */
+"Preparing" = "准备中";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "保留所有通道";
+
+/* No comment provided by engineer. */
+"Press both of the physical volume buttons to start or stop recording during a call." = "通话过程中，同时按下两个音量键开始或停止录音。";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "预览已关闭";
@@ -732,7 +1185,19 @@
 "Purchase" = "购买";
 
 /* No comment provided by engineer. */
+"Quick Recording" = "快速录音";
+
+/* No comment provided by engineer. */
+"Quit and relaunch to continue using the Pro features." = "重启应用以继续使用专业版功能。";
+
+/* No comment provided by engineer. */
+"Quit this application and try again." = "退出此应用程序并重试。";
+
+/* No comment provided by engineer. */
 "Re-authenticate" = "重新验证";
+
+/* No comment provided by engineer. */
+"Re-enable Suggested Options" = "重新启用建议选项";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "连接守护进程";
@@ -741,10 +1206,16 @@
 "Ready" = "就绪";
 
 /* No comment provided by engineer. */
+"Ready to record!" = "准备录音！";
+
+/* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "自动录制所有来电和去电。";
 
 /* No comment provided by engineer. */
 "Record Automatically" = "自动录制";
+
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "录制其他设备上的通话";
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "接通时录音";
@@ -758,22 +1229,43 @@
 "recording" = "录音";
 
 /* No comment provided by engineer. */
+"Recording (Localized)" = "录音";
+
+/* No comment provided by engineer. */
+"Recording Options" = "录音选项";
+
+/* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，录音开始。";
 
 /* No comment provided by engineer. */
-"Recording%@_%@" = "录音%@_%@";
+"Recording successfully started." = "正在录音中";
+
+/* No comment provided by engineer. */
+"Recording will begin when the call is answered." = "即将于通话接通后开始录音。";
+
+/* No comment provided by engineer. */
+"RECORDING_LOCALIZED" = "录音";
 
 /* No comment provided by engineer. */
 "Recordings" = "录音";
 
 /* No comment provided by engineer. */
-"Recover Files" = "恢复文件";
+"Recordings here are permanently removed after 30 days." = "这里的录音将在 30 天后被永久删除。";
+
+/* No comment provided by engineer. */
+"Recycle Bin" = "回收站";
 
 /* No comment provided by engineer. */
 "Regular" = "普通";
 
 /* No comment provided by engineer. */
-"Reinstall %@" = "重新安装 %@";
+"Relaunched" = "妙手已回春";
+
+/* No comment provided by engineer. */
+"Release Notes" = "发行说明";
+
+/* No comment provided by engineer. */
+"Remove All Recordings Permanently" = "永久删除所有录音";
 
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "删除过期录音";
@@ -782,13 +1274,49 @@
 "Rename" = "重命名";
 
 /* No comment provided by engineer. */
+"Reset Service" = "重置服务";
+
+/* No comment provided by engineer. */
 "Respring" = "妙手回春";
+
+/* No comment provided by engineer. */
+"Restart Render Server" = "重启渲染服务";
+
+/* No comment provided by engineer. */
+"Restore" = "恢复";
+
+/* No comment provided by engineer. */
+"Restore Selected %ld Items" = "恢复选中的 %ld 项";
+
+/* No comment provided by engineer. */
+"Restore Selected Item" = "恢复选中项";
+
+/* No comment provided by engineer. */
+"Restoring" = "恢复中";
+
+/* No comment provided by engineer. */
+"Resume Recording" = "继续录音";
+
+/* No comment provided by engineer. */
+"Resume with Warning" = "继续并警告";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "反选";
 
 /* No comment provided by engineer. */
+"Rewind 5 seconds" = "倒回 5 秒钟";
+
+/* ObjectTableViewController */
+"Root" = "根";
+
+/* No comment provided by engineer. */
 "Sample Rate" = "采样率";
+
+/* No comment provided by engineer. */
+"Sandbox Build" = "沙盒构建";
+
+/* No comment provided by engineer. */
+"Save" = "保存";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "通话场景识别";
@@ -803,13 +1331,25 @@
 "Search Contacts…" = "搜索联系人…";
 
 /* No comment provided by engineer. */
+"Search in %@…" = "在 %@ 搜索…";
+
+/* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "在录音时保存所有可用信息，如联系信息或位置，以便搜索。";
+
+/* No comment provided by engineer. */
+"Search in Maps" = "在地图中搜索";
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "搜索录音…";
 
 /* No comment provided by engineer. */
+"Seconds" = "秒数";
+
+/* No comment provided by engineer. */
 "Secure Payment" = "安全的支付方式";
+
+/* No comment provided by engineer. */
+"See ya!" = "再见！";
 
 /* No comment provided by engineer. */
 "Select" = "选择";
@@ -821,13 +1361,37 @@
 "Select All" = "全选";
 
 /* No comment provided by engineer. */
+"Select the primary cloud service provider for recording synchronization." = "选择用于录音同步的主要云服务提供商。";
+
+/* No comment provided by engineer. */
 "Semi-Transparent" = "半透明";
+
+/* No comment provided by engineer. */
+"Sender Name" = "号卡名称";
+
+/* No comment provided by engineer. */
+"Sender Phone Address" = "号卡电话号码";
+
+/* No comment provided by engineer. */
+"Sender Short Name" = "号卡别名";
 
 /* No comment provided by engineer. */
 "Separated Channels" = "分离音轨";
 
 /* No comment provided by engineer. */
+"Separators" = "分隔符";
+
+/* No comment provided by engineer. */
 "Server started at: %@" = "服务已启动：%@";
+
+/* No comment provided by engineer. */
+"Service is alive" = "服务正常运行";
+
+/* No comment provided by engineer. */
+"Service is dead" = "服务已停止";
+
+/* No comment provided by engineer. */
+"Service Status" = "服务状态";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "为这段录音设置一个新的名称，或者留空使用默认名称。";
@@ -842,10 +1406,28 @@
 "Share" = "分享";
 
 /* No comment provided by engineer. */
+"Short Date" = "简短日期";
+
+/* No comment provided by engineer. */
+"Short Day of Week String" = "周几";
+
+/* No comment provided by engineer. */
+"Short Month Name" = "月份缩写";
+
+/* No comment provided by engineer. */
+"Short Time" = "简短时间";
+
+/* No comment provided by engineer. */
 "Show Bundle Name" = "显示捆绑包名称";
 
 /* No comment provided by engineer. */
 "Show Contact Names" = "显示联系人姓名";
+
+/* No comment provided by engineer. */
+"Show on Lock Screen" = "在锁屏界面显示";
+
+/* No comment provided by engineer. */
+"Show Option Description" = "显示选项描述";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "显示录音时长";
@@ -860,13 +1442,28 @@
 "Show Waveform Previews" = "显示波形预览";
 
 /* No comment provided by engineer. */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "为开发者显示 “查看详情” 菜单项，以查看录音的细节清单。";
+
+/* No comment provided by engineer. */
 "SIM Card Alias" = "SIM 卡别名";
 
 /* No comment provided by engineer. */
 "Smaller" = "较小";
 
 /* No comment provided by engineer. */
+"Smart Cloud Archive" = "智能云归档";
+
+/* No comment provided by engineer. */
 "Software License" = "软件许可";
+
+/* No comment provided by engineer. */
+"Some settings have been reset to default values." = "某些设置已重置为默认值";
+
+/* No comment provided by engineer. */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "出现了一些问题，我们无法验证你的购买。你可以轻按 “查看我的账户”，确认你的订单状态或兑换礼品代码。";
+
+/* No comment provided by engineer. */
+"Space" = "空格";
 
 /* No comment provided by engineer. */
 "Speaker" = "扬声器";
@@ -885,6 +1482,9 @@
 
 "Start Recording" = "开始录音";
 
+/* No comment provided by engineer. */
+"Stay tuned. We’re recording your call in the background." = "巨魔录音机正在后台录制此次通话。";
+
 "stop" = "停止";
 
 /* No comment provided by engineer. */
@@ -898,19 +1498,46 @@
 "Stop Recording" = "停止录音";
 
 /* No comment provided by engineer. */
-"Stop Recording When Disk Exhausted" = "磁盘空间不足时停止录音";
+"Stop Recording When Disk Exhausted" = "空间不足时停止录音";
 
 /* No comment provided by engineer. */
 "Stop Service" = "停止服务";
 
 /* No comment provided by engineer. */
-"System Applications" = "系统应用程序";
+"Suggested Applications" = "建议应用";
+
+/* No comment provided by engineer. */
+"Sync" = "同步";
+
+/* No comment provided by engineer. */
+"Sync Service Mode" = "服务模式";
+
+/* No comment provided by engineer. */
+"Sync Service Provider" = "服务提供商";
+
+/* No comment provided by engineer. */
+"System Applications" = "系统应用";
 
 /* No comment provided by engineer. */
 "System Audio" = "系统音频";
 
 /* No comment provided by engineer. */
+"Tap __any edge__  \nto select it as an ___active edge___." = "轻按并选中 __任一边缘__，  \n使其进入 ___活跃状态___。";
+
+/* No comment provided by engineer. */
+"Tap again to make a phone call." = "再次轻点以拨打电话";
+
+/* No comment provided by engineer. */
+"Tap again to open or search the location in Maps." = "再次轻点以在地图中打开或搜索";
+
+/* No comment provided by engineer. */
+"Tap again to start a FaceTime call." = "再次轻点开始 FaceTime 通话";
+
+/* No comment provided by engineer. */
 "Tap to Exit" = "轻点退出";
+
+/* No comment provided by engineer. */
+"Tap to open settings" = "轻按以打开设置";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暂时忽略";
@@ -920,6 +1547,9 @@
 
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "录音结束时应用将自动启动。";
+
+/* No comment provided by engineer. */
+"The content of text file “%@” is empty." = "文本文件 “%@” 的内容为空。";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "音频创建的日期和时间。";
@@ -961,13 +1591,16 @@
 "The size of selected audio file." = "选定音频文件的大小。";
 
 /* No comment provided by engineer. */
-"The time interval before the global hoverball becomes idle." = "全局悬浮球变为闲置状态之前的时间。";
+"The time interval before the hoverball becomes idle." = "悬浮球变为闲置状态之前的时间。";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "提供方应用程序的唯一标识符。";
 
 /* No comment provided by engineer. */
-"There is nothing but air." = "这里只有空气。";
+"The URL is not valid." = "无效的 URL。";
+
+/* No comment provided by engineer. */
+"There is nothing but air." = "这里，只有空气。";
 
 /* No comment provided by engineer. */
 "There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "在录制完成时，后台服务未能立即合并录音文件。万幸的是，现在你可以完成这最后一步！";
@@ -985,7 +1618,43 @@
 "This field accept phone number or an email address for matching contact." = "此字段可填写电话号码或电子邮箱地址以匹配联系人。";
 
 /* No comment provided by engineer. */
+"This is a sandbox build, the daemon is not available." = "守护进程不可用";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你可以购买 “巨魔录音机” 来启用 “微信通话助理”，你想现在购买吗？";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你似乎没有启用 “微信通话助理”，你想立即启用吗？";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "微信通话助理不支持当前版本的微信（%@）。请升级到最新版本。";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "微信通话助理未经测试，可能不支持当前版本的微信（%@）。";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "微信通话助理仅提供对当前版本的微信（%@）的有限支持：视频通话会识别为上一次语音通话的联系人名称。建议升级到最新版本。";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is supported." = "微信通话助理支持当前版本的微信（%@）。";
+
+/* No comment provided by engineer. */
+"Three-digit Milliseconds" = "毫秒数";
+
+/* No comment provided by engineer. */
 "To" = "结束于";
+
+/* No comment provided by engineer. */
+"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "如需配置 iCloud 云盘，请转到 “设置 > 蜂窝移动网络 > iCloud 云盘”。";
+
+/* No comment provided by engineer. */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服务的活跃状态，你需要为巨魔录音机选择 “始终” 或 “使用 App 期间”。";
+
+/* No comment provided by engineer. */
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "如需使用智能云存档，你需要为巨魔录音机启用后台 App 刷新。";
+
+/* No comment provided by engineer. */
+"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "要使用智能云存档，你必须在设置中登录 iCloud 云盘。";
 
 /* No comment provided by engineer. */
 "To: %@" = "结束于：%@";
@@ -998,13 +1667,17 @@
 
 "Toggle Recording" = "开始/停止录音";
 
-"Toggle Recording" = "开始/停止录音";
+/* No comment provided by engineer. */
+"top edge" = "顶边";
 
 /* No comment provided by engineer. */
-"Touch ID" = "指纹 ID";
+"Touch ID" = "触控 ID";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "处理位置变化";
+
+/* No comment provided by engineer. */
+"trailing edge" = "右边";
 
 /* No comment provided by engineer. */
 "Transcript" = "转录";
@@ -1015,22 +1688,68 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "由 @AUTHOR_NAME 翻译";
 
-"Troll Recorder" = "巨魔录音机";
-
 /* No comment provided by engineer. */
-"TrollRecorder" = "巨魔录音机";
+"Troll Recorder" = "巨魔录音机";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "关闭此选项，使此页面上的其他选项对当前应用程序生效。";
 
 /* No comment provided by engineer. */
+"Two-digit Day of Month Number" = "两位数月份日期";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 12-hour Clock" = "两位数小时（12 小时制）";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 24-hour Clock" = "两位数小时（24 小时制）";
+
+/* No comment provided by engineer. */
+"Two-digit Minutes" = "两位数分钟";
+
+/* No comment provided by engineer. */
+"Two-digit Month Number" = "两位数月份";
+
+/* No comment provided by engineer. */
+"Two-digit Seconds" = "两位秒数";
+
+/* No comment provided by engineer. */
+"Type to search…" = "键入以搜索…";
+
+/* No comment provided by engineer. */
 "Uncompressed" = "未压缩 (PCM)";
+
+/* No comment provided by engineer. */
+"Underscore" = "下划线";
 
 /* No comment provided by engineer. */
 "Unknown" = "未知";
 
 /* No comment provided by engineer. */
+"Unknown Address" = "未知地址";
+
+/* No comment provided by engineer. */
+"Unknown Artist" = "未知艺术家";
+
+/* No comment provided by engineer. */
+"Unknown Direction" = "未知方向";
+
+/* No comment provided by engineer. */
+"Unknown Duration" = "未知持续时间";
+
+/* No comment provided by engineer. */
 "Unknown Error" = "未知错误";
+
+/* No comment provided by engineer. */
+"Unknown File Format" = "未知文件格式";
+
+/* No comment provided by engineer. */
+"Unknown Location" = "未知地点";
+
+/* No comment provided by engineer. */
+"Unknown Operator" = "未知运营商";
+
+/* No comment provided by engineer. */
+"Unknown Phone Address" = "未知电话号码";
 
 /* No comment provided by engineer. */
 "Unknown Place" = "未知地点";
@@ -1039,25 +1758,40 @@
 "Unknown Provider" = "未知提供方";
 
 /* No comment provided by engineer. */
+"Unknown Sample Rate" = "未知采样率";
+
+/* No comment provided by engineer. */
+"Unknown Sender" = "未知号卡";
+
+/* No comment provided by engineer. */
+"Unknown Variant" = "未知变体";
+
+/* No comment provided by engineer. */
 "Unmark" = "取消收藏";
 
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "不支持的配置";
 
 /* No comment provided by engineer. */
-"Update Available" = "有更新可用";
-
-/* No comment provided by engineer. */
-"Update Now" = "立即更新";
-
-/* No comment provided by engineer. */
 "Updating…" = "正在更新…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "立即更新";
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "升级到 %@";
 
 /* No comment provided by engineer. */
-"Use biometric authentication to unlock the application." = "使用生物识别验证来解锁应用程序。";
+"Upload" = "上传";
+
+/* No comment provided by engineer. */
+"Upload, download or synconize recordings between local and cloud drive." = "在本地与云端之间上传、下载或同步录音。";
+
+/* No comment provided by engineer. */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物识别验证来解锁应用程序。启用此功能时，后台播放不可用。";
+
+/* No comment provided by engineer. */
+"Use Cellular Network" = "使用蜂窝网络";
 
 /* No comment provided by engineer. */
 "Use Date" = "使用日期";
@@ -1075,10 +1809,13 @@
 "Use Recycle Bin" = "使用回收站";
 
 /* No comment provided by engineer. */
+"Use Snapshot Transition" = "使用快照效果";
+
+/* No comment provided by engineer. */
 "User Agreement" = "用户协议";
 
 /* No comment provided by engineer. */
-"User Applications" = "用户应用程序";
+"User Applications" = "用户应用";
 
 /* No comment provided by engineer. */
 "User denied access to speech recognition." = "用户拒绝了对语音识别授予隐私访问权限。";
@@ -1087,6 +1824,15 @@
 "User Interface Style" = "界面样式";
 
 "Utility" = "实用工具";
+
+/* No comment provided by engineer. */
+"Variant" = "变体";
+
+/* No comment provided by engineer. */
+"Variant Capitalized" = "变体（首字母大写）";
+
+/* No comment provided by engineer. */
+"Variant Description" = "变体（描述）";
 
 /* No comment provided by engineer. */
 "Verification Failed" = "验证失败";
@@ -1101,10 +1847,34 @@
 "Version %@ Build %@ - New Version %@ Build %@" = "版本 %@ 构建 %@ - 新版本 %@ 构建 %@";
 
 /* No comment provided by engineer. */
-"Vibrate At Begin" = "开始时振动";
+"Vibrate at Begin" = "开始时振动";
 
 /* No comment provided by engineer. */
-"Vibrate At End" = "结束时振动";
+"Vibrate at End" = "结束时振动";
+
+/* No comment provided by engineer. */
+"View Details" = "查看详情";
+
+/* No comment provided by engineer. */
+"View Logs: Application" = "应用程序";
+
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "通话监控服务";
+
+/* No comment provided by engineer. */
+"View Logs: Call Recorder" = "通话录音服务";
+
+/* No comment provided by engineer. */
+"View Logs: Hoverball" = "悬浮球";
+
+/* No comment provided by engineer. */
+"View Logs: Launch Agent" = "启动代理";
+
+/* No comment provided by engineer. */
+"View My Account" = "查看我的账户";
+
+/* No comment provided by engineer. */
+"View Recording Details" = "查看录音详情";
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP 联系人将始终被录音并添加到收藏中。";
@@ -1119,7 +1889,16 @@
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我们喜欢移动着的、多彩的背景，但是我们依然提供了选项让你来关闭它。";
 
 /* No comment provided by engineer. */
+"WebDAV Server" = "WebDAV 服务器";
+
+/* No comment provided by engineer. */
+"WeChat Assistant" = "微信通话助理";
+
+/* No comment provided by engineer. */
 "Welcome to" = "欢迎使用";
+
+/* No comment provided by engineer. */
+"We’re unable to show hoverball before unlocking due to technical reasons." = "由于技术原因，我们无法在解锁前显示悬浮球。";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "我们生成了一份新的通话录音！";
@@ -1128,10 +1907,28 @@
 "We’ve got new phone call recordings!" = "我们生成了一些新的通话录音！";
 
 /* No comment provided by engineer. */
+"When Locked" = "仅锁定时";
+
+/* No comment provided by engineer. */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "未连接无线局域网时，使用蜂窝网络传输录音。可能会产生额外费用。";
+
+/* No comment provided by engineer. */
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";
+
+/* No comment provided by engineer. */
+"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空间不足，分离通道的本地录音在上传后将被删除。";
+
+/* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制应用程序使用浅色或深色用户界面。";
 
 /* No comment provided by engineer. */
-"Whether to force the global hoverball to use the light or the dark style." = "是否强制全局悬浮球使用浅色或深色样式。";
+"Whether to force the hoverball to use the light or the dark style." = "是否强制悬浮球使用浅色或深色样式。";
+
+/* No comment provided by engineer. */
+"Which edges of the screen the hoverball can be attached to." = "悬浮球可以附着在屏幕的哪些边缘。";
+
+/* No comment provided by engineer. */
+"Why don’t you make a phone call?" = "为什么不打个电话试试呢？";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "在当前应用程序中通话时自动开始录音。";
@@ -1140,16 +1937,34 @@
 "Will start recording automatically on audio or video calls." = "通话时自动开始录音。";
 
 /* No comment provided by engineer. */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "分享或导出音频文件时写入 ID3 标签，包括标题、艺术家、专辑、流派、年份和封面。";
+
+/* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "将经纬度写入录音元数据。";
 
 /* No comment provided by engineer. */
-"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必须选择 “始终” 以使巨魔录音机能够在后台确定你的位置。如果你选择 “使用 App 期间”，你需要在录音结束后 15 分钟内启动应用程序以更新位置。";
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "将运行时日志写入文件系统。你需要重新启动服务以应用更改。";
+
+/* No comment provided by engineer. */
+"Year Month Day" = "年/月/日";
+
+/* No comment provided by engineer. */
+"YES" = "是";
+
+/* No comment provided by engineer. */
+"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必须选择 “始终” 以使巨魔录音机能够在后台确定你的位置。如果你选择 “使用 App 期间”，你需要在录音结束后 15 分钟或 1 小时内启动应用程序以更新位置。";
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要启用 “增强自动录音” 或 “增强通话场景识别” 以使此页面上的选项生效。";
 
 /* No comment provided by engineer. */
-"You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "你需要安装具备 URL Scheme 跳转能力的 “Filza 文件管理器” 来查看或恢复你的录音。";
+"You may need to reboot your device to make this application work properly." = "你可能需要重新启动你的设备以使此应用程序正常工作。";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder JB”." = "你现在正在试用巨魔录音机越狱版。";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder”." = "你现在正在试用巨魔录音机。";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "你已启用生物识别验证，因此需要验证你的身份。";
@@ -1159,3 +1974,6 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "你选择了密码验证。";
+
+/* No comment provided by engineer. */
+"“%@” is not available" = "“%@” 不可用";

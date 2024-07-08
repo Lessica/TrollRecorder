@@ -13,11 +13,11 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ may not be configured";
 
-/* No comment provided by engineer. */
-"%d Exclusive Features" = "%d Exclusive Features";
+/* StripedTextTableViewController */
+"%@ rows not loaded" = "%@ rows not loaded";
 
 /* No comment provided by engineer. */
-"%d recordings" = "%d recordings";
+"%d Exclusive Features" = "%d Exclusive Features";
 
 /* No comment provided by engineer. */
 "%ld Recording" = "%ld Recording";
@@ -32,6 +32,15 @@
 "%ld Recordings ◇ %@" = "%ld Recordings ◇ %@";
 
 /* No comment provided by engineer. */
+"(%lu bytes)" = "(%lu bytes)";
+
+/* No comment provided by engineer. */
+"(%lu items)" = "(%lu items)";
+
+/* No comment provided by engineer. */
+"(null)" = "(null)";
+
+/* No comment provided by engineer. */
 "3 Seconds" = "3 Seconds";
 
 /* No comment provided by engineer. */
@@ -39,6 +48,9 @@
 
 /* No comment provided by engineer. */
 "4 Seconds" = "4 Seconds";
+
+/* No comment provided by engineer. */
+"45 Days Ago" = "45 Days Ago";
 
 /* No comment provided by engineer. */
 "5 Seconds" = "5 Seconds";
@@ -49,8 +61,11 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 Days Ago";
 
+/* ObjectTableViewController */
+"<%@: %p>" = "<%@: %p>";
+
 /* No comment provided by engineer. */
-"A new version of the app is available." = "A new version of the app is available.";
+"A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground.";
@@ -58,8 +73,6 @@
 "activate" = "activate";
 
 "Activate the recorder hoverball." = "Activate the recorder hoverball.";
-
-"Add" = "Add";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "Additional Contact";
@@ -74,13 +87,37 @@
 "Advanced Search" = "Advanced Search";
 
 /* No comment provided by engineer. */
+"After %@" = "After %@";
+
+/* No comment provided by engineer. */
 "Agree" = "Agree";
+
+/* No comment provided by engineer. */
+"All Edges" = "All Edges";
+
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
+
+/* No comment provided by engineer. */
+"Allow Access to Call History" = "Allow Access to Call History";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Allow Automatic Recording";
 
 /* No comment provided by engineer. */
+"Allow Deletion of Local Recordings" = "Allow Deletion of Local Recordings";
+
+/* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
+
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
+
+/* No comment provided by engineer. */
+"Always" = "Always";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Always Dark";
@@ -89,7 +126,7 @@
 "Always Dynamic" = "Always Dynamic";
 
 /* No comment provided by engineer. */
-"Always keep the global hoverball window visible." = "Always keep the global hoverball window visible.";
+"Always keep the hoverball window visible." = "Always keep the hoverball window visible.";
 
 /* No comment provided by engineer. */
 "Always Light" = "Always Light";
@@ -98,7 +135,16 @@
 "Always On" = "Always On";
 
 /* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "Always schedule background processing tasks to run at the next available opportunity.";
+
+/* No comment provided by engineer. */
+"AM/PM String" = "AM/PM String";
+
+/* No comment provided by engineer. */
 "Analysing Audio" = "Analysing Audio";
+
+/* No comment provided by engineer. */
+"App Icon" = "App Icon";
 
 /* No comment provided by engineer. */
 "Appearance" = "Appearance";
@@ -116,7 +162,13 @@
 "Applications" = "Applications";
 
 /* No comment provided by engineer. */
+"Associate with Call History" = "Associate with Call History";
+
+/* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "At the end of recording, the audio files of each channel during recording are retained.";
+
+/* No comment provided by engineer. */
+"Attachable Edges" = "Attachable Edges";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Audio Compression";
@@ -128,19 +180,31 @@
 "Automatic Recording" = "Automatic Recording";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen." = "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added anywhere on the home screen.";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
+
+/* No comment provided by engineer. */
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen.";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Automatically merge microphone and speaker into a single file after record complete.";
 
 /* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "Automatically purge recycle bin and remove failure caches.";
+
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "Automatically query the latest version from GitHub when the application starts.";
+
+/* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Automatically remove recordings created earlier than specified date except those marked ones.";
 
 /* No comment provided by engineer. */
-"Automatically removes cached data left behind when a recording fails at regular intervals." = "Automatically removes cached data left behind when a recording fails at regular intervals.";
+"Automatically stop recording when available disk space is extremely low." = "Automatically stop recording when available disk space is extremely low.";
 
 /* No comment provided by engineer. */
-"Automatically stop recording when the free disk space is extremely low." = "Automatically stop recording when the free disk space is extremely low.";
+"Automatically Suspend in Background" = "Automatically Suspend in Background";
+
+/* No comment provided by engineer. */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect.";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Available for Lifetime";
@@ -149,10 +213,16 @@
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Avoid screen being locked automatically when WebDAV server is used by any client.";
 
 /* No comment provided by engineer. */
+"Background App Refresh Permission Denied" = "Background App Refresh Permission Denied";
+
+/* No comment provided by engineer. */
 "Background Style" = "Background Style";
 
 /* No comment provided by engineer. */
 "Batch Export" = "Batch Export";
+
+/* No comment provided by engineer. */
+"Before %@" = "Before %@";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Before starting a call recording, a prompt voice is played to the opposite end.";
@@ -161,10 +231,25 @@
 "Best" = "Best";
 
 /* No comment provided by engineer. */
+"Bi-sync" = "Bi-sync";
+
+/* No comment provided by engineer. */
 "Biometric Authentication" = "Biometric Authentication";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour server started at: %@";
+
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "Boost Periodic Tasks";
+
+/* No comment provided by engineer. */
+"bottom edge" = "bottom edge";
+
+/* No comment provided by engineer. */
+"Build and use a custom export name template for exported audio files." = "Build and use a custom export name template for exported audio files.";
+
+/* No comment provided by engineer. */
+"Bundle Display Name" = "Bundle Display Name";
 
 /* No comment provided by engineer. */
 "Bundle Identifier" = "Bundle Identifier";
@@ -194,6 +279,18 @@
 "Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
+"Cannot parse text with UTF-8 encoding: “%@”." = "Cannot parse text with UTF-8 encoding: “%@”.";
+
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "Check Updates at Launch";
+
+/* No comment provided by engineer. */
+"Checking service status" = "Checking service status";
+
+/* No comment provided by engineer. */
+"Child Pages" = "Child Pages";
+
+/* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding.";
 
 /* No comment provided by engineer. */
@@ -203,13 +300,22 @@
 "Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz.";
 
 /* No comment provided by engineer. */
-"Choose the size preset of the global hoverball." = "Choose the size preset of the global hoverball.";
+"Choose the size preset of the hoverball." = "Choose the size preset of the hoverball.";
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "Clean Caches Automatically";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Clear Selection";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
+
+/* ObjectTableViewController */
+"Collapse Recursively" = "Collapse Recursively";
+
+/* No comment provided by engineer. */
+"Collecting" = "Collecting";
 
 /* No comment provided by engineer. */
 "Combined" = "Combined";
@@ -220,8 +326,15 @@
 /* No comment provided by engineer. */
 "Compress Recording" = "Compress Recording";
 
+/* PlainTextViewController
+   StripedTextTableViewController */
+"Confirm" = "Confirm";
+
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Connected Clients: %d";
+
+/* No comment provided by engineer. */
+"Constants" = "Constants";
 
 /* No comment provided by engineer. */
 "Contact Exceptions" = "Contact Exceptions";
@@ -245,6 +358,12 @@
 "Contacts in this list will not be recorded in any situation." = "Contacts in this list will not be recorded in any situation.";
 
 /* No comment provided by engineer. */
+"Contacts Permission Denied" = "Contacts Permission Denied";
+
+/* No comment provided by engineer. */
+"Content Sharing" = "Content Sharing";
+
+/* No comment provided by engineer. */
 "Continue" = "Continue";
 
 /* No comment provided by engineer. */
@@ -265,14 +384,44 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "Copied Transcript";
 
+/* StripedTextTableViewController */
+"Copy" = "Copy";
+
+/* ObjectTableViewController */
+"Copy Key" = "Copy Key";
+
 /* No comment provided by engineer. */
 "Copy Path" = "Copy Path";
 
 /* No comment provided by engineer. */
 "Copy Transcript" = "Copy Transcript";
 
+/* ObjectTableViewController */
+"Copy Value" = "Copy Value";
+
+/* No comment provided by engineer. */
+"Create Archive" = "Create Archive";
+
 /* No comment provided by engineer. */
 "Created At" = "Created At";
+
+/* No comment provided by engineer. */
+"Custom Export Name" = "Custom Export Name";
+
+/* No comment provided by engineer. */
+"Custom Layout Guide" = "Custom Layout Guide";
+
+/* No comment provided by engineer. */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
+
+/* No comment provided by engineer. */
+"Date & Time" = "Date & Time";
+
+/* No comment provided by engineer. */
+"Day of Month Number" = "Day of Month Number";
+
+/* No comment provided by engineer. */
+"Day of Week String" = "Day of Week String";
 
 "deactivate" = "deactivate";
 
@@ -283,6 +432,9 @@
 "Deactivate & Sign Out" = "Deactivate & Sign Out";
 
 "Deactivate the recorder hoverball." = "Deactivate the recorder hoverball.";
+
+/* No comment provided by engineer. */
+"Debugging" = "Debugging";
 
 /* No comment provided by engineer. */
 "Delete" = "Delete";
@@ -297,22 +449,46 @@
 "Delete Selected Item" = "Delete Selected Item";
 
 /* No comment provided by engineer. */
+"Deleting" = "Deleting";
+
+/* No comment provided by engineer. */
+"Deselect All" = "Deselect All";
+
+/* No comment provided by engineer. */
+"Developer Options" = "Developer Options";
+
+/* No comment provided by engineer. */
 "Direction" = "Direction";
+
+/* No comment provided by engineer. */
+"Direction Capitalized" = "Direction Capitalized";
+
+/* No comment provided by engineer. */
+"Direction Description" = "Direction Description";
+
+/* No comment provided by engineer. */
+"Disabled" = "Disabled";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "Discard Recording";
 
 /* No comment provided by engineer. */
+"Discreet Voice Memos" = "Discreet Voice Memos";
+
+/* No comment provided by engineer. */
 "Dismiss" = "Dismiss";
 
 /* No comment provided by engineer. */
-"Display a notification banner and make some noise when recording ends." = "Display a notification banner and make some noise when recording ends.";
+"Display a notification banner and play an audible notice." = "Display a notification banner and play an audible notice.";
 
 /* No comment provided by engineer. */
-"Display a notification banner and update the badge on the application icon when recording ends." = "Display a notification banner and update the badge on the application icon when recording ends.";
+"Display a notification banner and update the badge above the application icon." = "Display a notification banner and update the badge above the application icon.";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "Display a notification banner when recording ends.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording starts." = "Display a notification banner when recording starts.";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Display the detail of recordings in the notification banner.";
@@ -321,13 +497,16 @@
 "Display the exact duration of the recorded audio." = "Display the exact duration of the recorded audio.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call in the current application." = "Display the global hoverball during a call in the current application.";
+"Display the hoverball during a call in the current application." = "Display the hoverball during a call in the current application.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball during a call." = "Display the global hoverball during a call.";
+"Display the hoverball during a call." = "Display the hoverball during a call.";
 
 /* No comment provided by engineer. */
-"Display the global hoverball when both the audio inputs and outputs are continuously active." = "Display the global hoverball when both the audio inputs and outputs are continuously active.";
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Display the hoverball when both the audio inputs and outputs are continuously active.";
+
+/* No comment provided by engineer. */
+"Display the name or description of each option." = "Display the name or description of each option.";
 
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "Display the names of contacts in your address book instead of their phone numbers.";
@@ -344,8 +523,36 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Display the source bundle name of the recording.";
 
+/* PlainTextViewController
+   StripedTextTableViewController */
+"Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
+
+/* No comment provided by engineer. */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
+
+/* No comment provided by engineer. */
+"Don’t ask again" = "Don’t ask again";
+
+/* No comment provided by engineer. */
+"Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
+
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
+
+/* No comment provided by engineer. */
+"Duration" = "Duration";
+
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duration Before Idle";
+
+/* No comment provided by engineer. */
+"Duration Description" = "Duration Description";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "Dynamic Transition";
@@ -354,7 +561,28 @@
 "E.U.L.A." = "E.U.L.A.";
 
 /* No comment provided by engineer. */
+"Empty Trash" = "Empty Trash";
+
+/* No comment provided by engineer. */
+"Empty Trash (%@)" = "Empty Trash (%@)";
+
+/* No comment provided by engineer. */
 "Enable %@" = "Enable %@";
+
+/* No comment provided by engineer. */
+"Enable Biometric Authentication" = "Enable Biometric Authentication";
+
+/* No comment provided by engineer. */
+"Enable Face ID" = "Enable Face ID";
+
+/* No comment provided by engineer. */
+"Enable Logging" = "Enable Logging";
+
+/* No comment provided by engineer. */
+"Enable Optic ID" = "Enable Optic ID";
+
+/* No comment provided by engineer. */
+"Enable Touch ID" = "Enable Touch ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "Enable WebDAV Server";
@@ -363,7 +591,13 @@
 "Enabled" = "Enabled";
 
 /* No comment provided by engineer. */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground.";
+
+/* No comment provided by engineer. */
 "End Date" = "End Date";
+
+/* No comment provided by engineer. */
+"End Editing" = "End Editing";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "Enhanced Automatic Recording";
@@ -381,6 +615,9 @@
 
 "Exit Hoverball" = "Exit Hoverball";
 
+/* ObjectTableViewController */
+"Expand Recursively" = "Expand Recursively";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Export recordings to anywhere you want without limitations.";
 
@@ -388,13 +625,28 @@
 "Export to Anywhere" = "Export to Anywhere";
 
 /* No comment provided by engineer. */
+"Export with Metadata" = "Export with Metadata";
+
+/* No comment provided by engineer. */
+"Exporting" = "Exporting";
+
+/* No comment provided by engineer. */
 "Face ID" = "Face ID";
+
+/* No comment provided by engineer. */
+"FaceTime" = "FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime Audio";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "FaceTime Exclude List";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
+
+/* No comment provided by engineer. */
+"Failed to export %d recordings" = "Failed to export %d recordings";
 
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Failed to initialize speech recognizer using current locale “%@”.";
@@ -406,7 +658,7 @@
 "Failed to recover: %@" = "Failed to recover: %@";
 
 /* No comment provided by engineer. */
-"Failed to remove %@" = "Failed to remove %@";
+"Failed to remove: %@" = "Failed to remove: %@";
 
 /* No comment provided by engineer. */
 "Faster Support" = "Faster Support";
@@ -415,13 +667,19 @@
 "Features Unlocked" = "Features Unlocked";
 
 /* No comment provided by engineer. */
+"File Format" = "File Format";
+
+/* No comment provided by engineer. */
 "File Size" = "File Size";
 
 /* No comment provided by engineer. */
-"Filza Not Installed" = "Filza Not Installed";
+"Filter" = "Filter";
 
 /* No comment provided by engineer. */
 "Finalizing" = "Finalizing";
+
+/* ObjectTableViewController */
+"Focus" = "Focus";
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "Fold to Screen Edge";
@@ -433,6 +691,12 @@
 "Format" = "Format";
 
 /* No comment provided by engineer. */
+"Formatted Location" = "Formatted Location";
+
+/* No comment provided by engineer. */
+"Forward 10 seconds" = "Forward 10 seconds";
+
+/* No comment provided by engineer. */
 "Frequently Asked Questions" = "Frequently Asked Questions";
 
 /* No comment provided by engineer. */
@@ -440,6 +704,21 @@
 
 /* No comment provided by engineer. */
 "From: %@" = "From: %@";
+
+/* No comment provided by engineer. */
+"Full" = "Full";
+
+/* No comment provided by engineer. */
+"Full Date" = "Full Date";
+
+/* No comment provided by engineer. */
+"Full Month Name" = "Full Month Name";
+
+/* No comment provided by engineer. */
+"Full Time" = "Full Time";
+
+/* No comment provided by engineer. */
+"Full Year" = "Full Year";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Get advanced control when recording right in your call.";
@@ -451,7 +730,25 @@
 "Get notifications after record complete." = "Get notifications after record complete.";
 
 /* No comment provided by engineer. */
+"Go Home When Unlocked" = "Go Home When Unlocked";
+
+/* No comment provided by engineer. */
+"Google Drive" = "Google Drive";
+
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "Hide When Snapshot";
+
+/* No comment provided by engineer. */
+"Hours Minutes Seconds" = "Hours Minutes Seconds";
+
+/* No comment provided by engineer. */
+"Hours, 12-hour Clock" = "Hours, 12-hour Clock";
+
+/* No comment provided by engineer. */
+"Hours, 24-hour Clock" = "Hours, 24-hour Clock";
 
 /* No comment provided by engineer. */
 "Hoverball" = "Hoverball";
@@ -465,19 +762,31 @@
 /* No comment provided by engineer. */
 "Hoverball Style" = "Hoverball Style";
 
+/* No comment provided by engineer. */
+"How would you like to call?" = "How would you like to call?";
+
 "hud" = "hud";
+
+/* No comment provided by engineer. */
+"Hyphen" = "Hyphen";
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "I Agree to the E.U.L.A.";
 
 /* No comment provided by engineer. */
+"iCloud Drive" = "iCloud Drive";
+
+/* No comment provided by engineer. */
+"iCloud Drive Not Logged In" = "iCloud Drive Not Logged In";
+
+/* No comment provided by engineer. */
 "Idle" = "Idle";
 
 /* No comment provided by engineer. */
-"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here.";
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
 
 /* No comment provided by engineer. */
-"Ignore For 7 Days" = "Ignore For 7 Days";
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here.";
 
 /* No comment provided by engineer. */
 "In 1 Hour" = "In 1 Hour";
@@ -504,10 +813,31 @@
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format.";
 
 /* No comment provided by engineer. */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+
+/* No comment provided by engineer. */
+"iPad" = "iPad";
+
+/* No comment provided by engineer. */
+"iPhone" = "iPhone";
+
+/* No comment provided by engineer. */
 "Is Favourite" = "Is Favourite";
 
 /* No comment provided by engineer. */
+"Item #%lu" = "Item #%lu";
+
+/* No comment provided by engineer. */
+"Just in case that you love it." = "Just in case that you love it.";
+
+/* No comment provided by engineer. */
+"Just now" = "Just now";
+
+/* No comment provided by engineer. */
 "Keep Screen On When Connected" = "Keep Screen On When Connected";
+
+/* No comment provided by engineer. */
+"Kill all applications and restart the render server (backboardd)." = "Kill all applications and restart the render server (backboardd).";
 
 /* No comment provided by engineer. */
 "Larger" = "Larger";
@@ -516,10 +846,16 @@
 "Later" = "Later";
 
 /* No comment provided by engineer. */
-"Launch Application At End" = "Launch Application At End";
+"Launch App at End" = "Launch App at End";
 
 /* No comment provided by engineer. */
 "Launch When First Unlocked" = "Launch When First Unlocked";
+
+/* No comment provided by engineer. */
+"Leading & Trailing" = "Leading & Trailing";
+
+/* No comment provided by engineer. */
+"leading edge" = "leading edge";
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Link Device to Havoc";
@@ -528,16 +864,40 @@
 "Loading…" = "Loading…";
 
 /* No comment provided by engineer. */
+"Local Network Permission Denied" = "Local Network Permission Denied";
+
+/* No comment provided by engineer. */
 "Local Storage" = "Local Storage";
 
 /* No comment provided by engineer. */
 "Localized name of the provider application. That is, where this recording comes from." = "Localized name of the provider application. That is, where this recording comes from.";
 
 /* No comment provided by engineer. */
+"Locate in Maps" = "Locate in Maps";
+
+/* No comment provided by engineer. */
 "Location" = "Location";
 
 /* No comment provided by engineer. */
+"Location Permission Denied" = "Location Permission Denied";
+
+/* No comment provided by engineer. */
 "Location Services" = "Location Services";
+
+/* No comment provided by engineer. */
+"Locked" = "Locked";
+
+/* StripedTextTableViewController */
+"Log Viewer" = "Log Viewer";
+
+/* No comment provided by engineer. */
+"Logging" = "Logging";
+
+/* No comment provided by engineer. */
+"Long Date" = "Long Date";
+
+/* No comment provided by engineer. */
+"Long Time" = "Long Time";
 
 /* No comment provided by engineer. */
 "Low" = "Low";
@@ -549,10 +909,13 @@
 "Made with love by @Lessica & @Lakr233" = "Made with love by @Lessica & @Lakr233";
 
 /* No comment provided by engineer. */
-"Make the global hoverball invisible when taking screenshots or screen recordings." = "Make the global hoverball invisible when taking screenshots or screen recordings.";
+"Mail composition failed" = "Mail composition failed";
 
 /* No comment provided by engineer. */
-"Make the global hoverball semi-transparent or folded when leave it for a while." = "Make the global hoverball semi-transparent or folded when leave it for a while.";
+"Make the hoverball invisible when taking screenshots or screen recordings." = "Make the hoverball invisible when taking screenshots or screen recordings.";
+
+/* No comment provided by engineer. */
+"Make the hoverball semi-transparent or folded when leave it for a while." = "Make the hoverball semi-transparent or folded when leave it for a while.";
 
 /* No comment provided by engineer. */
 "Making a phone call to begin recording." = "Making a phone call to begin recording.";
@@ -567,13 +930,25 @@
 "Medium" = "Medium";
 
 /* No comment provided by engineer. */
+"Medium Date" = "Medium Date";
+
+/* No comment provided by engineer. */
+"Medium Time" = "Medium Time";
+
+/* No comment provided by engineer. */
 "Merged File" = "Merged File";
+
+/* No comment provided by engineer. */
+"Metadata" = "Metadata";
 
 /* No comment provided by engineer. */
 "Microphone" = "Microphone";
 
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "Microphone and speaker are recorded in different channels.";
+
+/* No comment provided by engineer. */
+"Minutes" = "Minutes";
 
 /* No comment provided by engineer. */
 "Mixed" = "Mixed";
@@ -591,7 +966,16 @@
 "Mixer Sample Rate" = "Mixer Sample Rate";
 
 /* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later." = "Move deleted recordings to a special folder that allows you to restore deleted items if you change your mind or realize you need them later.";
+"Month Number" = "Month Number";
+
+/* No comment provided by engineer. */
+"More icons, more innovation." = "More icons, more innovation.";
+
+/* No comment provided by engineer. */
+"More Options" = "More Options";
+
+/* No comment provided by engineer. */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later.";
 
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "MPEG-4 Audio";
@@ -600,7 +984,16 @@
 "Multiple Devices" = "Multiple Devices";
 
 /* No comment provided by engineer. */
+"My Favourite" = "My Favourite";
+
+/* No comment provided by engineer. */
 "My Favourites" = "My Favourites";
+
+/* No comment provided by engineer. */
+"Name" = "Name";
+
+/* No comment provided by engineer. */
+"Name with Alias" = "Name with Alias";
 
 /* No comment provided by engineer. */
 "Needs all features?" = "Needs all features?";
@@ -613,6 +1006,12 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "New Matching Pattern";
+
+/* No comment provided by engineer. */
+"New Version Available" = "New Version Available";
+
+/* No comment provided by engineer. */
+"NO" = "NO";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "No phone number found in selected contacts.";
@@ -633,10 +1032,22 @@
 "None" = "None";
 
 /* No comment provided by engineer. */
+"Not My Favourite" = "Not My Favourite";
+
+/* No comment provided by engineer. */
 "Nothing Imported" = "Nothing Imported";
 
 /* No comment provided by engineer. */
+"Nothing Inside" = "Nothing Inside";
+
+/* No comment provided by engineer. */
+"Notification Permission Denied" = "Notification Permission Denied";
+
+/* No comment provided by engineer. */
 "Notifications" = "Notifications";
+
+/* ObjectTableViewController */
+"Object Viewer" = "Object Viewer";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -652,21 +1063,24 @@
 "Open Hoverball" = "Open Hoverball";
 
 /* No comment provided by engineer. */
-"Open In Filza" = "Open In Filza";
+"Open in Filza" = "Open in Filza";
 
 /* No comment provided by engineer. */
-"Open Recycle Bin" = "Open Recycle Bin";
+"Open in Maps" = "Open in Maps";
 
 "Open Troll Recorder" = "Open Troll Recorder";
 
 /* No comment provided by engineer. */
-"Open “Filza File Manager” to view or recover your recordings." = "Open “Filza File Manager” to view or recover your recordings.";
+"Operation Failed" = "Operation Failed";
 
 /* No comment provided by engineer. */
-"Operation Timeout\nQuit this application and try again." = "Operation Timeout\nQuit this application and try again.";
+"Operator Name" = "Operator Name";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
+
+/* No comment provided by engineer. */
+"Optimize %@ Storage" = "Optimize %@ Storage";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Outgoing";
@@ -678,7 +1092,22 @@
 "Outgoing call recording from “%@”." = "Outgoing call recording from “%@”.";
 
 /* No comment provided by engineer. */
+"Page not found" = "Page not found";
+
+/* No comment provided by engineer. */
+"Pause" = "Pause";
+
+/* No comment provided by engineer. */
+"Pause Recording" = "Pause Recording";
+
+/* No comment provided by engineer. */
 "Paused" = "Paused";
+
+/* No comment provided by engineer. */
+"Period" = "Period";
+
+/* No comment provided by engineer. */
+"Phone" = "Phone";
 
 /* No comment provided by engineer. */
 "Phone Address" = "Phone Address";
@@ -696,7 +1125,22 @@
 "Phone Number or Email Address" = "Phone Number or Email Address";
 
 /* No comment provided by engineer. */
+"Placemark Name" = "Placemark Name";
+
+/* No comment provided by engineer. */
+"Play" = "Play";
+
+/* No comment provided by engineer. */
+"Play back existing call recordings directly in the call history list." = "Play back existing call recordings directly in the call history list.";
+
+/* No comment provided by engineer. */
 "Play Recording Warning" = "Play Recording Warning";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Play/Pause";
+
+/* No comment provided by engineer. */
+"Please check your mail configuration." = "Please check your mail configuration.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Popover Control";
@@ -705,19 +1149,28 @@
 "Populate Location When App Starts" = "Populate Location When App Starts";
 
 /* No comment provided by engineer. */
-"Popup Audible Banner At End" = "Popup Audible Banner At End";
+"Popup Banner at Begin" = "Popup Banner at Begin";
 
 /* No comment provided by engineer. */
-"Popup Banner & Badge At End" = "Popup Banner & Badge At End";
+"Popup Banner at End" = "Popup Banner at End";
 
 /* No comment provided by engineer. */
-"Popup Banner At End" = "Popup Banner At End";
+"Popup Banner with Badge" = "Popup Banner with Badge";
 
 /* No comment provided by engineer. */
-"Popup Banner With Detail" = "Popup Banner With Detail";
+"Popup Banner with Detail" = "Popup Banner with Detail";
+
+/* No comment provided by engineer. */
+"Popup Banner with Sound" = "Popup Banner with Sound";
+
+/* No comment provided by engineer. */
+"Preparing" = "Preparing";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Preserve All Channels";
+
+/* No comment provided by engineer. */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Press both of the physical volume buttons to start or stop recording during a call.";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "Preview Disabled";
@@ -732,7 +1185,19 @@
 "Purchase" = "Purchase";
 
 /* No comment provided by engineer. */
+"Quick Recording" = "Quick Recording";
+
+/* No comment provided by engineer. */
+"Quit and relaunch to continue using the Pro features." = "Quit and relaunch to continue using the Pro features.";
+
+/* No comment provided by engineer. */
+"Quit this application and try again." = "Quit this application and try again.";
+
+/* No comment provided by engineer. */
 "Re-authenticate" = "Re-authenticate";
+
+/* No comment provided by engineer. */
+"Re-enable Suggested Options" = "Re-enable Suggested Options";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "Reaching Daemon";
@@ -741,10 +1206,16 @@
 "Ready" = "Ready";
 
 /* No comment provided by engineer. */
+"Ready to record!" = "Ready to record!";
+
+/* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Record all incoming and outgoing calls automatically.";
 
 /* No comment provided by engineer. */
 "Record Automatically" = "Record Automatically";
+
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "Record Calls on Other Devices";
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Record Only When Connected";
@@ -758,22 +1229,43 @@
 "recording" = "recording";
 
 /* No comment provided by engineer. */
+"Recording (Localized)" = "Recording (Localized)";
+
+/* No comment provided by engineer. */
+"Recording Options" = "Recording Options";
+
+/* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Recording starts when both the audio inputs and outputs are continuously active.";
 
 /* No comment provided by engineer. */
-"Recording%@_%@" = "Recording%@_%@";
+"Recording successfully started." = "Recording successfully started.";
+
+/* No comment provided by engineer. */
+"Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
+
+/* No comment provided by engineer. */
+"RECORDING_LOCALIZED" = "Recording";
 
 /* No comment provided by engineer. */
 "Recordings" = "Recordings";
 
 /* No comment provided by engineer. */
-"Recover Files" = "Recover Files";
+"Recordings here are permanently removed after 30 days." = "Recordings here are permanently removed after 30 days.";
+
+/* No comment provided by engineer. */
+"Recycle Bin" = "Recycle Bin";
 
 /* No comment provided by engineer. */
 "Regular" = "Regular";
 
 /* No comment provided by engineer. */
-"Reinstall %@" = "Reinstall %@";
+"Relaunched" = "Relaunched";
+
+/* No comment provided by engineer. */
+"Release Notes" = "Release Notes";
+
+/* No comment provided by engineer. */
+"Remove All Recordings Permanently" = "Remove All Recordings Permanently";
 
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "Remove Outdated Recordings";
@@ -782,13 +1274,49 @@
 "Rename" = "Rename";
 
 /* No comment provided by engineer. */
+"Reset Service" = "Reset Service";
+
+/* No comment provided by engineer. */
 "Respring" = "Respring";
+
+/* No comment provided by engineer. */
+"Restart Render Server" = "Restart Render Server";
+
+/* No comment provided by engineer. */
+"Restore" = "Restore";
+
+/* No comment provided by engineer. */
+"Restore Selected %ld Items" = "Restore Selected %ld Items";
+
+/* No comment provided by engineer. */
+"Restore Selected Item" = "Restore Selected Item";
+
+/* No comment provided by engineer. */
+"Restoring" = "Restoring";
+
+/* No comment provided by engineer. */
+"Resume Recording" = "Resume Recording";
+
+/* No comment provided by engineer. */
+"Resume with Warning" = "Resume with Warning";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Reverse Selection";
 
 /* No comment provided by engineer. */
+"Rewind 5 seconds" = "Rewind 5 seconds";
+
+/* ObjectTableViewController */
+"Root" = "Root";
+
+/* No comment provided by engineer. */
 "Sample Rate" = "Sample Rate";
+
+/* No comment provided by engineer. */
+"Sandbox Build" = "Sandbox Build";
+
+/* No comment provided by engineer. */
+"Save" = "Save";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "Scene Identification";
@@ -803,13 +1331,25 @@
 "Search Contacts…" = "Search Contacts…";
 
 /* No comment provided by engineer. */
+"Search in %@…" = "Search in %@…";
+
+/* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Search in depth with all available information saved when recording such as contact info or locations.";
+
+/* No comment provided by engineer. */
+"Search in Maps" = "Search in Maps";
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "Search Recordings…";
 
 /* No comment provided by engineer. */
+"Seconds" = "Seconds";
+
+/* No comment provided by engineer. */
 "Secure Payment" = "Secure Payment";
+
+/* No comment provided by engineer. */
+"See ya!" = "See ya!";
 
 /* No comment provided by engineer. */
 "Select" = "Select";
@@ -821,13 +1361,37 @@
 "Select All" = "Select All";
 
 /* No comment provided by engineer. */
+"Select the primary cloud service provider for recording synchronization." = "Select the primary cloud service provider for recording synchronization.";
+
+/* No comment provided by engineer. */
 "Semi-Transparent" = "Semi-Transparent";
+
+/* No comment provided by engineer. */
+"Sender Name" = "Sender Name";
+
+/* No comment provided by engineer. */
+"Sender Phone Address" = "Sender Phone Address";
+
+/* No comment provided by engineer. */
+"Sender Short Name" = "Sender Short Name";
 
 /* No comment provided by engineer. */
 "Separated Channels" = "Separated Channels";
 
 /* No comment provided by engineer. */
+"Separators" = "Separators";
+
+/* No comment provided by engineer. */
 "Server started at: %@" = "Server started at: %@";
+
+/* No comment provided by engineer. */
+"Service is alive" = "Service is alive";
+
+/* No comment provided by engineer. */
+"Service is dead" = "Service is dead";
+
+/* No comment provided by engineer. */
+"Service Status" = "Service Status";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "Set a new name for this recording, or leave blank to use default.";
@@ -842,10 +1406,28 @@
 "Share" = "Share";
 
 /* No comment provided by engineer. */
+"Short Date" = "Short Date";
+
+/* No comment provided by engineer. */
+"Short Day of Week String" = "Short Day of Week String";
+
+/* No comment provided by engineer. */
+"Short Month Name" = "Short Month Name";
+
+/* No comment provided by engineer. */
+"Short Time" = "Short Time";
+
+/* No comment provided by engineer. */
 "Show Bundle Name" = "Show Bundle Name";
 
 /* No comment provided by engineer. */
 "Show Contact Names" = "Show Contact Names";
+
+/* No comment provided by engineer. */
+"Show on Lock Screen" = "Show on Lock Screen";
+
+/* No comment provided by engineer. */
+"Show Option Description" = "Show Option Description";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Show Recording Duration";
@@ -860,13 +1442,28 @@
 "Show Waveform Previews" = "Show Waveform Previews";
 
 /* No comment provided by engineer. */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
+
+/* No comment provided by engineer. */
 "SIM Card Alias" = "SIM Card Alias";
 
 /* No comment provided by engineer. */
 "Smaller" = "Smaller";
 
 /* No comment provided by engineer. */
+"Smart Cloud Archive" = "Smart Cloud Archive";
+
+/* No comment provided by engineer. */
 "Software License" = "Software License";
+
+/* No comment provided by engineer. */
+"Some settings have been reset to default values." = "Some settings have been reset to default values.";
+
+/* No comment provided by engineer. */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code.";
+
+/* No comment provided by engineer. */
+"Space" = "Space";
 
 /* No comment provided by engineer. */
 "Speaker" = "Speaker";
@@ -884,6 +1481,9 @@
 "Start or prepare a new call recording manually." = "Start or prepare a new call recording manually.";
 
 "Start Recording" = "Start Recording";
+
+/* No comment provided by engineer. */
+"Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
 "stop" = "stop";
 
@@ -904,13 +1504,40 @@
 "Stop Service" = "Stop Service";
 
 /* No comment provided by engineer. */
+"Suggested Applications" = "Suggested Applications";
+
+/* No comment provided by engineer. */
+"Sync" = "Sync";
+
+/* No comment provided by engineer. */
+"Sync Service Mode" = "Sync Service Mode";
+
+/* No comment provided by engineer. */
+"Sync Service Provider" = "Sync Service Provider";
+
+/* No comment provided by engineer. */
 "System Applications" = "System Applications";
 
 /* No comment provided by engineer. */
 "System Audio" = "System Audio";
 
 /* No comment provided by engineer. */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+
+/* No comment provided by engineer. */
+"Tap again to make a phone call." = "Tap again to make a phone call.";
+
+/* No comment provided by engineer. */
+"Tap again to open or search the location in Maps." = "Tap again to open or search the location in Maps.";
+
+/* No comment provided by engineer. */
+"Tap again to start a FaceTime call." = "Tap again to start a FaceTime call.";
+
+/* No comment provided by engineer. */
 "Tap to Exit" = "Tap to Exit";
+
+/* No comment provided by engineer. */
+"Tap to open settings" = "Tap to open settings";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Temporary Ignore";
@@ -920,6 +1547,9 @@
 
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "The application will launch automatically when recording ends.";
+
+/* No comment provided by engineer. */
+"The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "The date and time when the audio was created.";
@@ -961,10 +1591,13 @@
 "The size of selected audio file." = "The size of selected audio file.";
 
 /* No comment provided by engineer. */
-"The time interval before the global hoverball becomes idle." = "The time interval before the global hoverball becomes idle.";
+"The time interval before the hoverball becomes idle." = "The time interval before the hoverball becomes idle.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "The unique identifier of the provider application.";
+
+/* No comment provided by engineer. */
+"The URL is not valid." = "The URL is not valid.";
 
 /* No comment provided by engineer. */
 "There is nothing but air." = "There is nothing but air.";
@@ -985,7 +1618,43 @@
 "This field accept phone number or an email address for matching contact." = "This field accept phone number or an email address for matching contact.";
 
 /* No comment provided by engineer. */
+"This is a sandbox build, the daemon is not available." = "This is a sandbox build, the daemon is not available.";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "This version of WeChat (%@) is not supported. Please upgrade to the latest version.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
+
+/* No comment provided by engineer. */
+"Three-digit Milliseconds" = "Three-digit Milliseconds";
+
+/* No comment provided by engineer. */
 "To" = "To";
+
+/* No comment provided by engineer. */
+"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”.";
+
+/* No comment provided by engineer. */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder.";
+
+/* No comment provided by engineer. */
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder.";
+
+/* No comment provided by engineer. */
+"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings.";
 
 /* No comment provided by engineer. */
 "To: %@" = "To: %@";
@@ -998,13 +1667,17 @@
 
 "Toggle Recording" = "Toggle Recording";
 
-"Toggle Recording" = "Toggle Recording";
+/* No comment provided by engineer. */
+"top edge" = "top edge";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "Track Location Updates";
+
+/* No comment provided by engineer. */
+"trailing edge" = "trailing edge";
 
 /* No comment provided by engineer. */
 "Transcript" = "Transcript";
@@ -1015,22 +1688,68 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Translated by @AUTHOR_NAME";
 
-"Troll Recorder" = "Troll Recorder";
-
 /* No comment provided by engineer. */
-"TrollRecorder" = "TrollRecorder";
+"Troll Recorder" = "Troll Recorder";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Turn this option off to make the other options on this page take effect for the current application.";
 
 /* No comment provided by engineer. */
+"Two-digit Day of Month Number" = "Two-digit Day of Month Number";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 12-hour Clock" = "Two-digit Hours, 12-hour Clock";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 24-hour Clock" = "Two-digit Hours, 24-hour Clock";
+
+/* No comment provided by engineer. */
+"Two-digit Minutes" = "Two-digit Minutes";
+
+/* No comment provided by engineer. */
+"Two-digit Month Number" = "Two-digit Month Number";
+
+/* No comment provided by engineer. */
+"Two-digit Seconds" = "Two-digit Seconds";
+
+/* No comment provided by engineer. */
+"Type to search…" = "Type to search…";
+
+/* No comment provided by engineer. */
 "Uncompressed" = "Uncompressed";
+
+/* No comment provided by engineer. */
+"Underscore" = "Underscore";
 
 /* No comment provided by engineer. */
 "Unknown" = "Unknown";
 
 /* No comment provided by engineer. */
+"Unknown Address" = "Unknown Address";
+
+/* No comment provided by engineer. */
+"Unknown Artist" = "Unknown Artist";
+
+/* No comment provided by engineer. */
+"Unknown Direction" = "Unknown Direction";
+
+/* No comment provided by engineer. */
+"Unknown Duration" = "Unknown Duration";
+
+/* No comment provided by engineer. */
 "Unknown Error" = "Unknown Error";
+
+/* No comment provided by engineer. */
+"Unknown File Format" = "Unknown File Format";
+
+/* No comment provided by engineer. */
+"Unknown Location" = "Unknown Location";
+
+/* No comment provided by engineer. */
+"Unknown Operator" = "Unknown Operator";
+
+/* No comment provided by engineer. */
+"Unknown Phone Address" = "Unknown Phone Address";
 
 /* No comment provided by engineer. */
 "Unknown Place" = "Unknown Place";
@@ -1039,25 +1758,40 @@
 "Unknown Provider" = "Unknown Provider";
 
 /* No comment provided by engineer. */
+"Unknown Sample Rate" = "Unknown Sample Rate";
+
+/* No comment provided by engineer. */
+"Unknown Sender" = "Unknown Sender";
+
+/* No comment provided by engineer. */
+"Unknown Variant" = "Unknown Variant";
+
+/* No comment provided by engineer. */
 "Unmark" = "Unmark";
 
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "Unsupported Configuration";
 
 /* No comment provided by engineer. */
-"Update Available" = "Update Available";
-
-/* No comment provided by engineer. */
-"Update Now" = "Update Now";
-
-/* No comment provided by engineer. */
 "Updating…" = "Updating…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "Upgrade Now";
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Upgrade to %@";
 
 /* No comment provided by engineer. */
-"Use biometric authentication to unlock the application." = "Use biometric authentication to unlock the application.";
+"Upload" = "Upload";
+
+/* No comment provided by engineer. */
+"Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
+
+/* No comment provided by engineer. */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled.";
+
+/* No comment provided by engineer. */
+"Use Cellular Network" = "Use Cellular Network";
 
 /* No comment provided by engineer. */
 "Use Date" = "Use Date";
@@ -1075,6 +1809,9 @@
 "Use Recycle Bin" = "Use Recycle Bin";
 
 /* No comment provided by engineer. */
+"Use Snapshot Transition" = "Use Snapshot Transition";
+
+/* No comment provided by engineer. */
 "User Agreement" = "User Agreement";
 
 /* No comment provided by engineer. */
@@ -1089,6 +1826,15 @@
 "Utility" = "Utility";
 
 /* No comment provided by engineer. */
+"Variant" = "Variant";
+
+/* No comment provided by engineer. */
+"Variant Capitalized" = "Variant Capitalized";
+
+/* No comment provided by engineer. */
+"Variant Description" = "Variant Description";
+
+/* No comment provided by engineer. */
 "Verification Failed" = "Verification Failed";
 
 /* No comment provided by engineer. */
@@ -1101,10 +1847,34 @@
 "Version %@ Build %@ - New Version %@ Build %@" = "Version %@ Build %@ - New Version %@ Build %@";
 
 /* No comment provided by engineer. */
-"Vibrate At Begin" = "Vibrate At Begin";
+"Vibrate at Begin" = "Vibrate at Begin";
 
 /* No comment provided by engineer. */
-"Vibrate At End" = "Vibrate At End";
+"Vibrate at End" = "Vibrate at End";
+
+/* No comment provided by engineer. */
+"View Details" = "View Details";
+
+/* No comment provided by engineer. */
+"View Logs: Application" = "View Logs: Application";
+
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "View Logs: Call Monitor";
+
+/* No comment provided by engineer. */
+"View Logs: Call Recorder" = "View Logs: Call Recorder";
+
+/* No comment provided by engineer. */
+"View Logs: Hoverball" = "View Logs: Hoverball";
+
+/* No comment provided by engineer. */
+"View Logs: Launch Agent" = "View Logs: Launch Agent";
+
+/* No comment provided by engineer. */
+"View My Account" = "View My Account";
+
+/* No comment provided by engineer. */
+"View Recording Details" = "View Recording Details";
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP contacts will always be recorded and added to the favourites.";
@@ -1119,7 +1889,16 @@
 "We love colorful and moving backgrounds, but option here for you to disable it." = "We love colorful and moving backgrounds, but option here for you to disable it.";
 
 /* No comment provided by engineer. */
+"WebDAV Server" = "WebDAV Server";
+
+/* No comment provided by engineer. */
+"WeChat Assistant" = "WeChat Assistant";
+
+/* No comment provided by engineer. */
 "Welcome to" = "Welcome to";
+
+/* No comment provided by engineer. */
+"We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "We’ve got a new phone call recording!";
@@ -1128,10 +1907,28 @@
 "We’ve got new phone call recordings!" = "We’ve got new phone call recordings!";
 
 /* No comment provided by engineer. */
+"When Locked" = "When Locked";
+
+/* No comment provided by engineer. */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply.";
+
+/* No comment provided by engineer. */
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
+
+/* No comment provided by engineer. */
+"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded.";
+
+/* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Whether to force the application to use the light or the dark user interface.";
 
 /* No comment provided by engineer. */
-"Whether to force the global hoverball to use the light or the dark style." = "Whether to force the global hoverball to use the light or the dark style.";
+"Whether to force the hoverball to use the light or the dark style." = "Whether to force the hoverball to use the light or the dark style.";
+
+/* No comment provided by engineer. */
+"Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
+
+/* No comment provided by engineer. */
+"Why don’t you make a phone call?" = "Why don’t you make a phone call?";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Will start recording automatically on audio or video calls in the current application.";
@@ -1140,7 +1937,19 @@
 "Will start recording automatically on audio or video calls." = "Will start recording automatically on audio or video calls.";
 
 /* No comment provided by engineer. */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork.";
+
+/* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Write latitude and longitude to the recording metadata.";
+
+/* No comment provided by engineer. */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Write runtime logs into filesystem. You need to restart services to apply changes.";
+
+/* No comment provided by engineer. */
+"Year Month Day" = "Year Month Day";
+
+/* No comment provided by engineer. */
+"YES" = "YES";
 
 /* No comment provided by engineer. */
 "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording.";
@@ -1149,7 +1958,13 @@
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect.";
 
 /* No comment provided by engineer. */
-"You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings." = "You need to install “Filza File Manager” with url scheme enabled to view or recover your recordings.";
+"You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder JB”." = "You’re now using the free version of “TrollRecorder JB”.";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder”." = "You’re now using the free version of “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "You’ve enabled biometric authentication so it’s required to verify your identity.";
@@ -1159,3 +1974,6 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "You’ve pressed password.";
+
+/* No comment provided by engineer. */
+"“%@” is not available" = "“%@” is not available";

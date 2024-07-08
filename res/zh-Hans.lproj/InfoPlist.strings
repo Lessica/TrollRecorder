@@ -4,8 +4,6 @@
 
 "NSFaceIDUsageDescription" = "巨魔录音机需要使用面容 ID 以验证你的身份。";
 
-"NSLocalNetworkUsageDescription" = "巨魔录音机需要访问你的本地网络，以便与其他设备共享录音。";
-
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "巨魔录音机需要访问你的位置，以便在录音中保存位置信息。";
 
 "NSLocationAlwaysUsageDescription" = "巨魔录音机需要访问你的位置，以便在录音中保存位置信息。";
@@ -19,6 +17,8 @@
 "NSMicrophoneUsageDescription" = "巨魔录音机需要访问你的麦克风，以便实现最基本的录音功能。";
 
 "NSSpeechRecognitionUsageDescription" = "巨魔录音机需要使用语音识别技术为你的录音制作文字副本。";
+
+"NSUbiquitousContainerName" = "巨魔录音机";
 
 "Toggle Hoverball" = "打开/关闭悬浮球";
 
