@@ -258,7 +258,7 @@
 "Bundle Name" = "捆绑包名称";
 
 /* No comment provided by engineer. */
-"Buy TrollRecorder Pro" = "购买高级许可";
+"Buy TrollRecorder Pro" = "购买高级许可";
 
 /* No comment provided by engineer. */
 "Calculating…" = "计算中…";
@@ -573,16 +573,16 @@
 "Enable Biometric Authentication" = "启用生物识别验证";
 
 /* No comment provided by engineer. */
-"Enable Face ID" = "启用面容 ID";
+"Enable Face ID" = "启用面容 ID";
 
 /* No comment provided by engineer. */
 "Enable Logging" = "启用日志";
 
 /* No comment provided by engineer. */
-"Enable Optic ID" = "启用光学 ID";
+"Enable Optic ID" = "启用视控 ID";
 
 /* No comment provided by engineer. */
-"Enable Touch ID" = "启用触控 ID";
+"Enable Touch ID" = "启用触控 ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "启用 WebDAV 服务器";
@@ -631,7 +631,7 @@
 "Exporting" = "导出中";
 
 /* No comment provided by engineer. */
-"Face ID" = "面容 ID";
+"Face ID" = "面容 ID";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime 通话";
@@ -999,7 +999,7 @@
 "Name with Alias" = "带别名的名称";
 
 /* No comment provided by engineer. */
-"Needs all features?" = "需要全部功能？";
+"Unlock all features?" = "解锁全部功能？";
 
 /* No comment provided by engineer. */
 "Network Storage" = "网络存储";
@@ -1071,7 +1071,7 @@
 /* No comment provided by engineer. */
 "Open in Maps" = "在地图中打开";
 
-"Open Troll Recorder" = "打开巨魔录音机";
+"Open Troll Recorder" = "打开巨魔录音机";
 
 /* No comment provided by engineer. */
 "Operation Failed" = "操作失败";
@@ -1080,7 +1080,7 @@
 "Operator Name" = "运营商名称";
 
 /* No comment provided by engineer. */
-"Optic ID" = "光学 ID";
+"Optic ID" = "视控 ID";
 
 /* No comment provided by engineer. */
 "Optimize %@ Storage" = "优化 %@ 储存空间";
@@ -1621,10 +1621,10 @@
 "This is a sandbox build, the daemon is not available." = "守护进程不可用";
 
 /* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你可以购买 “巨魔录音机” 来启用 “微信通话助理”，你想现在购买吗？";
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你可以购买 “巨魔录音机” 来启用 “微信通话助理”，你想现在购买吗？";
 
 /* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你似乎没有启用 “微信通话助理”，你想立即启用吗？";
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你似乎没有启用 “微信通话助理”，你想立即启用吗？";
 
 /* No comment provided by engineer. */
 "This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "微信通话助理不支持当前版本的微信（%@）。请升级到最新版本。";
@@ -1671,7 +1671,7 @@
 "top edge" = "顶边";
 
 /* No comment provided by engineer. */
-"Touch ID" = "触控 ID";
+"Touch ID" = "触控 ID";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "处理位置变化";
@@ -1689,7 +1689,7 @@
 "Translated by @AUTHOR_NAME" = "由 @AUTHOR_NAME 翻译";
 
 /* No comment provided by engineer. */
-"Troll Recorder" = "巨魔录音机";
+"Troll Recorder" = "巨魔录音机";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "关闭此选项，使此页面上的其他选项对当前应用程序生效。";
@@ -1892,7 +1892,7 @@
 "WebDAV Server" = "WebDAV 服务器";
 
 /* No comment provided by engineer. */
-"WeChat Assistant" = "微信通话助理";
+"WeChat Assistant" = "微信通话助理";
 
 /* No comment provided by engineer. */
 "Welcome to" = "欢迎使用";
