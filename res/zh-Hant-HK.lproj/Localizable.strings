@@ -910,6 +910,9 @@
 /* No comment provided by engineer. */
 "Mail composition failed" = "郵件發送失敗";
 
+/* TODO */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback.";
+
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或熒幕錄製時使懸浮球不可見。";
 
@@ -1128,9 +1131,6 @@
 
 /* No comment provided by engineer. */
 "Play" = "播放";
-
-/* No comment provided by engineer. */
-"Play back existing call recordings directly in the call history list." = "直接在通話記錄列表中回播現有通話錄音。";
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音提示";

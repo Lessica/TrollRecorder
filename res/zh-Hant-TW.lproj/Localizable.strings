@@ -909,6 +909,9 @@
 /* TODO */
 "Mail composition failed" = "Mail composition failed";
 
+/* TODO */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback.";
+
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或屏幕錄制時使懸浮球不可見。";
 
@@ -1127,9 +1130,6 @@
 
 /* TODO */
 "Play" = "Play";
-
-/* TODO */
-"Play back existing call recordings directly in the call history list." = "Play back existing call recordings directly in the call history list.";
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音提示";
