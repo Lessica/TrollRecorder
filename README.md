@@ -41,7 +41,7 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 A botch job is a waste of time. That's why we always built our app in the best quality.
 
 - [ ] Record System Audio (i.e. What You Hear)
-- [ ] Record like Voice Memos
+- [x] <del>Record like Voice Memos</del> Discreet Voice Memos
 - [ ] Built-In Audio Editor
 
 ## 解锁全部功能
