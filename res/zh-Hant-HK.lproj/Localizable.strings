@@ -183,7 +183,7 @@
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "当前月份的录音不会被归档。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小組件添加到主荧幕任意位置才能使此選項生效。";
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小工具添加到主荧幕任意位置才能使此選項生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將麥克風和揚聲器合併成一個檔案。";
@@ -204,7 +204,7 @@
 "Automatically Suspend in Background" = "背景程式自動停止";
 
 /* No comment provided by engineer. */
-"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解鎖後自動上滑進入主熒幕。鎖定后 10 秒内解鎖，此動作將不會生效。";
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解鎖後自動上滑進入主熒幕。鎖定後 10 秒内解鎖，此動作將不會生效。";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "一次購買終身可用";
@@ -1249,7 +1249,7 @@
 "Recordings" = "錄音";
 
 /* No comment provided by engineer. */
-"Recordings here are permanently removed after 30 days." = "這裏的錄音將在 30 天后被永久刪除。";
+"Recordings here are permanently removed after 30 days." = "這裏的錄音將在 30 天後被永久刪除。";
 
 /* No comment provided by engineer. */
 "Recycle Bin" = "回收站";
@@ -1641,7 +1641,7 @@
 "Three-digit Milliseconds" = "毫秒數";
 
 /* No comment provided by engineer. */
-"To" = "結束于";
+"To" = "結束於";
 
 /* 如需配置 iCloud 云盘，请转到 “设置 > 蜂窝移动网络 > iCloud 云盘”。 */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "如需配置 iCloud 雲碟，請轉到 “設定 > 流動網絡 > iCloud 雲碟”。";
@@ -1915,7 +1915,7 @@
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解鎖後，即使您不在主荧幕上，也會顯示懸浮球。";
 
 /* No comment provided by engineer. */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空間不足，分離通道上的本地錄音在上載后將被刪除。";
+"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空間不足，分離通道上的本地錄音在上載後將被刪除。";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制應用程式使用淺色或深色用戶界面。";
