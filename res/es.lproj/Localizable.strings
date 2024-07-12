@@ -628,9 +628,6 @@
 /* Translated with Microsoft Translator */
 "Exporting" = "Exportación de";
 
-/* No comment provided by engineer. */
-"Face ID" = "Identificación facial";
-
 /* Translated with Microsoft Translator */
 "FaceTime" = "FaceTime";
 
@@ -642,6 +639,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "VIP de FaceTime";
+
+/* No comment provided by engineer. */
+"Face ID" = "Identificación facial";
 
 /* Translated with Microsoft Translator */
 "Failed to export %d recordings" = "Error al exportar %d grabaciones";
@@ -782,6 +782,9 @@
 
 /* Translated with Microsoft Translator */
 "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "Si la sincronización bidireccional está activada, permite que la eliminación desde la nube se refleje en el sistema de archivos local.";
+
+/* Translated with Microsoft Translator */
+"If there is something wrong with the search indexes, you can reset them here." = "Si hay algún problema con los índices de búsqueda, puede restablecerlos aquí.";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Si tu teléfono admite dos tarjetas SIM, el alias de la tarjeta SIM utilizada para la llamada grabada se muestra aquí.";
@@ -997,9 +1000,6 @@
 "Name with Alias" = "Nombre con alias";
 
 /* No comment provided by engineer. */
-"Unlock all features?" = "¿Necesitas todas las funciones?";
-
-/* No comment provided by engineer. */
 "Network Storage" = "Almacenamiento en red";
 
 /* No comment provided by engineer. */
@@ -1073,6 +1073,9 @@
 
 /* Translated with Microsoft Translator */
 "Operation Failed" = "Operación fallida";
+
+/* Translated with Microsoft Translator */
+"Operation Succeed" = "Operación Éxito";
 
 /* Translated with Microsoft Translator */
 "Operator Name" = "Nombre del operador";
@@ -1270,6 +1273,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "Renombrar";
+
+/* Translated with Microsoft Translator */
+"Reset Search Indexes" = "Restablecer índices de búsqueda";
 
 /* Translated with Microsoft Translator */
 "Reset Service" = "Restablecer servicio";
@@ -1763,6 +1769,9 @@
 
 /* Translated with Microsoft Translator */
 "Unknown Variant" = "Variante desconocida";
+
+/* No comment provided by engineer. */
+"Unlock all features?" = "¿Necesitas todas las funciones?";
 
 /* No comment provided by engineer. */
 "Unmark" = "Desmarcar";

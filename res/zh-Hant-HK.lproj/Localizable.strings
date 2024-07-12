@@ -630,9 +630,6 @@
 "Exporting" = "匯出中";
 
 /* No comment provided by engineer. */
-"Face ID" = "Face ID";
-
-/* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
 
 /* No comment provided by engineer. */
@@ -643,6 +640,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
 
 /* No comment provided by engineer. */
 "Failed to export %d recordings" = "無法匯出 %d 條錄音";
@@ -783,6 +783,9 @@
 
 /* No comment provided by engineer. */
 "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "如果啓用的雙向同步，則允許將雲端的刪除反映到本地檔案系統中。";
+
+/* TODO */
+"If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果您的手機支援 2 張 SIM 卡，錄音通話時所使用的 SIM 卡別名將顯示在這裏。";
@@ -998,9 +1001,6 @@
 "Name with Alias" = "帶別名的名稱";
 
 /* No comment provided by engineer. */
-"Unlock all features?" = "解鎖全部功能？";
-
-/* No comment provided by engineer. */
 "Network Storage" = "網絡儲存";
 
 /* No comment provided by engineer. */
@@ -1074,6 +1074,9 @@
 
 /* No comment provided by engineer. */
 "Operation Failed" = "操作失敗";
+
+/* TODO */
+"Operation Succeed" = "Operation Succeed";
 
 /* No comment provided by engineer. */
 "Operator Name" = "運營商名稱";
@@ -1271,6 +1274,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "重命名";
+
+/* TODO */
+"Reset Search Indexes" = "Reset Search Indexes";
 
 /* No comment provided by engineer. */
 "Reset Service" = "重置服務";
@@ -1764,6 +1770,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Variant" = "未知變體";
+
+/* No comment provided by engineer. */
+"Unlock all features?" = "解鎖全部功能？";
 
 /* No comment provided by engineer. */
 "Unmark" = "取消收藏";

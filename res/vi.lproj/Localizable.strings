@@ -628,9 +628,6 @@
 /* TODO */
 "Exporting" = "Exporting";
 
-/* No comment provided by engineer. */
-"Face ID" = "Face ID";
-
 /* TODO */
 "FaceTime" = "FaceTime";
 
@@ -642,6 +639,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
 
 /* TODO */
 "Failed to export %d recordings" = "Failed to export %d recordings";
@@ -782,6 +782,9 @@
 
 /* TODO */
 "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
+
+/* TODO */
+"If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Nếu điện thoại của bạn hỗ trợ thẻ SIM kép, bí danh thẻ SIM được sử dụng cho cuộc gọi được ghi lại sẽ được hiển thị ở đây.";
@@ -997,9 +1000,6 @@
 "Name with Alias" = "Name with Alias";
 
 /* No comment provided by engineer. */
-"Unlock all features?" = "Cần tất cả các tính năng?";
-
-/* No comment provided by engineer. */
 "Network Storage" = "Lưu trữ mạng";
 
 /* No comment provided by engineer. */
@@ -1073,6 +1073,9 @@
 
 /* TODO */
 "Operation Failed" = "Operation Failed";
+
+/* TODO */
+"Operation Succeed" = "Operation Succeed";
 
 /* TODO */
 "Operator Name" = "Operator Name";
@@ -1270,6 +1273,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "Đổi tên";
+
+/* TODO */
+"Reset Search Indexes" = "Reset Search Indexes";
 
 /* TODO */
 "Reset Service" = "Reset Service";
@@ -1763,6 +1769,9 @@
 
 /* TODO */
 "Unknown Variant" = "Unknown Variant";
+
+/* No comment provided by engineer. */
+"Unlock all features?" = "Cần tất cả các tính năng?";
 
 /* No comment provided by engineer. */
 "Unmark" = "Bỏ đánh dấu";

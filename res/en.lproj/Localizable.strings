@@ -631,9 +631,6 @@
 "Exporting" = "Exporting";
 
 /* No comment provided by engineer. */
-"Face ID" = "Face ID";
-
-/* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
 
 /* No comment provided by engineer. */
@@ -644,6 +641,9 @@
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
 
 /* No comment provided by engineer. */
 "Failed to export %d recordings" = "Failed to export %d recordings";
@@ -784,6 +784,9 @@
 
 /* No comment provided by engineer. */
 "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
+
+/* No comment provided by engineer. */
+"If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here.";
@@ -999,9 +1002,6 @@
 "Name with Alias" = "Name with Alias";
 
 /* No comment provided by engineer. */
-"Unlock all features?" = "Unlock all features?";
-
-/* No comment provided by engineer. */
 "Network Storage" = "Network Storage";
 
 /* No comment provided by engineer. */
@@ -1075,6 +1075,9 @@
 
 /* No comment provided by engineer. */
 "Operation Failed" = "Operation Failed";
+
+/* No comment provided by engineer. */
+"Operation Succeed" = "Operation Succeed";
 
 /* No comment provided by engineer. */
 "Operator Name" = "Operator Name";
@@ -1272,6 +1275,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "Rename";
+
+/* No comment provided by engineer. */
+"Reset Search Indexes" = "Reset Search Indexes";
 
 /* No comment provided by engineer. */
 "Reset Service" = "Reset Service";
@@ -1765,6 +1771,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Variant" = "Unknown Variant";
+
+/* No comment provided by engineer. */
+"Unlock all features?" = "Unlock all features?";
 
 /* No comment provided by engineer. */
 "Unmark" = "Unmark";
