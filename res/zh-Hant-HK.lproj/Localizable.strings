@@ -68,11 +68,11 @@
 "A new version (%@) of “TrollRecorder” is available." = "有新版本的應用程式 %@ 可用。";
 
 /* No comment provided by engineer. */
-"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺裝置的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前臺時服務可用。";
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺裝置的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前景時服務可用。";
 
 "activate" = "activate";
 
-"Activate the recorder hoverball." = "啓動服務，并打開錄音懸浮球。";
+"Activate the recorder hoverball." = "啟動服務，并打開錄音懸浮球。";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "自定義聯絡人";
@@ -114,7 +114,7 @@
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "允許讀取 WeChat 連絡人清單和 VoIP 通話歷史記錄以填充錄音的連絡人姓名。 僅支援最新版本的 WeChat。";
 
 /* No comment provided by engineer. */
-"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允許錄製已登錄 iCloud、在您附近且已接入 WLAN 的裝置上的通話。";
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允許錄製已登入 iCloud、在您附近且已接入 WLAN 的裝置上的通話。";
 
 /* No comment provided by engineer. */
 "Always" = "總是";
@@ -126,7 +126,7 @@
 "Always Dynamic" = "保持動態";
 
 /* No comment provided by engineer. */
-"Always keep the hoverball window visible." = "總是保持懸浮球可見";
+"Always keep the hoverball window visible." = "總是保持懸浮球可見。";
 
 /* No comment provided by engineer. */
 "Always Light" = "保持淺色";
@@ -180,10 +180,10 @@
 "Automatic Recording" = "自動錄音";
 
 /* No comment provided by engineer. */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "当前月份的录音不会被归档。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "當前月份的錄音不會被歸檔。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小工具添加到主荧幕任意位置才能使此選項生效。";
+"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小工具添加到主螢幕任意位置才能使此選項生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將麥克風和揚聲器合併成一個檔案。";
@@ -192,7 +192,7 @@
 "Automatically purge recycle bin and remove failure caches." = "定期自動清理回收站和錄音失敗時留下的緩存。";
 
 /* No comment provided by engineer. */
-"Automatically query the latest version from GitHub when the application starts." = "應用程式啓動時，自動從 GutHub 查詢最新版本。";
+"Automatically query the latest version from GitHub when the application starts." = "應用程式啟動時，自動從 GitHub 查詢最新版本。";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "自動删除早於指定日期創建的錄音，除了那些被收藏的錄音。";
@@ -210,7 +210,7 @@
 "Available for Lifetime" = "一次購買終身可用";
 
 /* No comment provided by engineer. */
-"Avoid screen being locked automatically when WebDAV server is used by any client." = "當 WebDAV 伺服器被任何用戶端使用時，避免荧幕自動鎖定。";
+"Avoid screen being locked automatically when WebDAV server is used by any client." = "當 WebDAV 伺服器被任何用戶端使用時，避免螢幕自動鎖定。";
 
 /* No comment provided by engineer. */
 "Background App Refresh Permission Denied" = "背景 App 重新整理被拒絕";
@@ -237,7 +237,7 @@
 "Biometric Authentication" = "生物特徵識別認證";
 
 /* No comment provided by engineer. */
-"Bonjour server started at: %@" = "Bonjour 服務已啓動：%@";
+"Bonjour server started at: %@" = "Bonjour 服務已啟動：%@";
 
 /* No comment provided by engineer. */
 "Boost Periodic Tasks" = "加速定時任務";
@@ -282,7 +282,7 @@
 "Cannot parse text with UTF-8 encoding: “%@”." = "無法使用 UTF-8 編碼解析文本: “%@”。";
 
 /* No comment provided by engineer. */
-"Check Updates at Launch" = "啓動時檢查更新";
+"Check Updates at Launch" = "啟動時檢查更新";
 
 /* No comment provided by engineer. */
 "Checking service status" = "檢查服務狀態";
@@ -355,7 +355,7 @@
 "Contacts" = "聯絡人";
 
 /* No comment provided by engineer. */
-"Contacts in this list will not be recorded in any situation." = "此列表中的聯絡人將不會被錄音";
+"Contacts in this list will not be recorded in any situation." = "此列表中的聯絡人將不會被錄音。";
 
 /* No comment provided by engineer. */
 "Contacts Permission Denied" = "聯絡人被拒絕訪問";
@@ -431,7 +431,7 @@
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "反激活並退出登入狀態";
 
-"Deactivate the recorder hoverball." = "啓動服務，并關閉錄音懸浮球。";
+"Deactivate the recorder hoverball." = "啟動服務，并關閉錄音懸浮球。";
 
 /* No comment provided by engineer. */
 "Debugging" = "調試";
@@ -566,28 +566,28 @@
 "Empty Trash (%@)" = "清空回收站 (%@)";
 
 /* No comment provided by engineer. */
-"Enable %@" = "啓用 %@";
+"Enable %@" = "啟用 %@";
 
 /* No comment provided by engineer. */
-"Enable Biometric Authentication" = "啓用生物特徵識別驗證";
+"Enable Biometric Authentication" = "啟用生物特徵識別驗證";
 
 /* No comment provided by engineer. */
-"Enable Face ID" = "啓用 Face ID";
+"Enable Face ID" = "啟用 Face ID";
 
 /* No comment provided by engineer. */
-"Enable Logging" = "啓用日志";
+"Enable Logging" = "啟用日志";
 
 /* No comment provided by engineer. */
-"Enable Optic ID" = "啓用 Optic ID";
+"Enable Optic ID" = "啟用 Optic ID";
 
 /* TNo comment provided by engineer. */
-"Enable Touch ID" = "啓用 Touch ID";
+"Enable Touch ID" = "啟用 Touch ID";
 
 /* No comment provided by engineer. */
-"Enable WebDAV Server" = "啓用 WebDAV 伺服器";
+"Enable WebDAV Server" = "啟用 WebDAV 伺服器";
 
 /* No comment provided by engineer. */
-"Enabled" = "啓用";
+"Enabled" = "啟用";
 
 /* No comment provided by engineer. */
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "當應用程式進入背景且最後一個連線關閉時，自動停止 WebDAV 服務。當應用程式回到前景時恢復服務。";
@@ -782,10 +782,10 @@
 "Idle" = "空閑";
 
 /* No comment provided by engineer. */
-"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "如果啓用的雙向同步，則允許將雲端的刪除反映到本地檔案系統中。";
+"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "如果啟用的雙向同步，則允許將雲端的刪除反映到本地檔案系統中。";
 
-/* TODO */
-"If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
+/* No comment provided by engineer. */
+"If there is something wrong with the search indexes, you can reset them here." = "如果搜尋索引出了問題，可以在這裡重新設定。";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果您的手機支援 2 張 SIM 卡，錄音通話時所使用的 SIM 卡別名將顯示在這裏。";
@@ -839,7 +839,7 @@
 "Keep Screen On When Connected" = "連線時保持熒幕常亮";
 
 /* No comment provided by engineer. */
-"Kill all applications and restart the render server (backboardd)." = "關閉所有應用程式並重啓渲染服務（backboardd）";
+"Kill all applications and restart the render server (backboardd)." = "關閉所有應用程式並重啟渲染服務（backboardd）";
 
 /* No comment provided by engineer. */
 "Larger" = "較大";
@@ -848,10 +848,10 @@
 "Later" = "忽略 7 天";
 
 /* No comment provided by engineer. */
-"Launch App at End" = "結束時啓動應用";
+"Launch App at End" = "結束時啟動應用程式";
 
 /* No comment provided by engineer. */
-"Launch When First Unlocked" = "首次解鎖時啓動";
+"Launch When First Unlocked" = "首次解鎖時啟動";
 
 /* No comment provided by engineer. */
 "Leading & Trailing" = "左右邊緣";
@@ -913,8 +913,8 @@
 /* No comment provided by engineer. */
 "Mail composition failed" = "郵件發送失敗";
 
-/* TODO */
-"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback.";
+/* No comment provided by engineer. */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "使關聯的通話錄音展示在通話記錄頁面，跳轉到巨魔錄音機進行回播。";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或熒幕錄製時使懸浮球不可見。";
@@ -944,7 +944,7 @@
 "Merged File" = "合并檔案";
 
 /* No comment provided by engineer. */
-"Metadata" = "Metadata";
+"Metadata" = "元數據";
 
 /* No comment provided by engineer. */
 "Microphone" = "麥克風";
@@ -1075,8 +1075,8 @@
 /* No comment provided by engineer. */
 "Operation Failed" = "操作失敗";
 
-/* TODO */
-"Operation Succeed" = "Operation Succeed";
+/* No comment provided by engineer. */
+"Operation Succeed" = "操作成功";
 
 /* No comment provided by engineer. */
 "Operator Name" = "運營商名稱";
@@ -1148,7 +1148,7 @@
 "Popover Control" = "懸浮球";
 
 /* No comment provided by engineer. */
-"Populate Location When App Starts" = "應用啓動時填充位置";
+"Populate Location When App Starts" = "應用啟動時填充位置";
 
 /* No comment provided by engineer. */
 "Popup Banner at Begin" = "顯示開始通知";
@@ -1190,7 +1190,7 @@
 "Quick Recording" = "快速錄音";
 
 /* No comment provided by engineer. */
-"Quit and relaunch to continue using the Pro features." = "重啓應用程式以繼續使用專業版功能。";
+"Quit and relaunch to continue using the Pro features." = "重啟應用程式以繼續使用專業版功能。";
 
 /* No comment provided by engineer. */
 "Quit this application and try again." = "退出此應用程式並重試。";
@@ -1199,7 +1199,7 @@
 "Re-authenticate" = "重新驗證";
 
 /* No comment provided by engineer. */
-"Re-enable Suggested Options" = "重新啓用建議選項";
+"Re-enable Suggested Options" = "重新啟用建議選項";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "連線守護進程";
@@ -1275,8 +1275,8 @@
 /* No comment provided by engineer. */
 "Rename" = "重命名";
 
-/* TODO */
-"Reset Search Indexes" = "Reset Search Indexes";
+/* No comment provided by engineer. */
+"Reset Search Indexes" = "重設搜尋索引";
 
 /* No comment provided by engineer. */
 "Reset Service" = "重置服務";
@@ -1285,7 +1285,7 @@
 "Respring" = "妙手回春";
 
 /* No comment provided by engineer. */
-"Restart Render Server" = "重啓渲染服務";
+"Restart Render Server" = "重啟渲染服務";
 
 /* No comment provided by engineer. */
 "Restore" = "恢復";
@@ -1387,7 +1387,7 @@
 "Separators" = "分隔符";
 
 /* No comment provided by engineer. */
-"Server started at: %@" = "服務已啓動：%@";
+"Server started at: %@" = "服務已啟動：%@";
 
 /* No comment provided by engineer. */
 "Service is alive" = "服務正常運行";
@@ -1509,7 +1509,7 @@
 "Stop Service" = "停止服務";
 
 /* No comment provided by engineer. */
-"Suggested Applications" = "建議應用";
+"Suggested Applications" = "建議應用程式";
 
 /* No comment provided by engineer. */
 "Sync" = "同步";
@@ -1548,10 +1548,10 @@
 "Temporary Ignore" = "暫時忽略";
 
 /* No comment provided by engineer. */
-"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "設定應用程式遇到了未知錯誤，守護進程沒有響應我們的請求。 我們正在嘗試重新連線，請稍後。 若問題持續存在，你可以嘗試重新安裝應用程序。";
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "設定應用程式遇到了未知錯誤，守護進程沒有響應我們的請求。 我們正在嘗試重新連線，請稍後。 若問題持續存在，你可以嘗試重新安裝應用程式。";
 
 /* No comment provided by engineer. */
-"The application will launch automatically when recording ends." = "錄音結束時應用將自動啓動。";
+"The application will launch automatically when recording ends." = "錄音結束時應用程式將自動啟動。";
 
 /* No comment provided by engineer. */
 "The content of text file “%@” is empty." = "文本檔案 “%@” 的内容為空。";
@@ -1626,10 +1626,10 @@
 "This is a sandbox build, the daemon is not available." = "守護進程不可用。";
 
 /* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人姓名和備注。\n你可以購買 “巨魔錄音機” 以啓用 “WeChat 通話助理” ，你想現在購買嗎？";
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人名稱和備注。\n你可以購買 “巨魔錄音機” 以啟用 “WeChat 通話助理” ，你想現在購買嗎？";
 
 /* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人姓名和備注。\n你似乎沒有啓用 “WeChat 通話助理” ，你想立即啓用嗎？";
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人名稱和備注。\n你似乎沒有啟用 “WeChat 通話助理” ，你想立即啟用嗎？";
 
 /* No comment provided by engineer. */
 "This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "WeChat 通話助理不支援當前版本的 WeChat （%@）。請升級到最新版本。";
@@ -1656,7 +1656,7 @@
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服務的活躍狀態，你需要為巨魔錄音機選擇 “總是” 或 “使用 App 時” 。";
 
 /* 如需配置 iCloud 云盘，请转到 “设置 > 蜂窝移动网络 > iCloud 云盘”。 */
-"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "如需使用智能雲端存檔，你需要為巨魔錄音機啓用背景 App 重新整理。";
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "如需使用智能雲端存檔，你需要為巨魔錄音機啟用背景 App 重新整理。";
 
 /* 如需配置 iCloud 云盘，请转到 “设置 > 蜂窝移动网络 > iCloud 云盘”。 */
 "To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "要使用智能雲端存檔，你必須在設定中登入 iCloud 雲碟。";
@@ -1668,7 +1668,7 @@
 
 "Toggle Hoverball" = "打開/關閉懸浮球";
 
-"Toggle ON/OFF the recorder hoverball." = "啓動服務，并打開/關閉錄音懸浮球。";
+"Toggle ON/OFF the recorder hoverball." = "啟動服務，并打開/關閉錄音懸浮球。";
 
 "Toggle Recording" = "開始/停止錄音";
 
@@ -1796,7 +1796,7 @@
 "Upload, download or synconize recordings between local and cloud drive." = "在本地與雲端之間上載、下載或同步錄音。";
 
 /* No comment provided by engineer. */
-"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物特徵識別驗證來解鎖應用程式。啓用此功能時，後台播放不可用。";
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物特徵識別驗證來解鎖應用程式。啟用此功能時，後台播放不可用。";
 
 /* No comment provided by engineer. */
 "Use Cellular Network" = "使用流動網絡";
@@ -1876,7 +1876,7 @@
 "View Logs: Hoverball" = "懸浮球";
 
 /* No comment provided by engineer. */
-"View Logs: Launch Agent" = "啓用代理";
+"View Logs: Launch Agent" = "啟用代理";
 
 /* No comment provided by engineer. */
 "View My Account" = "查看我的賬戶";
@@ -1921,7 +1921,7 @@
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "未連接 WLAN 時，使用流動網絡傳輸錄音。可能會產生額外費用。";
 
 /* No comment provided by engineer. */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解鎖後，即使您不在主荧幕上，也會顯示懸浮球。";
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解鎖後，即使您不在主螢幕上，也會顯示懸浮球。";
 
 /* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空間不足，分離通道上的本地錄音在上載後將被刪除。";
@@ -1939,7 +1939,7 @@
 "Why don’t you make a phone call?" = "為什麽不打個電話試試呢？";
 
 /* No comment provided by engineer. */
-"Will start recording automatically on audio or video calls in the current application." = "在當前應用程序中通話時自動開啓錄音。";
+"Will start recording automatically on audio or video calls in the current application." = "在當前應用程式中通話時自動開啟錄音。";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls." = "通話時自動開始錄音。";
@@ -1951,7 +1951,7 @@
 "Write latitude and longitude to the recording metadata." = "將經緯度寫入錄音元數據。";
 
 /* No comment provided by engineer. */
-"Write runtime logs into filesystem. You need to restart services to apply changes." = "將運行時日志寫入檔案系統。你需要重新啓動服務以應用更改，";
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "將運行時日志寫入檔案系統。你需要重新啟動服務以應用更改，";
 
 /* No comment provided by engineer. */
 "Year Month Day" = "年/月/日";
@@ -1966,7 +1966,7 @@
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要啟用“增强自動錄音”或“增强通話場景識別”以使此頁面上的選項生效。";
 
 /* No comment provided by engineer. */
-"You may need to reboot your device to make this application work properly." = "你可能需要重新啓動你的裝置以使此應用程式正常工作。";
+"You may need to reboot your device to make this application work properly." = "你可能需要重新啟動你的裝置以使此應用程式正常工作。";
 
 /* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder JB”." = "您現在正在試用巨魔錄音機越獄版。";
