@@ -173,6 +173,15 @@
 /* No comment provided by engineer. */
 "Audio Compression" = "Compression audio";
 
+/* Translated with Microsoft Translator */
+"Audio duration %@" = "Durée de l'audio %@";
+
+/* Translated with Microsoft Translator */
+"Audio played to %@" = "Audio joué à %@";
+
+/* Translated with Microsoft Translator */
+"Audio progress" = "Progression de l'audio";
+
 /* No comment provided by engineer. */
 "Authenticate with %@" = "Authentifier avec %@";
 
@@ -217,6 +226,9 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "Style d'arrière-plan";
+
+/* Translated with Microsoft Translator */
+"Backup with iCloud" = "Sauvegarde avec iCloud";
 
 /* No comment provided by engineer. */
 "Batch Export" = "Exportation en lot";
@@ -365,14 +377,14 @@
 /* No comment provided by engineer. */
 "Continue" = "Continuer";
 
-/* No comment provided by engineer. */
-"Convert Failed" = "Conversion échouée";
+/* Translated with Microsoft Translator */
+"Conversion Failed" = "Échec de la conversion";
+
+/* Translated with Microsoft Translator */
+"Conversion Succeed" = "Réussir la conversion";
 
 /* No comment provided by engineer. */
 "Convert Now" = "Convertir maintenant";
-
-/* No comment provided by engineer. */
-"Convert Succeed" = "Conversion réussie";
 
 /* No comment provided by engineer. */
 "Converting" = "Conversion en cours";
@@ -907,10 +919,13 @@
 "Low Disk Space" = "Espace disque faible";
 
 /* No comment provided by engineer. */
-"Made with love by @Lessica & @Lakr233" = "Fabriqué avec amour par @Lessica & @Lakr233";
+"Made with ♥ by OwnGoal Studio" = "Fabriqué avec amour par OwnGoal Studio";
 
 /* Translated with Microsoft Translator */
 "Mail composition failed" = "Échec de la composition du courrier";
+
+/* Translated with Microsoft Translator */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Faites des copies de sauvegarde des enregistrements dans un domaine de sauvegarde et autorisez iCloud Backup à les inclure.";
 
 /* Translated with Microsoft Translator */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Lire les enregistrements d'appels existants directement dans la liste de l'historique des appels.";
@@ -1538,6 +1553,12 @@
 "Tap again to start a FaceTime call." = "Appuyez à nouveau pour démarrer un appel FaceTime.";
 
 /* No comment provided by engineer. */
+"Tap to calculate the total size of all recordings." = "Touchez pour calculer la taille totale de tous les enregistrements.";
+
+/* Translated with Microsoft Translator */
+"Tap to Copy" = "Touchez pour copier";
+
+/* No comment provided by engineer. */
 "Tap to Exit" = "Touchez pour quitter";
 
 /* Translated with Microsoft Translator */
@@ -1673,6 +1694,9 @@
 
 /* Translated with Microsoft Translator */
 "top edge" = "bord supérieur";
+
+/* Translated with Microsoft Translator */
+"Total size is %@, path is %@" = "La taille totale est %@, le chemin d'accès est %@";
 
 /* Translated with Microsoft Translator */
 "Touch ID" = "Touch ID";
