@@ -32,7 +32,7 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 
 - [x] <del>Hover-ball on Lockscreen</del> Notification on Lockscreen
 - [x] <del>iCloud Drive</del> Smart Cloud Archive
-- [ ] iCloud Backup
+- [x] iCloud Backup
 - [ ] Google Drive
 - [ ] Dropbox
 
