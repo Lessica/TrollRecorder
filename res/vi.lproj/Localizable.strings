@@ -173,6 +173,15 @@
 /* No comment provided by engineer. */
 "Audio Compression" = "Nén âm thanh";
 
+/* TODO */
+"Audio duration %@" = "Audio duration %@";
+
+/* TODO */
+"Audio played to %@" = "Audio played to %@";
+
+/* TODO */
+"Audio progress" = "Audio progress";
+
 /* No comment provided by engineer. */
 "Authenticate with %@" = "Xác thực với %@";
 
@@ -217,6 +226,9 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "Phong cách nền";
+
+/* TODO */
+"Backup with iCloud" = "Backup with iCloud";
 
 /* No comment provided by engineer. */
 "Batch Export" = "Xuất hàng loạt";
@@ -365,14 +377,14 @@
 /* No comment provided by engineer. */
 "Continue" = "Tiếp tục";
 
-/* No comment provided by engineer. */
-"Convert Failed" = "Chuyển đổi không thành công";
+/* TODO */
+"Conversion Failed" = "Conversion Failed";
+
+/* TODO */
+"Conversion Succeed" = "Conversion Succeed";
 
 /* No comment provided by engineer. */
 "Convert Now" = "Chuyển đổi ngay bây giờ";
-
-/* No comment provided by engineer. */
-"Convert Succeed" = "Chuyển đổi thành công";
 
 /* No comment provided by engineer. */
 "Converting" = "Đang chuyển đổi";
@@ -907,10 +919,13 @@
 "Low Disk Space" = "Dung lượng đĩa thấp";
 
 /* No comment provided by engineer. */
-"Made with love by @Lessica & @Lakr233" = "Được làm bằng tình yêu bởi @Lessica & @Lakr233";
+"Made with ♥ by OwnGoal Studio" = "Được làm bằng tình yêu bởi OwnGoal Studio";
 
 /* TODO */
 "Mail composition failed" = "Mail composition failed";
+
+/* TODO */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* TODO */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback.";
@@ -1537,6 +1552,12 @@
 /* TODO */
 "Tap again to start a FaceTime call." = "Tap again to start a FaceTime call.";
 
+/* TODO */
+"Tap to calculate the total size of all recordings." = "Tap to calculate the total size of all recordings.";
+
+/* TODO */
+"Tap to Copy" = "Tap to Copy";
+
 /* No comment provided by engineer. */
 "Tap to Exit" = "Nhấn để thoát";
 
@@ -1673,6 +1694,9 @@
 
 /* TODO */
 "top edge" = "top edge";
+
+/* TODO */
+"Total size is %@, path is %@" = "Total size is %@, path is %@";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";

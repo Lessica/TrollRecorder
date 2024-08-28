@@ -174,6 +174,15 @@
 "Audio Compression" = "音频压缩";
 
 /* No comment provided by engineer. */
+"Audio duration %@" = "音频时长为 %@";
+
+/* No comment provided by engineer. */
+"Audio played to %@" = "音频播放至 %@";
+
+/* No comment provided by engineer. */
+"Audio progress" = "音频进度";
+
+/* No comment provided by engineer. */
 "Authenticate with %@" = "使用 %@ 进行验证";
 
 /* No comment provided by engineer. */
@@ -217,6 +226,9 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "背景样式";
+
+/* No comment provided by engineer. */
+"Backup with iCloud" = "通过 iCloud 备份";
 
 /* No comment provided by engineer. */
 "Batch Export" = "批量导出";
@@ -367,13 +379,13 @@
 "Continue" = "继续";
 
 /* No comment provided by engineer. */
-"Convert Failed" = "转换失败";
+"Conversion Failed" = "转换失败";
+
+/* No comment provided by engineer. */
+"Conversion Succeed" = "转换成功";
 
 /* No comment provided by engineer. */
 "Convert Now" = "立即转换";
-
-/* No comment provided by engineer. */
-"Convert Succeed" = "转换成功";
 
 /* No comment provided by engineer. */
 "Converting" = "转换中";
@@ -670,7 +682,7 @@
 "File Format" = "文件格式";
 
 /* No comment provided by engineer. */
-"File Size" = "文件大小";
+"File Size" = "文件尺寸";
 
 /* No comment provided by engineer. */
 "Filter" = "过滤器";
@@ -909,10 +921,13 @@
 "Low Disk Space" = "储存空间不足";
 
 /* No comment provided by engineer. */
-"Made with love by @Lessica & @Lakr233" = "@Lessica 和 @Lakr233 一起写的";
+"Made with ♥ by OwnGoal Studio" = "「乌龙工作室」倾情献制";
 
 /* No comment provided by engineer. */
 "Mail composition failed" = "邮件发送失败";
+
+/* No comment provided by engineer. */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在备份域中创建录音的浅拷贝，并允许 iCloud 备份中包含这些副本。";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "使关联的通话录音展示在通话记录页面，跳转到巨魔录音机进行回放。";
@@ -1540,6 +1555,12 @@
 "Tap again to start a FaceTime call." = "再次轻点开始 FaceTime 通话";
 
 /* No comment provided by engineer. */
+"Tap to calculate the total size of all recordings." = "轻按以计算所有录音的总大小。";
+
+/* No comment provided by engineer. */
+"Tap to Copy" = "轻点以复制";
+
+/* No comment provided by engineer. */
 "Tap to Exit" = "轻点退出";
 
 /* No comment provided by engineer. */
@@ -1675,6 +1696,9 @@
 
 /* No comment provided by engineer. */
 "top edge" = "顶边";
+
+/* No comment provided by engineer. */
+"Total size is %@, path is %@" = "总尺寸为 %@，路径为 %@";
 
 /* No comment provided by engineer. */
 "Touch ID" = "触控 ID";

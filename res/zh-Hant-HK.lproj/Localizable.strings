@@ -174,6 +174,15 @@
 "Audio Compression" = "音訊壓縮";
 
 /* No comment provided by engineer. */
+"Audio duration %@" = "音訊時長 %@";
+
+/* No comment provided by engineer. */
+"Audio played to %@" = "音訊播放至 %@";
+
+/* No comment provided by engineer. */
+"Audio progress" = "音訊進度";
+
+/* No comment provided by engineer. */
 "Authenticate with %@" = "使用 %@ 進行驗證";
 
 /* No comment provided by engineer. */
@@ -217,6 +226,9 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "背景樣式";
+
+/* TODO */
+"Backup with iCloud" = "Backup with iCloud";
 
 /* No comment provided by engineer. */
 "Batch Export" = "批量匯出";
@@ -367,13 +379,13 @@
 "Continue" = "繼續";
 
 /* No comment provided by engineer. */
-"Convert Failed" = "轉換失敗";
+"Conversion Failed" = "轉換失敗";
+
+/* No comment provided by engineer. */
+"Conversion Succeed" = "轉換成功";
 
 /* No comment provided by engineer. */
 "Convert Now" = "立即轉換";
-
-/* No comment provided by engineer. */
-"Convert Succeed" = "轉換成功";
 
 /* No comment provided by engineer. */
 "Converting" = "轉換中";
@@ -908,10 +920,13 @@
 "Low Disk Space" = "磁碟空間不足";
 
 /* No comment provided by engineer. */
-"Made with love by @Lessica & @Lakr233" = "@Lessica 和 @Lakr233 一起寫的";
+"Made with ♥ by OwnGoal Studio" = "「烏龍工作室」製作";
 
 /* No comment provided by engineer. */
 "Mail composition failed" = "郵件發送失敗";
+
+/* TODO */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "使關聯的通話錄音展示在通話記錄頁面，跳轉到巨魔錄音機進行回播。";
@@ -1539,6 +1554,12 @@
 "Tap again to start a FaceTime call." = "再次輕觸以開始 FaceTime 通話。";
 
 /* No comment provided by engineer. */
+"Tap to calculate the total size of all recordings." = "輕觸以計算所有錄音的總大小。";
+
+/* No comment provided by engineer. */
+"Tap to Copy" = "輕觸以複製";
+
+/* No comment provided by engineer. */
 "Tap to Exit" = "輕觸退出";
 
 /* No comment provided by engineer. */
@@ -1674,6 +1695,9 @@
 
 /* No comment provided by engineer. */
 "top edge" = "頂部邊緣";
+
+/* No comment provided by engineer. */
+"Total size is %@, path is %@" = "總大小為 %@，路徑為 %@";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
