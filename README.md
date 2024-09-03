@@ -105,6 +105,7 @@ A botch job is a waste of time. That's why we always built our app in the best q
 | 按月整理 | ✅ | ✅ |
 | 只增不删 | ✅ | ⚠️ 跟随本地录音增删改 |
 | 自定义归档名称 | ✅ | ⚠️ 原始文件名称 |
+| 不占用额外存储空间 | ✅ APFS 克隆 | ✅ 硬链接 |
 
 ## Special Thanks
 
