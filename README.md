@@ -74,6 +74,7 @@ A botch job is a waste of time. That's why we always built our app in the best q
 | 　 回收站 | | 　✅ | 世上没有后悔药，但我们有 |
 | 👍 个人收藏/过期清理 | | 　✅ | 小容量 iPhone 的福音 |
 | 👍 智能云归档 | | 　✅ | 充分利用 iCloud 云盘归档过往录音 |
+| 👍 通过 iCloud 备份 | | 　✅ | 跟随 iCloud 整机增量备份 |
 | 👍 组合模式/保留通道 | | 　✅ | 分别保留和听取扬声器和麦克风通道 |
 | 　 多种文件和音频格式 | | 　✅ | 支持 m4a/caf/wav，支持 aac 编码 |
 | 　 自定义采样率 | | 　✅ | 更好的音频质量 |
@@ -91,6 +92,19 @@ A botch job is a waste of time. That's why we always built our app in the best q
 | 越狱后自启动 | | 　✅ | |
 | 隐秘语音备忘录 | | 　✅ | 让语音备忘录保持隐身录制 |
 | 电话/联系人联动 | | 　✅ | 在「最近通话」中查看关联录音 |
+
+### 智能云归档 vs 通过 iCloud 备份
+
+| 特性 | 智能云归档 | 通过 iCloud 备份 |
+|------|------|------|
+| 位置 | iCloud 云盘 | iCloud 备份 |
+| 前提条件 | ✅ iCloud 套餐空间足够<br>✅ 设置 -> Apple ID -> iCloud -> 打开「iCloud 云盘」 | ✅ iCloud 套餐空间足够<br>✅ 设置 -> Apple ID -> iCloud -> 打开「iCloud 云备份」 |
+| 开启方式 | App -> 设置 -> 内容共享 -> 打开「智能云归档」 | App -> 设置 -> 本地存储 -> 打开「通过 iCloud 备份」 |
+| 范围 | ⚠️ 除当前月份外的所有月份的录音 | ✅ 所有录音 |
+| 在「文件」中查看 | ✅ | ✅ |
+| 按月整理 | ✅ | ✅ |
+| 只增不删 | ✅ | ⚠️ 跟随本地录音增删改 |
+| 自定义归档名称 | ✅ | ⚠️ 原始文件名称 |
 
 ## Special Thanks
 
