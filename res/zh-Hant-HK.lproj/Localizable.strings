@@ -61,7 +61,7 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 天前";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "<%@: %p>" = "<%@: %p>";
 
 /* No comment provided by engineer. */
@@ -70,8 +70,10 @@
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺裝置的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前景時服務可用。";
 
+/* No comment provided by engineer. */
 "activate" = "activate";
 
+/* No comment provided by engineer. */
 "Activate the recorder hoverball." = "啟動服務，并打開錄音懸浮球。";
 
 /* No comment provided by engineer. */
@@ -128,6 +130,9 @@
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "總是保持懸浮球可見。";
 
+/* TODO */
+"Always Keep-Alive in Background" = "Always Keep-Alive in Background";
+
 /* No comment provided by engineer. */
 "Always Light" = "保持淺色";
 
@@ -161,6 +166,9 @@
 /* No comment provided by engineer. */
 "Applications" = "應用程式";
 
+/* TODO */
+"Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
+
 /* No comment provided by engineer. */
 "Associate with Call History" = "與通話記錄連結";
 
@@ -191,8 +199,8 @@
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "當前月份的錄音不會被歸檔。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
 
-/* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小工具添加到主螢幕任意位置才能使此選項生效。";
+/* TODO */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小工具添加到主螢幕任意位置才能使此選項生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將麥克風和揚聲器合併成一個檔案。";
@@ -214,6 +222,9 @@
 
 /* No comment provided by engineer. */
 "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解鎖後自動上滑進入主熒幕。鎖定後 10 秒内解鎖，此動作將不會生效。";
+
+/* TODO */
+"Automation" = "Automation";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "一次購買終身可用";
@@ -278,6 +289,12 @@
 /* No comment provided by engineer. */
 "Call Recording" = "通話錄音";
 
+/* TODO */
+"Call Recording Begins" = "Call Recording Begins";
+
+/* TODO */
+"Call Recording Ends" = "Call Recording Ends";
+
 /* No comment provided by engineer. */
 "Call recording from “%@” and other %ld applications." = "來自 “%@” 和其他 %ld 個應用程式的通話錄音";
 
@@ -292,6 +309,9 @@
 
 /* No comment provided by engineer. */
 "Cannot parse text with UTF-8 encoding: “%@”." = "無法使用 UTF-8 編碼解析文本: “%@”。";
+
+/* TODO */
+"Caution" = "Caution";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "啟動時檢查更新";
@@ -338,8 +358,7 @@
 /* No comment provided by engineer. */
 "Compress Recording" = "壓縮音訊";
 
-/* PlainTextViewController
-   StripedTextTableViewController */
+/* No comment provided by engineer. */
 "Confirm" = "確認";
 
 /* No comment provided by engineer. */
@@ -435,6 +454,7 @@
 /* No comment provided by engineer. */
 "Day of Week String" = "星期幾";
 
+/* No comment provided by engineer. */
 "deactivate" = "deactivate";
 
 /* No comment provided by engineer. */
@@ -443,6 +463,7 @@
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "反激活並退出登入狀態";
 
+/* No comment provided by engineer. */
 "Deactivate the recorder hoverball." = "啟動服務，并關閉錄音懸浮球。";
 
 /* No comment provided by engineer. */
@@ -556,6 +577,9 @@
 /* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
 
+/* TODO */
+"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states.";
+
 /* No comment provided by engineer. */
 "Duration" = "持續時間";
 
@@ -622,8 +646,10 @@
 /* No comment provided by engineer. */
 "Error" = "錯誤";
 
+/* No comment provided by engineer. */
 "exit" = "exit";
 
+/* No comment provided by engineer. */
 "Exit Hoverball" = "關閉懸浮球";
 
 /* No comment provided by engineer. */
@@ -776,6 +802,7 @@
 /* No comment provided by engineer. */
 "How would you like to call?" = "你想如何撥打電話？";
 
+/* No comment provided by engineer. */
 "hud" = "hud";
 
 /* No comment provided by engineer. */
@@ -802,6 +829,9 @@
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果您的手機支援 2 張 SIM 卡，錄音通話時所使用的 SIM 卡別名將顯示在這裏。";
 
+/* TODO */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ignore the last modification date on all directories and files and make a deep clone of all recordings.";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1 小時内";
 
@@ -810,6 +840,15 @@
 
 /* No comment provided by engineer. */
 "Incoming" = "來電";
+
+/* TODO */
+"Incoming Call" = "Incoming Call";
+
+/* TODO */
+"Incoming Call Answered" = "Incoming Call Answered";
+
+/* TODO */
+"Incoming Call Hang Up" = "Incoming Call Hang Up";
 
 /* No comment provided by engineer. */
 "Incoming call recording from “%@” and other %ld applications." = "來自 “%@” 和其他 %ld 個應用程式的來電錄音";
@@ -862,8 +901,8 @@
 /* No comment provided by engineer. */
 "Launch App at End" = "結束時啟動應用程式";
 
-/* No comment provided by engineer. */
-"Launch When First Unlocked" = "首次解鎖時啟動";
+/* TODO */
+"Launch Shield" = "首次解鎖時啟動";
 
 /* No comment provided by engineer. */
 "Leading & Trailing" = "左右邊緣";
@@ -1021,6 +1060,9 @@
 /* No comment provided by engineer. */
 "Never" = "從不";
 
+/* TODO */
+"New" = "New";
+
 /* No comment provided by engineer. */
 "New Matching Pattern" = "新匹配條目";
 
@@ -1075,8 +1117,10 @@
 /* No comment provided by engineer. */
 "Open" = "打開";
 
+/* No comment provided by engineer. */
 "open" = "打開";
 
+/* No comment provided by engineer. */
 "Open Hoverball" = "打開懸浮球";
 
 /* No comment provided by engineer. */
@@ -1085,6 +1129,7 @@
 /* No comment provided by engineer. */
 "Open in Maps" = "在地圖中打開";
 
+/* No comment provided by engineer. */
 "Open Troll Recorder" = "打開巨魔錄音機";
 
 /* No comment provided by engineer. */
@@ -1105,6 +1150,15 @@
 /* No comment provided by engineer. */
 "Outgoing" = "去電";
 
+/* TODO */
+"Outgoing Call" = "Outgoing Call";
+
+/* TODO */
+"Outgoing Call Answered" = "Outgoing Call Answered";
+
+/* TODO */
+"Outgoing Call Hang Up" = "Outgoing Call Hang Up";
+
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@” and other %ld applications." = "來自 “%@” 和其他 %ld 個應用程式的去電錄音";
 
@@ -1122,6 +1176,9 @@
 
 /* No comment provided by engineer. */
 "Paused" = "暫停";
+
+/* TODO */
+"Perform Full Backup" = "Perform Full Backup";
 
 /* No comment provided by engineer. */
 "Period" = "句點";
@@ -1243,6 +1300,7 @@
 /* No comment provided by engineer. */
 "Recording" = "錄製中";
 
+/* No comment provided by engineer. */
 "recording" = "錄音";
 
 /* No comment provided by engineer. */
@@ -1289,6 +1347,12 @@
 
 /* No comment provided by engineer. */
 "Rename" = "重命名";
+
+/* TODO */
+"Reset" = "Reset";
+
+/* TODO */
+"Reset All Shortcuts" = "Reset All Shortcuts";
 
 /* No comment provided by engineer. */
 "Reset Search Indexes" = "重設搜尋索引";
@@ -1361,6 +1425,9 @@
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "搜尋錄音…";
+
+/* TODO */
+"Search Shortcuts…" = "Search Shortcuts…";
 
 /* No comment provided by engineer. */
 "Seconds" = "秒數";
@@ -1488,8 +1555,10 @@
 /* No comment provided by engineer. */
 "Speaker" = "揚聲器";
 
+/* No comment provided by engineer. */
 "start" = "開始";
 
+/* No comment provided by engineer. */
 "Start a new call recoring, or stop an existing one." = "開始一次新的通話錄音，或停止一個已存在的錄音會話。";
 
 /* No comment provided by engineer. */
@@ -1498,13 +1567,16 @@
 /* No comment provided by engineer. */
 "Start Date" = "起始日期";
 
+/* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "手動開始或準備開始一次新的通話錄音。";
 
+/* No comment provided by engineer. */
 "Start Recording" = "開始錄音";
 
 /* No comment provided by engineer. */
 "Stay tuned. We’re recording your call in the background." = "請繼續。我們正在背景錄製您的通話。";
 
+/* No comment provided by engineer. */
 "stop" = "停止";
 
 /* No comment provided by engineer. */
@@ -1513,8 +1585,10 @@
 /* No comment provided by engineer. */
 "Stop & Save" = "結束并保存";
 
+/* No comment provided by engineer. */
 "Stop a call recording session if exists." = "如果已存在一個正在進行的通話錄音會話，則停止它。";
 
+/* No comment provided by engineer. */
 "Stop Recording" = "停止錄音";
 
 /* No comment provided by engineer. */
@@ -1522,6 +1596,9 @@
 
 /* No comment provided by engineer. */
 "Stop Service" = "停止服務";
+
+/* TODO */
+"Suggested" = "Suggested";
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "建議應用程式";
@@ -1534,6 +1611,9 @@
 
 /* No comment provided by engineer. */
 "Sync Service Provider" = "服務供應商";
+
+/* TODO */
+"Synchronizing" = "Synchronizing";
 
 /* No comment provided by engineer. */
 "System Applications" = "系統應用程式";
@@ -1646,6 +1726,9 @@
 /* No comment provided by engineer. */
 "This is a sandbox build, the daemon is not available." = "守護進程不可用。";
 
+/* TODO */
+"This is a widget daemon for Troll Recorder." = "This is a widget daemon for Troll Recorder.";
+
 /* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人名稱和備注。\n你可以購買 “巨魔錄音機” 以啟用 “WeChat 通話助理” ，你想現在購買嗎？";
 
@@ -1685,12 +1768,16 @@
 /* No comment provided by engineer. */
 "To: %@" = "結束于：%@";
 
+/* No comment provided by engineer. */
 "toggle" = "toggle";
 
+/* No comment provided by engineer. */
 "Toggle Hoverball" = "打開/關閉懸浮球";
 
+/* No comment provided by engineer. */
 "Toggle ON/OFF the recorder hoverball." = "啟動服務，并打開/關閉錄音懸浮球。";
 
+/* No comment provided by engineer. */
 "Toggle Recording" = "開始/停止錄音";
 
 /* No comment provided by engineer. */
@@ -1801,6 +1888,9 @@
 /* No comment provided by engineer. */
 "Unmark" = "取消收藏";
 
+/* TODO */
+"Unspecified" = "Unspecified";
+
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "不支援的配置";
 
@@ -1855,6 +1945,7 @@
 /* No comment provided by engineer. */
 "User Interface Style" = "界面樣式";
 
+/* No comment provided by engineer. */
 "Utility" = "實用工具";
 
 /* No comment provided by engineer. */

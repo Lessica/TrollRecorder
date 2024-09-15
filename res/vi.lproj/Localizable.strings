@@ -70,8 +70,10 @@
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Truy cập các bản ghi âm của bạn từ trình duyệt WebDAV từ một thiết bị khác trong mạng. Máy chủ chỉ hoạt động khi ứng dụng ở phía trước.";
 
+/* No comment provided by engineer. */
 "activate" = "kích hoạt";
 
+/* No comment provided by engineer. */
 "Activate the recorder hoverball." = "Kích hoạt bong bóng ghi âm.";
 
 /* No comment provided by engineer. */
@@ -128,6 +130,9 @@
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "Luôn giữ cho cửa sổ bong bóng được hiển thị mọi lúc";
 
+/* TODO */
+"Always Keep-Alive in Background" = "Always Keep-Alive in Background";
+
 /* No comment provided by engineer. */
 "Always Light" = "Luôn sáng";
 
@@ -162,6 +167,9 @@
 "Applications" = "Các ứng dụng";
 
 /* TODO */
+"Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
+
+/* TODO */
 "Associate with Call History" = "Associate with Call History";
 
 /* No comment provided by engineer. */
@@ -191,8 +199,8 @@
 /* TODO */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
-/* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Tự động kích hoạt các dịch vụ nền khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình chính.";
+/* TODO */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Tự động kích hoạt các dịch vụ nền khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình chính.";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Tự động hợp nhất micrô và loa thành một tệp duy nhất sau khi ghi âm hoàn tất.";
@@ -214,6 +222,9 @@
 
 /* TODO */
 "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect.";
+
+/* TODO */
+"Automation" = "Automation";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Có sẵn vĩnh viễn";
@@ -278,6 +289,12 @@
 /* No comment provided by engineer. */
 "Call Recording" = "Ghi âm cuộc gọi";
 
+/* TODO */
+"Call Recording Begins" = "Call Recording Begins";
+
+/* TODO */
+"Call Recording Ends" = "Call Recording Ends";
+
 /* No comment provided by engineer. */
 "Call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi từ “%@” và %ld các ứng dụng khác";
 
@@ -292,6 +309,9 @@
 
 /* TODO */
 "Cannot parse text with UTF-8 encoding: “%@”." = "Cannot parse text with UTF-8 encoding: “%@”.";
+
+/* TODO */
+"Caution" = "Caution";
 
 /* TODO */
 "Check Updates at Launch" = "Check Updates at Launch";
@@ -434,6 +454,7 @@
 /* TODO */
 "Day of Week String" = "Day of Week String";
 
+/* No comment provided by engineer. */
 "deactivate" = "huỷ kích hoạt";
 
 /* No comment provided by engineer. */
@@ -442,6 +463,7 @@
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "Hủy kích hoạt & Đăng xuất";
 
+/* No comment provided by engineer. */
 "Deactivate the recorder hoverball." = "Vô hiệu hóa bong bóng ghi âm.";
 
 /* TODO */
@@ -556,6 +578,9 @@
 "Dropbox" = "Dropbox";
 
 /* TODO */
+"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states.";
+
+/* TODO */
 "Duration" = "Duration";
 
 /* No comment provided by engineer. */
@@ -621,8 +646,10 @@
 /* No comment provided by engineer. */
 "Error" = "Lỗi";
 
+/* No comment provided by engineer. */
 "exit" = "thoát";
 
+/* No comment provided by engineer. */
 "Exit Hoverball" = "Thoát bong bóng";
 
 /* TODO */
@@ -775,6 +802,7 @@
 /* TODO */
 "How would you like to call?" = "How would you like to call?";
 
+/* No comment provided by engineer. */
 "hud" = "hud";
 
 /* TODO */
@@ -801,6 +829,9 @@
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Nếu điện thoại của bạn hỗ trợ thẻ SIM kép, bí danh thẻ SIM được sử dụng cho cuộc gọi được ghi lại sẽ được hiển thị ở đây.";
 
+/* TODO */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ignore the last modification date on all directories and files and make a deep clone of all recordings.";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "Trong 1 Giờ";
 
@@ -809,6 +840,15 @@
 
 /* No comment provided by engineer. */
 "Incoming" = "Đến";
+
+/* TODO */
+"Incoming Call" = "Incoming Call";
+
+/* TODO */
+"Incoming Call Answered" = "Incoming Call Answered";
+
+/* TODO */
+"Incoming Call Hang Up" = "Incoming Call Hang Up";
 
 /* No comment provided by engineer. */
 "Incoming call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đến từ “%@” và các ứng dụng %ld khác.";
@@ -861,8 +901,8 @@
 /* No comment provided by engineer. */
 "Launch App at End" = "Khởi chạy ứng dụng ở cuối";
 
-/* No comment provided by engineer. */
-"Launch When First Unlocked" = "Khởi chạy khi mở khóa lần đầu tiên";
+/* TODO */
+"Launch Shield" = "Khởi chạy khi mở khóa lần đầu tiên";
 
 /* TODO */
 "Leading & Trailing" = "Leading & Trailing";
@@ -1020,6 +1060,9 @@
 /* No comment provided by engineer. */
 "Never" = "Không bao giờ";
 
+/* TODO */
+"New" = "New";
+
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Mô hình kết hợp mới";
 
@@ -1074,8 +1117,10 @@
 /* No comment provided by engineer. */
 "Open" = "Mở";
 
+/* No comment provided by engineer. */
 "open" = "mở";
 
+/* No comment provided by engineer. */
 "Open Hoverball" = "Mở bong bóng";
 
 /* No comment provided by engineer. */
@@ -1084,6 +1129,7 @@
 /* TODO */
 "Open in Maps" = "Open in Maps";
 
+/* No comment provided by engineer. */
 "Open Troll Recorder" = "Mở Troll Recorder";
 
 /* TODO */
@@ -1104,6 +1150,15 @@
 /* No comment provided by engineer. */
 "Outgoing" = "Đi ra";
 
+/* TODO */
+"Outgoing Call" = "Outgoing Call";
+
+/* TODO */
+"Outgoing Call Answered" = "Outgoing Call Answered";
+
+/* TODO */
+"Outgoing Call Hang Up" = "Outgoing Call Hang Up";
+
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đi từ “%@” và các ứng dụng %ld khác.";
 
@@ -1121,6 +1176,9 @@
 
 /* No comment provided by engineer. */
 "Paused" = "Tạm dừng";
+
+/* TODO */
+"Perform Full Backup" = "Perform Full Backup";
 
 /* TODO */
 "Period" = "Period";
@@ -1239,6 +1297,7 @@
 /* No comment provided by engineer. */
 "Record with Location" = "Ghi lại với vị trí";
 
+/* No comment provided by engineer. */
 "recording" = "ghi";
 
 /* No comment provided by engineer. */
@@ -1288,6 +1347,12 @@
 
 /* No comment provided by engineer. */
 "Rename" = "Đổi tên";
+
+/* TODO */
+"Reset" = "Reset";
+
+/* TODO */
+"Reset All Shortcuts" = "Reset All Shortcuts";
 
 /* TODO */
 "Reset Search Indexes" = "Reset Search Indexes";
@@ -1360,6 +1425,9 @@
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "Tìm kiếm các bản ghi âm…";
+
+/* TODO */
+"Search Shortcuts…" = "Search Shortcuts…";
 
 /* TODO */
 "Seconds" = "Seconds";
@@ -1487,8 +1555,10 @@
 /* No comment provided by engineer. */
 "Speaker" = "Người nói";
 
+/* No comment provided by engineer. */
 "start" = "bắt đầu";
 
+/* No comment provided by engineer. */
 "Start a new call recoring, or stop an existing one." = "Bắt đầu ghi âm cuộc gọi mới hoặc dừng cuộc gọi hiện có.";
 
 /* No comment provided by engineer. */
@@ -1497,13 +1567,16 @@
 /* No comment provided by engineer. */
 "Start Date" = "Ngày bắt đầu";
 
+/* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "Bắt đầu hoặc chuẩn bị ghi âm cuộc gọi mới theo cách thủ công.";
 
+/* No comment provided by engineer. */
 "Start Recording" = "Bắt đầu ghi âm";
 
 /* TODO */
 "Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
+/* No comment provided by engineer. */
 "stop" = "dừng lại";
 
 /* No comment provided by engineer. */
@@ -1512,8 +1585,10 @@
 /* No comment provided by engineer. */
 "Stop & Save" = "Dừng lại & Lưu";
 
+/* No comment provided by engineer. */
 "Stop a call recording session if exists." = "Dừng phiên ghi âm cuộc gọi nếu có.";
 
+/* No comment provided by engineer. */
 "Stop Recording" = "Dừng Ghi Âm";
 
 /* No comment provided by engineer. */
@@ -1521,6 +1596,9 @@
 
 /* No comment provided by engineer. */
 "Stop Service" = "Dừng dịch vụ";
+
+/* TODO */
+"Suggested" = "Suggested";
 
 /* TODO */
 "Suggested Applications" = "Suggested Applications";
@@ -1533,6 +1611,9 @@
 
 /* TODO */
 "Sync Service Provider" = "Sync Service Provider";
+
+/* TODO */
+"Synchronizing" = "Synchronizing";
 
 /* No comment provided by engineer. */
 "System Applications" = "Ứng dụng hệ thống";
@@ -1646,6 +1727,9 @@
 "This is a sandbox build, the daemon is not available." = "This is a sandbox build, the daemon is not available.";
 
 /* TODO */
+"This is a widget daemon for Troll Recorder." = "This is a widget daemon for Troll Recorder.";
+
+/* TODO */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
 
 /* TODO */
@@ -1684,12 +1768,16 @@
 /* No comment provided by engineer. */
 "To: %@" = "Đến: %@";
 
+/* No comment provided by engineer. */
 "toggle" = "bật/tắt";
 
+/* No comment provided by engineer. */
 "Toggle Hoverball" = "Bật/Tắt bong bóng";
 
+/* No comment provided by engineer. */
 "Toggle ON/OFF the recorder hoverball." = "Bật/Tắt bong bóng của máy ghi âm.";
 
+/* No comment provided by engineer. */
 "Toggle Recording" = "Bật tắt ghi âm";
 
 /* TODO */
@@ -1800,6 +1888,9 @@
 /* No comment provided by engineer. */
 "Unmark" = "Bỏ đánh dấu";
 
+/* TODO */
+"Unspecified" = "Unspecified";
+
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "Cấu hình không được hỗ trợ";
 
@@ -1854,6 +1945,7 @@
 /* No comment provided by engineer. */
 "User Interface Style" = "Phong cách giao diện người dùng";
 
+/* No comment provided by engineer. */
 "Utility" = "Tiện ích";
 
 /* TODO */
@@ -1911,8 +2003,7 @@
 "VIP contacts will always be recorded and added to the favourites." = "Các liên hệ VIP sẽ luôn được ghi lại và thêm vào các mục yêu thích.";
 
 /* No comment provided by engineer. */
-"Warning, your call is being recorded now. Warning, your call is being recorded now." = "Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.
-Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.";
+"Warning, your call is being recorded now. Warning, your call is being recorded now." = "Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ. Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.";
 
 /* No comment provided by engineer. */
 "Waveform Audio" = "Âm thanh dạng sóng";

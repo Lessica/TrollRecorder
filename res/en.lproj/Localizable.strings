@@ -13,7 +13,7 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ may not be configured";
 
-/* StripedTextTableViewController */
+/* No comment provided by engineer. */
 "%@ rows not loaded" = "%@ rows not loaded";
 
 /* No comment provided by engineer. */
@@ -61,7 +61,7 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 Days Ago";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "<%@: %p>" = "<%@: %p>";
 
 /* No comment provided by engineer. */
@@ -70,8 +70,10 @@
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground.";
 
+/* No comment provided by engineer. */
 "activate" = "activate";
 
+/* No comment provided by engineer. */
 "Activate the recorder hoverball." = "Activate the recorder hoverball.";
 
 /* No comment provided by engineer. */
@@ -129,6 +131,9 @@
 "Always keep the hoverball window visible." = "Always keep the hoverball window visible.";
 
 /* No comment provided by engineer. */
+"Always Keep-Alive in Background" = "Always Keep-Alive in Background";
+
+/* No comment provided by engineer. */
 "Always Light" = "Always Light";
 
 /* No comment provided by engineer. */
@@ -162,6 +167,9 @@
 "Applications" = "Applications";
 
 /* No comment provided by engineer. */
+"Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
+
+/* No comment provided by engineer. */
 "Associate with Call History" = "Associate with Call History";
 
 /* No comment provided by engineer. */
@@ -192,7 +200,7 @@
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
 /* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen.";
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen.";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Automatically merge microphone and speaker into a single file after record complete.";
@@ -214,6 +222,9 @@
 
 /* No comment provided by engineer. */
 "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect.";
+
+/* No comment provided by engineer. */
+"Automation" = "Automation";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Available for Lifetime";
@@ -279,6 +290,12 @@
 "Call Recording" = "Call Recording";
 
 /* No comment provided by engineer. */
+"Call Recording Begins" = "Call Recording Begins";
+
+/* No comment provided by engineer. */
+"Call Recording Ends" = "Call Recording Ends";
+
+/* No comment provided by engineer. */
 "Call recording from “%@” and other %ld applications." = "Call recording from “%@” and other %ld applications.";
 
 /* No comment provided by engineer. */
@@ -292,6 +309,9 @@
 
 /* No comment provided by engineer. */
 "Cannot parse text with UTF-8 encoding: “%@”." = "Cannot parse text with UTF-8 encoding: “%@”.";
+
+/* No comment provided by engineer. */
+"Caution" = "Caution";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "Check Updates at Launch";
@@ -323,7 +343,7 @@
 /* No comment provided by engineer. */
 "Close" = "Close";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "Collapse Recursively" = "Collapse Recursively";
 
 /* No comment provided by engineer. */
@@ -338,8 +358,7 @@
 /* No comment provided by engineer. */
 "Compress Recording" = "Compress Recording";
 
-/* PlainTextViewController
-   StripedTextTableViewController */
+/* No comment provided by engineer. */
 "Confirm" = "Confirm";
 
 /* No comment provided by engineer. */
@@ -396,10 +415,10 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "Copied Transcript";
 
-/* StripedTextTableViewController */
+/* No comment provided by engineer. */
 "Copy" = "Copy";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "Copy Key" = "Copy Key";
 
 /* No comment provided by engineer. */
@@ -408,7 +427,7 @@
 /* No comment provided by engineer. */
 "Copy Transcript" = "Copy Transcript";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "Copy Value" = "Copy Value";
 
 /* No comment provided by engineer. */
@@ -435,6 +454,7 @@
 /* No comment provided by engineer. */
 "Day of Week String" = "Day of Week String";
 
+/* No comment provided by engineer. */
 "deactivate" = "deactivate";
 
 /* No comment provided by engineer. */
@@ -443,6 +463,7 @@
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "Deactivate & Sign Out";
 
+/* No comment provided by engineer. */
 "Deactivate the recorder hoverball." = "Deactivate the recorder hoverball.";
 
 /* No comment provided by engineer. */
@@ -535,8 +556,7 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Display the source bundle name of the recording.";
 
-/* PlainTextViewController
-   StripedTextTableViewController */
+/* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
 
 /* No comment provided by engineer. */
@@ -556,6 +576,9 @@
 
 /* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
+
+/* No comment provided by engineer. */
+"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states.";
 
 /* No comment provided by engineer. */
 "Duration" = "Duration";
@@ -623,11 +646,13 @@
 /* No comment provided by engineer. */
 "Error" = "Error";
 
+/* No comment provided by engineer. */
 "exit" = "exit";
 
+/* No comment provided by engineer. */
 "Exit Hoverball" = "Exit Hoverball";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "Expand Recursively" = "Expand Recursively";
 
 /* No comment provided by engineer. */
@@ -690,7 +715,7 @@
 /* No comment provided by engineer. */
 "Finalizing" = "Finalizing";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "Focus" = "Focus";
 
 /* No comment provided by engineer. */
@@ -777,6 +802,7 @@
 /* No comment provided by engineer. */
 "How would you like to call?" = "How would you like to call?";
 
+/* No comment provided by engineer. */
 "hud" = "hud";
 
 /* No comment provided by engineer. */
@@ -804,6 +830,9 @@
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here.";
 
 /* No comment provided by engineer. */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ignore the last modification date on all directories and files and make a deep clone of all recordings.";
+
+/* No comment provided by engineer. */
 "In 1 Hour" = "In 1 Hour";
 
 /* No comment provided by engineer. */
@@ -811,6 +840,15 @@
 
 /* No comment provided by engineer. */
 "Incoming" = "Incoming";
+
+/* No comment provided by engineer. */
+"Incoming Call" = "Incoming Call";
+
+/* No comment provided by engineer. */
+"Incoming Call Answered" = "Incoming Call Answered";
+
+/* No comment provided by engineer. */
+"Incoming Call Hang Up" = "Incoming Call Hang Up";
 
 /* No comment provided by engineer. */
 "Incoming call recording from “%@” and other %ld applications." = "Incoming call recording from “%@” and other %ld applications.";
@@ -864,7 +902,7 @@
 "Launch App at End" = "Launch App at End";
 
 /* No comment provided by engineer. */
-"Launch When First Unlocked" = "Launch When First Unlocked";
+"Launch Shield" = "Launch Shield";
 
 /* No comment provided by engineer. */
 "Leading & Trailing" = "Leading & Trailing";
@@ -902,7 +940,7 @@
 /* No comment provided by engineer. */
 "Locked" = "Locked";
 
-/* StripedTextTableViewController */
+/* No comment provided by engineer. */
 "Log Viewer" = "Log Viewer";
 
 /* No comment provided by engineer. */
@@ -1023,6 +1061,9 @@
 "Never" = "Never";
 
 /* No comment provided by engineer. */
+"New" = "New";
+
+/* No comment provided by engineer. */
 "New Matching Pattern" = "New Matching Pattern";
 
 /* No comment provided by engineer. */
@@ -1064,7 +1105,7 @@
 /* No comment provided by engineer. */
 "Notifications" = "Notifications";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "Object Viewer" = "Object Viewer";
 
 /* No comment provided by engineer. */
@@ -1076,8 +1117,10 @@
 /* No comment provided by engineer. */
 "Open" = "Open";
 
+/* No comment provided by engineer. */
 "open" = "open";
 
+/* No comment provided by engineer. */
 "Open Hoverball" = "Open Hoverball";
 
 /* No comment provided by engineer. */
@@ -1086,6 +1129,7 @@
 /* No comment provided by engineer. */
 "Open in Maps" = "Open in Maps";
 
+/* No comment provided by engineer. */
 "Open Troll Recorder" = "Open Troll Recorder";
 
 /* No comment provided by engineer. */
@@ -1107,6 +1151,15 @@
 "Outgoing" = "Outgoing";
 
 /* No comment provided by engineer. */
+"Outgoing Call" = "Outgoing Call";
+
+/* No comment provided by engineer. */
+"Outgoing Call Answered" = "Outgoing Call Answered";
+
+/* No comment provided by engineer. */
+"Outgoing Call Hang Up" = "Outgoing Call Hang Up";
+
+/* No comment provided by engineer. */
 "Outgoing call recording from “%@” and other %ld applications." = "Outgoing call recording from “%@” and other %ld applications.";
 
 /* No comment provided by engineer. */
@@ -1123,6 +1176,9 @@
 
 /* No comment provided by engineer. */
 "Paused" = "Paused";
+
+/* No comment provided by engineer. */
+"Perform Full Backup" = "Perform Full Backup";
 
 /* No comment provided by engineer. */
 "Period" = "Period";
@@ -1244,6 +1300,7 @@
 /* No comment provided by engineer. */
 "Recording" = "Recording";
 
+/* No comment provided by engineer. */
 "recording" = "recording";
 
 /* No comment provided by engineer. */
@@ -1292,6 +1349,12 @@
 "Rename" = "Rename";
 
 /* No comment provided by engineer. */
+"Reset" = "Reset";
+
+/* No comment provided by engineer. */
+"Reset All Shortcuts" = "Reset All Shortcuts";
+
+/* No comment provided by engineer. */
 "Reset Search Indexes" = "Reset Search Indexes";
 
 /* No comment provided by engineer. */
@@ -1327,7 +1390,7 @@
 /* No comment provided by engineer. */
 "Rewind 5 seconds" = "Rewind 5 seconds";
 
-/* ObjectTableViewController */
+/* No comment provided by engineer. */
 "Root" = "Root";
 
 /* No comment provided by engineer. */
@@ -1362,6 +1425,9 @@
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "Search Recordings…";
+
+/* No comment provided by engineer. */
+"Search Shortcuts…" = "Search Shortcuts…";
 
 /* No comment provided by engineer. */
 "Seconds" = "Seconds";
@@ -1489,8 +1555,10 @@
 /* No comment provided by engineer. */
 "Speaker" = "Speaker";
 
+/* No comment provided by engineer. */
 "start" = "start";
 
+/* No comment provided by engineer. */
 "Start a new call recoring, or stop an existing one." = "Start a new call recoring, or stop an existing one.";
 
 /* No comment provided by engineer. */
@@ -1499,13 +1567,16 @@
 /* No comment provided by engineer. */
 "Start Date" = "Start Date";
 
+/* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "Start or prepare a new call recording manually.";
 
+/* No comment provided by engineer. */
 "Start Recording" = "Start Recording";
 
 /* No comment provided by engineer. */
 "Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
+/* No comment provided by engineer. */
 "stop" = "stop";
 
 /* No comment provided by engineer. */
@@ -1514,8 +1585,10 @@
 /* No comment provided by engineer. */
 "Stop & Save" = "Stop & Save";
 
+/* No comment provided by engineer. */
 "Stop a call recording session if exists." = "Stop a call recording session if exists.";
 
+/* No comment provided by engineer. */
 "Stop Recording" = "Stop Recording";
 
 /* No comment provided by engineer. */
@@ -1523,6 +1596,9 @@
 
 /* No comment provided by engineer. */
 "Stop Service" = "Stop Service";
+
+/* No comment provided by engineer. */
+"Suggested" = "Suggested";
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "Suggested Applications";
@@ -1535,6 +1611,9 @@
 
 /* No comment provided by engineer. */
 "Sync Service Provider" = "Sync Service Provider";
+
+/* No comment provided by engineer. */
+"Synchronizing" = "Synchronizing";
 
 /* No comment provided by engineer. */
 "System Applications" = "System Applications";
@@ -1648,6 +1727,9 @@
 "This is a sandbox build, the daemon is not available." = "This is a sandbox build, the daemon is not available.";
 
 /* No comment provided by engineer. */
+"This is a widget daemon for Troll Recorder." = "This is a widget daemon for Troll Recorder.";
+
+/* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
 
 /* No comment provided by engineer. */
@@ -1686,12 +1768,16 @@
 /* No comment provided by engineer. */
 "To: %@" = "To: %@";
 
+/* No comment provided by engineer. */
 "toggle" = "toggle";
 
+/* No comment provided by engineer. */
 "Toggle Hoverball" = "Toggle Hoverball";
 
+/* No comment provided by engineer. */
 "Toggle ON/OFF the recorder hoverball." = "Toggle ON/OFF the recorder hoverball.";
 
+/* No comment provided by engineer. */
 "Toggle Recording" = "Toggle Recording";
 
 /* No comment provided by engineer. */
@@ -1803,6 +1889,9 @@
 "Unmark" = "Unmark";
 
 /* No comment provided by engineer. */
+"Unspecified" = "Unspecified";
+
+/* No comment provided by engineer. */
 "Unsupported Configuration" = "Unsupported Configuration";
 
 /* No comment provided by engineer. */
@@ -1856,6 +1945,7 @@
 /* No comment provided by engineer. */
 "User Interface Style" = "User Interface Style";
 
+/* No comment provided by engineer. */
 "Utility" = "Utility";
 
 /* No comment provided by engineer. */

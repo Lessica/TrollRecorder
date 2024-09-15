@@ -70,8 +70,10 @@
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Accede a tus grabaciones desde un navegador WebDAV de otro dispositivo en la red. El servidor está activo sólo cuando la aplicación está en primer plano.";
 
+/* No comment provided by engineer. */
 "activate" = "activar";
 
+/* No comment provided by engineer. */
 "Activate the recorder hoverball." = "Activar el HUD de la grabadora.";
 
 /* No comment provided by engineer. */
@@ -128,6 +130,9 @@
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "Mantener siempre visible la ventana HUD global.";
 
+/* Translated with Microsoft Translator */
+"Always Keep-Alive in Background" = "Siempre Keep-Alive en segundo plano";
+
 /* No comment provided by engineer. */
 "Always Light" = "Siempre claro";
 
@@ -162,6 +167,9 @@
 "Applications" = "Aplicaciones";
 
 /* Translated with Microsoft Translator */
+"Are you sure you want to remove all shortcut definitions?" = "¿Estás seguro de que quieres eliminar todas las definiciones de acceso directo?";
+
+/* Translated with Microsoft Translator */
 "Associate with Call History" = "Asociar con el historial de llamadas";
 
 /* No comment provided by engineer. */
@@ -191,8 +199,8 @@
 /* Translated with Microsoft Translator */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Crea automáticamente clones de grabaciones primarias mezcladas y combinadas cada mes y almacénalos en iCloud Drive. Las grabaciones del mes actual no se archivarán.";
 
-/* No comment provided by engineer. */
-"Automatically enable background services when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Habilita automáticamente los servicios en segundo plano cuando el dispositivo se reinicia y se desbloquea. Para activar esta función, es necesario añadir el widget “TrollRecorder“ en cualquier lugar de la pantalla de inicio.";
+/* TODO */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Habilita automáticamente los servicios en segundo plano cuando el dispositivo se reinicia y se desbloquea. Para activar esta función, es necesario añadir el widget “TrollRecorder“ en cualquier lugar de la pantalla de inicio.";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Fusionar automáticamente el micrófono y el altavoz en un único archivo una vez finalizada la grabación.";
@@ -214,6 +222,9 @@
 
 /* Translated with Microsoft Translator */
 "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Deslizar automáticamente hacia arriba hasta el escritorio al desbloquear. Si se desbloquea en los 10 segundos siguientes al bloqueo, esta acción no tendrá efecto.";
+
+/* No comment provided by engineer. */
+"Automation" = "Automatización";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "Disponible de por vida";
@@ -279,6 +290,12 @@
 "Call Recording" = "Grabación de llamadas";
 
 /* No comment provided by engineer. */
+"Call Recording Begins" = "Comienza la grabación de llamadas";
+
+/* No comment provided by engineer. */
+"Call Recording Ends" = "Finaliza la grabación de llamadas";
+
+/* No comment provided by engineer. */
 "Call recording from “%@” and other %ld applications." = "Grabación de llamadas desde “%@“ y otras aplicaciones %ld.";
 
 /* No comment provided by engineer. */
@@ -292,6 +309,9 @@
 
 /* Translated with Microsoft Translator */
 "Cannot parse text with UTF-8 encoding: “%@”." = "No se puede analizar texto con codificación UTF-8: “%@”.";
+
+/* Translated with Microsoft Translator */
+"Caution" = "Precaución";
 
 /* Translated with Microsoft Translator */
 "Check Updates at Launch" = "Compruebe las actualizaciones en el momento del lanzamiento";
@@ -434,6 +454,7 @@
 /* Translated with Microsoft Translator */
 "Day of Week String" = "Día de la semana";
 
+/* No comment provided by engineer. */
 "deactivate" = "desactivar";
 
 /* No comment provided by engineer. */
@@ -442,6 +463,7 @@
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "Desactivar y cerrar sesión";
 
+/* No comment provided by engineer. */
 "Deactivate the recorder hoverball." = "Desactivar la grabadora HUD.";
 
 /* Translated with Microsoft Translator */
@@ -556,6 +578,9 @@
 "Dropbox" = "Dropbox";
 
 /* Translated with Microsoft Translator */
+"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Por razones técnicas, las llamadas que no sean de CallKit no activarán accesos directos relacionados con los estados de llamada.";
+
+/* Translated with Microsoft Translator */
 "Duration" = "Duración";
 
 /* No comment provided by engineer. */
@@ -621,8 +646,10 @@
 /* Translated with Microsoft Translator */
 "Error" = "Error";
 
+/* No comment provided by engineer. */
 "exit" = "salir";
 
+/* No comment provided by engineer. */
 "Exit Hoverball" = "Salir del HUD";
 
 /* Translated with Microsoft Translator */
@@ -775,6 +802,7 @@
 /* Translated with Microsoft Translator */
 "How would you like to call?" = "¿Cómo le gustaría llamar?";
 
+/* No comment provided by engineer. */
 "hud" = "hud";
 
 /* Translated with Microsoft Translator */
@@ -801,6 +829,9 @@
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Si tu teléfono admite dos tarjetas SIM, el alias de la tarjeta SIM utilizada para la llamada grabada se muestra aquí.";
 
+/* Translated with Microsoft Translator */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ignora la fecha de la última modificación en todos los directorios y archivos y haz un clon profundo de todas las grabaciones.";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "En 1 hora";
 
@@ -809,6 +840,15 @@
 
 /* No comment provided by engineer. */
 "Incoming" = "Entrante";
+
+/* No comment provided by engineer. */
+"Incoming Call" = "Llamada entrante";
+
+/* No comment provided by engineer. */
+"Incoming Call Answered" = "Llamada entrante contestada";
+
+/* No comment provided by engineer. */
+"Incoming Call Hang Up" = "Llamada entrante Colgar";
 
 /* No comment provided by engineer. */
 "Incoming call recording from “%@” and other %ld applications." = "Grabación de llamadas entrantes desde “%@“ y otras aplicaciones %ld.";
@@ -861,8 +901,8 @@
 /* No comment provided by engineer. */
 "Launch App at End" = "Lanzar la aplicación al final";
 
-/* No comment provided by engineer. */
-"Launch When First Unlocked" = "Lanzar al desbloquear por primera vez";
+/* TODO */
+"Launch Shield" = "Lanzar al desbloquear por primera vez";
 
 /* Translated with Microsoft Translator */
 "Leading & Trailing" = "Conducción y arrastre";
@@ -1020,6 +1060,9 @@
 /* No comment provided by engineer. */
 "Never" = "Nunca";
 
+/* Translated with Microsoft Translator */
+"New" = "Nuevo";
+
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Nuevo patrón de coincidencia";
 
@@ -1074,8 +1117,10 @@
 /* No comment provided by engineer. */
 "Open" = "Abrir";
 
+/* No comment provided by engineer. */
 "open" = "abrir";
 
+/* No comment provided by engineer. */
 "Open Hoverball" = "Abrir HUD";
 
 /* No comment provided by engineer. */
@@ -1084,6 +1129,7 @@
 /* Translated with Microsoft Translator */
 "Open in Maps" = "Abrir en Mapas";
 
+/* No comment provided by engineer. */
 "Open Troll Recorder" = "Abrir Troll Recorder";
 
 /* Translated with Microsoft Translator */
@@ -1105,6 +1151,15 @@
 "Outgoing" = "Saliente";
 
 /* No comment provided by engineer. */
+"Outgoing Call" = "Llamada saliente";
+
+/* No comment provided by engineer. */
+"Outgoing Call Answered" = "Llamada saliente contestada";
+
+/* No comment provided by engineer. */
+"Outgoing Call Hang Up" = "Llamada saliente Colgada";
+
+/* No comment provided by engineer. */
 "Outgoing call recording from “%@” and other %ld applications." = "Grabación de llamadas salientes desde “%@” y otras aplicaciones %ld.";
 
 /* No comment provided by engineer. */
@@ -1121,6 +1176,9 @@
 
 /* No comment provided by engineer. */
 "Paused" = "En pausa";
+
+/* Translated with Microsoft Translator */
+"Perform Full Backup" = "Realizar copia de seguridad completa";
 
 /* Translated with Microsoft Translator */
 "Period" = "Periodo";
@@ -1242,6 +1300,7 @@
 /* No comment provided by engineer. */
 "Recording" = "Grabación";
 
+/* No comment provided by engineer. */
 "recording" = "grabación";
 
 /* Translated with Microsoft Translator */
@@ -1288,6 +1347,12 @@
 
 /* No comment provided by engineer. */
 "Rename" = "Renombrar";
+
+/* Translated with Microsoft Translator */
+"Reset" = "Restablecer";
+
+/* Translated with Microsoft Translator */
+"Reset All Shortcuts" = "Restablecer todos los accesos directos";
 
 /* Translated with Microsoft Translator */
 "Reset Search Indexes" = "Restablecer índices de búsqueda";
@@ -1360,6 +1425,9 @@
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "Búsqueda de grabaciones…";
+
+/* Translated with Microsoft Translator */
+"Search Shortcuts…" = "Buscar atajos...";
 
 /* Translated with Microsoft Translator */
 "Seconds" = "Segundos";
@@ -1487,8 +1555,10 @@
 /* No comment provided by engineer. */
 "Speaker" = "Altavoz";
 
+/* No comment provided by engineer. */
 "start" = "iniciar";
 
+/* No comment provided by engineer. */
 "Start a new call recoring, or stop an existing one." = "Iniciar una nueva grabación de llamada, o detener una existente.";
 
 /* No comment provided by engineer. */
@@ -1497,13 +1567,16 @@
 /* No comment provided by engineer. */
 "Start Date" = "Fecha de inicio";
 
+/* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "Iniciar o preparar una nueva grabación de llamada manualmente.";
 
+/* No comment provided by engineer. */
 "Start Recording" = "Iniciar grabación";
 
 /* Translated with Microsoft Translator */
 "Stay tuned. We’re recording your call in the background." = "Permanezca atento. Estamos grabando su llamada en segundo plano.";
 
+/* No comment provided by engineer. */
 "stop" = "detener";
 
 /* No comment provided by engineer. */
@@ -1512,8 +1585,10 @@
 /* No comment provided by engineer. */
 "Stop & Save" = "Detener y guardar";
 
+/* No comment provided by engineer. */
 "Stop a call recording session if exists." = "Detener una sesión de grabación de llamada si existe.";
 
+/* No comment provided by engineer. */
 "Stop Recording" = "Detener grabación";
 
 /* No comment provided by engineer. */
@@ -1521,6 +1596,9 @@
 
 /* No comment provided by engineer. */
 "Stop Service" = "Detener servicio";
+
+/* Translated with Microsoft Translator */
+"Suggested" = "Sugerencia";
 
 /* Translated with Microsoft Translator */
 "Suggested Applications" = "Aplicaciones sugeridas";
@@ -1533,6 +1611,9 @@
 
 /* Translated with Microsoft Translator */
 "Sync Service Provider" = "Proveedor de servicios de sincronización";
+
+/* Translated with Microsoft Translator */
+"Synchronizing" = "Sincronización";
 
 /* No comment provided by engineer. */
 "System Applications" = "Aplicaciones del sistema";
@@ -1646,6 +1727,9 @@
 "This is a sandbox build, the daemon is not available." = "Esta es una construcción sandbox, el demonio no está disponible.";
 
 /* Translated with Microsoft Translator */
+"This is a widget daemon for Troll Recorder." = "Se trata de un demonio widget para Troll Recorder.";
+
+/* Translated with Microsoft Translator */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Esta grabación es de WeChat, y el “Asistente WeChat” te ayuda a rellenar los nombres de los contactos de WeChat y los comentarios la próxima vez.\nPuedes comprar “TrollRecorder Pro” para activar el “Asistente WeChat”, ¿quieres comprarlo ahora?";
 
 /* Translated with Microsoft Translator */
@@ -1684,12 +1768,16 @@
 /* No comment provided by engineer. */
 "To: %@" = "Hasta: %@";
 
+/* No comment provided by engineer. */
 "toggle" = "alternar";
 
+/* No comment provided by engineer. */
 "Toggle Hoverball" = "Activar/desactivar HUD";
 
+/* No comment provided by engineer. */
 "Toggle ON/OFF the recorder hoverball." = "Alternar el HUD del grabador ENCENDIDO/APAGADO.";
 
+/* No comment provided by engineer. */
 "Toggle Recording" = "Activar/desactivar grabación";
 
 /* Translated with Microsoft Translator */
@@ -1800,6 +1888,9 @@
 /* No comment provided by engineer. */
 "Unmark" = "Desmarcar";
 
+/* Translated with Microsoft Translator */
+"Unspecified" = "Sin especificar";
+
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "Configuración no admitida";
 
@@ -1854,6 +1945,7 @@
 /* No comment provided by engineer. */
 "User Interface Style" = "Estilo de interfaz de usuario";
 
+/* No comment provided by engineer. */
 "Utility" = "Utilidad";
 
 /* Translated with Microsoft Translator */
