@@ -200,7 +200,7 @@
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "每月自动为混合和组合模式的录音创建克隆，并将其存储在 iCloud 云盘中。当前月份的录音不会被归档。";
 
 /* No comment provided by engineer. */
-"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "当设备重新启动并解锁时，自动启动后台服务并尽可能保持其存活。需要将 “巨魔录音机” 小组件添加到主屏幕任意位置才能使此选项生效。";
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "当设备重新启动并解锁时，自动启动后台服务并尽可能保持其存活。需要将 “巨魔录音机” 小组件添加到锁屏或主屏幕任意位置才能使此选项生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "录音完成后，自动将麦克风和扬声器合并成一个文件。";

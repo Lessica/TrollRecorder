@@ -200,7 +200,7 @@
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Crea automáticamente clones de grabaciones primarias mezcladas y combinadas cada mes y almacénalos en iCloud Drive. Las grabaciones del mes actual no se archivarán.";
 
 /* TODO */
-"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the home screen." = "Habilita automáticamente los servicios en segundo plano cuando el dispositivo se reinicia y se desbloquea. Para activar esta función, es necesario añadir el widget “TrollRecorder“ en cualquier lugar de la pantalla de inicio.";
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Habilita automáticamente los servicios en segundo plano cuando el dispositivo se reinicia y se desbloquea. Para activar esta función, es necesario añadir el widget “TrollRecorder“ en cualquier lugar de la pantalla de inicio.";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Fusionar automáticamente el micrófono y el altavoz en un único archivo una vez finalizada la grabación.";
