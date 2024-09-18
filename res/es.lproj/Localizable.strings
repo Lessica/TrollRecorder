@@ -67,6 +67,15 @@
 /* Translated with Microsoft Translator */
 "A new version (%@) of “TrollRecorder” is available." = "Hay disponible una nueva versión de la aplicación (%@).";
 
+/* Translated with Microsoft Translator */
+"accept" = "acepte";
+
+/* Translated with Microsoft Translator */
+"Accept all incoming calls automatically." = "Acepta todas las llamadas entrantes automáticamente.";
+
+/* Translated with Microsoft Translator */
+"Accept Incoming Calls" = "Aceptar llamadas entrantes";
+
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Accede a tus grabaciones desde un navegador WebDAV de otro dispositivo en la red. El servidor está activo sólo cuando la aplicación está en primer plano.";
 
@@ -93,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "Agree" = "Aceptar";
+
+/* Translated with Microsoft Translator */
+"Alias" = "Alias";
 
 /* Translated with Microsoft Translator */
 "All Edges" = "Todos los bordes";
@@ -147,6 +159,9 @@
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "Analizando audio";
+
+/* Translated with Microsoft Translator */
+"answer" = "responder";
 
 /* Translated with Microsoft Translator */
 "App Icon" = "Icono de la aplicación";
@@ -286,6 +301,18 @@
 /* No comment provided by engineer. */
 "Calculating…" = "Calculando…";
 
+/* Translated with Microsoft Translator */
+"Call" = "Llame a";
+
+/* Translated with Microsoft Translator */
+"call" = "llame a";
+
+/* Translated with Microsoft Translator */
+"Call Direction" = "Dirección de la llamada";
+
+/* Translated with Microsoft Translator */
+"Call Identifier" = "Identificador de llamada";
+
 /* No comment provided by engineer. */
 "Call Recording" = "Grabación de llamadas";
 
@@ -303,6 +330,9 @@
 
 /* No comment provided by engineer. */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "La grabación de llamadas se inicia sólo cuando se contesta una llamada saliente o se descuelga una llamada entrante.";
+
+/* Translated with Microsoft Translator */
+"Call State" = "Estado de la llamada";
 
 /* No comment provided by engineer. */
 "Cancel" = "Cancelar";
@@ -367,8 +397,14 @@
 /* Translated with Microsoft Translator */
 "Constants" = "Constantes";
 
+/* Translated with Microsoft Translator */
+"Contact Phone Address" = "Dirección de contacto";
+
 /* No comment provided by engineer. */
 "Contact Exceptions" = "Excepciones de contacto";
+
+/* Translated with Microsoft Translator */
+"Contact Name" = "Nombre de contacto";
 
 /* No comment provided by engineer. */
 "Contact Us" = "Contactar";
@@ -469,6 +505,9 @@
 /* Translated with Microsoft Translator */
 "Debugging" = "Depuración";
 
+/* Translated with Microsoft Translator */
+"decline" = "descenso";
+
 /* No comment provided by engineer. */
 "Delete" = "Borrar";
 
@@ -498,6 +537,12 @@
 
 /* Translated with Microsoft Translator */
 "Direction Description" = "Dirección Descripción";
+
+/* Translated with Microsoft Translator */
+"directory" = "directorio";
+
+/* Translated with Microsoft Translator */
+"Directory" = "Directorio";
 
 /* Translated with Microsoft Translator */
 "Disabled" = "Discapacitados";
@@ -582,6 +627,9 @@
 
 /* Translated with Microsoft Translator */
 "Duration" = "Duración";
+
+/* Translated with Microsoft Translator */
+"duration" = "duración";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Duración antes de inactividad";
@@ -704,6 +752,9 @@
 "Features Unlocked" = "Funciones desbloqueadas";
 
 /* Translated with Microsoft Translator */
+"file" = "archivo";
+
+/* Translated with Microsoft Translator */
 "File Format" = "Formato de archivo";
 
 /* No comment provided by engineer. */
@@ -760,11 +811,41 @@
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Consigue un control avanzado al grabar directamente en tu llamada.";
 
+/* Translated with Microsoft Translator */
+"Get Call Duration" = "Obtener duración de la llamada";
+
+/* Translated with Microsoft Translator */
+"Get Call Status" = "Obtener el estado de la llamada";
+
 /* No comment provided by engineer. */
 "Get In Touch" = "Póngase en contacto";
 
 /* No comment provided by engineer. */
 "Get notifications after record complete." = "Recibir notificaciones una vez finalizado el registro.";
+
+/* Translated with Microsoft Translator */
+"Get Recording Duration" = "Obtener duración de grabación";
+
+/* Translated with Microsoft Translator */
+"Get Recording Paths" = "Obtener rutas de grabación";
+
+/* Translated with Microsoft Translator */
+"Get Recording Status" = "Obtener estado de grabación";
+
+/* Translated with Microsoft Translator */
+"Get the current recording duration of the Troll Recorder." = "Obtener la duración de grabación actual del grabador de Troll.";
+
+/* Translated with Microsoft Translator */
+"Get the current recording paths of the Troll Recorder." = "Obtener las rutas de grabación actuales del grabador Troll.";
+
+/* Translated with Microsoft Translator */
+"Get the current recording status of the Troll Recorder." = "Obtener el estado actual de grabación del grabador de Troll.";
+
+/* Translated with Microsoft Translator */
+"Get the primary call duration of the device." = "Obtener la duración de la llamada primaria del dispositivo.";
+
+/* Translated with Microsoft Translator */
+"Get the primary call status of the device." = "Obtener el estado de la llamada primaria del dispositivo.";
 
 /* No comment provided by engineer. */
 "Go Home When Unlocked" = "Volver al desbloquear";
@@ -841,6 +922,9 @@
 /* No comment provided by engineer. */
 "Incoming" = "Entrante";
 
+/* Translated with Microsoft Translator */
+"incoming" = "entrante";
+
 /* No comment provided by engineer. */
 "Incoming Call" = "Llamada entrante";
 
@@ -878,7 +962,22 @@
 "Is Favourite" = "Es favorito";
 
 /* Translated with Microsoft Translator */
+"Is Finalized" = "Está finalizado";
+
+/* Translated with Microsoft Translator */
+"Is Finalizing" = "Está finalizando";
+
+/* Translated with Microsoft Translator */
+"Is Paused" = "Está en pausa";
+
+/* Translated with Microsoft Translator */
+"Is Running" = "Está en marcha";
+
+/* Translated with Microsoft Translator */
 "Item #%lu" = "Artículo #%lu";
+
+/* Translated with Microsoft Translator */
+"Item not found." = "Artículo no encontrado.";
 
 /* Translated with Microsoft Translator */
 "Just in case that you love it." = "Por si acaso te encanta.";
@@ -1169,6 +1268,9 @@
 "Page not found" = "Página no encontrada";
 
 /* Translated with Microsoft Translator */
+"path" = "ruta";
+
+/* Translated with Microsoft Translator */
 "Pause" = "Pausa";
 
 /* Translated with Microsoft Translator */
@@ -1185,6 +1287,9 @@
 
 /* Translated with Microsoft Translator */
 "Phone" = "Teléfono";
+
+/* Translated with Microsoft Translator */
+"phone" = "teléfono";
 
 /* No comment provided by engineer. */
 "Phone Address" = "Dirección de teléfono";
@@ -1282,6 +1387,9 @@
 /* Translated with Microsoft Translator */
 "Ready to record!" = "¡Listo para grabar!";
 
+/* Translated with Microsoft Translator */
+"Record" = "Registro";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Graba automáticamente todas las llamadas entrantes y salientes.";
 
@@ -1332,6 +1440,15 @@
 
 /* Translated with Microsoft Translator */
 "Regular" = "Regular";
+
+/* Translated with Microsoft Translator */
+"reject" = "rechace";
+
+/* Translated with Microsoft Translator */
+"Reject all incoming calls automatically." = "Rechaza automáticamente todas las llamadas entrantes.";
+
+/* Translated with Microsoft Translator */
+"Reject Incoming Calls" = "Rechazar llamadas entrantes";
 
 /* Translated with Microsoft Translator */
 "Relaunched" = "Relanzado";
@@ -1574,6 +1691,12 @@
 "Start Recording" = "Iniciar grabación";
 
 /* Translated with Microsoft Translator */
+"status" = "estado";
+
+/* Translated with Microsoft Translator */
+"Status is not available." = "El estado no está disponible.";
+
+/* Translated with Microsoft Translator */
 "Stay tuned. We’re recording your call in the background." = "Permanezca atento. Estamos grabando su llamada en segundo plano.";
 
 /* No comment provided by engineer. */
@@ -1602,6 +1725,9 @@
 
 /* Translated with Microsoft Translator */
 "Suggested Applications" = "Aplicaciones sugeridas";
+
+/* Translated with Microsoft Translator */
+"Summary is not available." = "El resumen no está disponible.";
 
 /* Translated with Microsoft Translator */
 "Sync" = "Sincroniza";
@@ -1655,7 +1781,13 @@
 "The application will launch automatically when recording ends." = "La aplicación se iniciará automáticamente cuando finalice la grabación.";
 
 /* Translated with Microsoft Translator */
+"The bundle identifier of the application that initiated the call." = "El identificador del paquete de la aplicación que inició la llamada.";
+
+/* Translated with Microsoft Translator */
 "The content of text file “%@” is empty." = "El contenido del archivo de texto “%@” está vacío.";
+
+/* Translated with Microsoft Translator */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Estado actual de la llamada. Los valores posibles son: Marcando, Conectado, Desconectado y Desconocido.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "La fecha y hora en que se creó el audio.";
@@ -1672,6 +1804,15 @@
 /* No comment provided by engineer. */
 "The direction of the call. May not available for all audio files." = "La dirección de la llamada. Puede no estar disponible para todos los archivos de audio.";
 
+/* Translated with Microsoft Translator */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "La dirección de la llamada. Los valores posibles son: Entrante, Saliente y Desconocido.";
+
+/* Translated with Microsoft Translator */
+"The display name of the application that initiated the call." = "El nombre para mostrar de la aplicación que inició la llamada.";
+
+/* Translated with Microsoft Translator */
+"The field of information to get." = "El campo de información a obtener.";
+
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "El formato del archivo de audio actual.";
 
@@ -1684,8 +1825,20 @@
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "Los metadatos de ubicación faltantes se rellenarán si abres la aplicación justo después de la grabación.";
 
+/* Translated with Microsoft Translator */
+"The name of the contact." = "El nombre del contacto.";
+
+/* Translated with Microsoft Translator */
+"The name of the sender." = "El nombre del remitente.";
+
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "El número de muestras por segundo, una mayor frecuencia de muestreo significa una mejor calidad de audio con un mayor tamaño de archivo.";
+
+/* Translated with Microsoft Translator */
+"The phone number of the contact." = "El número de teléfono del contacto.";
+
+/* Translated with Microsoft Translator */
+"The phone number of the sender." = "El número de teléfono del remitente.";
 
 /* No comment provided by engineer. */
 "The phone number. Third party application or CallKit calls may not have this value." = "Dirección telefónica. Es posible que la aplicación o CallKit no tengan este valor.";
@@ -1693,11 +1846,20 @@
 /* No comment provided by engineer. */
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "El modo de postprocesado a utilizar. El modo Combinar aplastará el audio de los altavoces estéreo en el canal izquierdo, con el micrófono en el canal derecho. El modo Mezclado duplicará el canal del micrófono en estéreo y lo mezclará con los canales de los altavoces.";
 
+/* Translated with Microsoft Translator */
+"The service operator name of the sender." = "El nombre del operador de servicios del remitente.";
+
 /* No comment provided by engineer. */
 "The size of selected audio file." = "El tamaño del archivo de audio seleccionado.";
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "El intervalo de tiempo antes de que el HUD global se vuelva inactivo.";
+
+/* Translated with Microsoft Translator */
+"The Troll Recorder daemon is not alive." = "El demonio Troll Recorder no está vivo.";
+
+/* Translated with Microsoft Translator */
+"The unique identifier of the call." = "El identificador único de la llamada.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "El identificador único de la aplicación proveedora.";

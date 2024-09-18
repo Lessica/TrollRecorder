@@ -67,6 +67,15 @@
 /* TODO */
 "A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
 
+/* TODO */
+"accept" = "accept";
+
+/* TODO */
+"Accept all incoming calls automatically." = "Accept all incoming calls automatically.";
+
+/* TODO */
+"Accept Incoming Calls" = "Accept Incoming Calls";
+
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Truy cập các bản ghi âm của bạn từ trình duyệt WebDAV từ một thiết bị khác trong mạng. Máy chủ chỉ hoạt động khi ứng dụng ở phía trước.";
 
@@ -93,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "Agree" = "Đồng ý";
+
+/* TODO */
+"Alias" = "Alias";
 
 /* TODO */
 "All Edges" = "All Edges";
@@ -147,6 +159,9 @@
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "Phân tích âm thanh";
+
+/* TODO */
+"answer" = "answer";
 
 /* TODO */
 "App Icon" = "App Icon";
@@ -286,6 +301,18 @@
 /* No comment provided by engineer. */
 "Calculating…" = "Đang tính toán…";
 
+/* TODO */
+"Call" = "Call";
+
+/* TODO */
+"call" = "call";
+
+/* TODO */
+"Call Direction" = "Call Direction";
+
+/* TODO */
+"Call Identifier" = "Call Identifier";
+
 /* No comment provided by engineer. */
 "Call Recording" = "Ghi âm cuộc gọi";
 
@@ -303,6 +330,9 @@
 
 /* No comment provided by engineer. */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Ghi âm cuộc gọi chỉ bắt đầu khi một cuộc gọi đi được trả lời hoặc một cuộc gọi đến được nhận.";
+
+/* TODO */
+"Call State" = "Call State";
 
 /* No comment provided by engineer. */
 "Cancel" = "Huỷ";
@@ -367,8 +397,14 @@
 /* TODO */
 "Constants" = "Constants";
 
+/* TODO */
+"Contact Phone Address" = "Contact Phone Address";
+
 /* No comment provided by engineer. */
 "Contact Exceptions" = "Ngoại lệ liên hệ";
+
+/* TODO */
+"Contact Name" = "Contact Name";
 
 /* No comment provided by engineer. */
 "Contact Us" = "Liên hệ với chúng tôi";
@@ -469,6 +505,9 @@
 /* TODO */
 "Debugging" = "Debugging";
 
+/* TODO */
+"decline" = "decline";
+
 /* No comment provided by engineer. */
 "Delete" = "Xoá";
 
@@ -498,6 +537,12 @@
 
 /* TODO */
 "Direction Description" = "Direction Description";
+
+/* TODO */
+"directory" = "directory";
+
+/* TODO */
+"Directory" = "Directory";
 
 /* TODO */
 "Disabled" = "Disabled";
@@ -582,6 +627,9 @@
 
 /* TODO */
 "Duration" = "Duration";
+
+/* TODO */
+"duration" = "duration";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Thời lượng trước khi nhàn rỗi";
@@ -704,6 +752,9 @@
 "Features Unlocked" = "Các tính năng đã được mở khóa";
 
 /* TODO */
+"file" = "file";
+
+/* TODO */
 "File Format" = "File Format";
 
 /* No comment provided by engineer. */
@@ -760,11 +811,41 @@
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Nhận điều khiển nâng cao khi ghi âm ngay trong cuộc gọi của bạn.";
 
+/* TODO */
+"Get Call Duration" = "Get Call Duration";
+
+/* TODO */
+"Get Call Status" = "Get Call Status";
+
 /* No comment provided by engineer. */
 "Get In Touch" = "Liên lạc";
 
 /* No comment provided by engineer. */
 "Get notifications after record complete." = "Nhận thông báo sau khi hoàn thành bản ghi.";
+
+/* TODO */
+"Get Recording Duration" = "Get Recording Duration";
+
+/* TODO */
+"Get Recording Paths" = "Get Recording Paths";
+
+/* TODO */
+"Get Recording Status" = "Get Recording Status";
+
+/* TODO */
+"Get the current recording duration of the Troll Recorder." = "Get the current recording duration of the Troll Recorder.";
+
+/* TODO */
+"Get the current recording paths of the Troll Recorder." = "Get the current recording paths of the Troll Recorder.";
+
+/* TODO */
+"Get the current recording status of the Troll Recorder." = "Get the current recording status of the Troll Recorder.";
+
+/* TODO */
+"Get the primary call duration of the device." = "Get the primary call duration of the device.";
+
+/* TODO */
+"Get the primary call status of the device." = "Get the primary call status of the device.";
 
 /* TODO */
 "Go Home When Unlocked" = "Go Home When Unlocked";
@@ -842,6 +923,9 @@
 "Incoming" = "Đến";
 
 /* TODO */
+"incoming" = "incoming";
+
+/* TODO */
 "Incoming Call" = "Incoming Call";
 
 /* TODO */
@@ -878,7 +962,22 @@
 "Is Favourite" = "Được yêu thích";
 
 /* TODO */
+"Is Finalized" = "Is Finalized";
+
+/* TODO */
+"Is Finalizing" = "Is Finalizing";
+
+/* TODO */
+"Is Paused" = "Is Paused";
+
+/* TODO */
+"Is Running" = "Is Running";
+
+/* TODO */
 "Item #%lu" = "Item #%lu";
+
+/* TODO */
+"Item not found." = "Item not found.";
 
 /* TODO */
 "Just in case that you love it." = "Just in case that you love it.";
@@ -1169,6 +1268,9 @@
 "Page not found" = "Page not found";
 
 /* TODO */
+"path" = "path";
+
+/* TODO */
 "Pause" = "Pause";
 
 /* TODO */
@@ -1185,6 +1287,9 @@
 
 /* TODO */
 "Phone" = "Phone";
+
+/* TODO */
+"phone" = "phone";
 
 /* No comment provided by engineer. */
 "Phone Address" = "Địa chỉ điện thoại";
@@ -1282,6 +1387,9 @@
 /* TODO */
 "Ready to record!" = "Ready to record!";
 
+/* TODO */
+"Record" = "Record";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Tự động ghi lại tất cả các cuộc gọi đến và đi.";
 
@@ -1332,6 +1440,15 @@
 
 /* No comment provided by engineer. */
 "Regular" = "Thường xuyên";
+
+/* TODO */
+"reject" = "reject";
+
+/* TODO */
+"Reject all incoming calls automatically." = "Reject all incoming calls automatically.";
+
+/* TODO */
+"Reject Incoming Calls" = "Reject Incoming Calls";
 
 /* TODO */
 "Relaunched" = "Relaunched";
@@ -1574,6 +1691,12 @@
 "Start Recording" = "Bắt đầu ghi âm";
 
 /* TODO */
+"status" = "status";
+
+/* TODO */
+"Status is not available." = "Status is not available.";
+
+/* TODO */
 "Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
 /* No comment provided by engineer. */
@@ -1602,6 +1725,9 @@
 
 /* TODO */
 "Suggested Applications" = "Suggested Applications";
+
+/* TODO */
+"Summary is not available." = "Summary is not available.";
 
 /* TODO */
 "Sync" = "Sync";
@@ -1655,7 +1781,13 @@
 "The application will launch automatically when recording ends." = "Ứng dụng sẽ tự động khởi chạy khi ghi âm kết thúc.";
 
 /* TODO */
+"The bundle identifier of the application that initiated the call." = "The bundle identifier of the application that initiated the call.";
+
+/* TODO */
 "The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
+
+/* TODO */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "Ngày và giờ khi âm thanh được tạo ra.";
@@ -1672,6 +1804,15 @@
 /* No comment provided by engineer. */
 "The direction of the call. May not available for all audio files." = "Hướng của cuộc gọi. Có thể không có sẵn cho tất cả các tệp âm thanh.";
 
+/* TODO */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "The direction of the call. Possible values are: Incoming, Outgoing, and Unknown.";
+
+/* TODO */
+"The display name of the application that initiated the call." = "The display name of the application that initiated the call.";
+
+/* TODO */
+"The field of information to get." = "The field of information to get.";
+
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "Định dạng tệp của tệp âm thanh đã chọn.";
 
@@ -1684,8 +1825,20 @@
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "Siêu dữ liệu vị trí bị thiếu sẽ được điền nếu bạn mở ứng dụng ngay sau khi ghi.";
 
+/* TODO */
+"The name of the contact." = "The name of the contact.";
+
+/* TODO */
+"The name of the sender." = "The name of the sender.";
+
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Số lượng mẫu mỗi giây, tốc độ mẫu cao hơn có nghĩa là chất lượng âm thanh tốt hơn với kích thước tệp lớn hơn.";
+
+/* TODO */
+"The phone number of the contact." = "The phone number of the contact.";
+
+/* TODO */
+"The phone number of the sender." = "The phone number of the sender.";
 
 /* No comment provided by engineer. */
 "The phone number. Third party application or CallKit calls may not have this value." = "Số điện thoại. Ứng dụng của bên thứ ba hoặc các cuộc gọi CallKit có thể không có giá trị này.";
@@ -1693,11 +1846,20 @@
 /* No comment provided by engineer. */
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Chế độ xử lý bài đăng sẽ được sử dụng. Chế độ kết hợp sẽ nhét âm thanh loa âm thanh nổi vào kênh bên trái, với micrô ở kênh bên phải. Chế độ hỗn hợp sẽ sao chép kênh micrô sang âm thanh nổi và trộn nó với các kênh loa.";
 
+/* TODO */
+"The service operator name of the sender." = "The service operator name of the sender.";
+
 /* No comment provided by engineer. */
 "The size of selected audio file." = "Kích thước của tệp âm thanh đã chọn.";
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "Khoảng thời gian trước khi bong bóng mọi nơi trở nên nhàn rỗi.";
+
+/* TODO */
+"The Troll Recorder daemon is not alive." = "The Troll Recorder daemon is not alive.";
+
+/* TODO */
+"The unique identifier of the call." = "The unique identifier of the call.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "Mã định danh duy nhất của ứng dụng nhà cung cấp.";

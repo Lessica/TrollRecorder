@@ -68,6 +68,15 @@
 "A new version (%@) of “TrollRecorder” is available." = "巨魔录音机有新版本 %@ 可用。";
 
 /* No comment provided by engineer. */
+"accept" = "接听";
+
+/* No comment provided by engineer. */
+"Accept all incoming calls automatically." = "自动接听所有来电。";
+
+/* No comment provided by engineer. */
+"Accept Incoming Calls" = "接听来电";
+
+/* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "从网络中的另一台设备的 WebDAV 浏览器中访问你的录音。仅当应用程序处于前台时服务可用。";
 
 /* No comment provided by engineer. */
@@ -93,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "Agree" = "同意";
+
+/* No comment provided by engineer. */
+"Alias" = "别名";
 
 /* No comment provided by engineer. */
 "All Edges" = "所有边缘";
@@ -147,6 +159,9 @@
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音频";
+
+/* No comment provided by engineer. */
+"answer" = "应答";
 
 /* No comment provided by engineer. */
 "App Icon" = "应用程序图标";
@@ -287,6 +302,18 @@
 "Calculating…" = "计算中…";
 
 /* No comment provided by engineer. */
+"Call" = "通话";
+
+/* No comment provided by engineer. */
+"call" = "通话";
+
+/* No comment provided by engineer. */
+"Call Direction" = "通话方向";
+
+/* No comment provided by engineer. */
+"Call Identifier" = "通话标识符";
+
+/* No comment provided by engineer. */
 "Call Recording" = "通话录音";
 
 /* No comment provided by engineer. */
@@ -303,6 +330,9 @@
 
 /* No comment provided by engineer. */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "打开此开关，使去电被对方接听时才自动开始录音。来电总是在被接听时才自动开始录音。";
+
+/* No comment provided by engineer. */
+"Call State" = "调用状态";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
@@ -368,7 +398,13 @@
 "Constants" = "常量";
 
 /* No comment provided by engineer. */
+"Contact Phone Address" = "联系人电话号码";
+
+/* No comment provided by engineer. */
 "Contact Exceptions" = "联系人例外";
+
+/* No comment provided by engineer. */
+"Contact Name" = "联系人名称";
 
 /* No comment provided by engineer. */
 "Contact Us" = "联系我们";
@@ -470,6 +506,9 @@
 "Debugging" = "调试";
 
 /* No comment provided by engineer. */
+"decline" = "拒接";
+
+/* No comment provided by engineer. */
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
@@ -498,6 +537,12 @@
 
 /* No comment provided by engineer. */
 "Direction Description" = "通话方向（描述）";
+
+/* No comment provided by engineer. */
+"directory" = "目录";
+
+/* No comment provided by engineer. */
+"Directory" = "目录";
 
 /* No comment provided by engineer. */
 "Disabled" = "关闭";
@@ -582,6 +627,9 @@
 
 /* No comment provided by engineer. */
 "Duration" = "持续时间";
+
+/* No comment provided by engineer. */
+"duration" = "持续时间";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "闲置时长";
@@ -704,6 +752,9 @@
 "Features Unlocked" = "功能已解锁";
 
 /* No comment provided by engineer. */
+"file" = "文件";
+
+/* No comment provided by engineer. */
 "File Format" = "文件格式";
 
 /* No comment provided by engineer. */
@@ -761,10 +812,40 @@
 "Get advanced control when recording right in your call." = "在通话中打开控制面板即可控制录制参数。";
 
 /* No comment provided by engineer. */
+"Get Call Duration" = "获取通话时长";
+
+/* No comment provided by engineer. */
+"Get Call Status" = "获取通话状态";
+
+/* No comment provided by engineer. */
 "Get In Touch" = "保持联系";
 
 /* No comment provided by engineer. */
 "Get notifications after record complete." = "录音完成后可推送通知提醒。";
+
+/* No comment provided by engineer. */
+"Get Recording Duration" = "获取录音持续时间";
+
+/* No comment provided by engineer. */
+"Get Recording Paths" = "获取录音路径";
+
+/* No comment provided by engineer. */
+"Get Recording Status" = "获取录音状态";
+
+/* No comment provided by engineer. */
+"Get the current recording duration of the Troll Recorder." = "获取巨魔录音机当前的录音时长。";
+
+/* No comment provided by engineer. */
+"Get the current recording paths of the Troll Recorder." = "获取巨魔录音机当前的录音路径。";
+
+/* No comment provided by engineer. */
+"Get the current recording status of the Troll Recorder." = "获取巨魔录音机当前的录音状态。";
+
+/* No comment provided by engineer. */
+"Get the primary call duration of the device." = "获取主要通话的时长。";
+
+/* No comment provided by engineer. */
+"Get the primary call status of the device." = "获取主要通话的状态。";
 
 /* No comment provided by engineer. */
 "Go Home When Unlocked" = "解锁后回到桌面";
@@ -842,6 +923,9 @@
 "Incoming" = "来电";
 
 /* No comment provided by engineer. */
+"incoming" = "呼入";
+
+/* No comment provided by engineer. */
 "Incoming Call" = "来电时";
 
 /* No comment provided by engineer. */
@@ -878,7 +962,22 @@
 "Is Favourite" = "是否收藏";
 
 /* No comment provided by engineer. */
+"Is Finalized" = "是否处理完成";
+
+/* No comment provided by engineer. */
+"Is Finalizing" = "是否正在处理";
+
+/* No comment provided by engineer. */
+"Is Paused" = "是否已经暂停";
+
+/* No comment provided by engineer. */
+"Is Running" = "是否正在录制";
+
+/* No comment provided by engineer. */
 "Item #%lu" = "项 #%lu";
+
+/* No comment provided by engineer. */
+"Item not found." = "未找到项目。";
 
 /* No comment provided by engineer. */
 "Just in case that you love it." = "但愿你喜欢。";
@@ -1169,6 +1268,9 @@
 "Page not found" = "未找到页面";
 
 /* No comment provided by engineer. */
+"path" = "路径";
+
+/* No comment provided by engineer. */
 "Pause" = "暂停";
 
 /* No comment provided by engineer. */
@@ -1185,6 +1287,9 @@
 
 /* No comment provided by engineer. */
 "Phone" = "电话";
+
+/* No comment provided by engineer. */
+"phone" = "电话";
 
 /* No comment provided by engineer. */
 "Phone Address" = "电话号码";
@@ -1283,6 +1388,9 @@
 "Ready to record!" = "准备录音！";
 
 /* No comment provided by engineer. */
+"Record" = "录制";
+
+/* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "自动录制所有来电和去电。";
 
 /* No comment provided by engineer. */
@@ -1332,6 +1440,15 @@
 
 /* No comment provided by engineer. */
 "Regular" = "普通";
+
+/* No comment provided by engineer. */
+"reject" = "拒绝";
+
+/* No comment provided by engineer. */
+"Reject all incoming calls automatically." = "自动拒接所有来电。";
+
+/* No comment provided by engineer. */
+"Reject Incoming Calls" = "拒接来电";
 
 /* No comment provided by engineer. */
 "Relaunched" = "妙手已回春";
@@ -1574,6 +1691,12 @@
 "Start Recording" = "开始录音";
 
 /* No comment provided by engineer. */
+"status" = "状态";
+
+/* No comment provided by engineer. */
+"Status is not available." = "状态不可用";
+
+/* No comment provided by engineer. */
 "Stay tuned. We’re recording your call in the background." = "巨魔录音机正在后台录制此次通话。";
 
 /* No comment provided by engineer. */
@@ -1602,6 +1725,9 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "建议应用";
+
+/* No comment provided by engineer. */
+"Summary is not available." = "概览不可用";
 
 /* No comment provided by engineer. */
 "Sync" = "同步";
@@ -1655,7 +1781,13 @@
 "The application will launch automatically when recording ends." = "录音结束时应用将自动启动。";
 
 /* No comment provided by engineer. */
+"The bundle identifier of the application that initiated the call." = "发起通话的 App 标识符。";
+
+/* No comment provided by engineer. */
 "The content of text file “%@” is empty." = "文本文件 “%@” 的内容为空。";
+
+/* No comment provided by engineer. */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "通话的当前状态。可能的值有：Dialing/Connected/Disconnected/Unknown";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "音频创建的日期和时间。";
@@ -1673,6 +1805,15 @@
 "The direction of the call. May not available for all audio files." = "通话的方向。可能并非所有音频文件都可用。";
 
 /* No comment provided by engineer. */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "通话的方向。可能的值有：Incoming/Outgoing/Unknown";
+
+/* No comment provided by engineer. */
+"The display name of the application that initiated the call." = "发起通话的 App 显示名称。";
+
+/* No comment provided by engineer. */
+"The field of information to get." = "需要获取的信息字段。";
+
+/* No comment provided by engineer. */
 "The file format of the selected audio file." = "当前音频文件的文件格式。";
 
 /* No comment provided by engineer. */
@@ -1685,7 +1826,19 @@
 "The missing location metadata will be populated if you open the application right after the recording." = "如果你在录音结束后的一段时间内打开应用程序，缺失的位置元数据将被填充。";
 
 /* No comment provided by engineer. */
+"The name of the contact." = "联系人的名称。";
+
+/* No comment provided by engineer. */
+"The name of the sender." = "号卡的名称。";
+
+/* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "每秒的样本数，更高的采样率意味着更好的音频质量和更大的文件大小。";
+
+/* No comment provided by engineer. */
+"The phone number of the contact." = "联系人的电话号码。";
+
+/* No comment provided by engineer. */
+"The phone number of the sender." = "号卡的电话号码。";
 
 /* No comment provided by engineer. */
 "The phone number. Third party application or CallKit calls may not have this value." = "电话号码。第三方应用或 CallKit 可能没有此值。";
@@ -1694,10 +1847,19 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用于通道合并的方式。组合模式会将立体声扬声器音频压缩到左声道，麦克风在右声道。关闭后为混合模式，会将麦克风通道复制到立体声并与扬声器通道混合输出。";
 
 /* No comment provided by engineer. */
+"The service operator name of the sender." = "运营商的名称。";
+
+/* No comment provided by engineer. */
 "The size of selected audio file." = "选定音频文件的大小。";
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "悬浮球变为闲置状态之前的时间。";
+
+/* No comment provided by engineer. */
+"The Troll Recorder daemon is not alive." = "巨魔录音机守护服务未能运行。";
+
+/* No comment provided by engineer. */
+"The unique identifier of the call." = "通话的唯一标识符。";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "提供方应用程序的唯一标识符。";
