@@ -182,6 +182,9 @@
 "Applications" = "Các ứng dụng";
 
 /* TODO */
+"archive" = "archive";
+
+/* TODO */
 "Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
 
 /* TODO */
@@ -192,6 +195,9 @@
 
 /* TODO */
 "Attachable Edges" = "Attachable Edges";
+
+/* TODO */
+"audio" = "audio";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Nén âm thanh";
@@ -252,6 +258,12 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "Phong cách nền";
+
+/* TODO */
+"backup" = "backup";
+
+/* TODO */
+"Backup Synchronized" = "Backup Synchronized";
 
 /* TODO */
 "Backup with iCloud" = "Backup with iCloud";
@@ -397,14 +409,14 @@
 /* TODO */
 "Constants" = "Constants";
 
-/* TODO */
-"Contact Phone Address" = "Contact Phone Address";
-
 /* No comment provided by engineer. */
 "Contact Exceptions" = "Ngoại lệ liên hệ";
 
 /* TODO */
 "Contact Name" = "Contact Name";
+
+/* TODO */
+"Contact Phone Address" = "Contact Phone Address";
 
 /* No comment provided by engineer. */
 "Contact Us" = "Liên hệ với chúng tôi";
@@ -767,6 +779,9 @@
 "Finalizing" = "Đang hoàn thiện";
 
 /* TODO */
+"finish" = "finish";
+
+/* TODO */
 "Focus" = "Focus";
 
 /* No comment provided by engineer. */
@@ -891,6 +906,9 @@
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "Tôi đồng ý với E.U.L.A.";
+
+/* TODO */
+"icloud" = "iCloud";
 
 /* TODO */
 "iCloud Drive" = "iCloud Drive";
@@ -1102,6 +1120,9 @@
 /* No comment provided by engineer. */
 "Microphone" = "Micro";
 
+/* TODO */
+"microphone" = "microphone";
+
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "Micrô và loa được ghi lại ở các kênh khác nhau.";
 
@@ -1238,6 +1259,9 @@
 "Operation Succeed" = "Operation Succeed";
 
 /* TODO */
+"Operation timed out." = "Operation timed out.";
+
+/* TODO */
 "Operator Name" = "Operator Name";
 
 /* No comment provided by engineer. */
@@ -1280,7 +1304,10 @@
 "Paused" = "Tạm dừng";
 
 /* TODO */
-"Perform Full Backup" = "Perform Full Backup";
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”.";
+
+/* TODO */
+"Perform Full Synchronization" = "Perform Full Synchronization";
 
 /* TODO */
 "Period" = "Period";
@@ -1312,8 +1339,17 @@
 /* TODO */
 "Play" = "Play";
 
+/* TODO */
+"play" = "play";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Phát Cảnh Báo Ghi Âm";
+
+/* TODO */
+"Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
+
+/* TODO */
+"Play Voice-Over to Microphone" = "Play Voice-Over to Microphone";
 
 /* TODO */
 "Play/Pause" = "Play/Pause";
@@ -1739,6 +1775,9 @@
 "Sync Service Provider" = "Sync Service Provider";
 
 /* TODO */
+"synchronization" = "synchronization";
+
+/* TODO */
 "Synchronizing" = "Synchronizing";
 
 /* No comment provided by engineer. */
@@ -1773,6 +1812,18 @@
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Tạm thời bỏ qua";
+
+/* TODO */
+"terminate" = "terminate";
+
+/* TODO */
+"Terminate all active calls immediately." = "Terminate all active calls immediately.";
+
+/* TODO */
+"Terminate Calls" = "Terminate Calls";
+
+/* TODO */
+"text-to-speech" = "text-to-speech";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Thiết lập ứng dụng đã gặp lỗi không xác định, Launch Daemon không phản hồi yêu cầu của chúng tôi. Chúng tôi đang cố gắng kết nối lại, vui lòng đợi. Nếu sự cố vẫn tiếp diễn, bạn có thể thử cài đặt lại ứng dụng.";
@@ -1851,6 +1902,9 @@
 
 /* No comment provided by engineer. */
 "The size of selected audio file." = "Kích thước của tệp âm thanh đã chọn.";
+
+/* TODO */
+"The text to be played to the opposite side." = "The text to be played to the opposite side.";
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "Khoảng thời gian trước khi bong bóng mọi nơi trở nên nhàn rỗi.";
@@ -1968,6 +2022,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
+
+/* TODO */
+"tts" = "tts";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Tắt tùy chọn này để làm cho các tùy chọn khác trên trang này có hiệu lực đối với ứng dụng hiện tại.";
@@ -2163,6 +2220,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Các liên hệ VIP sẽ luôn được ghi lại và thêm vào các mục yêu thích.";
+
+/* TODO */
+"voice-over" = "voice-over";
+
+/* TODO */
+"Voice-Over Text" = "Voice-Over Text";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ. Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.";

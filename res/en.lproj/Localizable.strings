@@ -182,6 +182,9 @@
 "Applications" = "Applications";
 
 /* No comment provided by engineer. */
+"archive" = "archive";
+
+/* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
 
 /* No comment provided by engineer. */
@@ -192,6 +195,9 @@
 
 /* No comment provided by engineer. */
 "Attachable Edges" = "Attachable Edges";
+
+/* No comment provided by engineer. */
+"audio" = "audio";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Audio Compression";
@@ -252,6 +258,12 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "Background Style";
+
+/* No comment provided by engineer. */
+"backup" = "backup";
+
+/* No comment provided by engineer. */
+"Backup Synchronized" = "Backup Synchronized";
 
 /* No comment provided by engineer. */
 "Backup with iCloud" = "Backup with iCloud";
@@ -398,13 +410,13 @@
 "Constants" = "Constants";
 
 /* No comment provided by engineer. */
-"Contact Phone Address" = "Contact Phone Address";
-
-/* No comment provided by engineer. */
 "Contact Exceptions" = "Contact Exceptions";
 
 /* No comment provided by engineer. */
 "Contact Name" = "Contact Name";
+
+/* No comment provided by engineer. */
+"Contact Phone Address" = "Contact Phone Address";
 
 /* No comment provided by engineer. */
 "Contact Us" = "Contact Us";
@@ -767,6 +779,9 @@
 "Finalizing" = "Finalizing";
 
 /* No comment provided by engineer. */
+"finish" = "finish";
+
+/* No comment provided by engineer. */
 "Focus" = "Focus";
 
 /* No comment provided by engineer. */
@@ -891,6 +906,9 @@
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "I Agree to the E.U.L.A.";
+
+/* No comment provided by engineer. */
+"icloud" = "iCloud";
 
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud Drive";
@@ -1103,6 +1121,9 @@
 "Microphone" = "Microphone";
 
 /* No comment provided by engineer. */
+"microphone" = "microphone";
+
+/* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "Microphone and speaker are recorded in different channels.";
 
 /* No comment provided by engineer. */
@@ -1238,6 +1259,9 @@
 "Operation Succeed" = "Operation Succeed";
 
 /* No comment provided by engineer. */
+"Operation timed out." = "Operation timed out.";
+
+/* No comment provided by engineer. */
 "Operator Name" = "Operator Name";
 
 /* No comment provided by engineer. */
@@ -1280,7 +1304,10 @@
 "Paused" = "Paused";
 
 /* No comment provided by engineer. */
-"Perform Full Backup" = "Perform Full Backup";
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”.";
+
+/* No comment provided by engineer. */
+"Perform Full Synchronization" = "Perform Full Synchronization";
 
 /* No comment provided by engineer. */
 "Period" = "Period";
@@ -1313,7 +1340,16 @@
 "Play" = "Play";
 
 /* No comment provided by engineer. */
+"play" = "play";
+
+/* No comment provided by engineer. */
 "Play Recording Warning" = "Play Recording Warning";
+
+/* No comment provided by engineer. */
+"Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
+
+/* No comment provided by engineer. */
+"Play Voice-Over to Microphone" = "Play Voice-Over to Microphone";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "Play/Pause";
@@ -1739,6 +1775,9 @@
 "Sync Service Provider" = "Sync Service Provider";
 
 /* No comment provided by engineer. */
+"synchronization" = "synchronization";
+
+/* No comment provided by engineer. */
 "Synchronizing" = "Synchronizing";
 
 /* No comment provided by engineer. */
@@ -1773,6 +1812,18 @@
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Temporary Ignore";
+
+/* No comment provided by engineer. */
+"terminate" = "terminate";
+
+/* No comment provided by engineer. */
+"Terminate all active calls immediately." = "Terminate all active calls immediately.";
+
+/* No comment provided by engineer. */
+"Terminate Calls" = "Terminate Calls";
+
+/* No comment provided by engineer. */
+"text-to-speech" = "text-to-speech";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application.";
@@ -1851,6 +1902,9 @@
 
 /* No comment provided by engineer. */
 "The size of selected audio file." = "The size of selected audio file.";
+
+/* No comment provided by engineer. */
+"The text to be played to the opposite side." = "The text to be played to the opposite side.";
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "The time interval before the hoverball becomes idle.";
@@ -1968,6 +2022,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
+
+/* No comment provided by engineer. */
+"tts" = "TTS";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Turn this option off to make the other options on this page take effect for the current application.";
@@ -2163,6 +2220,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP contacts will always be recorded and added to the favourites.";
+
+/* No comment provided by engineer. */
+"voice-over" = "voice-over";
+
+/* No comment provided by engineer. */
+"Voice-Over Text" = "Voice-Over Text";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Warning, your call is being recorded now. Warning, your call is being recorded now.";

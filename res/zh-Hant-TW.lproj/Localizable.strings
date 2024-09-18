@@ -182,6 +182,9 @@
 "Applications" = "應用程序";
 
 /* TODO */
+"archive" = "archive";
+
+/* TODO */
 "Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
 
 /* No comment provided by engineer. */
@@ -192,6 +195,9 @@
 
 /* No comment provided by engineer. */
 "Attachable Edges" = "可吸附邊緣";
+
+/* TODO */
+"audio" = "audio";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "音頻壓縮";
@@ -252,6 +258,12 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "背景樣式";
+
+/* TODO */
+"backup" = "backup";
+
+/* TODO */
+"Backup Synchronized" = "Backup Synchronized";
 
 /* TODO */
 "Backup with iCloud" = "Backup with iCloud";
@@ -397,14 +409,14 @@
 /* No comment provided by engineer. */
 "Constants" = "常量";
 
-/* TODO */
-"Contact Phone Address" = "Contact Phone Address";
-
 /* No comment provided by engineer. */
 "Contact Exceptions" = "聯絡人例外";
 
 /* TODO */
 "Contact Name" = "Contact Name";
+
+/* TODO */
+"Contact Phone Address" = "Contact Phone Address";
 
 /* No comment provided by engineer. */
 "Contact Us" = "聯繫我們";
@@ -766,6 +778,9 @@
 /* No comment provided by engineer. */
 "Finalizing" = "完成中";
 
+/* TODO */
+"finish" = "finish";
+
 /* No comment provided by engineer. */
 "Focus" = "聚焦";
 
@@ -891,6 +906,9 @@
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "我已經閱讀並同意《最終用戶許可協議》";
+
+/* TODO */
+"icloud" = "iCloud";
 
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud 雲盤";
@@ -1102,6 +1120,9 @@
 /* No comment provided by engineer. */
 "Microphone" = "麥克風";
 
+/* TODO */
+"microphone" = "microphone";
+
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "麥克風和揚聲器在不同的文件中錄音。";
 
@@ -1237,6 +1258,9 @@
 /* TODO */
 "Operation Succeed" = "Operation Succeed";
 
+/* TODO */
+"Operation timed out." = "Operation timed out.";
+
 /* No comment provided by engineer. */
 "Operator Name" = "運營商名稱";
 
@@ -1280,7 +1304,10 @@
 "Paused" = "暫停";
 
 /* TODO */
-"Perform Full Backup" = "Perform Full Backup";
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”.";
+
+/* TODO */
+"Perform Full Synchronization" = "Perform Full Synchronization";
 
 /* No comment provided by engineer. */
 "Period" = "句點";
@@ -1312,8 +1339,17 @@
 /* No comment provided by engineer. */
 "Play" = "播放";
 
+/* TODO */
+"play" = "play";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音警告";
+
+/* TODO */
+"Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
+
+/* TODO */
+"Play Voice-Over to Microphone" = "Play Voice-Over to Microphone";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "播放/暫停";
@@ -1739,6 +1775,9 @@
 "Sync Service Provider" = "服務提供商";
 
 /* TODO */
+"synchronization" = "synchronization";
+
+/* TODO */
 "Synchronizing" = "Synchronizing";
 
 /* No comment provided by engineer. */
@@ -1773,6 +1812,18 @@
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暫時忽略";
+
+/* TODO */
+"terminate" = "terminate";
+
+/* TODO */
+"Terminate all active calls immediately." = "Terminate all active calls immediately.";
+
+/* TODO */
+"Terminate Calls" = "Terminate Calls";
+
+/* TODO */
+"text-to-speech" = "text-to-speech";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "設置應用程序遇到了未知錯誤，守護進程沒有響應我們的請求。我們正在嘗試重新連接，請稍後。若問題持續存在，你可以嘗試重新安裝應用程序。";
@@ -1851,6 +1902,9 @@
 
 /* No comment provided by engineer. */
 "The size of selected audio file." = "選定音頻文件的大小。";
+
+/* TODO */
+"The text to be played to the opposite side." = "The text to be played to the opposite side.";
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "懸浮球變為閒置狀態之前的時間。";
@@ -1968,6 +2022,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "巨魔錄音機";
+
+/* TODO */
+"tts" = "tts";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "關閉此選項，使此頁面上的其它選項對當前應用程序生效。";
@@ -2163,6 +2220,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP 聯絡人將始終被錄音並添加到收藏中。";
+
+/* TODO */
+"voice-over" = "voice-over";
+
+/* TODO */
+"Voice-Over Text" = "Voice-Over Text";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "警告，您的通話正在被錄音。警告，您的通話正在被錄音。";

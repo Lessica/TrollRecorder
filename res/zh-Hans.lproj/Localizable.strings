@@ -182,6 +182,9 @@
 "Applications" = "应用程序";
 
 /* No comment provided by engineer. */
+"archive" = "归档";
+
+/* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "你确定要删除所有自动化动作吗？";
 
 /* No comment provided by engineer. */
@@ -192,6 +195,9 @@
 
 /* No comment provided by engineer. */
 "Attachable Edges" = "可吸附边缘";
+
+/* No comment provided by engineer. */
+"audio" = "音频";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "音频压缩";
@@ -252,6 +258,12 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "背景样式";
+
+/* No comment provided by engineer. */
+"backup" = "备份";
+
+/* No comment provided by engineer. */
+"Backup Synchronized" = "备份同步结束时";
 
 /* No comment provided by engineer. */
 "Backup with iCloud" = "通过 iCloud 备份";
@@ -398,13 +410,13 @@
 "Constants" = "常量";
 
 /* No comment provided by engineer. */
-"Contact Phone Address" = "联系人电话号码";
-
-/* No comment provided by engineer. */
 "Contact Exceptions" = "联系人例外";
 
 /* No comment provided by engineer. */
 "Contact Name" = "联系人名称";
+
+/* No comment provided by engineer. */
+"Contact Phone Address" = "联系人电话号码";
 
 /* No comment provided by engineer. */
 "Contact Us" = "联系我们";
@@ -767,6 +779,9 @@
 "Finalizing" = "完成中";
 
 /* No comment provided by engineer. */
+"finish" = "结束";
+
+/* No comment provided by engineer. */
 "Focus" = "聚焦";
 
 /* No comment provided by engineer. */
@@ -891,6 +906,9 @@
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "我已经阅读并同意《最终用户许可协议》";
+
+/* No comment provided by engineer. */
+"icloud" = "iCloud";
 
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud 云盘";
@@ -1103,6 +1121,9 @@
 "Microphone" = "麦克风";
 
 /* No comment provided by engineer. */
+"microphone" = "麦克风";
+
+/* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "麦克风和扬声器在不同的文件中录音。";
 
 /* No comment provided by engineer. */
@@ -1238,6 +1259,9 @@
 "Operation Succeed" = "操作成功";
 
 /* No comment provided by engineer. */
+"Operation timed out." = "操作超时";
+
+/* No comment provided by engineer. */
 "Operator Name" = "运营商名称";
 
 /* No comment provided by engineer. */
@@ -1280,7 +1304,10 @@
 "Paused" = "暂停";
 
 /* No comment provided by engineer. */
-"Perform Full Backup" = "执行完全备份";
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "执行 “使用 iCloud 备份” 和 “智能云归档” 的完全同步。";
+
+/* No comment provided by engineer. */
+"Perform Full Synchronization" = "执行完全同步";
 
 /* No comment provided by engineer. */
 "Period" = "句点";
@@ -1313,7 +1340,16 @@
 "Play" = "播放";
 
 /* No comment provided by engineer. */
+"play" = "播放";
+
+/* No comment provided by engineer. */
 "Play Recording Warning" = "播放录音警告";
+
+/* No comment provided by engineer. */
+"Play specified voice-over text to the microphone." = "向麦克风播报指定的文本内容。";
+
+/* No comment provided by engineer. */
+"Play Voice-Over to Microphone" = "通话语音播报";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "播放/暂停";
@@ -1739,6 +1775,9 @@
 "Sync Service Provider" = "服务提供商";
 
 /* No comment provided by engineer. */
+"synchronization" = "同步";
+
+/* No comment provided by engineer. */
 "Synchronizing" = "同步中";
 
 /* No comment provided by engineer. */
@@ -1773,6 +1812,18 @@
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暂时忽略";
+
+/* No comment provided by engineer. */
+"terminate" = "终止";
+
+/* No comment provided by engineer. */
+"Terminate all active calls immediately." = "立即挂断所有正在进行的通话。";
+
+/* No comment provided by engineer. */
+"Terminate Calls" = "结束通话";
+
+/* No comment provided by engineer. */
+"text-to-speech" = "文本转语音";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "设置应用程序遇到了未知错误，守护进程没有响应我们的请求。我们正在尝试重新连接，请稍后。若问题持续存在，你可以尝试重新安装应用程序。";
@@ -1853,6 +1904,9 @@
 "The size of selected audio file." = "选定音频文件的大小。";
 
 /* No comment provided by engineer. */
+"The text to be played to the opposite side." = "要向对面播放的文本内容。";
+
+/* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "悬浮球变为闲置状态之前的时间。";
 
 /* No comment provided by engineer. */
@@ -1922,10 +1976,10 @@
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服务的活跃状态，你需要为巨魔录音机选择 “始终” 或 “使用 App 期间”。";
 
 /* No comment provided by engineer. */
-"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "如需使用智能云存档，你需要为巨魔录音机启用后台 App 刷新。";
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "如需使用智能云归档，你需要为巨魔录音机启用后台 App 刷新。";
 
 /* No comment provided by engineer. */
-"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "要使用智能云存档，你必须在设置中登录 iCloud 云盘。";
+"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "要使用智能云归档，你必须在设置中登录 iCloud 云盘。";
 
 /* No comment provided by engineer. */
 "To: %@" = "结束于：%@";
@@ -1968,6 +2022,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "巨魔录音机";
+
+/* No comment provided by engineer. */
+"tts" = "TTS";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "关闭此选项，使此页面上的其他选项对当前应用程序生效。";
@@ -2163,6 +2220,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP 联系人将始终被录音并添加到收藏中。";
+
+/* No comment provided by engineer. */
+"voice-over" = "Voice-Over";
+
+/* No comment provided by engineer. */
+"Voice-Over Text" = "Voice-Over 文本";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "警告，您的通话正在被录音。警告，您的通话正在被录音。";

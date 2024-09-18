@@ -182,6 +182,9 @@
 "Applications" = "Aplicaciones";
 
 /* Translated with Microsoft Translator */
+"archive" = "archivo";
+
+/* Translated with Microsoft Translator */
 "Are you sure you want to remove all shortcut definitions?" = "¿Estás seguro de que quieres eliminar todas las definiciones de acceso directo?";
 
 /* Translated with Microsoft Translator */
@@ -192,6 +195,9 @@
 
 /* Translated with Microsoft Translator */
 "Attachable Edges" = "Bordes fijables";
+
+/* Translated with Microsoft Translator */
+"audio" = "audio";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Compresión de audio";
@@ -252,6 +258,12 @@
 
 /* No comment provided by engineer. */
 "Background Style" = "Estilo de fondo";
+
+/* Translated with Microsoft Translator */
+"backup" = "copia de seguridad";
+
+/* Translated with Microsoft Translator */
+"Backup Synchronized" = "Copia de seguridad sincronizada";
 
 /* Translated with Microsoft Translator */
 "Backup with iCloud" = "Copia de seguridad con iCloud";
@@ -397,14 +409,14 @@
 /* Translated with Microsoft Translator */
 "Constants" = "Constantes";
 
-/* Translated with Microsoft Translator */
-"Contact Phone Address" = "Dirección de contacto";
-
 /* No comment provided by engineer. */
 "Contact Exceptions" = "Excepciones de contacto";
 
 /* Translated with Microsoft Translator */
 "Contact Name" = "Nombre de contacto";
+
+/* Translated with Microsoft Translator */
+"Contact Phone Address" = "Dirección de contacto";
 
 /* No comment provided by engineer. */
 "Contact Us" = "Contactar";
@@ -767,6 +779,9 @@
 "Finalizing" = "Finalizando";
 
 /* Translated with Microsoft Translator */
+"finish" = "acabado";
+
+/* Translated with Microsoft Translator */
 "Focus" = "Enfoque";
 
 /* No comment provided by engineer. */
@@ -891,6 +906,9 @@
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "Estoy de acuerdo con la E.U.L.A.";
+
+/* Translated with Microsoft Translator */
+"icloud" = "iCloud";
 
 /* Translated with Microsoft Translator */
 "iCloud Drive" = "iCloud Drive";
@@ -1102,6 +1120,9 @@
 /* No comment provided by engineer. */
 "Microphone" = "Micrófono";
 
+/* Translated with Microsoft Translator */
+"microphone" = "micrófono";
+
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "El micrófono y el altavoz se graban en canales diferentes.";
 
@@ -1238,6 +1259,9 @@
 "Operation Succeed" = "Operación Éxito";
 
 /* Translated with Microsoft Translator */
+"Operation timed out." = "Operación finalizada.";
+
+/* Translated with Microsoft Translator */
 "Operator Name" = "Nombre del operador";
 
 /* No comment provided by engineer. */
@@ -1280,7 +1304,10 @@
 "Paused" = "En pausa";
 
 /* Translated with Microsoft Translator */
-"Perform Full Backup" = "Realizar copia de seguridad completa";
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Realice una sincronización completa de “Copia de seguridad con iCloud” y “Archivo en la nube inteligente”.";
+
+/* Translated with Microsoft Translator */
+"Perform Full Synchronization" = "Sincronización completa";
 
 /* Translated with Microsoft Translator */
 "Period" = "Periodo";
@@ -1312,8 +1339,17 @@
 /* No comment provided by engineer. */
 "Play" = "Reproducir";
 
+/* Translated with Microsoft Translator */
+"play" = "jugar";
+
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Reproducir aviso de grabación";
+
+/* Translated with Microsoft Translator */
+"Play specified voice-over text to the microphone." = "Reproducir el texto de voz en off especificado en el micrófono.";
+
+/* Translated with Microsoft Translator */
+"Play Voice-Over to Microphone" = "Reproducir voz en off al micrófono";
 
 /* Translated with Microsoft Translator */
 "Play/Pause" = "Reproducir/Pausa";
@@ -1739,6 +1775,9 @@
 "Sync Service Provider" = "Proveedor de servicios de sincronización";
 
 /* Translated with Microsoft Translator */
+"synchronization" = "sincronización";
+
+/* Translated with Microsoft Translator */
 "Synchronizing" = "Sincronización";
 
 /* No comment provided by engineer. */
@@ -1773,6 +1812,18 @@
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Ignorar temporalmente";
+
+/* Translated with Microsoft Translator */
+"terminate" = "terminar";
+
+/* Translated with Microsoft Translator */
+"Terminate all active calls immediately." = "Finaliza inmediatamente todas las llamadas activas.";
+
+/* Translated with Microsoft Translator */
+"Terminate Calls" = "Finalizar llamadas";
+
+/* Translated with Microsoft Translator */
+"text-to-speech" = "texto a voz";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "La configuración de la aplicación ha encontrado un error desconocido, el Launch Daemon no ha respondido a nuestras peticiones. Estamos intentando reconectar, por favor espere. Si el problema persiste, puede intentar reinstalar la aplicación.";
@@ -1851,6 +1902,9 @@
 
 /* No comment provided by engineer. */
 "The size of selected audio file." = "El tamaño del archivo de audio seleccionado.";
+
+/* Translated with Microsoft Translator */
+"The text to be played to the opposite side." = "El texto que se reproducirá en el lado opuesto.";
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "El intervalo de tiempo antes de que el HUD global se vuelva inactivo.";
@@ -1968,6 +2022,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
+
+/* Translated with Microsoft Translator */
+"tts" = "tts";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Desactiva esta opción para que las demás opciones de esta página surtan efecto en la aplicación actual.";
@@ -2163,6 +2220,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Los contactos VIP siempre se grabarán y se añadirán a los favoritos.";
+
+/* Translated with Microsoft Translator */
+"voice-over" = "voz en off";
+
+/* Translated with Microsoft Translator */
+"Voice-Over Text" = "Texto en off";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Atención, su llamada está siendo grabada. Atención, su llamada está siendo grabada.";
