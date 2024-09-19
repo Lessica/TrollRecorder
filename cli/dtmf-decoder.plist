@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>platform-application</key>
+  <true/>
+  <!-- Core Audio BEGIN -->
+  <key>com.apple.coreaudio.CanRecordWithoutSessionActivation</key>
+  <true/>
+  <key>com.apple.coreaudio.CanTapTelephony</key>
+  <true/>
+  <key>com.apple.coreaudio.app-tap</key>
+  <true/>
+  <key>com.apple.coreaudio.private.SystemWideTap</key>
+  <true/>
+  <!-- Core Audio END -->
+  <key>com.apple.private.security.no-container</key>
+  <true/>
+  <key>com.apple.private.security.container-manager</key>
+  <true/>
+  <key>com.apple.private.tcc.allow</key>
+  <array>
+    <string>kTCCServiceMicrophone</string>
+  </array>
+  <key>com.apple.private.tcc.manager.check-by-audit-token</key>
+  <array>
+    <string>kTCCServiceMicrophone</string>
+  </array>
+</dict>
+</plist>
