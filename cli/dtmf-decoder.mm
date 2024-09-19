@@ -25,6 +25,7 @@
 #import <AudioToolbox/AudioFile.h>
 #import <AudioToolbox/AudioQueue.h>
 #import <Foundation/Foundation.h>
+#import <HBLog.h>
 
 #import "ATAudioTap.h"
 #import "ATAudioTapDescription.h"
@@ -34,12 +35,12 @@
 #define NUM_BUFFERS 40
 #define DETECTBUFFERLEN 8192
 
-#define MIN_TONE_LENGTH 0.045 // 45ms
+#define MIN_TONE_LENGTH 0.045
 #define FRAMES_PER_TONE 2
 #define BYTES_PER_CHANNEL 2
 #define BUFFER_SIZE ((int)(MIN_TONE_LENGTH * SAMPLING_RATE * BYTES_PER_CHANNEL) / FRAMES_PER_TONE)
 
-#define NUM_FREQS 8 // The number of dtmf frequencies (band pass filters)
+#define NUM_FREQS 8
 
 #define kMinNoiseToleranceFactor 1.5
 #define kMaxNoiseToleranceFactor 6.5
@@ -54,8 +55,7 @@ typedef struct {
     AudioStreamBasicDescription dataFormat;
     AudioQueueRef queue;
     AudioQueueBufferRef buffers[NUM_BUFFERS];
-    BOOL recording;
-    AudioFileID audioFile;
+    BOOL isRecording;
     SInt64 currentPacket;
     short filteredBuffer[BUFFER_SIZE];
     char *detectBuffer;
@@ -63,18 +63,17 @@ typedef struct {
     ATAudioTap *audioTap;
 } RecordState;
 
-static double powers[NUM_FREQS];     // Location to store the powers for all the frequencies
-static double filterBuf0[NUM_FREQS]; // Buffer for the IIR filter slot 0
-static double filterBuf1[NUM_FREQS]; // Buffer for the IIR filter slot 1
+static double powers[NUM_FREQS];     // Location to store the powers for all the frequencies.
+static double filterBuf0[NUM_FREQS]; // Buffer for the IIR filter slot 0.
+static double filterBuf1[NUM_FREQS]; // Buffer for the IIR filter slot 1.
 static char holdingBuffer[2];
 static int holdingBufferCount[2];
 static int powerMeasurementMethod; // 0 = Peak Value -> RMS, 1 = Sqrt of Sum of Squares, 2 = Sum of Abs Values
 static BOOL rawOutput;
 static double noiseToleranceFactor;
-static uint8_t leds;
 
 // Filter coefficients
-const struct FilterCoefficientsEntry filterCoefficients[NUM_FREQS] = {
+static const struct FilterCoefficientsEntry filterCoefficients[NUM_FREQS] = {
     {0.002729634465943104, 1.703076309365611, 0.994540731068114},   // 697 Hz
     {0.003014658069540622, 1.640321076289727, 0.9939706838609188},  // 770 Hz
     {0.003334626751652912, 1.563455998285116, 0.9933307464966943},  // 852 Hz
@@ -85,7 +84,7 @@ const struct FilterCoefficientsEntry filterCoefficients[NUM_FREQS] = {
     {0.006371827557152048, 0.5649101144069607, 0.9872563448856961}  // 1633 Hz
 };
 
-const char dtmfCodes[4][4] = {
+static const char dtmfCodes[4][4] = {
     {'1', '2', '3', 'A'},
     {'4', '5', '6', 'B'},
     {'7', '8', '9', 'C'},
@@ -95,7 +94,7 @@ const char dtmfCodes[4][4] = {
 // BpRe/100/frequency == Bandpass resonator, Q=100 (0=>Inf), frequency
 // e.g. ./fiview 8000 -i BpRe/100/1336
 // Generated using  http://uazu.net/fiview/
-double bandPassFilter(register double val, int filterIndex) {
+static double bandPassFilter(register double val, int filterIndex) {
     register double tmp, fir, iir;
     tmp = filterBuf0[filterIndex];
     filterBuf0[filterIndex] = filterBuf1[filterIndex];
@@ -108,15 +107,15 @@ double bandPassFilter(register double val, int filterIndex) {
     return val;
 }
 
-char lookupDTMFCode(void) {
-    // Find the highest powered frequency index
+static char lookupDTMFCode(void) {
+    // Find the highest powered frequency index.
     int max1Index = 0;
     for (int i = 0; i < NUM_FREQS; i++) {
         if (powers[i] >= powers[max1Index])
             max1Index = i;
     }
 
-    // Find the 2nd highest powered frequency index
+    // Find the 2nd highest powered frequency index.
     int max2Index;
 
     if (max1Index == 0) {
@@ -130,7 +129,7 @@ char lookupDTMFCode(void) {
             max2Index = i;
     }
 
-    // Check that fequency 1 and 2 are substantially bigger than any other frequencies
+    // Check that fequency 1 and 2 are substantially bigger than any other frequencies.
     BOOL valid = YES;
     for (int i = 0; i < NUM_FREQS; i++) {
         if ((i == max1Index) || (i == max2Index))
@@ -142,12 +141,10 @@ char lookupDTMFCode(void) {
         }
     }
 
-    leds = (1 << max1Index) | (1 << max2Index);
-
     if (valid) {
-        // NSLog(@"Highest Frequencies found: %d %d", max1Index, max2Index);
+        HBLogDebug(@"Highest frequencies found: %d %d", max1Index, max2Index);
 
-        // Figure out which one is a row and which one is a column
+        // Figure out which one is a row and which one is a column.
         int row = -1;
         int col = -1;
         if ((max1Index >= 0) && (max1Index <= 3)) {
@@ -162,25 +159,28 @@ char lookupDTMFCode(void) {
             row = max2Index;
         }
 
-        // Check we have both the row and column and fail if we have 2 rows or 2 columns
+        // Check we have both the row and column and fail if we have 2 rows or 2 columns.
         if ((row == -1) || (col == -1)) {
-            // We have to rows or 2 cols, fail
-            // NSLog(@"We have 2 rows or 2 columns, must have gotten it wrong");
+            // We have to rows or 2 cols, fail.
+            HBLogError(@"We have 2 rows or 2 columns, must have gotten it wrong.");
         } else {
-            NSLog(@"DTMF code %c", dtmfCodes[row][col - 4]);
-            return dtmfCodes[row][col - 4]; // We got it
+            HBLogDebug(@"DTMF code %c", dtmfCodes[row][col - 4]);
+            return dtmfCodes[row][col - 4];
         }
     }
+
     return ' ';
 }
 
-void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer,
-                        const AudioTimeStamp *inStartTime, UInt32 inNumberPacketDescriptions,
-                        const AudioStreamPacketDescription *inPacketDescs) {
+static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer,
+                               const AudioTimeStamp *inStartTime, UInt32 inNumberPacketDescriptions,
+                               const AudioStreamPacketDescription *inPacketDescs) {
+
     RecordState *recordState = (RecordState *)inUserData;
 
-    if (!recordState->recording)
-        NSLog(@"Not recording, returning");
+    if (!recordState->isRecording) {
+        HBLogError(@"Not recording, returning.");
+    }
 
     recordState->currentPacket += inNumberPacketDescriptions;
 
@@ -202,16 +202,17 @@ void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRe
     }
     min = abs(min);
     max = abs(max);
-    if (max < min)
-        max = min; // Pick bigger of max and min
+    if (max < min) {
+        max = min; // Pick bigger of max and min.
+    }
 
     for (i = 0L; i < numberOfSamples; i++) {
         p[i] = (short)(((double)p[i] / (double)max) * (double)32767);
     }
 
-    // NSLog(@"%d %d %ld %lf", min, max, zerocount, inStartTime->mSampleTime);
+    HBLogDebug(@"%d %d %ld %lf", min, max, zerocount, inStartTime->mSampleTime);
 
-    // Reset all previous power calculations
+    // Reset all previous power calculations.
     int t;
     double val;
 
@@ -219,11 +220,11 @@ void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRe
         powers[t] = (double)0.0;
     }
 
-    // Run the bandpass filter and calculate the power
+    // Run the bandpass filter and calculate the power.
     for (i = 0L; i < numberOfSamples; i++) {
         for (t = 0; t < NUM_FREQS; t++) {
 
-            // Find the highest value
+            // Find the highest value.
             switch (powerMeasurementMethod) {
             case 0:
                 val = fabs(bandPassFilter((double)p[i], t));
@@ -241,7 +242,7 @@ void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRe
         }
     }
 
-    // Scale 0 - 1, then convert into an power value
+    // Scale 0 - 1, then convert into an power value.
     for (t = 0; t < NUM_FREQS; t++) {
         switch (powerMeasurementMethod) {
         case 0:
@@ -256,35 +257,35 @@ void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRe
         }
     }
 
-    // NSLog(@"HB %d %d", holdingBuffer[0], holdingBuffer[1]);
-    // NSLog(@"RMS Powers: %0.3lf, %0.3lf, %0.3lf, %0.3lf, %0.3lf, %0.3lf, %0.3lf, %0.3lf", powers[0], powers[1],
-    // powers[2], powers[3], powers[4], powers[5], powers[6], powers[7]);
+    HBLogDebug(@"HB %d %d", holdingBuffer[0], holdingBuffer[1]);
+    HBLogDebug(@"RMS Powers: %0.3lf, %0.3lf, %0.3lf, %0.3lf, %0.3lf, %0.3lf, %0.3lf, %0.3lf", powers[0], powers[1],
+               powers[2], powers[3], powers[4], powers[5], powers[6], powers[7]);
 
-    // Figure out the dtmf code <space> is nothing recognized
+    // Figure out the dtmf code <space> is nothing recognized.
     char chr = lookupDTMFCode();
 
-    // Add it to the buffer
-    bool showBuffer = false;
+    // Add it to the buffer.
+    BOOL showBuffer = NO;
 
     if (chr == holdingBuffer[1]) {
         holdingBufferCount[1]++;
         // To deal with the case where we've received nothing for a while,
-        // spit out the buffer
+        // spit out the buffer.
         if ((holdingBuffer[1] == ' ') && (holdingBufferCount[1] >= 40))
-            showBuffer = true;
+            showBuffer = YES;
     } else {
-        showBuffer = true;
+        showBuffer = YES;
     }
 
     if (showBuffer) {
-        // Combine the buffer entries if they're the same
+        // Combine the buffer entries if they're the same.
         if (holdingBuffer[1] == holdingBuffer[0]) {
             holdingBufferCount[1] += holdingBufferCount[0];
             holdingBuffer[0] = 0;
             holdingBufferCount[0] = 0;
         }
 
-        // Archive the current value if we have more than 2 samples
+        // Archive the current value if we have more than 2 samples.
         if ((holdingBufferCount[1] > 1) || (rawOutput)) {
             if ((holdingBuffer[0] != 0) && (holdingBuffer[0] != ' ')) {
                 char tmp[20] = "";
@@ -295,43 +296,39 @@ void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRe
                 }
                 if (strlen(recordState->detectBuffer) + strlen(tmp) < DETECTBUFFERLEN) {
                     strcat(recordState->detectBuffer, tmp);
-                    recordState->bufferChanged = TRUE;
+                    recordState->bufferChanged = YES;
                 }
-                // NSLog(@"Detected %c", tmp);
             }
+
             holdingBuffer[0] = holdingBuffer[1];
             holdingBufferCount[0] = holdingBufferCount[1];
         }
+
         holdingBuffer[1] = chr;
         holdingBufferCount[1] = 1;
     }
+
     AudioQueueEnqueueBuffer(recordState->queue, inBuffer, 0, NULL);
 }
 
 @interface DTMFDecoder : NSObject {
-    AudioStreamBasicDescription audioFormat;
-    int sample_count;
-    int gaplen;
-    char last;
-    RecordState recordState;
-    NSUserDefaults *defaults;
+    AudioStreamBasicDescription mAudioFormat;
+    RecordState mRecordState;
+    float mNoiseLevel;
+    NSInteger mPowerMethod;
 }
 
 - (instancetype)init NS_DESIGNATED_INITIALIZER;
 - (void)resetBuffer;
 - (void)startRecording;
 - (void)stopRecording;
-- (void)loadSettings;
 - (NSString *)copyBuffer;
 
-@property(NS_NONATOMIC_IOSONLY, getter=getBufferChanged) BOOL bufferChanged;
-@property(NS_NONATOMIC_IOSONLY, getter=getNoiseLevel) float noiseLevel;
-@property(NS_NONATOMIC_IOSONLY, getter=getPowerMethod) NSInteger powerMethod;
-@property(NS_NONATOMIC_IOSONLY, getter=getDetectBuffer, readonly) char *detectBuffer;
-@property(assign) int lastCount;
-@property(assign) double *currentFreqs;
-@property(nonatomic, readonly, getter=getLedBin) int ledBin;
-@property(readwrite) bool running;
+- (BOOL)isRecording;
+
+@property(nonatomic, assign, getter=getBufferChanged) BOOL bufferChanged;
+@property(nonatomic, assign, getter=getNoiseLevel) float noiseLevel;
+@property(nonatomic, assign, getter=getPowerMethod) NSInteger powerMethod;
 
 @end
 
@@ -340,201 +337,164 @@ void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRe
 - (instancetype)init {
     self = [super init];
     if (self) {
-        recordState.detectBuffer = (char *)calloc(1, DETECTBUFFERLEN);
-        defaults = [NSUserDefaults standardUserDefaults];
-        [self loadSettings];
-        [self setCurrentFreqs:nil];
+        mRecordState.detectBuffer = (char *)calloc(1, DETECTBUFFERLEN);
+        [self setNoiseLevel:0];
+        [self setPowerMethod:0];
         [self resetBuffer];
     }
     return self;
 }
 
 - (void)startRecording {
-    @synchronized(self) {
-        if (recordState.recording == true) {
-            return;
-        }
-
-        for (int i = 0; i < 2; i++) {
-            holdingBufferCount[i] = 0;
-            holdingBuffer[i] = ' ';
-        }
-        AudioQueueBufferRef qref[NUM_BUFFERS];
-        self.currentFreqs = nil;
-
-        // these statements define the audio stream basic description
-        // for the file to record into.
-        audioFormat.mSampleRate = SAMPLING_RATE;
-        audioFormat.mFormatID = kAudioFormatLinearPCM;
-        audioFormat.mFormatFlags = kAudioFormatFlagIsSignedInteger | kAudioFormatFlagIsPacked;
-        audioFormat.mFramesPerPacket = 1;
-        audioFormat.mChannelsPerFrame = 1;
-        audioFormat.mBitsPerChannel = 16;
-        audioFormat.mBytesPerPacket = 2;
-        audioFormat.mBytesPerFrame = 2;
-        audioFormat.mReserved = 0;
-
-        AVAudioFormat *avAudioFormat = [[AVAudioFormat alloc] initWithStreamDescription:&audioFormat];
-
-        ATAudioTapDescription *audioTapDescription = nil;
-        if ([ATAudioTapDescription instancesRespondToSelector:@selector(initTapInternalWithFormat:PIDs:)]) {
-            audioTapDescription =
-                [[ATAudioTapDescription alloc] initTapInternalWithFormat:avAudioFormat
-                                                                    PIDs:@[ @(kATAudioTapDescriptionPIDSpeaker) ]];
-        } else {
-            audioTapDescription =
-                [[ATAudioTapDescription alloc] initProcessTapInternalWithFormat:avAudioFormat
-                                                                            PID:kATAudioTapDescriptionPIDSpeaker];
-        }
-
-        recordState.audioTap = [[ATAudioTap alloc] initWithTapDescription:audioTapDescription];
-
-        OSStatus status;
-
-        // Create the new audio queue
-        status = AudioQueueNewInput(&audioFormat, AudioInputCallback,
-                                    &recordState, // User Data
-                                    CFRunLoopGetCurrent(), kCFRunLoopCommonModes,
-                                    0x800, // Reserved
-                                    &recordState.queue);
-
-        if (status != 0) {
-            NSLog(@"Can't create new input");
-            return;
-        }
-
-        status = AudioQueueSetProperty(recordState.queue, kAudioQueueProperty_TapOutputBypass,
-                                       (__bridge void *)recordState.audioTap, 8);
-
-        if (status != 0) {
-            NSLog(@"Can't set tap output bypass");
-            return;
-        }
-
-        // Get the *actual* recording format back from the queue's audio converter.
-        // We may not have been given what we asked for.
-        UInt32 fsize = sizeof(audioFormat);
-
-        AudioQueueGetProperty(recordState.queue,
-                              kAudioQueueProperty_StreamDescription, // this constant is only available in iPhone OS
-                              &audioFormat, &fsize);
-
-        if (audioFormat.mSampleRate != SAMPLING_RATE) {
-            NSLog(@"Wrong sample rate !");
-            return;
-        }
-
-        for (int i = 0; i < NUM_BUFFERS; ++i) {
-            // Allocate buffer. Size is in bytes.
-            AudioQueueAllocateBuffer(recordState.queue, BUFFER_SIZE, &qref[i]);
-            AudioQueueEnqueueBuffer(recordState.queue, qref[i], 0, NULL);
-        }
-
-        last = ' ';
-        self.lastCount = 0;
-        gaplen = 0;
-
-        AudioQueueStart(recordState.queue, NULL);
-        NSLog(@"started queue");
-        recordState.recording = true;
-        self.running = YES;
+    if (mRecordState.isRecording) {
         return;
     }
+
+    for (int i = 0; i < 2; i++) {
+        holdingBufferCount[i] = 0;
+        holdingBuffer[i] = ' ';
+    }
+
+    AudioQueueBufferRef qref[NUM_BUFFERS];
+
+    mAudioFormat.mSampleRate = SAMPLING_RATE;
+    mAudioFormat.mFormatID = kAudioFormatLinearPCM;
+    mAudioFormat.mFormatFlags = kAudioFormatFlagIsSignedInteger | kAudioFormatFlagIsPacked;
+    mAudioFormat.mFramesPerPacket = 1;
+    mAudioFormat.mChannelsPerFrame = 1;
+    mAudioFormat.mBitsPerChannel = 16;
+    mAudioFormat.mBytesPerPacket = 2;
+    mAudioFormat.mBytesPerFrame = 2;
+    mAudioFormat.mReserved = 0;
+
+    AVAudioFormat *avAudioFormat = [[AVAudioFormat alloc] initWithStreamDescription:&mAudioFormat];
+
+    ATAudioTapDescription *audioTapDescription = nil;
+    if ([ATAudioTapDescription instancesRespondToSelector:@selector(initTapInternalWithFormat:PIDs:)]) {
+        audioTapDescription =
+            [[ATAudioTapDescription alloc] initTapInternalWithFormat:avAudioFormat
+                                                                PIDs:@[ @(kATAudioTapDescriptionPIDSpeaker) ]];
+    } else {
+        audioTapDescription =
+            [[ATAudioTapDescription alloc] initProcessTapInternalWithFormat:avAudioFormat
+                                                                        PID:kATAudioTapDescriptionPIDSpeaker];
+    }
+
+    mRecordState.audioTap = [[ATAudioTap alloc] initWithTapDescription:audioTapDescription];
+
+    OSStatus status;
+    status = AudioQueueNewInput(&mAudioFormat, AudioInputCallback,
+                                &mRecordState, // User Data
+                                CFRunLoopGetCurrent(), kCFRunLoopCommonModes,
+                                0x800, // Reserved
+                                &mRecordState.queue);
+
+    if (status != noErr) {
+        HBLogError(@"AudioQueueNewInput (%d)", status);
+        return;
+    }
+
+    status = AudioQueueSetProperty(mRecordState.queue, kAudioQueueProperty_TapOutputBypass,
+                                   (__bridge void *)mRecordState.audioTap, 8);
+
+    if (status != noErr) {
+        HBLogError(@"AudioQueueSetProperty (%d)", status);
+        return;
+    }
+
+    // Get the *actual* recording format back from the queue's audio converter.
+    // We may not have been given what we asked for.
+    UInt32 fsize = sizeof(mAudioFormat);
+
+    AudioQueueGetProperty(mRecordState.queue, kAudioQueueProperty_StreamDescription, &mAudioFormat, &fsize);
+
+    if (mAudioFormat.mSampleRate != SAMPLING_RATE) {
+        return;
+    }
+
+    for (int i = 0; i < NUM_BUFFERS; ++i) {
+        // Allocate buffer. Size is in bytes.
+        AudioQueueAllocateBuffer(mRecordState.queue, BUFFER_SIZE, &qref[i]);
+        AudioQueueEnqueueBuffer(mRecordState.queue, qref[i], 0, NULL);
+    }
+
+    AudioQueueStart(mRecordState.queue, NULL);
+    mRecordState.isRecording = YES;
 }
 
 - (void)resetBuffer {
-    if ([self running]) {
-        [self setRunning:NO];
-        memset(recordState.detectBuffer, '\0', DETECTBUFFERLEN);
-        recordState.bufferChanged = TRUE;
-        last = ' ';
-        [self setRunning:YES];
-    }
+    memset(mRecordState.detectBuffer, '\0', DETECTBUFFERLEN);
+    mRecordState.bufferChanged = YES;
 }
-
-//////////////////////////
 
 - (void)stopRecording {
-    NSLog(@"Stop Recording");
-    if (recordState.recording) {
-        recordState.recording = false;
-
-        AudioQueueStop(recordState.queue, true);
-
-        for (int i = 0; i < NUM_BUFFERS; i++)
-            AudioQueueFreeBuffer(recordState.queue, recordState.buffers[i]);
-
-        AudioQueueDispose(recordState.queue, true);
-        AudioFileClose(recordState.audioFile);
-        leds = 0;
+    if (!mRecordState.isRecording) {
+        return;
     }
-}
-
-- (void)loadSettings {
-    float noiseLevel = [defaults floatForKey:@"noiseLevel"];
-    if (noiseLevel == 0)
-        noiseLevel = 0.5;
-    [self setNoiseLevel:noiseLevel];
-    NSInteger powerMethod = [defaults integerForKey:@"powerMethod"];
-    [self setPowerMethod:powerMethod];
-}
-
-- (void)setNoiseLevel:(float)noiseLevel {
-    if (noiseLevel <= 0 || noiseLevel > 1)
-        noiseLevel = 0.5;
-    noiseToleranceFactor = (double)(((1.0 - noiseLevel) * (kMaxNoiseToleranceFactor - kMinNoiseToleranceFactor)) +
-                                    kMinNoiseToleranceFactor);
-    NSLog(@"Noise Tolerance Factor: %lf", noiseToleranceFactor);
-    [defaults setFloat:noiseLevel forKey:@"noiseLevel"];
-}
-
-- (void)setPowerMethod:(NSInteger)powerMethod {
-    if (powerMethod > 2 || powerMethod < 0)
-        powerMethod = 1;
-    powerMeasurementMethod = (int)powerMethod;
-    NSLog(@"powerMethod: %ld", (long)powerMethod);
-    [defaults setInteger:powerMethod forKey:@"powerMethod"];
+    mRecordState.isRecording = NO;
+    AudioQueueStop(mRecordState.queue, true);
+    for (int i = 0; i < NUM_BUFFERS; i++) {
+        AudioQueueFreeBuffer(mRecordState.queue, mRecordState.buffers[i]);
+    }
+    AudioQueueDispose(mRecordState.queue, true);
 }
 
 - (float)getNoiseLevel {
-    float res = [defaults floatForKey:@"noiseLevel"];
-    NSLog(@"getNoiseLevel %f", res);
-    return res;
+    return mNoiseLevel;
+}
+
+- (void)setNoiseLevel:(float)noiseLevel {
+    if (noiseLevel <= 0 || noiseLevel > 1) {
+        noiseLevel = 0.5;
+    }
+    mNoiseLevel = noiseLevel;
+    noiseToleranceFactor = (double)(((1.0 - noiseLevel) * (kMaxNoiseToleranceFactor - kMinNoiseToleranceFactor)) +
+                                    kMinNoiseToleranceFactor);
 }
 
 - (NSInteger)getPowerMethod {
-    NSInteger res = [defaults integerForKey:@"powerMethod"];
-    NSLog(@"getpowerMethod %ld", (long)res);
-    return res;
+    return mPowerMethod;
+}
+
+- (void)setPowerMethod:(NSInteger)powerMethod {
+    if (powerMethod > 2 || powerMethod < 0) {
+        powerMethod = 1;
+    }
+    mPowerMethod = powerMethod;
+    powerMeasurementMethod = (int)powerMethod;
 }
 
 - (BOOL)getBufferChanged {
-    return recordState.bufferChanged;
+    return mRecordState.bufferChanged;
 }
 
 - (void)setBufferChanged:(BOOL)newData {
-    recordState.bufferChanged = newData;
-}
-
-- (char *)getDetectBuffer {
-    return recordState.detectBuffer;
-}
-
-- (int)getLedBin {
-    return leds;
+    mRecordState.bufferChanged = newData;
 }
 
 - (NSString *)copyBuffer {
-    return @(recordState.detectBuffer);
+    return @(mRecordState.detectBuffer);
+}
+
+- (BOOL)isRecording {
+    return mRecordState.isRecording;
 }
 
 @end
 
 int main(int argc, const char *argv[]) {
     @autoreleasepool {
-        DTMFDecoder *decoder = [[DTMFDecoder alloc] init];
-        [decoder startRecording];
-        [[NSRunLoop currentRunLoop] run];
+        static DTMFDecoder *gDecoder;
+        gDecoder = [[DTMFDecoder alloc] init];
+        [gDecoder startRecording];
+        printf("DTMF > Press <Ctrl+C> to stop.\n");
+        while ([gDecoder isRecording]) {
+            CFRunLoopRunInMode(kCFRunLoopDefaultMode, 1e-2, true);
+            if ([gDecoder getBufferChanged]) {
+                NSLog(@"%@", [gDecoder copyBuffer]);
+                [gDecoder setBufferChanged:NO];
+            }
+        }
     }
     return EXIT_SUCCESS;
 }
