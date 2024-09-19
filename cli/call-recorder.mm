@@ -1,8 +1,8 @@
 //
-//  recorder.mm
+//  call-recorder.mm
 //  TrollRecorder
 //
-//  Created by Lessica on 2024/2/10.
+//  Created by Lessica on 2024/9/19.
 //
 
 #import <AVFAudio/AVFAudio.h>
@@ -23,10 +23,12 @@ static AudioQueueBufferRef mBuffers[kNumberOfBuffers] = {0};
 static AudioFileID mAudioFile = 0;
 static UInt32 mBufferByteSize = 0;
 static SInt64 mCurrentPacket = 0;
+static bool mIsWaitingForDevice = false;
 static bool mIsRecording = false;
 static bool mIsPaused = false;
 static int mATAudioTapDescriptionPID = 0;
 static AudioTimeStamp mRecordedTime = {0};
+static ATAudioTap *mAudioTap = nil;
 
 __used static void _RecorderCallback(void *ptr, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer,
                                      const AudioTimeStamp *timestamp, UInt32 inNumPackets,
@@ -71,8 +73,13 @@ __used static void _RecorderListenerCallback(void *user_data, AudioQueueRef queu
     }
 
     NSLog(@"_RecorderListenerCallback: %d", res);
-    if (status == noErr && res == 0) {
-        mIsRecording = false;
+    if (status == noErr) {
+        if (res == 0 && !mIsWaitingForDevice) {
+            mIsRecording = false;
+        } else if (res != 0 && mIsWaitingForDevice) {
+            mIsWaitingForDevice = false;
+            mIsRecording = true;
+        }
     }
 }
 
@@ -137,10 +144,42 @@ __used static OSStatus _RecorderSetup(CFURLRef fileURL) {
 
     mCurrentPacket = 0;
 
-    status = AudioQueueNewInput(&mDataFormat, _RecorderCallback, NULL, NULL, NULL, 0, &mQueueRef);
+    AVAudioFormat *audioFormat = [[AVAudioFormat alloc] initWithCommonFormat:AVAudioPCMFormatFloat32
+                                                                  sampleRate:(double)sampleRate
+                                                                    channels:(AVAudioChannelCount)numberOfChannels
+                                                                 interleaved:YES];
+
+    if (!audioFormat) {
+        status = -1;
+        NSLog(@"AVAudioFormat (%d)", status);
+        return status;
+    }
+
+    mDataFormat = *([audioFormat streamDescription]);
+
+    ATAudioTapDescription *audioTapDescription = nil;
+    if ([ATAudioTapDescription instancesRespondToSelector:@selector(initTapInternalWithFormat:PIDs:)]) {
+        audioTapDescription =
+            [[ATAudioTapDescription alloc] initTapInternalWithFormat:audioFormat
+                                                                PIDs:@[ @(mATAudioTapDescriptionPID) ]];
+    } else {
+        audioTapDescription =
+            [[ATAudioTapDescription alloc] initProcessTapInternalWithFormat:audioFormat PID:mATAudioTapDescriptionPID];
+    }
+
+    mAudioTap = [[ATAudioTap alloc] initWithTapDescription:audioTapDescription];
+
+    status = AudioQueueNewInput(&mDataFormat, _RecorderCallback, NULL, NULL, NULL, 0x800, &mQueueRef);
 
     if (status != noErr) {
         NSLog(@"AudioQueueNewInput (%d)", status);
+        return status;
+    }
+
+    status = AudioQueueSetProperty(mQueueRef, kAudioQueueProperty_TapOutputBypass, (__bridge void *)mAudioTap, 8);
+
+    if (status != noErr) {
+        NSLog(@"AudioQueueSetProperty (%d)", status);
         return status;
     }
 
@@ -201,30 +240,7 @@ __used static OSStatus _RecorderStart(void) {
         return noErr;
     }
 
-    NSError *error = nil;
-    BOOL succeed = NO;
     OSStatus status = noErr;
-
-    /* FIXME: We need some additional setup to avoid AVAudioSession activation here. */
-    /* I removed some codes shamefully stolen from AudioRecorder XS by @limneos... */
-    /* See _headers_ for further details. */
-
-    succeed = [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayAndRecord
-                                                      mode:AVAudioSessionModeDefault
-                                                   options:AVAudioSessionCategoryOptionMixWithOthers
-                                                     error:&error];
-
-    if (!succeed) {
-        NSLog(@"- [AVAudioSession setCategory:error:] error = %@", error);
-        return -1;
-    }
-
-    succeed = [[AVAudioSession sharedInstance] setActive:YES error:&error];
-
-    if (!succeed) {
-        NSLog(@"- [AVAudioSession setActive:error:] error = %@", error);
-        return -1;
-    }
 
     status = AudioQueueStart(mQueueRef, NULL);
 
@@ -235,6 +251,7 @@ __used static OSStatus _RecorderStart(void) {
 
     mIsPaused = false;
     mIsRecording = true;
+    mIsWaitingForDevice = true;
 
     return status;
 }
@@ -246,8 +263,6 @@ __used static OSStatus _RecorderPause(void) {
     }
 
     OSStatus status = noErr;
-    NSError *error = nil;
-    BOOL succeed = NO;
 
     status = AudioQueuePause(mQueueRef);
 
@@ -257,14 +272,7 @@ __used static OSStatus _RecorderPause(void) {
 
     mIsPaused = true;
     mIsRecording = false;
-
-    succeed = [[AVAudioSession sharedInstance] setActive:NO
-                                             withOptions:AVAudioSessionSetActiveOptionNotifyOthersOnDeactivation
-                                                   error:&error];
-
-    if (!succeed) {
-        NSLog(@"- [AVAudioSession setActive:withOptions:error:] error = %@", error);
-    }
+    mIsWaitingForDevice = false;
 
     return status;
 }
@@ -276,8 +284,6 @@ __used static OSStatus _RecorderStop(bool stopImmediately, bool deactivateSessio
     }
 
     OSStatus status = noErr;
-    NSError *error = nil;
-    BOOL succeed = NO;
 
     UInt32 *magicCookie = NULL;
     UInt32 cookieSize = 0;
@@ -313,18 +319,12 @@ __used static OSStatus _RecorderStop(bool stopImmediately, bool deactivateSessio
     status = noErr;
 
     if (deactivateSession) {
-        succeed = [[AVAudioSession sharedInstance] setActive:NO
-                                                 withOptions:AVAudioSessionSetActiveOptionNotifyOthersOnDeactivation
-                                                       error:&error];
-
-        if (!succeed) {
-            NSLog(@"- [AVAudioSession setActive:withOptions:error:] error = %@", error);
-        }
     }
 
     if (stopImmediately) {
         mIsPaused = false;
         mIsRecording = false;
+        mIsWaitingForDevice = false;
     }
 
     return status;
@@ -429,13 +429,17 @@ int main(int argc, const char *argv[]) {
             sigaction(SIGUSR2, &act, &oldact);
         }
 
+        if (mIsWaitingForDevice) {
+            printf("Recording > Waiting for device...\n");
+        }
+
         printf("Recording > Press <Ctrl+C> to stop.\n");
 
         OSStatus timingStatus = noErr;
         NSTimeInterval lastReportedTimeInSeconds = 0.0;
         NSTimeInterval currentTimeInSeconds = 0.0;
 
-        while (mIsRecording || mIsPaused) {
+        while (mIsRecording || mIsPaused || mIsWaitingForDevice) {
             CFRunLoopRunInMode(kCFRunLoopDefaultMode, 1e-2, true);
 
             timingStatus = AudioQueueGetCurrentTime(mQueueRef, NULL, &mRecordedTime, NULL);

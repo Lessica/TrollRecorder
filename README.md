@@ -4,21 +4,21 @@ Not the first, but the best phone call recorder with [TrollStore](https://ios.cf
 
 [now-on-havoc]: https://havoc.app/package/trollrecorder
 
-[<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
+[<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" alt="Get It On Havoc" />][now-on-havoc]
 
 ![Screenshot](./res/screenshot.png)
 
 - Supports iOS 15.0 to iOS 17.0
 - **No iOS 14 support.**
 
-#### Jailbreak Version
+## Jailbreak Version
 
 Popular jailbreaks are also supported. Get [TrollRecorder JB](https://havoc.app/package/trollrecorderjb).
 
 - Rootless jailbreaks: [Dopamine](https://github.com/opa334/Dopamine) / [palera1n](https://palera.in/)
 - Legacy jailbreaks: [unc0ver](https://unc0ver.dev/) / [checkra1n](https://checkra.in/)
 
-#### About Other Installation Methods
+## Other Installation Methods
 
 - There're no additional support for RootHide. Use TrollStore version instead.
 - [eSign](https://twitter.com/EsignPatch) or [LiveContainer](https://github.com/khanhduytran0/LiveContainer) are not supported due to their own limitations.
@@ -110,9 +110,8 @@ A botch job is a waste of time. That's why we always built our app in the best q
 ## Special Thanks
 
 - [TrollStore](https://github.com/opa334/TrollStore) and [Dopamine](https://github.com/opa334/Dopamine) by [@opa334dev](https://twitter.com/opa334dev)
-- [AudioRecorder XS](https://limneos.net/audiorecorderxs/), [User Interface without SpringBoard](https://github.com/limneos/UIDaemon) and [iOS Runtime Headers](https://developer.limneos.net/) by [@limneos](https://twitter.com/limneos), one of my favourite developer.
+- [AudioRecorder XS](https://limneos.net/audiorecorderxs/) by [@limneos](https://twitter.com/limneos)
 - [CallAssist](https://buy.htv123.com) by [@xybp888](https://github.com/xybp888)
-- [LearnAudioToolBox](https://github.com/liuxinxiaoyue/LearnAudioToolBox) by [@liuxinxiaoyue](https://github.com/liuxinxiaoyue)
 
 ## Translators
 

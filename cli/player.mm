@@ -1,3 +1,10 @@
+//
+//  player.mm
+//  TrollRecorder
+//
+//  Created by Lessica on 2024/2/10.
+//
+
 #import <AVFAudio/AVFAudio.h>
 #import <AVFoundation/AVFoundation.h>
 #import <AudioToolbox/AudioToolbox.h>

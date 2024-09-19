@@ -4,6 +4,8 @@ TARGET := iphone:clang:latest:15.0
 INSTALL_TARGET_PROCESSES += audio-player
 INSTALL_TARGET_PROCESSES += audio-recorder
 INSTALL_TARGET_PROCESSES += audio-mixer
+
+INSTALL_TARGET_PROCESSES += call-recorder
 INSTALL_TARGET_PROCESSES += call-monitor
 
 include $(THEOS)/makefiles/common.mk
@@ -11,6 +13,8 @@ include $(THEOS)/makefiles/common.mk
 TOOL_NAME += audio-player
 TOOL_NAME += audio-recorder
 TOOL_NAME += audio-mixer
+
+TOOL_NAME += call-recorder
 TOOL_NAME += call-monitor
 
 audio-player_USE_MODULES := 0
@@ -39,6 +43,15 @@ audio-mixer_CCFLAGS += -std=gnu++17
 audio-mixer_CODESIGN_FLAGS += -Scli/mixer.plist
 audio-mixer_FRAMEWORKS += AudioToolbox AVFAudio
 audio-mixer_INSTALL_PATH += /usr/local/bin
+
+call-recorder_USE_MODULES := 0
+call-recorder_FILES += cli/call-recorder.mm
+call-recorder_CFLAGS += -fobjc-arc
+call-recorder_CFLAGS += -Iinclude
+call-recorder_CCFLAGS += -std=gnu++17
+call-recorder_CODESIGN_FLAGS += -Scli/call-recorder.plist
+call-recorder_FRAMEWORKS += AudioToolbox AVFAudio
+call-recorder_INSTALL_PATH += /usr/local/bin
 
 call-monitor_USE_MODULES := 0
 call-monitor_FILES += cli/call-monitor.mm
