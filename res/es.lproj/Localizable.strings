@@ -164,6 +164,9 @@
 "answer" = "responder";
 
 /* Translated with Microsoft Translator */
+"answered" = "respondió";
+
+/* Translated with Microsoft Translator */
 "App Icon" = "Icono de la aplicación";
 
 /* No comment provided by engineer. */
@@ -403,6 +406,9 @@
 /* Translated with Microsoft Translator */
 "Confirm" = "Confirme";
 
+/* Translated with Microsoft Translator */
+"connected" = "conectado";
+
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Clientes conectados: %d";
 
@@ -519,6 +525,9 @@
 
 /* Translated with Microsoft Translator */
 "decline" = "descenso";
+
+/* Translated with Microsoft Translator */
+"Default" = "Por defecto";
 
 /* No comment provided by engineer. */
 "Delete" = "Borrar";
@@ -995,9 +1004,6 @@
 "Item #%lu" = "Artículo #%lu";
 
 /* Translated with Microsoft Translator */
-"Item not found." = "Artículo no encontrado.";
-
-/* Translated with Microsoft Translator */
 "Just in case that you love it." = "Por si acaso te encanta.";
 
 /* Translated with Microsoft Translator */
@@ -1257,9 +1263,6 @@
 
 /* Translated with Microsoft Translator */
 "Operation Succeed" = "Operación Éxito";
-
-/* Translated with Microsoft Translator */
-"Operation timed out." = "Operación finalizada.";
 
 /* Translated with Microsoft Translator */
 "Operator Name" = "Nombre del operador";
@@ -1594,6 +1597,9 @@
 /* No comment provided by engineer. */
 "Select" = "Seleccione";
 
+/* Translated with Microsoft Translator */
+"Select a downloaded voice for any Voice-Over scenarios." = "Selecciona una voz descargada para cualquier escenario de Voice-Over.";
+
 /* No comment provided by engineer. */
 "Select a recording to play." = "Selecciona una grabación para reproducirla.";
 
@@ -1730,9 +1736,6 @@
 "status" = "estado";
 
 /* Translated with Microsoft Translator */
-"Status is not available." = "El estado no está disponible.";
-
-/* Translated with Microsoft Translator */
 "Stay tuned. We’re recording your call in the background." = "Permanezca atento. Estamos grabando su llamada en segundo plano.";
 
 /* No comment provided by engineer. */
@@ -1761,9 +1764,6 @@
 
 /* Translated with Microsoft Translator */
 "Suggested Applications" = "Aplicaciones sugeridas";
-
-/* Translated with Microsoft Translator */
-"Summary is not available." = "El resumen no está disponible.";
 
 /* Translated with Microsoft Translator */
 "Sync" = "Sincroniza";
@@ -1872,6 +1872,9 @@
 
 /* No comment provided by engineer. */
 "The location where the recording was recorded." = "La ubicación donde se grabó el audio.";
+
+/* Translated with Microsoft Translator */
+"The maximum seconds to wait for calls to be connected." = "Los segundos máximos de espera para que se conecten las llamadas.";
 
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "Los metadatos de ubicación faltantes se rellenarán si abres la aplicación justo después de la grabación.";
@@ -2226,6 +2229,18 @@
 
 /* Translated with Microsoft Translator */
 "Voice-Over Text" = "Texto en off";
+
+/* Translated with Microsoft Translator */
+"Voice-Over Voice" = "Voz en off";
+
+/* Translated with Microsoft Translator */
+"wait" = "espere";
+
+/* Translated with Microsoft Translator */
+"Wait for any calls to be answered and connected." = "Espere a que las llamadas sean contestadas y conectadas.";
+
+/* Translated with Microsoft Translator */
+"Wait for Connected Calls" = "Esperar llamadas conectadas";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Atención, su llamada está siendo grabada. Atención, su llamada está siendo grabada.";

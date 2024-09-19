@@ -164,6 +164,9 @@
 "answer" = "answer";
 
 /* No comment provided by engineer. */
+"answered" = "answered";
+
+/* No comment provided by engineer. */
 "App Icon" = "App Icon";
 
 /* No comment provided by engineer. */
@@ -404,6 +407,9 @@
 "Confirm" = "Confirm";
 
 /* No comment provided by engineer. */
+"connected" = "connected";
+
+/* No comment provided by engineer. */
 "Connected Clients: %d" = "Connected Clients: %d";
 
 /* No comment provided by engineer. */
@@ -519,6 +525,9 @@
 
 /* No comment provided by engineer. */
 "decline" = "decline";
+
+/* No comment provided by engineer. */
+"Default" = "Default";
 
 /* No comment provided by engineer. */
 "Delete" = "Delete";
@@ -995,9 +1004,6 @@
 "Item #%lu" = "Item #%lu";
 
 /* No comment provided by engineer. */
-"Item not found." = "Item not found.";
-
-/* No comment provided by engineer. */
 "Just in case that you love it." = "Just in case that you love it.";
 
 /* No comment provided by engineer. */
@@ -1257,9 +1263,6 @@
 
 /* No comment provided by engineer. */
 "Operation Succeed" = "Operation Succeed";
-
-/* No comment provided by engineer. */
-"Operation timed out." = "Operation timed out.";
 
 /* No comment provided by engineer. */
 "Operator Name" = "Operator Name";
@@ -1595,6 +1598,9 @@
 "Select" = "Select";
 
 /* No comment provided by engineer. */
+"Select a downloaded voice for any Voice-Over scenarios." = "Select a downloaded voice for any Voice-Over scenarios.";
+
+/* No comment provided by engineer. */
 "Select a recording to play." = "Select a recording to play.";
 
 /* No comment provided by engineer. */
@@ -1730,9 +1736,6 @@
 "status" = "status";
 
 /* No comment provided by engineer. */
-"Status is not available." = "Status is not available.";
-
-/* No comment provided by engineer. */
 "Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
 /* No comment provided by engineer. */
@@ -1761,9 +1764,6 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "Suggested Applications";
-
-/* No comment provided by engineer. */
-"Summary is not available." = "Summary is not available.";
 
 /* No comment provided by engineer. */
 "Sync" = "Sync";
@@ -1872,6 +1872,9 @@
 
 /* No comment provided by engineer. */
 "The location where the recording was recorded." = "The location where the recording was recorded.";
+
+/* No comment provided by engineer. */
+"The maximum seconds to wait for calls to be connected." = "The maximum seconds to wait for calls to be connected.";
 
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "The missing location metadata will be populated if you open the application right after the recording.";
@@ -2226,6 +2229,18 @@
 
 /* No comment provided by engineer. */
 "Voice-Over Text" = "Voice-Over Text";
+
+/* No comment provided by engineer. */
+"Voice-Over Voice" = "Voice-Over Voice";
+
+/* No comment provided by engineer. */
+"wait" = "wait";
+
+/* No comment provided by engineer. */
+"Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
+
+/* No comment provided by engineer. */
+"Wait for Connected Calls" = "Wait for Connected Calls";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Warning, your call is being recorded now. Warning, your call is being recorded now.";

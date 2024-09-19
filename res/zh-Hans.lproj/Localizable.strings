@@ -164,6 +164,9 @@
 "answer" = "应答";
 
 /* No comment provided by engineer. */
+"answered" = "已接听";
+
+/* No comment provided by engineer. */
 "App Icon" = "应用程序图标";
 
 /* No comment provided by engineer. */
@@ -344,7 +347,7 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "打开此开关，使去电被对方接听时才自动开始录音。来电总是在被接听时才自动开始录音。";
 
 /* No comment provided by engineer. */
-"Call State" = "调用状态";
+"Call State" = "通话状态";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
@@ -402,6 +405,9 @@
 
 /* No comment provided by engineer. */
 "Confirm" = "确认";
+
+/* No comment provided by engineer. */
+"connected" = "已连接";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已连接客户端：%d";
@@ -519,6 +525,9 @@
 
 /* No comment provided by engineer. */
 "decline" = "拒接";
+
+/* No comment provided by engineer. */
+"Default" = "缺省";
 
 /* No comment provided by engineer. */
 "Delete" = "删除";
@@ -995,9 +1004,6 @@
 "Item #%lu" = "项 #%lu";
 
 /* No comment provided by engineer. */
-"Item not found." = "未找到项目。";
-
-/* No comment provided by engineer. */
 "Just in case that you love it." = "但愿你喜欢。";
 
 /* No comment provided by engineer. */
@@ -1257,9 +1263,6 @@
 
 /* No comment provided by engineer. */
 "Operation Succeed" = "操作成功";
-
-/* No comment provided by engineer. */
-"Operation timed out." = "操作超时";
 
 /* No comment provided by engineer. */
 "Operator Name" = "运营商名称";
@@ -1595,6 +1598,9 @@
 "Select" = "选择";
 
 /* No comment provided by engineer. */
+"Select a downloaded voice for any Voice-Over scenarios." = "为任何 Voice-Over 场景选择一个已下载的语音。";
+
+/* No comment provided by engineer. */
 "Select a recording to play." = "选择一个录音播放。";
 
 /* No comment provided by engineer. */
@@ -1730,9 +1736,6 @@
 "status" = "状态";
 
 /* No comment provided by engineer. */
-"Status is not available." = "状态不可用";
-
-/* No comment provided by engineer. */
 "Stay tuned. We’re recording your call in the background." = "巨魔录音机正在后台录制此次通话。";
 
 /* No comment provided by engineer. */
@@ -1761,9 +1764,6 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "建议应用";
-
-/* No comment provided by engineer. */
-"Summary is not available." = "概览不可用";
 
 /* No comment provided by engineer. */
 "Sync" = "同步";
@@ -1872,6 +1872,9 @@
 
 /* No comment provided by engineer. */
 "The location where the recording was recorded." = "音频录制的位置。";
+
+/* No comment provided by engineer. */
+"The maximum seconds to wait for calls to be connected." = "等待接通电话的最长秒数。";
 
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "如果你在录音结束后的一段时间内打开应用程序，缺失的位置元数据将被填充。";
@@ -2226,6 +2229,18 @@
 
 /* No comment provided by engineer. */
 "Voice-Over Text" = "Voice-Over 文本";
+
+/* No comment provided by engineer. */
+"Voice-Over Voice" = "Voice-Over 语音";
+
+/* No comment provided by engineer. */
+"wait" = "等待";
+
+/* No comment provided by engineer. */
+"Wait for any calls to be answered and connected." = "等待任意通话被接听并接通。";
+
+/* No comment provided by engineer. */
+"Wait for Connected Calls" = "等待接通";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "警告，您的通话正在被录音。警告，您的通话正在被录音。";

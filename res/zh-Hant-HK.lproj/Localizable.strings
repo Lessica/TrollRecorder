@@ -163,6 +163,9 @@
 /* TODO */
 "answer" = "answer";
 
+/* TODO */
+"answered" = "answered";
+
 /* No comment provided by engineer. */
 "App Icon" = "應用程式圖標";
 
@@ -403,6 +406,9 @@
 /* No comment provided by engineer. */
 "Confirm" = "確認";
 
+/* TODO */
+"connected" = "connected";
+
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連線客戶端：%d";
 
@@ -519,6 +525,9 @@
 
 /* TODO */
 "decline" = "decline";
+
+/* TODO */
+"Default" = "Default";
 
 /* No comment provided by engineer. */
 "Delete" = "刪除";
@@ -994,9 +1003,6 @@
 /* No comment provided by engineer. */
 "Item #%lu" = "項 #%lu";
 
-/* TODO */
-"Item not found." = "Item not found.";
-
 /* No comment provided by engineer. */
 "Just in case that you love it." = "但願你鍾意。";
 
@@ -1257,9 +1263,6 @@
 
 /* No comment provided by engineer. */
 "Operation Succeed" = "操作成功";
-
-/* TODO */
-"Operation timed out." = "Operation timed out.";
 
 /* No comment provided by engineer. */
 "Operator Name" = "運營商名稱";
@@ -1594,6 +1597,9 @@
 /* No comment provided by engineer. */
 "Select" = "選擇";
 
+/* TODO */
+"Select a downloaded voice for any Voice-Over scenarios." = "Select a downloaded voice for any Voice-Over scenarios.";
+
 /* No comment provided by engineer. */
 "Select a recording to play." = "選擇一個錄音播放。";
 
@@ -1729,9 +1735,6 @@
 /* TODO */
 "status" = "status";
 
-/* TODO */
-"Status is not available." = "Status is not available.";
-
 /* No comment provided by engineer. */
 "Stay tuned. We’re recording your call in the background." = "請繼續。我們正在背景錄製您的通話。";
 
@@ -1761,9 +1764,6 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "建議應用程式";
-
-/* TODO */
-"Summary is not available." = "Summary is not available.";
 
 /* No comment provided by engineer. */
 "Sync" = "同步";
@@ -1872,6 +1872,9 @@
 
 /* No comment provided by engineer. */
 "The location where the recording was recorded." = "音訊錄製的位置。";
+
+/* TODO */
+"The maximum seconds to wait for calls to be connected." = "The maximum seconds to wait for calls to be connected.";
 
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "如果你在錄音結束後的一段時間內打開應用程式，缺失的位置元數據將被填充。";
@@ -2226,6 +2229,18 @@
 
 /* TODO */
 "Voice-Over Text" = "Voice-Over Text";
+
+/* TODO */
+"Voice-Over Voice" = "Voice-Over Voice";
+
+/* TODO */
+"wait" = "wait";
+
+/* TODO */
+"Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
+
+/* TODO */
+"Wait for Connected Calls" = "Wait for Connected Calls";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "警告，您的通話正在被錄音。 警告，您的通話正在被錄音。";

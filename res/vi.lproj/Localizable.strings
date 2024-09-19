@@ -164,6 +164,9 @@
 "answer" = "answer";
 
 /* TODO */
+"answered" = "answered";
+
+/* TODO */
 "App Icon" = "App Icon";
 
 /* No comment provided by engineer. */
@@ -403,6 +406,9 @@
 /* TODO */
 "Confirm" = "Confirm";
 
+/* TODO */
+"connected" = "connected";
+
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Khách hàng được kết nối: %d";
 
@@ -519,6 +525,9 @@
 
 /* TODO */
 "decline" = "decline";
+
+/* TODO */
+"Default" = "Default";
 
 /* No comment provided by engineer. */
 "Delete" = "Xoá";
@@ -995,9 +1004,6 @@
 "Item #%lu" = "Item #%lu";
 
 /* TODO */
-"Item not found." = "Item not found.";
-
-/* TODO */
 "Just in case that you love it." = "Just in case that you love it.";
 
 /* TODO */
@@ -1257,9 +1263,6 @@
 
 /* TODO */
 "Operation Succeed" = "Operation Succeed";
-
-/* TODO */
-"Operation timed out." = "Operation timed out.";
 
 /* TODO */
 "Operator Name" = "Operator Name";
@@ -1594,6 +1597,9 @@
 /* No comment provided by engineer. */
 "Select" = "Lựa chọn";
 
+/* TODO */
+"Select a downloaded voice for any Voice-Over scenarios." = "Select a downloaded voice for any Voice-Over scenarios.";
+
 /* No comment provided by engineer. */
 "Select a recording to play." = "Chọn một bản ghi âm để phát.";
 
@@ -1730,9 +1736,6 @@
 "status" = "status";
 
 /* TODO */
-"Status is not available." = "Status is not available.";
-
-/* TODO */
 "Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
 
 /* No comment provided by engineer. */
@@ -1761,9 +1764,6 @@
 
 /* TODO */
 "Suggested Applications" = "Suggested Applications";
-
-/* TODO */
-"Summary is not available." = "Summary is not available.";
 
 /* TODO */
 "Sync" = "Sync";
@@ -1872,6 +1872,9 @@
 
 /* No comment provided by engineer. */
 "The location where the recording was recorded." = "Vị trí nơi ghi âm được ghi lại.";
+
+/* TODO */
+"The maximum seconds to wait for calls to be connected." = "The maximum seconds to wait for calls to be connected.";
 
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "Siêu dữ liệu vị trí bị thiếu sẽ được điền nếu bạn mở ứng dụng ngay sau khi ghi.";
@@ -2226,6 +2229,18 @@
 
 /* TODO */
 "Voice-Over Text" = "Voice-Over Text";
+
+/* TODO */
+"Voice-Over Voice" = "Voice-Over Voice";
+
+/* TODO */
+"wait" = "wait";
+
+/* TODO */
+"Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
+
+/* TODO */
+"Wait for Connected Calls" = "Wait for Connected Calls";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ. Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.";
