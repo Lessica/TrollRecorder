@@ -31,19 +31,23 @@
 #import "ATAudioTapDescription.h"
 #import "AudioQueue+Private.h"
 
-#define SAMPLING_RATE 8000.0
-#define NUM_BUFFERS 40
-#define DETECTBUFFERLEN 8192
+#pragma mark - Defines
+
+#define SAMPLE_RATE 8000.0
+#define NUM_BUF 40
+#define DETECT_BUFLEN 8192
 
 #define MIN_TONE_LENGTH 0.045
 #define FRAMES_PER_TONE 2
 #define BYTES_PER_CHANNEL 2
-#define BUFFER_SIZE ((int)(MIN_TONE_LENGTH * SAMPLING_RATE * BYTES_PER_CHANNEL) / FRAMES_PER_TONE)
+#define BUFFER_SIZE ((int)(MIN_TONE_LENGTH * SAMPLE_RATE * BYTES_PER_CHANNEL) / FRAMES_PER_TONE)
 
-#define NUM_FREQS 8
+#define NUM_FREQ 8
 
 #define kMinNoiseToleranceFactor 1.5
 #define kMaxNoiseToleranceFactor 6.5
+
+#pragma mark - Structs
 
 struct FilterCoefficientsEntry {
     double unityGainCorrection;
@@ -54,7 +58,7 @@ struct FilterCoefficientsEntry {
 typedef struct {
     AudioStreamBasicDescription dataFormat;
     AudioQueueRef queue;
-    AudioQueueBufferRef buffers[NUM_BUFFERS];
+    AudioQueueBufferRef buffers[NUM_BUF];
     BOOL isRecording;
     SInt64 currentPacket;
     short filteredBuffer[BUFFER_SIZE];
@@ -63,17 +67,10 @@ typedef struct {
     ATAudioTap *audioTap;
 } RecordState;
 
-static double powers[NUM_FREQS];     // Location to store the powers for all the frequencies.
-static double filterBuf0[NUM_FREQS]; // Buffer for the IIR filter slot 0.
-static double filterBuf1[NUM_FREQS]; // Buffer for the IIR filter slot 1.
-static char holdingBuffer[2];
-static int holdingBufferCount[2];
-static int powerMeasurementMethod; // 0 = Peak Value -> RMS, 1 = Sqrt of Sum of Squares, 2 = Sum of Abs Values
-static BOOL rawOutput;
-static double noiseToleranceFactor;
+#pragma mark - Constants
 
 // Filter coefficients
-static const struct FilterCoefficientsEntry filterCoefficients[NUM_FREQS] = {
+static const struct FilterCoefficientsEntry filterCoefficients[NUM_FREQ] = {
     {0.002729634465943104, 1.703076309365611, 0.994540731068114},   // 697 Hz
     {0.003014658069540622, 1.640321076289727, 0.9939706838609188},  // 770 Hz
     {0.003334626751652912, 1.563455998285116, 0.9933307464966943},  // 852 Hz
@@ -90,6 +87,19 @@ static const char dtmfCodes[4][4] = {
     {'7', '8', '9', 'C'},
     {'*', '0', '#', 'D'},
 };
+
+#pragma mark - Variables
+
+static double powers[NUM_FREQ];     // Location to store the powers for all the frequencies.
+static double filterBuf0[NUM_FREQ]; // Buffer for the IIR filter slot 0.
+static double filterBuf1[NUM_FREQ]; // Buffer for the IIR filter slot 1.
+static char holdingBuffer[2];
+static int holdingBufferCount[2];
+static int powerMeasurementMethod; // 0 = Peak Value -> RMS, 1 = Sqrt of Sum of Squares, 2 = Sum of Abs Values
+static BOOL rawOutput;
+static double noiseToleranceFactor;
+
+#pragma mark - Functions
 
 // BpRe/100/frequency == Bandpass resonator, Q=100 (0=>Inf), frequency
 // e.g. ./fiview 8000 -i BpRe/100/1336
@@ -110,7 +120,7 @@ static double bandPassFilter(register double val, int filterIndex) {
 static char lookupDTMFCode(void) {
     // Find the highest powered frequency index.
     int max1Index = 0;
-    for (int i = 0; i < NUM_FREQS; i++) {
+    for (int i = 0; i < NUM_FREQ; i++) {
         if (powers[i] >= powers[max1Index])
             max1Index = i;
     }
@@ -124,14 +134,14 @@ static char lookupDTMFCode(void) {
         max2Index = 0;
     }
 
-    for (int i = 0; i < NUM_FREQS; i++) {
+    for (int i = 0; i < NUM_FREQ; i++) {
         if ((powers[i] >= powers[max2Index]) && (i != max1Index))
             max2Index = i;
     }
 
     // Check that fequency 1 and 2 are substantially bigger than any other frequencies.
     BOOL valid = YES;
-    for (int i = 0; i < NUM_FREQS; i++) {
+    for (int i = 0; i < NUM_FREQ; i++) {
         if ((i == max1Index) || (i == max2Index))
             continue;
 
@@ -172,9 +182,11 @@ static char lookupDTMFCode(void) {
     return ' ';
 }
 
-static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer,
-                               const AudioTimeStamp *inStartTime, UInt32 inNumberPacketDescriptions,
-                               const AudioStreamPacketDescription *inPacketDescs) {
+#pragma mark - Audio Callback
+
+static void gAudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueBufferRef inBuffer,
+                                const AudioTimeStamp *inStartTime, UInt32 inNumberPacketDescriptions,
+                                const AudioStreamPacketDescription *inPacketDescs) {
 
     RecordState *recordState = (RecordState *)inUserData;
 
@@ -216,13 +228,13 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
     int t;
     double val;
 
-    for (t = 0; t < NUM_FREQS; t++) {
+    for (t = 0; t < NUM_FREQ; t++) {
         powers[t] = (double)0.0;
     }
 
     // Run the bandpass filter and calculate the power.
     for (i = 0L; i < numberOfSamples; i++) {
-        for (t = 0; t < NUM_FREQS; t++) {
+        for (t = 0; t < NUM_FREQ; t++) {
 
             // Find the highest value.
             switch (powerMeasurementMethod) {
@@ -243,7 +255,7 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
     }
 
     // Scale 0 - 1, then convert into an power value.
-    for (t = 0; t < NUM_FREQS; t++) {
+    for (t = 0; t < NUM_FREQ; t++) {
         switch (powerMeasurementMethod) {
         case 0:
             powers[t] = (powers[t] / (double)32768.0) * ((double)1.0 / sqrt((double)2.0));
@@ -294,7 +306,7 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
                 } else {
                     snprintf(tmp, 20, "%c", holdingBuffer[0]);
                 }
-                if (strlen(recordState->detectBuffer) + strlen(tmp) < DETECTBUFFERLEN) {
+                if (strlen(recordState->detectBuffer) + strlen(tmp) < DETECT_BUFLEN) {
                     strcat(recordState->detectBuffer, tmp);
                     recordState->bufferChanged = YES;
                 }
@@ -311,6 +323,8 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
     AudioQueueEnqueueBuffer(recordState->queue, inBuffer, 0, NULL);
 }
 
+#pragma mark - DTMFDecoder
+
 @interface DTMFDecoder : NSObject {
     AudioStreamBasicDescription mAudioFormat;
     RecordState mRecordState;
@@ -318,26 +332,35 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
     NSInteger mPowerMethod;
 }
 
-- (instancetype)init NS_DESIGNATED_INITIALIZER;
++ (instancetype)sharedDecoder;
+- (instancetype)init NS_UNAVAILABLE;
 - (void)resetBuffer;
 - (void)startRecording;
 - (void)stopRecording;
 - (NSString *)copyBuffer;
 
-- (BOOL)isRecording;
-
-@property(nonatomic, assign, getter=getBufferChanged) BOOL bufferChanged;
-@property(nonatomic, assign, getter=getNoiseLevel) float noiseLevel;
-@property(nonatomic, assign, getter=getPowerMethod) NSInteger powerMethod;
+@property(nonatomic, assign, readonly, getter=isRecording) BOOL recording;
+@property(nonatomic, assign, getter=isBufferChanged) BOOL bufferChanged;
+@property(nonatomic, assign) float noiseLevel;
+@property(nonatomic, assign) NSInteger powerMethod;
 
 @end
 
 @implementation DTMFDecoder
 
++ (instancetype)sharedDecoder {
+    static DTMFDecoder *sharedDecoder = nil;
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
+      sharedDecoder = [[self alloc] init];
+    });
+    return sharedDecoder;
+}
+
 - (instancetype)init {
     self = [super init];
     if (self) {
-        mRecordState.detectBuffer = (char *)calloc(1, DETECTBUFFERLEN);
+        mRecordState.detectBuffer = (char *)calloc(1, DETECT_BUFLEN);
         [self setNoiseLevel:0];
         [self setPowerMethod:0];
         [self resetBuffer];
@@ -355,9 +378,9 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
         holdingBuffer[i] = ' ';
     }
 
-    AudioQueueBufferRef qref[NUM_BUFFERS];
+    AudioQueueBufferRef qref[NUM_BUF];
 
-    mAudioFormat.mSampleRate = SAMPLING_RATE;
+    mAudioFormat.mSampleRate = SAMPLE_RATE;
     mAudioFormat.mFormatID = kAudioFormatLinearPCM;
     mAudioFormat.mFormatFlags = kAudioFormatFlagIsSignedInteger | kAudioFormatFlagIsPacked;
     mAudioFormat.mFramesPerPacket = 1;
@@ -383,7 +406,7 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
     mRecordState.audioTap = [[ATAudioTap alloc] initWithTapDescription:audioTapDescription];
 
     OSStatus status;
-    status = AudioQueueNewInput(&mAudioFormat, AudioInputCallback,
+    status = AudioQueueNewInput(&mAudioFormat, gAudioInputCallback,
                                 &mRecordState, // User Data
                                 CFRunLoopGetCurrent(), kCFRunLoopCommonModes,
                                 0x800, // Reserved
@@ -408,11 +431,12 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
 
     AudioQueueGetProperty(mRecordState.queue, kAudioQueueProperty_StreamDescription, &mAudioFormat, &fsize);
 
-    if (mAudioFormat.mSampleRate != SAMPLING_RATE) {
+    if (mAudioFormat.mSampleRate != SAMPLE_RATE) {
+        HBLogError(@"Expected sample rate is %.1f", mAudioFormat.mSampleRate);
         return;
     }
 
-    for (int i = 0; i < NUM_BUFFERS; ++i) {
+    for (int i = 0; i < NUM_BUF; ++i) {
         // Allocate buffer. Size is in bytes.
         AudioQueueAllocateBuffer(mRecordState.queue, BUFFER_SIZE, &qref[i]);
         AudioQueueEnqueueBuffer(mRecordState.queue, qref[i], 0, NULL);
@@ -423,7 +447,7 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
 }
 
 - (void)resetBuffer {
-    memset(mRecordState.detectBuffer, '\0', DETECTBUFFERLEN);
+    memset(mRecordState.detectBuffer, '\0', DETECT_BUFLEN);
     mRecordState.bufferChanged = YES;
 }
 
@@ -433,13 +457,13 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
     }
     mRecordState.isRecording = NO;
     AudioQueueStop(mRecordState.queue, true);
-    for (int i = 0; i < NUM_BUFFERS; i++) {
+    for (int i = 0; i < NUM_BUF; i++) {
         AudioQueueFreeBuffer(mRecordState.queue, mRecordState.buffers[i]);
     }
     AudioQueueDispose(mRecordState.queue, true);
 }
 
-- (float)getNoiseLevel {
+- (float)noiseLevel {
     return mNoiseLevel;
 }
 
@@ -452,7 +476,7 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
                                     kMinNoiseToleranceFactor);
 }
 
-- (NSInteger)getPowerMethod {
+- (NSInteger)powerMethod {
     return mPowerMethod;
 }
 
@@ -464,7 +488,7 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
     powerMeasurementMethod = (int)powerMethod;
 }
 
-- (BOOL)getBufferChanged {
+- (BOOL)isBufferChanged {
     return mRecordState.bufferChanged;
 }
 
@@ -482,15 +506,17 @@ static void AudioInputCallback(void *inUserData, AudioQueueRef inAQ, AudioQueueB
 
 @end
 
+#pragma mark - Main Procedure
+
 int main(int argc, const char *argv[]) {
     @autoreleasepool {
         static DTMFDecoder *gDecoder;
-        gDecoder = [[DTMFDecoder alloc] init];
+        gDecoder = [DTMFDecoder sharedDecoder];
         [gDecoder startRecording];
         printf("DTMF > Press <Ctrl+C> to stop.\n");
         while ([gDecoder isRecording]) {
             CFRunLoopRunInMode(kCFRunLoopDefaultMode, 1e-2, true);
-            if ([gDecoder getBufferChanged]) {
+            if ([gDecoder isBufferChanged]) {
                 NSLog(@"%@", [gDecoder copyBuffer]);
                 [gDecoder setBufferChanged:NO];
             }
