@@ -67,14 +67,14 @@
 /* No comment provided by engineer. */
 "A new version (%@) of “TrollRecorder” is available." = "有新版本的應用程式 %@ 可用。";
 
-/* TODO */
-"accept" = "accept";
+/* No comment provided by engineer. */
+"accept" = "接聽";
 
-/* TODO */
-"Accept all incoming calls automatically." = "Accept all incoming calls automatically.";
+/* No comment provided by engineer. */
+"Accept all incoming calls automatically." = "自動接聽所有來電。";
 
-/* TODO */
-"Accept Incoming Calls" = "Accept Incoming Calls";
+/* No comment provided by engineer. */
+"Accept Incoming Calls" = "接聽來電";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺裝置的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前景時服務可用。";
@@ -103,8 +103,8 @@
 /* No comment provided by engineer. */
 "Agree" = "同意";
 
-/* TODO */
-"Alias" = "Alias";
+/* No comment provided by engineer. */
+"Alias" = "別稱";
 
 /* No comment provided by engineer. */
 "All Edges" = "所有邊緣";
@@ -142,8 +142,8 @@
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "總是保持懸浮球可見。";
 
-/* TODO */
-"Always Keep-Alive in Background" = "Always Keep-Alive in Background";
+/* No comment provided by engineer. */
+"Always Keep-Alive in Background" = "始終保持背景激活";
 
 /* No comment provided by engineer. */
 "Always Light" = "保持淺色";
@@ -160,11 +160,11 @@
 /* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音訊";
 
-/* TODO */
-"answer" = "answer";
+/* No comment provided by engineer. */
+"answer" = "應答";
 
-/* TODO */
-"answered" = "answered";
+/* No comment provided by engineer. */
+"answered" = "已接聽";
 
 /* No comment provided by engineer. */
 "App Icon" = "應用程式圖標";
@@ -184,11 +184,11 @@
 /* No comment provided by engineer. */
 "Applications" = "應用程式";
 
-/* TODO */
-"archive" = "archive";
+/* No comment provided by engineer. */
+"archive" = "歸檔";
 
-/* TODO */
-"Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
+/* No comment provided by engineer. */
+"Are you sure you want to remove all shortcut definitions?" = "你確定要刪除所有自動化動作嗎？";
 
 /* No comment provided by engineer. */
 "Associate with Call History" = "與通話記錄連結";
@@ -199,8 +199,8 @@
 /* No comment provided by engineer. */
 "Attachable Edges" = "可吸附邊緣";
 
-/* TODO */
-"audio" = "audio";
+/* No comment provided by engineer. */
+"audio" = "音訊";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "音訊壓縮";
@@ -223,7 +223,7 @@
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "當前月份的錄音不會被歸檔。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小工具添加到主螢幕任意位置才能使此選項生效。";
 
 /* No comment provided by engineer. */
@@ -247,8 +247,8 @@
 /* No comment provided by engineer. */
 "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解鎖後自動上滑進入主熒幕。鎖定後 10 秒内解鎖，此動作將不會生效。";
 
-/* TODO */
-"Automation" = "Automation";
+/* No comment provided by engineer. */
+"Automation" = "自動化";
 
 /* No comment provided by engineer. */
 "Available for Lifetime" = "一次購買終身可用";
@@ -262,11 +262,11 @@
 /* No comment provided by engineer. */
 "Background Style" = "背景樣式";
 
-/* TODO */
-"backup" = "backup";
+/* No comment provided by engineer. */
+"backup" = "備份";
 
-/* TODO */
-"Backup Synchronized" = "Backup Synchronized";
+/* No comment provided by engineer. */
+"Backup Synchronized" = "備份同步結束時";
 
 /* No comment provided by engineer. */
 "Backup with iCloud" = "通過 iCloud 備份";
@@ -316,26 +316,26 @@
 /* No comment provided by engineer. */
 "Calculating…" = "計算中…";
 
-/* TODO */
-"Call" = "Call";
+/* No comment provided by engineer. */
+"Call" = "通話";
 
-/* TODO */
-"call" = "call";
+/* No comment provided by engineer. */
+"call" = "通話";
 
-/* TODO */
-"Call Direction" = "Call Direction";
+/* No comment provided by engineer. */
+"Call Direction" = "通話方向";
 
-/* TODO */
-"Call Identifier" = "Call Identifier";
+/* No comment provided by engineer. */
+"Call Identifier" = "通話標識符";
 
 /* No comment provided by engineer. */
 "Call Recording" = "通話錄音";
 
-/* TODO */
-"Call Recording Begins" = "Call Recording Begins";
+/* No comment provided by engineer. */
+"Call Recording Begins" = "通話錄音開始時";
 
-/* TODO */
-"Call Recording Ends" = "Call Recording Ends";
+/* No comment provided by engineer. */
+"Call Recording Ends" = "通話錄音結束時";
 
 /* No comment provided by engineer. */
 "Call recording from “%@” and other %ld applications." = "來自 “%@” 和其他 %ld 個應用程式的通話錄音";
@@ -346,8 +346,8 @@
 /* No comment provided by engineer. */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "打開此開關，使去電被對方接聽時才自動開始錄音。 來電總是在被接聽時才自動開始錄音。";
 
-/* TODO */
-"Call State" = "Call State";
+/* No comment provided by engineer. */
+"Call State" = "通話狀態";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
@@ -355,8 +355,8 @@
 /* No comment provided by engineer. */
 "Cannot parse text with UTF-8 encoding: “%@”." = "無法使用 UTF-8 編碼解析文本: “%@”。";
 
-/* TODO */
-"Caution" = "Caution";
+/* No comment provided by engineer. */
+"Caution" = "注意";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "啟動時檢查更新";
@@ -406,8 +406,8 @@
 /* No comment provided by engineer. */
 "Confirm" = "確認";
 
-/* TODO */
-"connected" = "connected";
+/* No comment provided by engineer. */
+"connected" = "已連線";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連線客戶端：%d";
@@ -418,11 +418,11 @@
 /* No comment provided by engineer. */
 "Contact Exceptions" = "聯絡人例外";
 
-/* TODO */
-"Contact Name" = "Contact Name";
+/* No comment provided by engineer. */
+"Contact Name" = "聯絡人名稱";
 
-/* TODO */
-"Contact Phone Address" = "Contact Phone Address";
+/* No comment provided by engineer. */
+"Contact Phone Address" = "聯絡人電話號碼";
 
 /* No comment provided by engineer. */
 "Contact Us" = "聯係我們";
@@ -523,11 +523,11 @@
 /* No comment provided by engineer. */
 "Debugging" = "調試";
 
-/* TODO */
-"decline" = "decline";
+/* No comment provided by engineer. */
+"decline" = "拒接";
 
-/* TODO */
-"Default" = "Default";
+/* No comment provided by engineer. */
+"Default" = "缺省";
 
 /* No comment provided by engineer. */
 "Delete" = "刪除";
@@ -559,11 +559,11 @@
 /* No comment provided by engineer. */
 "Direction Description" = "通話方向（描述）";
 
-/* TODO */
-"directory" = "directory";
+/* No comment provided by engineer. */
+"directory" = "目錄";
 
-/* TODO */
-"Directory" = "Directory";
+/* No comment provided by engineer. */
+"Directory" = "目錄";
 
 /* No comment provided by engineer. */
 "Disabled" = "關閉";
