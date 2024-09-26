@@ -635,10 +635,10 @@
 "Don’t ask again" = "묻지 않음";
 
 /* No comment provided by engineer. */
-"Double tap to restore __all edges__  \nto their default sizes." = "__모든 가장자리__를 기본 크기로 \n복원하려면 두 번 탭하세요.";
+"Double tap to restore __all edges__  \nto their default sizes." = "__모든 가장자리__ 를 기본 크기로 \n복원하려면 두 번 탭하세요.";
 
 /* No comment provided by engineer. */
-"Drag __here__ to adjust  \nthe size of the ___%@___." = "__여기__를 드래그하여 \n___%@___의 크기를 조정하세요.";
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "__여기__ 를 드래그하여  \n___%@___ 의 크기를 조정하세요.";
 
 /* No comment provided by engineer. */
 "Dropbox" = "DropBox";
@@ -1071,6 +1071,9 @@
 
 /* No comment provided by engineer. */
 "Long Date" = "긴 날짜";
+
+/* TODO */
+"Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
 
 /* No comment provided by engineer. */
 "Long Time" = "긴 시간";
@@ -1866,6 +1869,9 @@
 
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "현재 오디오 파일의 파일 포맷입니다.";
+
+/* TODO */
+"The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "녹음이 진행되는 동안 위치 메타데이터가 지속적으로 업데이트됩니다.";

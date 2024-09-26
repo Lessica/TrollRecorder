@@ -1072,6 +1072,9 @@
 /* No comment provided by engineer. */
 "Long Date" = "長日期";
 
+/* TODO */
+"Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
+
 /* No comment provided by engineer. */
 "Long Time" = "長時間";
 
@@ -1866,6 +1869,9 @@
 
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "當前音訊文件的文件格式。";
+
+/* TODO */
+"The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "如果在錄音過程中地理位置發生變化，將更新同步到錄音元數據中。";
