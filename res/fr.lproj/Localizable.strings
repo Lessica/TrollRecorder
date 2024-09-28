@@ -880,6 +880,9 @@
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Masquer l'application “Memos vocaux” de l'écran de verrouillage, et masquer ses activités “Dynamic Island”. Cette fonctionnalité peut nécessiter un ressort pour prendre effet.";
 
+/* TODO */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Masquer lors de la capture d'écran";
 

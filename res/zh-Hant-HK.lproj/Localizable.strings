@@ -880,6 +880,9 @@
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏 “語音備忘錄” 在鎖屏界面上的顯示，並隱藏其 “動態島” 活動。此功能可能需要妙手回春才能完全生效。";
 
+/* TODO */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏時隱藏";
 

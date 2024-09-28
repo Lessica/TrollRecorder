@@ -880,6 +880,9 @@
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "잠금 화면에서 “음성 메모” 앱을 숨기고 “Dynamic Island” 활동을 숨깁니다. 이 기능을 적용하려면 리스프링이 필요할 수 있습니다.";
 
+/* TODO */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "스크린샷 촬영 시 숨기기";
 
