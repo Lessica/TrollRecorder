@@ -106,6 +106,9 @@
 /* No comment provided by engineer. */
 "Alias" = "별명";
 
+/* TODO */
+"alive" = "alive";
+
 /* No comment provided by engineer. */
 "All Edges" = "모든 가장자리";
 
@@ -295,6 +298,9 @@
 /* No comment provided by engineer. */
 "Boost Periodic Tasks" = "예약된 작업 속도 향상";
 
+/* TODO */
+"Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
+
 /* No comment provided by engineer. */
 "bottom edge" = "하단 가장자리";
 
@@ -357,6 +363,12 @@
 
 /* No comment provided by engineer. */
 "Caution" = "주요 기능";
+
+/* TODO */
+"check" = "check";
+
+/* TODO */
+"Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "시작 시 업데이트 확인";
@@ -445,6 +457,9 @@
 /* No comment provided by engineer. */
 "Contacts Permission Denied" = "연락처 권한 거부됨";
 
+/* TODO */
+"Content" = "Content";
+
 /* No comment provided by engineer. */
 "Content Sharing" = "콘텐츠 공유";
 
@@ -498,6 +513,9 @@
 
 /* No comment provided by engineer. */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "화면에 호버볼을 배치하는 데 도움이 되는 직사각형 영역을 사용자 설정합니다.";
+
+/* TODO */
+"daemon" = "daemon";
 
 /* No comment provided by engineer. */
 "Date & Time" = "날짜 및 시간";
@@ -637,6 +655,9 @@
 /* No comment provided by engineer. */
 "Double tap to restore __all edges__  \nto their default sizes." = "__모든 가장자리__ 를 기본 크기로 \n복원하려면 두 번 탭하세요.";
 
+/* TODO */
+"Downlink (Speaker)" = "Downlink (Speaker)";
+
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "__여기__ 를 드래그하여  \n___%@___ 의 크기를 조정하세요.";
 
@@ -708,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Enhanced Scene Identification" = "향상된 상황 인식";
+
+/* TODO */
+"Ensure Daemon Is Running" = "Ensure Daemon Is Running";
 
 /* No comment provided by engineer. */
 "Enter your password" = "암호 입력";
@@ -1024,6 +1048,9 @@
 /* No comment provided by engineer. */
 "Later" = "나중에";
 
+/* TODO */
+"launch" = "launch";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "종료 시 앱 실행";
 
@@ -1074,6 +1101,9 @@
 
 /* No comment provided by engineer. */
 "Long Date" = "긴 날짜";
+
+/* TODO */
+"Long Press Hoverball" = "Long Press Hoverball";
 
 /* TODO */
 "Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
@@ -1173,6 +1203,15 @@
 
 /* No comment provided by engineer. */
 "Multiple Devices" = "최대 5개 기기에서 동시에 사용";
+
+/* TODO */
+"mute" = "mute";
+
+/* TODO */
+"Mute Existing Calls" = "Mute Existing Calls";
+
+/* TODO */
+"Mute specified channel of all existing calls." = "Mute specified channel of all existing calls.";
 
 /* No comment provided by engineer. */
 "My Favourite" = "즐겨찾기";
@@ -1636,6 +1675,9 @@
 /* No comment provided by engineer. */
 "Server started at: %@" = "서버 시작 시간: %@";
 
+/* TODO */
+"service" = "service";
+
 /* No comment provided by engineer. */
 "Service is alive" = "서비스 정상 실행 중";
 
@@ -1719,6 +1761,9 @@
 
 /* No comment provided by engineer. */
 "Speaker" = "스피커";
+
+/* TODO */
+"speaker" = "speaker";
 
 /* No comment provided by engineer. */
 "start" = "시작";
@@ -2119,6 +2164,15 @@
 /* No comment provided by engineer. */
 "Unmark" = "즐겨찾기 삭제";
 
+/* TODO */
+"unmute" = "unmute";
+
+/* TODO */
+"Unmute Existing Calls" = "Unmute Existing Calls";
+
+/* TODO */
+"Unmute specified channel of all existing calls." = "Unmute specified channel of all existing calls.";
+
 /* No comment provided by engineer. */
 "Unspecified" = "미지정";
 
@@ -2133,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "%@으로 업그레이드";
+
+/* TODO */
+"Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* No comment provided by engineer. */
 "Upload" = "업로드";
@@ -2295,6 +2352,12 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "호버볼이 밝은 스타일을 사용 할지, 어두운 스타일을 사용 할지 여부를 결정합니다.";
+
+/* TODO */
+"Which channel to mute." = "Which channel to mute.";
+
+/* TODO */
+"Which channel to unmute." = "Which channel to unmute.";
 
 /* No comment provided by engineer. */
 "Which edges of the screen the hoverball can be attached to." = "호버볼을 화면의 어느 가장자리에 부착할 수 있나요?";

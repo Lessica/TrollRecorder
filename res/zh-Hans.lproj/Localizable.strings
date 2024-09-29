@@ -107,6 +107,9 @@
 "Alias" = "别名";
 
 /* No comment provided by engineer. */
+"alive" = "存活";
+
+/* No comment provided by engineer. */
 "All Edges" = "所有边缘";
 
 /* No comment provided by engineer. */
@@ -296,6 +299,9 @@
 "Boost Periodic Tasks" = "加速定时任务";
 
 /* No comment provided by engineer. */
+"Both (Microphone & Speaker)" = "双向（麦克风和扬声器）";
+
+/* No comment provided by engineer. */
 "bottom edge" = "底边";
 
 /* No comment provided by engineer. */
@@ -357,6 +363,12 @@
 
 /* No comment provided by engineer. */
 "Caution" = "注意";
+
+/* No comment provided by engineer. */
+"check" = "检查";
+
+/* No comment provided by engineer. */
+"Check if the daemon is running. If not, launch it." = "检查守护进程是否正在运行。如果没有则启动它。";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "启动时检查更新";
@@ -446,6 +458,9 @@
 "Contacts Permission Denied" = "联系人被拒绝访问";
 
 /* No comment provided by engineer. */
+"Content" = "内容";
+
+/* No comment provided by engineer. */
 "Content Sharing" = "内容共享";
 
 /* No comment provided by engineer. */
@@ -498,6 +513,9 @@
 
 /* No comment provided by engineer. */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "自定义一个矩形区域，帮助你在屏幕上定位悬浮球。";
+
+/* No comment provided by engineer. */
+"daemon" = "守护进程";
 
 /* No comment provided by engineer. */
 "Date & Time" = "日期和时间";
@@ -638,6 +656,9 @@
 "Double tap to restore __all edges__  \nto their default sizes." = "轻点两次以恢复 __所有边缘__ 至默认尺寸。";
 
 /* No comment provided by engineer. */
+"Downlink (Speaker)" = "下行（扬声器）";
+
+/* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此处__ 以调节 ___%@___ 的尺寸。";
 
 /* No comment provided by engineer. */
@@ -708,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Enhanced Scene Identification" = "增强通话场景识别";
+
+/* No comment provided by engineer. */
+"Ensure Daemon Is Running" = "检查守护进程";
 
 /* No comment provided by engineer. */
 "Enter your password" = "输入密码";
@@ -1025,6 +1049,9 @@
 "Later" = "以后再说";
 
 /* No comment provided by engineer. */
+"launch" = "启动";
+
+/* No comment provided by engineer. */
 "Launch App at End" = "结束时启动应用";
 
 /* No comment provided by engineer. */
@@ -1074,6 +1101,9 @@
 
 /* No comment provided by engineer. */
 "Long Date" = "长日期";
+
+/* No comment provided by engineer. */
+"Long Press Hoverball" = "长按悬浮球";
 
 /* No comment provided by engineer. */
 "Long press the hoverball to start or stop recording by convenience." = "长按悬浮球以方便地开始或停止录音。";
@@ -1173,6 +1203,15 @@
 
 /* No comment provided by engineer. */
 "Multiple Devices" = "在多达 5 台设备上同时使用";
+
+/* No comment provided by engineer. */
+"mute" = "静音";
+
+/* No comment provided by engineer. */
+"Mute Existing Calls" = "静音现有通话";
+
+/* No comment provided by engineer. */
+"Mute specified channel of all existing calls." = "静音所有通话的指定通道。";
 
 /* No comment provided by engineer. */
 "My Favourite" = "已收藏";
@@ -1637,6 +1676,9 @@
 "Server started at: %@" = "服务已启动：%@";
 
 /* No comment provided by engineer. */
+"service" = "服务";
+
+/* No comment provided by engineer. */
 "Service is alive" = "服务正常运行";
 
 /* No comment provided by engineer. */
@@ -1719,6 +1761,9 @@
 
 /* No comment provided by engineer. */
 "Speaker" = "扬声器";
+
+/* No comment provided by engineer. */
+"speaker" = "扬声器";
 
 /* No comment provided by engineer. */
 "start" = "开始";
@@ -2120,6 +2165,15 @@
 "Unmark" = "取消收藏";
 
 /* No comment provided by engineer. */
+"unmute" = "取消静音";
+
+/* No comment provided by engineer. */
+"Unmute Existing Calls" = "取消静音现有通话";
+
+/* No comment provided by engineer. */
+"Unmute specified channel of all existing calls." = "取消静音所有通话的指定通道。";
+
+/* No comment provided by engineer. */
 "Unspecified" = "未指定";
 
 /* No comment provided by engineer. */
@@ -2133,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "升级到 %@";
+
+/* No comment provided by engineer. */
+"Uplink (Microphone)" = "上行（麦克风）";
 
 /* No comment provided by engineer. */
 "Upload" = "上传";
@@ -2295,6 +2352,12 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "是否强制悬浮球使用浅色或深色样式。";
+
+/* No comment provided by engineer. */
+"Which channel to mute." = "需要静音的通道。";
+
+/* No comment provided by engineer. */
+"Which channel to unmute." = "需要取消静音的通道。";
 
 /* No comment provided by engineer. */
 "Which edges of the screen the hoverball can be attached to." = "悬浮球可以附着在屏幕的哪些边缘。";

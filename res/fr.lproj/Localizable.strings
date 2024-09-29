@@ -106,6 +106,9 @@
 /* Translated with Microsoft Translator */
 "Alias" = "Alias";
 
+/* TODO */
+"alive" = "alive";
+
 /* Translated with Microsoft Translator */
 "All Edges" = "Tous les bords";
 
@@ -295,6 +298,9 @@
 /* Translated with Microsoft Translator */
 "Boost Periodic Tasks" = "Stimuler les tâches périodiques";
 
+/* TODO */
+"Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
+
 /* Translated with Microsoft Translator */
 "bottom edge" = "bord inférieur";
 
@@ -357,6 +363,12 @@
 
 /* Translated with Microsoft Translator */
 "Caution" = "Attention";
+
+/* TODO */
+"check" = "check";
+
+/* TODO */
+"Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
 /* Translated with Microsoft Translator */
 "Check Updates at Launch" = "Vérifier les mises à jour au moment du lancement";
@@ -445,6 +457,9 @@
 /* Translated with Microsoft Translator */
 "Contacts Permission Denied" = "Contacts Permission refusée";
 
+/* TODO */
+"Content" = "Content";
+
 /* Translated with Microsoft Translator */
 "Content Sharing" = "Partage de contenu";
 
@@ -498,6 +513,9 @@
 
 /* Translated with Microsoft Translator */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "Personnalisez une région rectangulaire qui vous aide à positionner le hoverball sur l'écran.";
+
+/* TODO */
+"daemon" = "daemon";
 
 /* Translated with Microsoft Translator */
 "Date & Time" = "Date et heure";
@@ -637,6 +655,9 @@
 /* Translated with Microsoft Translator */
 "Double tap to restore __all edges__  \nto their default sizes." = "Double tapotement pour rétablir __tous les bords__  \ndans leurs tailles par défaut.";
 
+/* TODO */
+"Downlink (Speaker)" = "Downlink (Speaker)";
+
 /* Translated with Microsoft Translator */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Faites glisser __ici__ pour ajuster  \nla taille de la ___%@___.";
 
@@ -708,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Enhanced Scene Identification" = "Identification améliorée des scènes";
+
+/* TODO */
+"Ensure Daemon Is Running" = "Ensure Daemon Is Running";
 
 /* No comment provided by engineer. */
 "Enter your password" = "Entrez votre mot de passe";
@@ -1024,6 +1048,9 @@
 /* Translated with Microsoft Translator */
 "Later" = "Ignorer pendant 7 jours";
 
+/* TODO */
+"launch" = "launch";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "Lancer l'application à la fin";
 
@@ -1074,6 +1101,9 @@
 
 /* Translated with Microsoft Translator */
 "Long Date" = "Date longue";
+
+/* TODO */
+"Long Press Hoverball" = "Long Press Hoverball";
 
 /* TODO */
 "Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
@@ -1173,6 +1203,15 @@
 
 /* No comment provided by engineer. */
 "Multiple Devices" = "Appareils multiples";
+
+/* TODO */
+"mute" = "mute";
+
+/* TODO */
+"Mute Existing Calls" = "Mute Existing Calls";
+
+/* TODO */
+"Mute specified channel of all existing calls." = "Mute specified channel of all existing calls.";
 
 /* Translated with Microsoft Translator */
 "My Favourite" = "Mon préféré";
@@ -1636,6 +1675,9 @@
 /* No comment provided by engineer. */
 "Server started at: %@" = "Serveur démarré à : %@";
 
+/* TODO */
+"service" = "service";
+
 /* Translated with Microsoft Translator */
 "Service is alive" = "Le service est vivant";
 
@@ -1719,6 +1761,9 @@
 
 /* No comment provided by engineer. */
 "Speaker" = "Haut-parleur";
+
+/* TODO */
+"speaker" = "speaker";
 
 /* No comment provided by engineer. */
 "start" = "démarrer";
@@ -2119,6 +2164,15 @@
 /* No comment provided by engineer. */
 "Unmark" = "Démarquer";
 
+/* TODO */
+"unmute" = "unmute";
+
+/* TODO */
+"Unmute Existing Calls" = "Unmute Existing Calls";
+
+/* TODO */
+"Unmute specified channel of all existing calls." = "Unmute specified channel of all existing calls.";
+
 /* Translated with Microsoft Translator */
 "Unspecified" = "Non spécifié";
 
@@ -2133,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Mettre à niveau vers %@";
+
+/* TODO */
+"Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* Translated with Microsoft Translator */
 "Upload" = "Télécharger";
@@ -2295,6 +2352,12 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "Indique si le hoverball global doit utiliser le style clair ou sombre.";
+
+/* TODO */
+"Which channel to mute." = "Which channel to mute.";
+
+/* TODO */
+"Which channel to unmute." = "Which channel to unmute.";
 
 /* Translated with Microsoft Translator */
 "Which edges of the screen the hoverball can be attached to." = "Les bords de l'écran auxquels l'hoverball peut être attaché.";
