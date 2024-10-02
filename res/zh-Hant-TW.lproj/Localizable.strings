@@ -106,6 +106,9 @@
 /* TODO */
 "Alias" = "Alias";
 
+/* TODO */
+"alive" = "alive";
+
 /* No comment provided by engineer. */
 "All Edges" = "所有邊緣";
 
@@ -295,6 +298,9 @@
 /* No comment provided by engineer. */
 "Boost Periodic Tasks" = "加速定時任務";
 
+/* TODO */
+"Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
+
 /* No comment provided by engineer. */
 "bottom edge" = "底部";
 
@@ -357,6 +363,12 @@
 
 /* TODO */
 "Caution" = "Caution";
+
+/* TODO */
+"check" = "check";
+
+/* TODO */
+"Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "啓動時檢查更新";
@@ -445,6 +457,9 @@
 /* No comment provided by engineer. */
 "Contacts Permission Denied" = "聯絡人被拒絕訪問";
 
+/* TODO */
+"Content" = "Content";
+
 /* No comment provided by engineer. */
 "Content Sharing" = "內容共享";
 
@@ -498,6 +513,9 @@
 
 /* No comment provided by engineer. */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "自定義一個矩形區域，幫助你在螢幕上定位懸浮球。";
+
+/* TODO */
+"daemon" = "daemon";
 
 /* No comment provided by engineer. */
 "Date & Time" = "日期和時間";
@@ -637,6 +655,9 @@
 /* No comment provided by engineer. */
 "Double tap to restore __all edges__  \nto their default sizes." = "輕點兩次以恢復 __所有邊緣__ 至默認尺寸。";
 
+/* TODO */
+"Downlink (Speaker)" = "Downlink (Speaker)";
+
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
 
@@ -708,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Enhanced Scene Identification" = "增強通話場景識別";
+
+/* TODO */
+"Ensure Daemon Is Running" = "Ensure Daemon Is Running";
 
 /* No comment provided by engineer. */
 "Enter your password" = "輸入密碼";
@@ -880,6 +904,9 @@
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏 「語音備忘錄」 在鎖屏界面上的顯示，並隱藏其 「靈動島」 活動。此功能可能需要妙手回春才能完全生效。";
 
+/* TODO */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏時隱藏";
 
@@ -1021,6 +1048,9 @@
 /* No comment provided by engineer. */
 "Later" = "以後再說";
 
+/* TODO */
+"launch" = "launch";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "結束時啓動應用";
 
@@ -1071,6 +1101,12 @@
 
 /* No comment provided by engineer. */
 "Long Date" = "長日期";
+
+/* TODO */
+"Long Press Hoverball" = "Long Press Hoverball";
+
+/* TODO */
+"Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
 
 /* No comment provided by engineer. */
 "Long Time" = "長時間";
@@ -1167,6 +1203,15 @@
 
 /* No comment provided by engineer. */
 "Multiple Devices" = "在多達 5 台設備上同時使用";
+
+/* TODO */
+"mute" = "mute";
+
+/* TODO */
+"Mute Existing Calls" = "Mute Existing Calls";
+
+/* TODO */
+"Mute specified channel of all existing calls." = "Mute specified channel of all existing calls.";
 
 /* No comment provided by engineer. */
 "My Favourite" = "已收藏";
@@ -1630,6 +1675,9 @@
 /* No comment provided by engineer. */
 "Server started at: %@" = "服務已啓動：%@";
 
+/* TODO */
+"service" = "service";
+
 /* No comment provided by engineer. */
 "Service is alive" = "服務正常運行";
 
@@ -1713,6 +1761,9 @@
 
 /* No comment provided by engineer. */
 "Speaker" = "揚聲器";
+
+/* TODO */
+"speaker" = "speaker";
 
 /* No comment provided by engineer. */
 "start" = "開始";
@@ -1866,6 +1917,9 @@
 
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "當前音頻文件的文件格式。";
+
+/* TODO */
+"The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "如果在錄音過程中地理位置發生變化，將更新同步到錄音元數據中。";
@@ -2111,6 +2165,15 @@
 "Unmark" = "取消收藏";
 
 /* TODO */
+"unmute" = "unmute";
+
+/* TODO */
+"Unmute Existing Calls" = "Unmute Existing Calls";
+
+/* TODO */
+"Unmute specified channel of all existing calls." = "Unmute specified channel of all existing calls.";
+
+/* TODO */
 "Unspecified" = "Unspecified";
 
 /* No comment provided by engineer. */
@@ -2124,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "升級到 %@";
+
+/* TODO */
+"Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* No comment provided by engineer. */
 "Upload" = "上傳";
@@ -2286,6 +2352,12 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "是否強制懸浮球使用淺色或深色樣式。";
+
+/* TODO */
+"Which channel to mute." = "Which channel to mute.";
+
+/* TODO */
+"Which channel to unmute." = "Which channel to unmute.";
 
 /* No comment provided by engineer. */
 "Which edges of the screen the hoverball can be attached to." = "懸浮球可以附著在螢幕的哪些邊緣。";

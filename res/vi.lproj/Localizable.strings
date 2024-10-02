@@ -107,6 +107,9 @@
 "Alias" = "Alias";
 
 /* TODO */
+"alive" = "alive";
+
+/* TODO */
 "All Edges" = "All Edges";
 
 /* TODO */
@@ -296,6 +299,9 @@
 "Boost Periodic Tasks" = "Boost Periodic Tasks";
 
 /* TODO */
+"Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
+
+/* TODO */
 "bottom edge" = "bottom edge";
 
 /* TODO */
@@ -357,6 +363,12 @@
 
 /* TODO */
 "Caution" = "Caution";
+
+/* TODO */
+"check" = "check";
+
+/* TODO */
+"Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
 /* TODO */
 "Check Updates at Launch" = "Check Updates at Launch";
@@ -446,6 +458,9 @@
 "Contacts Permission Denied" = "Contacts Permission Denied";
 
 /* TODO */
+"Content" = "Content";
+
+/* TODO */
 "Content Sharing" = "Content Sharing";
 
 /* No comment provided by engineer. */
@@ -498,6 +513,9 @@
 
 /* TODO */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
+
+/* TODO */
+"daemon" = "daemon";
 
 /* TODO */
 "Date & Time" = "Date & Time";
@@ -638,6 +656,9 @@
 "Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
 
 /* TODO */
+"Downlink (Speaker)" = "Downlink (Speaker)";
+
+/* TODO */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
 
 /* TODO */
@@ -708,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Enhanced Scene Identification" = "Nhận dạng cảnh nâng cao";
+
+/* TODO */
+"Ensure Daemon Is Running" = "Ensure Daemon Is Running";
 
 /* No comment provided by engineer. */
 "Enter your password" = "Nhập mật khẩu của bạn";
@@ -880,6 +904,9 @@
 /* TODO */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
 
+/* TODO */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Ẩn khi chụp ảnh màn hình";
 
@@ -1021,6 +1048,9 @@
 /* No comment provided by engineer. */
 "Later" = "Sau";
 
+/* TODO */
+"launch" = "launch";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "Khởi chạy ứng dụng ở cuối";
 
@@ -1071,6 +1101,12 @@
 
 /* TODO */
 "Long Date" = "Long Date";
+
+/* TODO */
+"Long Press Hoverball" = "Long Press Hoverball";
+
+/* TODO */
+"Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
 
 /* TODO */
 "Long Time" = "Long Time";
@@ -1167,6 +1203,15 @@
 
 /* No comment provided by engineer. */
 "Multiple Devices" = "Nhiều thiết bị";
+
+/* TODO */
+"mute" = "mute";
+
+/* TODO */
+"Mute Existing Calls" = "Mute Existing Calls";
+
+/* TODO */
+"Mute specified channel of all existing calls." = "Mute specified channel of all existing calls.";
 
 /* TODO */
 "My Favourite" = "My Favourite";
@@ -1631,6 +1676,9 @@
 "Server started at: %@" = "Máy chủ bắt đầu lúc: %@";
 
 /* TODO */
+"service" = "service";
+
+/* TODO */
 "Service is alive" = "Service is alive";
 
 /* TODO */
@@ -1713,6 +1761,9 @@
 
 /* No comment provided by engineer. */
 "Speaker" = "Người nói";
+
+/* TODO */
+"speaker" = "speaker";
 
 /* No comment provided by engineer. */
 "start" = "bắt đầu";
@@ -1866,6 +1917,9 @@
 
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "Định dạng tệp của tệp âm thanh đã chọn.";
+
+/* TODO */
+"The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "Siêu dữ liệu vị trí sẽ được cập nhật liên tục trong khi quá trình ghi đang diễn ra.";
@@ -2111,6 +2165,15 @@
 "Unmark" = "Bỏ đánh dấu";
 
 /* TODO */
+"unmute" = "unmute";
+
+/* TODO */
+"Unmute Existing Calls" = "Unmute Existing Calls";
+
+/* TODO */
+"Unmute specified channel of all existing calls." = "Unmute specified channel of all existing calls.";
+
+/* TODO */
 "Unspecified" = "Unspecified";
 
 /* No comment provided by engineer. */
@@ -2124,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Nâng cấp lên %@";
+
+/* TODO */
+"Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* TODO */
 "Upload" = "Upload";
@@ -2286,6 +2352,12 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "Cho dù buộc bong bóng mọi nơi sử dụng phong cách ánh sáng hay bóng tối.";
+
+/* TODO */
+"Which channel to mute." = "Which channel to mute.";
+
+/* TODO */
+"Which channel to unmute." = "Which channel to unmute.";
 
 /* TODO */
 "Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";

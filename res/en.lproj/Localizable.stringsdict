@@ -34,5 +34,37 @@
 			<string>%lld fields</string>
 		</dict>
 	</dict>
+	<key>Voice Channel</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>Voice Channel</string>
+            <key>other</key>
+            <string>Voice Channels</string>
+        </dict>
+    </dict>
+	<key>%lld channels</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+			<key>zero</key>
+			<string>%lld channels</string>
+			<key>one</key>
+			<string>%lld channel</string>
+			<key>other</key>
+			<string>%lld channels</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -107,6 +107,9 @@
 "Alias" = "Alias";
 
 /* No comment provided by engineer. */
+"alive" = "alive";
+
+/* No comment provided by engineer. */
 "All Edges" = "All Edges";
 
 /* No comment provided by engineer. */
@@ -296,6 +299,9 @@
 "Boost Periodic Tasks" = "Boost Periodic Tasks";
 
 /* No comment provided by engineer. */
+"Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
+
+/* No comment provided by engineer. */
 "bottom edge" = "bottom edge";
 
 /* No comment provided by engineer. */
@@ -357,6 +363,12 @@
 
 /* No comment provided by engineer. */
 "Caution" = "Caution";
+
+/* No comment provided by engineer. */
+"check" = "check";
+
+/* No comment provided by engineer. */
+"Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "Check Updates at Launch";
@@ -446,6 +458,9 @@
 "Contacts Permission Denied" = "Contacts Permission Denied";
 
 /* No comment provided by engineer. */
+"Content" = "Content";
+
+/* No comment provided by engineer. */
 "Content Sharing" = "Content Sharing";
 
 /* No comment provided by engineer. */
@@ -498,6 +513,9 @@
 
 /* No comment provided by engineer. */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
+
+/* No comment provided by engineer. */
+"daemon" = "daemon";
 
 /* No comment provided by engineer. */
 "Date & Time" = "Date & Time";
@@ -638,6 +656,9 @@
 "Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
 
 /* No comment provided by engineer. */
+"Downlink (Speaker)" = "Downlink (Speaker)";
+
+/* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
 
 /* No comment provided by engineer. */
@@ -708,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Enhanced Scene Identification" = "Enhanced Scene Identification";
+
+/* No comment provided by engineer. */
+"Ensure Daemon Is Running" = "Ensure Daemon Is Running";
 
 /* No comment provided by engineer. */
 "Enter your password" = "Enter your password";
@@ -881,6 +905,9 @@
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
 
 /* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "Hide When Snapshot";
 
 /* No comment provided by engineer. */
@@ -1022,6 +1049,9 @@
 "Later" = "Later";
 
 /* No comment provided by engineer. */
+"launch" = "launch";
+
+/* No comment provided by engineer. */
 "Launch App at End" = "Launch App at End";
 
 /* No comment provided by engineer. */
@@ -1071,6 +1101,12 @@
 
 /* No comment provided by engineer. */
 "Long Date" = "Long Date";
+
+/* No comment provided by engineer. */
+"Long Press Hoverball" = "Long Press Hoverball";
+
+/* No comment provided by engineer. */
+"Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
 
 /* No comment provided by engineer. */
 "Long Time" = "Long Time";
@@ -1167,6 +1203,15 @@
 
 /* No comment provided by engineer. */
 "Multiple Devices" = "Multiple Devices";
+
+/* No comment provided by engineer. */
+"mute" = "mute";
+
+/* No comment provided by engineer. */
+"Mute Existing Calls" = "Mute Existing Calls";
+
+/* No comment provided by engineer. */
+"Mute specified channel of all existing calls." = "Mute specified channel of all existing calls.";
 
 /* No comment provided by engineer. */
 "My Favourite" = "My Favourite";
@@ -1631,6 +1676,9 @@
 "Server started at: %@" = "Server started at: %@";
 
 /* No comment provided by engineer. */
+"service" = "service";
+
+/* No comment provided by engineer. */
 "Service is alive" = "Service is alive";
 
 /* No comment provided by engineer. */
@@ -1713,6 +1761,9 @@
 
 /* No comment provided by engineer. */
 "Speaker" = "Speaker";
+
+/* No comment provided by engineer. */
+"speaker" = "speaker";
 
 /* No comment provided by engineer. */
 "start" = "start";
@@ -1866,6 +1917,9 @@
 
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "The file format of the selected audio file.";
+
+/* No comment provided by engineer. */
+"The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "The location metadata will be continuously updated while the recording is in progress.";
@@ -2111,6 +2165,15 @@
 "Unmark" = "Unmark";
 
 /* No comment provided by engineer. */
+"unmute" = "unmute";
+
+/* No comment provided by engineer. */
+"Unmute Existing Calls" = "Unmute Existing Calls";
+
+/* No comment provided by engineer. */
+"Unmute specified channel of all existing calls." = "Unmute specified channel of all existing calls.";
+
+/* No comment provided by engineer. */
 "Unspecified" = "Unspecified";
 
 /* No comment provided by engineer. */
@@ -2124,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Upgrade to %@";
+
+/* No comment provided by engineer. */
+"Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* No comment provided by engineer. */
 "Upload" = "Upload";
@@ -2286,6 +2352,12 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "Whether to force the hoverball to use the light or the dark style.";
+
+/* No comment provided by engineer. */
+"Which channel to mute." = "Which channel to mute.";
+
+/* No comment provided by engineer. */
+"Which channel to unmute." = "Which channel to unmute.";
 
 /* No comment provided by engineer. */
 "Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
