@@ -146,7 +146,7 @@
 "Always keep the hoverball window visible." = "總是保持懸浮球可見。";
 
 /* No comment provided by engineer. */
-"Always Keep-Alive in Background" = "始終保持背景激活";
+"Always Keep-Alive in Background" = "始終保持背景活動";
 
 /* No comment provided by engineer. */
 "Always Light" = "保持淺色";
@@ -248,7 +248,7 @@
 "Automatically Suspend in Background" = "背景程式自動停止";
 
 /* No comment provided by engineer. */
-"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解鎖後自動上滑進入主熒幕。鎖定後 10 秒内解鎖，此動作將不會生效。";
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解鎖後自動上滑進入主螢幕。鎖定後 10 秒内解鎖，此動作將不會生效。";
 
 /* No comment provided by engineer. */
 "Automation" = "自動化";
@@ -512,7 +512,7 @@
 "Custom Layout Guide" = "自定義安全區域";
 
 /* No comment provided by engineer. */
-"Customize a rectangular region that helps you position the hoverball on the screen." = "自定義一個矩形區域以幫助您在熒幕上定位懸浮球。";
+"Customize a rectangular region that helps you position the hoverball on the screen." = "自定義一個矩形區域以幫助您在螢幕上定位懸浮球。";
 
 /* No comment provided by engineer. */
 "daemon" = "守護進程";
@@ -818,7 +818,7 @@
 "Focus" = "聚焦";
 
 /* No comment provided by engineer. */
-"Fold to Screen Edge" = "摺叠到熒幕邊緣";
+"Fold to Screen Edge" = "摺叠到螢幕邊緣";
 
 /* No comment provided by engineer. */
 "Follow System" = "跟隨系統";
@@ -896,7 +896,7 @@
 "Get the primary call status of the device." = "獲取主要通話的狀態。";
 
 /* No comment provided by engineer. */
-"Go Home When Unlocked" = "解鎖後回到主熒幕";
+"Go Home When Unlocked" = "解鎖後回到主螢幕";
 
 /* No comment provided by engineer. */
 "Google Drive" = "Google 雲端硬碟";
@@ -1037,7 +1037,7 @@
 "Just now" = "現在";
 
 /* No comment provided by engineer. */
-"Keep Screen On When Connected" = "連線時保持熒幕常亮";
+"Keep Screen On When Connected" = "連線時保持螢幕常亮";
 
 /* No comment provided by engineer. */
 "Kill all applications and restart the render server (backboardd)." = "關閉所有應用程式並重啟渲染服務（backboardd）";
@@ -1130,10 +1130,10 @@
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "使關聯的通話錄音展示在通話記錄頁面，跳轉到巨魔錄音機進行回播。";
 
 /* No comment provided by engineer. */
-"Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或熒幕錄製時使懸浮球不可見。";
+"Make the hoverball invisible when taking screenshots or screen recordings." = "在進行螢幕截圖或螢幕錄影時使懸浮球不可見。";
 
 /* No comment provided by engineer. */
-"Make the hoverball semi-transparent or folded when leave it for a while." = "當懸浮球閑置一段時間後，使其半透明或摺曡到熒幕邊緣。";
+"Make the hoverball semi-transparent or folded when leave it for a while." = "當懸浮球閑置一段時間後，使其半透明或摺曡到螢幕邊緣。";
 
 /* No comment provided by engineer. */
 "Making a phone call to begin recording." = "進行通話以開始錄製。";
@@ -1718,7 +1718,7 @@
 "Show Contact Names" = "顯示聯絡人姓名";
 
 /* No comment provided by engineer. */
-"Show on Lock Screen" = "在鎖定熒幕上顯示";
+"Show on Lock Screen" = "在鎖定螢幕上顯示";
 
 /* No comment provided by engineer. */
 "Show Option Description" = "顯示選項描述";
@@ -2360,7 +2360,7 @@
 "Which channel to unmute." = "需要取消靜音的通道。";
 
 /* No comment provided by engineer. */
-"Which edges of the screen the hoverball can be attached to." = "懸浮球可以附著在熒幕的哪些邊緣。";
+"Which edges of the screen the hoverball can be attached to." = "懸浮球可以附著在螢幕的哪些邊緣。";
 
 /* No comment provided by engineer. */
 "Why don’t you make a phone call?" = "為什麽不打個電話試試呢？";
