@@ -641,6 +641,9 @@
 "Display the source bundle name of the recording." = "Hiển thị tên gói nguồn của bản ghi.";
 
 /* TODO */
+"Displays a local notification." = "Displays a local notification.";
+
+/* TODO */
 "Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
 
 /* TODO */
@@ -1157,6 +1160,9 @@
 "Merged File" = "Tệp đã hợp nhất";
 
 /* TODO */
+"Message" = "Message";
+
+/* TODO */
 "Metadata" = "Metadata";
 
 /* No comment provided by engineer. */
@@ -1271,10 +1277,16 @@
 "Nothing Inside" = "Nothing Inside";
 
 /* TODO */
+"notification" = "notification";
+
+/* TODO */
 "Notification Permission Denied" = "Notification Permission Denied";
 
 /* No comment provided by engineer. */
 "Notifications" = "Thông báo";
+
+/* TODO */
+"notify" = "notify";
 
 /* TODO */
 "Object Viewer" = "Object Viewer";
@@ -1392,6 +1404,9 @@
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Phát Cảnh Báo Ghi Âm";
+
+/* TODO */
+"Play Sound" = "Play Sound";
 
 /* TODO */
 "Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
@@ -1717,6 +1732,12 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "Hiển thị tên liên hệ";
 
+/* TODO */
+"Show Notification" = "Show Notification";
+
+/* TODO */
+"Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
+
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "Hiển thị trên màn hình khóa";
 
@@ -2022,6 +2043,12 @@
 
 /* TODO */
 "Three-digit Milliseconds" = "Three-digit Milliseconds";
+
+/* TODO */
+"Time Sensitive" = "Time Sensitive";
+
+/* TODO */
+"Title" = "Title";
 
 /* No comment provided by engineer. */
 "To" = "Đến";

@@ -641,6 +641,9 @@
 "Display the source bundle name of the recording." = "Display the source bundle name of the recording.";
 
 /* No comment provided by engineer. */
+"Displays a local notification." = "Displays a local notification.";
+
+/* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
 
 /* No comment provided by engineer. */
@@ -1157,6 +1160,9 @@
 "Merged File" = "Merged File";
 
 /* No comment provided by engineer. */
+"Message" = "Message";
+
+/* No comment provided by engineer. */
 "Metadata" = "Metadata";
 
 /* No comment provided by engineer. */
@@ -1271,10 +1277,16 @@
 "Nothing Inside" = "Nothing Inside";
 
 /* No comment provided by engineer. */
+"notification" = "notification";
+
+/* No comment provided by engineer. */
 "Notification Permission Denied" = "Notification Permission Denied";
 
 /* No comment provided by engineer. */
 "Notifications" = "Notifications";
+
+/* No comment provided by engineer. */
+"notify" = "notify";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "Object Viewer";
@@ -1392,6 +1404,9 @@
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Play Recording Warning";
+
+/* No comment provided by engineer. */
+"Play Sound" = "Play Sound";
 
 /* No comment provided by engineer. */
 "Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
@@ -1718,6 +1733,12 @@
 "Show Contact Names" = "Show Contact Names";
 
 /* No comment provided by engineer. */
+"Show Notification" = "Show Notification";
+
+/* No comment provided by engineer. */
+"Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
+
+/* No comment provided by engineer. */
 "Show on Lock Screen" = "Show on Lock Screen";
 
 /* No comment provided by engineer. */
@@ -2022,6 +2043,12 @@
 
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "Three-digit Milliseconds";
+
+/* No comment provided by engineer. */
+"Time Sensitive" = "Time Sensitive";
+
+/* No comment provided by engineer. */
+"Title" = "Title";
 
 /* No comment provided by engineer. */
 "To" = "To";

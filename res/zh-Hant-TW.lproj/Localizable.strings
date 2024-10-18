@@ -640,6 +640,9 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "顯示錄音的來源，即通話時所使用的應用程序名稱。";
 
+/* TODO */
+"Displays a local notification." = "Displays a local notification.";
+
 /* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "你確定要清空日誌文件 「%@」 嗎？";
 
@@ -1156,6 +1159,9 @@
 /* No comment provided by engineer. */
 "Merged File" = "合併文件";
 
+/* TODO */
+"Message" = "Message";
+
 /* No comment provided by engineer. */
 "Metadata" = "元數據";
 
@@ -1270,11 +1276,17 @@
 /* No comment provided by engineer. */
 "Nothing Inside" = "這裡面空無一物";
 
+/* TODO */
+"notification" = "notification";
+
 /* No comment provided by engineer. */
 "Notification Permission Denied" = "推送通知被拒絕訪問";
 
 /* No comment provided by engineer. */
 "Notifications" = "通知與提醒";
+
+/* TODO */
+"notify" = "notify";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "對象查看器";
@@ -1392,6 +1404,9 @@
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音警告";
+
+/* TODO */
+"Play Sound" = "Play Sound";
 
 /* TODO */
 "Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
@@ -1717,6 +1732,12 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "顯示聯絡人姓名";
 
+/* TODO */
+"Show Notification" = "Show Notification";
+
+/* TODO */
+"Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
+
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "在鎖屏界面顯示";
 
@@ -2022,6 +2043,12 @@
 
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "毫秒數";
+
+/* TODO */
+"Time Sensitive" = "Time Sensitive";
+
+/* TODO */
+"Title" = "Title";
 
 /* No comment provided by engineer. */
 "To" = "結束於";

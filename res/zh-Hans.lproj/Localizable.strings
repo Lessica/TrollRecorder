@@ -641,6 +641,9 @@
 "Display the source bundle name of the recording." = "显示录音的来源，即通话时所使用的应用程序名称。";
 
 /* No comment provided by engineer. */
+"Displays a local notification." = "显示本地通知。";
+
+/* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "你确定要清空日志文件 “%@” 吗？";
 
 /* No comment provided by engineer. */
@@ -1157,6 +1160,9 @@
 "Merged File" = "合并文件";
 
 /* No comment provided by engineer. */
+"Message" = "消息";
+
+/* No comment provided by engineer. */
 "Metadata" = "元数据";
 
 /* No comment provided by engineer. */
@@ -1271,10 +1277,16 @@
 "Nothing Inside" = "这里面空无一物";
 
 /* No comment provided by engineer. */
+"notification" = "通知";
+
+/* No comment provided by engineer. */
 "Notification Permission Denied" = "推送通知被拒绝访问";
 
 /* No comment provided by engineer. */
 "Notifications" = "通知与提醒";
+
+/* No comment provided by engineer. */
+"notify" = "通知";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "对象查看器";
@@ -1392,6 +1404,9 @@
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放录音警告";
+
+/* No comment provided by engineer. */
+"Play Sound" = "播放声音";
 
 /* No comment provided by engineer. */
 "Play specified voice-over text to the microphone." = "向麦克风播报指定的文本内容。";
@@ -1718,6 +1733,12 @@
 "Show Contact Names" = "显示联系人姓名";
 
 /* No comment provided by engineer. */
+"Show Notification" = "显示通知";
+
+/* No comment provided by engineer. */
+"Show notification ${requestedMessage}" = "显示 ${requestedMessage} 通知";
+
+/* No comment provided by engineer. */
 "Show on Lock Screen" = "在锁屏界面显示";
 
 /* No comment provided by engineer. */
@@ -2022,6 +2043,12 @@
 
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "毫秒数";
+
+/* No comment provided by engineer. */
+"Time Sensitive" = "即时通知";
+
+/* No comment provided by engineer. */
+"Title" = "标题";
 
 /* No comment provided by engineer. */
 "To" = "结束于";

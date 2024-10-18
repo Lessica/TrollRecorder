@@ -640,6 +640,9 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "顯示錄音來源的捆綁包名稱。";
 
+/* TODO */
+"Displays a local notification." = "Displays a local notification.";
+
 /* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "你確認要清除日志檔案 “%@” 嗎？";
 
@@ -1156,6 +1159,9 @@
 /* No comment provided by engineer. */
 "Merged File" = "合并檔案";
 
+/* TODO */
+"Message" = "Message";
+
 /* No comment provided by engineer. */
 "Metadata" = "元數據";
 
@@ -1270,11 +1276,17 @@
 /* No comment provided by engineer. */
 "Nothing Inside" = "這裏面空無一物";
 
+/* TODO */
+"notification" = "notification";
+
 /* No comment provided by engineer. */
 "Notification Permission Denied" = "推送通知被拒絕訪問";
 
 /* No comment provided by engineer. */
 "Notifications" = "通知與提醒";
+
+/* TODO */
+"notify" = "notify";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "對象檢視器";
@@ -1392,6 +1404,9 @@
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音提示";
+
+/* TODO */
+"Play Sound" = "Play Sound";
 
 /* No comment provided by engineer. */
 "Play specified voice-over text to the microphone." = "向咪高風播報指定的文本内容。";
@@ -1717,6 +1732,12 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "顯示聯絡人姓名";
 
+/* TODO */
+"Show Notification" = "Show Notification";
+
+/* TODO */
+"Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
+
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "在鎖定螢幕上顯示";
 
@@ -1889,7 +1910,7 @@
 "The content of text file “%@” is empty." = "文本檔案 “%@” 的内容為空。";
 
 /* No comment provided by engineer. */
-"The current state of the call. Possible values are: Dialinteg, Connecd, Disconnected, and Unknown." = "當前的通話狀態。可能的值有：Dialing/Connected/Disconnected/Unknown";
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "當前的通話狀態。可能的值有：Dialing/Connected/Disconnected/Unknown";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "音訊創建的日期和時間。";
@@ -2022,6 +2043,12 @@
 
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "毫秒數";
+
+/* TODO */
+"Time Sensitive" = "Time Sensitive";
+
+/* TODO */
+"Title" = "Title";
 
 /* No comment provided by engineer. */
 "To" = "結束於";

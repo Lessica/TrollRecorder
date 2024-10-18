@@ -640,6 +640,9 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Afficher le nom du paquet source de l'enregistrement.";
 
+/* TODO */
+"Displays a local notification." = "Displays a local notification.";
+
 /* Translated with Microsoft Translator */
 "Do you want to clear this log file “%@”?" = "Voulez-vous effacer ce fichier journal “%@”?";
 
@@ -1156,6 +1159,9 @@
 /* No comment provided by engineer. */
 "Merged File" = "Fichier fusionné";
 
+/* TODO */
+"Message" = "Message";
+
 /* Translated with Microsoft Translator */
 "Metadata" = "Métadonnées";
 
@@ -1270,11 +1276,17 @@
 /* Translated with Microsoft Translator */
 "Nothing Inside" = "Rien à l'intérieur";
 
+/* TODO */
+"notification" = "notification";
+
 /* Translated with Microsoft Translator */
 "Notification Permission Denied" = "Notification Permission refusée";
 
 /* Translated with Microsoft Translator */
 "Notifications" = "Notifications";
+
+/* TODO */
+"notify" = "notify";
 
 /* Translated with Microsoft Translator */
 "Object Viewer" = "Visualisateur d'objets";
@@ -1392,6 +1404,9 @@
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Avertissement de lecture d'enregistrement";
+
+/* TODO */
+"Play Sound" = "Play Sound";
 
 /* Translated with Microsoft Translator */
 "Play specified voice-over text to the microphone." = "Diffuser le texte en voix off spécifié dans le microphone.";
@@ -1717,6 +1732,12 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "Afficher les noms des contacts";
 
+/* TODO */
+"Show Notification" = "Show Notification";
+
+/* TODO */
+"Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
+
 /* Translated with Microsoft Translator */
 "Show on Lock Screen" = "Afficher sur l'écran de verrouillage";
 
@@ -2022,6 +2043,12 @@
 
 /* Translated with Microsoft Translator */
 "Three-digit Milliseconds" = "Millisecondes à trois chiffres";
+
+/* TODO */
+"Time Sensitive" = "Time Sensitive";
+
+/* TODO */
+"Title" = "Title";
 
 /* No comment provided by engineer. */
 "To" = "À";
