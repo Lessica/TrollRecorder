@@ -355,6 +355,9 @@
 /* Translated with Microsoft Translator */
 "Call State" = "Appeler l'État";
 
+/* TODO */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
+
 /* No comment provided by engineer. */
 "Cancel" = "Annulé.";
 
@@ -904,6 +907,9 @@
 /* Translated with Microsoft Translator */
 "Google Drive" = "Google Drive";
 
+/* TODO */
+"Group Call" = "Group Call";
+
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Masquer l'application “Memos vocaux” de l'écran de verrouillage, et masquer ses activités “Dynamic Island”. Cette fonctionnalité peut nécessiter un ressort pour prendre effet.";
 
@@ -1003,11 +1009,17 @@
 /* No comment provided by engineer. */
 "Install" = "Installer";
 
+/* TODO */
+"Install Call History Tweak" = "Install Call History Tweak";
+
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Installez l'action « Compress Audio » dans « Raccourcis », puis partagez vos enregistrements vers cette action pour compresser votre audio au format AAC/AIFF.";
 
 /* Translated with Microsoft Translator */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Installez l'action “Créer une archive” dans “Raccourcis”, puis partagez vos enregistrements avec cette action pour créer une archive ZIP.";
+
+/* TODO */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
 "iPad" = "iPad";
@@ -2056,6 +2068,9 @@
 /* Translated with Microsoft Translator */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "Pour configurer iCloud Drive, allez dans “Réglages > Cellulaire > iCloud Drive”.";
 
+/* TODO */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
+
 /* Translated with Microsoft Translator */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "Pour conserver l'accès au WebDAV, vous devez sélectionner “Toujours” ou “Pendant l'utilisation de l'application” pour TrollRecorder.";
 
@@ -2439,3 +2454,9 @@
 
 /* Translated with Microsoft Translator */
 "“%@” is not available" = "“%@” n'est pas disponible";
+
+/* TODO */
+"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
+
+/* TODO */
+"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
