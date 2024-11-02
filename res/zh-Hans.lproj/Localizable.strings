@@ -77,7 +77,7 @@
 "Accept Incoming Calls" = "接听来电";
 
 /* No comment provided by engineer. */
-"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "从网络中的另一台设备的 WebDAV 浏览器中访问你的录音。仅当应用程序处于前台时服务可用。";
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "从网络中的另一台设备的 WebDAV 客户端中访问你的录音。仅当应用程序处于前台时服务可用。";
 
 /* No comment provided by engineer. */
 "activate" = "activate";
@@ -354,6 +354,9 @@
 
 /* No comment provided by engineer. */
 "Call State" = "通话状态";
+
+/* No comment provided by engineer. */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "仅当你使用此设备上的麦克风进行通话时，才能够录制通话。从其他设备接听来自此设备的通话时，通话将无法被录音。";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
@@ -641,6 +644,9 @@
 "Display the source bundle name of the recording." = "显示录音的来源，即通话时所使用的应用程序名称。";
 
 /* No comment provided by engineer. */
+"Displays a local notification." = "显示本地通知。";
+
+/* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "你确定要清空日志文件 “%@” 吗？";
 
 /* No comment provided by engineer. */
@@ -902,6 +908,9 @@
 "Google Drive" = "Google 云端硬盘";
 
 /* No comment provided by engineer. */
+"Group Call" = "群组通话";
+
+/* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隐藏 “语音备忘录” 在锁屏界面上的显示，并隐藏其 “灵动岛” 活动。此功能可能需要妙手回春才能完全生效。";
 
 /* No comment provided by engineer. */
@@ -1001,10 +1010,16 @@
 "Install" = "安装";
 
 /* No comment provided by engineer. */
+"Install Call History Tweak" = "安装通话记录插件";
+
+/* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安装 “压缩音频” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以将你的音频压缩为 AAC/AIFF 格式。";
 
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安装 “制作归档” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以创建一个 ZIP 档案。";
+
+/* No comment provided by engineer. */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "无效的代码签名。\n请从 TrollStore 重新安装此应用程序。";
 
 /* No comment provided by engineer. */
 "iPad" = "iPad";
@@ -1157,6 +1172,9 @@
 "Merged File" = "合并文件";
 
 /* No comment provided by engineer. */
+"Message" = "消息";
+
+/* No comment provided by engineer. */
 "Metadata" = "元数据";
 
 /* No comment provided by engineer. */
@@ -1271,10 +1289,16 @@
 "Nothing Inside" = "这里面空无一物";
 
 /* No comment provided by engineer. */
+"notification" = "通知";
+
+/* No comment provided by engineer. */
 "Notification Permission Denied" = "推送通知被拒绝访问";
 
 /* No comment provided by engineer. */
 "Notifications" = "通知与提醒";
+
+/* No comment provided by engineer. */
+"notify" = "通知";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "对象查看器";
@@ -1392,6 +1416,9 @@
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放录音警告";
+
+/* No comment provided by engineer. */
+"Play Sound" = "播放声音";
 
 /* No comment provided by engineer. */
 "Play specified voice-over text to the microphone." = "向麦克风播报指定的文本内容。";
@@ -1718,6 +1745,12 @@
 "Show Contact Names" = "显示联系人姓名";
 
 /* No comment provided by engineer. */
+"Show Notification" = "显示通知";
+
+/* No comment provided by engineer. */
+"Show notification ${requestedMessage}" = "显示 ${requestedMessage} 通知";
+
+/* No comment provided by engineer. */
 "Show on Lock Screen" = "在锁屏界面显示";
 
 /* No comment provided by engineer. */
@@ -2024,10 +2057,19 @@
 "Three-digit Milliseconds" = "毫秒数";
 
 /* No comment provided by engineer. */
+"Time Sensitive" = "即时通知";
+
+/* No comment provided by engineer. */
+"Title" = "标题";
+
+/* No comment provided by engineer. */
 "To" = "结束于";
 
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "如需配置 iCloud 云盘，请转到 “设置 > 蜂窝移动网络 > iCloud 云盘”。";
+
+/* No comment provided by engineer. */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "如需获取更准确的通话记录，你需要通过 TrollFools 或类似技术将其注入到 “微信” 应用程序中。";
 
 /* No comment provided by engineer. */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服务的活跃状态，你需要为巨魔录音机选择 “始终” 或 “使用 App 期间”。";
@@ -2412,3 +2454,9 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available" = "“%@” 不可用";
+
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "此页面上的 “允许自动录音” 已禁用：VIP 联系人将始终被录音并添加到收藏中，其他联系人将不会被录音。";
+
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "此页面上的 “允许自动录音” 已启用：“通话排除列表” 中的联系人将不会被录音，其他联系人将允许被录音。VIP 联系人的录音还会被添加到收藏中。";

@@ -355,6 +355,9 @@
 /* TODO */
 "Call State" = "Call State";
 
+/* TODO */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
+
 /* No comment provided by engineer. */
 "Cancel" = "取消";
 
@@ -640,6 +643,9 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "顯示錄音的來源，即通話時所使用的應用程序名稱。";
 
+/* TODO */
+"Displays a local notification." = "Displays a local notification.";
+
 /* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "你確定要清空日誌文件 「%@」 嗎？";
 
@@ -901,6 +907,9 @@
 /* No comment provided by engineer. */
 "Google Drive" = "Google 雲端硬碟";
 
+/* TODO */
+"Group Call" = "Group Call";
+
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏 「語音備忘錄」 在鎖屏界面上的顯示，並隱藏其 「靈動島」 活動。此功能可能需要妙手回春才能完全生效。";
 
@@ -1000,11 +1009,17 @@
 /* No comment provided by engineer. */
 "Install" = "安裝";
 
+/* TODO */
+"Install Call History Tweak" = "Install Call History Tweak";
+
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安裝 「壓縮音頻」 操作到 「快捷指令」 中，然後分享你的錄音到這個操作中，以將你的音頻壓縮為 AAC/AIFF 格式。";
 
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安裝 「製作歸檔」 操作到 「快捷指令」 中，然後分享你的錄音到這個操作中，以創建一個 ZIP 檔案。";
+
+/* TODO */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
 "iPad" = "iPad";
@@ -1156,6 +1171,9 @@
 /* No comment provided by engineer. */
 "Merged File" = "合併文件";
 
+/* TODO */
+"Message" = "Message";
+
 /* No comment provided by engineer. */
 "Metadata" = "元數據";
 
@@ -1270,11 +1288,17 @@
 /* No comment provided by engineer. */
 "Nothing Inside" = "這裡面空無一物";
 
+/* TODO */
+"notification" = "notification";
+
 /* No comment provided by engineer. */
 "Notification Permission Denied" = "推送通知被拒絕訪問";
 
 /* No comment provided by engineer. */
 "Notifications" = "通知與提醒";
+
+/* TODO */
+"notify" = "notify";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "對象查看器";
@@ -1392,6 +1416,9 @@
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "播放錄音警告";
+
+/* TODO */
+"Play Sound" = "Play Sound";
 
 /* TODO */
 "Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
@@ -1717,6 +1744,12 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "顯示聯絡人姓名";
 
+/* TODO */
+"Show Notification" = "Show Notification";
+
+/* TODO */
+"Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
+
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "在鎖屏界面顯示";
 
@@ -2023,11 +2056,20 @@
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "毫秒數";
 
+/* TODO */
+"Time Sensitive" = "Time Sensitive";
+
+/* TODO */
+"Title" = "Title";
+
 /* No comment provided by engineer. */
 "To" = "結束於";
 
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "如需配置 iCloud 雲盤，請轉到 「設置 > 蜂窩移動網絡 > iCloud 雲盤」。";
+
+/* TODO */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
 
 /* No comment provided by engineer. */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服務的活躍狀態，你需要為巨魔錄音機選擇 「始終」 或 「使用 App 期間」。";
@@ -2412,3 +2454,9 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available" = "「%@」 不可用";
+
+/* TODO */
+"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
+
+/* TODO */
+"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
