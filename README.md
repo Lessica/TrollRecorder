@@ -58,6 +58,10 @@ We always built our app in the best quality.
 
 At least, you need to provide `Localizable.strings` and `InfoPlist.strings`. Example: [Localizable.strings](https://github.com/Lessica/TrollRecorder/blob/main/res/en.lproj/Localizable.strings).
 
+**🙇 PLEASE HELP US TRANSLATE!**
+
+![Statistics](./res/stats.png)
+
 ## License
 
 The core of TrollRecorder (command line tool / CLI), and only itself, is open-sourced here.
