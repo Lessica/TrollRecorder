@@ -15,12 +15,13 @@ Not the first, but the best phone call recorder with [TrollStore](https://ios.cf
 
 Popular jailbreaks are also supported. Get [TrollRecorder JB](https://havoc.app/package/trollrecorderjb).
 
-- Rootless jailbreaks: [Dopamine](https://github.com/opa334/Dopamine) / [palera1n](https://palera.in/)
-- Legacy jailbreaks: [unc0ver](https://unc0ver.dev/) / [checkra1n](https://checkra.in/)
+- [RootHide](https://github.com/roothide/Dopamine2-roothide)
+- [Dopamine](https://github.com/opa334/Dopamine) / [palera1n](https://palera.in/)
 
-## Other Installation Methods
+## ⚠️ Not Supported
 
-- There're no additional support for RootHide. Use TrollStore version instead.
+- There is no additional support for [Bootstrap (RootHide)](https://github.com/roothide/Bootstrap) nor [NathanLR](https://github.com/verygenericname/nathanlr).
+  - Use TrollStore version instead.
 - [eSign](https://twitter.com/EsignPatch) or [LiveContainer](https://github.com/khanhduytran0/LiveContainer) are not supported due to their own limitations.
 
 ## Pro Version
@@ -28,21 +29,40 @@ Popular jailbreaks are also supported. Get [TrollRecorder JB](https://havoc.app/
 Core features of TrollRecorder are free to use. You can buy a Pro license to unlock advanced features.  
 Paid licenses are valid for lifetime, and up to 5 devices.
 
-## 1.x Milestones
+## 2.x Milestones
 
-- [x] <del>Hover-ball on Lockscreen</del> Notification on Lockscreen
-- [x] <del>iCloud Drive</del> Smart Cloud Archive
-- [x] iCloud Backup
+We always built our app in the best quality.
+
+- [x] Discreet Voice Memos
+- [ ] Record System Audio (i.e. What You Hear)
+- [ ] Built-In Audio Editor
 - [ ] Google Drive
 - [ ] Dropbox
 
-## 2.x Milestones
+## Special Thanks
 
-A botch job is a waste of time. That's why we always built our app in the best quality.
+- [TrollStore](https://github.com/opa334/TrollStore) and [Dopamine](https://github.com/opa334/Dopamine) by [@opa334dev](https://twitter.com/opa334dev)
+- [AudioRecorder XS](https://limneos.net/audiorecorderxs/) by [@limneos](https://twitter.com/limneos)
+- [CallAssist](https://buy.htv123.com) by [@xybp888](https://github.com/xybp888)
 
-- [ ] Record System Audio (i.e. What You Hear)
-- [x] <del>Record like Voice Memos</del> Discreet Voice Memos
-- [ ] Built-In Audio Editor
+## Translators
+
+- Spanish by [@Deci8BelioS](https://github.com/Deci8BelioS)
+- French by [@DzMoha](https://twitter.com/contact_nadhir)
+- Traditional Chinese (Hong Kong) by [@CaslenZ](https://github.com/CaslenZ)
+- Traditional Chinese (Taiwan) by [@雲端戰神一刀秒](https://github.com/mp614t)
+- Vietnamese by [@2311WithLuv](https://www.facebook.com/If2019)
+- Korean by **@SUB2**
+
+## Localization
+
+At least, you need to provide `Localizable.strings` and `InfoPlist.strings`. Example: [Localizable.strings](https://github.com/Lessica/TrollRecorder/blob/main/res/en.lproj/Localizable.strings).
+
+## License
+
+The core of TrollRecorder (command line tool / CLI), and only itself, is open-sourced here.
+
+The command line tools of TrollRecorder are [Free Software](https://www.gnu.org/philosophy/free-sw.html) licensed under the [GNU General Public License](LICENSE).
 
 ## 解锁全部功能
 
@@ -106,27 +126,3 @@ A botch job is a waste of time. That's why we always built our app in the best q
 | 只增不删 | ✅ | ⚠️ 跟随本地录音增删改 |
 | 自定义归档名称 | ✅ | ⚠️ 原始文件名称 |
 | 不占用额外存储空间 | ✅ APFS 克隆 | ✅ 硬链接 |
-
-## Special Thanks
-
-- [TrollStore](https://github.com/opa334/TrollStore) and [Dopamine](https://github.com/opa334/Dopamine) by [@opa334dev](https://twitter.com/opa334dev)
-- [AudioRecorder XS](https://limneos.net/audiorecorderxs/) by [@limneos](https://twitter.com/limneos)
-- [CallAssist](https://buy.htv123.com) by [@xybp888](https://github.com/xybp888)
-
-## Translators
-
-- Spanish by [@Deci8BelioS](https://github.com/Deci8BelioS)
-- French by [@DzMoha](https://twitter.com/contact_nadhir)
-- Traditional Chinese (Hong Kong) by [@CaslenZ](https://github.com/CaslenZ)
-- Traditional Chinese (Taiwan) by [@雲端戰神一刀秒](https://github.com/mp614t)
-- Vietnamese by [@2311WithLuv](https://www.facebook.com/If2019)
-
-## Localization
-
-At least, you need to provide `Localizable.strings` and `InfoPlist.strings`. Example: [Localizable.strings](https://github.com/Lessica/TrollRecorder/blob/main/res/en.lproj/Localizable.strings).
-
-## License
-
-The core of TrollRecorder (command line tool / CLI), and only itself, is open-sourced here.
-
-The command line tools of TrollRecorder are [Free Software](https://www.gnu.org/philosophy/free-sw.html) licensed under the [GNU General Public License](LICENSE).
