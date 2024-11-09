@@ -172,6 +172,9 @@
 /* No comment provided by engineer. */
 "App Icon" = "앱 아이콘";
 
+/* TODO */
+"App Language" = "App Language";
+
 /* No comment provided by engineer. */
 "Appearance" = "디스플레이 및 외관";
 
@@ -286,6 +289,9 @@
 /* No comment provided by engineer. */
 "Best" = "최고";
 
+/* TODO */
+"Beta" = "Beta";
+
 /* No comment provided by engineer. */
 "Bi-sync" = "양방향 동기화";
 
@@ -373,6 +379,12 @@
 /* TODO */
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
+/* TODO */
+"Check Latest Version" = "Check Latest Version";
+
+/* TODO */
+"Check Updates" = "Check Updates";
+
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "시작 시 업데이트 확인";
 
@@ -414,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Combined Mode" = "결합 모드";
+
+/* TODO */
+"Compiled at %@" = "Compiled at %@";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "오디오 압축";
@@ -829,6 +844,9 @@
 /* No comment provided by engineer. */
 "Follow System" = "시스템 따르기";
 
+/* TODO */
+"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+
 /* No comment provided by engineer. */
 "Format" = "포맷";
 
@@ -1064,6 +1082,9 @@
 "Later" = "나중에";
 
 /* TODO */
+"Latest Version" = "Latest Version";
+
+/* TODO */
 "launch" = "launch";
 
 /* No comment provided by engineer. */
@@ -1133,10 +1154,13 @@
 "Low Disk Space" = "저장 공간 부족";
 
 /* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "Made with ♥ by OwnGoal Studio";
+"Made with ♥ by OwnGoal Studio" = "Made with ♥ by OwnGoal Studio";
 
 /* No comment provided by engineer. */
 "Mail composition failed" = "이메일 작성 실패";
+
+/* TODO */
+"Maintenance" = "Maintenance";
 
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "백업 도메인에서 녹음의 얕은 복사본을 만들고 iCloud 백업에 이를 포함하도록 허용합니다.";
@@ -1260,6 +1284,9 @@
 
 /* No comment provided by engineer. */
 "NO" = "아니요";
+
+/* TODO */
+"No Available Version" = "No Available Version";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "선택한 연락처에서 전화번호를 찾을 수 없습니다.";
@@ -1474,6 +1501,12 @@
 /* No comment provided by engineer. */
 "Purchase" = "구매";
 
+/* TODO */
+"Query the latest version from GitHub." = "Query the latest version from GitHub.";
+
+/* TODO */
+"Querying" = "Querying";
+
 /* No comment provided by engineer. */
 "Quick Recording" = "빠른 녹음";
 
@@ -1563,6 +1596,9 @@
 
 /* No comment provided by engineer. */
 "Relaunched" = "재실행됨";
+
+/* TODO */
+"Release" = "Release";
 
 /* No comment provided by engineer. */
 "Release Notes" = "릴리스 노트";
@@ -1870,6 +1906,9 @@
 /* No comment provided by engineer. */
 "System Audio" = "시스템 오디오";
 
+/* TODO */
+"System Language" = "System Language";
+
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "__모든 가장자리__를 탭하여 \n___활성 가장자리___로 선택하세요.";
 
@@ -1953,6 +1992,9 @@
 
 /* TODO */
 "The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
+
+/* TODO */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "녹음이 진행되는 동안 위치 메타데이터가 지속적으로 업데이트됩니다.";
@@ -2294,10 +2336,10 @@
 "Verify License" = "라이센스 확인";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@" = "버전 %@ 빌드 %@";
+"Version %@ Build %@" = "버전 %1$@ 빌드 %2$@";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "버전 %@ 빌드 %@ - 새 버전 %@ 빌드 %@";
+"Version %@ Build %@ - New Version %@ Build %@" = "버전 %1$@ 빌드 %2$@ - 새 버전 %3$@ 빌드 %4$@";
 
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "시작 시 진동";

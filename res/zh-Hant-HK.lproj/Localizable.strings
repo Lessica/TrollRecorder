@@ -172,6 +172,9 @@
 /* No comment provided by engineer. */
 "App Icon" = "應用程式圖標";
 
+/* TODO */
+"App Language" = "App Language";
+
 /* No comment provided by engineer. */
 "Appearance" = "顯示與外觀";
 
@@ -286,6 +289,9 @@
 /* No comment provided by engineer. */
 "Best" = "最好";
 
+/* TODO */
+"Beta" = "Beta";
+
 /* No comment provided by engineer. */
 "Bi-sync" = "雙向同步";
 
@@ -373,6 +379,12 @@
 /* No comment provided by engineer. */
 "Check if the daemon is running. If not, launch it." = "檢查守護進程是否正在運行。如果沒有則啟動它。";
 
+/* TODO */
+"Check Latest Version" = "Check Latest Version";
+
+/* TODO */
+"Check Updates" = "Check Updates";
+
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "啟動時檢查更新";
 
@@ -414,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Combined Mode" = "組合模式";
+
+/* TODO */
+"Compiled at %@" = "Compiled at %@";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "壓縮音訊";
@@ -829,6 +844,9 @@
 /* No comment provided by engineer. */
 "Follow System" = "跟隨系統";
 
+/* TODO */
+"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+
 /* No comment provided by engineer. */
 "Format" = "格式";
 
@@ -1063,6 +1081,9 @@
 /* No comment provided by engineer. */
 "Later" = "忽略 7 天";
 
+/* TODO */
+"Latest Version" = "Latest Version";
+
 /* No comment provided by engineer. */
 "launch" = "啟動";
 
@@ -1133,10 +1154,13 @@
 "Low Disk Space" = "磁碟空間不足";
 
 /* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "「烏龍工作室」製作";
+"Made with ♥ by OwnGoal Studio" = "「烏龍工作室」製作";
 
 /* No comment provided by engineer. */
 "Mail composition failed" = "郵件發送失敗";
+
+/* TODO */
+"Maintenance" = "Maintenance";
 
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在備份域中創建錄音的淺拷貝，並允許 iCloud 備份中包含這些副本。";
@@ -1260,6 +1284,9 @@
 
 /* No comment provided by engineer. */
 "NO" = "否";
+
+/* TODO */
+"No Available Version" = "No Available Version";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "在選定的聯絡人中未找到電話號碼。";
@@ -1474,6 +1501,12 @@
 /* No comment provided by engineer. */
 "Purchase" = "購買";
 
+/* TODO */
+"Query the latest version from GitHub." = "Query the latest version from GitHub.";
+
+/* TODO */
+"Querying" = "Querying";
+
 /* No comment provided by engineer. */
 "Quick Recording" = "快速錄音";
 
@@ -1563,6 +1596,9 @@
 
 /* No comment provided by engineer. */
 "Relaunched" = "妙手已回春";
+
+/* TODO */
+"Release" = "Release";
 
 /* No comment provided by engineer. */
 "Release Notes" = "發行説明";
@@ -1870,6 +1906,9 @@
 /* No comment provided by engineer. */
 "System Audio" = "系統音訊";
 
+/* TODO */
+"System Language" = "System Language";
+
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "輕觸並選中 __任一邊緣__，  \n使其進入 ___活躍狀態___。";
 
@@ -1953,6 +1992,9 @@
 
 /* No comment provided by engineer. */
 "The hoverball can display even if you do not unlock your device." = "即使你沒有解鎖裝置，懸浮球也可以顯示。";
+
+/* TODO */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "如果在錄音過程中地理位置發生變化，將更新同步到錄音元數據中。";
@@ -2294,10 +2336,10 @@
 "Verify License" = "驗證授權";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@" = "版本 %@ 構建 %@";
+"Version %@ Build %@" = "版本 %1$@ 構建 %2$@";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "版本 %@ 構建 %@ - 新版本 %@ 構建 %@";
+"Version %@ Build %@ - New Version %@ Build %@" = "版本 %1$@ 構建 %2$@ - 新版本 %3$@ 構建 %4$@";
 
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "開始時震動";

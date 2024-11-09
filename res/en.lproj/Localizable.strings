@@ -173,6 +173,9 @@
 "App Icon" = "App Icon";
 
 /* No comment provided by engineer. */
+"App Language" = "App Language";
+
+/* No comment provided by engineer. */
 "Appearance" = "Appearance";
 
 /* No comment provided by engineer. */
@@ -287,6 +290,9 @@
 "Best" = "Best";
 
 /* No comment provided by engineer. */
+"Beta" = "Beta";
+
+/* No comment provided by engineer. */
 "Bi-sync" = "Bi-sync";
 
 /* No comment provided by engineer. */
@@ -374,6 +380,12 @@
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
 /* No comment provided by engineer. */
+"Check Latest Version" = "Check Latest Version";
+
+/* No comment provided by engineer. */
+"Check Updates" = "Check Updates";
+
+/* No comment provided by engineer. */
 "Check Updates at Launch" = "Check Updates at Launch";
 
 /* No comment provided by engineer. */
@@ -414,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Combined Mode" = "Combined Mode";
+
+/* No comment provided by engineer. */
+"Compiled at %@" = "Compiled at %@";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "Compress Recording";
@@ -830,6 +845,9 @@
 "Follow System" = "Follow System";
 
 /* No comment provided by engineer. */
+"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+
+/* No comment provided by engineer. */
 "Format" = "Format";
 
 /* No comment provided by engineer. */
@@ -1064,6 +1082,9 @@
 "Later" = "Later";
 
 /* No comment provided by engineer. */
+"Latest Version" = "Latest Version";
+
+/* No comment provided by engineer. */
 "launch" = "launch";
 
 /* No comment provided by engineer. */
@@ -1133,10 +1154,13 @@
 "Low Disk Space" = "Low Disk Space";
 
 /* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "Made with ♥ by OwnGoal Studio";
+"Made with ♥ by OwnGoal Studio" = "Made with ♥ by OwnGoal Studio";
 
 /* No comment provided by engineer. */
 "Mail composition failed" = "Mail composition failed";
+
+/* No comment provided by engineer. */
+"Maintenance" = "Maintenance";
 
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
@@ -1260,6 +1284,9 @@
 
 /* No comment provided by engineer. */
 "NO" = "NO";
+
+/* No comment provided by engineer. */
+"No Available Version" = "No Available Version";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "No phone number found in selected contacts.";
@@ -1475,6 +1502,12 @@
 "Purchase" = "Purchase";
 
 /* No comment provided by engineer. */
+"Query the latest version from GitHub." = "Query the latest version from GitHub.";
+
+/* No comment provided by engineer. */
+"Querying" = "Querying";
+
+/* No comment provided by engineer. */
 "Quick Recording" = "Quick Recording";
 
 /* No comment provided by engineer. */
@@ -1563,6 +1596,9 @@
 
 /* No comment provided by engineer. */
 "Relaunched" = "Relaunched";
+
+/* No comment provided by engineer. */
+"Release" = "Release";
 
 /* No comment provided by engineer. */
 "Release Notes" = "Release Notes";
@@ -1871,6 +1907,9 @@
 "System Audio" = "System Audio";
 
 /* No comment provided by engineer. */
+"System Language" = "System Language";
+
+/* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
 
 /* No comment provided by engineer. */
@@ -1953,6 +1992,9 @@
 
 /* No comment provided by engineer. */
 "The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
+
+/* No comment provided by engineer. */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "The location metadata will be continuously updated while the recording is in progress.";
@@ -2294,10 +2336,10 @@
 "Verify License" = "Verify License";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@" = "Version %@ Build %@";
+"Version %@ Build %@" = "Version %1$@ Build %2$@";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "Version %@ Build %@ - New Version %@ Build %@";
+"Version %@ Build %@ - New Version %@ Build %@" = "Version %1$@ Build %2$@ - New Version %3$@ Build %4$@";
 
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "Vibrate at Begin";

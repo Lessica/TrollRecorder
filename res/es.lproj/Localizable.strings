@@ -172,6 +172,9 @@
 /* Translated with Microsoft Translator */
 "App Icon" = "Icono de la aplicación";
 
+/* TODO */
+"App Language" = "App Language";
+
 /* No comment provided by engineer. */
 "Appearance" = "Apariencia";
 
@@ -286,6 +289,9 @@
 /* No comment provided by engineer. */
 "Best" = "Mejor";
 
+/* TODO */
+"Beta" = "Beta";
+
 /* No comment provided by engineer. */
 "Bi-sync" = "Bi-sync";
 
@@ -373,6 +379,12 @@
 /* TODO */
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
+/* TODO */
+"Check Latest Version" = "Check Latest Version";
+
+/* TODO */
+"Check Updates" = "Check Updates";
+
 /* Translated with Microsoft Translator */
 "Check Updates at Launch" = "Compruebe las actualizaciones en el momento del lanzamiento";
 
@@ -414,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Combined Mode" = "Modo combinado";
+
+/* TODO */
+"Compiled at %@" = "Compiled at %@";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "Comprimir grabación";
@@ -829,6 +844,9 @@
 /* No comment provided by engineer. */
 "Follow System" = "Seguir el sistema";
 
+/* TODO */
+"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+
 /* No comment provided by engineer. */
 "Format" = "Formato";
 
@@ -1064,6 +1082,9 @@
 "Later" = "Ignorar durante 7 días";
 
 /* TODO */
+"Latest Version" = "Latest Version";
+
+/* TODO */
 "launch" = "launch";
 
 /* No comment provided by engineer. */
@@ -1133,10 +1154,13 @@
 "Low Disk Space" = "Espacio en disco bajo";
 
 /* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "Hecho con amor por OwnGoal Studio";
+"Made with ♥ by OwnGoal Studio" = "Hecho con amor por OwnGoal Studio";
 
 /* Translated with Microsoft Translator */
 "Mail composition failed" = "Error en la composición del correo";
+
+/* TODO */
+"Maintenance" = "Maintenance";
 
 /* Translated with Microsoft Translator */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Haz copias superficiales de las grabaciones en un dominio de copia de seguridad y permite que Copia de seguridad de iCloud las incluya.";
@@ -1260,6 +1284,9 @@
 
 /* Translated with Microsoft Translator */
 "NO" = "NO";
+
+/* TODO */
+"No Available Version" = "No Available Version";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "No se ha encontrado ningún número de teléfono en los contactos seleccionados.";
@@ -1474,6 +1501,12 @@
 /* No comment provided by engineer. */
 "Purchase" = "Comprar";
 
+/* TODO */
+"Query the latest version from GitHub." = "Query the latest version from GitHub.";
+
+/* TODO */
+"Querying" = "Querying";
+
 /* Translated with Microsoft Translator */
 "Quick Recording" = "Grabación rápida";
 
@@ -1563,6 +1596,9 @@
 
 /* Translated with Microsoft Translator */
 "Relaunched" = "Relanzado";
+
+/* TODO */
+"Release" = "Release";
 
 /* Translated with Microsoft Translator */
 "Release Notes" = "Notas de publicación";
@@ -1870,6 +1906,9 @@
 /* No comment provided by engineer. */
 "System Audio" = "Audio del sistema";
 
+/* TODO */
+"System Language" = "System Language";
+
 /* Translated with Microsoft Translator */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Toque __cualquier borde__  \npara seleccionarlo como ___borde activo___.";
 
@@ -1953,6 +1992,9 @@
 
 /* TODO */
 "The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
+
+/* TODO */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "Los metadatos de ubicación se actualizarán continuamente mientras la grabación esté en progreso.";
@@ -2294,10 +2336,10 @@
 "Verify License" = "Verificar licencia";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@" = "Versión %@ Compilación %@";
+"Version %@ Build %@" = "Versión %1$@ Compilación %2$@";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "Versión %@ Compilación %@ - Nueva versión %@ Compilación %@";
+"Version %@ Build %@ - New Version %@ Build %@" = "Versión %1$@ Compilación %2$@ - Nueva Versión %3$@ Compilación %4$@";
 
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "Vibrar al inicio";

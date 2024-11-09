@@ -172,6 +172,9 @@
 /* TODO */
 "App Icon" = "App Icon";
 
+/* TODO */
+"App Language" = "App Language";
+
 /* No comment provided by engineer. */
 "Appearance" = "Vẻ bề ngoài";
 
@@ -287,6 +290,9 @@
 "Best" = "Tốt nhất";
 
 /* TODO */
+"Beta" = "Beta";
+
+/* TODO */
 "Bi-sync" = "Bi-sync";
 
 /* No comment provided by engineer. */
@@ -374,6 +380,12 @@
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
 
 /* TODO */
+"Check Latest Version" = "Check Latest Version";
+
+/* TODO */
+"Check Updates" = "Check Updates";
+
+/* TODO */
 "Check Updates at Launch" = "Check Updates at Launch";
 
 /* TODO */
@@ -414,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Combined Mode" = "Chế độ kết hợp";
+
+/* TODO */
+"Compiled at %@" = "Compiled at %@";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "Ghi âm nén";
@@ -829,6 +844,9 @@
 /* No comment provided by engineer. */
 "Follow System" = "Theo dõi hệ thống";
 
+/* TODO */
+"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+
 /* No comment provided by engineer. */
 "Format" = "Định dạng";
 
@@ -1064,6 +1082,9 @@
 "Later" = "Sau";
 
 /* TODO */
+"Latest Version" = "Latest Version";
+
+/* TODO */
 "launch" = "launch";
 
 /* No comment provided by engineer. */
@@ -1133,10 +1154,13 @@
 "Low Disk Space" = "Dung lượng đĩa thấp";
 
 /* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "Được làm bằng tình yêu bởi OwnGoal Studio";
+"Made with ♥ by OwnGoal Studio" = "Được làm bằng tình yêu bởi OwnGoal Studio";
 
 /* TODO */
 "Mail composition failed" = "Mail composition failed";
+
+/* TODO */
+"Maintenance" = "Maintenance";
 
 /* TODO */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
@@ -1260,6 +1284,9 @@
 
 /* TODO */
 "NO" = "NO";
+
+/* TODO */
+"No Available Version" = "No Available Version";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "Không tìm thấy số điện thoại trong các liên hệ đã chọn.";
@@ -1474,6 +1501,12 @@
 /* No comment provided by engineer. */
 "Purchase" = "Mua";
 
+/* TODO */
+"Query the latest version from GitHub." = "Query the latest version from GitHub.";
+
+/* TODO */
+"Querying" = "Querying";
+
 /* No comment provided by engineer. */
 "Quick Recording" = "Ghi âm nhanh";
 
@@ -1563,6 +1596,9 @@
 
 /* TODO */
 "Relaunched" = "Relaunched";
+
+/* TODO */
+"Release" = "Release";
 
 /* TODO */
 "Release Notes" = "Release Notes";
@@ -1871,6 +1907,9 @@
 "System Audio" = "Hệ thống âm thanh";
 
 /* TODO */
+"System Language" = "System Language";
+
+/* TODO */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
 
 /* TODO */
@@ -1953,6 +1992,9 @@
 
 /* TODO */
 "The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
+
+/* TODO */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "Siêu dữ liệu vị trí sẽ được cập nhật liên tục trong khi quá trình ghi đang diễn ra.";
@@ -2294,10 +2336,10 @@
 "Verify License" = "Xác minh giấy phép";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@" = "Phiên bản %@ Xây dựng %@";
+"Version %@ Build %@" = "Phiên bản %1$@ Xây dựng %2$@";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "Phiên bản %@ Xây dựng %@ - Phiên bản mới %@ Xây dựng %@";
+"Version %@ Build %@ - New Version %@ Build %@" = "Phiên bản %1$@ Xây dựng %2$@ - Phiên bản mới %3$@ Xây dựng %4$@";
 
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "Rung khi bắt đầu";

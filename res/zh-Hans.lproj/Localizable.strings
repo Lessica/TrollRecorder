@@ -173,6 +173,9 @@
 "App Icon" = "应用程序图标";
 
 /* No comment provided by engineer. */
+"App Language" = "应用程序语言";
+
+/* No comment provided by engineer. */
 "Appearance" = "显示与外观";
 
 /* No comment provided by engineer. */
@@ -287,6 +290,9 @@
 "Best" = "最好";
 
 /* No comment provided by engineer. */
+"Beta" = "预发布版";
+
+/* No comment provided by engineer. */
 "Bi-sync" = "双向同步";
 
 /* No comment provided by engineer. */
@@ -374,6 +380,12 @@
 "Check if the daemon is running. If not, launch it." = "检查守护进程是否正在运行。如果没有则启动它。";
 
 /* No comment provided by engineer. */
+"Check Latest Version" = "检查最新版本";
+
+/* No comment provided by engineer. */
+"Check Updates" = "检查更新";
+
+/* No comment provided by engineer. */
 "Check Updates at Launch" = "启动时检查更新";
 
 /* No comment provided by engineer. */
@@ -414,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Combined Mode" = "组合模式";
+
+/* No comment provided by engineer. */
+"Compiled at %@" = "编译于 %@";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "压缩音频";
@@ -830,6 +845,9 @@
 "Follow System" = "跟随系统";
 
 /* No comment provided by engineer. */
+"Force the app to use a specific language. Reopen to apply changes." = "强制应用程序使用指定的语言。重新打开以应用更改。";
+
+/* No comment provided by engineer. */
 "Format" = "格式";
 
 /* No comment provided by engineer. */
@@ -1064,6 +1082,9 @@
 "Later" = "以后再说";
 
 /* No comment provided by engineer. */
+"Latest Version" = "最新版本";
+
+/* No comment provided by engineer. */
 "launch" = "启动";
 
 /* No comment provided by engineer. */
@@ -1133,10 +1154,13 @@
 "Low Disk Space" = "储存空间不足";
 
 /* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "「乌龙工作室」倾情献制";
+"Made with ♥ by OwnGoal Studio" = "「乌龙工作室」倾情献制";
 
 /* No comment provided by engineer. */
 "Mail composition failed" = "邮件发送失败";
+
+/* No comment provided by engineer. */
+"Maintenance" = "维护";
 
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在备份域中创建录音的浅拷贝，并允许 iCloud 备份中包含这些副本。";
@@ -1260,6 +1284,9 @@
 
 /* No comment provided by engineer. */
 "NO" = "否";
+
+/* No comment provided by engineer. */
+"No Available Version" = "无可用版本";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "在选定的联系人中未找到电话号码。";
@@ -1475,6 +1502,12 @@
 "Purchase" = "购买";
 
 /* No comment provided by engineer. */
+"Query the latest version from GitHub." = "从 GitHub 查询最新版本。";
+
+/* No comment provided by engineer. */
+"Querying" = "查询中";
+
+/* No comment provided by engineer. */
 "Quick Recording" = "快速录音";
 
 /* No comment provided by engineer. */
@@ -1563,6 +1596,9 @@
 
 /* No comment provided by engineer. */
 "Relaunched" = "妙手已回春";
+
+/* No comment provided by engineer. */
+"Release" = "正式版";
 
 /* No comment provided by engineer. */
 "Release Notes" = "发行说明";
@@ -1871,6 +1907,9 @@
 "System Audio" = "系统音频";
 
 /* No comment provided by engineer. */
+"System Language" = "系统语言";
+
+/* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "轻按并选中 __任一边缘__，  \n使其进入 ___活跃状态___。";
 
 /* No comment provided by engineer. */
@@ -1953,6 +1992,9 @@
 
 /* No comment provided by engineer. */
 "The hoverball can display even if you do not unlock your device." = "即使你没有解锁设备，悬浮球也可以显示。";
+
+/* No comment provided by engineer. */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "最新版本的 “巨魔录音机” 是 %@ (%@)。当前版本是 %@ (%@)。";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "如果在录音过程中地理位置发生变化，将更新同步到录音元数据中。";
@@ -2294,10 +2336,10 @@
 "Verify License" = "验证授权";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@" = "版本 %@ 构建 %@";
+"Version %@ Build %@" = "版本 %1$@ 构建 %2$@";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "版本 %@ 构建 %@ - 新版本 %@ 构建 %@";
+"Version %@ Build %@ - New Version %@ Build %@" = "版本 %1$@ 构建 %2$@ - 新版本 %3$@ 构建 %4$@";
 
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "开始时振动";
