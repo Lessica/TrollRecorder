@@ -305,6 +305,9 @@
 "Boost Periodic Tasks" = "Boost Periodic Tasks";
 
 /* TODO */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore Compatible Mode)";
+
+/* TODO */
 "Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
 
 /* TODO */
@@ -1099,6 +1102,9 @@
 /* TODO */
 "leading edge" = "leading edge";
 
+/* TODO */
+"Legacy Jailbreak" = "Legacy Jailbreak";
+
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
 
@@ -1502,6 +1508,9 @@
 "Purchase" = "Mua";
 
 /* TODO */
+"Pure TrollStore" = "Pure TrollStore";
+
+/* TODO */
 "Query the latest version from GitHub." = "Query the latest version from GitHub.";
 
 /* TODO */
@@ -1656,6 +1665,15 @@
 
 /* TODO */
 "Root" = "Root";
+
+/* TODO */
+"RootHide Jailbreak" = "RootHide Jailbreak";
+
+/* TODO */
+"Rootless Jailbreak" = "Rootless Jailbreak";
+
+/* TODO */
+"Runtime Environment: %@" = "Runtime Environment: %@";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Tỷ lệ mẫu";
@@ -1821,6 +1839,9 @@
 
 /* TODO */
 "Some settings have been reset to default values." = "Some settings have been reset to default values.";
+
+/* TODO */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo.";
 
 /* TODO */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code.";
@@ -2502,3 +2523,12 @@
 
 /* TODO */
 "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
+
+/* TODO */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
+
+/* TODO */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore.";
+
+/* TODO */
+"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";

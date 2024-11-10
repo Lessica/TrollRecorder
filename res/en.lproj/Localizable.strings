@@ -305,6 +305,9 @@
 "Boost Periodic Tasks" = "Boost Periodic Tasks";
 
 /* No comment provided by engineer. */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore Compatible Mode)";
+
+/* No comment provided by engineer. */
 "Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
 
 /* No comment provided by engineer. */
@@ -1100,6 +1103,9 @@
 "leading edge" = "leading edge";
 
 /* No comment provided by engineer. */
+"Legacy Jailbreak" = "Legacy Jailbreak";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "Link Device to Havoc";
 
 /* No comment provided by engineer. */
@@ -1502,6 +1508,9 @@
 "Purchase" = "Purchase";
 
 /* No comment provided by engineer. */
+"Pure TrollStore" = "Pure TrollStore";
+
+/* No comment provided by engineer. */
 "Query the latest version from GitHub." = "Query the latest version from GitHub.";
 
 /* No comment provided by engineer. */
@@ -1656,6 +1665,15 @@
 
 /* No comment provided by engineer. */
 "Root" = "Root";
+
+/* No comment provided by engineer. */
+"RootHide Jailbreak" = "RootHide Jailbreak";
+
+/* No comment provided by engineer. */
+"Rootless Jailbreak" = "Rootless Jailbreak";
+
+/* No comment provided by engineer. */
+"Runtime Environment: %@" = "Runtime Environment: %@";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Sample Rate";
@@ -1821,6 +1839,9 @@
 
 /* No comment provided by engineer. */
 "Some settings have been reset to default values." = "Some settings have been reset to default values.";
+
+/* No comment provided by engineer. */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo.";
 
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code.";
@@ -2502,3 +2523,12 @@
 
 /* No comment provided by engineer. */
 "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
+
+/* No comment provided by engineer. */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
+
+/* No comment provided by engineer. */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore.";
+
+/* No comment provided by engineer. */
+"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";

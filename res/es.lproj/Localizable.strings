@@ -305,6 +305,9 @@
 "Boost Periodic Tasks" = "Impulsar las tareas periódicas";
 
 /* TODO */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore Compatible Mode)";
+
+/* TODO */
 "Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
 
 /* Translated with Microsoft Translator */
@@ -1099,6 +1102,9 @@
 /* Translated with Microsoft Translator */
 "leading edge" = "vanguardia";
 
+/* TODO */
+"Legacy Jailbreak" = "Legacy Jailbreak";
+
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Vincular dispositivo a Havoc";
 
@@ -1502,6 +1508,9 @@
 "Purchase" = "Comprar";
 
 /* TODO */
+"Pure TrollStore" = "Pure TrollStore";
+
+/* TODO */
 "Query the latest version from GitHub." = "Query the latest version from GitHub.";
 
 /* TODO */
@@ -1656,6 +1665,15 @@
 
 /* Translated with Microsoft Translator */
 "Root" = "Raíz";
+
+/* TODO */
+"RootHide Jailbreak" = "RootHide Jailbreak";
+
+/* TODO */
+"Rootless Jailbreak" = "Rootless Jailbreak";
+
+/* TODO */
+"Runtime Environment: %@" = "Runtime Environment: %@";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Frecuencia de muestreo";
@@ -1821,6 +1839,9 @@
 
 /* Translated with Microsoft Translator */
 "Some settings have been reset to default values." = "Algunos ajustes se han restablecido a los valores predeterminados.";
+
+/* TODO */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo.";
 
 /* Translated with Microsoft Translator */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Pulse “Ver mi cuenta” para comprobar sus pedidos, compras o canjear un código de regalo.";
@@ -2502,3 +2523,12 @@
 
 /* TODO */
 "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
+
+/* TODO */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
+
+/* TODO */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore.";
+
+/* TODO */
+"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";

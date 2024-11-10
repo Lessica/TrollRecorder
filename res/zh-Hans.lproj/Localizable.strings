@@ -305,6 +305,9 @@
 "Boost Periodic Tasks" = "加速定时任务";
 
 /* No comment provided by engineer. */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap（巨魔兼容模式）";
+
+/* No comment provided by engineer. */
 "Both (Microphone & Speaker)" = "双向（麦克风和扬声器）";
 
 /* No comment provided by engineer. */
@@ -1100,6 +1103,9 @@
 "leading edge" = "左边";
 
 /* No comment provided by engineer. */
+"Legacy Jailbreak" = "传统越狱";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "将设备链接到 Havoc";
 
 /* No comment provided by engineer. */
@@ -1502,6 +1508,9 @@
 "Purchase" = "购买";
 
 /* No comment provided by engineer. */
+"Pure TrollStore" = "纯巨魔";
+
+/* No comment provided by engineer. */
 "Query the latest version from GitHub." = "从 GitHub 查询最新版本。";
 
 /* No comment provided by engineer. */
@@ -1656,6 +1665,15 @@
 
 /* No comment provided by engineer. */
 "Root" = "根";
+
+/* No comment provided by engineer. */
+"RootHide Jailbreak" = "隐根越狱";
+
+/* No comment provided by engineer. */
+"Rootless Jailbreak" = "无根越狱";
+
+/* No comment provided by engineer. */
+"Runtime Environment: %@" = "运行环境：%@";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "采样率";
@@ -1821,6 +1839,9 @@
 
 /* No comment provided by engineer. */
 "Some settings have been reset to default values." = "某些设置已重置为默认值";
+
+/* No comment provided by engineer. */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "丢失了一些重要内容。请从 Sileo 重新安装 “TrollRecorder JB”。";
 
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "出现了一些问题，我们无法验证你的购买。你可以轻按 “查看我的账户”，确认你的订单状态或兑换礼品代码。";
@@ -2502,3 +2523,12 @@
 
 /* No comment provided by engineer. */
 "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "此页面上的 “允许自动录音” 已启用：“通话排除列表” 中的联系人将不会被录音，其他联系人将允许被录音。VIP 联系人的录音还会被添加到收藏中。";
+
+/* No comment provided by engineer. */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "巨魔录音机和 “TrollRecorder JB” 不能共存，请卸载它们。然后从 Sileo 重新安装 “TrollRecorder JB”，或从 TrollStore 安装巨魔录音机，你只能选取其中一个。";
+
+/* No comment provided by engineer. */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” 与 Bootstrap (RootHide) 不兼容。请卸载 “TrollRecorder JB”，然后从 TrollStore 安装巨魔录音机。";
+
+/* No comment provided by engineer. */
+"“TrollRecorder” is not compatible with this version of iOS." = "巨魔录音机与此版本的 iOS 不兼容。";
