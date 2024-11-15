@@ -111,31 +111,24 @@ __used static void _CalculateDerivedBufferSize(AudioQueueRef audioQueue, AudioSt
 __used static OSStatus _RecorderSetup(CFURLRef fileURL) {
 
     OSStatus status = noErr;
-    UInt32 dataFormatSize = 0;
     UInt32 *magicCookie = NULL;
     UInt32 cookieSize = 0;
-
-    Float64 sampleRate = 0;
     UInt32 numberOfChannels = 0;
+    AVAudioFormat *audioFormat = nil;
 
-    sampleRate = 44100.0;
     numberOfChannels =
         (mATAudioTapDescriptionPID == kATAudioTapDescriptionPIDMicrophone ? 1 : 2); // built-in mono microphone
-
-    mDataFormat.mFormatID = kAudioFormatMPEG4AAC;
-    mDataFormat.mSampleRate = sampleRate;
-    mDataFormat.mChannelsPerFrame = numberOfChannels;
-
-    dataFormatSize = sizeof(mDataFormat);
-
-    status = AudioFormatGetProperty(kAudioFormatProperty_FormatInfo, 0, NULL, &dataFormatSize, &mDataFormat);
-
-    if (status != noErr) {
-        NSLog(@"AudioFormatGetProperty (%d)", status);
-        return status;
+    audioFormat = [[AVAudioFormat alloc] initWithCommonFormat:AVAudioPCMFormatFloat32
+                                                   sampleRate:44100.0
+                                                     channels:(AVAudioChannelCount)numberOfChannels
+                                                  interleaved:YES];
+    if (!audioFormat) {
+        NSLog(@"AVAudioFormat");
+        return -1;
     }
 
     mCurrentPacket = 0;
+    mDataFormat = *([audioFormat streamDescription]);
 
     status = AudioQueueNewInput(&mDataFormat, _RecorderCallback, NULL, NULL, NULL, 0, &mQueueRef);
 
