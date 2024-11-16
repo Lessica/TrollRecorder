@@ -7,6 +7,9 @@
 /* No comment provided by engineer. */
 "%@ is not available." = "%@ no está disponible.";
 
+/* TODO */
+"%@ is not implemented yet." = "%@ is not implemented yet.";
+
 /* No comment provided by engineer. */
 "%@ is not set up." = "%@ no está configurado.";
 
@@ -1168,11 +1171,20 @@
 /* TODO */
 "Maintenance" = "Maintenance";
 
+/* TODO */
+"Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
+
 /* Translated with Microsoft Translator */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Haz copias superficiales de las grabaciones en un dominio de copia de seguridad y permite que Copia de seguridad de iCloud las incluya.";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Hacer que las grabaciones de llamadas asociadas se muestren en la página del historial de llamadas, saltar a TrollRecorder para una reproducción.";
+
+/* TODO */
+"Make the device ring or vibrate when recording ends." = "Make the device ring or vibrate when recording ends.";
+
+/* TODO */
+"Make the device ring or vibrate when recording starts." = "Make the device ring or vibrate when recording starts.";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "Hacer invisible el HUD global al hacer capturas o grabaciones de pantalla.";
@@ -1332,6 +1344,12 @@
 
 /* TODO */
 "notify" = "notify";
+
+/* TODO */
+"Notify at Begin" = "Notify at Begin";
+
+/* TODO */
+"Notify at End" = "Notify at End";
 
 /* Translated with Microsoft Translator */
 "Object Viewer" = "Visor de objetos";
@@ -1567,6 +1585,9 @@
 /* Translated with Microsoft Translator */
 "Recording (Localized)" = "Grabación (localizada)";
 
+/* TODO */
+"Recording Interrupted" = "Recording Interrupted";
+
 /* Translated with Microsoft Translator */
 "Recording Options" = "Opciones de grabación";
 
@@ -1663,6 +1684,12 @@
 /* Translated with Microsoft Translator */
 "Rewind 5 seconds" = "Rebobinar 5 segundos";
 
+/* TODO */
+"Ring" = "Ring";
+
+/* TODO */
+"Ring & Vibrate" = "Ring & Vibrate";
+
 /* Translated with Microsoft Translator */
 "Root" = "Raíz";
 
@@ -1683,6 +1710,9 @@
 
 /* Translated with Microsoft Translator */
 "Save" = "Guardar";
+
+/* TODO */
+"Say ${requestedText}" = "Say ${requestedText}";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "Identificación de Escena";
@@ -2050,6 +2080,9 @@
 /* No comment provided by engineer. */
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "El modo de postprocesado a utilizar. El modo Combinar aplastará el audio de los altavoces estéreo en el canal izquierdo, con el micrófono en el canal derecho. El modo Mezclado duplicará el canal del micrófono en estéreo y lo mezclará con los canales de los altavoces.";
 
+/* TODO */
+"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+
 /* Translated with Microsoft Translator */
 "The service operator name of the sender." = "El nombre del operador de servicios del remitente.";
 
@@ -2064,6 +2097,9 @@
 
 /* Translated with Microsoft Translator */
 "The Troll Recorder daemon is not alive." = "El demonio Troll Recorder no está vivo.";
+
+/* TODO */
+"The type of content to be recorded." = "The type of content to be recorded.";
 
 /* Translated with Microsoft Translator */
 "The unique identifier of the call." = "El identificador único de la llamada.";
@@ -2284,6 +2320,9 @@
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "Configuración no admitida";
 
+/* TODO */
+"Untitled" = "Untitled";
+
 /* No comment provided by engineer. */
 "Updating…" = "Actualizando…";
 
@@ -2362,6 +2401,9 @@
 /* No comment provided by engineer. */
 "Version %@ Build %@ - New Version %@ Build %@" = "Versión %1$@ Compilación %2$@ - Nueva Versión %3$@ Compilación %4$@";
 
+/* TODO */
+"Vibrate" = "Vibrate";
+
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "Vibrar al inicio";
 
@@ -2386,6 +2428,9 @@
 /* Translated with Microsoft Translator */
 "View Logs: Launch Agent" = "Ver Registros: Agente de Lanzamiento";
 
+/* TODO */
+"View Logs: Voice Memo" = "View Logs: Voice Memo";
+
 /* Translated with Microsoft Translator */
 "View My Account" = "Ver mi cuenta";
 
@@ -2394,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Los contactos VIP siempre se grabarán y se añadirán a los favoritos.";
+
+/* TODO */
+"Voice Memo" = "Voice Memo";
+
+/* TODO */
+"Voice Memos" = "Voice Memos";
 
 /* Translated with Microsoft Translator */
 "voice-over" = "voz en off";
@@ -2431,11 +2482,17 @@
 /* No comment provided by engineer. */
 "Welcome to" = "Bienvenido a";
 
+/* TODO */
+"We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
+
 /* Translated with Microsoft Translator */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "No podemos mostrar el hoverball antes del desbloqueo por razones técnicas.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "¡Tenemos una nueva grabación de llamada telefónica!";
+
+/* TODO */
+"We’ve got a new voice memo!" = "We’ve got a new voice memo!";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "¡Tenemos nuevas grabaciones de llamadas telefónicas!";
@@ -2532,3 +2589,6 @@
 
 /* TODO */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";

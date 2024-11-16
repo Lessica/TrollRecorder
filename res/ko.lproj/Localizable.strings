@@ -7,6 +7,9 @@
 /* No comment provided by engineer. */
 "%@ is not available." = "%@을(를) 사용할 수 없습니다.";
 
+/* TODO */
+"%@ is not implemented yet." = "%@ is not implemented yet.";
+
 /* No comment provided by engineer. */
 "%@ is not set up." = "%@이(가) 설정되지 않았습니다.";
 
@@ -1168,11 +1171,20 @@
 /* TODO */
 "Maintenance" = "Maintenance";
 
+/* TODO */
+"Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
+
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "백업 도메인에서 녹음의 얕은 복사본을 만들고 iCloud 백업에 이를 포함하도록 허용합니다.";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "통화 기록 페이지에 관련 통화 녹음을 표시하고 재생을 위해 TrollRecorder로 이동합니다.";
+
+/* TODO */
+"Make the device ring or vibrate when recording ends." = "Make the device ring or vibrate when recording ends.";
+
+/* TODO */
+"Make the device ring or vibrate when recording starts." = "Make the device ring or vibrate when recording starts.";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "스크린샷을 찍거나 화면을 녹화할 때 호버볼을 보이지 않게 만듭니다.";
@@ -1332,6 +1344,12 @@
 
 /* TODO */
 "notify" = "notify";
+
+/* TODO */
+"Notify at Begin" = "Notify at Begin";
+
+/* TODO */
+"Notify at End" = "Notify at End";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "객체 뷰어";
@@ -1567,6 +1585,9 @@
 /* No comment provided by engineer. */
 "Recording (Localized)" = "녹음 (현지화)";
 
+/* TODO */
+"Recording Interrupted" = "Recording Interrupted";
+
 /* No comment provided by engineer. */
 "Recording Options" = "녹음 옵션";
 
@@ -1663,6 +1684,12 @@
 /* No comment provided by engineer. */
 "Rewind 5 seconds" = "5초 뒤로";
 
+/* TODO */
+"Ring" = "Ring";
+
+/* TODO */
+"Ring & Vibrate" = "Ring & Vibrate";
+
 /* No comment provided by engineer. */
 "Root" = "루트";
 
@@ -1683,6 +1710,9 @@
 
 /* No comment provided by engineer. */
 "Save" = "저장";
+
+/* TODO */
+"Say ${requestedText}" = "Say ${requestedText}";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "상황 인식";
@@ -2050,6 +2080,9 @@
 /* No comment provided by engineer. */
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "후처리 모드가 사용됩니다. 결합 모드는 스테레오 스피커 오디오를 왼쪽 채널에 채우고 마이크는 오른쪽 채널에 채웁니다. 혼합 모드는 마이크 채널을 스테레오로 복제하여 스피커 채널과 혼합합니다.";
 
+/* TODO */
+"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "이동통신사 이름입니다.";
 
@@ -2064,6 +2097,9 @@
 
 /* No comment provided by engineer. */
 "The Troll Recorder daemon is not alive." = "TrollRecorder 데몬 서비스 실행에 실패했습니다.";
+
+/* TODO */
+"The type of content to be recorded." = "The type of content to be recorded.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the call." = "통화의 고유 식별자입니다.";
@@ -2284,6 +2320,9 @@
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "지원되지 않는 구성";
 
+/* TODO */
+"Untitled" = "Untitled";
+
 /* No comment provided by engineer. */
 "Updating…" = "업데이트 중...";
 
@@ -2362,6 +2401,9 @@
 /* No comment provided by engineer. */
 "Version %@ Build %@ - New Version %@ Build %@" = "버전 %1$@ 빌드 %2$@ - 새 버전 %3$@ 빌드 %4$@";
 
+/* TODO */
+"Vibrate" = "Vibrate";
+
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "시작 시 진동";
 
@@ -2386,6 +2428,9 @@
 /* No comment provided by engineer. */
 "View Logs: Launch Agent" = "에이전트 실행";
 
+/* TODO */
+"View Logs: Voice Memo" = "View Logs: Voice Memo";
+
 /* No comment provided by engineer. */
 "View My Account" = "내 계정 보기";
 
@@ -2394,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP 연락처는 항상 녹음되고 즐겨찾기에 추가됩니다.";
+
+/* TODO */
+"Voice Memo" = "Voice Memo";
+
+/* TODO */
+"Voice Memos" = "Voice Memos";
 
 /* No comment provided by engineer. */
 "voice-over" = "VoiceOver";
@@ -2431,11 +2482,17 @@
 /* No comment provided by engineer. */
 "Welcome to" = "환영합니다!";
 
+/* TODO */
+"We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
+
 /* No comment provided by engineer. */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "기술적인 이유로 잠금 해제 전 호버볼을 표시할 수 없습니다.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "새 전화 통화 녹음이 있습니다!";
+
+/* TODO */
+"We’ve got a new voice memo!" = "We’ve got a new voice memo!";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "새 전화 통화 녹음이 있습니다!";
@@ -2532,3 +2589,6 @@
 
 /* TODO */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";

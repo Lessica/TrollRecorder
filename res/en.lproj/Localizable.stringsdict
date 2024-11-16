@@ -2,6 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Content Type</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>Content Type</string>
+            <key>other</key>
+            <string>Content Types</string>
+        </dict>
+    </dict>
+	<key>%lld content types</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+			<key>zero</key>
+			<string>%lld content types</string>
+			<key>one</key>
+			<string>%lld content type</string>
+			<key>other</key>
+			<string>%lld content types</string>
+		</dict>
+	</dict>
     <key>Information Field</key>
     <dict>
         <key>NSStringLocalizedFormatKey</key>

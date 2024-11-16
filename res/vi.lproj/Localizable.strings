@@ -7,6 +7,9 @@
 /* No comment provided by engineer. */
 "%@ is not available." = "%@ không có sẵn.";
 
+/* TODO */
+"%@ is not implemented yet." = "%@ is not implemented yet.";
+
 /* No comment provided by engineer. */
 "%@ is not set up." = "%@ không được thiết lập.";
 
@@ -1169,10 +1172,19 @@
 "Maintenance" = "Maintenance";
 
 /* TODO */
+"Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
+
+/* TODO */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* TODO */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback.";
+
+/* TODO */
+"Make the device ring or vibrate when recording ends." = "Make the device ring or vibrate when recording ends.";
+
+/* TODO */
+"Make the device ring or vibrate when recording starts." = "Make the device ring or vibrate when recording starts.";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "Làm cho bong bóng mọi nơi trở nên vô hình khi chụp ảnh màn hình hoặc ghi lại màn hình.";
@@ -1332,6 +1344,12 @@
 
 /* TODO */
 "notify" = "notify";
+
+/* TODO */
+"Notify at Begin" = "Notify at Begin";
+
+/* TODO */
+"Notify at End" = "Notify at End";
 
 /* TODO */
 "Object Viewer" = "Object Viewer";
@@ -1568,6 +1586,9 @@
 "Recording (Localized)" = "Recording (Localized)";
 
 /* TODO */
+"Recording Interrupted" = "Recording Interrupted";
+
+/* TODO */
 "Recording Options" = "Recording Options";
 
 /* No comment provided by engineer. */
@@ -1664,6 +1685,12 @@
 "Rewind 5 seconds" = "Rewind 5 seconds";
 
 /* TODO */
+"Ring" = "Ring";
+
+/* TODO */
+"Ring & Vibrate" = "Ring & Vibrate";
+
+/* TODO */
 "Root" = "Root";
 
 /* TODO */
@@ -1683,6 +1710,9 @@
 
 /* TODO */
 "Save" = "Save";
+
+/* TODO */
+"Say ${requestedText}" = "Say ${requestedText}";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "Nhận dạng cảnh";
@@ -2051,6 +2081,9 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Chế độ xử lý bài đăng sẽ được sử dụng. Chế độ kết hợp sẽ nhét âm thanh loa âm thanh nổi vào kênh bên trái, với micrô ở kênh bên phải. Chế độ hỗn hợp sẽ sao chép kênh micrô sang âm thanh nổi và trộn nó với các kênh loa.";
 
 /* TODO */
+"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+
+/* TODO */
 "The service operator name of the sender." = "The service operator name of the sender.";
 
 /* No comment provided by engineer. */
@@ -2064,6 +2097,9 @@
 
 /* TODO */
 "The Troll Recorder daemon is not alive." = "The Troll Recorder daemon is not alive.";
+
+/* TODO */
+"The type of content to be recorded." = "The type of content to be recorded.";
 
 /* TODO */
 "The unique identifier of the call." = "The unique identifier of the call.";
@@ -2284,6 +2320,9 @@
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "Cấu hình không được hỗ trợ";
 
+/* TODO */
+"Untitled" = "Untitled";
+
 /* No comment provided by engineer. */
 "Updating…" = "Đang cập nhật…";
 
@@ -2362,6 +2401,9 @@
 /* No comment provided by engineer. */
 "Version %@ Build %@ - New Version %@ Build %@" = "Phiên bản %1$@ Xây dựng %2$@ - Phiên bản mới %3$@ Xây dựng %4$@";
 
+/* TODO */
+"Vibrate" = "Vibrate";
+
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "Rung khi bắt đầu";
 
@@ -2387,6 +2429,9 @@
 "View Logs: Launch Agent" = "View Logs: Launch Agent";
 
 /* TODO */
+"View Logs: Voice Memo" = "View Logs: Voice Memo";
+
+/* TODO */
 "View My Account" = "View My Account";
 
 /* TODO */
@@ -2394,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Các liên hệ VIP sẽ luôn được ghi lại và thêm vào các mục yêu thích.";
+
+/* TODO */
+"Voice Memo" = "Voice Memo";
+
+/* TODO */
+"Voice Memos" = "Voice Memos";
 
 /* TODO */
 "voice-over" = "voice-over";
@@ -2432,10 +2483,16 @@
 "Welcome to" = "Chào mừng đến với";
 
 /* TODO */
+"We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
+
+/* TODO */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Chúng tôi có một bản ghi âm cuộc gọi điện thoại mới!";
+
+/* TODO */
+"We’ve got a new voice memo!" = "We’ve got a new voice memo!";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "Chúng tôi có bản ghi âm cuộc gọi điện thoại mới!";
@@ -2532,3 +2589,6 @@
 
 /* TODO */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";

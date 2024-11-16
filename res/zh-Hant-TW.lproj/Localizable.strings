@@ -7,6 +7,9 @@
 /* No comment provided by engineer. */
 "%@ is not available." = "%@ 不可用。";
 
+/* TODO */
+"%@ is not implemented yet." = "%@ is not implemented yet.";
+
 /* No comment provided by engineer. */
 "%@ is not set up." = "%@ 未設定。";
 
@@ -1168,11 +1171,20 @@
 /* TODO */
 "Maintenance" = "Maintenance";
 
+/* TODO */
+"Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
+
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在備份域中創建錄音的淺拷貝，並允許 iCloud 備份中包含這些副本。";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "使關聯的通話錄音展示在通話記錄頁面，跳轉到巨魔錄音機進行回播。";
+
+/* TODO */
+"Make the device ring or vibrate when recording ends." = "Make the device ring or vibrate when recording ends.";
+
+/* TODO */
+"Make the device ring or vibrate when recording starts." = "Make the device ring or vibrate when recording starts.";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在進行螢幕截圖或螢幕錄影時使懸浮球不可見。";
@@ -1332,6 +1344,12 @@
 
 /* No comment provided by engineer. */
 "notify" = "通知";
+
+/* TODO */
+"Notify at Begin" = "Notify at Begin";
+
+/* TODO */
+"Notify at End" = "Notify at End";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "對象檢視器";
@@ -1567,6 +1585,9 @@
 /* No comment provided by engineer. */
 "Recording (Localized)" = "錄音";
 
+/* TODO */
+"Recording Interrupted" = "Recording Interrupted";
+
 /* No comment provided by engineer. */
 "Recording Options" = "錄音選項";
 
@@ -1663,6 +1684,12 @@
 /* No comment provided by engineer. */
 "Rewind 5 seconds" = "回退 5 秒鐘";
 
+/* TODO */
+"Ring" = "Ring";
+
+/* TODO */
+"Ring & Vibrate" = "Ring & Vibrate";
+
 /* No comment provided by engineer. */
 "Root" = "根";
 
@@ -1683,6 +1710,9 @@
 
 /* No comment provided by engineer. */
 "Save" = "保存";
+
+/* TODO */
+"Say ${requestedText}" = "Say ${requestedText}";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "通話場景識別";
@@ -2050,6 +2080,9 @@
 /* No comment provided by engineer. */
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用於通道合併的方式。 組合模式會將立體聲揚聲器音訊壓縮到左聲道，麥克風在右聲道。 關閉後為混合模式，會將麥克風通道複製到立體聲並與揚聲器通道混合輸出。";
 
+/* TODO */
+"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "運營商的名稱。";
 
@@ -2064,6 +2097,9 @@
 
 /* No comment provided by engineer. */
 "The Troll Recorder daemon is not alive." = "巨魔錄音機守護服務未能運行。";
+
+/* TODO */
+"The type of content to be recorded." = "The type of content to be recorded.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the call." = "通話的唯一標識符。";
@@ -2284,6 +2320,9 @@
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "不支援的配置";
 
+/* TODO */
+"Untitled" = "Untitled";
+
 /* No comment provided by engineer. */
 "Updating…" = "正在更新…";
 
@@ -2362,6 +2401,9 @@
 /* No comment provided by engineer. */
 "Version %@ Build %@ - New Version %@ Build %@" = "版本 %1$@ 構建 %2$@ - 新版本 %3$@ 構建 %4$@";
 
+/* TODO */
+"Vibrate" = "Vibrate";
+
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "開始時震動";
 
@@ -2386,6 +2428,9 @@
 /* No comment provided by engineer. */
 "View Logs: Launch Agent" = "啟用代理";
 
+/* TODO */
+"View Logs: Voice Memo" = "View Logs: Voice Memo";
+
 /* No comment provided by engineer. */
 "View My Account" = "查看我的賬戶";
 
@@ -2394,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP聯絡人將總是被錄音並添加到收藏中。";
+
+/* TODO */
+"Voice Memo" = "Voice Memo";
+
+/* TODO */
+"Voice Memos" = "Voice Memos";
 
 /* No comment provided by engineer. */
 "voice-over" = "Voice-Over";
@@ -2431,11 +2482,17 @@
 /* No comment provided by engineer. */
 "Welcome to" = "歡迎使用";
 
+/* TODO */
+"We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
+
 /* No comment provided by engineer. */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "由於技術原因，我們無法在解鎖前顯示懸浮球。";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "我們生成了一份新的通話錄音！";
+
+/* TODO */
+"We’ve got a new voice memo!" = "We’ve got a new voice memo!";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "我們生成了一份新的通話錄音！";
@@ -2532,3 +2589,6 @@
 
 /* TODO */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";

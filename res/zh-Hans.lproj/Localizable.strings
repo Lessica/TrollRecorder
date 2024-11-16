@@ -8,6 +8,9 @@
 "%@ is not available." = "%@ 不可用。";
 
 /* No comment provided by engineer. */
+"%@ is not implemented yet." = "%@ 尚未实现。";
+
+/* No comment provided by engineer. */
 "%@ is not set up." = "%@ 未设置。";
 
 /* No comment provided by engineer. */
@@ -1169,10 +1172,19 @@
 "Maintenance" = "维护";
 
 /* No comment provided by engineer. */
+"Make a ${requestedMode} recording" = "录制一个 ${requestedMode} 录音";
+
+/* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在备份域中创建录音的浅拷贝，并允许 iCloud 备份中包含这些副本。";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "使关联的通话录音展示在通话记录页面，跳转到巨魔录音机进行回放。";
+
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording ends." = "在录音结束时使设备响铃或振动。";
+
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording starts." = "在录音开始时使设备响铃或振动。";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在进行截屏或屏幕录制时使悬浮球不可见。";
@@ -1332,6 +1344,12 @@
 
 /* No comment provided by engineer. */
 "notify" = "通知";
+
+/* No comment provided by engineer. */
+"Notify at Begin" = "开始时提醒";
+
+/* No comment provided by engineer. */
+"Notify at End" = "结束时提醒";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "对象查看器";
@@ -1568,6 +1586,9 @@
 "Recording (Localized)" = "录音";
 
 /* No comment provided by engineer. */
+"Recording Interrupted" = "录音被中断";
+
+/* No comment provided by engineer. */
 "Recording Options" = "录音选项";
 
 /* No comment provided by engineer. */
@@ -1664,6 +1685,12 @@
 "Rewind 5 seconds" = "倒回 5 秒钟";
 
 /* No comment provided by engineer. */
+"Ring" = "响铃";
+
+/* No comment provided by engineer. */
+"Ring & Vibrate" = "响铃并振动";
+
+/* No comment provided by engineer. */
 "Root" = "根";
 
 /* No comment provided by engineer. */
@@ -1683,6 +1710,9 @@
 
 /* No comment provided by engineer. */
 "Save" = "保存";
+
+/* No comment provided by engineer. */
+"Say ${requestedText}" = "说 ${requestedText}";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "通话场景识别";
@@ -2051,6 +2081,9 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用于通道合并的方式。组合模式会将立体声扬声器音频压缩到左声道，麦克风在右声道。关闭后为混合模式，会将麦克风通道复制到立体声并与扬声器通道混合输出。";
 
 /* No comment provided by engineer. */
+"The recording has been interrupted by the system. You may convert the recording manually later." = "录音已被系统中断。你可以稍后手动转换录音。";
+
+/* No comment provided by engineer. */
 "The service operator name of the sender." = "运营商的名称。";
 
 /* No comment provided by engineer. */
@@ -2064,6 +2097,9 @@
 
 /* No comment provided by engineer. */
 "The Troll Recorder daemon is not alive." = "巨魔录音机守护服务未能运行。";
+
+/* No comment provided by engineer. */
+"The type of content to be recorded." = "需要录制的内容类型。";
 
 /* No comment provided by engineer. */
 "The unique identifier of the call." = "通话的唯一标识符。";
@@ -2285,6 +2321,9 @@
 "Unsupported Configuration" = "不支持的配置";
 
 /* No comment provided by engineer. */
+"Untitled" = "未命名";
+
+/* No comment provided by engineer. */
 "Updating…" = "正在更新…";
 
 /* No comment provided by engineer. */
@@ -2363,6 +2402,9 @@
 "Version %@ Build %@ - New Version %@ Build %@" = "版本 %1$@ 构建 %2$@ - 新版本 %3$@ 构建 %4$@";
 
 /* No comment provided by engineer. */
+"Vibrate" = "振动";
+
+/* No comment provided by engineer. */
 "Vibrate at Begin" = "开始时振动";
 
 /* No comment provided by engineer. */
@@ -2387,6 +2429,9 @@
 "View Logs: Launch Agent" = "启动代理";
 
 /* No comment provided by engineer. */
+"View Logs: Voice Memo" = "语音备忘录";
+
+/* No comment provided by engineer. */
 "View My Account" = "查看我的账户";
 
 /* No comment provided by engineer. */
@@ -2394,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP 联系人将始终被录音并添加到收藏中。";
+
+/* No comment provided by engineer. */
+"Voice Memo" = "语音备忘录";
+
+/* No comment provided by engineer. */
+"Voice Memos" = "语音备忘录";
 
 /* No comment provided by engineer. */
 "voice-over" = "Voice-Over";
@@ -2432,10 +2483,16 @@
 "Welcome to" = "欢迎使用";
 
 /* No comment provided by engineer. */
+"We’re recording your voice memo in the background." = "巨魔录音机正在后台录制语音备忘录。";
+
+/* No comment provided by engineer. */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "由于技术原因，我们无法在解锁前显示悬浮球。";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "我们生成了一份新的通话录音！";
+
+/* No comment provided by engineer. */
+"We’ve got a new voice memo!" = "我们生成了一份新的语音备忘录！";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "我们生成了一些新的通话录音！";
@@ -2532,3 +2589,6 @@
 
 /* No comment provided by engineer. */
 "“TrollRecorder” is not compatible with this version of iOS." = "巨魔录音机与此版本的 iOS 不兼容。";
+
+/* No comment provided by engineer. */
+"…" = "…";

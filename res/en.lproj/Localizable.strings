@@ -8,6 +8,9 @@
 "%@ is not available." = "%@ is not available.";
 
 /* No comment provided by engineer. */
+"%@ is not implemented yet." = "%@ is not implemented yet.";
+
+/* No comment provided by engineer. */
 "%@ is not set up." = "%@ is not set up.";
 
 /* No comment provided by engineer. */
@@ -1169,10 +1172,19 @@
 "Maintenance" = "Maintenance";
 
 /* No comment provided by engineer. */
+"Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
+
+/* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback.";
+
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording ends." = "Make the device ring or vibrate when recording ends.";
+
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording starts." = "Make the device ring or vibrate when recording starts.";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "Make the hoverball invisible when taking screenshots or screen recordings.";
@@ -1332,6 +1344,12 @@
 
 /* No comment provided by engineer. */
 "notify" = "notify";
+
+/* No comment provided by engineer. */
+"Notify at Begin" = "Notify at Begin";
+
+/* No comment provided by engineer. */
+"Notify at End" = "Notify at End";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "Object Viewer";
@@ -1568,6 +1586,9 @@
 "Recording (Localized)" = "Recording (Localized)";
 
 /* No comment provided by engineer. */
+"Recording Interrupted" = "Recording Interrupted";
+
+/* No comment provided by engineer. */
 "Recording Options" = "Recording Options";
 
 /* No comment provided by engineer. */
@@ -1664,6 +1685,12 @@
 "Rewind 5 seconds" = "Rewind 5 seconds";
 
 /* No comment provided by engineer. */
+"Ring" = "Ring";
+
+/* No comment provided by engineer. */
+"Ring & Vibrate" = "Ring & Vibrate";
+
+/* No comment provided by engineer. */
 "Root" = "Root";
 
 /* No comment provided by engineer. */
@@ -1683,6 +1710,9 @@
 
 /* No comment provided by engineer. */
 "Save" = "Save";
+
+/* No comment provided by engineer. */
+"Say ${requestedText}" = "Say ${requestedText}";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "Scene Identification";
@@ -2051,6 +2081,9 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels.";
 
 /* No comment provided by engineer. */
+"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+
+/* No comment provided by engineer. */
 "The service operator name of the sender." = "The service operator name of the sender.";
 
 /* No comment provided by engineer. */
@@ -2064,6 +2097,9 @@
 
 /* No comment provided by engineer. */
 "The Troll Recorder daemon is not alive." = "The Troll Recorder daemon is not alive.";
+
+/* No comment provided by engineer. */
+"The type of content to be recorded." = "The type of content to be recorded.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the call." = "The unique identifier of the call.";
@@ -2285,6 +2321,9 @@
 "Unsupported Configuration" = "Unsupported Configuration";
 
 /* No comment provided by engineer. */
+"Untitled" = "Untitled";
+
+/* No comment provided by engineer. */
 "Updating…" = "Updating…";
 
 /* No comment provided by engineer. */
@@ -2363,6 +2402,9 @@
 "Version %@ Build %@ - New Version %@ Build %@" = "Version %1$@ Build %2$@ - New Version %3$@ Build %4$@";
 
 /* No comment provided by engineer. */
+"Vibrate" = "Vibrate";
+
+/* No comment provided by engineer. */
 "Vibrate at Begin" = "Vibrate at Begin";
 
 /* No comment provided by engineer. */
@@ -2387,6 +2429,9 @@
 "View Logs: Launch Agent" = "View Logs: Launch Agent";
 
 /* No comment provided by engineer. */
+"View Logs: Voice Memo" = "View Logs: Voice Memo";
+
+/* No comment provided by engineer. */
 "View My Account" = "View My Account";
 
 /* No comment provided by engineer. */
@@ -2394,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP contacts will always be recorded and added to the favourites.";
+
+/* No comment provided by engineer. */
+"Voice Memo" = "Voice Memo";
+
+/* No comment provided by engineer. */
+"Voice Memos" = "Voice Memos";
 
 /* No comment provided by engineer. */
 "voice-over" = "voice-over";
@@ -2432,10 +2483,16 @@
 "Welcome to" = "Welcome to";
 
 /* No comment provided by engineer. */
+"We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
+
+/* No comment provided by engineer. */
 "We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "We’ve got a new phone call recording!";
+
+/* No comment provided by engineer. */
+"We’ve got a new voice memo!" = "We’ve got a new voice memo!";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "We’ve got new phone call recordings!";
@@ -2532,3 +2589,6 @@
 
 /* No comment provided by engineer. */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";
