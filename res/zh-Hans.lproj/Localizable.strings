@@ -1148,6 +1148,9 @@
 "Long Date" = "长日期";
 
 /* No comment provided by engineer. */
+"Long Press Action" = "长按动作";
+
+/* No comment provided by engineer. */
 "Long Press Hoverball" = "长按悬浮球";
 
 /* No comment provided by engineer. */
@@ -2186,13 +2189,19 @@
 "toggle" = "toggle";
 
 /* No comment provided by engineer. */
-"Toggle Hoverball" = "打开/关闭悬浮球";
+"Toggle Call Recording" = "启停通话录音";
 
 /* No comment provided by engineer. */
-"Toggle ON/OFF the recorder hoverball." = "启动服务，并打开/关闭录音悬浮球。";
+"Toggle Hoverball" = "切换悬浮球";
 
 /* No comment provided by engineer. */
-"Toggle Recording" = "开始/停止录音";
+"Toggle ON/OFF the recorder hoverball." = "启动服务，并切换录音悬浮球。";
+
+/* No comment provided by engineer. */
+"Toggle Recording" = "启停录音";
+
+/* No comment provided by engineer. */
+"Toggle Voice Memo" = "启停语音备忘录";
 
 /* No comment provided by engineer. */
 "top edge" = "顶边";

@@ -1,25 +1,44 @@
+/* No comment provided by engineer. */
 "CFBundleDisplayName" = "TrollRecorder";
 
-"NSContactsUsageDescription" = "TrollRecorder는 전화번호 대신 친구의 이름을 표시하기 위해 연락처에 대한 접근 권한이 필요합니다.";
+/* No comment provided by engineer. */
+"NSContactsUsageDescription" = "“TrollRecorder” 는 전화번호 대신 친구의 이름을 표시하기 위해 연락처에 대한 접근 권한이 필요합니다.";
 
-"NSFaceIDUsageDescription" = "TrollRecorder는 신원을 확인하기 위해 Face ID에 대한 접근 권한이 필요합니다.";
+/* No comment provided by engineer. */
+"NSFaceIDUsageDescription" = "“TrollRecorder” 는 신원을 확인하기 위해 Face ID에 대한 접근 권한이 필요합니다.";
 
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+/* No comment provided by engineer. */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "“TrollRecorder” 는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
 
-"NSLocationAlwaysUsageDescription" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+/* No comment provided by engineer. */
+"NSLocationAlwaysUsageDescription" = "“TrollRecorder” 는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
 
-"NSLocationTemporaryUsageDescriptionDictionary" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+/* No comment provided by engineer. */
+"NSLocationTemporaryUsageDescriptionDictionary" = "“TrollRecorder” 는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
 
-"NSLocationUsageDescription" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+/* No comment provided by engineer. */
+"NSLocationUsageDescription" = "“TrollRecorder” 는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
 
-"NSLocationWhenInUseUsageDescription" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+/* No comment provided by engineer. */
+"NSLocationWhenInUseUsageDescription" = "“TrollRecorder” 는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
 
-"NSMicrophoneUsageDescription" = "TrollRecorder는 가장 기본적인 녹음 기능을 수행을 위해 마이크에 대한 접근 권한이 필요합니다.";
+/* No comment provided by engineer. */
+"NSMicrophoneUsageDescription" = "“TrollRecorder” 는 가장 기본적인 녹음 기능을 수행을 위해 마이크에 대한 접근 권한이 필요합니다.";
 
-"NSSpeechRecognitionUsageDescription" = "TrollRecorder는 음성 인식을 사용하여 녹음의 녹취록을 작성하려고 합니다.";
+/* No comment provided by engineer. */
+"NSSpeechRecognitionUsageDescription" = "“TrollRecorder” 는 음성 인식을 사용하여 녹음의 녹취록을 작성하려고 합니다.";
 
+/* No comment provided by engineer. */
 "NSUbiquitousContainerName" = "TrollRecorder";
 
+/* No comment provided by engineer. */
 "Toggle Hoverball" = "호버볼 켜기/끄기";
 
+/* No comment provided by engineer. */
 "Toggle Recording" = "녹음 시작/중지";
+
+/* TODO */
+"Toggle Call Recording" = "Toggle Call Recording";
+
+/* TODO */
+"Toggle Voice Memo" = "Toggle Voice Memo";

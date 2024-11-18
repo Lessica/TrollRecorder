@@ -1,25 +1,44 @@
+/* No comment provided by engineer. */
 "CFBundleDisplayName" = "TrollRecorder";
 
-"NSContactsUsageDescription" = "TrollRecorder a besoin d'accéder à vos contacts pour afficher le nom de vos amis au lieu du numéro de téléphone.";
+/* No comment provided by engineer. */
+"NSContactsUsageDescription" = "“TrollRecorder” a besoin d'accéder à vos contacts pour afficher le nom de vos amis au lieu du numéro de téléphone.";
 
-"NSFaceIDUsageDescription" = "TrollRecorder a besoin d'accéder à Face ID pour vérifier votre identité.";
+/* No comment provided by engineer. */
+"NSFaceIDUsageDescription" = "“TrollRecorder” a besoin d'accéder à Face ID pour vérifier votre identité.";
 
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder a besoin d'accéder à votre emplacement pour l'enregistrer avec vos enregistrements.";
+/* No comment provided by engineer. */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "“TrollRecorder” a besoin d'accéder à votre emplacement pour l'enregistrer avec vos enregistrements.";
 
-"NSLocationAlwaysUsageDescription" = "TrollRecorder a besoin d'accéder à votre emplacement pour l'enregistrer avec vos enregistrements";
+/* No comment provided by engineer. */
+"NSLocationAlwaysUsageDescription" = "“TrollRecorder” a besoin d'accéder à votre emplacement pour l'enregistrer avec vos enregistrements";
 
-"NSLocationTemporaryUsageDescriptionDictionary" = "TrollRecorder a besoin d'accéder à votre localisation pour l'enregistrer avec vos enregistrements.";
+/* No comment provided by engineer. */
+"NSLocationTemporaryUsageDescriptionDictionary" = "“TrollRecorder” a besoin d'accéder à votre localisation pour l'enregistrer avec vos enregistrements.";
 
-"NSLocationUsageDescription" = "TrollRecorder a besoin d'accéder à votre localisation pour l'enregistrer avec vos enregistrements.";
+/* No comment provided by engineer. */
+"NSLocationUsageDescription" = "“TrollRecorder” a besoin d'accéder à votre localisation pour l'enregistrer avec vos enregistrements.";
 
-"NSLocationWhenInUseUsageDescription" = "TrollRecorder a besoin d'accéder à votre localisation pour l'enregistrer avec vos enregistrements.";
+/* No comment provided by engineer. */
+"NSLocationWhenInUseUsageDescription" = "“TrollRecorder” a besoin d'accéder à votre localisation pour l'enregistrer avec vos enregistrements.";
 
-"NSMicrophoneUsageDescription" = "TrollRecorder a besoin d'accéder à votre microphone pour mettre en œuvre les fonctionnalités d'enregistrement les plus basiques";
+/* No comment provided by engineer. */
+"NSMicrophoneUsageDescription" = "“TrollRecorder” a besoin d'accéder à votre microphone pour mettre en œuvre les fonctionnalités d'enregistrement les plus basiques";
 
-"NSSpeechRecognitionUsageDescription" = "TrollRecorder souhaite utiliser la reconnaissance vocale pour créer des transcriptions de vos enregistrements.";
+/* No comment provided by engineer. */
+"NSSpeechRecognitionUsageDescription" = "“TrollRecorder” souhaite utiliser la reconnaissance vocale pour créer des transcriptions de vos enregistrements.";
 
+/* No comment provided by engineer. */
 "NSUbiquitousContainerName" = "TrollRecorder";
 
+/* No comment provided by engineer. */
 "Toggle Hoverball" = "Activer Hoverball";
 
+/* No comment provided by engineer. */
 "Toggle Recording" = "Activer l'enregistrement";
+
+/* TODO */
+"Toggle Call Recording" = "Toggle Call Recording";
+
+/* TODO */
+"Toggle Voice Memo" = "Toggle Voice Memo";

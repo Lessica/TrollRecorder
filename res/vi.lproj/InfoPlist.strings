@@ -1,25 +1,44 @@
+/* No comment provided by engineer. */
 "CFBundleDisplayName" = "TrollRecorder";
 
-"NSContactsUsageDescription" = "TrollRecorder cần quyền truy cập vào danh bạ của bạn để hiển thị tên bạn bè của bạn thay vì số điện thoại.";
+/* No comment provided by engineer. */
+"NSContactsUsageDescription" = "“TrollRecorder” cần quyền truy cập vào danh bạ của bạn để hiển thị tên bạn bè của bạn thay vì số điện thoại.";
 
-"NSFaceIDUsageDescription" = "TrollRecorder cần quyền truy cập vào Face ID để xác minh danh tính của bạn.";
+/* No comment provided by engineer. */
+"NSFaceIDUsageDescription" = "“TrollRecorder” cần quyền truy cập vào Face ID để xác minh danh tính của bạn.";
 
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
+/* No comment provided by engineer. */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "“TrollRecorder” cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
 
-"NSLocationAlwaysUsageDescription" = "TrollRecorder cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
+/* No comment provided by engineer. */
+"NSLocationAlwaysUsageDescription" = "“TrollRecorder” cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
 
-"NSLocationTemporaryUsageDescriptionDictionary" = "TrollRecorder cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
+/* No comment provided by engineer. */
+"NSLocationTemporaryUsageDescriptionDictionary" = "“TrollRecorder” cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
 
-"NSLocationUsageDescription" = "TrollRecorder cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
+/* No comment provided by engineer. */
+"NSLocationUsageDescription" = "“TrollRecorder” cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
 
-"NSLocationWhenInUseUsageDescription" = "TrollRecorder cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
+/* No comment provided by engineer. */
+"NSLocationWhenInUseUsageDescription" = "“TrollRecorder” cần quyền truy cập vào vị trí của bạn để lưu nó với các bản ghi âm của bạn.";
 
-"NSMicrophoneUsageDescription" = "TrollRecorder cần truy cập vào micrô của bạn để thực hiện các tính năng ghi âm cơ bản nhất.";
+/* No comment provided by engineer. */
+"NSMicrophoneUsageDescription" = "“TrollRecorder” cần truy cập vào micrô của bạn để thực hiện các tính năng ghi âm cơ bản nhất.";
 
-"NSSpeechRecognitionUsageDescription" = "TrollRecorder muốn sử dụng nhận dạng giọng nói để tạo bảng điểm cho các bản ghi âm của bạn.";
+/* No comment provided by engineer. */
+"NSSpeechRecognitionUsageDescription" = "“TrollRecorder” muốn sử dụng nhận dạng giọng nói để tạo bảng điểm cho các bản ghi âm của bạn.";
 
+/* No comment provided by engineer. */
 "NSUbiquitousContainerName" = "TrollRecorder";
 
+/* No comment provided by engineer. */
 "Toggle Hoverball" = "Bật/Tắt Bong bóng";
 
+/* No comment provided by engineer. */
 "Toggle Recording" = "Bật/Tắt Ghi âm";
+
+/* TODO */
+"Toggle Call Recording" = "Toggle Call Recording";
+
+/* TODO */
+"Toggle Voice Memo" = "Toggle Voice Memo";

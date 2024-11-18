@@ -1,25 +1,44 @@
+/* No comment provided by engineer. */
 "CFBundleDisplayName" = "TrollRecorder";
 
-"NSContactsUsageDescription" = "TrollRecorder needs access to your contacts to display your friend’s name instead of phone number.";
+/* No comment provided by engineer. */
+"NSContactsUsageDescription" = "“TrollRecorder” needs access to your contacts to display your friend’s name instead of phone number.";
 
-"NSFaceIDUsageDescription" = "TrollRecorder needs access to Face ID to verify your identity.";
+/* No comment provided by engineer. */
+"NSFaceIDUsageDescription" = "“TrollRecorder” needs access to Face ID to verify your identity.";
 
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder needs access to your location to save it with your recordings.";
+/* No comment provided by engineer. */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "“TrollRecorder” needs access to your location to save it with your recordings.";
 
-"NSLocationAlwaysUsageDescription" = "TrollRecorder needs access to your location to save it with your recordings.";
+/* No comment provided by engineer. */
+"NSLocationAlwaysUsageDescription" = "“TrollRecorder” needs access to your location to save it with your recordings.";
 
-"NSLocationTemporaryUsageDescriptionDictionary" = "TrollRecorder needs access to your location to save it with your recordings.";
+/* No comment provided by engineer. */
+"NSLocationTemporaryUsageDescriptionDictionary" = "“TrollRecorder” needs access to your location to save it with your recordings.";
 
-"NSLocationUsageDescription" = "TrollRecorder needs access to your location to save it with your recordings.";
+/* No comment provided by engineer. */
+"NSLocationUsageDescription" = "“TrollRecorder” needs access to your location to save it with your recordings.";
 
-"NSLocationWhenInUseUsageDescription" = "TrollRecorder needs access to your location to save it with your recordings.";
+/* No comment provided by engineer. */
+"NSLocationWhenInUseUsageDescription" = "“TrollRecorder” needs access to your location to save it with your recordings.";
 
-"NSMicrophoneUsageDescription" = "TrollRecorder needs access to your microphone to implement the most basic recording features.";
+/* No comment provided by engineer. */
+"NSMicrophoneUsageDescription" = "“TrollRecorder” needs access to your microphone to implement the most basic recording features.";
 
-"NSSpeechRecognitionUsageDescription" = "TrollRecorder wants to use speech recognition to make transcript for your recordings.";
+/* No comment provided by engineer. */
+"NSSpeechRecognitionUsageDescription" = "“TrollRecorder” wants to use speech recognition to make transcript for your recordings.";
 
+/* No comment provided by engineer. */
 "NSUbiquitousContainerName" = "TrollRecorder";
 
+/* No comment provided by engineer. */
 "Toggle Hoverball" = "Toggle Hoverball";
 
+/* No comment provided by engineer. */
 "Toggle Recording" = "Toggle Recording";
+
+/* No comment provided by engineer. */
+"Toggle Call Recording" = "Toggle Call Recording";
+
+/* No comment provided by engineer. */
+"Toggle Voice Memo" = "Toggle Voice Memo";
