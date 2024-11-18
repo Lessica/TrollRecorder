@@ -1,4 +1,18 @@
-# URL Scheme 支持
+# External APIs
+
+## 全局通知
+
+- `wiki.qaq.trapp.command.recording.stop`: 停止现有的通话录音会话。
+- `wiki.qaq.trapp.command.recording.start`: 开始新的通话录音。
+- `wiki.qaq.trapp.command.recording.toggle`: 开始新的通话录音，或停止现有的通话录音会话。
+
+## Global Notifications
+
+- `wiki.qaq.trapp.command.recording.stop`: Stop an existing call recording session.
+- `wiki.qaq.trapp.command.recording.start`: Start a new call recording.
+- `wiki.qaq.trapp.command.recording.toggle`: Start a new call recoring, or stop an existing one.
+
+## URL Scheme 支持
 
 - `trapp://hud/on`: 打开悬浮窗。
 - `trapp://hud/off`: 关闭悬浮窗。
@@ -9,8 +23,6 @@
 - `trapp://voice-memo/on`: 开始新的语音备忘录。
 - `trapp://voice-memo/off`: 停止现有的语音备忘录会话。
 - `trapp://voice-memo/toggle`: 开始新的语音备忘录，或停止现有的语音备忘录会话。
-
-------
 
 ## URL Scheme Support
 
