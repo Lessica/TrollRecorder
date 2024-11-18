@@ -33,6 +33,7 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 
 We always built our app in the best quality.
 
+- [x] Voice Memos
 - [x] Discreet Voice Memos
 - [ ] Record System Audio (i.e. What You Hear)
 - [ ] Built-In Audio Editor
@@ -82,6 +83,7 @@ The command line tools of TrollRecorder are [Free Software](https://www.gnu.org/
 
 | 功能 | 免费版 | 正式版 | 备注 |
 |------|------|------|------|
+| 　 语音备忘录 | 　✅ | 　✅ | 录制环境音 |
 | 　 基础通话录音 | 　✅ | 　✅ | 电话与 FaceTime 录音 |
 | 　 CallKit 录音 | 　✅ | 　✅ | 支持 CallKit 的第三方 App 录音 |
 | 　 微信和其他 App 录音 | 　✅ | 　✅ | 非 CallKit 的第三方 App 录音 |
