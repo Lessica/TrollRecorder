@@ -145,6 +145,9 @@
 /* No comment provided by engineer. */
 "Always Dynamic" = "Luôn năng động";
 
+/* TODO */
+"Always Fold" = "Always Fold";
+
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "Luôn giữ cho cửa sổ bong bóng được hiển thị mọi lúc";
 
@@ -647,6 +650,9 @@
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Hiển thị bong bóng mọi nơi khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
 
 /* TODO */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Display the hoverball when record voice memo through this application, or the call recording is manually initiated.";
+
+/* TODO */
 "Display the name or description of each option." = "Display the name or description of each option.";
 
 /* No comment provided by engineer. */
@@ -846,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "Gấp đến cạnh màn hình";
+
+/* TODO */
+"Fold When Inactive" = "Fold When Inactive";
 
 /* No comment provided by engineer. */
 "Follow System" = "Theo dõi hệ thống";
@@ -1178,6 +1187,12 @@
 "Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
 
 /* TODO */
+"Make a new recording, or stop an existing one." = "Make a new recording, or stop an existing one.";
+
+/* TODO */
+"Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
+
+/* TODO */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* TODO */
@@ -1302,6 +1317,9 @@
 
 /* TODO */
 "New Version Available" = "New Version Available";
+
+/* TODO: Length limited, please translate to a shorter phrase */
+"HUD_CALL_RECORDING" = "Bắt đầu ghi âm cuộc gọi";
 
 /* TODO */
 "NO" = "NO";
@@ -1895,13 +1913,13 @@
 "Start a new call recoring, or stop an existing one." = "Bắt đầu ghi âm cuộc gọi mới hoặc dừng cuộc gọi hiện có.";
 
 /* No comment provided by engineer. */
-"Start Call Recording" = "Bắt đầu ghi âm cuộc gọi";
-
-/* No comment provided by engineer. */
 "Start Date" = "Ngày bắt đầu";
 
 /* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "Bắt đầu hoặc chuẩn bị ghi âm cuộc gọi mới theo cách thủ công.";
+
+/* TODO */
+"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "Bắt đầu ghi âm";
@@ -1920,6 +1938,9 @@
 
 /* No comment provided by engineer. */
 "Stop & Save" = "Dừng lại & Lưu";
+
+/* TODO */
+"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
 
 /* No comment provided by engineer. */
 "Stop a call recording session if exists." = "Dừng phiên ghi âm cuộc gọi nếu có.";
@@ -2382,6 +2403,9 @@
 
 /* No comment provided by engineer. */
 "User denied access to speech recognition." = "Người dùng bị từ chối quyền truy cập vào nhận dạng giọng nói.";
+
+/* TODO */
+"User Initiated Recording" = "User Initiated Recording";
 
 /* No comment provided by engineer. */
 "User Interface Style" = "Phong cách giao diện người dùng";

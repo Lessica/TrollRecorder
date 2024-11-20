@@ -146,6 +146,9 @@
 "Always Dynamic" = "Always Dynamic";
 
 /* No comment provided by engineer. */
+"Always Fold" = "Always Fold";
+
+/* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "Always keep the hoverball window visible.";
 
 /* No comment provided by engineer. */
@@ -647,6 +650,9 @@
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Display the hoverball when both the audio inputs and outputs are continuously active.";
 
 /* No comment provided by engineer. */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Display the hoverball when record voice memo through this application, or the call recording is manually initiated.";
+
+/* No comment provided by engineer. */
 "Display the name or description of each option." = "Display the name or description of each option.";
 
 /* No comment provided by engineer. */
@@ -846,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "Fold to Screen Edge";
+
+/* No comment provided by engineer. */
+"Fold When Inactive" = "Fold When Inactive";
 
 /* No comment provided by engineer. */
 "Follow System" = "Follow System";
@@ -1178,6 +1187,12 @@
 "Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
 
 /* No comment provided by engineer. */
+"Make a new recording, or stop an existing one." = "Make a new recording, or stop an existing one.";
+
+/* No comment provided by engineer. */
+"Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
+
+/* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* No comment provided by engineer. */
@@ -1302,6 +1317,9 @@
 
 /* No comment provided by engineer. */
 "New Version Available" = "New Version Available";
+
+/* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "Call Recording";
 
 /* No comment provided by engineer. */
 "NO" = "NO";
@@ -1895,13 +1913,13 @@
 "Start a new call recoring, or stop an existing one." = "Start a new call recoring, or stop an existing one.";
 
 /* No comment provided by engineer. */
-"Start Call Recording" = "Start Call Recording";
-
-/* No comment provided by engineer. */
 "Start Date" = "Start Date";
 
 /* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "Start or prepare a new call recording manually.";
+
+/* No comment provided by engineer. */
+"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "Start Recording";
@@ -1920,6 +1938,9 @@
 
 /* No comment provided by engineer. */
 "Stop & Save" = "Stop & Save";
+
+/* No comment provided by engineer. */
+"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
 
 /* No comment provided by engineer. */
 "Stop a call recording session if exists." = "Stop a call recording session if exists.";
@@ -2382,6 +2403,9 @@
 
 /* No comment provided by engineer. */
 "User denied access to speech recognition." = "User denied access to speech recognition.";
+
+/* No comment provided by engineer. */
+"User Initiated Recording" = "User Initiated Recording";
 
 /* No comment provided by engineer. */
 "User Interface Style" = "User Interface Style";

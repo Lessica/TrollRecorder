@@ -145,6 +145,9 @@
 /* No comment provided by engineer. */
 "Always Dynamic" = "Toujours dynamique";
 
+/* TODO */
+"Always Fold" = "Always Fold";
+
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "Toujours garder la fenêtre globale du hoverball visible.";
 
@@ -646,6 +649,9 @@
 /* No comment provided by engineer. */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Afficher la hoverball globale lorsque les entrées audio et les sorties sont continuellement actives.";
 
+/* TODO */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Display the hoverball when record voice memo through this application, or the call recording is manually initiated.";
+
 /* Translated with Microsoft Translator */
 "Display the name or description of each option." = "Affichez le nom ou la description de chaque option.";
 
@@ -846,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "Replier sur le bord de l'écran";
+
+/* TODO */
+"Fold When Inactive" = "Fold When Inactive";
 
 /* No comment provided by engineer. */
 "Follow System" = "Suivre le système";
@@ -1177,6 +1186,12 @@
 /* TODO */
 "Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
 
+/* TODO */
+"Make a new recording, or stop an existing one." = "Make a new recording, or stop an existing one.";
+
+/* TODO */
+"Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
+
 /* Translated with Microsoft Translator */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Faites des copies de sauvegarde des enregistrements dans un domaine de sauvegarde et autorisez iCloud Backup à les inclure.";
 
@@ -1302,6 +1317,9 @@
 
 /* Translated with Microsoft Translator */
 "New Version Available" = "Mise à jour disponible";
+
+/* TODO: Length limited, please translate to a shorter phrase */
+"HUD_CALL_RECORDING" = "Démarrer l'enregistrement de l'appel";
 
 /* Translated with Microsoft Translator */
 "NO" = "NON";
@@ -1895,13 +1913,13 @@
 "Start a new call recoring, or stop an existing one." = "Démarrer un nouvel enregistrement d'appel ou arrêter un existant.";
 
 /* No comment provided by engineer. */
-"Start Call Recording" = "Démarrer l'enregistrement de l'appel";
-
-/* No comment provided by engineer. */
 "Start Date" = "Date de début";
 
 /* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "Démarrer ou préparer manuellement un nouvel enregistrement d'appel.";
+
+/* TODO */
+"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "Démarrer l'enregistrement";
@@ -1920,6 +1938,9 @@
 
 /* No comment provided by engineer. */
 "Stop & Save" = "Arrêter et sauvegarder";
+
+/* TODO */
+"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
 
 /* No comment provided by engineer. */
 "Stop a call recording session if exists." = "Arrêter une session d'enregistrement d'appel si elle existe.";
@@ -2382,6 +2403,9 @@
 
 /* No comment provided by engineer. */
 "User denied access to speech recognition." = "L'utilisateur a refusé l'accès à la reconnaissance vocale.";
+
+/* TODO */
+"User Initiated Recording" = "User Initiated Recording";
 
 /* No comment provided by engineer. */
 "User Interface Style" = "Style de l'interface utilisateur";

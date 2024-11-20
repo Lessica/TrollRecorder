@@ -145,6 +145,9 @@
 /* No comment provided by engineer. */
 "Always Dynamic" = "항상 동적";
 
+/* TODO */
+"Always Fold" = "Always Fold";
+
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "항상 호버볼이 보이도록 유지합니다.";
 
@@ -646,6 +649,9 @@
 /* No comment provided by engineer. */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "오디오 입력과 출력이 모두 지속적으로 활성화되면 호버볼을 표시합니다.";
 
+/* TODO */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Display the hoverball when record voice memo through this application, or the call recording is manually initiated.";
+
 /* No comment provided by engineer. */
 "Display the name or description of each option." = "각 옵션의 이름이나 설명을 표시합니다.";
 
@@ -846,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "화면 가장자리로 접기";
+
+/* TODO */
+"Fold When Inactive" = "Fold When Inactive";
 
 /* No comment provided by engineer. */
 "Follow System" = "시스템 따르기";
@@ -1177,6 +1186,12 @@
 /* TODO */
 "Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
 
+/* TODO */
+"Make a new recording, or stop an existing one." = "Make a new recording, or stop an existing one.";
+
+/* TODO */
+"Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
+
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "백업 도메인에서 녹음의 얕은 복사본을 만들고 iCloud 백업에 이를 포함하도록 허용합니다.";
 
@@ -1302,6 +1317,9 @@
 
 /* No comment provided by engineer. */
 "New Version Available" = "새 버전 사용 가능";
+
+/* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "통화 녹음 시작";
 
 /* No comment provided by engineer. */
 "NO" = "아니요";
@@ -1895,13 +1913,13 @@
 "Start a new call recoring, or stop an existing one." = "새 통화 녹음을 시작하거나 기존 통화 녹음 세션을 중지하세요.";
 
 /* No comment provided by engineer. */
-"Start Call Recording" = "통화 녹음 시작";
-
-/* No comment provided by engineer. */
 "Start Date" = "시작일";
 
 /* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "수동으로 새 통화 녹음을 시작하거나 준비하세요.";
+
+/* TODO */
+"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "녹음 시작";
@@ -1920,6 +1938,9 @@
 
 /* No comment provided by engineer. */
 "Stop & Save" = "중지 및 저장";
+
+/* TODO */
+"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
 
 /* No comment provided by engineer. */
 "Stop a call recording session if exists." = "이미 진행 중인 통화 녹음 세션이 있으면 중지하세요.";
@@ -2382,6 +2403,9 @@
 
 /* No comment provided by engineer. */
 "User denied access to speech recognition." = "사용자가 음성 인식에 대한 접근을 거부했습니다.";
+
+/* TODO */
+"User Initiated Recording" = "User Initiated Recording";
 
 /* No comment provided by engineer. */
 "User Interface Style" = "인터페이스 스타일";

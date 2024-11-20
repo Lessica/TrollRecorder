@@ -146,6 +146,9 @@
 "Always Dynamic" = "保持动态";
 
 /* No comment provided by engineer. */
+"Always Fold" = "始终折叠";
+
+/* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "总是保持悬浮球可见。";
 
 /* No comment provided by engineer. */
@@ -647,6 +650,9 @@
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，显示悬浮球。";
 
 /* No comment provided by engineer. */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "通过此应用程序录制语音备忘录，或手动启动通话录音时，显示悬浮球。";
+
+/* No comment provided by engineer. */
 "Display the name or description of each option." = "显示每个选项的名称或描述。";
 
 /* No comment provided by engineer. */
@@ -846,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Fold to Screen Edge" = "折叠到屏幕边缘";
+
+/* No comment provided by engineer. */
+"Fold When Inactive" = "不活动时折叠";
 
 /* No comment provided by engineer. */
 "Follow System" = "跟随系统";
@@ -1178,6 +1187,12 @@
 "Make a ${requestedMode} recording" = "录制一个 ${requestedMode} 录音";
 
 /* No comment provided by engineer. */
+"Make a new recording, or stop an existing one." = "开始一次新的录音，或停止一个正在进行的录制。";
+
+/* No comment provided by engineer. */
+"Make a new voice memo, or stop an existing one." = "开始一次新的语音备忘录，或停止一个正在进行的录制。";
+
+/* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在备份域中创建录音的浅拷贝，并允许 iCloud 备份中包含这些副本。";
 
 /* No comment provided by engineer. */
@@ -1302,6 +1317,9 @@
 
 /* No comment provided by engineer. */
 "New Version Available" = "有新版本可用";
+
+/* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "开始通话录音";
 
 /* No comment provided by engineer. */
 "NO" = "否";
@@ -1895,13 +1913,13 @@
 "Start a new call recoring, or stop an existing one." = "开始一次新的通话录音，或停止一个已存在的录音会话。";
 
 /* No comment provided by engineer. */
-"Start Call Recording" = "开始通话录音";
-
-/* No comment provided by engineer. */
 "Start Date" = "起始日期";
 
 /* No comment provided by engineer. */
 "Start or prepare a new call recording manually." = "手动开始或准备开始一次新的通话录音。";
+
+/* No comment provided by engineer. */
+"Start or prepare for a call recording, or create an voice memo." = "开始或准备开始通话录音，或创建一个语音备忘录。";
 
 /* No comment provided by engineer. */
 "Start Recording" = "开始录音";
@@ -1920,6 +1938,9 @@
 
 /* No comment provided by engineer. */
 "Stop & Save" = "结束并保存";
+
+/* No comment provided by engineer. */
+"Stop a call recording or voice memo if exists." = "如果已存在一个录制中的通话录音或语音备忘录，则停止它。";
 
 /* No comment provided by engineer. */
 "Stop a call recording session if exists." = "如果已存在一个正在进行的通话录音会话，则停止它。";
@@ -2382,6 +2403,9 @@
 
 /* No comment provided by engineer. */
 "User denied access to speech recognition." = "用户拒绝了对语音识别授予隐私访问权限。";
+
+/* No comment provided by engineer. */
+"User Initiated Recording" = "主动发起录制时显示";
 
 /* No comment provided by engineer. */
 "User Interface Style" = "界面样式";
