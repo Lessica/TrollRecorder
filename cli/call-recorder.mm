@@ -381,7 +381,9 @@ int main(int argc, const char *argv[]) {
         }
 
         NSString *channel = [[NSString stringWithUTF8String:argv[1]] lowercaseString];
-        if ([channel isEqualToString:@"mic"] || [channel isEqualToString:@"microphone"]) {
+        if ([channel isEqualToString:@"sys"] || [channel isEqualToString:@"system"]) {
+            mATAudioTapDescriptionPID = kATAudioTapDescriptionPIDSystemAudio;
+        } else if ([channel isEqualToString:@"mic"] || [channel isEqualToString:@"microphone"]) {
             mATAudioTapDescriptionPID = kATAudioTapDescriptionPIDMicrophone;
         } else if ([channel isEqualToString:@"speaker"]) {
             mATAudioTapDescriptionPID = kATAudioTapDescriptionPIDSpeaker;
