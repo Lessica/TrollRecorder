@@ -35,7 +35,7 @@ We always built our app in the best quality.
 
 - [x] Voice Memos
 - [x] Discreet Voice Memos
-- [ ] Record System Audio (i.e. What You Hear)
+- [x] Record System Audio (i.e. What You Hear)
 - [ ] Built-In Audio Editor
 - [ ] Google Drive
 - [ ] Dropbox

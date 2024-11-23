@@ -422,6 +422,9 @@
 "Clear Selection" = "Clear Selection";
 
 /* No comment provided by engineer. */
+"Clear Wave Caches" = "Clear Wave Caches";
+
+/* No comment provided by engineer. */
 "Close" = "Close";
 
 /* No comment provided by engineer. */
@@ -980,6 +983,9 @@
 "hud" = "hud";
 
 /* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "Call Recording";
+
+/* No comment provided by engineer. */
 "Hyphen" = "Hyphen";
 
 /* No comment provided by engineer. */
@@ -1319,9 +1325,6 @@
 "New Version Available" = "New Version Available";
 
 /* No comment provided by engineer. */
-"HUD_CALL_RECORDING" = "Call Recording";
-
-/* No comment provided by engineer. */
 "NO" = "NO";
 
 /* No comment provided by engineer. */
@@ -1544,6 +1547,9 @@
 "Privacy Policy & User Agreements" = "Privacy Policy & User Agreements";
 
 /* No comment provided by engineer. */
+"Private Browsing Detected" = "Private Browsing Detected";
+
+/* No comment provided by engineer. */
 "Purchase" = "Purchase";
 
 /* No comment provided by engineer. */
@@ -1653,6 +1659,9 @@
 
 /* No comment provided by engineer. */
 "Release Notes" = "Release Notes";
+
+/* No comment provided by engineer. */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Remove all cached waveforms and allow them to be rebuilt from the original recordings.";
 
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "Remove All Recordings Permanently";
@@ -2504,10 +2513,16 @@
 "Waveform Audio" = "Waveform Audio";
 
 /* No comment provided by engineer. */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
+
+/* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "We love colorful and moving backgrounds, but option here for you to disable it.";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV Server";
+
+/* No comment provided by engineer. */
+"WeChat" = "WeChat";
 
 /* No comment provided by engineer. */
 "WeChat Assistant" = "WeChat Assistant";

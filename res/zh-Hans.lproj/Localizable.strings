@@ -422,6 +422,9 @@
 "Clear Selection" = "清除筛选项";
 
 /* No comment provided by engineer. */
+"Clear Wave Caches" = "清理波形缓存";
+
+/* No comment provided by engineer. */
 "Close" = "关闭";
 
 /* No comment provided by engineer. */
@@ -647,7 +650,7 @@
 "Display the hoverball during a call." = "在通话中显示悬浮球。";
 
 /* No comment provided by engineer. */
-"Display the hoverball when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，显示悬浮球。";
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，显示悬浮球。如果你需要在微信等不支持 CallKit 的应用中自动显示悬浮球，请保持此选项打开。";
 
 /* No comment provided by engineer. */
 "Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "通过此应用程序录制语音备忘录，或手动启动通话录音时，显示悬浮球。";
@@ -980,6 +983,9 @@
 "hud" = "hud";
 
 /* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "开始通话录音";
+
+/* No comment provided by engineer. */
 "Hyphen" = "连字符";
 
 /* No comment provided by engineer. */
@@ -1118,7 +1124,7 @@
 "Legacy Jailbreak" = "传统越狱";
 
 /* No comment provided by engineer. */
-"Link Device to Havoc" = "将设备链接到 Havoc";
+"Link Device to Havoc" = "连接到「浩劫」商店";
 
 /* No comment provided by engineer. */
 "Loading…" = "载入中…";
@@ -1317,9 +1323,6 @@
 
 /* No comment provided by engineer. */
 "New Version Available" = "有新版本可用";
-
-/* No comment provided by engineer. */
-"HUD_CALL_RECORDING" = "开始通话录音";
 
 /* No comment provided by engineer. */
 "NO" = "否";
@@ -1544,6 +1547,9 @@
 "Privacy Policy & User Agreements" = "隐私政策与用户协议";
 
 /* No comment provided by engineer. */
+"Private Browsing Detected" = "检测到无痕浏览";
+
+/* No comment provided by engineer. */
 "Purchase" = "购买";
 
 /* No comment provided by engineer. */
@@ -1613,7 +1619,7 @@
 "Recording Options" = "录音选项";
 
 /* No comment provided by engineer. */
-"Recording starts when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，录音开始。";
+"Recording starts when both the audio inputs and outputs are continuously active." = "当音频输入和输出都处于持续活跃状态时，录音开始。如果你需要自动录制来自微信等不支持 CallKit 的应用中的通话，请保持此选项打开。";
 
 /* No comment provided by engineer. */
 "Recording successfully started." = "正在录音中";
@@ -1653,6 +1659,9 @@
 
 /* No comment provided by engineer. */
 "Release Notes" = "发行说明";
+
+/* No comment provided by engineer. */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "删除所有缓存的波形，并允许从原始录音中重建它们。";
 
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "永久删除所有录音";
@@ -2504,10 +2513,16 @@
 "Waveform Audio" = "波形音频 (wav)";
 
 /* No comment provided by engineer. */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "我们无法在无痕浏览模式下验证你的购买。请确保你不在 Safari 的无痕浏览模式下以继续。";
+
+/* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我们喜欢移动着的、多彩的背景，但是我们依然提供了选项让你来关闭它。";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV 服务器";
+
+/* No comment provided by engineer. */
+"WeChat" = "微信";
 
 /* No comment provided by engineer. */
 "WeChat Assistant" = "微信通话助理";

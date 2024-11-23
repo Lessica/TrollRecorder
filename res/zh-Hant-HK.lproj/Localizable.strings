@@ -421,6 +421,9 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "清楚篩選項";
 
+/* TODO */
+"Clear Wave Caches" = "Clear Wave Caches";
+
 /* No comment provided by engineer. */
 "Close" = "關閉";
 
@@ -980,6 +983,9 @@
 "hud" = "hud";
 
 /* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "開始通話錄音";
+
+/* No comment provided by engineer. */
 "Hyphen" = "連字符";
 
 /* No comment provided by engineer. */
@@ -1319,9 +1325,6 @@
 "New Version Available" = "有更新可用";
 
 /* No comment provided by engineer. */
-"HUD_CALL_RECORDING" = "開始通話錄音";
-
-/* No comment provided by engineer. */
 "NO" = "否";
 
 /* TODO */
@@ -1543,6 +1546,9 @@
 /* No comment provided by engineer. */
 "Privacy Policy & User Agreements" = "隱私政策與用戶合約";
 
+/* TODO */
+"Private Browsing Detected" = "Private Browsing Detected";
+
 /* No comment provided by engineer. */
 "Purchase" = "購買";
 
@@ -1653,6 +1659,9 @@
 
 /* No comment provided by engineer. */
 "Release Notes" = "發行説明";
+
+/* TODO */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Remove all cached waveforms and allow them to be rebuilt from the original recordings.";
 
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "永久刪除所有錄音";
@@ -2503,11 +2512,17 @@
 /* No comment provided by engineer. */
 "Waveform Audio" = "波形音訊 (wav)";
 
+/* TODO */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
+
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我們喜歡移動著的、多彩的背景，但是我們依然提供了選項讓你來關閉它。";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV 伺服器";
+
+/* TODO */
+"WeChat" = "WeChat";
 
 /* No comment provided by engineer. */
 "WeChat Assistant" = "WeChat 通話助理";
