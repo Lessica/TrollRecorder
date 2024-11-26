@@ -87,6 +87,7 @@ The command line tools of TrollRecorder are [Free Software](https://www.gnu.org/
 | 　 基础通话录音 | 　✅ | 　✅ | 电话与 FaceTime 录音 |
 | 　 CallKit 录音 | 　✅ | 　✅ | 支持 CallKit 的第三方 App 录音 |
 | 　 微信和其他 App 录音 | 　✅ | 　✅ | 非 CallKit 的第三方 App 录音 |
+| 　 系统音频录制 | | 　✅ | 录制设备发出的声音 |
 | 👍 微信通话助理 | | 　✅ | 获取并显示微信的联系人备注 |
 | 👍 首次解锁后启动 | | 　⚠️ | 仅巨魔版提供，需将「巨魔录音机」小组件添加到主屏幕 |
 | 👍 稳定持久不漏录 | | 　✅ | 需将「巨魔录音机」小组件添加到主屏幕 |
