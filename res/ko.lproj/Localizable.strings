@@ -175,6 +175,9 @@
 /* No comment provided by engineer. */
 "answered" = "응답";
 
+/* TODO */
+"Any" = "Any";
+
 /* No comment provided by engineer. */
 "App Icon" = "앱 아이콘";
 
@@ -261,9 +264,6 @@
 
 /* No comment provided by engineer. */
 "Automation" = "자동화";
-
-/* No comment provided by engineer. */
-"Available for Lifetime" = "한 번 구매하면 평생 사용 가능";
 
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "클라이언트에서 WebDAV 서버를 사용할 때 화면이 자동으로 잠기는 것을 방지합니다.";
@@ -877,11 +877,17 @@
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "자주 묻는 질문";
 
-/* No comment provided by engineer. */
-"From" = "시작";
+/* TODO */
+"From %@" = "From %@";
+
+/* TODO */
+"From %@ to %@" = "From %1$@ to %2$@";
 
 /* No comment provided by engineer. */
 "From: %@" = "시작일: %@";
+
+/* No comment provided by engineer. */
+"From…" = "시작";
 
 /* No comment provided by engineer. */
 "Full" = "전체";
@@ -1124,6 +1130,9 @@
 "Legacy Jailbreak" = "Legacy Jailbreak";
 
 /* No comment provided by engineer. */
+"Lifetime Guarantee" = "한 번 구매하면 평생 사용 가능";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "Havoc에 기기 연결";
 
 /* No comment provided by engineer. */
@@ -1285,9 +1294,6 @@
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "MPEG-4 오디오 (m4a)";
 
-/* No comment provided by engineer. */
-"Multiple Devices" = "최대 5개 기기에서 동시에 사용";
-
 /* TODO */
 "mute" = "mute";
 
@@ -1390,6 +1396,9 @@
 /* No comment provided by engineer. */
 "open" = "열기";
 
+/* TODO */
+"Open Application" = "Open Application";
+
 /* No comment provided by engineer. */
 "Open Hoverball" = "호버볼 열기";
 
@@ -1470,6 +1479,9 @@
 
 /* No comment provided by engineer. */
 "Phone Call Exclude List" = "전화 제외 목록";
+
+/* TODO */
+"phone call recording" = "phone call recording";
 
 /* No comment provided by engineer. */
 "Phone Call VIP" = "전화 VIP";
@@ -1624,6 +1636,9 @@
 /* No comment provided by engineer. */
 "Recording successfully started." = "녹음이 시작되었습니다.";
 
+/* TODO */
+"Recording Type" = "Recording Type";
+
 /* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "통화에 응답하면 녹음이 시작됩니다.";
 
@@ -1749,6 +1764,12 @@
 
 /* No comment provided by engineer. */
 "Search" = "검색";
+
+/* TODO */
+"Search %@ in %@…" = "Search %1$@ in %2$@…";
+
+/* TODO */
+"Search %@…" = "Search %@…";
 
 /* No comment provided by engineer. */
 "Search Apps…" = "앱 검색…";
@@ -1919,9 +1940,6 @@
 "start" = "시작";
 
 /* No comment provided by engineer. */
-"Start a new call recoring, or stop an existing one." = "새 통화 녹음을 시작하거나 기존 통화 녹음 세션을 중지하세요.";
-
-/* No comment provided by engineer. */
 "Start Date" = "시작일";
 
 /* No comment provided by engineer. */
@@ -1991,6 +2009,12 @@
 "System Audio" = "시스템 오디오";
 
 /* TODO */
+"System Audio Recording" = "System Audio Recording";
+
+/* TODO */
+"system audio recording" = "system audio recording";
+
+/* TODO */
 "System Language" = "System Language";
 
 /* No comment provided by engineer. */
@@ -2031,6 +2055,9 @@
 
 /* No comment provided by engineer. */
 "text-to-speech" = "텍스트 음성 변환";
+
+/* TODO */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "The %@ has been interrupted by the system. You may convert the recording manually later.";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "응용 프로그램 설정에서 알 수 없는 오류가 발생했으며 Launch Daemon이 요청에 응답하지 않았습니다. 다시 연결을 시도하는 중입니다. 잠시 기다려 주세요. 문제가 지속되면 응용 프로그램을 다시 설치해 보세요.";
@@ -2114,7 +2141,7 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "후처리 모드가 사용됩니다. 결합 모드는 스테레오 스피커 오디오를 왼쪽 채널에 채우고 마이크는 오른쪽 채널에 채웁니다. 혼합 모드는 마이크 채널을 스테레오로 복제하여 스피커 채널과 혼합합니다.";
 
 /* TODO */
-"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+"The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
 
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "이동통신사 이름입니다.";
@@ -2194,8 +2221,8 @@
 /* TODO */
 "Title" = "Title";
 
-/* No comment provided by engineer. */
-"To" = "종료";
+/* TODO */
+"To %@" = "To %@";
 
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "iCloud Drive를 구성하려면 “설정 > 셀룰러 > iCloud Drive”로 이동하세요.";
@@ -2231,7 +2258,10 @@
 "Toggle Recording" = "녹음 시작/중지";
 
 /* TODO */
-"Toggle Voice Memo" = "Toggle Voice Memo";
+"Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* TODO */
+"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
 /* No comment provided by engineer. */
 "top edge" = "상단 가장자리";
@@ -2241,6 +2271,9 @@
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"To…" = "종료";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "위치 변경 처리";
@@ -2362,6 +2395,9 @@
 /* TODO */
 "Untitled" = "Untitled";
 
+/* TODO */
+"Up to 5 Personal Devices" = "최대 5개 기기에서 동시에 사용";
+
 /* No comment provided by engineer. */
 "Updating…" = "업데이트 중...";
 
@@ -2471,6 +2507,9 @@
 "View Logs: Launch Agent" = "에이전트 실행";
 
 /* TODO */
+"View Logs: System Audio" = "View Logs: System Audio";
+
+/* TODO */
 "View Logs: Voice Memo" = "View Logs: Voice Memo";
 
 /* No comment provided by engineer. */
@@ -2484,6 +2523,12 @@
 
 /* TODO */
 "Voice Memo" = "Voice Memo";
+
+/* TODO */
+"Voice Memo Recording" = "Voice Memo Recording";
+
+/* TODO */
+"voice memo recording" = "voice memo recording";
 
 /* TODO */
 "Voice Memos" = "Voice Memos";
@@ -2502,6 +2547,9 @@
 
 /* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "전화가 응답되고 연결될 때까지 기다리세요.";
+
+/* TODO */
+"Wait for Calls" = "Wait for Calls";
 
 /* No comment provided by engineer. */
 "Wait for Connected Calls" = "연결 대기 중";
@@ -2531,6 +2579,9 @@
 "Welcome to" = "환영합니다!";
 
 /* TODO */
+"We’re recording system audio in the background." = "We’re recording system audio in the background.";
+
+/* TODO */
 "We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
 
 /* No comment provided by engineer. */
@@ -2538,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "새 전화 통화 녹음이 있습니다!";
+
+/* TODO */
+"We’ve got a new system audio recording!" = "We’ve got a new system audio recording!";
 
 /* TODO */
 "We’ve got a new voice memo!" = "We’ve got a new voice memo!";
@@ -2550,6 +2604,9 @@
 
 /* No comment provided by engineer. */
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Wi-Fi에 연결되지 않은 경우 셀룰러 네트워크를 사용하여 녹음을 전송합니다. 추가 요금이 부과될 수 있습니다.";
+
+/* TODO */
+"When there is no call…" = "When there is no call…";
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "잠금 해제되면 홈 화면이 아니더라도 호버볼이 표시됩니다.";

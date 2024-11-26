@@ -175,6 +175,9 @@
 /* Translated with Microsoft Translator */
 "answered" = "respondió";
 
+/* TODO */
+"Any" = "Any";
+
 /* Translated with Microsoft Translator */
 "App Icon" = "Icono de la aplicación";
 
@@ -261,9 +264,6 @@
 
 /* No comment provided by engineer. */
 "Automation" = "Automatización";
-
-/* No comment provided by engineer. */
-"Available for Lifetime" = "Disponible de por vida";
 
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Evitar que la pantalla se bloquee automáticamente cuando el servidor WebDAV es utilizado por cualquier cliente.";
@@ -877,11 +877,17 @@
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Obtener ayuda y preguntas frecuentes";
 
-/* No comment provided by engineer. */
-"From" = "Desde";
+/* TODO */
+"From %@" = "From %@";
+
+/* TODO */
+"From %@ to %@" = "From %1$@ to %2$@";
 
 /* No comment provided by engineer. */
 "From: %@" = "Desde: %@";
+
+/* No comment provided by engineer. */
+"From…" = "Desde";
 
 /* Translated with Microsoft Translator */
 "Full" = "Completo";
@@ -1124,6 +1130,9 @@
 "Legacy Jailbreak" = "Legacy Jailbreak";
 
 /* No comment provided by engineer. */
+"Lifetime Guarantee" = "Disponible de por vida";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "Vincular dispositivo a Havoc";
 
 /* No comment provided by engineer. */
@@ -1285,9 +1294,6 @@
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "Audio MPEG-4";
 
-/* No comment provided by engineer. */
-"Multiple Devices" = "Varios dispositivos";
-
 /* TODO */
 "mute" = "mute";
 
@@ -1390,6 +1396,9 @@
 /* No comment provided by engineer. */
 "open" = "abrir";
 
+/* TODO */
+"Open Application" = "Open Application";
+
 /* No comment provided by engineer. */
 "Open Hoverball" = "Abrir HUD";
 
@@ -1470,6 +1479,9 @@
 
 /* No comment provided by engineer. */
 "Phone Call Exclude List" = "Lista de exclusión de llamadas telefónicas";
+
+/* TODO */
+"phone call recording" = "phone call recording";
 
 /* No comment provided by engineer. */
 "Phone Call VIP" = "VIP de llamadas telefónicas";
@@ -1624,6 +1636,9 @@
 /* Translated with Microsoft Translator */
 "Recording successfully started." = "Grabación iniciada con éxito.";
 
+/* TODO */
+"Recording Type" = "Recording Type";
+
 /* Translated with Microsoft Translator */
 "Recording will begin when the call is answered." = "La grabación comenzará cuando se conteste la llamada.";
 
@@ -1749,6 +1764,12 @@
 
 /* No comment provided by engineer. */
 "Search" = "Búsqueda";
+
+/* TODO */
+"Search %@ in %@…" = "Search %1$@ in %2$@…";
+
+/* TODO */
+"Search %@…" = "Search %@…";
 
 /* No comment provided by engineer. */
 "Search Apps…" = "Buscar aplicaciones…";
@@ -1919,9 +1940,6 @@
 "start" = "iniciar";
 
 /* No comment provided by engineer. */
-"Start a new call recoring, or stop an existing one." = "Iniciar una nueva grabación de llamada, o detener una existente.";
-
-/* No comment provided by engineer. */
 "Start Date" = "Fecha de inicio";
 
 /* No comment provided by engineer. */
@@ -1991,6 +2009,12 @@
 "System Audio" = "Audio del sistema";
 
 /* TODO */
+"System Audio Recording" = "System Audio Recording";
+
+/* TODO */
+"system audio recording" = "system audio recording";
+
+/* TODO */
 "System Language" = "System Language";
 
 /* Translated with Microsoft Translator */
@@ -2031,6 +2055,9 @@
 
 /* Translated with Microsoft Translator */
 "text-to-speech" = "texto a voz";
+
+/* TODO */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "The %@ has been interrupted by the system. You may convert the recording manually later.";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "La configuración de la aplicación ha encontrado un error desconocido, el Launch Daemon no ha respondido a nuestras peticiones. Estamos intentando reconectar, por favor espere. Si el problema persiste, puede intentar reinstalar la aplicación.";
@@ -2114,7 +2141,7 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "El modo de postprocesado a utilizar. El modo Combinar aplastará el audio de los altavoces estéreo en el canal izquierdo, con el micrófono en el canal derecho. El modo Mezclado duplicará el canal del micrófono en estéreo y lo mezclará con los canales de los altavoces.";
 
 /* TODO */
-"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+"The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
 
 /* Translated with Microsoft Translator */
 "The service operator name of the sender." = "El nombre del operador de servicios del remitente.";
@@ -2194,8 +2221,8 @@
 /* TODO */
 "Title" = "Title";
 
-/* No comment provided by engineer. */
-"To" = "Hasta";
+/* TODO */
+"To %@" = "To %@";
 
 /* Translated with Microsoft Translator */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "Para configurar iCloud Drive, ve a “Ajustes > Móvil > iCloud Drive”.";
@@ -2231,7 +2258,10 @@
 "Toggle Recording" = "Activar/desactivar grabación";
 
 /* TODO */
-"Toggle Voice Memo" = "Toggle Voice Memo";
+"Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* TODO */
+"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
 /* Translated with Microsoft Translator */
 "top edge" = "borde superior";
@@ -2241,6 +2271,9 @@
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"To…" = "Hasta";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "Seguimiento de las actualizaciones de ubicación";
@@ -2362,6 +2395,9 @@
 /* TODO */
 "Untitled" = "Untitled";
 
+/* TODO */
+"Up to 5 Personal Devices" = "Varios dispositivos";
+
 /* No comment provided by engineer. */
 "Updating…" = "Actualizando…";
 
@@ -2471,6 +2507,9 @@
 "View Logs: Launch Agent" = "Ver Registros: Agente de Lanzamiento";
 
 /* TODO */
+"View Logs: System Audio" = "View Logs: System Audio";
+
+/* TODO */
 "View Logs: Voice Memo" = "View Logs: Voice Memo";
 
 /* Translated with Microsoft Translator */
@@ -2484,6 +2523,12 @@
 
 /* TODO */
 "Voice Memo" = "Voice Memo";
+
+/* TODO */
+"Voice Memo Recording" = "Voice Memo Recording";
+
+/* TODO */
+"voice memo recording" = "voice memo recording";
 
 /* TODO */
 "Voice Memos" = "Voice Memos";
@@ -2502,6 +2547,9 @@
 
 /* Translated with Microsoft Translator */
 "Wait for any calls to be answered and connected." = "Espere a que las llamadas sean contestadas y conectadas.";
+
+/* TODO */
+"Wait for Calls" = "Wait for Calls";
 
 /* Translated with Microsoft Translator */
 "Wait for Connected Calls" = "Esperar llamadas conectadas";
@@ -2531,6 +2579,9 @@
 "Welcome to" = "Bienvenido a";
 
 /* TODO */
+"We’re recording system audio in the background." = "We’re recording system audio in the background.";
+
+/* TODO */
 "We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
 
 /* Translated with Microsoft Translator */
@@ -2538,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "¡Tenemos una nueva grabación de llamada telefónica!";
+
+/* TODO */
+"We’ve got a new system audio recording!" = "We’ve got a new system audio recording!";
 
 /* TODO */
 "We’ve got a new voice memo!" = "We’ve got a new voice memo!";
@@ -2550,6 +2604,9 @@
 
 /* Translated with Microsoft Translator */
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Si no está conectado a una red WLAN, utilice la red móvil para transferir la grabación. Pueden aplicarse cargos adicionales.";
+
+/* TODO */
+"When there is no call…" = "When there is no call…";
 
 /* Translated with Microsoft Translator */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "Cuando está desbloqueado, el hoverball aparece aunque no estés en la pantalla de inicio.";

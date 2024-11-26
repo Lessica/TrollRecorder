@@ -176,6 +176,9 @@
 "answered" = "已接听";
 
 /* No comment provided by engineer. */
+"Any" = "不限";
+
+/* No comment provided by engineer. */
 "App Icon" = "应用程序图标";
 
 /* No comment provided by engineer. */
@@ -261,9 +264,6 @@
 
 /* No comment provided by engineer. */
 "Automation" = "自动化";
-
-/* No comment provided by engineer. */
-"Available for Lifetime" = "一次购买终身可用";
 
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "当 WebDAV 服务器被任何客户端使用时，避免屏幕自动锁定。";
@@ -878,10 +878,16 @@
 "Frequently Asked Questions" = "获取帮助";
 
 /* No comment provided by engineer. */
-"From" = "起始于";
+"From %@" = "起始于 %@";
+
+/* No comment provided by engineer. */
+"From %@ to %@" = "在 %@ 到 %@ 期间";
 
 /* No comment provided by engineer. */
 "From: %@" = "起始于：%@";
+
+/* No comment provided by engineer. */
+"From…" = "起始于…";
 
 /* No comment provided by engineer. */
 "Full" = "完整";
@@ -1124,6 +1130,9 @@
 "Legacy Jailbreak" = "传统越狱";
 
 /* No comment provided by engineer. */
+"Lifetime Guarantee" = "一次购买终身可用";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "连接到「浩劫」商店";
 
 /* No comment provided by engineer. */
@@ -1286,9 +1295,6 @@
 "MPEG-4 Audio" = "MPEG-4 音频 (m4a)";
 
 /* No comment provided by engineer. */
-"Multiple Devices" = "在多达 5 台设备上同时使用";
-
-/* No comment provided by engineer. */
 "mute" = "静音";
 
 /* No comment provided by engineer. */
@@ -1391,6 +1397,9 @@
 "open" = "打开";
 
 /* No comment provided by engineer. */
+"Open Application" = "打开应用程序";
+
+/* No comment provided by engineer. */
 "Open Hoverball" = "打开悬浮球";
 
 /* No comment provided by engineer. */
@@ -1470,6 +1479,9 @@
 
 /* No comment provided by engineer. */
 "Phone Call Exclude List" = "通话排除列表";
+
+/* No comment provided by engineer. */
+"phone call recording" = "通话录音";
 
 /* No comment provided by engineer. */
 "Phone Call VIP" = "通话 VIP";
@@ -1625,6 +1637,9 @@
 "Recording successfully started." = "正在录音中";
 
 /* No comment provided by engineer. */
+"Recording Type" = "录音类型";
+
+/* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "即将于通话接通后开始录音。";
 
 /* No comment provided by engineer. */
@@ -1749,6 +1764,12 @@
 
 /* No comment provided by engineer. */
 "Search" = "搜索";
+
+/* No comment provided by engineer. */
+"Search %@ in %@…" = "在 %@ 中搜索 %@…";
+
+/* No comment provided by engineer. */
+"Search %@…" = "搜索 %@…";
 
 /* No comment provided by engineer. */
 "Search Apps…" = "搜索应用…";
@@ -1919,9 +1940,6 @@
 "start" = "开始";
 
 /* No comment provided by engineer. */
-"Start a new call recoring, or stop an existing one." = "开始一次新的通话录音，或停止一个已存在的录音会话。";
-
-/* No comment provided by engineer. */
 "Start Date" = "起始日期";
 
 /* No comment provided by engineer. */
@@ -1991,6 +2009,12 @@
 "System Audio" = "系统音频";
 
 /* No comment provided by engineer. */
+"System Audio Recording" = "录制系统音频";
+
+/* No comment provided by engineer. */
+"system audio recording" = "系统音频录制";
+
+/* No comment provided by engineer. */
 "System Language" = "系统语言";
 
 /* No comment provided by engineer. */
@@ -2031,6 +2055,9 @@
 
 /* No comment provided by engineer. */
 "text-to-speech" = "文本转语音";
+
+/* No comment provided by engineer. */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "%@ 已被系统中断。你可以稍后手动转换录音。";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "设置应用程序遇到了未知错误，守护进程没有响应我们的请求。我们正在尝试重新连接，请稍后。若问题持续存在，你可以尝试重新安装应用程序。";
@@ -2114,7 +2141,7 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用于通道合并的方式。组合模式会将立体声扬声器音频压缩到左声道，麦克风在右声道。关闭后为混合模式，会将麦克风通道复制到立体声并与扬声器通道混合输出。";
 
 /* No comment provided by engineer. */
-"The recording has been interrupted by the system. You may convert the recording manually later." = "录音已被系统中断。你可以稍后手动转换录音。";
+"The primary button action at the right side of the hoverball when no call is active." = "当没有活跃通话时，轻按悬浮球右侧的主按钮时，所执行的操作。";
 
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "运营商的名称。";
@@ -2195,7 +2222,7 @@
 "Title" = "标题";
 
 /* No comment provided by engineer. */
-"To" = "结束于";
+"To %@" = "结束于 %@";
 
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "如需配置 iCloud 云盘，请转到 “设置 > 蜂窝移动网络 > iCloud 云盘”。";
@@ -2231,7 +2258,10 @@
 "Toggle Recording" = "启停录音";
 
 /* No comment provided by engineer. */
-"Toggle Voice Memo" = "启停语音备忘录";
+"Toggle System Audio Recording" = "启停系统音频录制";
+
+/* No comment provided by engineer. */
+"Toggle Voice Memo Recording" = "启停语音备忘录";
 
 /* No comment provided by engineer. */
 "top edge" = "顶边";
@@ -2241,6 +2271,9 @@
 
 /* No comment provided by engineer. */
 "Touch ID" = "触控 ID";
+
+/* No comment provided by engineer. */
+"To…" = "结束于…";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "处理位置变化";
@@ -2363,6 +2396,9 @@
 "Untitled" = "未命名";
 
 /* No comment provided by engineer. */
+"Up to 5 Personal Devices" = "在多达 5 台设备上同时使用";
+
+/* No comment provided by engineer. */
 "Updating…" = "正在更新…";
 
 /* No comment provided by engineer. */
@@ -2387,10 +2423,10 @@
 "Use Cellular Network" = "使用蜂窝网络";
 
 /* No comment provided by engineer. */
-"Use Date" = "使用日期";
+"Use Date" = "按日期…";
 
 /* No comment provided by engineer. */
-"Use Date Range" = "使用日期范围";
+"Use Date Range" = "按日期范围…";
 
 /* No comment provided by engineer. */
 "Use Default Settings" = "使用默认设置";
@@ -2471,6 +2507,9 @@
 "View Logs: Launch Agent" = "启动代理";
 
 /* No comment provided by engineer. */
+"View Logs: System Audio" = "系统音频录制";
+
+/* No comment provided by engineer. */
 "View Logs: Voice Memo" = "语音备忘录";
 
 /* No comment provided by engineer. */
@@ -2484,6 +2523,12 @@
 
 /* No comment provided by engineer. */
 "Voice Memo" = "语音备忘录";
+
+/* No comment provided by engineer. */
+"Voice Memo Recording" = "录制语音备忘录";
+
+/* No comment provided by engineer. */
+"voice memo recording" = "语音备忘录";
 
 /* No comment provided by engineer. */
 "Voice Memos" = "语音备忘录";
@@ -2502,6 +2547,9 @@
 
 /* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "等待任意通话被接听并接通。";
+
+/* No comment provided by engineer. */
+"Wait for Calls" = "等待通话";
 
 /* No comment provided by engineer. */
 "Wait for Connected Calls" = "等待接通";
@@ -2531,6 +2579,9 @@
 "Welcome to" = "欢迎使用";
 
 /* No comment provided by engineer. */
+"We’re recording system audio in the background." = "巨魔录音机正在后台录制系统音频。";
+
+/* No comment provided by engineer. */
 "We’re recording your voice memo in the background." = "巨魔录音机正在后台录制语音备忘录。";
 
 /* No comment provided by engineer. */
@@ -2538,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "我们生成了一份新的通话录音！";
+
+/* No comment provided by engineer. */
+"We’ve got a new system audio recording!" = "我们录制了一段新的系统音频！";
 
 /* No comment provided by engineer. */
 "We’ve got a new voice memo!" = "我们生成了一份新的语音备忘录！";
@@ -2550,6 +2604,9 @@
 
 /* No comment provided by engineer. */
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "未连接无线局域网时，使用蜂窝网络传输录音。可能会产生额外费用。";
+
+/* No comment provided by engineer. */
+"When there is no call…" = "当没有通话时…";
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";

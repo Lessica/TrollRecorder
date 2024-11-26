@@ -176,6 +176,9 @@
 "answered" = "answered";
 
 /* TODO */
+"Any" = "Any";
+
+/* TODO */
 "App Icon" = "App Icon";
 
 /* TODO */
@@ -261,9 +264,6 @@
 
 /* TODO */
 "Automation" = "Automation";
-
-/* No comment provided by engineer. */
-"Available for Lifetime" = "Có sẵn vĩnh viễn";
 
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Tránh màn hình bị khóa tự động khi máy chủ WebDAV được sử dụng bởi bất kỳ khách hàng nào.";
@@ -877,11 +877,17 @@
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Những câu hỏi thường gặp";
 
-/* No comment provided by engineer. */
-"From" = "Từ";
+/* TODO */
+"From %@" = "From %@";
+
+/* TODO */
+"From %@ to %@" = "From %1$@ to %2$@";
 
 /* No comment provided by engineer. */
 "From: %@" = "Từ: %@";
+
+/* No comment provided by engineer. */
+"From…" = "Từ";
 
 /* TODO */
 "Full" = "Full";
@@ -1124,6 +1130,9 @@
 "Legacy Jailbreak" = "Legacy Jailbreak";
 
 /* No comment provided by engineer. */
+"Lifetime Guarantee" = "Có sẵn vĩnh viễn";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
 
 /* No comment provided by engineer. */
@@ -1285,9 +1294,6 @@
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "Âm thanh MPEG-4";
 
-/* No comment provided by engineer. */
-"Multiple Devices" = "Nhiều thiết bị";
-
 /* TODO */
 "mute" = "mute";
 
@@ -1390,6 +1396,9 @@
 /* No comment provided by engineer. */
 "open" = "mở";
 
+/* TODO */
+"Open Application" = "Open Application";
+
 /* No comment provided by engineer. */
 "Open Hoverball" = "Mở bong bóng";
 
@@ -1470,6 +1479,9 @@
 
 /* No comment provided by engineer. */
 "Phone Call Exclude List" = "Danh sách loại trừ cuộc gọi điện thoại";
+
+/* TODO */
+"phone call recording" = "phone call recording";
 
 /* No comment provided by engineer. */
 "Phone Call VIP" = "Cuộc gọi điện thoại VIP";
@@ -1625,6 +1637,9 @@
 "Recording successfully started." = "Recording successfully started.";
 
 /* TODO */
+"Recording Type" = "Recording Type";
+
+/* TODO */
 "Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* TODO */
@@ -1749,6 +1764,12 @@
 
 /* No comment provided by engineer. */
 "Search" = "Tìm kiếm";
+
+/* TODO */
+"Search %@ in %@…" = "Search %1$@ in %2$@…";
+
+/* TODO */
+"Search %@…" = "Search %@…";
 
 /* No comment provided by engineer. */
 "Search Apps…" = "Tìm kiếm ứng dụng…";
@@ -1919,9 +1940,6 @@
 "start" = "bắt đầu";
 
 /* No comment provided by engineer. */
-"Start a new call recoring, or stop an existing one." = "Bắt đầu ghi âm cuộc gọi mới hoặc dừng cuộc gọi hiện có.";
-
-/* No comment provided by engineer. */
 "Start Date" = "Ngày bắt đầu";
 
 /* No comment provided by engineer. */
@@ -1991,6 +2009,12 @@
 "System Audio" = "Hệ thống âm thanh";
 
 /* TODO */
+"System Audio Recording" = "System Audio Recording";
+
+/* TODO */
+"system audio recording" = "system audio recording";
+
+/* TODO */
 "System Language" = "System Language";
 
 /* TODO */
@@ -2031,6 +2055,9 @@
 
 /* TODO */
 "text-to-speech" = "text-to-speech";
+
+/* TODO */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "The %@ has been interrupted by the system. You may convert the recording manually later.";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Thiết lập ứng dụng đã gặp lỗi không xác định, Launch Daemon không phản hồi yêu cầu của chúng tôi. Chúng tôi đang cố gắng kết nối lại, vui lòng đợi. Nếu sự cố vẫn tiếp diễn, bạn có thể thử cài đặt lại ứng dụng.";
@@ -2114,7 +2141,7 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Chế độ xử lý bài đăng sẽ được sử dụng. Chế độ kết hợp sẽ nhét âm thanh loa âm thanh nổi vào kênh bên trái, với micrô ở kênh bên phải. Chế độ hỗn hợp sẽ sao chép kênh micrô sang âm thanh nổi và trộn nó với các kênh loa.";
 
 /* TODO */
-"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+"The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
 
 /* TODO */
 "The service operator name of the sender." = "The service operator name of the sender.";
@@ -2194,8 +2221,8 @@
 /* TODO */
 "Title" = "Title";
 
-/* No comment provided by engineer. */
-"To" = "Đến";
+/* TODO */
+"To %@" = "To %@";
 
 /* TODO */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”.";
@@ -2231,7 +2258,10 @@
 "Toggle Recording" = "Bật tắt ghi âm";
 
 /* TODO */
-"Toggle Voice Memo" = "Toggle Voice Memo";
+"Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* TODO */
+"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
 /* TODO */
 "top edge" = "top edge";
@@ -2241,6 +2271,9 @@
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"To…" = "Đến";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "Theo dõi cập nhật vị trí";
@@ -2362,6 +2395,9 @@
 /* TODO */
 "Untitled" = "Untitled";
 
+/* TODO */
+"Up to 5 Personal Devices" = "Nhiều thiết bị";
+
 /* No comment provided by engineer. */
 "Updating…" = "Đang cập nhật…";
 
@@ -2471,6 +2507,9 @@
 "View Logs: Launch Agent" = "View Logs: Launch Agent";
 
 /* TODO */
+"View Logs: System Audio" = "View Logs: System Audio";
+
+/* TODO */
 "View Logs: Voice Memo" = "View Logs: Voice Memo";
 
 /* TODO */
@@ -2484,6 +2523,12 @@
 
 /* TODO */
 "Voice Memo" = "Voice Memo";
+
+/* TODO */
+"Voice Memo Recording" = "Voice Memo Recording";
+
+/* TODO */
+"voice memo recording" = "voice memo recording";
 
 /* TODO */
 "Voice Memos" = "Voice Memos";
@@ -2502,6 +2547,9 @@
 
 /* TODO */
 "Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
+
+/* TODO */
+"Wait for Calls" = "Wait for Calls";
 
 /* TODO */
 "Wait for Connected Calls" = "Wait for Connected Calls";
@@ -2531,6 +2579,9 @@
 "Welcome to" = "Chào mừng đến với";
 
 /* TODO */
+"We’re recording system audio in the background." = "We’re recording system audio in the background.";
+
+/* TODO */
 "We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
 
 /* TODO */
@@ -2538,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Chúng tôi có một bản ghi âm cuộc gọi điện thoại mới!";
+
+/* TODO */
+"We’ve got a new system audio recording!" = "We’ve got a new system audio recording!";
 
 /* TODO */
 "We’ve got a new voice memo!" = "We’ve got a new voice memo!";
@@ -2550,6 +2604,9 @@
 
 /* TODO */
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply.";
+
+/* TODO */
+"When there is no call…" = "When there is no call…";
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "Khi được mở khóa, bong bóng mọi nơi sẽ được hiển thị ngay cả khi bạn không ở trên màn hình chính.";

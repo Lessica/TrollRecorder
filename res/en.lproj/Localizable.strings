@@ -176,6 +176,9 @@
 "answered" = "answered";
 
 /* No comment provided by engineer. */
+"Any" = "Any";
+
+/* No comment provided by engineer. */
 "App Icon" = "App Icon";
 
 /* No comment provided by engineer. */
@@ -261,9 +264,6 @@
 
 /* No comment provided by engineer. */
 "Automation" = "Automation";
-
-/* No comment provided by engineer. */
-"Available for Lifetime" = "Available for Lifetime";
 
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Avoid screen being locked automatically when WebDAV server is used by any client.";
@@ -878,10 +878,16 @@
 "Frequently Asked Questions" = "Frequently Asked Questions";
 
 /* No comment provided by engineer. */
-"From" = "From";
+"From %@" = "From %@";
+
+/* No comment provided by engineer. */
+"From %@ to %@" = "From %1$@ to %2$@";
 
 /* No comment provided by engineer. */
 "From: %@" = "From: %@";
+
+/* No comment provided by engineer. */
+"From…" = "From…";
 
 /* No comment provided by engineer. */
 "Full" = "Full";
@@ -1124,6 +1130,9 @@
 "Legacy Jailbreak" = "Legacy Jailbreak";
 
 /* No comment provided by engineer. */
+"Lifetime Guarantee" = "Lifetime Guarantee";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "Link Device to Havoc";
 
 /* No comment provided by engineer. */
@@ -1286,9 +1295,6 @@
 "MPEG-4 Audio" = "MPEG-4 Audio";
 
 /* No comment provided by engineer. */
-"Multiple Devices" = "Multiple Devices";
-
-/* No comment provided by engineer. */
 "mute" = "mute";
 
 /* No comment provided by engineer. */
@@ -1391,6 +1397,9 @@
 "open" = "open";
 
 /* No comment provided by engineer. */
+"Open Application" = "Open Application";
+
+/* No comment provided by engineer. */
 "Open Hoverball" = "Open Hoverball";
 
 /* No comment provided by engineer. */
@@ -1470,6 +1479,9 @@
 
 /* No comment provided by engineer. */
 "Phone Call Exclude List" = "Phone Call Exclude List";
+
+/* No comment provided by engineer. */
+"phone call recording" = "phone call recording";
 
 /* No comment provided by engineer. */
 "Phone Call VIP" = "Phone Call VIP";
@@ -1625,6 +1637,9 @@
 "Recording successfully started." = "Recording successfully started.";
 
 /* No comment provided by engineer. */
+"Recording Type" = "Recording Type";
+
+/* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* No comment provided by engineer. */
@@ -1749,6 +1764,12 @@
 
 /* No comment provided by engineer. */
 "Search" = "Search";
+
+/* No comment provided by engineer. */
+"Search %@ in %@…" = "Search %1$@ in %2$@…";
+
+/* No comment provided by engineer. */
+"Search %@…" = "Search %@…";
 
 /* No comment provided by engineer. */
 "Search Apps…" = "Search Apps…";
@@ -1919,9 +1940,6 @@
 "start" = "start";
 
 /* No comment provided by engineer. */
-"Start a new call recoring, or stop an existing one." = "Start a new call recoring, or stop an existing one.";
-
-/* No comment provided by engineer. */
 "Start Date" = "Start Date";
 
 /* No comment provided by engineer. */
@@ -1991,6 +2009,12 @@
 "System Audio" = "System Audio";
 
 /* No comment provided by engineer. */
+"System Audio Recording" = "System Audio Recording";
+
+/* No comment provided by engineer. */
+"system audio recording" = "system audio recording";
+
+/* No comment provided by engineer. */
 "System Language" = "System Language";
 
 /* No comment provided by engineer. */
@@ -2031,6 +2055,9 @@
 
 /* No comment provided by engineer. */
 "text-to-speech" = "text-to-speech";
+
+/* No comment provided by engineer. */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "The %@ has been interrupted by the system. You may convert the recording manually later.";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application.";
@@ -2114,7 +2141,7 @@
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels.";
 
 /* No comment provided by engineer. */
-"The recording has been interrupted by the system. You may convert the recording manually later." = "The recording has been interrupted by the system. You may convert the recording manually later.";
+"The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
 
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "The service operator name of the sender.";
@@ -2195,7 +2222,7 @@
 "Title" = "Title";
 
 /* No comment provided by engineer. */
-"To" = "To";
+"To %@" = "To %@";
 
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”.";
@@ -2231,7 +2258,10 @@
 "Toggle Recording" = "Toggle Recording";
 
 /* No comment provided by engineer. */
-"Toggle Voice Memo" = "Toggle Voice Memo";
+"Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* No comment provided by engineer. */
+"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
 /* No comment provided by engineer. */
 "top edge" = "top edge";
@@ -2241,6 +2271,9 @@
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"To…" = "To…";
 
 /* No comment provided by engineer. */
 "Track Location Updates" = "Track Location Updates";
@@ -2363,6 +2396,9 @@
 "Untitled" = "Untitled";
 
 /* No comment provided by engineer. */
+"Up to 5 Personal Devices" = "Up to 5 Personal Devices";
+
+/* No comment provided by engineer. */
 "Updating…" = "Updating…";
 
 /* No comment provided by engineer. */
@@ -2471,6 +2507,9 @@
 "View Logs: Launch Agent" = "View Logs: Launch Agent";
 
 /* No comment provided by engineer. */
+"View Logs: System Audio" = "View Logs: System Audio";
+
+/* No comment provided by engineer. */
 "View Logs: Voice Memo" = "View Logs: Voice Memo";
 
 /* No comment provided by engineer. */
@@ -2484,6 +2523,12 @@
 
 /* No comment provided by engineer. */
 "Voice Memo" = "Voice Memo";
+
+/* No comment provided by engineer. */
+"Voice Memo Recording" = "Voice Memo Recording";
+
+/* No comment provided by engineer. */
+"voice memo recording" = "voice memo recording";
 
 /* No comment provided by engineer. */
 "Voice Memos" = "Voice Memos";
@@ -2502,6 +2547,9 @@
 
 /* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
+
+/* No comment provided by engineer. */
+"Wait for Calls" = "Wait for Calls";
 
 /* No comment provided by engineer. */
 "Wait for Connected Calls" = "Wait for Connected Calls";
@@ -2531,6 +2579,9 @@
 "Welcome to" = "Welcome to";
 
 /* No comment provided by engineer. */
+"We’re recording system audio in the background." = "We’re recording system audio in the background.";
+
+/* No comment provided by engineer. */
 "We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
 
 /* No comment provided by engineer. */
@@ -2538,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "We’ve got a new phone call recording!";
+
+/* No comment provided by engineer. */
+"We’ve got a new system audio recording!" = "We’ve got a new system audio recording!";
 
 /* No comment provided by engineer. */
 "We’ve got a new voice memo!" = "We’ve got a new voice memo!";
@@ -2550,6 +2604,9 @@
 
 /* No comment provided by engineer. */
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply.";
+
+/* No comment provided by engineer. */
+"When there is no call…" = "When there is no call…";
 
 /* No comment provided by engineer. */
 "When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
