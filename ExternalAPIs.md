@@ -23,6 +23,9 @@
 - `trapp://voice-memo/on`: 开始新的语音备忘录。
 - `trapp://voice-memo/off`: 停止现有的语音备忘录会话。
 - `trapp://voice-memo/toggle`: 开始新的语音备忘录，或停止现有的语音备忘录会话。
+- `trapp://system-audio/on`: 开始新的系统音频录制。
+- `trapp://system-audio/off`: 停止现有的系统音频录制。
+- `trapp://system-audio/toggle`: 开始新的系统音频录制，或停止现有的系统音频录制。
 
 ## URL Scheme Support
 
@@ -35,3 +38,6 @@
 - `trapp://voice-memo/on`: Start a new voice memo.
 - `trapp://voice-memo/off`: Stop an existing voice memo session.
 - `trapp://voice-memo/toggle`: Start a new voice memo, or stop an existing one.
+- `trapp://system-audio/on`: Start a new system audio recording.
+- `trapp://system-audio/off`: Stop an existing system audio recording session.
+- `trapp://system-audio/toggle`: Start a new system audio recording, or stop an existing one.
