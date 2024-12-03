@@ -70,6 +70,12 @@
 /* Translated with Microsoft Translator */
 "A new version (%@) of “TrollRecorder” is available." = "Hay disponible una nueva versión de la aplicación (%@).";
 
+/* TODO */
+"A resping is required to completely apply the changes." = "A resping is required to completely apply the changes.";
+
+/* TODO */
+"A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
+
 /* Translated with Microsoft Translator */
 "accept" = "acepte";
 
@@ -87,6 +93,12 @@
 
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "Activar el HUD de la grabadora.";
+
+/* TODO */
+"Add Now" = "Add Now";
+
+/* TODO */
+"Add Required Widget" = "Add Required Widget";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "Contacto adicional";
@@ -619,6 +631,9 @@
 /* No comment provided by engineer. */
 "Discard Recording" = "Descartar grabación";
 
+/* TODO */
+"Discreet Mode" = "Discreet Mode";
+
 /* Translated with Microsoft Translator */
 "Discreet Voice Memos" = "Notas de voz discretas";
 
@@ -1027,6 +1042,9 @@
 /* No comment provided by engineer. */
 "In 15 Minutes" = "En 15 minutos";
 
+/* TODO */
+"Inaccurate Time Detected" = "Inaccurate Time Detected";
+
 /* No comment provided by engineer. */
 "Incoming" = "Entrante";
 
@@ -1102,11 +1120,14 @@
 /* Translated with Microsoft Translator */
 "Kill all applications and restart the render server (backboardd)." = "Cierre todas las aplicaciones y reinicie el servidor de renderizado (backboardd).";
 
+/* TODO */
+"Language Changed" = "Language Changed";
+
 /* No comment provided by engineer. */
 "Larger" = "Más grande";
 
 /* Translated with Microsoft Translator */
-"Later" = "Ignorar durante 7 días";
+"Later" = "Más tarde";
 
 /* TODO */
 "Latest Version" = "Latest Version";
@@ -2029,6 +2050,9 @@
 /* Translated with Microsoft Translator */
 "Tap again to start a FaceTime call." = "Pulse de nuevo para iniciar una llamada FaceTime.";
 
+/* TODO */
+"Tap to add required widget." = "Tap to add required widget.";
+
 /* No comment provided by engineer. */
 "Tap to calculate the total size of all recordings." = "Pulse para calcular el tamaño total de todas las grabaciones.";
 
@@ -2039,7 +2063,7 @@
 "Tap to Exit" = "Toque para salir";
 
 /* Translated with Microsoft Translator */
-"Tap to open settings" = "Pulse para abrir la configuración";
+"Tap to open settings." = "Pulse para abrir la configuración";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Ignorar temporalmente";
@@ -2156,7 +2180,7 @@
 "The time interval before the hoverball becomes idle." = "El intervalo de tiempo antes de que el HUD global se vuelva inactivo.";
 
 /* Translated with Microsoft Translator */
-"The Troll Recorder daemon is not alive." = "El demonio Troll Recorder no está vivo.";
+"The Troll Recorder daemon is not alive." = "El demonio Troll Recorder no está vivo.";
 
 /* TODO */
 "The type of content to be recorded." = "The type of content to be recorded.";
@@ -2192,7 +2216,7 @@
 "This is a sandbox build, the daemon is not available." = "Esta es una construcción sandbox, el demonio no está disponible.";
 
 /* Translated with Microsoft Translator */
-"This is a widget daemon for Troll Recorder." = "Se trata de un demonio widget para Troll Recorder.";
+"This is a widget daemon for Troll Recorder." = "Se trata de un demonio widget para Troll Recorder.";
 
 /* Translated with Microsoft Translator */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Esta grabación es de WeChat, y el “Asistente WeChat” te ayuda a rellenar los nombres de los contactos de WeChat y los comentarios la próxima vez.\nPuedes comprar “TrollRecorder Pro” para activar el “Asistente WeChat”, ¿quieres comprarlo ahora?";
@@ -2224,20 +2248,23 @@
 /* TODO */
 "To %@" = "To %@";
 
+/* TODO */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
+
 /* Translated with Microsoft Translator */
-"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "Para configurar iCloud Drive, ve a “Ajustes > Móvil > iCloud Drive”.";
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Para configurar iCloud Drive, ve a “Ajustes” → “Móvil” → “iCloud Drive”.";
 
 /* TODO */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
 
 /* Translated with Microsoft Translator */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "Para mantener vivo el acceso WebDAV, tiene que seleccionar “Siempre” o “Mientras usa la aplicación” para TrollRecorder.";
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Para mantener vivo el acceso WebDAV, tiene que seleccionar “Siempre” o “Mientras usa la aplicación” para TrollRecorder.";
 
 /* Translated with Microsoft Translator */
-"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "Para utilizar Smart Cloud Archive, tiene que activar Background App Refresh para TrollRecorder.";
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Para utilizar Smart Cloud Archive, tiene que activar Background App Refresh para TrollRecorder.";
 
 /* Translated with Microsoft Translator */
-"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "Para utilizar Smart Cloud Archive, tienes que iniciar sesión en iCloud Drive en Ajustes.";
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Para utilizar Smart Cloud Archive, tienes que iniciar sesión en iCloud Drive en Ajustes.";
 
 /* No comment provided by engineer. */
 "To: %@" = "Hasta: %@";
@@ -2488,6 +2515,9 @@
 /* No comment provided by engineer. */
 "Vibrate at End" = "Vibrar al final";
 
+/* TODO */
+"View" = "View";
+
 /* Translated with Microsoft Translator */
 "View Details" = "Ver detalles";
 
@@ -2505,6 +2535,9 @@
 
 /* Translated with Microsoft Translator */
 "View Logs: Launch Agent" = "Ver Registros: Agente de Lanzamiento";
+
+/* TODO */
+"View Logs: Speech Utterance" = "View Logs: Speech Utterance";
 
 /* TODO */
 "View Logs: System Audio" = "View Logs: System Audio";
@@ -2559,6 +2592,9 @@
 
 /* No comment provided by engineer. */
 "Waveform Audio" = "Forma de onda del audio";
+
+/* TODO */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed.";
 
 /* TODO */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
@@ -2653,8 +2689,11 @@
 /* Translated with Microsoft Translator */
 "YES" = "SÍ";
 
+/* TODO */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements.";
+
 /* No comment provided by engineer. */
-"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Debes seleccionar “Siempre” para que TrollRecorder pueda determinar tu ubicación en segundo plano. Si seleccionas “Mientras usas la aplicación”, las ubicaciones se actualizarán solo cuando inicies la aplicación después de la grabación.";
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Debes seleccionar “Siempre” para que TrollRecorder pueda determinar tu ubicación en segundo plano. Si seleccionas “Mientras usas la aplicación”, las ubicaciones se actualizarán solo cuando inicies la aplicación después de la grabación.";
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Es posible que tengas que activar “Grabación automática mejorada” o “Identificación de escenas mejorada” para que las opciones de esta página surtan efecto.";
@@ -2678,7 +2717,7 @@
 "You’ve pressed password." = "Has pulsado contraseña.";
 
 /* Translated with Microsoft Translator */
-"“%@” is not available" = "“%@” no está disponible";
+"“%@” is not available." = "“%@” no está disponible";
 
 /* TODO */
 "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";

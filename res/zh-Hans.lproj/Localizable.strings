@@ -71,6 +71,12 @@
 "A new version (%@) of “TrollRecorder” is available." = "巨魔录音机有新版本 %@ 可用。";
 
 /* No comment provided by engineer. */
+"A resping is required to completely apply the changes." = "退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
+
+/* No comment provided by engineer. */
+"A widget is required for the “Launch Shield” feature." = "“启动守护” 功能需要一个小组件。";
+
+/* No comment provided by engineer. */
 "accept" = "接听";
 
 /* No comment provided by engineer. */
@@ -87,6 +93,12 @@
 
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "启动服务，并打开录音悬浮球。";
+
+/* No comment provided by engineer. */
+"Add Now" = "立即添加";
+
+/* No comment provided by engineer. */
+"Add Required Widget" = "添加所需的小组件";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "自定义联系人";
@@ -182,7 +194,7 @@
 "App Icon" = "应用程序图标";
 
 /* No comment provided by engineer. */
-"App Language" = "应用程序语言";
+"App Language" = "界面语言";
 
 /* No comment provided by engineer. */
 "Appearance" = "显示与外观";
@@ -239,7 +251,7 @@
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "每月自动为混合和组合模式的录音创建克隆，并将其存储在 iCloud 云盘中。当前月份的录音不会被归档。";
 
 /* No comment provided by engineer. */
-"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "当设备重新启动并解锁时，自动启动后台服务并尽可能保持其存活。需要将 “巨魔录音机” 小组件添加到锁屏或主屏幕任意位置才能使此选项生效。";
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "当设备重新启动并解锁时，自动启动后台服务并尽可能保持其存活。需要将 “巨魔录音机” 小组件添加到锁定屏幕或主屏幕任意位置才能使此选项生效。";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "录音完成后，自动将麦克风和扬声器合并成一个文件。";
@@ -620,6 +632,9 @@
 "Discard Recording" = "丢弃录音";
 
 /* No comment provided by engineer. */
+"Discreet Mode" = "隐秘模式";
+
+/* No comment provided by engineer. */
 "Discreet Voice Memos" = "隐秘语音备忘录";
 
 /* No comment provided by engineer. */
@@ -863,7 +878,7 @@
 "Follow System" = "跟随系统";
 
 /* No comment provided by engineer. */
-"Force the app to use a specific language. Reopen to apply changes." = "强制应用程序使用指定的语言。重新打开以应用更改。";
+"Force the app to use a specific language. Reopen to apply changes." = "强制应用程序使用指定的语言。退出并重新打开应用程序后方可生效。";
 
 /* No comment provided by engineer. */
 "Format" = "格式";
@@ -953,10 +968,10 @@
 "Group Call" = "群组通话";
 
 /* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隐藏 “语音备忘录” 在锁屏界面上的显示，并隐藏其 “灵动岛” 活动。此功能可能需要妙手回春才能完全生效。";
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隐藏 “语音备忘录” 在锁定屏幕上的显示，并隐藏其 “灵动岛” 活动。此功能可能需要妙手回春才能完全生效。";
 
 /* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "隐藏 “语音备忘录” 在锁屏界面上的显示，并隐藏其 “灵动岛” 活动。你需要通过 TrollFools 或类似技术将其注入到 “语音备忘录” 应用程序中。";
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "隐藏 “语音备忘录” 在锁定屏幕上的显示，并隐藏其 “灵动岛” 活动。你需要通过 TrollFools 或类似技术将其注入到 “语音备忘录” 应用程序中。";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏时隐藏";
@@ -1026,6 +1041,9 @@
 
 /* No comment provided by engineer. */
 "In 15 Minutes" = "15 分钟内";
+
+/* No comment provided by engineer. */
+"Inaccurate Time Detected" = "检测到不准确的时间";
 
 /* No comment provided by engineer. */
 "Incoming" = "来电";
@@ -1101,6 +1119,9 @@
 
 /* No comment provided by engineer. */
 "Kill all applications and restart the render server (backboardd)." = "关闭所有应用程序并重启渲染服务（backboardd）。";
+
+/* No comment provided by engineer. */
+"Language Changed" = "语言已更改";
 
 /* No comment provided by engineer. */
 "Larger" = "较大";
@@ -1886,7 +1907,7 @@
 "Show notification ${requestedMessage}" = "显示 ${requestedMessage} 通知";
 
 /* No comment provided by engineer. */
-"Show on Lock Screen" = "在锁屏界面显示";
+"Show on Lock Screen" = "在锁定屏幕显示";
 
 /* No comment provided by engineer. */
 "Show Option Description" = "显示选项描述";
@@ -2030,6 +2051,9 @@
 "Tap again to start a FaceTime call." = "再次轻点开始 FaceTime 通话";
 
 /* No comment provided by engineer. */
+"Tap to add required widget." = "轻按以添加所需的小组件。";
+
+/* No comment provided by engineer. */
 "Tap to calculate the total size of all recordings." = "轻按以计算所有录音的总大小。";
 
 /* No comment provided by engineer. */
@@ -2039,7 +2063,7 @@
 "Tap to Exit" = "轻点退出";
 
 /* No comment provided by engineer. */
-"Tap to open settings" = "轻按以打开设置";
+"Tap to open settings." = "轻按以打开设置。";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暂时忽略";
@@ -2225,19 +2249,22 @@
 "To %@" = "结束于 %@";
 
 /* No comment provided by engineer. */
-"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "如需配置 iCloud 云盘，请转到 “设置 > 蜂窝移动网络 > iCloud 云盘”。";
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "要激活 “启动守护” 功能，你需要将 “巨魔录音机” 小组件添加到锁定屏幕或主屏幕。轻按 “立即添加” 将该小组件添加到主屏幕的首页，稍后你可以长按并拖拽以更改其位置。";
+
+/* No comment provided by engineer. */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "如需配置 iCloud 云盘，请转到 “设置” → “蜂窝移动网络” → “iCloud 云盘”。";
 
 /* No comment provided by engineer. */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "如需获取更准确的通话记录，你需要通过 TrollFools 或类似技术将其注入到 “微信” 应用程序中。";
 
 /* No comment provided by engineer. */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "如需保持 WebDAV 服务的活跃状态，你需要为巨魔录音机选择 “始终” 或 “使用 App 期间”。";
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "如需保持 WebDAV 服务的活跃状态，你需要为巨魔录音机选择 “始终” 或 “使用 App 期间”。";
 
 /* No comment provided by engineer. */
-"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "如需使用智能云归档，你需要为巨魔录音机启用后台 App 刷新。";
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "如需使用 “智能云归档”，你需要为巨魔录音机启用 “后台 App 刷新”。";
 
 /* No comment provided by engineer. */
-"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "要使用智能云归档，你必须在设置中登录 iCloud 云盘。";
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "要使用 “智能云归档”，你必须在设置中登录 iCloud 云盘。";
 
 /* No comment provided by engineer. */
 "To: %@" = "结束于：%@";
@@ -2489,6 +2516,9 @@
 "Vibrate at End" = "结束时振动";
 
 /* No comment provided by engineer. */
+"View" = "查看";
+
+/* No comment provided by engineer. */
 "View Details" = "查看详情";
 
 /* No comment provided by engineer. */
@@ -2498,13 +2528,16 @@
 "View Logs: Call Monitor" = "通话监控服务";
 
 /* No comment provided by engineer. */
-"View Logs: Call Recorder" = "通话录音服务";
+"View Logs: Call Recorder" = "通话录音";
 
 /* No comment provided by engineer. */
 "View Logs: Hoverball" = "悬浮球";
 
 /* No comment provided by engineer. */
 "View Logs: Launch Agent" = "启动代理";
+
+/* No comment provided by engineer. */
+"View Logs: Speech Utterance" = "语音播报";
 
 /* No comment provided by engineer. */
 "View Logs: System Audio" = "系统音频录制";
@@ -2561,6 +2594,9 @@
 "Waveform Audio" = "波形音频 (wav)";
 
 /* No comment provided by engineer. */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "由于本地时间不准确，我们无法验证你的购买。请校准设备时间后继续。";
+
+/* No comment provided by engineer. */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "我们无法在无痕浏览模式下验证你的购买。请确保你不在 Safari 的无痕浏览模式下以继续。";
 
 /* No comment provided by engineer. */
@@ -2609,7 +2645,7 @@
 "When there is no call…" = "当没有通话时…";
 
 /* No comment provided by engineer. */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁屏界面显示。";
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁定屏幕显示。";
 
 /* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空间不足，分离通道的本地录音在上传后将被删除。";
@@ -2654,7 +2690,10 @@
 "YES" = "是";
 
 /* No comment provided by engineer. */
-"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必须选择 “始终” 以使巨魔录音机能够在后台确定你的位置。如果你选择 “使用 App 期间”，你需要在录音结束后 15 分钟或 1 小时内启动应用程序以更新位置。";
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 “设置” → “辅助功能” → “旁白” → “语音” → “声音” 中下载语音包，然后在这里选择一种，用于 “通话录音警告” 和 “语音播报” 快捷指令。";
+
+/* No comment provided by engineer. */
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必须选择 “始终” 以使巨魔录音机能够在后台确定你的位置。如果你选择 “使用 App 期间”，你需要在录音结束后 15 分钟或 1 小时内启动应用程序以更新位置。";
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要启用 “增强自动录音” 或 “增强通话场景识别” 以使此页面上的选项生效。";
@@ -2678,7 +2717,7 @@
 "You’ve pressed password." = "你选择了密码验证。";
 
 /* No comment provided by engineer. */
-"“%@” is not available" = "“%@” 不可用";
+"“%@” is not available." = "“%@” 不可用。";
 
 /* No comment provided by engineer. */
 "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "此页面上的 “允许自动录音” 已禁用：VIP 联系人将始终被录音并添加到收藏中，其他联系人将不会被录音。";

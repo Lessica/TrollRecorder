@@ -71,6 +71,12 @@
 "A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
 
 /* TODO */
+"A resping is required to completely apply the changes." = "A resping is required to completely apply the changes.";
+
+/* TODO */
+"A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
+
+/* TODO */
 "accept" = "accept";
 
 /* TODO */
@@ -87,6 +93,12 @@
 
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "Kích hoạt bong bóng ghi âm.";
+
+/* TODO */
+"Add Now" = "Add Now";
+
+/* TODO */
+"Add Required Widget" = "Add Required Widget";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "Liên hệ bổ sung";
@@ -620,6 +632,9 @@
 "Discard Recording" = "Bỏ ghi âm";
 
 /* TODO */
+"Discreet Mode" = "Discreet Mode";
+
+/* TODO */
 "Discreet Voice Memos" = "Discreet Voice Memos";
 
 /* No comment provided by engineer. */
@@ -1027,6 +1042,9 @@
 /* No comment provided by engineer. */
 "In 15 Minutes" = "Trong 15 Phút";
 
+/* TODO */
+"Inaccurate Time Detected" = "Inaccurate Time Detected";
+
 /* No comment provided by engineer. */
 "Incoming" = "Đến";
 
@@ -1101,6 +1119,9 @@
 
 /* TODO */
 "Kill all applications and restart the render server (backboardd)." = "Kill all applications and restart the render server (backboardd).";
+
+/* TODO */
+"Language Changed" = "Language Changed";
 
 /* No comment provided by engineer. */
 "Larger" = "Lớn hơn";
@@ -2030,6 +2051,9 @@
 "Tap again to start a FaceTime call." = "Tap again to start a FaceTime call.";
 
 /* TODO */
+"Tap to add required widget." = "Tap to add required widget.";
+
+/* TODO */
 "Tap to calculate the total size of all recordings." = "Tap to calculate the total size of all recordings.";
 
 /* TODO */
@@ -2039,7 +2063,7 @@
 "Tap to Exit" = "Nhấn để thoát";
 
 /* TODO */
-"Tap to open settings" = "Tap to open settings";
+"Tap to open settings." = "Tap to open settings.";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Tạm thời bỏ qua";
@@ -2225,19 +2249,22 @@
 "To %@" = "To %@";
 
 /* TODO */
-"To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”.";
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
+
+/* TODO */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
 
 /* TODO */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
 
 /* TODO */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder.";
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”.";
 
 /* TODO */
-"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder.";
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”.";
 
 /* TODO */
-"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings.";
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”.";
 
 /* No comment provided by engineer. */
 "To: %@" = "Đến: %@";
@@ -2489,6 +2516,9 @@
 "Vibrate at End" = "Rung khi kết thúc";
 
 /* TODO */
+"View" = "View";
+
+/* TODO */
 "View Details" = "View Details";
 
 /* TODO */
@@ -2505,6 +2535,9 @@
 
 /* TODO */
 "View Logs: Launch Agent" = "View Logs: Launch Agent";
+
+/* TODO */
+"View Logs: Speech Utterance" = "View Logs: Speech Utterance";
 
 /* TODO */
 "View Logs: System Audio" = "View Logs: System Audio";
@@ -2559,6 +2592,9 @@
 
 /* No comment provided by engineer. */
 "Waveform Audio" = "Âm thanh dạng sóng";
+
+/* TODO */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed.";
 
 /* TODO */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
@@ -2653,8 +2689,11 @@
 /* TODO */
 "YES" = "YES";
 
+/* TODO */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements.";
+
 /* No comment provided by engineer. */
-"You have to select “Always” for TrollRecorder to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Bạn phải chọn “Luôn luôn” cho TrollRecorder để xác định vị trí của bạn trong nền. Nếu bạn chọn “Trong khi sử dụng ứng dụng”, các địa điểm sẽ chỉ được cập nhật khi bạn khởi chạy ứng dụng sau khi ghi âm.";
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Bạn phải chọn “Luôn luôn” cho TrollRecorder để xác định vị trí của bạn trong nền. Nếu bạn chọn “Trong khi sử dụng ứng dụng”, các địa điểm sẽ chỉ được cập nhật khi bạn khởi chạy ứng dụng sau khi ghi âm.";
 
 /* No comment provided by engineer. */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect.";
@@ -2678,7 +2717,7 @@
 "You’ve pressed password." = "Bạn đã nhấn mật khẩu.";
 
 /* TODO */
-"“%@” is not available" = "“%@” is not available";
+"“%@” is not available." = "“%@” is not available.";
 
 /* TODO */
 "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
