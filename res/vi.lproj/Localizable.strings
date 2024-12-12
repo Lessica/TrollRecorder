@@ -280,9 +280,6 @@
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Tránh màn hình bị khóa tự động khi máy chủ WebDAV được sử dụng bởi bất kỳ khách hàng nào.";
 
-/* TODO */
-"Background App Refresh Permission Denied" = "Background App Refresh Permission Denied";
-
 /* No comment provided by engineer. */
 "Background Style" = "Phong cách nền";
 
@@ -608,6 +605,9 @@
 "Deselect All" = "Deselect All";
 
 /* TODO */
+"Detail Only" = "Detail Only";
+
+/* TODO */
 "Developer Options" = "Developer Options";
 
 /* No comment provided by engineer. */
@@ -774,6 +774,9 @@
 
 /* TODO */
 "End Editing" = "End Editing";
+
+/* TODO */
+"Enhance Recording" = "Enhance Recording";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "Ghi âm tự động nâng cao";
@@ -1018,9 +1021,6 @@
 /* TODO */
 "iCloud Drive" = "iCloud Drive";
 
-/* TODO */
-"iCloud Drive Not Logged In" = "iCloud Drive Not Logged In";
-
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
 
@@ -1030,8 +1030,14 @@
 /* TODO */
 "If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
 
+/* TODO */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
+
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Nếu điện thoại của bạn hỗ trợ thẻ SIM kép, bí danh thẻ SIM được sử dụng cho cuộc gọi được ghi lại sẽ được hiển thị ở đây.";
+
+/* TODO */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered.";
 
 /* TODO */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ignore the last modification date on all directories and files and make a deep clone of all recordings.";
@@ -1155,6 +1161,9 @@
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
+
+/* TODO */
+"List and Detail" = "List and Detail";
 
 /* No comment provided by engineer. */
 "Loading…" = "Đang tải…";
@@ -1514,6 +1523,9 @@
 "Phone Number or Email Address" = "Số điện thoại hoặc địa chỉ email";
 
 /* TODO */
+"Physical Key Combination" = "Physical Key Combination";
+
+/* TODO */
 "Placemark Name" = "Placemark Name";
 
 /* TODO */
@@ -1536,6 +1548,18 @@
 
 /* TODO */
 "Play/Pause" = "Play/Pause";
+
+/* TODO */
+"Playback Rate" = "Playback Rate";
+
+/* TODO */
+"Playback Rate: %@x" = "Playback Rate: %@x";
+
+/* TODO */
+"Playback Speed" = "Playback Speed";
+
+/* TODO */
+"Player Options" = "Player Options";
 
 /* TODO */
 "Please check your mail configuration." = "Please check your mail configuration.";
@@ -1695,6 +1719,9 @@
 
 /* TODO */
 "Release Notes" = "Release Notes";
+
+/* TODO */
+"Remove" = "Remove";
 
 /* TODO */
 "Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Remove all cached waveforms and allow them to be rebuilt from the original recordings.";
@@ -1929,6 +1956,12 @@
 
 /* No comment provided by engineer. */
 "SIM Card Alias" = "Bí danh thẻ SIM";
+
+/* TODO */
+"Simulator" = "Simulator";
+
+/* TODO */
+"Skip Silence" = "Skip Silence";
 
 /* No comment provided by engineer. */
 "Smaller" = "Nhỏ hơn";
@@ -2219,6 +2252,9 @@
 "This is a widget daemon for Troll Recorder." = "This is a widget daemon for Troll Recorder.";
 
 /* TODO */
+"This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
+
+/* TODO */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
 
 /* TODO */
@@ -2253,6 +2289,9 @@
 
 /* TODO */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
+
+/* TODO */
+"To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
 
 /* TODO */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
@@ -2724,6 +2763,12 @@
 
 /* TODO */
 "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
+
+/* TODO */
+"“Background App Refresh” Permission Denied" = "“Background App Refresh” Permission Denied";
+
+/* TODO */
+"“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

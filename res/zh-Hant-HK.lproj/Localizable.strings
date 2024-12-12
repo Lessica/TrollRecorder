@@ -281,9 +281,6 @@
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "當 WebDAV 伺服器被任何用戶端使用時，避免螢幕自動鎖定。";
 
 /* No comment provided by engineer. */
-"Background App Refresh Permission Denied" = "背景 App 重新整理被拒絕";
-
-/* No comment provided by engineer. */
 "Background Style" = "背景樣式";
 
 /* No comment provided by engineer. */
@@ -547,7 +544,7 @@
 /* No comment provided by engineer. */
 "Created At" = "創建於";
 
-/* TNo comment provided by engineer. */
+/* No comment provided by engineer. */
 "Custom Export Name" = "自定義匯出名稱";
 
 /* No comment provided by engineer. */
@@ -607,13 +604,16 @@
 /* No comment provided by engineer. */
 "Deselect All" = "取消全選";
 
+/* TODO */
+"Detail Only" = "Detail Only";
+
 /* No comment provided by engineer. */
 "Developer Options" = "開發者選項";
 
 /* No comment provided by engineer. */
 "Direction" = "通話類型";
 
-/* TNo comment provided by engineer. */
+/* No comment provided by engineer. */
 "Direction Capitalized" = "通話方向（首字母大寫）";
 
 /* No comment provided by engineer. */
@@ -634,7 +634,7 @@
 /* TODO */
 "Discreet Mode" = "Discreet Mode";
 
-/* TNo comment provided by engineer. */
+/* No comment provided by engineer. */
 "Discreet Voice Memos" = "隱秘語音備忘錄";
 
 /* No comment provided by engineer. */
@@ -670,7 +670,7 @@
 /* TODO */
 "Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Display the hoverball when record voice memo through this application, or the call recording is manually initiated.";
 
-/* TNo comment provided by engineer. */
+/* No comment provided by engineer. */
 "Display the name or description of each option." = "顯示每個選項的名稱或描述。";
 
 /* No comment provided by engineer. */
@@ -757,7 +757,7 @@
 /* No comment provided by engineer. */
 "Enable Optic ID" = "啟用 Optic ID";
 
-/* TNo comment provided by engineer. */
+/* No comment provided by engineer. */
 "Enable Touch ID" = "啟用 Touch ID";
 
 /* No comment provided by engineer. */
@@ -774,6 +774,9 @@
 
 /* No comment provided by engineer. */
 "End Editing" = "結束編輯";
+
+/* TODO */
+"Enhance Recording" = "Enhance Recording";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "增强自動錄音";
@@ -883,7 +886,7 @@
 /* No comment provided by engineer. */
 "Format" = "格式";
 
-/* TNo comment provided by engineer. */
+/* No comment provided by engineer. */
 "Formatted Location" = "地理位置（格式化）";
 
 /* No comment provided by engineer. */
@@ -1018,9 +1021,6 @@
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud 雲碟";
 
-/* TNo comment provided by engineer. */
-"iCloud Drive Not Logged In" = "未登入 iCloud 雲碟";
-
 /* No comment provided by engineer. */
 "Idle" = "空閑";
 
@@ -1030,8 +1030,14 @@
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜尋索引出了問題，可以在這裡重新設定。";
 
+/* TODO */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
+
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果您的手機支援 2 張 SIM 卡，錄音通話時所使用的 SIM 卡別名將顯示在這裏。";
+
+/* TODO */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered.";
 
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "忽略所有目錄和檔案的最後修改日期，並深度克隆所有錄音。";
@@ -1155,6 +1161,9 @@
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "將裝置連線到 Havoc";
+
+/* TODO */
+"List and Detail" = "List and Detail";
 
 /* No comment provided by engineer. */
 "Loading…" = "載入中…";
@@ -1513,6 +1522,9 @@
 /* No comment provided by engineer. */
 "Phone Number or Email Address" = "電話號碼或電郵地址";
 
+/* TODO */
+"Physical Key Combination" = "Physical Key Combination";
+
 /* No comment provided by engineer. */
 "Placemark Name" = "地標名稱";
 
@@ -1537,7 +1549,19 @@
 /* No comment provided by engineer. */
 "Play/Pause" = "播放/暫停";
 
-/* TNo comment provided by engineer. */
+/* TODO */
+"Playback Rate" = "Playback Rate";
+
+/* TODO */
+"Playback Rate: %@x" = "Playback Rate: %@x";
+
+/* TODO */
+"Playback Speed" = "Playback Speed";
+
+/* TODO */
+"Player Options" = "Player Options";
+
+/* No comment provided by engineer. */
 "Please check your mail configuration." = "請檢查你的郵件配置。";
 
 /* No comment provided by engineer. */
@@ -1695,6 +1719,9 @@
 
 /* No comment provided by engineer. */
 "Release Notes" = "發行説明";
+
+/* TODO */
+"Remove" = "Remove";
 
 /* TODO */
 "Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Remove all cached waveforms and allow them to be rebuilt from the original recordings.";
@@ -1929,6 +1956,12 @@
 
 /* No comment provided by engineer. */
 "SIM Card Alias" = "SIM 卡別稱";
+
+/* TODO */
+"Simulator" = "Simulator";
+
+/* TODO */
+"Skip Silence" = "Skip Silence";
 
 /* No comment provided by engineer. */
 "Smaller" = "較小";
@@ -2218,6 +2251,9 @@
 /* No comment provided by engineer. */
 "This is a widget daemon for Troll Recorder." = "這是巨魔錄音機的啟動守護小組件。";
 
+/* TODO */
+"This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
+
 /* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人名稱和備注。\n你可以購買 “巨魔錄音機” 以啟用 “WeChat 通話助理” ，你想現在購買嗎？";
 
@@ -2253,6 +2289,9 @@
 
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "如需配置 iCloud 雲碟，請轉到 “設定” → “流動網絡” → “iCloud 雲碟”。";
+
+/* TODO */
+"To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
 
 /* No comment provided by engineer. */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "如需獲取更准確的通話記錄，你需要通過 TrollFools 或類似技術將其注入到 “WeChat” 應用程式中。";
@@ -2724,6 +2763,12 @@
 
 /* No comment provided by engineer. */
 "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "此頁面上的 “允許自動錄音” 已啟用：“通話排除列表” 中的聯絡人將不會被錄音，其他聯絡人將允許被錄音。VIP 聯絡人的錄音還會被添加到收藏中。";
+
+/* No comment provided by engineer. */
+"“Background App Refresh” Permission Denied" = "“背景 App 重新整理” 被拒絕";
+
+/* No comment provided by engineer. */
+"“iCloud Drive” Not Logged In" = "未登入 “iCloud 雲碟”";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

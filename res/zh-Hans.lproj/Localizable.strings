@@ -281,9 +281,6 @@
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "当 WebDAV 服务器被任何客户端使用时，避免屏幕自动锁定。";
 
 /* No comment provided by engineer. */
-"Background App Refresh Permission Denied" = "后台 App 刷新被拒绝";
-
-/* No comment provided by engineer. */
 "Background Style" = "背景样式";
 
 /* No comment provided by engineer. */
@@ -608,6 +605,9 @@
 "Deselect All" = "取消全选";
 
 /* No comment provided by engineer. */
+"Detail Only" = "仅详情";
+
+/* No comment provided by engineer. */
 "Developer Options" = "开发者选项";
 
 /* No comment provided by engineer. */
@@ -774,6 +774,9 @@
 
 /* No comment provided by engineer. */
 "End Editing" = "结束编辑";
+
+/* No comment provided by engineer. */
+"Enhance Recording" = "增强录音";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "增强自动录音";
@@ -1019,9 +1022,6 @@
 "iCloud Drive" = "iCloud 云盘";
 
 /* No comment provided by engineer. */
-"iCloud Drive Not Logged In" = "未登录 iCloud 云盘";
-
-/* No comment provided by engineer. */
 "Idle" = "空闲";
 
 /* No comment provided by engineer. */
@@ -1031,7 +1031,13 @@
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜索索引出了问题，可以在这里重新设置。";
 
 /* No comment provided by engineer. */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "当没有活跃通话时，同时按下两个音量键执行指定的动作。";
+
+/* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果你的手机支持双卡，录音通话时所使用的 SIM 卡别名将显示在这里。";
+
+/* No comment provided by engineer. */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "如果你已经启用了 “使用 iCloud 备份” 并且同步成功，此动作将被触发。";
 
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "忽略所有目录和文件的最后修改日期，并深度克隆所有录音。";
@@ -1076,10 +1082,10 @@
 "Install Call History Tweak" = "安装通话记录插件";
 
 /* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安装 “压缩音频” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以将你的音频压缩为 AAC/AIFF 格式。";
+"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安装 “压缩音频” 动作到 “快捷指令” 中，然后分享你的录音到这个动作中，以将你的音频压缩为 AAC/AIFF 格式。";
 
 /* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安装 “制作归档” 操作到 “快捷指令” 中，然后分享你的录音到这个操作中，以创建一个 ZIP 档案。";
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安装 “制作归档” 动作到 “快捷指令” 中，然后分享你的录音到这个动作中，以创建一个 ZIP 档案。";
 
 /* No comment provided by engineer. */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "无效的代码签名。\n请从 TrollStore 重新安装此应用程序。";
@@ -1155,6 +1161,9 @@
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "连接到「浩劫」商店";
+
+/* No comment provided by engineer. */
+"List and Detail" = "列表和详情";
 
 /* No comment provided by engineer. */
 "Loading…" = "载入中…";
@@ -1514,6 +1523,9 @@
 "Phone Number or Email Address" = "电话号码或电子邮箱地址";
 
 /* No comment provided by engineer. */
+"Physical Key Combination" = "物理按键组合";
+
+/* No comment provided by engineer. */
 "Placemark Name" = "地标名称";
 
 /* No comment provided by engineer. */
@@ -1536,6 +1548,18 @@
 
 /* No comment provided by engineer. */
 "Play/Pause" = "播放/暂停";
+
+/* No comment provided by engineer. */
+"Playback Rate" = "播放速度";
+
+/* No comment provided by engineer. */
+"Playback Rate: %@x" = "%@ 倍速";
+
+/* No comment provided by engineer. */
+"Playback Speed" = "播放速度";
+
+/* No comment provided by engineer. */
+"Player Options" = "播放器选项";
 
 /* No comment provided by engineer. */
 "Please check your mail configuration." = "请检查你的邮件配置。";
@@ -1695,6 +1719,9 @@
 
 /* No comment provided by engineer. */
 "Release Notes" = "发行说明";
+
+/* No comment provided by engineer. */
+"Remove" = "移除";
 
 /* No comment provided by engineer. */
 "Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "删除所有缓存的波形，并允许从原始录音中重建它们。";
@@ -1929,6 +1956,12 @@
 
 /* No comment provided by engineer. */
 "SIM Card Alias" = "SIM 卡别名";
+
+/* No comment provided by engineer. */
+"Simulator" = "模拟器";
+
+/* No comment provided by engineer. */
+"Skip Silence" = "跳过静音";
 
 /* No comment provided by engineer. */
 "Smaller" = "较小";
@@ -2219,6 +2252,9 @@
 "This is a widget daemon for Troll Recorder." = "这是巨魔录音机的启动守护小组件。";
 
 /* No comment provided by engineer. */
+"This option overrides the “Long Press Action” of the Hoverball." = "此选项将覆盖悬浮球的 “长按动作”。";
+
+/* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你可以购买 “巨魔录音机” 来启用 “微信通话助理”，你想现在购买吗？";
 
 /* No comment provided by engineer. */
@@ -2253,6 +2289,9 @@
 
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "如需配置 iCloud 云盘，请转到 “设置” → “蜂窝移动网络” → “iCloud 云盘”。";
+
+/* No comment provided by engineer. */
+"To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "如需配置 “长按动作”，你需要从 “自动化” → “长按悬浮球” 中移除自定义快捷指令。";
 
 /* No comment provided by engineer. */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "如需获取更准确的通话记录，你需要通过 TrollFools 或类似技术将其注入到 “微信” 应用程序中。";
@@ -2724,6 +2763,12 @@
 
 /* No comment provided by engineer. */
 "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "此页面上的 “允许自动录音” 已启用：“通话排除列表” 中的联系人将不会被录音，其他联系人将允许被录音。VIP 联系人的录音还会被添加到收藏中。";
+
+/* No comment provided by engineer. */
+"“Background App Refresh” Permission Denied" = "“后台 App 刷新” 权限被拒绝";
+
+/* No comment provided by engineer. */
+"“iCloud Drive” Not Logged In" = "未登录 “iCloud 云盘”";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "巨魔录音机和 “TrollRecorder JB” 不能共存，请卸载它们。然后从 Sileo 重新安装 “TrollRecorder JB”，或从 TrollStore 安装巨魔录音机，你只能选取其中一个。";

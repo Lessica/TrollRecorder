@@ -280,9 +280,6 @@
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Evitar que la pantalla se bloquee automáticamente cuando el servidor WebDAV es utilizado por cualquier cliente.";
 
-/* Translated with Microsoft Translator */
-"Background App Refresh Permission Denied" = "Permiso de actualización de fondo denegado";
-
 /* No comment provided by engineer. */
 "Background Style" = "Estilo de fondo";
 
@@ -607,6 +604,9 @@
 /* Translated with Microsoft Translator */
 "Deselect All" = "Deseleccionar todo";
 
+/* TODO */
+"Detail Only" = "Detail Only";
+
 /* Translated with Microsoft Translator */
 "Developer Options" = "Opciones de desarrollo";
 
@@ -774,6 +774,9 @@
 
 /* Translated with Microsoft Translator */
 "End Editing" = "Fin de la edición";
+
+/* TODO */
+"Enhance Recording" = "Enhance Recording";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "Grabación automática mejorada";
@@ -1018,9 +1021,6 @@
 /* Translated with Microsoft Translator */
 "iCloud Drive" = "iCloud Drive";
 
-/* Translated with Microsoft Translator */
-"iCloud Drive Not Logged In" = "No se ha iniciado sesión en iCloud Drive";
-
 /* No comment provided by engineer. */
 "Idle" = "En espera";
 
@@ -1030,8 +1030,14 @@
 /* Translated with Microsoft Translator */
 "If there is something wrong with the search indexes, you can reset them here." = "Si hay algún problema con los índices de búsqueda, puede restablecerlos aquí.";
 
+/* TODO */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
+
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Si tu teléfono admite dos tarjetas SIM, el alias de la tarjeta SIM utilizada para la llamada grabada se muestra aquí.";
+
+/* TODO */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered.";
 
 /* Translated with Microsoft Translator */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ignora la fecha de la última modificación en todos los directorios y archivos y haz un clon profundo de todas las grabaciones.";
@@ -1155,6 +1161,9 @@
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Vincular dispositivo a Havoc";
+
+/* TODO */
+"List and Detail" = "List and Detail";
 
 /* No comment provided by engineer. */
 "Loading…" = "Cargando…";
@@ -1513,6 +1522,9 @@
 /* No comment provided by engineer. */
 "Phone Number or Email Address" = "Número de teléfono o dirección de correo electrónico";
 
+/* TODO */
+"Physical Key Combination" = "Physical Key Combination";
+
 /* Translated with Microsoft Translator */
 "Placemark Name" = "Nombre de la marca";
 
@@ -1536,6 +1548,18 @@
 
 /* Translated with Microsoft Translator */
 "Play/Pause" = "Reproducir/Pausa";
+
+/* TODO */
+"Playback Rate" = "Playback Rate";
+
+/* TODO */
+"Playback Rate: %@x" = "Playback Rate: %@x";
+
+/* TODO */
+"Playback Speed" = "Playback Speed";
+
+/* TODO */
+"Player Options" = "Player Options";
 
 /* Translated with Microsoft Translator */
 "Please check your mail configuration." = "Por favor, compruebe la configuración de su correo.";
@@ -1695,6 +1719,9 @@
 
 /* Translated with Microsoft Translator */
 "Release Notes" = "Notas de publicación";
+
+/* TODO */
+"Remove" = "Remove";
 
 /* TODO */
 "Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Remove all cached waveforms and allow them to be rebuilt from the original recordings.";
@@ -1929,6 +1956,12 @@
 
 /* No comment provided by engineer. */
 "SIM Card Alias" = "Alias de la tarjeta SIM";
+
+/* TODO */
+"Simulator" = "Simulator";
+
+/* TODO */
+"Skip Silence" = "Skip Silence";
 
 /* No comment provided by engineer. */
 "Smaller" = "Más pequeño";
@@ -2218,6 +2251,9 @@
 /* Translated with Microsoft Translator */
 "This is a widget daemon for Troll Recorder." = "Se trata de un demonio widget para Troll Recorder.";
 
+/* TODO */
+"This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
+
 /* Translated with Microsoft Translator */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Esta grabación es de WeChat, y el “Asistente WeChat” te ayuda a rellenar los nombres de los contactos de WeChat y los comentarios la próxima vez.\nPuedes comprar “TrollRecorder Pro” para activar el “Asistente WeChat”, ¿quieres comprarlo ahora?";
 
@@ -2253,6 +2289,9 @@
 
 /* Translated with Microsoft Translator */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Para configurar iCloud Drive, ve a “Ajustes” → “Móvil” → “iCloud Drive”.";
+
+/* TODO */
+"To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
 
 /* TODO */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
@@ -2724,6 +2763,12 @@
 
 /* TODO */
 "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
+
+/* Translated with Microsoft Translator */
+"“Background App Refresh” Permission Denied" = "Permiso de actualización de fondo denegado";
+
+/* Translated with Microsoft Translator */
+"“iCloud Drive” Not Logged In" = "No se ha iniciado sesión en iCloud Drive";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
