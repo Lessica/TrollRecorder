@@ -232,8 +232,8 @@
 /* No comment provided by engineer. */
 "Audio Compression" = "오디오 압축";
 
-/* No comment provided by engineer. */
-"Audio duration %@" = "오디오 길이 %@";
+/* TODO */
+"Audio File" = "Audio File";
 
 /* No comment provided by engineer. */
 "Audio played to %@" = "오디오가 %@(으)로 재생됨";
@@ -396,9 +396,6 @@
 
 /* TODO */
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
-
-/* TODO */
-"Check Latest Version" = "Check Latest Version";
 
 /* TODO */
 "Check Updates" = "Check Updates";
@@ -743,9 +740,6 @@
 "Empty Trash (%@)" = "휴지통 비우기 (%@)";
 
 /* No comment provided by engineer. */
-"Enable %@" = "%@ 활성화";
-
-/* No comment provided by engineer. */
 "Enable Biometric Authentication" = "생체 인증 활성화";
 
 /* No comment provided by engineer. */
@@ -845,9 +839,6 @@
 "Failed to remove: %@" = "삭제 실패: %@";
 
 /* No comment provided by engineer. */
-"Faster Support" = "더 빠른 기술 지원";
-
-/* No comment provided by engineer. */
 "Features Unlocked" = "기능 잠금 해제";
 
 /* No comment provided by engineer. */
@@ -870,9 +861,6 @@
 
 /* No comment provided by engineer. */
 "Focus" = "초점";
-
-/* No comment provided by engineer. */
-"Fold to Screen Edge" = "화면 가장자리로 접기";
 
 /* TODO */
 "Fold When Inactive" = "Fold When Inactive";
@@ -1088,6 +1076,9 @@
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "“단축어”에 “아카이브 만들기” 동작을 설치한 다음 녹음을 이 동작에 공유하여 ZIP 아카이브를 만듭니다.";
 
 /* TODO */
+"Invalid Code Signature" = "Invalid Code Signature";
+
+/* TODO */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1136,9 +1127,6 @@
 "Later" = "나중에";
 
 /* TODO */
-"Latest Version" = "Latest Version";
-
-/* TODO */
 "launch" = "launch";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1155,6 @@
 
 /* No comment provided by engineer. */
 "Loading…" = "로딩 중…";
-
-/* No comment provided by engineer. */
-"Local Network Permission Denied" = "로컬 네트워크 권한 거부됨";
 
 /* No comment provided by engineer. */
 "Local Storage" = "로컬 스토리지";
@@ -1540,11 +1525,17 @@
 /* TODO */
 "Play Sound" = "Play Sound";
 
+/* TODO */
+"Play specified audio file to the microphone." = "Play specified audio file to the microphone.";
+
 /* No comment provided by engineer. */
 "Play specified voice-over text to the microphone." = "지정된 VoiceOver 텍스트를 마이크로 재생합니다.";
 
+/* TODO */
+"Play Uplink Audio" = "Play Uplink Audio";
+
 /* No comment provided by engineer. */
-"Play Voice-Over to Microphone" = "마이크로 VoiceOver 재생";
+"Play Uplink Voice-Over" = "마이크로 VoiceOver 재생";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "재생/일시 정지";
@@ -1563,6 +1554,9 @@
 
 /* No comment provided by engineer. */
 "Please check your mail configuration." = "이메일 구성을 확인하세요.";
+
+/* TODO */
+"Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "팝오버 제어";
@@ -1606,6 +1600,9 @@
 /* TODO */
 "Private Browsing Detected" = "Private Browsing Detected";
 
+/* TODO */
+"Proceed Anyway" = "Proceed Anyway";
+
 /* No comment provided by engineer. */
 "Purchase" = "구매";
 
@@ -1626,9 +1623,6 @@
 
 /* No comment provided by engineer. */
 "Quit this application and try again." = "이 응용프로그램을 종료하고 다시 시도하세요.";
-
-/* No comment provided by engineer. */
-"Re-authenticate" = "재인증";
 
 /* No comment provided by engineer. */
 "Re-enable Suggested Options" = "제안 옵션 다시 활성화";
@@ -1734,6 +1728,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "이름 바꾸기";
+
+/* TODO */
+"Repeat Infinitely" = "Repeat Infinitely";
 
 /* No comment provided by engineer. */
 "Reset" = "재설정";
@@ -1853,9 +1850,6 @@
 "Select" = "선택";
 
 /* No comment provided by engineer. */
-"Select a downloaded voice for any Voice-Over scenarios." = "모든 VoiceOver 상황에서 다운로드한 음성을 선택합니다.";
-
-/* No comment provided by engineer. */
 "Select a recording to play." = "재생할 녹음을 선택하세요.";
 
 /* No comment provided by engineer. */
@@ -1954,6 +1948,9 @@
 /* No comment provided by engineer. */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "개발자가 녹음 목록을 확인할 수 있도록 “세부사항 보기” 메뉴 항목을 표시합니다.";
 
+/* TODO */
+"Silent Mode" = "Silent Mode";
+
 /* No comment provided by engineer. */
 "SIM Card Alias" = "SIM 카드 별명";
 
@@ -1996,9 +1993,6 @@
 /* No comment provided by engineer. */
 "Start Date" = "시작일";
 
-/* No comment provided by engineer. */
-"Start or prepare a new call recording manually." = "수동으로 새 통화 녹음을 시작하거나 준비하세요.";
-
 /* TODO */
 "Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
 
@@ -2022,9 +2016,6 @@
 
 /* TODO */
 "Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
-
-/* No comment provided by engineer. */
-"Stop a call recording session if exists." = "이미 진행 중인 통화 녹음 세션이 있으면 중지하세요.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "녹음 중지";
@@ -2122,6 +2113,9 @@
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "녹음이 종료되면 응용 프로그램이 자동으로 실행됩니다.";
 
+/* TODO */
+"The audio file to be played to the opposite side." = "The audio file to be played to the opposite side.";
+
 /* No comment provided by engineer. */
 "The bundle identifier of the application that initiated the call." = "통화를 시작한 응용 프로그램 식별자입니다.";
 
@@ -2133,12 +2127,6 @@
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "오디오가 생성된 날짜와 시간입니다.";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording ends." = "녹음이 종료되면 기기가 진동합니다.";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording starts." = "녹음이 시작되면 기기가 진동합니다.";
 
 /* No comment provided by engineer. */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "녹음이 시작되고 종료될 때 기기가 특별한 햅틱 패턴으로 진동합니다.";
@@ -2211,9 +2199,6 @@
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "호버볼이 유휴 상태가 되기까지의 시간입니다.";
-
-/* No comment provided by engineer. */
-"The Troll Recorder daemon is not alive." = "TrollRecorder 데몬 서비스 실행에 실패했습니다.";
 
 /* TODO */
 "The type of content to be recorded." = "The type of content to be recorded.";
@@ -2474,6 +2459,9 @@
 "Upgrade to %@" = "%@으로 업그레이드";
 
 /* TODO */
+"uplink" = "uplink";
+
+/* TODO */
 "Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* No comment provided by engineer. */
@@ -2548,12 +2536,6 @@
 /* TODO */
 "Vibrate" = "Vibrate";
 
-/* No comment provided by engineer. */
-"Vibrate at Begin" = "시작 시 진동";
-
-/* No comment provided by engineer. */
-"Vibrate at End" = "종료 시 진동";
-
 /* TODO */
 "View" = "View";
 
@@ -2562,6 +2544,9 @@
 
 /* No comment provided by engineer. */
 "View Logs: Application" = "응용 프로그램";
+
+/* TODO */
+"View Logs: Audio Player" = "View Logs: Audio Player";
 
 /* No comment provided by engineer. */
 "View Logs: Call Monitor" = "통화 모니터링 서비스";
@@ -2607,9 +2592,6 @@
 
 /* No comment provided by engineer. */
 "voice-over" = "VoiceOver";
-
-/* No comment provided by engineer. */
-"Voice-Over Text" = "VoiceOver 텍스트";
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "VoiceOver 음성";
@@ -2660,9 +2642,6 @@
 "We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
 
 /* No comment provided by engineer. */
-"We’re unable to show hoverball before unlocking due to technical reasons." = "기술적인 이유로 잠금 해제 전 호버볼을 표시할 수 없습니다.";
-
-/* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "새 전화 통화 녹음이 있습니다!";
 
 /* TODO */
@@ -2674,6 +2653,9 @@
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "새 전화 통화 녹음이 있습니다!";
 
+/* TODO */
+"When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+
 /* No comment provided by engineer. */
 "When Locked" = "잠겼을 때";
 
@@ -2684,9 +2666,6 @@
 "When there is no call…" = "When there is no call…";
 
 /* No comment provided by engineer. */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "잠금 해제되면 홈 화면이 아니더라도 호버볼이 표시됩니다.";
-
-/* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "%@의 공간이 부족하면 분리된 채널의 로컬 녹음이 업로드된 후 삭제됩니다.";
 
 /* No comment provided by engineer. */
@@ -2694,6 +2673,9 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "호버볼이 밝은 스타일을 사용 할지, 어두운 스타일을 사용 할지 여부를 결정합니다.";
+
+/* TODO */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing.";
 
 /* TODO */
 "Which channel to mute." = "Which channel to mute.";
@@ -2745,6 +2727,12 @@
 
 /* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder”." = "귀하는 현재 “TrollRecorder” 무료 버전을 사용하고 계십니다.";
+
+/* TODO */
+"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+
+/* TODO */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "생체 인증을 활성화했기 때문에 본인 확인이 필요합니다.";

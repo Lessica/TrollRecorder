@@ -233,7 +233,7 @@
 "Audio Compression" = "Audio Compression";
 
 /* No comment provided by engineer. */
-"Audio duration %@" = "Audio duration %@";
+"Audio File" = "Audio File";
 
 /* No comment provided by engineer. */
 "Audio played to %@" = "Audio played to %@";
@@ -396,9 +396,6 @@
 
 /* No comment provided by engineer. */
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
-
-/* No comment provided by engineer. */
-"Check Latest Version" = "Check Latest Version";
 
 /* No comment provided by engineer. */
 "Check Updates" = "Check Updates";
@@ -743,9 +740,6 @@
 "Empty Trash (%@)" = "Empty Trash (%@)";
 
 /* No comment provided by engineer. */
-"Enable %@" = "Enable %@";
-
-/* No comment provided by engineer. */
 "Enable Biometric Authentication" = "Enable Biometric Authentication";
 
 /* No comment provided by engineer. */
@@ -845,9 +839,6 @@
 "Failed to remove: %@" = "Failed to remove: %@";
 
 /* No comment provided by engineer. */
-"Faster Support" = "Faster Support";
-
-/* No comment provided by engineer. */
 "Features Unlocked" = "Features Unlocked";
 
 /* No comment provided by engineer. */
@@ -870,9 +861,6 @@
 
 /* No comment provided by engineer. */
 "Focus" = "Focus";
-
-/* No comment provided by engineer. */
-"Fold to Screen Edge" = "Fold to Screen Edge";
 
 /* No comment provided by engineer. */
 "Fold When Inactive" = "Fold When Inactive";
@@ -1088,6 +1076,9 @@
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
 
 /* No comment provided by engineer. */
+"Invalid Code Signature" = "Invalid Code Signature";
+
+/* No comment provided by engineer. */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1136,9 +1127,6 @@
 "Later" = "Later";
 
 /* No comment provided by engineer. */
-"Latest Version" = "Latest Version";
-
-/* No comment provided by engineer. */
 "launch" = "launch";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1155,6 @@
 
 /* No comment provided by engineer. */
 "Loading…" = "Loading…";
-
-/* No comment provided by engineer. */
-"Local Network Permission Denied" = "Local Network Permission Denied";
 
 /* No comment provided by engineer. */
 "Local Storage" = "Local Storage";
@@ -1541,10 +1526,16 @@
 "Play Sound" = "Play Sound";
 
 /* No comment provided by engineer. */
+"Play specified audio file to the microphone." = "Play specified audio file to the microphone.";
+
+/* No comment provided by engineer. */
 "Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
 
 /* No comment provided by engineer. */
-"Play Voice-Over to Microphone" = "Play Voice-Over to Microphone";
+"Play Uplink Audio" = "Play Uplink Audio";
+
+/* No comment provided by engineer. */
+"Play Uplink Voice-Over" = "Play Uplink Voice-Over";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "Play/Pause";
@@ -1563,6 +1554,9 @@
 
 /* No comment provided by engineer. */
 "Please check your mail configuration." = "Please check your mail configuration.";
+
+/* No comment provided by engineer. */
+"Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Popover Control";
@@ -1607,6 +1601,9 @@
 "Private Browsing Detected" = "Private Browsing Detected";
 
 /* No comment provided by engineer. */
+"Proceed Anyway" = "Proceed Anyway";
+
+/* No comment provided by engineer. */
 "Purchase" = "Purchase";
 
 /* No comment provided by engineer. */
@@ -1626,9 +1623,6 @@
 
 /* No comment provided by engineer. */
 "Quit this application and try again." = "Quit this application and try again.";
-
-/* No comment provided by engineer. */
-"Re-authenticate" = "Re-authenticate";
 
 /* No comment provided by engineer. */
 "Re-enable Suggested Options" = "Re-enable Suggested Options";
@@ -1734,6 +1728,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "Rename";
+
+/* No comment provided by engineer. */
+"Repeat Infinitely" = "Repeat Infinitely";
 
 /* No comment provided by engineer. */
 "Reset" = "Reset";
@@ -1853,9 +1850,6 @@
 "Select" = "Select";
 
 /* No comment provided by engineer. */
-"Select a downloaded voice for any Voice-Over scenarios." = "Select a downloaded voice for any Voice-Over scenarios.";
-
-/* No comment provided by engineer. */
 "Select a recording to play." = "Select a recording to play.";
 
 /* No comment provided by engineer. */
@@ -1955,6 +1949,9 @@
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
 
 /* No comment provided by engineer. */
+"Silent Mode" = "Silent Mode";
+
+/* No comment provided by engineer. */
 "SIM Card Alias" = "SIM Card Alias";
 
 /* No comment provided by engineer. */
@@ -1997,9 +1994,6 @@
 "Start Date" = "Start Date";
 
 /* No comment provided by engineer. */
-"Start or prepare a new call recording manually." = "Start or prepare a new call recording manually.";
-
-/* No comment provided by engineer. */
 "Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
@@ -2022,9 +2016,6 @@
 
 /* No comment provided by engineer. */
 "Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
-
-/* No comment provided by engineer. */
-"Stop a call recording session if exists." = "Stop a call recording session if exists.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "Stop Recording";
@@ -2123,6 +2114,9 @@
 "The application will launch automatically when recording ends." = "The application will launch automatically when recording ends.";
 
 /* No comment provided by engineer. */
+"The audio file to be played to the opposite side." = "The audio file to be played to the opposite side.";
+
+/* No comment provided by engineer. */
 "The bundle identifier of the application that initiated the call." = "The bundle identifier of the application that initiated the call.";
 
 /* No comment provided by engineer. */
@@ -2133,12 +2127,6 @@
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "The date and time when the audio was created.";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording ends." = "The device will vibrate when recording ends.";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording starts." = "The device will vibrate when recording starts.";
 
 /* No comment provided by engineer. */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "The device will vibrate with special haptic patterns when recording starts and ends.";
@@ -2211,9 +2199,6 @@
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "The time interval before the hoverball becomes idle.";
-
-/* No comment provided by engineer. */
-"The Troll Recorder daemon is not alive." = "The Troll Recorder daemon is not alive.";
 
 /* No comment provided by engineer. */
 "The type of content to be recorded." = "The type of content to be recorded.";
@@ -2474,6 +2459,9 @@
 "Upgrade to %@" = "Upgrade to %@";
 
 /* No comment provided by engineer. */
+"uplink" = "uplink";
+
+/* No comment provided by engineer. */
 "Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* No comment provided by engineer. */
@@ -2549,12 +2537,6 @@
 "Vibrate" = "Vibrate";
 
 /* No comment provided by engineer. */
-"Vibrate at Begin" = "Vibrate at Begin";
-
-/* No comment provided by engineer. */
-"Vibrate at End" = "Vibrate at End";
-
-/* No comment provided by engineer. */
 "View" = "View";
 
 /* No comment provided by engineer. */
@@ -2562,6 +2544,9 @@
 
 /* No comment provided by engineer. */
 "View Logs: Application" = "View Logs: Application";
+
+/* No comment provided by engineer. */
+"View Logs: Audio Player" = "View Logs: Audio Player";
 
 /* No comment provided by engineer. */
 "View Logs: Call Monitor" = "View Logs: Call Monitor";
@@ -2607,9 +2592,6 @@
 
 /* No comment provided by engineer. */
 "voice-over" = "voice-over";
-
-/* No comment provided by engineer. */
-"Voice-Over Text" = "Voice-Over Text";
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "Voice-Over Voice";
@@ -2660,9 +2642,6 @@
 "We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
 
 /* No comment provided by engineer. */
-"We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
-
-/* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "We’ve got a new phone call recording!";
 
 /* No comment provided by engineer. */
@@ -2675,6 +2654,9 @@
 "We’ve got new phone call recordings!" = "We’ve got new phone call recordings!";
 
 /* No comment provided by engineer. */
+"When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+
+/* No comment provided by engineer. */
 "When Locked" = "When Locked";
 
 /* No comment provided by engineer. */
@@ -2684,9 +2666,6 @@
 "When there is no call…" = "When there is no call…";
 
 /* No comment provided by engineer. */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "When unlocked, the hoverball is displayed even if you are not on the home screen.";
-
-/* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded.";
 
 /* No comment provided by engineer. */
@@ -2694,6 +2673,9 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "Whether to force the hoverball to use the light or the dark style.";
+
+/* No comment provided by engineer. */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing.";
 
 /* No comment provided by engineer. */
 "Which channel to mute." = "Which channel to mute.";
@@ -2745,6 +2727,12 @@
 
 /* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder”." = "You’re now using the free version of “TrollRecorder”.";
+
+/* No comment provided by engineer. */
+"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+
+/* No comment provided by engineer. */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "You’ve enabled biometric authentication so it’s required to verify your identity.";

@@ -233,7 +233,7 @@
 "Audio Compression" = "音频压缩";
 
 /* No comment provided by engineer. */
-"Audio duration %@" = "音频时长为 %@";
+"Audio File" = "音频文件";
 
 /* No comment provided by engineer. */
 "Audio played to %@" = "音频播放至 %@";
@@ -396,9 +396,6 @@
 
 /* No comment provided by engineer. */
 "Check if the daemon is running. If not, launch it." = "检查守护进程是否正在运行。如果没有则启动它。";
-
-/* No comment provided by engineer. */
-"Check Latest Version" = "检查最新版本";
 
 /* No comment provided by engineer. */
 "Check Updates" = "检查更新";
@@ -743,9 +740,6 @@
 "Empty Trash (%@)" = "清空回收站 (%@)";
 
 /* No comment provided by engineer. */
-"Enable %@" = "启用 %@";
-
-/* No comment provided by engineer. */
 "Enable Biometric Authentication" = "启用生物识别验证";
 
 /* No comment provided by engineer. */
@@ -845,9 +839,6 @@
 "Failed to remove: %@" = "删除失败：%@";
 
 /* No comment provided by engineer. */
-"Faster Support" = "更快的技术支持";
-
-/* No comment provided by engineer. */
 "Features Unlocked" = "功能已解锁";
 
 /* No comment provided by engineer. */
@@ -870,9 +861,6 @@
 
 /* No comment provided by engineer. */
 "Focus" = "聚焦";
-
-/* No comment provided by engineer. */
-"Fold to Screen Edge" = "折叠到屏幕边缘";
 
 /* No comment provided by engineer. */
 "Fold When Inactive" = "不活动时折叠";
@@ -1088,6 +1076,9 @@
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安装 “制作归档” 动作到 “快捷指令” 中，然后分享你的录音到这个动作中，以创建一个 ZIP 档案。";
 
 /* No comment provided by engineer. */
+"Invalid Code Signature" = "无效的代码签名";
+
+/* No comment provided by engineer. */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "无效的代码签名。\n请从 TrollStore 重新安装此应用程序。";
 
 /* No comment provided by engineer. */
@@ -1136,9 +1127,6 @@
 "Later" = "以后再说";
 
 /* No comment provided by engineer. */
-"Latest Version" = "最新版本";
-
-/* No comment provided by engineer. */
 "launch" = "启动";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1155,6 @@
 
 /* No comment provided by engineer. */
 "Loading…" = "载入中…";
-
-/* No comment provided by engineer. */
-"Local Network Permission Denied" = "本地网络被拒绝访问";
 
 /* No comment provided by engineer. */
 "Local Storage" = "本地存储";
@@ -1541,10 +1526,16 @@
 "Play Sound" = "播放声音";
 
 /* No comment provided by engineer. */
+"Play specified audio file to the microphone." = "向麦克风播放指定的音频文件。";
+
+/* No comment provided by engineer. */
 "Play specified voice-over text to the microphone." = "向麦克风播报指定的文本内容。";
 
 /* No comment provided by engineer. */
-"Play Voice-Over to Microphone" = "通话语音播报";
+"Play Uplink Audio" = "播放上行音频";
+
+/* No comment provided by engineer. */
+"Play Uplink Voice-Over" = "通话语音播报";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "播放/暂停";
@@ -1563,6 +1554,9 @@
 
 /* No comment provided by engineer. */
 "Please check your mail configuration." = "请检查你的邮件配置。";
+
+/* No comment provided by engineer. */
+"Please reinstall this application from TrollStore." = "请从 TrollStore 重新安装此应用程序。";
 
 /* No comment provided by engineer. */
 "Popover Control" = "悬浮球";
@@ -1607,6 +1601,9 @@
 "Private Browsing Detected" = "检测到无痕浏览";
 
 /* No comment provided by engineer. */
+"Proceed Anyway" = "仍然继续";
+
+/* No comment provided by engineer. */
 "Purchase" = "购买";
 
 /* No comment provided by engineer. */
@@ -1626,9 +1623,6 @@
 
 /* No comment provided by engineer. */
 "Quit this application and try again." = "退出此应用程序并重试。";
-
-/* No comment provided by engineer. */
-"Re-authenticate" = "重新验证";
 
 /* No comment provided by engineer. */
 "Re-enable Suggested Options" = "重新启用建议选项";
@@ -1734,6 +1728,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "重命名";
+
+/* No comment provided by engineer. */
+"Repeat Infinitely" = "无限循环";
 
 /* No comment provided by engineer. */
 "Reset" = "重置";
@@ -1853,9 +1850,6 @@
 "Select" = "选择";
 
 /* No comment provided by engineer. */
-"Select a downloaded voice for any Voice-Over scenarios." = "为任何 Voice-Over 场景选择一个已下载的语音。";
-
-/* No comment provided by engineer. */
 "Select a recording to play." = "选择一个录音播放。";
 
 /* No comment provided by engineer. */
@@ -1955,6 +1949,9 @@
 "Show “View Details” menu item for developers to check the manifests of recordings." = "为开发者显示 “查看详情” 菜单项，以查看录音的细节清单。";
 
 /* No comment provided by engineer. */
+"Silent Mode" = "静默模式";
+
+/* No comment provided by engineer. */
 "SIM Card Alias" = "SIM 卡别名";
 
 /* No comment provided by engineer. */
@@ -1997,9 +1994,6 @@
 "Start Date" = "起始日期";
 
 /* No comment provided by engineer. */
-"Start or prepare a new call recording manually." = "手动开始或准备开始一次新的通话录音。";
-
-/* No comment provided by engineer. */
 "Start or prepare for a call recording, or create an voice memo." = "开始或准备开始通话录音，或创建一个语音备忘录。";
 
 /* No comment provided by engineer. */
@@ -2022,9 +2016,6 @@
 
 /* No comment provided by engineer. */
 "Stop a call recording or voice memo if exists." = "如果已存在一个录制中的通话录音或语音备忘录，则停止它。";
-
-/* No comment provided by engineer. */
-"Stop a call recording session if exists." = "如果已存在一个正在进行的通话录音会话，则停止它。";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "停止录音";
@@ -2123,6 +2114,9 @@
 "The application will launch automatically when recording ends." = "录音结束时应用将自动启动。";
 
 /* No comment provided by engineer. */
+"The audio file to be played to the opposite side." = "要向对面播放的音频文件。";
+
+/* No comment provided by engineer. */
 "The bundle identifier of the application that initiated the call." = "发起通话的 App 标识符。";
 
 /* No comment provided by engineer. */
@@ -2133,12 +2127,6 @@
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "音频创建的日期和时间。";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording ends." = "录音结束时设备将振动。";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording starts." = "录音开始时设备将振动。";
 
 /* No comment provided by engineer. */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "设备将在录音开始和结束时以特殊的触觉模式振动。";
@@ -2211,9 +2199,6 @@
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "悬浮球变为闲置状态之前的时间。";
-
-/* No comment provided by engineer. */
-"The Troll Recorder daemon is not alive." = "巨魔录音机守护服务未能运行。";
 
 /* No comment provided by engineer. */
 "The type of content to be recorded." = "需要录制的内容类型。";
@@ -2474,6 +2459,9 @@
 "Upgrade to %@" = "升级到 %@";
 
 /* No comment provided by engineer. */
+"uplink" = "上行";
+
+/* No comment provided by engineer. */
 "Uplink (Microphone)" = "上行（麦克风）";
 
 /* No comment provided by engineer. */
@@ -2549,12 +2537,6 @@
 "Vibrate" = "振动";
 
 /* No comment provided by engineer. */
-"Vibrate at Begin" = "开始时振动";
-
-/* No comment provided by engineer. */
-"Vibrate at End" = "结束时振动";
-
-/* No comment provided by engineer. */
 "View" = "查看";
 
 /* No comment provided by engineer. */
@@ -2564,7 +2546,10 @@
 "View Logs: Application" = "应用程序";
 
 /* No comment provided by engineer. */
-"View Logs: Call Monitor" = "通话监控服务";
+"View Logs: Audio Player" = "音频播放器";
+
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "通话监视器";
 
 /* No comment provided by engineer. */
 "View Logs: Call Recorder" = "通话录音";
@@ -2607,9 +2592,6 @@
 
 /* No comment provided by engineer. */
 "voice-over" = "Voice-Over";
-
-/* No comment provided by engineer. */
-"Voice-Over Text" = "Voice-Over 文本";
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "Voice-Over 语音";
@@ -2660,9 +2642,6 @@
 "We’re recording your voice memo in the background." = "巨魔录音机正在后台录制语音备忘录。";
 
 /* No comment provided by engineer. */
-"We’re unable to show hoverball before unlocking due to technical reasons." = "由于技术原因，我们无法在解锁前显示悬浮球。";
-
-/* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "我们生成了一份新的通话录音！";
 
 /* No comment provided by engineer. */
@@ -2675,6 +2654,9 @@
 "We’ve got new phone call recordings!" = "我们生成了一些新的通话录音！";
 
 /* No comment provided by engineer. */
+"When any of the following actions is triggered, run the shortcut without any notification." = "当触发以下任何操作时，无需通知即运行快捷指令。";
+
+/* No comment provided by engineer. */
 "When Locked" = "仅锁定时";
 
 /* No comment provided by engineer. */
@@ -2684,9 +2666,6 @@
 "When there is no call…" = "当没有通话时…";
 
 /* No comment provided by engineer. */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "解锁后，即使你不进入主屏幕，悬浮球也会在锁定屏幕显示。";
-
-/* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空间不足，分离通道的本地录音在上传后将被删除。";
 
 /* No comment provided by engineer. */
@@ -2694,6 +2673,9 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "是否强制悬浮球使用浅色或深色样式。";
+
+/* No comment provided by engineer. */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "是否无限重复播放音频。如果启用，此操作将在开始播放后立即返回。";
 
 /* No comment provided by engineer. */
 "Which channel to mute." = "需要静音的通道。";
@@ -2745,6 +2727,12 @@
 
 /* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder”." = "你现在正在试用巨魔录音机。";
+
+/* No comment provided by engineer. */
+"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "你已将此应用程序的显示语言更改为 “%@”。退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
+
+/* No comment provided by engineer. */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "你选择继续使用无效的代码签名。你仍然可以使用此应用程序查看或导出现有录音，但其他功能可能无法使用。";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "你已启用生物识别验证，因此需要验证你的身份。";

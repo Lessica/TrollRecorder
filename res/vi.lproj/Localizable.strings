@@ -233,7 +233,7 @@
 "Audio Compression" = "Nén âm thanh";
 
 /* TODO */
-"Audio duration %@" = "Audio duration %@";
+"Audio File" = "Audio File";
 
 /* TODO */
 "Audio played to %@" = "Audio played to %@";
@@ -396,9 +396,6 @@
 
 /* TODO */
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
-
-/* TODO */
-"Check Latest Version" = "Check Latest Version";
 
 /* TODO */
 "Check Updates" = "Check Updates";
@@ -742,9 +739,6 @@
 /* TODO */
 "Empty Trash (%@)" = "Empty Trash (%@)";
 
-/* No comment provided by engineer. */
-"Enable %@" = "Cho phép %@";
-
 /* TODO */
 "Enable Biometric Authentication" = "Enable Biometric Authentication";
 
@@ -845,9 +839,6 @@
 "Failed to remove: %@" = "Không thể xóa: %@";
 
 /* No comment provided by engineer. */
-"Faster Support" = "Hỗ trợ nhanh hơn";
-
-/* No comment provided by engineer. */
 "Features Unlocked" = "Các tính năng đã được mở khóa";
 
 /* TODO */
@@ -870,9 +861,6 @@
 
 /* TODO */
 "Focus" = "Focus";
-
-/* No comment provided by engineer. */
-"Fold to Screen Edge" = "Gấp đến cạnh màn hình";
 
 /* TODO */
 "Fold When Inactive" = "Fold When Inactive";
@@ -1088,6 +1076,9 @@
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
 
 /* TODO */
+"Invalid Code Signature" = "Invalid Code Signature";
+
+/* TODO */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
 
 /* TODO */
@@ -1136,9 +1127,6 @@
 "Later" = "Sau";
 
 /* TODO */
-"Latest Version" = "Latest Version";
-
-/* TODO */
 "launch" = "launch";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1155,6 @@
 
 /* No comment provided by engineer. */
 "Loading…" = "Đang tải…";
-
-/* TODO */
-"Local Network Permission Denied" = "Local Network Permission Denied";
 
 /* No comment provided by engineer. */
 "Local Storage" = "Lưu trữ cục bộ";
@@ -1541,10 +1526,16 @@
 "Play Sound" = "Play Sound";
 
 /* TODO */
+"Play specified audio file to the microphone." = "Play specified audio file to the microphone.";
+
+/* TODO */
 "Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
 
 /* TODO */
-"Play Voice-Over to Microphone" = "Play Voice-Over to Microphone";
+"Play Uplink Audio" = "Play Uplink Audio";
+
+/* TODO */
+"Play Uplink Voice-Over" = "Play Uplink Voice-Over";
 
 /* TODO */
 "Play/Pause" = "Play/Pause";
@@ -1563,6 +1554,9 @@
 
 /* TODO */
 "Please check your mail configuration." = "Please check your mail configuration.";
+
+/* TODO */
+"Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Kiểm soát cửa sổ bật lên";
@@ -1606,6 +1600,9 @@
 /* TODO */
 "Private Browsing Detected" = "Private Browsing Detected";
 
+/* TODO */
+"Proceed Anyway" = "Proceed Anyway";
+
 /* No comment provided by engineer. */
 "Purchase" = "Mua";
 
@@ -1626,9 +1623,6 @@
 
 /* TODO */
 "Quit this application and try again." = "Quit this application and try again.";
-
-/* No comment provided by engineer. */
-"Re-authenticate" = "Xác thực lại";
 
 /* TODO */
 "Re-enable Suggested Options" = "Re-enable Suggested Options";
@@ -1734,6 +1728,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "Đổi tên";
+
+/* TODO */
+"Repeat Infinitely" = "Repeat Infinitely";
 
 /* TODO */
 "Reset" = "Reset";
@@ -1852,9 +1849,6 @@
 /* No comment provided by engineer. */
 "Select" = "Lựa chọn";
 
-/* TODO */
-"Select a downloaded voice for any Voice-Over scenarios." = "Select a downloaded voice for any Voice-Over scenarios.";
-
 /* No comment provided by engineer. */
 "Select a recording to play." = "Chọn một bản ghi âm để phát.";
 
@@ -1954,6 +1948,9 @@
 /* TODO */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
 
+/* TODO */
+"Silent Mode" = "Silent Mode";
+
 /* No comment provided by engineer. */
 "SIM Card Alias" = "Bí danh thẻ SIM";
 
@@ -1996,9 +1993,6 @@
 /* No comment provided by engineer. */
 "Start Date" = "Ngày bắt đầu";
 
-/* No comment provided by engineer. */
-"Start or prepare a new call recording manually." = "Bắt đầu hoặc chuẩn bị ghi âm cuộc gọi mới theo cách thủ công.";
-
 /* TODO */
 "Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
 
@@ -2022,9 +2016,6 @@
 
 /* TODO */
 "Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
-
-/* No comment provided by engineer. */
-"Stop a call recording session if exists." = "Dừng phiên ghi âm cuộc gọi nếu có.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "Dừng Ghi Âm";
@@ -2123,6 +2114,9 @@
 "The application will launch automatically when recording ends." = "Ứng dụng sẽ tự động khởi chạy khi ghi âm kết thúc.";
 
 /* TODO */
+"The audio file to be played to the opposite side." = "The audio file to be played to the opposite side.";
+
+/* TODO */
 "The bundle identifier of the application that initiated the call." = "The bundle identifier of the application that initiated the call.";
 
 /* TODO */
@@ -2133,12 +2127,6 @@
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "Ngày và giờ khi âm thanh được tạo ra.";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording ends." = "Thiết bị sẽ rung khi ghi âm kết thúc.";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording starts." = "Thiết bị sẽ rung khi bắt đầu ghi âm.";
 
 /* No comment provided by engineer. */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "Thiết bị sẽ rung với các mẫu xúc giác đặc biệt khi bắt đầu và kết thúc ghi âm.";
@@ -2211,9 +2199,6 @@
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "Khoảng thời gian trước khi bong bóng mọi nơi trở nên nhàn rỗi.";
-
-/* TODO */
-"The Troll Recorder daemon is not alive." = "The Troll Recorder daemon is not alive.";
 
 /* TODO */
 "The type of content to be recorded." = "The type of content to be recorded.";
@@ -2474,6 +2459,9 @@
 "Upgrade to %@" = "Nâng cấp lên %@";
 
 /* TODO */
+"uplink" = "uplink";
+
+/* TODO */
 "Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* TODO */
@@ -2548,12 +2536,6 @@
 /* TODO */
 "Vibrate" = "Vibrate";
 
-/* No comment provided by engineer. */
-"Vibrate at Begin" = "Rung khi bắt đầu";
-
-/* No comment provided by engineer. */
-"Vibrate at End" = "Rung khi kết thúc";
-
 /* TODO */
 "View" = "View";
 
@@ -2562,6 +2544,9 @@
 
 /* TODO */
 "View Logs: Application" = "View Logs: Application";
+
+/* TODO */
+"View Logs: Audio Player" = "View Logs: Audio Player";
 
 /* TODO */
 "View Logs: Call Monitor" = "View Logs: Call Monitor";
@@ -2607,9 +2592,6 @@
 
 /* TODO */
 "voice-over" = "voice-over";
-
-/* TODO */
-"Voice-Over Text" = "Voice-Over Text";
 
 /* TODO */
 "Voice-Over Voice" = "Voice-Over Voice";
@@ -2659,9 +2641,6 @@
 /* TODO */
 "We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
 
-/* TODO */
-"We’re unable to show hoverball before unlocking due to technical reasons." = "We’re unable to show hoverball before unlocking due to technical reasons.";
-
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Chúng tôi có một bản ghi âm cuộc gọi điện thoại mới!";
 
@@ -2675,6 +2654,9 @@
 "We’ve got new phone call recordings!" = "Chúng tôi có bản ghi âm cuộc gọi điện thoại mới!";
 
 /* TODO */
+"When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+
+/* TODO */
 "When Locked" = "When Locked";
 
 /* TODO */
@@ -2682,9 +2664,6 @@
 
 /* TODO */
 "When there is no call…" = "When there is no call…";
-
-/* No comment provided by engineer. */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "Khi được mở khóa, bong bóng mọi nơi sẽ được hiển thị ngay cả khi bạn không ở trên màn hình chính.";
 
 /* TODO */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded.";
@@ -2694,6 +2673,9 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "Cho dù buộc bong bóng mọi nơi sử dụng phong cách ánh sáng hay bóng tối.";
+
+/* TODO */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing.";
 
 /* TODO */
 "Which channel to mute." = "Which channel to mute.";
@@ -2745,6 +2727,12 @@
 
 /* TODO */
 "You’re now using the free version of “TrollRecorder”." = "You’re now using the free version of “TrollRecorder”.";
+
+/* TODO */
+"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+
+/* TODO */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "Bạn đã bật xác thực sinh trắc học nên cần phải xác minh danh tính của bạn.";

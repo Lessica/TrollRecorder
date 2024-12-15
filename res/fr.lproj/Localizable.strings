@@ -232,8 +232,8 @@
 /* No comment provided by engineer. */
 "Audio Compression" = "Compression audio";
 
-/* Translated with Microsoft Translator */
-"Audio duration %@" = "Durée de l'audio %@";
+/* TODO */
+"Audio File" = "Audio File";
 
 /* Translated with Microsoft Translator */
 "Audio played to %@" = "Audio joué à %@";
@@ -396,9 +396,6 @@
 
 /* TODO */
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
-
-/* TODO */
-"Check Latest Version" = "Check Latest Version";
 
 /* TODO */
 "Check Updates" = "Check Updates";
@@ -742,9 +739,6 @@
 /* Translated with Microsoft Translator */
 "Empty Trash (%@)" = "Vider la poubelle (%@)";
 
-/* No comment provided by engineer. */
-"Enable %@" = "Activer %@";
-
 /* Translated with Microsoft Translator */
 "Enable Biometric Authentication" = "Activer l'authentification biométrique";
 
@@ -845,9 +839,6 @@
 "Failed to remove: %@" = "Échec de la suppression : %@";
 
 /* No comment provided by engineer. */
-"Faster Support" = "Assistance plus rapide";
-
-/* No comment provided by engineer. */
 "Features Unlocked" = "Fonctionnalités déverrouillées";
 
 /* Translated with Microsoft Translator */
@@ -870,9 +861,6 @@
 
 /* Translated with Microsoft Translator */
 "Focus" = "Focus";
-
-/* No comment provided by engineer. */
-"Fold to Screen Edge" = "Replier sur le bord de l'écran";
 
 /* TODO */
 "Fold When Inactive" = "Fold When Inactive";
@@ -1088,6 +1076,9 @@
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Installez l'action “Créer une archive” dans “Raccourcis”, puis partagez vos enregistrements avec cette action pour créer une archive ZIP.";
 
 /* TODO */
+"Invalid Code Signature" = "Invalid Code Signature";
+
+/* TODO */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1136,9 +1127,6 @@
 "Later" = "Plus tard";
 
 /* TODO */
-"Latest Version" = "Latest Version";
-
-/* TODO */
 "launch" = "launch";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1155,6 @@
 
 /* No comment provided by engineer. */
 "Loading…" = "Chargement…";
-
-/* Translated with Microsoft Translator */
-"Local Network Permission Denied" = "Permission du réseau local refusée";
 
 /* No comment provided by engineer. */
 "Local Storage" = "Stockage local";
@@ -1540,11 +1525,17 @@
 /* TODO */
 "Play Sound" = "Play Sound";
 
+/* TODO */
+"Play specified audio file to the microphone." = "Play specified audio file to the microphone.";
+
 /* Translated with Microsoft Translator */
 "Play specified voice-over text to the microphone." = "Diffuser le texte en voix off spécifié dans le microphone.";
 
+/* TODO */
+"Play Uplink Audio" = "Play Uplink Audio";
+
 /* Translated with Microsoft Translator */
-"Play Voice-Over to Microphone" = "Jouer le Voice-Over au microphone";
+"Play Uplink Voice-Over" = "Jouer le Voice-Over au microphone";
 
 /* Translated with Microsoft Translator */
 "Play/Pause" = "Lecture/Pause";
@@ -1563,6 +1554,9 @@
 
 /* Translated with Microsoft Translator */
 "Please check your mail configuration." = "Veuillez vérifier la configuration de votre messagerie.";
+
+/* TODO */
+"Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Contrôle de fenêtre contextuelle";
@@ -1606,6 +1600,9 @@
 /* TODO */
 "Private Browsing Detected" = "Private Browsing Detected";
 
+/* TODO */
+"Proceed Anyway" = "Proceed Anyway";
+
 /* No comment provided by engineer. */
 "Purchase" = "Achat";
 
@@ -1626,9 +1623,6 @@
 
 /* No comment provided by engineer. */
 "Quit this application and try again." = "Quittez cette application et réessayez.";
-
-/* No comment provided by engineer. */
-"Re-authenticate" = "Ré-authentifier";
 
 /* Translated with Microsoft Translator */
 "Re-enable Suggested Options" = "Réactiver les options suggérées";
@@ -1734,6 +1728,9 @@
 
 /* No comment provided by engineer. */
 "Rename" = "Renommer";
+
+/* TODO */
+"Repeat Infinitely" = "Repeat Infinitely";
 
 /* Translated with Microsoft Translator */
 "Reset" = "Remise à zéro";
@@ -1852,9 +1849,6 @@
 /* No comment provided by engineer. */
 "Select" = "Sélectionner";
 
-/* Translated with Microsoft Translator */
-"Select a downloaded voice for any Voice-Over scenarios." = "Sélectionnez une voix téléchargée pour tous les scénarios Voice-Over.";
-
 /* No comment provided by engineer. */
 "Select a recording to play." = "Sélectionnez un enregistrement à lire.";
 
@@ -1954,6 +1948,9 @@
 /* Translated with Microsoft Translator */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Afficher l'élément de menu “View Details” pour que les développeurs puissent vérifier les manifestes des enregistrements.";
 
+/* TODO */
+"Silent Mode" = "Silent Mode";
+
 /* No comment provided by engineer. */
 "SIM Card Alias" = "Alias de la carte SIM";
 
@@ -1996,9 +1993,6 @@
 /* No comment provided by engineer. */
 "Start Date" = "Date de début";
 
-/* No comment provided by engineer. */
-"Start or prepare a new call recording manually." = "Démarrer ou préparer manuellement un nouvel enregistrement d'appel.";
-
 /* TODO */
 "Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
 
@@ -2022,9 +2016,6 @@
 
 /* TODO */
 "Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
-
-/* No comment provided by engineer. */
-"Stop a call recording session if exists." = "Arrêter une session d'enregistrement d'appel si elle existe.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "Arrêter l'enregistrement";
@@ -2122,6 +2113,9 @@
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "L'application se lancera automatiquement lorsque l'enregistrement se termine.";
 
+/* TODO */
+"The audio file to be played to the opposite side." = "The audio file to be played to the opposite side.";
+
 /* Translated with Microsoft Translator */
 "The bundle identifier of the application that initiated the call." = "L'identifiant du paquet de l'application qui a initié l'appel.";
 
@@ -2133,12 +2127,6 @@
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "La date et l'heure à laquelle l'audio a été créé.";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording ends." = "Le dispositif vibrera lorsque l'enregistrement se termine.";
-
-/* No comment provided by engineer. */
-"The device will vibrate when recording starts." = "Le dispositif vibrera lorsque l'enregistrement démarre.";
 
 /* No comment provided by engineer. */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "Le dispositif vibrera avec des modèles haptiques spéciaux lorsque l'enregistrement démarre et se termine.";
@@ -2211,9 +2199,6 @@
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "L'intervalle de temps avant que le hoverball global devienne inactif.";
-
-/* Translated with Microsoft Translator */
-"The Troll Recorder daemon is not alive." = "Le démon Troll Recorder n'est pas vivant.";
 
 /* TODO */
 "The type of content to be recorded." = "The type of content to be recorded.";
@@ -2474,6 +2459,9 @@
 "Upgrade to %@" = "Mettre à niveau vers %@";
 
 /* TODO */
+"uplink" = "uplink";
+
+/* TODO */
 "Uplink (Microphone)" = "Uplink (Microphone)";
 
 /* Translated with Microsoft Translator */
@@ -2548,12 +2536,6 @@
 /* TODO */
 "Vibrate" = "Vibrate";
 
-/* No comment provided by engineer. */
-"Vibrate at Begin" = "Vibrer au début";
-
-/* No comment provided by engineer. */
-"Vibrate at End" = "Vibrer à la fin";
-
 /* TODO */
 "View" = "View";
 
@@ -2562,6 +2544,9 @@
 
 /* Translated with Microsoft Translator */
 "View Logs: Application" = "Voir les journaux : Application";
+
+/* TODO */
+"View Logs: Audio Player" = "View Logs: Audio Player";
 
 /* Translated with Microsoft Translator */
 "View Logs: Call Monitor" = "Voir les journaux : Moniteur d'appels";
@@ -2607,9 +2592,6 @@
 
 /* Translated with Microsoft Translator */
 "voice-over" = "voix off";
-
-/* Translated with Microsoft Translator */
-"Voice-Over Text" = "Texte en voix off";
 
 /* Translated with Microsoft Translator */
 "Voice-Over Voice" = "Voix off";
@@ -2659,9 +2641,6 @@
 /* TODO */
 "We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
 
-/* Translated with Microsoft Translator */
-"We’re unable to show hoverball before unlocking due to technical reasons." = "Pour des raisons techniques, nous ne pouvons pas montrer le hoverball avant le déverrouillage.";
-
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Nous avons un nouvel enregistrement d'appel téléphonique !";
 
@@ -2674,6 +2653,9 @@
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "Nous avons de nouveaux enregistrements d'appels téléphoniques !";
 
+/* TODO */
+"When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+
 /* Translated with Microsoft Translator */
 "When Locked" = "En cas de verrouillage";
 
@@ -2684,9 +2666,6 @@
 "When there is no call…" = "When there is no call…";
 
 /* Translated with Microsoft Translator */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "Lorsqu'il est déverrouillé, le hoverball s'affiche même si vous n'êtes pas sur l'écran d'accueil.";
-
-/* Translated with Microsoft Translator */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "Lorsque votre %@ manque d'espace, les enregistrements locaux des chaînes séparées seront supprimés une fois qu'ils auront été téléchargés.";
 
 /* No comment provided by engineer. */
@@ -2694,6 +2673,9 @@
 
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "Indique si le hoverball global doit utiliser le style clair ou sombre.";
+
+/* TODO */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing.";
 
 /* TODO */
 "Which channel to mute." = "Which channel to mute.";
@@ -2745,6 +2727,12 @@
 
 /* Translated with Microsoft Translator */
 "You’re now using the free version of “TrollRecorder”." = "Vous utilisez maintenant la version gratuite de “TrollRecorder”.";
+
+/* TODO */
+"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+
+/* TODO */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "Vous avez activé l'authentification biométrique, il est donc nécessaire de vérifier votre identité.";
