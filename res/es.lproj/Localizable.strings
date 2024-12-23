@@ -256,6 +256,9 @@
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Fusionar automáticamente el micrófono y el altavoz en un único archivo una vez finalizada la grabación.";
 
+/* TODO */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatically move the hoverball to avoid the keyboard in portrait orientation.";
+
 /* Translated with Microsoft Translator */
 "Automatically purge recycle bin and remove failure caches." = "Elimina automáticamente los datos en caché que quedan cuando una grabación falla a intervalos regulares.";
 
@@ -453,6 +456,9 @@
 
 /* Translated with Microsoft Translator */
 "Confirm" = "Confirme";
+
+/* TODO */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
 
 /* Translated with Microsoft Translator */
 "connected" = "conectado";
@@ -712,6 +718,9 @@
 /* Translated with Microsoft Translator */
 "Dropbox" = "Dropbox";
 
+/* TODO */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
+
 /* Translated with Microsoft Translator */
 "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Por razones técnicas, las llamadas que no sean de CallKit no activarán accesos directos relacionados con los estados de llamada.";
 
@@ -732,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "E.U.L.A.";
+
+/* TODO */
+"Edit" = "Edit";
 
 /* Translated with Microsoft Translator */
 "Empty Trash" = "Vaciar papelera";
@@ -878,7 +890,7 @@
 "Formatted Location" = "Ubicación formateada";
 
 /* Translated with Microsoft Translator */
-"Forward 10 seconds" = "Adelante 10 segundos";
+"Forward 15 seconds" = "Adelante 15 segundos";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Obtener ayuda y preguntas frecuentes";
@@ -1114,6 +1126,9 @@
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "Mantener la pantalla encendida cuando esté conectado";
 
+/* TODO */
+"Keyboard Avoidance" = "Keyboard Avoidance";
+
 /* Translated with Microsoft Translator */
 "Kill all applications and restart the render server (backboardd)." = "Cierre todas las aplicaciones y reinicie el servidor de renderizado (backboardd).";
 
@@ -1182,6 +1197,9 @@
 
 /* Translated with Microsoft Translator */
 "Logging" = "Registro";
+
+/* TODO */
+"Login Tips" = "Login Tips";
 
 /* Translated with Microsoft Translator */
 "Long Date" = "Fecha larga";
@@ -1344,6 +1362,9 @@
 
 /* Translated with Microsoft Translator */
 "New Version Available" = "Actualización disponible";
+
+/* TODO */
+"New Version Installed" = "New Version Installed";
 
 /* Translated with Microsoft Translator */
 "NO" = "NO";
@@ -1559,6 +1580,9 @@
 "Please check your mail configuration." = "Por favor, compruebe la configuración de su correo.";
 
 /* TODO */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
+
+/* TODO */
 "Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1608,6 +1632,9 @@
 
 /* No comment provided by engineer. */
 "Purchase" = "Comprar";
+
+/* TODO */
+"Purchase Tips" = "Purchase Tips";
 
 /* TODO */
 "Pure TrollStore" = "Pure TrollStore";
@@ -1775,7 +1802,7 @@
 "Reverse Selection" = "Selección inversa";
 
 /* Translated with Microsoft Translator */
-"Rewind 5 seconds" = "Rebobinar 5 segundos";
+"Rewind 15 seconds" = "Rebobinar 15 segundos";
 
 /* TODO */
 "Ring" = "Ring";
@@ -2344,6 +2371,9 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Traducido por @Deci8BelioS";
 
+/* TODO */
+"Trim" = "Trim";
+
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
 
@@ -2598,6 +2628,9 @@
 
 /* Translated with Microsoft Translator */
 "Voice-Over Voice" = "Voz en off";
+
+/* TODO */
+"Volume" = "Volume";
 
 /* Translated with Microsoft Translator */
 "wait" = "espere";

@@ -256,6 +256,9 @@
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將麥克風和揚聲器合併成一個檔案。";
 
+/* TODO */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatically move the hoverball to avoid the keyboard in portrait orientation.";
+
 /* No comment provided by engineer. */
 "Automatically purge recycle bin and remove failure caches." = "定期自動清理回收站和錄音失敗時留下的緩存。";
 
@@ -453,6 +456,9 @@
 
 /* No comment provided by engineer. */
 "Confirm" = "確認";
+
+/* TODO */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
 
 /* No comment provided by engineer. */
 "connected" = "已連線";
@@ -712,6 +718,9 @@
 /* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
 
+/* TODO */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
+
 /* No comment provided by engineer. */
 "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "由於技術原因，非 CallKit 通話不會觸發與通話狀態相關的自動化動作。";
 
@@ -732,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "最終用戶授權合約";
+
+/* TODO */
+"Edit" = "Edit";
 
 /* No comment provided by engineer. */
 "Empty Trash" = "清空回收站";
@@ -878,7 +890,7 @@
 "Formatted Location" = "地理位置（格式化）";
 
 /* No comment provided by engineer. */
-"Forward 10 seconds" = "前進 10 秒";
+"Forward 15 seconds" = "前進 15 秒";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "獲取幫助";
@@ -1114,6 +1126,9 @@
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "連線時保持螢幕常亮";
 
+/* TODO */
+"Keyboard Avoidance" = "Keyboard Avoidance";
+
 /* No comment provided by engineer. */
 "Kill all applications and restart the render server (backboardd)." = "關閉所有應用程式並重啟渲染服務（backboardd）";
 
@@ -1182,6 +1197,9 @@
 
 /* No comment provided by engineer. */
 "Logging" = "日誌";
+
+/* TODO */
+"Login Tips" = "Login Tips";
 
 /* No comment provided by engineer. */
 "Long Date" = "長日期";
@@ -1344,6 +1362,9 @@
 
 /* No comment provided by engineer. */
 "New Version Available" = "有更新可用";
+
+/* TODO */
+"New Version Installed" = "New Version Installed";
 
 /* No comment provided by engineer. */
 "NO" = "否";
@@ -1559,6 +1580,9 @@
 "Please check your mail configuration." = "請檢查你的郵件配置。";
 
 /* TODO */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
+
+/* TODO */
 "Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1608,6 +1632,9 @@
 
 /* No comment provided by engineer. */
 "Purchase" = "購買";
+
+/* TODO */
+"Purchase Tips" = "Purchase Tips";
 
 /* TODO */
 "Pure TrollStore" = "Pure TrollStore";
@@ -1775,7 +1802,7 @@
 "Reverse Selection" = "反選";
 
 /* No comment provided by engineer. */
-"Rewind 5 seconds" = "回退 5 秒鐘";
+"Rewind 15 seconds" = "回退 15 秒鐘";
 
 /* TODO */
 "Ring" = "Ring";
@@ -2344,6 +2371,9 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "由 @雲端戰神一刀秒 翻譯";
 
+/* TODO */
+"Trim" = "Trim";
+
 /* No comment provided by engineer. */
 "Troll Recorder" = "巨魔錄音機";
 
@@ -2598,6 +2628,9 @@
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "Voice-Over 語音";
+
+/* TODO */
+"Volume" = "Volume";
 
 /* No comment provided by engineer. */
 "wait" = "等待";

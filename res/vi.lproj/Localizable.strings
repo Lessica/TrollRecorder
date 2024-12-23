@@ -257,6 +257,9 @@
 "Automatically merge microphone and speaker into a single file after record complete." = "Tự động hợp nhất micrô và loa thành một tệp duy nhất sau khi ghi âm hoàn tất.";
 
 /* TODO */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatically move the hoverball to avoid the keyboard in portrait orientation.";
+
+/* TODO */
 "Automatically purge recycle bin and remove failure caches." = "Automatically purge recycle bin and remove failure caches.";
 
 /* TODO */
@@ -453,6 +456,9 @@
 
 /* TODO */
 "Confirm" = "Confirm";
+
+/* TODO */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
 
 /* TODO */
 "connected" = "connected";
@@ -713,6 +719,9 @@
 "Dropbox" = "Dropbox";
 
 /* TODO */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
+
+/* TODO */
 "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states.";
 
 /* TODO */
@@ -732,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "E.U.L.A.";
+
+/* TODO */
+"Edit" = "Edit";
 
 /* TODO */
 "Empty Trash" = "Empty Trash";
@@ -878,7 +890,7 @@
 "Formatted Location" = "Formatted Location";
 
 /* TODO */
-"Forward 10 seconds" = "Forward 10 seconds";
+"Forward 15 seconds" = "Forward 15 seconds";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Những câu hỏi thường gặp";
@@ -1115,6 +1127,9 @@
 "Keep Screen On When Connected" = "Giữ Màn Hình Bật Khi Kết Nối";
 
 /* TODO */
+"Keyboard Avoidance" = "Keyboard Avoidance";
+
+/* TODO */
 "Kill all applications and restart the render server (backboardd)." = "Kill all applications and restart the render server (backboardd).";
 
 /* TODO */
@@ -1182,6 +1197,9 @@
 
 /* TODO */
 "Logging" = "Logging";
+
+/* TODO */
+"Login Tips" = "Login Tips";
 
 /* TODO */
 "Long Date" = "Long Date";
@@ -1344,6 +1362,9 @@
 
 /* TODO */
 "New Version Available" = "New Version Available";
+
+/* TODO */
+"New Version Installed" = "New Version Installed";
 
 /* TODO */
 "NO" = "NO";
@@ -1559,6 +1580,9 @@
 "Please check your mail configuration." = "Please check your mail configuration.";
 
 /* TODO */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
+
+/* TODO */
 "Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1608,6 +1632,9 @@
 
 /* No comment provided by engineer. */
 "Purchase" = "Mua";
+
+/* TODO */
+"Purchase Tips" = "Purchase Tips";
 
 /* TODO */
 "Pure TrollStore" = "Pure TrollStore";
@@ -1775,7 +1802,7 @@
 "Reverse Selection" = "Lựa chọn ngược";
 
 /* TODO */
-"Rewind 5 seconds" = "Rewind 5 seconds";
+"Rewind 15 seconds" = "Rewind 15 seconds";
 
 /* TODO */
 "Ring" = "Ring";
@@ -2344,6 +2371,9 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Được dịch bởi @2311WithLuv";
 
+/* TODO */
+"Trim" = "Trim";
+
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
 
@@ -2598,6 +2628,9 @@
 
 /* TODO */
 "Voice-Over Voice" = "Voice-Over Voice";
+
+/* TODO */
+"Volume" = "Volume";
 
 /* TODO */
 "wait" = "wait";

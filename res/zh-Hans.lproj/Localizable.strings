@@ -257,6 +257,9 @@
 "Automatically merge microphone and speaker into a single file after record complete." = "录音完成后，自动将麦克风和扬声器合并成一个文件。";
 
 /* No comment provided by engineer. */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "在竖屏模式下，自动移动悬浮球以避开键盘。";
+
+/* No comment provided by engineer. */
 "Automatically purge recycle bin and remove failure caches." = "定期自动清理回收站，并移除录音失败时留下的缓存。";
 
 /* No comment provided by engineer. */
@@ -453,6 +456,9 @@
 
 /* No comment provided by engineer. */
 "Confirm" = "确认";
+
+/* No comment provided by engineer. */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "请确认你的浩劫账号，这是唯一的购买凭证。因账号遗忘造成授权丢失的，用户需自行承担损失。购买时请你点击页面上的金额完成支付，不要点击礼物图标。";
 
 /* No comment provided by engineer. */
 "connected" = "已连接";
@@ -713,6 +719,9 @@
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "由于运行环境限制，如果你遇到小组件空白或不显示，请尝试重启设备，或者在巨魔商店中重建图标缓存。";
+
+/* No comment provided by engineer. */
 "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "由于技术原因，非 CallKit 通话不会触发与通话状态相关的自动化动作。";
 
 /* No comment provided by engineer. */
@@ -732,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "最终用户许可协议";
+
+/* No comment provided by engineer. */
+"Edit" = "编辑";
 
 /* No comment provided by engineer. */
 "Empty Trash" = "清空回收站";
@@ -878,7 +890,7 @@
 "Formatted Location" = "地理位置（格式化）";
 
 /* No comment provided by engineer. */
-"Forward 10 seconds" = "前进 10 秒";
+"Forward 15 seconds" = "前进 15 秒";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "获取帮助";
@@ -1115,6 +1127,9 @@
 "Keep Screen On When Connected" = "连接时保持屏幕常亮";
 
 /* No comment provided by engineer. */
+"Keyboard Avoidance" = "键盘避让";
+
+/* No comment provided by engineer. */
 "Kill all applications and restart the render server (backboardd)." = "关闭所有应用程序并重启渲染服务（backboardd）。";
 
 /* No comment provided by engineer. */
@@ -1182,6 +1197,9 @@
 
 /* No comment provided by engineer. */
 "Logging" = "日志";
+
+/* No comment provided by engineer. */
+"Login Tips" = "登录提示";
 
 /* No comment provided by engineer. */
 "Long Date" = "长日期";
@@ -1344,6 +1362,9 @@
 
 /* No comment provided by engineer. */
 "New Version Available" = "有新版本可用";
+
+/* No comment provided by engineer. */
+"New Version Installed" = "已安装新版本";
 
 /* No comment provided by engineer. */
 "NO" = "否";
@@ -1559,6 +1580,9 @@
 "Please check your mail configuration." = "请检查你的邮件配置。";
 
 /* No comment provided by engineer. */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "请认准，巨魔录音机的唯一销售、兑换渠道是浩劫商店（Havoc Marketplace），我们并没有在其他任何渠道进行销售。你即将打开商店页面：如果你是首次使用浩劫商店，建议使用 Google 账号登录。如果你是中国大陆地区用户，登录 Google 需要特殊网络。";
+
+/* No comment provided by engineer. */
 "Please reinstall this application from TrollStore." = "请从 TrollStore 重新安装此应用程序。";
 
 /* No comment provided by engineer. */
@@ -1608,6 +1632,9 @@
 
 /* No comment provided by engineer. */
 "Purchase" = "购买";
+
+/* No comment provided by engineer. */
+"Purchase Tips" = "购买提示";
 
 /* No comment provided by engineer. */
 "Pure TrollStore" = "纯巨魔";
@@ -1775,7 +1802,7 @@
 "Reverse Selection" = "反选";
 
 /* No comment provided by engineer. */
-"Rewind 5 seconds" = "倒回 5 秒钟";
+"Rewind 15 seconds" = "倒回 15 秒钟";
 
 /* No comment provided by engineer. */
 "Ring" = "响铃";
@@ -2345,6 +2372,9 @@
 "Translated by @AUTHOR_NAME" = "由 @AUTHOR_NAME 翻译";
 
 /* No comment provided by engineer. */
+"Trim" = "修剪";
+
+/* No comment provided by engineer. */
 "Troll Recorder" = "巨魔录音机";
 
 /* No comment provided by engineer. */
@@ -2598,6 +2628,9 @@
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "Voice-Over 语音";
+
+/* No comment provided by engineer. */
+"Volume" = "音量";
 
 /* No comment provided by engineer. */
 "wait" = "等待";

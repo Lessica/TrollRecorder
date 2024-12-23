@@ -257,6 +257,9 @@
 "Automatically merge microphone and speaker into a single file after record complete." = "Automatically merge microphone and speaker into a single file after record complete.";
 
 /* No comment provided by engineer. */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatically move the hoverball to avoid the keyboard in portrait orientation.";
+
+/* No comment provided by engineer. */
 "Automatically purge recycle bin and remove failure caches." = "Automatically purge recycle bin and remove failure caches.";
 
 /* No comment provided by engineer. */
@@ -453,6 +456,9 @@
 
 /* No comment provided by engineer. */
 "Confirm" = "Confirm";
+
+/* No comment provided by engineer. */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
 
 /* No comment provided by engineer. */
 "connected" = "connected";
@@ -713,6 +719,9 @@
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
+
+/* No comment provided by engineer. */
 "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states.";
 
 /* No comment provided by engineer. */
@@ -732,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "E.U.L.A.";
+
+/* No comment provided by engineer. */
+"Edit" = "Edit";
 
 /* No comment provided by engineer. */
 "Empty Trash" = "Empty Trash";
@@ -878,7 +890,7 @@
 "Formatted Location" = "Formatted Location";
 
 /* No comment provided by engineer. */
-"Forward 10 seconds" = "Forward 10 seconds";
+"Forward 15 seconds" = "Forward 15 seconds";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Frequently Asked Questions";
@@ -1115,6 +1127,9 @@
 "Keep Screen On When Connected" = "Keep Screen On When Connected";
 
 /* No comment provided by engineer. */
+"Keyboard Avoidance" = "Keyboard Avoidance";
+
+/* No comment provided by engineer. */
 "Kill all applications and restart the render server (backboardd)." = "Kill all applications and restart the render server (backboardd).";
 
 /* No comment provided by engineer. */
@@ -1182,6 +1197,9 @@
 
 /* No comment provided by engineer. */
 "Logging" = "Logging";
+
+/* No comment provided by engineer. */
+"Login Tips" = "Login Tips";
 
 /* No comment provided by engineer. */
 "Long Date" = "Long Date";
@@ -1344,6 +1362,9 @@
 
 /* No comment provided by engineer. */
 "New Version Available" = "New Version Available";
+
+/* No comment provided by engineer. */
+"New Version Installed" = "New Version Installed";
 
 /* No comment provided by engineer. */
 "NO" = "NO";
@@ -1559,6 +1580,9 @@
 "Please check your mail configuration." = "Please check your mail configuration.";
 
 /* No comment provided by engineer. */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
+
+/* No comment provided by engineer. */
 "Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1608,6 +1632,9 @@
 
 /* No comment provided by engineer. */
 "Purchase" = "Purchase";
+
+/* No comment provided by engineer. */
+"Purchase Tips" = "Purchase Tips";
 
 /* No comment provided by engineer. */
 "Pure TrollStore" = "Pure TrollStore";
@@ -1775,7 +1802,7 @@
 "Reverse Selection" = "Reverse Selection";
 
 /* No comment provided by engineer. */
-"Rewind 5 seconds" = "Rewind 5 seconds";
+"Rewind 15 seconds" = "Rewind 15 seconds";
 
 /* No comment provided by engineer. */
 "Ring" = "Ring";
@@ -2345,6 +2372,9 @@
 "Translated by @AUTHOR_NAME" = "Translated by @AUTHOR_NAME";
 
 /* No comment provided by engineer. */
+"Trim" = "Trim";
+
+/* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
 
 /* No comment provided by engineer. */
@@ -2598,6 +2628,9 @@
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "Voice-Over Voice";
+
+/* No comment provided by engineer. */
+"Volume" = "Volume";
 
 /* No comment provided by engineer. */
 "wait" = "wait";

@@ -256,6 +256,9 @@
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "녹음이 완료되면 자동으로 마이크와 스피커를 단일 파일로 병합합니다.";
 
+/* TODO */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatically move the hoverball to avoid the keyboard in portrait orientation.";
+
 /* No comment provided by engineer. */
 "Automatically purge recycle bin and remove failure caches." = "정기적으로 휴지통을 자동으로 정리하고 녹음 실패 때 남은 캐시를 삭제합니다.";
 
@@ -453,6 +456,9 @@
 
 /* No comment provided by engineer. */
 "Confirm" = "확인";
+
+/* TODO */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
 
 /* No comment provided by engineer. */
 "connected" = "연결됨";
@@ -712,6 +718,9 @@
 /* No comment provided by engineer. */
 "Dropbox" = "DropBox";
 
+/* TODO */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
+
 /* No comment provided by engineer. */
 "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "기술적인 이유로 CallKit이 아닌 통화는 통화 상태와 관련된 자동화 동작을 트리거하지 않습니다.";
 
@@ -732,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "최종 사용자 라이센스 계약";
+
+/* TODO */
+"Edit" = "Edit";
 
 /* No comment provided by engineer. */
 "Empty Trash" = "휴지통 비우기";
@@ -878,7 +890,7 @@
 "Formatted Location" = "위치 (포맷)";
 
 /* No comment provided by engineer. */
-"Forward 10 seconds" = "10초 앞으로";
+"Forward 15 seconds" = "15초 앞으로";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "자주 묻는 질문";
@@ -1114,6 +1126,9 @@
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "연결 시 화면 켜짐 유지";
 
+/* TODO */
+"Keyboard Avoidance" = "Keyboard Avoidance";
+
 /* No comment provided by engineer. */
 "Kill all applications and restart the render server (backboardd)." = "모든 응용 프로그램을 종료하고 렌더링 서버(backboardd)를 다시 시작합니다.";
 
@@ -1182,6 +1197,9 @@
 
 /* No comment provided by engineer. */
 "Logging" = "로깅";
+
+/* TODO */
+"Login Tips" = "Login Tips";
 
 /* No comment provided by engineer. */
 "Long Date" = "긴 날짜";
@@ -1344,6 +1362,9 @@
 
 /* No comment provided by engineer. */
 "New Version Available" = "새 버전 사용 가능";
+
+/* TODO */
+"New Version Installed" = "New Version Installed";
 
 /* No comment provided by engineer. */
 "NO" = "아니요";
@@ -1559,6 +1580,9 @@
 "Please check your mail configuration." = "이메일 구성을 확인하세요.";
 
 /* TODO */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
+
+/* TODO */
 "Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1608,6 +1632,9 @@
 
 /* No comment provided by engineer. */
 "Purchase" = "구매";
+
+/* TODO */
+"Purchase Tips" = "Purchase Tips";
 
 /* TODO */
 "Pure TrollStore" = "Pure TrollStore";
@@ -1775,7 +1802,7 @@
 "Reverse Selection" = "역방향 선택";
 
 /* No comment provided by engineer. */
-"Rewind 5 seconds" = "5초 뒤로";
+"Rewind 15 seconds" = "15초 뒤로";
 
 /* TODO */
 "Ring" = "Ring";
@@ -2344,6 +2371,9 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "번역자: SUB2";
 
+/* TODO */
+"Trim" = "Trim";
+
 /* No comment provided by engineer. */
 "Troll Recorder" = "TrollRecorder";
 
@@ -2598,6 +2628,9 @@
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "VoiceOver 음성";
+
+/* TODO */
+"Volume" = "Volume";
 
 /* No comment provided by engineer. */
 "wait" = "대기";
