@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Additional Contact" = "Liên hệ bổ sung";
 
+/* TODO */
+"Adequate" = "Adequate";
+
 /* No comment provided by engineer. */
 "Advanced Audio Coding" = "Mã hóa âm thanh nâng cao";
 
@@ -182,6 +185,9 @@
 "Analysing Audio" = "Phân tích âm thanh";
 
 /* TODO */
+"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+
+/* TODO */
 "answer" = "answer";
 
 /* TODO */
@@ -215,6 +221,9 @@
 "archive" = "archive";
 
 /* TODO */
+"Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
+
+/* TODO */
 "Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
 
 /* TODO */
@@ -228,6 +237,9 @@
 
 /* TODO */
 "audio" = "audio";
+
+/* TODO */
+"Audio CD" = "Audio CD";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Nén âm thanh";
@@ -243,6 +255,9 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "Xác thực với %@";
+
+/* TODO */
+"Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "Ghi âm tự động";
@@ -303,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Trước khi bắt đầu ghi âm cuộc gọi, một giọng nói nhắc nhở được phát ở đầu đối diện.";
-
-/* No comment provided by engineer. */
-"Best" = "Tốt nhất";
 
 /* TODO */
 "Beta" = "Beta";
@@ -385,6 +397,9 @@
 /* TODO */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
 
+/* TODO */
+"Camcorder" = "Camcorder";
+
 /* No comment provided by engineer. */
 "Cancel" = "Huỷ";
 
@@ -416,10 +431,10 @@
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Chọn định dạng âm thanh đầu ra cho bộ hoà âm. Định dạng Wave Audio không hỗ trợ mã hóa nâng cao.";
 
 /* No comment provided by engineer. */
-"Choose the output file format for the mixer." = "Chọn định dạng tệp đầu ra cho bộ hoà âm.";
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size.";
 
 /* No comment provided by engineer. */
-"Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "Chọn tốc độ lấy mẫu của đầu ra của hòa âm. Thấp: 8 kHz, Thông thường: 22.05 kHz, Tốt nhất: 44.1 kHz.";
+"Choose the output file format for the mixer." = "Chọn định dạng tệp đầu ra cho bộ hoà âm.";
 
 /* No comment provided by engineer. */
 "Choose the size preset of the hoverball." = "Chọn kích thước đặt trước của quả bóng bay mọi nơi.";
@@ -587,6 +602,9 @@
 "decline" = "decline";
 
 /* TODO */
+"Decoding" = "Decoding";
+
+/* TODO */
 "Default" = "Default";
 
 /* No comment provided by engineer. */
@@ -613,6 +631,9 @@
 /* TODO */
 "Developer Options" = "Developer Options";
 
+/* TODO */
+"Digital Video" = "Digital Video";
+
 /* No comment provided by engineer. */
 "Direction" = "Hướng";
 
@@ -630,6 +651,12 @@
 
 /* TODO */
 "Disabled" = "Disabled";
+
+/* TODO */
+"Discard" = "Discard";
+
+/* TODO */
+"Discard Changes" = "Discard Changes";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "Bỏ ghi âm";
@@ -775,6 +802,9 @@
 /* TODO */
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground.";
 
+/* TODO */
+"Encoding" = "Encoding";
+
 /* No comment provided by engineer. */
 "End Date" = "Ngày kết thúc";
 
@@ -890,7 +920,7 @@
 "Formatted Location" = "Formatted Location";
 
 /* TODO */
-"Forward 15 seconds" = "Forward 15 seconds";
+"Forward 15 Seconds" = "Forward 15 Seconds";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Những câu hỏi thường gặp";
@@ -1217,9 +1247,6 @@
 "Long Time" = "Long Time";
 
 /* No comment provided by engineer. */
-"Low" = "Thấp";
-
-/* No comment provided by engineer. */
 "Low Disk Space" = "Dung lượng đĩa thấp";
 
 /* No comment provided by engineer. */
@@ -1310,7 +1337,7 @@
 "Mixer File Format" = "Định dạng tập tin bản phối lại";
 
 /* No comment provided by engineer. */
-"Mixer Sample Rate" = "Tỷ lệ mẫu bản phối lại";
+"Mixer Quality" = "Mixer Quality";
 
 /* TODO */
 "Month Number" = "Month Number";
@@ -1723,9 +1750,6 @@
 /* TODO */
 "Recycle Bin" = "Recycle Bin";
 
-/* No comment provided by engineer. */
-"Regular" = "Thường xuyên";
-
 /* TODO */
 "reject" = "reject";
 
@@ -1802,7 +1826,7 @@
 "Reverse Selection" = "Lựa chọn ngược";
 
 /* TODO */
-"Rewind 15 seconds" = "Rewind 15 seconds";
+"Rewind 15 Seconds" = "Rewind 15 Seconds";
 
 /* TODO */
 "Ring" = "Ring";
@@ -1830,6 +1854,12 @@
 
 /* TODO */
 "Save" = "Save";
+
+/* TODO */
+"Save as Duplicate" = "Save as Duplicate";
+
+/* TODO */
+"Save as Duplicate…" = "Save as Duplicate…";
 
 /* TODO */
 "Say ${requestedText}" = "Say ${requestedText}";
@@ -2270,6 +2300,9 @@
 "This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
 
 /* TODO */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
+
+/* TODO */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
 
 /* TODO */
@@ -2630,6 +2663,9 @@
 "Voice-Over Voice" = "Voice-Over Voice";
 
 /* TODO */
+"VoIP" = "VoIP";
+
+/* TODO */
 "Volume" = "Volume";
 
 /* TODO */
@@ -2778,6 +2814,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Bạn đã nhấn mật khẩu.";
+
+/* TODO */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* TODO */
+"½ Audio CD" = "½ Audio CD";
 
 /* TODO */
 "“%@” is not available." = "“%@” is not available.";

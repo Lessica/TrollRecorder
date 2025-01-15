@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Additional Contact" = "Contacto adicional";
 
+/* TODO */
+"Adequate" = "Adequate";
+
 /* No comment provided by engineer. */
 "Advanced Audio Coding" = "Codificación de Audio Avanzada";
 
@@ -181,6 +184,9 @@
 /* No comment provided by engineer. */
 "Analysing Audio" = "Analizando audio";
 
+/* TODO */
+"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+
 /* Translated with Microsoft Translator */
 "answer" = "responder";
 
@@ -214,6 +220,9 @@
 /* Translated with Microsoft Translator */
 "archive" = "archivo";
 
+/* TODO */
+"Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
+
 /* Translated with Microsoft Translator */
 "Are you sure you want to remove all shortcut definitions?" = "¿Estás seguro de que quieres eliminar todas las definiciones de acceso directo?";
 
@@ -229,6 +238,9 @@
 /* Translated with Microsoft Translator */
 "audio" = "audio";
 
+/* TODO */
+"Audio CD" = "Audio CD";
+
 /* No comment provided by engineer. */
 "Audio Compression" = "Compresión de audio";
 
@@ -243,6 +255,9 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "Autentificarse con %@";
+
+/* TODO */
+"Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "Grabación automática";
@@ -303,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Antes de iniciar la grabación de una llamada, se reproduce una voz de aviso en el extremo opuesto.";
-
-/* No comment provided by engineer. */
-"Best" = "Mejor";
 
 /* TODO */
 "Beta" = "Beta";
@@ -385,6 +397,9 @@
 /* TODO */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
 
+/* TODO */
+"Camcorder" = "Camcorder";
+
 /* No comment provided by engineer. */
 "Cancel" = "Cancelar";
 
@@ -416,10 +431,10 @@
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Elige el formato de audio de salida para la mezcladora. El formato de audio Wave no admite codificación avanzada.";
 
 /* No comment provided by engineer. */
-"Choose the output file format for the mixer." = "Elija el formato de archivo de salida para el mezclador.";
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size.";
 
 /* No comment provided by engineer. */
-"Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "Elige la tasa de muestreo de la salida de la mezcladora. Baja: 8 kHz, Regular: 22.05 kHz, Mejor: 44.1 kHz.";
+"Choose the output file format for the mixer." = "Elija el formato de archivo de salida para el mezclador.";
 
 /* No comment provided by engineer. */
 "Choose the size preset of the hoverball." = "Elige el tamaño preestablecido del HUD global.";
@@ -586,6 +601,9 @@
 /* Translated with Microsoft Translator */
 "decline" = "descenso";
 
+/* TODO */
+"Decoding" = "Decoding";
+
 /* Translated with Microsoft Translator */
 "Default" = "Por defecto";
 
@@ -613,6 +631,9 @@
 /* Translated with Microsoft Translator */
 "Developer Options" = "Opciones de desarrollo";
 
+/* TODO */
+"Digital Video" = "Digital Video";
+
 /* Translated with Microsoft Translator */
 "Direction" = "Dirección";
 
@@ -630,6 +651,12 @@
 
 /* Translated with Microsoft Translator */
 "Disabled" = "Discapacitados";
+
+/* TODO */
+"Discard" = "Discard";
+
+/* TODO */
+"Discard Changes" = "Discard Changes";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "Descartar grabación";
@@ -775,6 +802,9 @@
 /* Translated with Microsoft Translator */
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Permite al servidor WebDAV suspenderse automáticamente cuando la aplicación pasa a segundo plano y se cierra la última conexión, y reanudarse cuando la aplicación vuelve a primer plano.";
 
+/* TODO */
+"Encoding" = "Encoding";
+
 /* No comment provided by engineer. */
 "End Date" = "Fecha de finalización";
 
@@ -890,7 +920,7 @@
 "Formatted Location" = "Ubicación formateada";
 
 /* Translated with Microsoft Translator */
-"Forward 15 seconds" = "Adelante 15 segundos";
+"Forward 15 Seconds" = "Adelante 15 segundos";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Obtener ayuda y preguntas frecuentes";
@@ -1217,9 +1247,6 @@
 "Long Time" = "Mucho tiempo";
 
 /* No comment provided by engineer. */
-"Low" = "Bajo";
-
-/* No comment provided by engineer. */
 "Low Disk Space" = "Espacio en disco bajo";
 
 /* No comment provided by engineer. */
@@ -1310,7 +1337,7 @@
 "Mixer File Format" = "Formato de archivo del mezclador";
 
 /* No comment provided by engineer. */
-"Mixer Sample Rate" = "Tasa de Muestreo del Mezclador";
+"Mixer Quality" = "Mixer Quality";
 
 /* Translated with Microsoft Translator */
 "Month Number" = "Mes Número";
@@ -1724,9 +1751,6 @@
 "Recycle Bin" = "Papelera de reciclaje";
 
 /* Translated with Microsoft Translator */
-"Regular" = "Regular";
-
-/* Translated with Microsoft Translator */
 "reject" = "rechace";
 
 /* Translated with Microsoft Translator */
@@ -1802,7 +1826,7 @@
 "Reverse Selection" = "Selección inversa";
 
 /* Translated with Microsoft Translator */
-"Rewind 15 seconds" = "Rebobinar 15 segundos";
+"Rewind 15 Seconds" = "Rebobinar 15 segundos";
 
 /* TODO */
 "Ring" = "Ring";
@@ -1830,6 +1854,12 @@
 
 /* Translated with Microsoft Translator */
 "Save" = "Guardar";
+
+/* TODO */
+"Save as Duplicate" = "Save as Duplicate";
+
+/* TODO */
+"Save as Duplicate…" = "Save as Duplicate…";
 
 /* TODO */
 "Say ${requestedText}" = "Say ${requestedText}";
@@ -2269,6 +2299,9 @@
 /* TODO */
 "This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
 
+/* TODO */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
+
 /* Translated with Microsoft Translator */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Esta grabación es de WeChat, y el “Asistente WeChat” te ayuda a rellenar los nombres de los contactos de WeChat y los comentarios la próxima vez.\nPuedes comprar “TrollRecorder Pro” para activar el “Asistente WeChat”, ¿quieres comprarlo ahora?";
 
@@ -2630,6 +2663,9 @@
 "Voice-Over Voice" = "Voz en off";
 
 /* TODO */
+"VoIP" = "VoIP";
+
+/* TODO */
 "Volume" = "Volume";
 
 /* Translated with Microsoft Translator */
@@ -2778,6 +2814,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Has pulsado contraseña.";
+
+/* TODO */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* TODO */
+"½ Audio CD" = "½ Audio CD";
 
 /* Translated with Microsoft Translator */
 "“%@” is not available." = "“%@” no está disponible";

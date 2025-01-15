@@ -104,6 +104,9 @@
 "Additional Contact" = "自定义联系人";
 
 /* No comment provided by engineer. */
+"Adequate" = "最低";
+
+/* No comment provided by engineer. */
 "Advanced Audio Coding" = "高级音频编码 (AAC)";
 
 /* No comment provided by engineer. */
@@ -182,6 +185,9 @@
 "Analysing Audio" = "正在分析音频";
 
 /* No comment provided by engineer. */
+"Another %@ is required to continue editing. Available capacity is %@." = "储存空间不足：继续编辑需要额外的 %@。可用容量为 %@。";
+
+/* No comment provided by engineer. */
 "answer" = "应答";
 
 /* No comment provided by engineer. */
@@ -215,6 +221,9 @@
 "archive" = "归档";
 
 /* No comment provided by engineer. */
+"Are you sure you want to discard the changes you made?" = "你确定要丢弃你所做的更改吗？";
+
+/* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "你确定要删除所有自动化动作吗？";
 
 /* No comment provided by engineer. */
@@ -230,6 +239,9 @@
 "audio" = "音频";
 
 /* No comment provided by engineer. */
+"Audio CD" = "音频 CD";
+
+/* No comment provided by engineer. */
 "Audio Compression" = "音频压缩";
 
 /* No comment provided by engineer. */
@@ -243,6 +255,9 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "使用 %@ 进行验证";
+
+/* No comment provided by engineer. */
+"Automatic" = "自动";
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "自动录音";
@@ -303,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "接通并开始通话录音前，向对方播放一段提示语音。请遵守你所在地的法律法规。关闭提示音后，可能会影响通话录音作为证据使用的法律效力。";
-
-/* No comment provided by engineer. */
-"Best" = "最好";
 
 /* No comment provided by engineer. */
 "Beta" = "预发布版";
@@ -386,6 +398,9 @@
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "仅当你使用此设备上的麦克风进行通话时，才能够录制通话。从其他设备接听来自此设备的通话时，通话将无法被录音。";
 
 /* No comment provided by engineer. */
+"Camcorder" = "摄像机";
+
+/* No comment provided by engineer. */
 "Cancel" = "取消";
 
 /* No comment provided by engineer. */
@@ -416,10 +431,10 @@
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "选择混音器的输出音频格式。波形音频格式不支持高级编码。";
 
 /* No comment provided by engineer. */
-"Choose the output file format for the mixer." = "选择混音器的输出文件格式。";
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "选择混音器的输出音频质量。更高的质量意味着更高的采样率和比特率，这将导致更大的文件大小。";
 
 /* No comment provided by engineer. */
-"Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "选择混音器的输出采样率。低：8 kHz，普通：22.05 kHz，最好：44.1 kHz。";
+"Choose the output file format for the mixer." = "选择混音器的输出文件格式。";
 
 /* No comment provided by engineer. */
 "Choose the size preset of the hoverball." = "选择悬浮球的预设尺寸。";
@@ -587,6 +602,9 @@
 "decline" = "拒接";
 
 /* No comment provided by engineer. */
+"Decoding" = "解码中";
+
+/* No comment provided by engineer. */
 "Default" = "缺省";
 
 /* No comment provided by engineer. */
@@ -614,6 +632,9 @@
 "Developer Options" = "开发者选项";
 
 /* No comment provided by engineer. */
+"Digital Video" = "数字视频";
+
+/* No comment provided by engineer. */
 "Direction" = "通话方向";
 
 /* No comment provided by engineer. */
@@ -630,6 +651,12 @@
 
 /* No comment provided by engineer. */
 "Disabled" = "关闭";
+
+/* No comment provided by engineer. */
+"Discard" = "丢弃";
+
+/* No comment provided by engineer. */
+"Discard Changes" = "放弃更改";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "丢弃录音";
@@ -776,6 +803,9 @@
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "当应用程序进入后台且最后一个连接关闭时，自动暂停 WebDAV 服务。当应用程序回到前台时恢复服务。";
 
 /* No comment provided by engineer. */
+"Encoding" = "编码中";
+
+/* No comment provided by engineer. */
 "End Date" = "结束日期";
 
 /* No comment provided by engineer. */
@@ -890,7 +920,7 @@
 "Formatted Location" = "地理位置（格式化）";
 
 /* No comment provided by engineer. */
-"Forward 15 seconds" = "前进 15 秒";
+"Forward 15 Seconds" = "前进 15 秒";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "获取帮助";
@@ -1217,9 +1247,6 @@
 "Long Time" = "长时间";
 
 /* No comment provided by engineer. */
-"Low" = "低";
-
-/* No comment provided by engineer. */
 "Low Disk Space" = "储存空间不足";
 
 /* No comment provided by engineer. */
@@ -1310,7 +1337,7 @@
 "Mixer File Format" = "文件格式";
 
 /* No comment provided by engineer. */
-"Mixer Sample Rate" = "采样率";
+"Mixer Quality" = "音频质量";
 
 /* No comment provided by engineer. */
 "Month Number" = "月份";
@@ -1724,9 +1751,6 @@
 "Recycle Bin" = "回收站";
 
 /* No comment provided by engineer. */
-"Regular" = "普通";
-
-/* No comment provided by engineer. */
 "reject" = "拒绝";
 
 /* No comment provided by engineer. */
@@ -1802,7 +1826,7 @@
 "Reverse Selection" = "反选";
 
 /* No comment provided by engineer. */
-"Rewind 15 seconds" = "倒回 15 秒钟";
+"Rewind 15 Seconds" = "倒回 15 秒钟";
 
 /* No comment provided by engineer. */
 "Ring" = "响铃";
@@ -1830,6 +1854,12 @@
 
 /* No comment provided by engineer. */
 "Save" = "保存";
+
+/* No comment provided by engineer. */
+"Save as Duplicate" = "另存为副本";
+
+/* No comment provided by engineer. */
+"Save as Duplicate…" = "另存为副本…";
 
 /* No comment provided by engineer. */
 "Say ${requestedText}" = "说 ${requestedText}";
@@ -2270,6 +2300,9 @@
 "This option overrides the “Long Press Action” of the Hoverball." = "此选项将覆盖悬浮球的 “长按动作”。";
 
 /* No comment provided by engineer. */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "此录音包含多个音频变体。原地保存将删除除主要录音文件之外的其他变体。你仍要继续吗，还是另存为副本？";
+
+/* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "当前录音来自微信，我们的 “微信通话助理” 可以帮助你在下次录音时填充微信联系人姓名和备注。\n你可以购买 “巨魔录音机” 来启用 “微信通话助理”，你想现在购买吗？";
 
 /* No comment provided by engineer. */
@@ -2630,6 +2663,9 @@
 "Voice-Over Voice" = "Voice-Over 语音";
 
 /* No comment provided by engineer. */
+"VoIP" = "VoIP";
+
+/* No comment provided by engineer. */
 "Volume" = "音量";
 
 /* No comment provided by engineer. */
@@ -2778,6 +2814,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "你选择了密码验证。";
+
+/* No comment provided by engineer. */
+"¼ Audio CD" = "¼ 音频 CD";
+
+/* No comment provided by engineer. */
+"½ Audio CD" = "½ 音频 CD";
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” 不可用。";

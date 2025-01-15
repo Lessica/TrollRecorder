@@ -104,6 +104,9 @@
 "Additional Contact" = "Additional Contact";
 
 /* No comment provided by engineer. */
+"Adequate" = "Adequate";
+
+/* No comment provided by engineer. */
 "Advanced Audio Coding" = "Advanced Audio Coding";
 
 /* No comment provided by engineer. */
@@ -182,6 +185,9 @@
 "Analysing Audio" = "Analysing Audio";
 
 /* No comment provided by engineer. */
+"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+
+/* No comment provided by engineer. */
 "answer" = "answer";
 
 /* No comment provided by engineer. */
@@ -215,6 +221,9 @@
 "archive" = "archive";
 
 /* No comment provided by engineer. */
+"Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
+
+/* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
 
 /* No comment provided by engineer. */
@@ -230,6 +239,9 @@
 "audio" = "audio";
 
 /* No comment provided by engineer. */
+"Audio CD" = "Audio CD";
+
+/* No comment provided by engineer. */
 "Audio Compression" = "Audio Compression";
 
 /* No comment provided by engineer. */
@@ -243,6 +255,9 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "Authenticate with %@";
+
+/* No comment provided by engineer. */
+"Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "Automatic Recording";
@@ -303,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Before starting a call recording, a prompt voice is played to the opposite end.";
-
-/* No comment provided by engineer. */
-"Best" = "Best";
 
 /* No comment provided by engineer. */
 "Beta" = "Beta";
@@ -386,6 +398,9 @@
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
 
 /* No comment provided by engineer. */
+"Camcorder" = "Camcorder";
+
+/* No comment provided by engineer. */
 "Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
@@ -416,10 +431,10 @@
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding.";
 
 /* No comment provided by engineer. */
-"Choose the output file format for the mixer." = "Choose the output file format for the mixer.";
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size.";
 
 /* No comment provided by engineer. */
-"Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz.";
+"Choose the output file format for the mixer." = "Choose the output file format for the mixer.";
 
 /* No comment provided by engineer. */
 "Choose the size preset of the hoverball." = "Choose the size preset of the hoverball.";
@@ -587,6 +602,9 @@
 "decline" = "decline";
 
 /* No comment provided by engineer. */
+"Decoding" = "Decoding";
+
+/* No comment provided by engineer. */
 "Default" = "Default";
 
 /* No comment provided by engineer. */
@@ -614,6 +632,9 @@
 "Developer Options" = "Developer Options";
 
 /* No comment provided by engineer. */
+"Digital Video" = "Digital Video";
+
+/* No comment provided by engineer. */
 "Direction" = "Direction";
 
 /* No comment provided by engineer. */
@@ -630,6 +651,12 @@
 
 /* No comment provided by engineer. */
 "Disabled" = "Disabled";
+
+/* No comment provided by engineer. */
+"Discard" = "Discard";
+
+/* No comment provided by engineer. */
+"Discard Changes" = "Discard Changes";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "Discard Recording";
@@ -776,6 +803,9 @@
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground.";
 
 /* No comment provided by engineer. */
+"Encoding" = "Encoding";
+
+/* No comment provided by engineer. */
 "End Date" = "End Date";
 
 /* No comment provided by engineer. */
@@ -890,7 +920,7 @@
 "Formatted Location" = "Formatted Location";
 
 /* No comment provided by engineer. */
-"Forward 15 seconds" = "Forward 15 seconds";
+"Forward 15 Seconds" = "Forward 15 Seconds";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Frequently Asked Questions";
@@ -1217,9 +1247,6 @@
 "Long Time" = "Long Time";
 
 /* No comment provided by engineer. */
-"Low" = "Low";
-
-/* No comment provided by engineer. */
 "Low Disk Space" = "Low Disk Space";
 
 /* No comment provided by engineer. */
@@ -1310,7 +1337,7 @@
 "Mixer File Format" = "Mixer File Format";
 
 /* No comment provided by engineer. */
-"Mixer Sample Rate" = "Mixer Sample Rate";
+"Mixer Quality" = "Mixer Quality";
 
 /* No comment provided by engineer. */
 "Month Number" = "Month Number";
@@ -1724,9 +1751,6 @@
 "Recycle Bin" = "Recycle Bin";
 
 /* No comment provided by engineer. */
-"Regular" = "Regular";
-
-/* No comment provided by engineer. */
 "reject" = "reject";
 
 /* No comment provided by engineer. */
@@ -1802,7 +1826,7 @@
 "Reverse Selection" = "Reverse Selection";
 
 /* No comment provided by engineer. */
-"Rewind 15 seconds" = "Rewind 15 seconds";
+"Rewind 15 Seconds" = "Rewind 15 Seconds";
 
 /* No comment provided by engineer. */
 "Ring" = "Ring";
@@ -1830,6 +1854,12 @@
 
 /* No comment provided by engineer. */
 "Save" = "Save";
+
+/* No comment provided by engineer. */
+"Save as Duplicate" = "Save as Duplicate";
+
+/* No comment provided by engineer. */
+"Save as Duplicate…" = "Save as Duplicate…";
 
 /* No comment provided by engineer. */
 "Say ${requestedText}" = "Say ${requestedText}";
@@ -2270,6 +2300,9 @@
 "This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
 
 /* No comment provided by engineer. */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
+
+/* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
 
 /* No comment provided by engineer. */
@@ -2630,6 +2663,9 @@
 "Voice-Over Voice" = "Voice-Over Voice";
 
 /* No comment provided by engineer. */
+"VoIP" = "VoIP";
+
+/* No comment provided by engineer. */
 "Volume" = "Volume";
 
 /* No comment provided by engineer. */
@@ -2778,6 +2814,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "You’ve pressed password.";
+
+/* No comment provided by engineer. */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* No comment provided by engineer. */
+"½ Audio CD" = "½ Audio CD";
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” is not available.";

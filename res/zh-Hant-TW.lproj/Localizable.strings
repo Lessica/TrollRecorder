@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Additional Contact" = "自定義聯絡人";
 
+/* TODO */
+"Adequate" = "Adequate";
+
 /* No comment provided by engineer. */
 "Advanced Audio Coding" = "高級音訊編碼 (AAC)";
 
@@ -181,6 +184,9 @@
 /* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音訊";
 
+/* TODO */
+"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+
 /* No comment provided by engineer. */
 "answer" = "應答";
 
@@ -214,6 +220,9 @@
 /* No comment provided by engineer. */
 "archive" = "歸檔";
 
+/* TODO */
+"Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
+
 /* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "你確定要刪除所有自動化動作嗎？";
 
@@ -229,6 +238,9 @@
 /* No comment provided by engineer. */
 "audio" = "音訊";
 
+/* TODO */
+"Audio CD" = "Audio CD";
+
 /* No comment provided by engineer. */
 "Audio Compression" = "音訊壓縮";
 
@@ -243,6 +255,9 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "使用 %@ 進行驗證";
+
+/* TODO */
+"Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "自動錄音";
@@ -303,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "接通並開始通話錄音前，向對方播放一段提示語音。 請遵守你所在地的法律法規。 關閉提示音後，可能會影響通話錄音作為證據使用的法律效力。";
-
-/* No comment provided by engineer. */
-"Best" = "最好";
 
 /* TODO */
 "Beta" = "Beta";
@@ -385,6 +397,9 @@
 /* No comment provided by engineer. */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "僅當你使用此裝置上的麥克風進行通話時，才能够錄製通話。從其它裝置接聽來自此裝置的通話時，通話將無法被錄音。";
 
+/* TODO */
+"Camcorder" = "Camcorder";
+
 /* No comment provided by engineer. */
 "Cancel" = "取消";
 
@@ -416,10 +431,10 @@
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "選擇混音器的輸出音訊格式。 波形音訊格式不支援高級編碼。";
 
 /* No comment provided by engineer. */
-"Choose the output file format for the mixer." = "選擇混音器的輸出檔案格式。";
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size.";
 
 /* No comment provided by engineer. */
-"Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "選擇混音器的輸出取樣速率。 低：8 kHz，普通：22.05 kHz，最好：44.1 kHz。";
+"Choose the output file format for the mixer." = "選擇混音器的輸出檔案格式。";
 
 /* No comment provided by engineer. */
 "Choose the size preset of the hoverball." = "選擇懸浮球的預設尺寸。";
@@ -586,6 +601,9 @@
 /* No comment provided by engineer. */
 "decline" = "拒接";
 
+/* TODO */
+"Decoding" = "Decoding";
+
 /* No comment provided by engineer. */
 "Default" = "缺省";
 
@@ -613,6 +631,9 @@
 /* No comment provided by engineer. */
 "Developer Options" = "開發者選項";
 
+/* TODO */
+"Digital Video" = "Digital Video";
+
 /* No comment provided by engineer. */
 "Direction" = "通話類型";
 
@@ -630,6 +651,12 @@
 
 /* No comment provided by engineer. */
 "Disabled" = "關閉";
+
+/* TODO */
+"Discard" = "Discard";
+
+/* TODO */
+"Discard Changes" = "Discard Changes";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "丟棄錄音";
@@ -775,6 +802,9 @@
 /* No comment provided by engineer. */
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "當應用程式進入背景且最後一個連線關閉時，自動停止 WebDAV 服務。當應用程式回到前台時恢復服務。";
 
+/* TODO */
+"Encoding" = "Encoding";
+
 /* No comment provided by engineer. */
 "End Date" = "結束日期";
 
@@ -890,7 +920,7 @@
 "Formatted Location" = "地理位置（格式化）";
 
 /* No comment provided by engineer. */
-"Forward 15 seconds" = "前進 15 秒";
+"Forward 15 Seconds" = "前進 15 秒";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "獲取幫助";
@@ -1217,9 +1247,6 @@
 "Long Time" = "長時間";
 
 /* No comment provided by engineer. */
-"Low" = "低";
-
-/* No comment provided by engineer. */
 "Low Disk Space" = "磁碟空間不足";
 
 /* No comment provided by engineer. */
@@ -1310,7 +1337,7 @@
 "Mixer File Format" = "檔案格式";
 
 /* No comment provided by engineer. */
-"Mixer Sample Rate" = "取樣速率";
+"Mixer Quality" = "Mixer Quality";
 
 /* No comment provided by engineer. */
 "Month Number" = "月份";
@@ -1724,9 +1751,6 @@
 "Recycle Bin" = "回收站";
 
 /* No comment provided by engineer. */
-"Regular" = "普通";
-
-/* No comment provided by engineer. */
 "reject" = "拒絕";
 
 /* No comment provided by engineer. */
@@ -1802,7 +1826,7 @@
 "Reverse Selection" = "反選";
 
 /* No comment provided by engineer. */
-"Rewind 15 seconds" = "回退 15 秒鐘";
+"Rewind 15 Seconds" = "回退 15 秒鐘";
 
 /* TODO */
 "Ring" = "Ring";
@@ -1830,6 +1854,12 @@
 
 /* No comment provided by engineer. */
 "Save" = "保存";
+
+/* TODO */
+"Save as Duplicate" = "Save as Duplicate";
+
+/* TODO */
+"Save as Duplicate…" = "Save as Duplicate…";
 
 /* TODO */
 "Say ${requestedText}" = "Say ${requestedText}";
@@ -2269,6 +2299,9 @@
 /* TODO */
 "This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
 
+/* TODO */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
+
 /* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "當前錄音來自微信，我們的微信通話助理可以幫助你在下次錄音時填充微信聯繫人姓名和備注。\n你可以購買巨魔錄音機來啓用微信通話助理，你想現在購買嗎？";
 
@@ -2630,6 +2663,9 @@
 "Voice-Over Voice" = "Voice-Over 語音";
 
 /* TODO */
+"VoIP" = "VoIP";
+
+/* TODO */
 "Volume" = "Volume";
 
 /* No comment provided by engineer. */
@@ -2778,6 +2814,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "你選擇了密碼驗證。";
+
+/* TODO */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* TODO */
+"½ Audio CD" = "½ Audio CD";
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” 不可用。";

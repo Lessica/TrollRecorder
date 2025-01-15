@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Additional Contact" = "사용자 설정 연락처";
 
+/* TODO */
+"Adequate" = "Adequate";
+
 /* No comment provided by engineer. */
 "Advanced Audio Coding" = "고급 오디오 코딩 (AAC)";
 
@@ -181,6 +184,9 @@
 /* No comment provided by engineer. */
 "Analysing Audio" = "오디오 분석 중";
 
+/* TODO */
+"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+
 /* No comment provided by engineer. */
 "answer" = "응답";
 
@@ -214,6 +220,9 @@
 /* No comment provided by engineer. */
 "archive" = "아카이브";
 
+/* TODO */
+"Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
+
 /* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "모든 자동화 동작을 삭제하시겠습니까?";
 
@@ -229,6 +238,9 @@
 /* No comment provided by engineer. */
 "audio" = "오디오";
 
+/* TODO */
+"Audio CD" = "Audio CD";
+
 /* No comment provided by engineer. */
 "Audio Compression" = "오디오 압축";
 
@@ -243,6 +255,9 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "%@로 인증";
+
+/* TODO */
+"Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "자동 녹음";
@@ -303,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "통화 녹음을 시작하기 전 상대방에게 음성 안내가 재생됩니다.";
-
-/* No comment provided by engineer. */
-"Best" = "최고";
 
 /* TODO */
 "Beta" = "Beta";
@@ -385,6 +397,9 @@
 /* TODO */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
 
+/* TODO */
+"Camcorder" = "Camcorder";
+
 /* No comment provided by engineer. */
 "Cancel" = "취소";
 
@@ -416,10 +431,10 @@
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "믹서의 출력 오디오 포맷을 선택합니다. 파형 오디오 포맷은 고급 인코딩을 지원하지 않습니다.";
 
 /* No comment provided by engineer. */
-"Choose the output file format for the mixer." = "믹서의 출력 파일 포맷을 선택합니다.";
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size.";
 
 /* No comment provided by engineer. */
-"Choose the sample rate of the output of the mixer. Low: 8 kHz, Regular: 22.05 kHz, Best: 44.1 kHz." = "믹서의 출력 샘플 속도를 선택합니다. 낮음: 8 kHz, 보통: 22.05 kHz, 최상: 44.1 kHz.";
+"Choose the output file format for the mixer." = "믹서의 출력 파일 포맷을 선택합니다.";
 
 /* No comment provided by engineer. */
 "Choose the size preset of the hoverball." = "호버볼의 기본 크기를 선택합니다.";
@@ -586,6 +601,9 @@
 /* No comment provided by engineer. */
 "decline" = "거절";
 
+/* TODO */
+"Decoding" = "Decoding";
+
 /* No comment provided by engineer. */
 "Default" = "기본값";
 
@@ -613,6 +631,9 @@
 /* No comment provided by engineer. */
 "Developer Options" = "개발자 옵션";
 
+/* TODO */
+"Digital Video" = "Digital Video";
+
 /* No comment provided by engineer. */
 "Direction" = "통화 방향";
 
@@ -630,6 +651,12 @@
 
 /* No comment provided by engineer. */
 "Disabled" = "끄기";
+
+/* TODO */
+"Discard" = "Discard";
+
+/* TODO */
+"Discard Changes" = "Discard Changes";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "녹음 취소";
@@ -775,6 +802,9 @@
 /* No comment provided by engineer. */
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "응용 프로그램이 백그라운드로 전환되고 마지막 연결이 닫힐 때 WebDAV 서버가 자동으로 일시 중지되었다가 응용 프로그램이 포그라운드로 돌아올 때 자체적으로 재개합니다.";
 
+/* TODO */
+"Encoding" = "Encoding";
+
 /* No comment provided by engineer. */
 "End Date" = "종료일";
 
@@ -890,7 +920,7 @@
 "Formatted Location" = "위치 (포맷)";
 
 /* No comment provided by engineer. */
-"Forward 15 seconds" = "15초 앞으로";
+"Forward 15 Seconds" = "15초 앞으로";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "자주 묻는 질문";
@@ -1217,9 +1247,6 @@
 "Long Time" = "긴 시간";
 
 /* No comment provided by engineer. */
-"Low" = "낮음";
-
-/* No comment provided by engineer. */
 "Low Disk Space" = "저장 공간 부족";
 
 /* No comment provided by engineer. */
@@ -1310,7 +1337,7 @@
 "Mixer File Format" = "파일 포맷";
 
 /* No comment provided by engineer. */
-"Mixer Sample Rate" = "샘플링 속도";
+"Mixer Quality" = "Mixer Quality";
 
 /* No comment provided by engineer. */
 "Month Number" = "월 (숫자)";
@@ -1724,9 +1751,6 @@
 "Recycle Bin" = "휴지통";
 
 /* No comment provided by engineer. */
-"Regular" = "보통";
-
-/* No comment provided by engineer. */
 "reject" = "거절";
 
 /* No comment provided by engineer. */
@@ -1802,7 +1826,7 @@
 "Reverse Selection" = "역방향 선택";
 
 /* No comment provided by engineer. */
-"Rewind 15 seconds" = "15초 뒤로";
+"Rewind 15 Seconds" = "15초 뒤로";
 
 /* TODO */
 "Ring" = "Ring";
@@ -1830,6 +1854,12 @@
 
 /* No comment provided by engineer. */
 "Save" = "저장";
+
+/* TODO */
+"Save as Duplicate" = "Save as Duplicate";
+
+/* TODO */
+"Save as Duplicate…" = "Save as Duplicate…";
 
 /* TODO */
 "Say ${requestedText}" = "Say ${requestedText}";
@@ -2269,6 +2299,9 @@
 /* TODO */
 "This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
 
+/* TODO */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
+
 /* No comment provided by engineer. */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "이 녹음은 WeChat에서 가져온것이며 “WeChat 도우미”는 다음에 WeChat 연락처 이름과 댓글을 입력하는 데 도움이 됩니다.\n“TrollRecorder Pro”를 구매하면 “WeChat 도우미”를 활성화할 수 있습니다. 지금 구매하시겠습니까?";
 
@@ -2630,6 +2663,9 @@
 "Voice-Over Voice" = "VoiceOver 음성";
 
 /* TODO */
+"VoIP" = "VoIP";
+
+/* TODO */
 "Volume" = "Volume";
 
 /* No comment provided by engineer. */
@@ -2778,6 +2814,12 @@
 
 /* No comment provided by engineer. */
 "You’ve pressed password." = "암호 확인을 선택하셨습니다.";
+
+/* TODO */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* TODO */
+"½ Audio CD" = "½ Audio CD";
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@”을(를) 사용할 수 없음";
