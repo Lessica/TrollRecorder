@@ -85,6 +85,9 @@
 /* No comment provided by engineer. */
 "Accept Incoming Calls" = "수신 통화 응답";
 
+/* TODO */
+"Access From Web Browser" = "Access From Web Browser";
+
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "네트워크에 있는 다른 기기의 WebDAV 브라우저를 통해 녹음에 접근합니다. 서버는 응용 프로그램이 포그라운드에 있을 때만 활성화됩니다.";
 
@@ -481,6 +484,9 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "연결된 클라이언트: %d";
 
+/* TODO */
+"Connecting" = "Connecting";
+
 /* No comment provided by engineer. */
 "Constants" = "상수";
 
@@ -574,6 +580,9 @@
 /* TODO */
 "daemon" = "daemon";
 
+/* TODO */
+"Daily Arranged" = "Daily Arranged";
+
 /* No comment provided by engineer. */
 "Date & Time" = "날짜 및 시간";
 
@@ -653,7 +662,19 @@
 "Disabled" = "끄기";
 
 /* TODO */
+"Disallow" = "Disallow";
+
+/* TODO */
+"Disallow Automatic Recording" = "Disallow Automatic Recording";
+
+/* TODO */
+"Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
+
+/* TODO */
 "Discard" = "Discard";
+
+/* TODO */
+"discard" = "discard";
 
 /* TODO */
 "Discard Changes" = "Discard Changes";
@@ -892,6 +913,9 @@
 /* No comment provided by engineer. */
 "File Size" = "파일 크기";
 
+/* TODO */
+"File System" = "File System";
+
 /* No comment provided by engineer. */
 "Filter" = "필터";
 
@@ -951,6 +975,9 @@
 
 /* No comment provided by engineer. */
 "Full Year" = "전체 연도";
+
+/* TODO */
+"Get ${requestedField}" = "Get ${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "통화 중 녹음하면서 바로 고급 제어 기능을 사용할 수 있습니다.";
@@ -1137,6 +1164,9 @@
 
 /* No comment provided by engineer. */
 "Is Finalizing" = "처리 중 여부";
+
+/* TODO */
+"Is Microphone Enabled" = "Is Microphone Enabled";
 
 /* No comment provided by engineer. */
 "Is Paused" = "일시 정지 여부";
@@ -1342,6 +1372,9 @@
 /* No comment provided by engineer. */
 "Month Number" = "월 (숫자)";
 
+/* TODO */
+"Monthly Arranged" = "Monthly Arranged";
+
 /* No comment provided by engineer. */
 "More icons, more innovation." = "더 많은 아이콘, 더 많은 혁신.";
 
@@ -1356,6 +1389,9 @@
 
 /* TODO */
 "mute" = "mute";
+
+/* TODO */
+"Mute ${requestedChannel}" = "Mute ${requestedChannel}";
 
 /* TODO */
 "Mute Existing Calls" = "Mute Existing Calls";
@@ -1447,8 +1483,14 @@
 /* No comment provided by engineer. */
 "Object Viewer" = "객체 뷰어";
 
+/* TODO */
+"Off" = "Off";
+
 /* No comment provided by engineer. */
 "OK" = "확인";
+
+/* TODO */
+"On" = "On";
 
 /* No comment provided by engineer. */
 "Oops!" = "작은 문제가 발생 했습니다.";
@@ -1739,6 +1781,9 @@
 "Recording will begin when the call is answered." = "통화에 응답하면 녹음이 시작됩니다.";
 
 /* No comment provided by engineer. */
+"Recording “%@” is in progress." = "Recording “%@” is in progress.";
+
+/* No comment provided by engineer. */
 "RECORDING_LOCALIZED" = "녹음";
 
 /* No comment provided by engineer. */
@@ -1866,6 +1911,9 @@
 
 /* No comment provided by engineer. */
 "Scene Identification" = "상황 인식";
+
+/* TODO */
+"screen" = "screen";
 
 /* No comment provided by engineer. */
 "Search" = "검색";
@@ -2047,17 +2095,26 @@
 /* TODO */
 "speaker" = "speaker";
 
+/* TODO */
+"Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+
 /* No comment provided by engineer. */
 "start" = "시작";
+
+/* TODO */
+"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
 "Start Date" = "시작일";
 
 /* TODO */
-"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Start or prepare for a call recording, system audio recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "녹음 시작";
+
+/* TODO */
+"Start Screen Recording" = "Start Screen Recording";
 
 /* No comment provided by engineer. */
 "status" = "상태";
@@ -2068,6 +2125,9 @@
 /* No comment provided by engineer. */
 "stop" = "중지";
 
+/* TODO */
+"Stop" = "Stop";
+
 /* No comment provided by engineer. */
 "Stop & Reset Service" = "서비스 중지 및 재설정";
 
@@ -2075,13 +2135,19 @@
 "Stop & Save" = "중지 및 저장";
 
 /* TODO */
-"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
+"Stop a call recording, system audio recording or voice memo if exists." = "Stop a call recording, system audio recording or voice memo if exists.";
+
+/* TODO */
+"Stop a system screen recording if exists." = "Stop a system screen recording if exists.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "녹음 중지";
 
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "공간 부족 시 녹음 중지";
+
+/* TODO */
+"Stop Screen Recording" = "Stop Screen Recording";
 
 /* No comment provided by engineer. */
 "Stop Service" = "서비스 중지";
@@ -2121,6 +2187,9 @@
 
 /* TODO */
 "System Language" = "System Language";
+
+/* TODO */
+"System Record" = "System Record";
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "__모든 가장자리__를 탭하여 \n___활성 가장자리___로 선택하세요.";
@@ -2360,6 +2429,9 @@
 "toggle" = "토글";
 
 /* TODO */
+"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+
+/* TODO */
 "Toggle Call Recording" = "Toggle Call Recording";
 
 /* No comment provided by engineer. */
@@ -2372,7 +2444,13 @@
 "Toggle Recording" = "녹음 시작/중지";
 
 /* TODO */
+"Toggle Screen Recording" = "Toggle Screen Recording";
+
+/* TODO */
 "Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* TODO */
+"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
 
 /* TODO */
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
@@ -2496,6 +2574,9 @@
 
 /* TODO */
 "unmute" = "unmute";
+
+/* TODO */
+"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
 
 /* TODO */
 "Unmute Existing Calls" = "Unmute Existing Calls";
@@ -2671,6 +2752,9 @@
 /* No comment provided by engineer. */
 "wait" = "대기";
 
+/* TODO */
+"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+
 /* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "전화가 응답되고 연결될 때까지 기다리세요.";
 
@@ -2694,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "우리는 움직이고 다채로운 배경을 좋아하지만 배경을 끌 수 있는 옵션도 제공합니다.";
+
+/* TODO */
+"WebDAV" = "WebDAV";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV 서버";
@@ -2736,6 +2823,9 @@
 
 /* TODO */
 "When there is no call…" = "When there is no call…";
+
+/* TODO */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
 /* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "%@의 공간이 부족하면 분리된 채널의 로컬 녹음이 업로드된 후 삭제됩니다.";

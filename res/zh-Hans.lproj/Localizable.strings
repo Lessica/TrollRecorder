@@ -86,6 +86,9 @@
 "Accept Incoming Calls" = "接听来电";
 
 /* No comment provided by engineer. */
+"Access From Web Browser" = "从浏览器访问";
+
+/* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "从网络中的另一台设备的 WebDAV 客户端中访问你的录音。仅当应用程序处于前台时服务可用。";
 
 /* No comment provided by engineer. */
@@ -482,6 +485,9 @@
 "Connected Clients: %d" = "已连接客户端：%d";
 
 /* No comment provided by engineer. */
+"Connecting" = "连接中";
+
+/* No comment provided by engineer. */
 "Constants" = "常量";
 
 /* No comment provided by engineer. */
@@ -575,6 +581,9 @@
 "daemon" = "守护进程";
 
 /* No comment provided by engineer. */
+"Daily Arranged" = "按天整理";
+
+/* No comment provided by engineer. */
 "Date & Time" = "日期和时间";
 
 /* No comment provided by engineer. */
@@ -653,7 +662,19 @@
 "Disabled" = "关闭";
 
 /* No comment provided by engineer. */
+"Disallow" = "不允许";
+
+/* No comment provided by engineer. */
+"Disallow Automatic Recording" = "不允许自动录音";
+
+/* No comment provided by engineer. */
+"Disallow Hoverball Wake-Ups" = "不允许唤醒悬浮球";
+
+/* No comment provided by engineer. */
 "Discard" = "丢弃";
+
+/* No comment provided by engineer. */
+"discard" = "丢弃";
 
 /* No comment provided by engineer. */
 "Discard Changes" = "放弃更改";
@@ -893,6 +914,9 @@
 "File Size" = "文件尺寸";
 
 /* No comment provided by engineer. */
+"File System" = "文件系统";
+
+/* No comment provided by engineer. */
 "Filter" = "过滤器";
 
 /* No comment provided by engineer. */
@@ -951,6 +975,9 @@
 
 /* No comment provided by engineer. */
 "Full Year" = "完整年份";
+
+/* No comment provided by engineer. */
+"Get ${requestedField}" = "获取 ${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "在通话中打开控制面板即可控制录制参数。";
@@ -1137,6 +1164,9 @@
 
 /* No comment provided by engineer. */
 "Is Finalizing" = "是否正在处理";
+
+/* No comment provided by engineer. */
+"Is Microphone Enabled" = "是否启用麦克风";
 
 /* No comment provided by engineer. */
 "Is Paused" = "是否已经暂停";
@@ -1343,6 +1373,9 @@
 "Month Number" = "月份";
 
 /* No comment provided by engineer. */
+"Monthly Arranged" = "按月整理";
+
+/* No comment provided by engineer. */
 "More icons, more innovation." = "多点图标，多点新意。";
 
 /* No comment provided by engineer. */
@@ -1356,6 +1389,9 @@
 
 /* No comment provided by engineer. */
 "mute" = "静音";
+
+/* No comment provided by engineer. */
+"Mute ${requestedChannel}" = "使 ${requestedChannel} 静音";
 
 /* No comment provided by engineer. */
 "Mute Existing Calls" = "静音现有通话";
@@ -1448,7 +1484,13 @@
 "Object Viewer" = "对象查看器";
 
 /* No comment provided by engineer. */
+"Off" = "禁用";
+
+/* No comment provided by engineer. */
 "OK" = "好";
+
+/* No comment provided by engineer. */
+"On" = "启用";
 
 /* No comment provided by engineer. */
 "Oops!" = "似乎出了一点小问题";
@@ -1739,6 +1781,9 @@
 "Recording will begin when the call is answered." = "即将于通话接通后开始录音。";
 
 /* No comment provided by engineer. */
+"Recording “%@” is in progress." = "“%@” 的录制正在进行中。";
+
+/* No comment provided by engineer. */
 "RECORDING_LOCALIZED" = "录音";
 
 /* No comment provided by engineer. */
@@ -1866,6 +1911,9 @@
 
 /* No comment provided by engineer. */
 "Scene Identification" = "通话场景识别";
+
+/* No comment provided by engineer. */
+"screen" = "屏幕";
 
 /* No comment provided by engineer. */
 "Search" = "搜索";
@@ -2048,16 +2096,25 @@
 "speaker" = "扬声器";
 
 /* No comment provided by engineer. */
+"Specified range from %@ to %@ is invalid." = "指定的范围从 %1$@ 到 %2$@ 是无效的。";
+
+/* No comment provided by engineer. */
 "start" = "开始";
+
+/* No comment provided by engineer. */
+"Start a system screen recording just like what you do in the Control Center." = "开始录制系统屏幕，就像你在控制中心中所做的那样。";
 
 /* No comment provided by engineer. */
 "Start Date" = "起始日期";
 
 /* No comment provided by engineer. */
-"Start or prepare for a call recording, or create an voice memo." = "开始或准备开始通话录音，或创建一个语音备忘录。";
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "开始或准备开始通话录音，开始系统音频录制，或创建一个语音备忘录。";
 
 /* No comment provided by engineer. */
 "Start Recording" = "开始录音";
+
+/* No comment provided by engineer. */
+"Start Screen Recording" = "开始屏幕录制";
 
 /* No comment provided by engineer. */
 "status" = "状态";
@@ -2069,19 +2126,28 @@
 "stop" = "停止";
 
 /* No comment provided by engineer. */
+"Stop" = "停止";
+
+/* No comment provided by engineer. */
 "Stop & Reset Service" = "停止服务并还原选项";
 
 /* No comment provided by engineer. */
 "Stop & Save" = "结束并保存";
 
 /* No comment provided by engineer. */
-"Stop a call recording or voice memo if exists." = "如果已存在一个录制中的通话录音或语音备忘录，则停止它。";
+"Stop a call recording, system audio recording or voice memo if exists." = "停止正在进行的通话录音，系统音频或语音备忘录的录制。";
+
+/* No comment provided by engineer. */
+"Stop a system screen recording if exists." = "停止正在进行的屏幕录制。";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "停止录音";
 
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "空间不足时停止录音";
+
+/* No comment provided by engineer. */
+"Stop Screen Recording" = "停止屏幕录制";
 
 /* No comment provided by engineer. */
 "Stop Service" = "停止服务";
@@ -2121,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "System Language" = "系统语言";
+
+/* No comment provided by engineer. */
+"System Record" = "系统录制";
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "轻按并选中 __任一边缘__，  \n使其进入 ___活跃状态___。";
@@ -2360,6 +2429,9 @@
 "toggle" = "toggle";
 
 /* No comment provided by engineer. */
+"Toggle ${requestedMode}" = "启停 ${requestedMode}";
+
+/* No comment provided by engineer. */
 "Toggle Call Recording" = "启停通话录音";
 
 /* No comment provided by engineer. */
@@ -2372,7 +2444,13 @@
 "Toggle Recording" = "启停录音";
 
 /* No comment provided by engineer. */
+"Toggle Screen Recording" = "启停屏幕录制";
+
+/* No comment provided by engineer. */
 "Toggle System Audio Recording" = "启停系统音频录制";
+
+/* No comment provided by engineer. */
+"Toggle system screen recording just like what you do in the Control Center." = "启动或停止系统屏幕录制，就像你在控制中心中所做的那样。";
 
 /* No comment provided by engineer. */
 "Toggle Voice Memo Recording" = "启停语音备忘录";
@@ -2496,6 +2574,9 @@
 
 /* No comment provided by engineer. */
 "unmute" = "取消静音";
+
+/* No comment provided by engineer. */
+"Unmute ${requestedChannel}" = "取消 ${requestedChannel} 静音";
 
 /* No comment provided by engineer. */
 "Unmute Existing Calls" = "取消静音现有通话";
@@ -2672,6 +2753,9 @@
 "wait" = "等待";
 
 /* No comment provided by engineer. */
+"Wait for ${requestedTimeout} seconds" = "等待 ${requestedTimeout} 秒";
+
+/* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "等待任意通话被接听并接通。";
 
 /* No comment provided by engineer. */
@@ -2694,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我们喜欢移动着的、多彩的背景，但是我们依然提供了选项让你来关闭它。";
+
+/* No comment provided by engineer. */
+"WebDAV" = "WebDAV";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV 服务器";
@@ -2736,6 +2823,9 @@
 
 /* No comment provided by engineer. */
 "When there is no call…" = "当没有通话时…";
+
+/* No comment provided by engineer. */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "启用 WebDAV 服务器后，是否允许你从 Safari、Chrome、Edge 等常见的网络浏览器访问。";
 
 /* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空间不足，分离通道的本地录音在上传后将被删除。";

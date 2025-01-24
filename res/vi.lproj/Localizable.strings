@@ -85,6 +85,9 @@
 /* TODO */
 "Accept Incoming Calls" = "Accept Incoming Calls";
 
+/* TODO */
+"Access From Web Browser" = "Access From Web Browser";
+
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Truy cập các bản ghi âm của bạn từ trình duyệt WebDAV từ một thiết bị khác trong mạng. Máy chủ chỉ hoạt động khi ứng dụng ở phía trước.";
 
@@ -482,6 +485,9 @@
 "Connected Clients: %d" = "Khách hàng được kết nối: %d";
 
 /* TODO */
+"Connecting" = "Connecting";
+
+/* TODO */
 "Constants" = "Constants";
 
 /* No comment provided by engineer. */
@@ -575,6 +581,9 @@
 "daemon" = "daemon";
 
 /* TODO */
+"Daily Arranged" = "Daily Arranged";
+
+/* TODO */
 "Date & Time" = "Date & Time";
 
 /* TODO */
@@ -653,7 +662,19 @@
 "Disabled" = "Disabled";
 
 /* TODO */
+"Disallow" = "Disallow";
+
+/* TODO */
+"Disallow Automatic Recording" = "Disallow Automatic Recording";
+
+/* TODO */
+"Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
+
+/* TODO */
 "Discard" = "Discard";
+
+/* TODO */
+"discard" = "discard";
 
 /* TODO */
 "Discard Changes" = "Discard Changes";
@@ -893,6 +914,9 @@
 "File Size" = "Kích thước tập tin";
 
 /* TODO */
+"File System" = "File System";
+
+/* TODO */
 "Filter" = "Filter";
 
 /* No comment provided by engineer. */
@@ -951,6 +975,9 @@
 
 /* TODO */
 "Full Year" = "Full Year";
+
+/* TODO */
+"Get ${requestedField}" = "Get ${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Nhận điều khiển nâng cao khi ghi âm ngay trong cuộc gọi của bạn.";
@@ -1137,6 +1164,9 @@
 
 /* TODO */
 "Is Finalizing" = "Is Finalizing";
+
+/* TODO */
+"Is Microphone Enabled" = "Is Microphone Enabled";
 
 /* TODO */
 "Is Paused" = "Is Paused";
@@ -1343,6 +1373,9 @@
 "Month Number" = "Month Number";
 
 /* TODO */
+"Monthly Arranged" = "Monthly Arranged";
+
+/* TODO */
 "More icons, more innovation." = "More icons, more innovation.";
 
 /* TODO */
@@ -1356,6 +1389,9 @@
 
 /* TODO */
 "mute" = "mute";
+
+/* TODO */
+"Mute ${requestedChannel}" = "Mute ${requestedChannel}";
 
 /* TODO */
 "Mute Existing Calls" = "Mute Existing Calls";
@@ -1447,8 +1483,14 @@
 /* TODO */
 "Object Viewer" = "Object Viewer";
 
+/* TODO */
+"Off" = "Off";
+
 /* No comment provided by engineer. */
 "OK" = "Được rồi";
+
+/* TODO */
+"On" = "On";
 
 /* No comment provided by engineer. */
 "Oops!" = "Rất tiếc!";
@@ -1738,6 +1780,9 @@
 /* TODO */
 "Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
+/* No comment provided by engineer. */
+"Recording “%@” is in progress." = "Recording “%@” is in progress.";
+
 /* TODO */
 "RECORDING_LOCALIZED" = "Recording";
 
@@ -1866,6 +1911,9 @@
 
 /* No comment provided by engineer. */
 "Scene Identification" = "Nhận dạng cảnh";
+
+/* TODO */
+"screen" = "screen";
 
 /* No comment provided by engineer. */
 "Search" = "Tìm kiếm";
@@ -2047,17 +2095,26 @@
 /* TODO */
 "speaker" = "speaker";
 
+/* TODO */
+"Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+
 /* No comment provided by engineer. */
 "start" = "bắt đầu";
+
+/* TODO */
+"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
 "Start Date" = "Ngày bắt đầu";
 
 /* TODO */
-"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Start or prepare for a call recording, system audio recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "Bắt đầu ghi âm";
+
+/* TODO */
+"Start Screen Recording" = "Start Screen Recording";
 
 /* TODO */
 "status" = "status";
@@ -2068,6 +2125,9 @@
 /* No comment provided by engineer. */
 "stop" = "dừng lại";
 
+/* TODO */
+"Stop" = "Stop";
+
 /* No comment provided by engineer. */
 "Stop & Reset Service" = "Dừng & Đặt lại Dịch vụ";
 
@@ -2075,13 +2135,19 @@
 "Stop & Save" = "Dừng lại & Lưu";
 
 /* TODO */
-"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
+"Stop a call recording, system audio recording or voice memo if exists." = "Stop a call recording, system audio recording or voice memo if exists.";
+
+/* TODO */
+"Stop a system screen recording if exists." = "Stop a system screen recording if exists.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "Dừng Ghi Âm";
 
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "Dừng Ghi Âm Khi Đĩa Hết";
+
+/* TODO */
+"Stop Screen Recording" = "Stop Screen Recording";
 
 /* No comment provided by engineer. */
 "Stop Service" = "Dừng dịch vụ";
@@ -2121,6 +2187,9 @@
 
 /* TODO */
 "System Language" = "System Language";
+
+/* TODO */
+"System Record" = "System Record";
 
 /* TODO */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
@@ -2360,6 +2429,9 @@
 "toggle" = "bật/tắt";
 
 /* TODO */
+"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+
+/* TODO */
 "Toggle Call Recording" = "Toggle Call Recording";
 
 /* No comment provided by engineer. */
@@ -2372,7 +2444,13 @@
 "Toggle Recording" = "Bật tắt ghi âm";
 
 /* TODO */
+"Toggle Screen Recording" = "Toggle Screen Recording";
+
+/* TODO */
 "Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* TODO */
+"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
 
 /* TODO */
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
@@ -2496,6 +2574,9 @@
 
 /* TODO */
 "unmute" = "unmute";
+
+/* TODO */
+"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
 
 /* TODO */
 "Unmute Existing Calls" = "Unmute Existing Calls";
@@ -2672,6 +2753,9 @@
 "wait" = "wait";
 
 /* TODO */
+"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+
+/* TODO */
 "Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
 
 /* TODO */
@@ -2694,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Chúng tôi thích những hình nền đầy màu sắc và chuyển động, nhưng hãy chọn ở đây để bạn vô hiệu hóa nó.";
+
+/* TODO */
+"WebDAV" = "WebDAV";
 
 /* TODO */
 "WebDAV Server" = "WebDAV Server";
@@ -2736,6 +2823,9 @@
 
 /* TODO */
 "When there is no call…" = "When there is no call…";
+
+/* TODO */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
 /* TODO */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded.";

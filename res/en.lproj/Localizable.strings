@@ -86,6 +86,9 @@
 "Accept Incoming Calls" = "Accept Incoming Calls";
 
 /* No comment provided by engineer. */
+"Access From Web Browser" = "Access From Web Browser";
+
+/* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground.";
 
 /* No comment provided by engineer. */
@@ -482,6 +485,9 @@
 "Connected Clients: %d" = "Connected Clients: %d";
 
 /* No comment provided by engineer. */
+"Connecting" = "Connecting";
+
+/* No comment provided by engineer. */
 "Constants" = "Constants";
 
 /* No comment provided by engineer. */
@@ -575,6 +581,9 @@
 "daemon" = "daemon";
 
 /* No comment provided by engineer. */
+"Daily Arranged" = "Daily Arranged";
+
+/* No comment provided by engineer. */
 "Date & Time" = "Date & Time";
 
 /* No comment provided by engineer. */
@@ -653,7 +662,19 @@
 "Disabled" = "Disabled";
 
 /* No comment provided by engineer. */
+"Disallow" = "Disallow";
+
+/* No comment provided by engineer. */
+"Disallow Automatic Recording" = "Disallow Automatic Recording";
+
+/* No comment provided by engineer. */
+"Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
+
+/* No comment provided by engineer. */
 "Discard" = "Discard";
+
+/* No comment provided by engineer. */
+"discard" = "discard";
 
 /* No comment provided by engineer. */
 "Discard Changes" = "Discard Changes";
@@ -893,6 +914,9 @@
 "File Size" = "File Size";
 
 /* No comment provided by engineer. */
+"File System" = "File System";
+
+/* No comment provided by engineer. */
 "Filter" = "Filter";
 
 /* No comment provided by engineer. */
@@ -951,6 +975,9 @@
 
 /* No comment provided by engineer. */
 "Full Year" = "Full Year";
+
+/* No comment provided by engineer. */
+"Get ${requestedField}" = "Get ${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Get advanced control when recording right in your call.";
@@ -1137,6 +1164,9 @@
 
 /* No comment provided by engineer. */
 "Is Finalizing" = "Is Finalizing";
+
+/* No comment provided by engineer. */
+"Is Microphone Enabled" = "Is Microphone Enabled";
 
 /* No comment provided by engineer. */
 "Is Paused" = "Is Paused";
@@ -1343,6 +1373,9 @@
 "Month Number" = "Month Number";
 
 /* No comment provided by engineer. */
+"Monthly Arranged" = "Monthly Arranged";
+
+/* No comment provided by engineer. */
 "More icons, more innovation." = "More icons, more innovation.";
 
 /* No comment provided by engineer. */
@@ -1356,6 +1389,9 @@
 
 /* No comment provided by engineer. */
 "mute" = "mute";
+
+/* No comment provided by engineer. */
+"Mute ${requestedChannel}" = "Mute ${requestedChannel}";
 
 /* No comment provided by engineer. */
 "Mute Existing Calls" = "Mute Existing Calls";
@@ -1448,7 +1484,13 @@
 "Object Viewer" = "Object Viewer";
 
 /* No comment provided by engineer. */
+"Off" = "Off";
+
+/* No comment provided by engineer. */
 "OK" = "OK";
+
+/* No comment provided by engineer. */
+"On" = "On";
 
 /* No comment provided by engineer. */
 "Oops!" = "Oops!";
@@ -1739,6 +1781,9 @@
 "Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* No comment provided by engineer. */
+"Recording “%@” is in progress." = "Recording “%@” is in progress.";
+
+/* No comment provided by engineer. */
 "RECORDING_LOCALIZED" = "Recording";
 
 /* No comment provided by engineer. */
@@ -1866,6 +1911,9 @@
 
 /* No comment provided by engineer. */
 "Scene Identification" = "Scene Identification";
+
+/* No comment provided by engineer. */
+"screen" = "screen";
 
 /* No comment provided by engineer. */
 "Search" = "Search";
@@ -2048,16 +2096,25 @@
 "speaker" = "speaker";
 
 /* No comment provided by engineer. */
+"Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+
+/* No comment provided by engineer. */
 "start" = "start";
+
+/* No comment provided by engineer. */
+"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
 "Start Date" = "Start Date";
 
 /* No comment provided by engineer. */
-"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Start or prepare for a call recording, system audio recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "Start Recording";
+
+/* No comment provided by engineer. */
+"Start Screen Recording" = "Start Screen Recording";
 
 /* No comment provided by engineer. */
 "status" = "status";
@@ -2069,19 +2126,28 @@
 "stop" = "stop";
 
 /* No comment provided by engineer. */
+"Stop" = "Stop";
+
+/* No comment provided by engineer. */
 "Stop & Reset Service" = "Stop & Reset Service";
 
 /* No comment provided by engineer. */
 "Stop & Save" = "Stop & Save";
 
 /* No comment provided by engineer. */
-"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
+"Stop a call recording, system audio recording or voice memo if exists." = "Stop a call recording, system audio recording or voice memo if exists.";
+
+/* No comment provided by engineer. */
+"Stop a system screen recording if exists." = "Stop a system screen recording if exists.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "Stop Recording";
 
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "Stop Recording When Disk Exhausted";
+
+/* No comment provided by engineer. */
+"Stop Screen Recording" = "Stop Screen Recording";
 
 /* No comment provided by engineer. */
 "Stop Service" = "Stop Service";
@@ -2121,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "System Language" = "System Language";
+
+/* No comment provided by engineer. */
+"System Record" = "System Record";
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
@@ -2360,6 +2429,9 @@
 "toggle" = "toggle";
 
 /* No comment provided by engineer. */
+"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+
+/* No comment provided by engineer. */
 "Toggle Call Recording" = "Toggle Call Recording";
 
 /* No comment provided by engineer. */
@@ -2372,7 +2444,13 @@
 "Toggle Recording" = "Toggle Recording";
 
 /* No comment provided by engineer. */
+"Toggle Screen Recording" = "Toggle Screen Recording";
+
+/* No comment provided by engineer. */
 "Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* No comment provided by engineer. */
+"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
@@ -2496,6 +2574,9 @@
 
 /* No comment provided by engineer. */
 "unmute" = "unmute";
+
+/* No comment provided by engineer. */
+"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
 
 /* No comment provided by engineer. */
 "Unmute Existing Calls" = "Unmute Existing Calls";
@@ -2672,6 +2753,9 @@
 "wait" = "wait";
 
 /* No comment provided by engineer. */
+"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+
+/* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
 
 /* No comment provided by engineer. */
@@ -2694,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "We love colorful and moving backgrounds, but option here for you to disable it.";
+
+/* No comment provided by engineer. */
+"WebDAV" = "WebDAV";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV Server";
@@ -2736,6 +2823,9 @@
 
 /* No comment provided by engineer. */
 "When there is no call…" = "When there is no call…";
+
+/* No comment provided by engineer. */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
 /* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded.";

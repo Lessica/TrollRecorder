@@ -85,6 +85,9 @@
 /* Translated with Microsoft Translator */
 "Accept Incoming Calls" = "Aceptar llamadas entrantes";
 
+/* TODO */
+"Access From Web Browser" = "Access From Web Browser";
+
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Accede a tus grabaciones desde un navegador WebDAV de otro dispositivo en la red. El servidor está activo sólo cuando la aplicación está en primer plano.";
 
@@ -481,6 +484,9 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Clientes conectados: %d";
 
+/* TODO */
+"Connecting" = "Connecting";
+
 /* Translated with Microsoft Translator */
 "Constants" = "Constantes";
 
@@ -574,6 +580,9 @@
 /* TODO */
 "daemon" = "daemon";
 
+/* TODO */
+"Daily Arranged" = "Daily Arranged";
+
 /* Translated with Microsoft Translator */
 "Date & Time" = "Fecha y hora";
 
@@ -653,7 +662,19 @@
 "Disabled" = "Discapacitados";
 
 /* TODO */
+"Disallow" = "Disallow";
+
+/* TODO */
+"Disallow Automatic Recording" = "Disallow Automatic Recording";
+
+/* TODO */
+"Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
+
+/* TODO */
 "Discard" = "Discard";
+
+/* TODO */
+"discard" = "discard";
 
 /* TODO */
 "Discard Changes" = "Discard Changes";
@@ -892,6 +913,9 @@
 /* No comment provided by engineer. */
 "File Size" = "Tamaño de archivo";
 
+/* TODO */
+"File System" = "File System";
+
 /* Translated with Microsoft Translator */
 "Filter" = "Filtro";
 
@@ -951,6 +975,9 @@
 
 /* Translated with Microsoft Translator */
 "Full Year" = "Año completo";
+
+/* TODO */
+"Get ${requestedField}" = "Get ${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Consigue un control avanzado al grabar directamente en tu llamada.";
@@ -1137,6 +1164,9 @@
 
 /* Translated with Microsoft Translator */
 "Is Finalizing" = "Está finalizando";
+
+/* TODO */
+"Is Microphone Enabled" = "Is Microphone Enabled";
 
 /* Translated with Microsoft Translator */
 "Is Paused" = "Está en pausa";
@@ -1342,6 +1372,9 @@
 /* Translated with Microsoft Translator */
 "Month Number" = "Mes Número";
 
+/* TODO */
+"Monthly Arranged" = "Monthly Arranged";
+
 /* Translated with Microsoft Translator */
 "More icons, more innovation." = "Más iconos, más innovación.";
 
@@ -1356,6 +1389,9 @@
 
 /* TODO */
 "mute" = "mute";
+
+/* TODO */
+"Mute ${requestedChannel}" = "Mute ${requestedChannel}";
 
 /* TODO */
 "Mute Existing Calls" = "Mute Existing Calls";
@@ -1447,8 +1483,14 @@
 /* Translated with Microsoft Translator */
 "Object Viewer" = "Visor de objetos";
 
+/* TODO */
+"Off" = "Off";
+
 /* No comment provided by engineer. */
 "OK" = "Aceptar";
+
+/* TODO */
+"On" = "On";
 
 /* No comment provided by engineer. */
 "Oops!" = "¡Vaya!";
@@ -1738,6 +1780,9 @@
 /* Translated with Microsoft Translator */
 "Recording will begin when the call is answered." = "La grabación comenzará cuando se conteste la llamada.";
 
+/* No comment provided by engineer. */
+"Recording “%@” is in progress." = "Recording “%@” is in progress.";
+
 /* Translated with Microsoft Translator */
 "RECORDING_LOCALIZED" = "Grabación";
 
@@ -1866,6 +1911,9 @@
 
 /* No comment provided by engineer. */
 "Scene Identification" = "Identificación de Escena";
+
+/* TODO */
+"screen" = "screen";
 
 /* No comment provided by engineer. */
 "Search" = "Búsqueda";
@@ -2047,17 +2095,26 @@
 /* TODO */
 "speaker" = "speaker";
 
+/* TODO */
+"Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+
 /* No comment provided by engineer. */
 "start" = "iniciar";
+
+/* TODO */
+"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
 "Start Date" = "Fecha de inicio";
 
 /* TODO */
-"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Start or prepare for a call recording, system audio recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "Iniciar grabación";
+
+/* TODO */
+"Start Screen Recording" = "Start Screen Recording";
 
 /* Translated with Microsoft Translator */
 "status" = "estado";
@@ -2068,6 +2125,9 @@
 /* No comment provided by engineer. */
 "stop" = "detener";
 
+/* TODO */
+"Stop" = "Stop";
+
 /* No comment provided by engineer. */
 "Stop & Reset Service" = "Detener y restablecer el servicio";
 
@@ -2075,13 +2135,19 @@
 "Stop & Save" = "Detener y guardar";
 
 /* TODO */
-"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
+"Stop a call recording, system audio recording or voice memo if exists." = "Stop a call recording, system audio recording or voice memo if exists.";
+
+/* TODO */
+"Stop a system screen recording if exists." = "Stop a system screen recording if exists.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "Detener grabación";
 
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "Detener grabación cuando el disco esté lleno";
+
+/* TODO */
+"Stop Screen Recording" = "Stop Screen Recording";
 
 /* No comment provided by engineer. */
 "Stop Service" = "Detener servicio";
@@ -2121,6 +2187,9 @@
 
 /* TODO */
 "System Language" = "System Language";
+
+/* TODO */
+"System Record" = "System Record";
 
 /* Translated with Microsoft Translator */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Toque __cualquier borde__  \npara seleccionarlo como ___borde activo___.";
@@ -2360,6 +2429,9 @@
 "toggle" = "alternar";
 
 /* TODO */
+"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+
+/* TODO */
 "Toggle Call Recording" = "Toggle Call Recording";
 
 /* No comment provided by engineer. */
@@ -2372,7 +2444,13 @@
 "Toggle Recording" = "Activar/desactivar grabación";
 
 /* TODO */
+"Toggle Screen Recording" = "Toggle Screen Recording";
+
+/* TODO */
 "Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* TODO */
+"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
 
 /* TODO */
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
@@ -2496,6 +2574,9 @@
 
 /* TODO */
 "unmute" = "unmute";
+
+/* TODO */
+"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
 
 /* TODO */
 "Unmute Existing Calls" = "Unmute Existing Calls";
@@ -2671,6 +2752,9 @@
 /* Translated with Microsoft Translator */
 "wait" = "espere";
 
+/* TODO */
+"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+
 /* Translated with Microsoft Translator */
 "Wait for any calls to be answered and connected." = "Espere a que las llamadas sean contestadas y conectadas.";
 
@@ -2694,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Nos encantan los fondos coloridos y en movimiento, pero aquí tienes la opción de desactivarlos.";
+
+/* TODO */
+"WebDAV" = "WebDAV";
 
 /* Translated with Microsoft Translator */
 "WebDAV Server" = "Servidor WebDAV";
@@ -2736,6 +2823,9 @@
 
 /* TODO */
 "When there is no call…" = "When there is no call…";
+
+/* TODO */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
 /* Translated with Microsoft Translator */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "Cuando tu %@ tenga poco espacio, las grabaciones locales de los canales separados se eliminarán una vez cargadas.";

@@ -85,6 +85,9 @@
 /* No comment provided by engineer. */
 "Accept Incoming Calls" = "接聽來電";
 
+/* TODO */
+"Access From Web Browser" = "Access From Web Browser";
+
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺裝置的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前景時服務可用。";
 
@@ -481,6 +484,9 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連線客戶端：%d";
 
+/* TODO */
+"Connecting" = "Connecting";
+
 /* No comment provided by engineer. */
 "Constants" = "常量";
 
@@ -574,6 +580,9 @@
 /* No comment provided by engineer. */
 "daemon" = "守護進程";
 
+/* TODO */
+"Daily Arranged" = "Daily Arranged";
+
 /* No comment provided by engineer. */
 "Date & Time" = "日期與時間";
 
@@ -653,7 +662,19 @@
 "Disabled" = "關閉";
 
 /* TODO */
+"Disallow" = "Disallow";
+
+/* TODO */
+"Disallow Automatic Recording" = "Disallow Automatic Recording";
+
+/* TODO */
+"Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
+
+/* TODO */
 "Discard" = "Discard";
+
+/* TODO */
+"discard" = "discard";
 
 /* TODO */
 "Discard Changes" = "Discard Changes";
@@ -892,6 +913,9 @@
 /* No comment provided by engineer. */
 "File Size" = "檔案大小";
 
+/* TODO */
+"File System" = "File System";
+
 /* No comment provided by engineer. */
 "Filter" = "過濾器";
 
@@ -951,6 +975,9 @@
 
 /* No comment provided by engineer. */
 "Full Year" = "完整年份";
+
+/* TODO */
+"Get ${requestedField}" = "Get ${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "在通話中打開控制面板即可控制錄製參數。";
@@ -1137,6 +1164,9 @@
 
 /* No comment provided by engineer. */
 "Is Finalizing" = "是否正在處理";
+
+/* TODO */
+"Is Microphone Enabled" = "Is Microphone Enabled";
 
 /* No comment provided by engineer. */
 "Is Paused" = "是否已經暫停";
@@ -1342,6 +1372,9 @@
 /* No comment provided by engineer. */
 "Month Number" = "月份";
 
+/* TODO */
+"Monthly Arranged" = "Monthly Arranged";
+
 /* No comment provided by engineer. */
 "More icons, more innovation." = "多點圖標，多點新意。";
 
@@ -1356,6 +1389,9 @@
 
 /* No comment provided by engineer. */
 "mute" = "靜音";
+
+/* TODO */
+"Mute ${requestedChannel}" = "Mute ${requestedChannel}";
 
 /* No comment provided by engineer. */
 "Mute Existing Calls" = "靜音現有通話";
@@ -1447,8 +1483,14 @@
 /* No comment provided by engineer. */
 "Object Viewer" = "對象檢視器";
 
+/* TODO */
+"Off" = "Off";
+
 /* No comment provided by engineer. */
 "OK" = "確認";
+
+/* TODO */
+"On" = "On";
 
 /* No comment provided by engineer. */
 "Oops!" = "似乎出了一點小問題";
@@ -1739,6 +1781,9 @@
 "Recording will begin when the call is answered." = "即將于通話接通後開始錄音。";
 
 /* No comment provided by engineer. */
+"Recording “%@” is in progress." = "Recording “%@” is in progress.";
+
+/* No comment provided by engineer. */
 "RECORDING_LOCALIZED" = "錄音";
 
 /* No comment provided by engineer. */
@@ -1866,6 +1911,9 @@
 
 /* No comment provided by engineer. */
 "Scene Identification" = "通話場景識別";
+
+/* TODO */
+"screen" = "screen";
 
 /* No comment provided by engineer. */
 "Search" = "搜尋";
@@ -2047,17 +2095,26 @@
 /* No comment provided by engineer. */
 "speaker" = "揚聲器";
 
+/* TODO */
+"Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+
 /* No comment provided by engineer. */
 "start" = "開始";
+
+/* TODO */
+"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
 "Start Date" = "起始日期";
 
 /* TODO */
-"Start or prepare for a call recording, or create an voice memo." = "Start or prepare for a call recording, or create an voice memo.";
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Start or prepare for a call recording, system audio recording, or create an voice memo.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "開始錄音";
+
+/* TODO */
+"Start Screen Recording" = "Start Screen Recording";
 
 /* No comment provided by engineer. */
 "status" = "狀態";
@@ -2068,6 +2125,9 @@
 /* No comment provided by engineer. */
 "stop" = "停止";
 
+/* TODO */
+"Stop" = "Stop";
+
 /* No comment provided by engineer. */
 "Stop & Reset Service" = "停止服務並還原選項";
 
@@ -2075,13 +2135,19 @@
 "Stop & Save" = "結束并保存";
 
 /* TODO */
-"Stop a call recording or voice memo if exists." = "Stop a call recording or voice memo if exists.";
+"Stop a call recording, system audio recording or voice memo if exists." = "Stop a call recording, system audio recording or voice memo if exists.";
+
+/* TODO */
+"Stop a system screen recording if exists." = "Stop a system screen recording if exists.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "停止錄音";
 
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "磁碟空間不足時停止錄音";
+
+/* TODO */
+"Stop Screen Recording" = "Stop Screen Recording";
 
 /* No comment provided by engineer. */
 "Stop Service" = "停止服務";
@@ -2121,6 +2187,9 @@
 
 /* TODO */
 "System Language" = "System Language";
+
+/* TODO */
+"System Record" = "System Record";
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "輕觸並選中 __任一邊緣__，  \n使其進入 ___活躍狀態___。";
@@ -2360,6 +2429,9 @@
 "toggle" = "toggle";
 
 /* TODO */
+"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+
+/* TODO */
 "Toggle Call Recording" = "Toggle Call Recording";
 
 /* No comment provided by engineer. */
@@ -2372,7 +2444,13 @@
 "Toggle Recording" = "開始/停止錄音";
 
 /* TODO */
+"Toggle Screen Recording" = "Toggle Screen Recording";
+
+/* TODO */
 "Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* TODO */
+"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
 
 /* TODO */
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
@@ -2496,6 +2574,9 @@
 
 /* No comment provided by engineer. */
 "unmute" = "取消靜音";
+
+/* TODO */
+"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
 
 /* No comment provided by engineer. */
 "Unmute Existing Calls" = "取消靜音現有通話";
@@ -2671,6 +2752,9 @@
 /* No comment provided by engineer. */
 "wait" = "等待";
 
+/* TODO */
+"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+
 /* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "等待任意通話被接聽並接通。";
 
@@ -2694,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我們喜歡移動著的、多彩的背景，但是我們依然提供了選項讓你來關閉它。";
+
+/* TODO */
+"WebDAV" = "WebDAV";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV 伺服器";
@@ -2736,6 +2823,9 @@
 
 /* TODO */
 "When there is no call…" = "When there is no call…";
+
+/* TODO */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
 /* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空間不足，分離通道上的本地錄音在上載後將被刪除。";
