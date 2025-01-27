@@ -311,7 +311,7 @@
 "Backup Synchronized" = "Backup Synchronized";
 
 /* No comment provided by engineer. */
-"Backup with iCloud" = "Backup with iCloud";
+"Backup With iCloud" = "Backup With iCloud";
 
 /* No comment provided by engineer. */
 "Batch Export" = "Batch Export";
@@ -444,6 +444,9 @@
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "Clean Caches Automatically";
+
+/* No comment provided by engineer. */
+"Clear" = "Clear";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Clear Selection";
@@ -900,6 +903,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Failed to remove: %@";
+
+/* No comment provided by engineer. */
+"Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
 
 /* No comment provided by engineer. */
 "Features Unlocked" = "Features Unlocked";
@@ -1454,6 +1460,9 @@
 "None" = "None";
 
 /* No comment provided by engineer. */
+"Not Implemented" = "Not Implemented";
+
+/* No comment provided by engineer. */
 "Not My Favourite" = "Not My Favourite";
 
 /* No comment provided by engineer. */
@@ -1851,6 +1860,9 @@
 
 /* No comment provided by engineer. */
 "Restore" = "Restore";
+
+/* No comment provided by engineer. */
+"Restore %d Items From Recycle Bin" = "Restore %d Items From Recycle Bin";
 
 /* No comment provided by engineer. */
 "Restore Selected %ld Items" = "Restore Selected %ld Items";

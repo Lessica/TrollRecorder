@@ -311,7 +311,7 @@
 "Backup Synchronized" = "백업 동기화";
 
 /* No comment provided by engineer. */
-"Backup with iCloud" = "iCloud로 백업";
+"Backup With iCloud" = "iCloud로 백업";
 
 /* No comment provided by engineer. */
 "Batch Export" = "일괄 내보내기";
@@ -444,6 +444,9 @@
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "자동으로 캐시 지우기";
+
+/* TODO */
+"Clear" = "Clear";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "필터 지우기";
@@ -900,6 +903,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "삭제 실패: %@";
+
+/* TODO */
+"Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
 
 /* No comment provided by engineer. */
 "Features Unlocked" = "기능 잠금 해제";
@@ -1453,6 +1459,9 @@
 /* No comment provided by engineer. */
 "None" = "끄기";
 
+/* TODO */
+"Not Implemented" = "Not Implemented";
+
 /* No comment provided by engineer. */
 "Not My Favourite" = "즐겨찾기 아님";
 
@@ -1851,6 +1860,9 @@
 
 /* No comment provided by engineer. */
 "Restore" = "복원";
+
+/* TODO */
+"Restore %d Items From Recycle Bin" = "Restore %d Items From Recycle Bin";
 
 /* No comment provided by engineer. */
 "Restore Selected %ld Items" = "선택한 %ld개 항목 복원";

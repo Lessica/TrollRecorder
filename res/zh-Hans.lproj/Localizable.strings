@@ -311,7 +311,7 @@
 "Backup Synchronized" = "备份同步结束时";
 
 /* No comment provided by engineer. */
-"Backup with iCloud" = "通过 iCloud 备份";
+"Backup With iCloud" = "通过 iCloud 备份";
 
 /* No comment provided by engineer. */
 "Batch Export" = "批量导出";
@@ -444,6 +444,9 @@
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "自动清理缓存";
+
+/* No comment provided by engineer. */
+"Clear" = "清空";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "清除筛选项";
@@ -900,6 +903,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "删除失败：%@";
+
+/* No comment provided by engineer. */
+"Features on this page are under active development, hang tight!" = "此页面上所示的功能仍在积极开发中，敬请期待！";
 
 /* No comment provided by engineer. */
 "Features Unlocked" = "功能已解锁";
@@ -1454,6 +1460,9 @@
 "None" = "无";
 
 /* No comment provided by engineer. */
+"Not Implemented" = "尚未实现";
+
+/* No comment provided by engineer. */
 "Not My Favourite" = "未收藏";
 
 /* No comment provided by engineer. */
@@ -1851,6 +1860,9 @@
 
 /* No comment provided by engineer. */
 "Restore" = "恢复";
+
+/* No comment provided by engineer. */
+"Restore %d Items From Recycle Bin" = "从回收站恢复 %d 条已删除项";
 
 /* No comment provided by engineer. */
 "Restore Selected %ld Items" = "恢复选中的 %ld 项";
