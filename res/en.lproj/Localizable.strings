@@ -488,9 +488,6 @@
 "Connected Clients: %d" = "Connected Clients: %d";
 
 /* No comment provided by engineer. */
-"Connecting" = "Connecting";
-
-/* No comment provided by engineer. */
 "Constants" = "Constants";
 
 /* No comment provided by engineer. */
@@ -809,6 +806,9 @@
 "Enable Face ID" = "Enable Face ID";
 
 /* No comment provided by engineer. */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+
+/* No comment provided by engineer. */
 "Enable Logging" = "Enable Logging";
 
 /* No comment provided by engineer. */
@@ -1032,6 +1032,9 @@
 
 /* No comment provided by engineer. */
 "Group Call" = "Group Call";
+
+/* No comment provided by engineer. */
+"Hide Hoverball" = "Hide Hoverball";
 
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
@@ -1787,6 +1790,9 @@
 "Recording Type" = "Recording Type";
 
 /* No comment provided by engineer. */
+"Recording Type Description" = "Recording Type Description";
+
+/* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* No comment provided by engineer. */
@@ -2042,6 +2048,9 @@
 "Show Contact Names" = "Show Contact Names";
 
 /* No comment provided by engineer. */
+"Show Hoverball" = "Show Hoverball";
+
+/* No comment provided by engineer. */
 "Show Notification" = "Show Notification";
 
 /* No comment provided by engineer. */
@@ -2099,6 +2108,9 @@
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code.";
 
 /* No comment provided by engineer. */
+"Sound Level Meter" = "Sound Level Meter";
+
+/* No comment provided by engineer. */
 "Space" = "Space";
 
 /* No comment provided by engineer. */
@@ -2117,6 +2129,9 @@
 "Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
+"Start Call Recording" = "Start Call Recording";
+
+/* No comment provided by engineer. */
 "Start Date" = "Start Date";
 
 /* No comment provided by engineer. */
@@ -2127,6 +2142,12 @@
 
 /* No comment provided by engineer. */
 "Start Screen Recording" = "Start Screen Recording";
+
+/* No comment provided by engineer. */
+"Start System Audio Recording" = "Start System Audio Recording";
+
+/* No comment provided by engineer. */
+"Start Voice Memo Recording" = "Start Voice Memo Recording";
 
 /* No comment provided by engineer. */
 "status" = "status";
@@ -2574,6 +2595,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Sender" = "Unknown Sender";
+
+/* No comment provided by engineer. */
+"Unknown Type" = "Unknown Type";
 
 /* No comment provided by engineer. */
 "Unknown Variant" = "Unknown Variant";

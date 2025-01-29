@@ -488,9 +488,6 @@
 "Connected Clients: %d" = "Khách hàng được kết nối: %d";
 
 /* TODO */
-"Connecting" = "Connecting";
-
-/* TODO */
 "Constants" = "Constants";
 
 /* No comment provided by engineer. */
@@ -809,6 +806,9 @@
 "Enable Face ID" = "Enable Face ID";
 
 /* TODO */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+
+/* TODO */
 "Enable Logging" = "Enable Logging";
 
 /* TODO */
@@ -1032,6 +1032,9 @@
 
 /* TODO */
 "Group Call" = "Group Call";
+
+/* TODO */
+"Hide Hoverball" = "Hide Hoverball";
 
 /* TODO */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
@@ -1787,6 +1790,9 @@
 "Recording Type" = "Recording Type";
 
 /* TODO */
+"Recording Type Description" = "Recording Type Description";
+
+/* TODO */
 "Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
 
 /* No comment provided by engineer. */
@@ -2042,6 +2048,9 @@
 "Show Contact Names" = "Hiển thị tên liên hệ";
 
 /* TODO */
+"Show Hoverball" = "Show Hoverball";
+
+/* TODO */
 "Show Notification" = "Show Notification";
 
 /* TODO */
@@ -2099,6 +2108,9 @@
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code.";
 
 /* TODO */
+"Sound Level Meter" = "Sound Level Meter";
+
+/* TODO */
 "Space" = "Space";
 
 /* No comment provided by engineer. */
@@ -2116,6 +2128,9 @@
 /* TODO */
 "Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
+/* TODO */
+"Start Call Recording" = "Start Call Recording";
+
 /* No comment provided by engineer. */
 "Start Date" = "Ngày bắt đầu";
 
@@ -2127,6 +2142,12 @@
 
 /* TODO */
 "Start Screen Recording" = "Start Screen Recording";
+
+/* TODO */
+"Start System Audio Recording" = "Start System Audio Recording";
+
+/* TODO */
+"Start Voice Memo Recording" = "Start Voice Memo Recording";
 
 /* TODO */
 "status" = "status";
@@ -2574,6 +2595,9 @@
 
 /* TODO */
 "Unknown Sender" = "Unknown Sender";
+
+/* TODO */
+"Unknown Type" = "Unknown Type";
 
 /* TODO */
 "Unknown Variant" = "Unknown Variant";

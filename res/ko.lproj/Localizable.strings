@@ -487,9 +487,6 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "연결된 클라이언트: %d";
 
-/* TODO */
-"Connecting" = "Connecting";
-
 /* No comment provided by engineer. */
 "Constants" = "상수";
 
@@ -808,6 +805,9 @@
 /* No comment provided by engineer. */
 "Enable Face ID" = "Face ID 활성화";
 
+/* TODO */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+
 /* No comment provided by engineer. */
 "Enable Logging" = "로깅 활성화";
 
@@ -1032,6 +1032,9 @@
 
 /* TODO */
 "Group Call" = "Group Call";
+
+/* TODO */
+"Hide Hoverball" = "Hide Hoverball";
 
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "잠금 화면에서 “음성 메모” 앱을 숨기고 “Dynamic Island” 활동을 숨깁니다. 이 기능을 적용하려면 리스프링이 필요할 수 있습니다.";
@@ -1786,6 +1789,9 @@
 /* TODO */
 "Recording Type" = "Recording Type";
 
+/* TODO */
+"Recording Type Description" = "Recording Type Description";
+
 /* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "통화에 응답하면 녹음이 시작됩니다.";
 
@@ -2042,6 +2048,9 @@
 "Show Contact Names" = "연락처 이름 표시";
 
 /* TODO */
+"Show Hoverball" = "Show Hoverball";
+
+/* TODO */
 "Show Notification" = "Show Notification";
 
 /* TODO */
@@ -2098,6 +2107,9 @@
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "뭔가 문제가 발생하여 라이센스를 확인할 수 없습니다. “내 계정 보기”를 탭하여 주문, 구매 내역을 확인하거나 선물코드를 등록하세요.";
 
+/* TODO */
+"Sound Level Meter" = "Sound Level Meter";
+
 /* No comment provided by engineer. */
 "Space" = "공백";
 
@@ -2116,6 +2128,9 @@
 /* TODO */
 "Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
+/* TODO */
+"Start Call Recording" = "Start Call Recording";
+
 /* No comment provided by engineer. */
 "Start Date" = "시작일";
 
@@ -2127,6 +2142,12 @@
 
 /* TODO */
 "Start Screen Recording" = "Start Screen Recording";
+
+/* TODO */
+"Start System Audio Recording" = "Start System Audio Recording";
+
+/* TODO */
+"Start Voice Memo Recording" = "Start Voice Memo Recording";
 
 /* No comment provided by engineer. */
 "status" = "상태";
@@ -2574,6 +2595,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Sender" = "알 수 없는 발신자";
+
+/* TODO */
+"Unknown Type" = "Unknown Type";
 
 /* No comment provided by engineer. */
 "Unknown Variant" = "알 수 없는 변조";

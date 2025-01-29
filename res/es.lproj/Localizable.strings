@@ -487,9 +487,6 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Clientes conectados: %d";
 
-/* TODO */
-"Connecting" = "Connecting";
-
 /* Translated with Microsoft Translator */
 "Constants" = "Constantes";
 
@@ -808,6 +805,9 @@
 /* Translated with Microsoft Translator */
 "Enable Face ID" = "Activar Face ID";
 
+/* TODO */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+
 /* Translated with Microsoft Translator */
 "Enable Logging" = "Activar registro";
 
@@ -1032,6 +1032,9 @@
 
 /* TODO */
 "Group Call" = "Group Call";
+
+/* TODO */
+"Hide Hoverball" = "Hide Hoverball";
 
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Oculta la aplicación “Notas de voz“ de la pantalla de bloqueo y oculta sus actividades de “Isla dinámica“. Esta función puede requerir un re-spring para que surta efecto.";
@@ -1786,6 +1789,9 @@
 /* TODO */
 "Recording Type" = "Recording Type";
 
+/* TODO */
+"Recording Type Description" = "Recording Type Description";
+
 /* Translated with Microsoft Translator */
 "Recording will begin when the call is answered." = "La grabación comenzará cuando se conteste la llamada.";
 
@@ -2042,6 +2048,9 @@
 "Show Contact Names" = "Mostrar nombres de contacto";
 
 /* TODO */
+"Show Hoverball" = "Show Hoverball";
+
+/* TODO */
 "Show Notification" = "Show Notification";
 
 /* TODO */
@@ -2098,6 +2107,9 @@
 /* Translated with Microsoft Translator */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Pulse “Ver mi cuenta” para comprobar sus pedidos, compras o canjear un código de regalo.";
 
+/* TODO */
+"Sound Level Meter" = "Sound Level Meter";
+
 /* Translated with Microsoft Translator */
 "Space" = "Espacio";
 
@@ -2116,6 +2128,9 @@
 /* TODO */
 "Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
+/* TODO */
+"Start Call Recording" = "Start Call Recording";
+
 /* No comment provided by engineer. */
 "Start Date" = "Fecha de inicio";
 
@@ -2127,6 +2142,12 @@
 
 /* TODO */
 "Start Screen Recording" = "Start Screen Recording";
+
+/* TODO */
+"Start System Audio Recording" = "Start System Audio Recording";
+
+/* TODO */
+"Start Voice Memo Recording" = "Start Voice Memo Recording";
 
 /* Translated with Microsoft Translator */
 "status" = "estado";
@@ -2574,6 +2595,9 @@
 
 /* Translated with Microsoft Translator */
 "Unknown Sender" = "Remitente desconocido";
+
+/* TODO */
+"Unknown Type" = "Unknown Type";
 
 /* Translated with Microsoft Translator */
 "Unknown Variant" = "Variante desconocida";

@@ -487,9 +487,6 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連線客戶端：%d";
 
-/* TODO */
-"Connecting" = "Connecting";
-
 /* No comment provided by engineer. */
 "Constants" = "常量";
 
@@ -808,6 +805,9 @@
 /* No comment provided by engineer. */
 "Enable Face ID" = "啟用 Face ID";
 
+/* TODO */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+
 /* No comment provided by engineer. */
 "Enable Logging" = "啟用日志";
 
@@ -1032,6 +1032,9 @@
 
 /* No comment provided by engineer. */
 "Group Call" = "群組通話";
+
+/* TODO */
+"Hide Hoverball" = "Hide Hoverball";
 
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏 “語音備忘錄” 在鎖屏界面上的顯示，並隱藏其 “動態島” 活動。此功能可能需要妙手回春才能完全生效。";
@@ -1786,6 +1789,9 @@
 /* TODO */
 "Recording Type" = "Recording Type";
 
+/* TODO */
+"Recording Type Description" = "Recording Type Description";
+
 /* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "即將于通話接通後開始錄音。";
 
@@ -2041,6 +2047,9 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "顯示聯絡人姓名";
 
+/* TODO */
+"Show Hoverball" = "Show Hoverball";
+
 /* No comment provided by engineer. */
 "Show Notification" = "顯示通知";
 
@@ -2098,6 +2107,9 @@
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "出現了一些問題，我們無法驗證你的購買。你可以輕觸 “查看我的賬戶”，確認你的訂單狀態或兌換禮品代碼。";
 
+/* TODO */
+"Sound Level Meter" = "Sound Level Meter";
+
 /* No comment provided by engineer. */
 "Space" = "空格";
 
@@ -2116,6 +2128,9 @@
 /* TODO */
 "Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
+/* TODO */
+"Start Call Recording" = "Start Call Recording";
+
 /* No comment provided by engineer. */
 "Start Date" = "起始日期";
 
@@ -2127,6 +2142,12 @@
 
 /* TODO */
 "Start Screen Recording" = "Start Screen Recording";
+
+/* TODO */
+"Start System Audio Recording" = "Start System Audio Recording";
+
+/* TODO */
+"Start Voice Memo Recording" = "Start Voice Memo Recording";
 
 /* No comment provided by engineer. */
 "status" = "狀態";
@@ -2574,6 +2595,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Sender" = "未知號卡";
+
+/* TODO */
+"Unknown Type" = "Unknown Type";
 
 /* No comment provided by engineer. */
 "Unknown Variant" = "未知變體";
