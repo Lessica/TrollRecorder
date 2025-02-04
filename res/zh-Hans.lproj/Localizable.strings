@@ -767,7 +767,7 @@
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
-"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "由于运行环境限制，如果你遇到小组件空白或不显示，请尝试重启设备，或者在巨魔商店中重建图标缓存。";
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "由于运行环境限制，如果你遇到小组件空白或不显示，请尝试重启设备，或者在 TrollStore 中重建图标缓存。";
 
 /* No comment provided by engineer. */
 "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "由于技术原因，非 CallKit 通话不会触发与通话状态相关的自动化动作。";
@@ -849,6 +849,15 @@
 
 /* No comment provided by engineer. */
 "Enter your password" = "输入密码";
+
+/* No comment provided by engineer. */
+"Erase All" = "彻底抹除";
+
+/* No comment provided by engineer. */
+"Erase all recordings, reset all settings, and clear all caches completely." = "彻底抹除所有录音，重置所有设置，并完全清除所有缓存。";
+
+/* No comment provided by engineer. */
+"Erase Almost Completed" = "抹除即将完成";
 
 /* No comment provided by engineer. */
 "Error" = "错误";
@@ -1667,6 +1676,12 @@
 "Please reinstall this application from TrollStore." = "请从 TrollStore 重新安装此应用程序。";
 
 /* No comment provided by engineer. */
+"Please remember to uninstall “%@” from Sileo." = "请记得从 Sileo 完全卸载 “%@”。";
+
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from TrollStore." = "请记得从 TrollStore 完全卸载 “%@”。";
+
+/* No comment provided by engineer. */
 "Popover Control" = "悬浮球";
 
 /* No comment provided by engineer. */
@@ -1712,6 +1727,9 @@
 "Proceed Anyway" = "仍然继续";
 
 /* No comment provided by engineer. */
+"Pulse-code modulation" = "脉冲编码调制，占用较多储存空间。";
+
+/* No comment provided by engineer. */
 "Purchase" = "购买";
 
 /* No comment provided by engineer. */
@@ -1746,6 +1764,9 @@
 
 /* No comment provided by engineer. */
 "Ready to record!" = "准备录音！";
+
+/* No comment provided by engineer. */
+"Recommended for Apple devices" = "推荐在 Apple 设备上使用";
 
 /* No comment provided by engineer. */
 "Record" = "录制";
@@ -2555,6 +2576,9 @@
 "Underscore" = "下划线";
 
 /* No comment provided by engineer. */
+"Erasing…" = "正在抹除…";
+
+/* No comment provided by engineer. */
 "Unknown" = "未知";
 
 /* No comment provided by engineer. */
@@ -2907,6 +2931,9 @@
 
 /* No comment provided by engineer. */
 "YES" = "是";
+
+/* No comment provided by engineer. */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "你即将彻底抹除所有录音、重置所有设置并完全清除所有缓存。\n此操作无法撤销！";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 “设置” → “辅助功能” → “旁白” → “语音” → “声音” 中下载语音包，然后在这里选择一种，用于 “通话录音警告” 和 “语音播报” 快捷指令。";
