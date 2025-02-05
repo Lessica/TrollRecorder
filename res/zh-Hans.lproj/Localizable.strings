@@ -488,6 +488,9 @@
 "Connected Clients: %d" = "已连接客户端：%d";
 
 /* No comment provided by engineer. */
+"Connection" = "连接";
+
+/* No comment provided by engineer. */
 "Constants" = "常量";
 
 /* No comment provided by engineer. */
@@ -567,6 +570,9 @@
 
 /* No comment provided by engineer. */
 "Created At" = "创建于";
+
+/* No comment provided by engineer. */
+"Credentials" = "凭据";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "自定义导出名称";
@@ -860,6 +866,9 @@
 "Erase Almost Completed" = "抹除即将完成";
 
 /* No comment provided by engineer. */
+"Erasing…" = "正在抹除…";
+
+/* No comment provided by engineer. */
 "Error" = "错误";
 
 /* No comment provided by engineer. */
@@ -1037,7 +1046,7 @@
 "Go Home When Unlocked" = "解锁后回到桌面";
 
 /* No comment provided by engineer. */
-"Google Drive" = "Google 云端硬盘";
+"Google Drive" = "Google 云端硬盘";
 
 /* No comment provided by engineer. */
 "Group Call" = "群组通话";
@@ -1436,6 +1445,9 @@
 "Never" = "从不";
 
 /* No comment provided by engineer. */
+"Never Show This Again" = "不再提醒";
+
+/* No comment provided by engineer. */
 "New" = "新";
 
 /* No comment provided by engineer. */
@@ -1476,6 +1488,9 @@
 
 /* No comment provided by engineer. */
 "Not My Favourite" = "未收藏";
+
+/* No comment provided by engineer. */
+"Not Properly Configured" = "未正确配置";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "未导入任何内容";
@@ -1574,6 +1589,9 @@
 "Page not found" = "未找到页面";
 
 /* No comment provided by engineer. */
+"Password (Optional)" = "密码（可选）";
+
+/* No comment provided by engineer. */
 "path" = "路径";
 
 /* No comment provided by engineer. */
@@ -1670,6 +1688,12 @@
 "Please check your mail configuration." = "请检查你的邮件配置。";
 
 /* No comment provided by engineer. */
+"Please enter a valid port number between 1 and 65535." = "请输入一个介于 1 和 65535 之间的有效端口号。";
+
+/* No comment provided by engineer. */
+"Please enter the server URL." = "请输入服务器 URL。";
+
+/* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "请认准，巨魔录音机的唯一销售、兑换渠道是浩劫商店（Havoc Marketplace），我们并没有在其他任何渠道进行销售。你即将打开商店页面：如果你是首次使用浩劫商店，建议使用 Google 账号登录。如果你是中国大陆地区用户，登录 Google 需要特殊网络。";
 
 /* No comment provided by engineer. */
@@ -1701,6 +1725,9 @@
 
 /* No comment provided by engineer. */
 "Popup Banner with Sound" = "显示有声通知";
+
+/* No comment provided by engineer. */
+"Port (Optional)" = "端口 (可选)";
 
 /* No comment provided by engineer. */
 "Preparing" = "准备中";
@@ -1988,6 +2015,9 @@
 "Seconds" = "秒数";
 
 /* No comment provided by engineer. */
+"Secure" = "HTTPS";
+
+/* No comment provided by engineer. */
 "Secure Payment" = "安全的支付方式";
 
 /* No comment provided by engineer. */
@@ -2024,7 +2054,13 @@
 "Separators" = "分隔符";
 
 /* No comment provided by engineer. */
+"Server" = "服务器";
+
+/* No comment provided by engineer. */
 "Server started at: %@" = "服务已启动：%@";
+
+/* No comment provided by engineer. */
+"Server URL" = "服务器 URL";
 
 /* No comment provided by engineer. */
 "service" = "服务";
@@ -2207,6 +2243,9 @@
 "Stop Service" = "停止服务";
 
 /* No comment provided by engineer. */
+"Successfully connected to the server %@." = "成功连接到服务器 %@。";
+
+/* No comment provided by engineer. */
 "Suggested" = "建议";
 
 /* No comment provided by engineer. */
@@ -2283,6 +2322,9 @@
 
 /* No comment provided by engineer. */
 "Terminate Calls" = "结束通话";
+
+/* No comment provided by engineer. */
+"Test Connection" = "测试连接";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "文本转语音";
@@ -2576,9 +2618,6 @@
 "Underscore" = "下划线";
 
 /* No comment provided by engineer. */
-"Erasing…" = "正在抹除…";
-
-/* No comment provided by engineer. */
 "Unknown" = "未知";
 
 /* No comment provided by engineer. */
@@ -2715,6 +2754,9 @@
 
 /* No comment provided by engineer. */
 "User Interface Style" = "界面样式";
+
+/* No comment provided by engineer. */
+"Username (Optional)" = "用户名（可选）";
 
 /* No comment provided by engineer. */
 "Utility" = "实用工具";
@@ -2936,7 +2978,7 @@
 "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "你即将彻底抹除所有录音、重置所有设置并完全清除所有缓存。\n此操作无法撤销！";
 
 /* No comment provided by engineer. */
-"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 “设置” → “辅助功能” → “旁白” → “语音” → “声音” 中下载语音包，然后在这里选择一种，用于 “通话录音警告” 和 “语音播报” 快捷指令。";
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 “设置” → “辅助功能” → “旁白” → “语音” → “声音” 中下载语音包，然后在这里选择一种，用于 “播放录音警告” 选项和 “语音播报” 快捷指令。";
 
 /* No comment provided by engineer. */
 "You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必须选择 “始终” 以使巨魔录音机能够在后台确定你的位置。如果你选择 “使用 App 期间”，你需要在录音结束后 15 分钟或 1 小时内启动应用程序以更新位置。";

@@ -487,6 +487,9 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Clients connectés : %d";
 
+/* TODO */
+"Connection" = "Connection";
+
 /* Translated with Microsoft Translator */
 "Constants" = "Constantes";
 
@@ -567,6 +570,9 @@
 
 /* No comment provided by engineer. */
 "Created At" = "Créé le";
+
+/* TODO */
+"Credentials" = "Credentials";
 
 /* Translated with Microsoft Translator */
 "Custom Export Name" = "Nom d'exportation personnalisé";
@@ -859,6 +865,9 @@
 /* TODO */
 "Erase Almost Completed" = "Erase Almost Completed";
 
+/* TODO */
+"Erasing…" = "Erasing…";
+
 /* No comment provided by engineer. */
 "Error" = "Erreur";
 
@@ -1037,7 +1046,7 @@
 "Go Home When Unlocked" = "Rentrer à la maison après déverrouillage";
 
 /* Translated with Microsoft Translator */
-"Google Drive" = "Google Drive";
+"Google Drive" = "Google Drive";
 
 /* TODO */
 "Group Call" = "Group Call";
@@ -1435,6 +1444,9 @@
 /* No comment provided by engineer. */
 "Never" = "Jamais";
 
+/* TODO */
+"Never Show This Again" = "Never Show This Again";
+
 /* Translated with Microsoft Translator */
 "New" = "Nouveau";
 
@@ -1476,6 +1488,9 @@
 
 /* Translated with Microsoft Translator */
 "Not My Favourite" = "Pas mon préféré";
+
+/* TODO */
+"Not Properly Configured" = "Not Properly Configured";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "Rien importé";
@@ -1572,6 +1587,9 @@
 
 /* Translated with Microsoft Translator */
 "Page not found" = "Page non trouvée";
+
+/* TODO */
+"Password (Optional)" = "Password (Optional)";
 
 /* Translated with Microsoft Translator */
 "path" = "chemin";
@@ -1670,6 +1688,12 @@
 "Please check your mail configuration." = "Veuillez vérifier la configuration de votre messagerie.";
 
 /* TODO */
+"Please enter a valid port number between 1 and 65535." = "Please enter a valid port number between 1 and 65535.";
+
+/* TODO */
+"Please enter the server URL." = "Please enter the server URL.";
+
+/* TODO */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
 
 /* TODO */
@@ -1701,6 +1725,9 @@
 
 /* Translated with Microsoft Translator */
 "Popup Banner with Sound" = "Bannière pop-up avec son";
+
+/* TODO */
+"Port (Optional)" = "Port (Optional)";
 
 /* Translated with Microsoft Translator */
 "Preparing" = "Préparation";
@@ -1987,6 +2014,9 @@
 /* Translated with Microsoft Translator */
 "Seconds" = "Secondes";
 
+/* TODO */
+"Secure" = "Secure";
+
 /* No comment provided by engineer. */
 "Secure Payment" = "Paiement sécurisé";
 
@@ -2023,8 +2053,14 @@
 /* Translated with Microsoft Translator */
 "Separators" = "Séparateurs";
 
+/* TODO */
+"Server" = "Server";
+
 /* No comment provided by engineer. */
 "Server started at: %@" = "Serveur démarré à : %@";
+
+/* TODO */
+"Server URL" = "Server URL";
 
 /* TODO */
 "service" = "service";
@@ -2206,6 +2242,9 @@
 /* No comment provided by engineer. */
 "Stop Service" = "Arrêter le service";
 
+/* TODO */
+"Successfully connected to the server %@." = "Successfully connected to the server %@.";
+
 /* Translated with Microsoft Translator */
 "Suggested" = "Suggéré";
 
@@ -2283,6 +2322,9 @@
 
 /* Translated with Microsoft Translator */
 "Terminate Calls" = "Mettre fin aux appels";
+
+/* TODO */
+"Test Connection" = "Test Connection";
 
 /* Translated with Microsoft Translator */
 "text-to-speech" = "synthèse vocale";
@@ -2575,9 +2617,6 @@
 /* Translated with Microsoft Translator */
 "Underscore" = "Underscore";
 
-/* TODO */
-"Erasing…" = "Erasing…";
-
 /* No comment provided by engineer. */
 "Unknown" = "Inconnu";
 
@@ -2715,6 +2754,9 @@
 
 /* No comment provided by engineer. */
 "User Interface Style" = "Style de l'interface utilisateur";
+
+/* TODO */
+"Username (Optional)" = "Username (Optional)";
 
 /* No comment provided by engineer. */
 "Utility" = "Utilitaire";

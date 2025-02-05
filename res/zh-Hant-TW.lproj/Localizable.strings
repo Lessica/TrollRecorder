@@ -487,6 +487,9 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連接客戶端：%d";
 
+/* TODO */
+"Connection" = "Connection";
+
 /* No comment provided by engineer. */
 "Constants" = "常量";
 
@@ -567,6 +570,9 @@
 
 /* No comment provided by engineer. */
 "Created At" = "創建於";
+
+/* TODO */
+"Credentials" = "Credentials";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "自定義導出名稱";
@@ -859,6 +865,9 @@
 /* TODO */
 "Erase Almost Completed" = "Erase Almost Completed";
 
+/* TODO */
+"Erasing…" = "Erasing…";
+
 /* No comment provided by engineer. */
 "Error" = "錯誤";
 
@@ -1037,7 +1046,7 @@
 "Go Home When Unlocked" = "解鎖後回到桌面";
 
 /* No comment provided by engineer. */
-"Google Drive" = "Google 雲端硬盤";
+"Google Drive" = "Google 雲端硬盤";
 
 /* No comment provided by engineer. */
 "Group Call" = "群組通話";
@@ -1435,6 +1444,9 @@
 /* No comment provided by engineer. */
 "Never" = "從不";
 
+/* TODO */
+"Never Show This Again" = "Never Show This Again";
+
 /* No comment provided by engineer. */
 "New" = "新";
 
@@ -1476,6 +1488,9 @@
 
 /* No comment provided by engineer. */
 "Not My Favourite" = "未收藏";
+
+/* TODO */
+"Not Properly Configured" = "Not Properly Configured";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "未導入任何內容";
@@ -1573,6 +1588,9 @@
 /* No comment provided by engineer. */
 "Page not found" = "未找到頁面";
 
+/* TODO */
+"Password (Optional)" = "Password (Optional)";
+
 /* No comment provided by engineer. */
 "path" = "路徑";
 
@@ -1669,6 +1687,12 @@
 /* No comment provided by engineer. */
 "Please check your mail configuration." = "請檢查你的郵件配置。";
 
+/* TODO */
+"Please enter a valid port number between 1 and 65535." = "Please enter a valid port number between 1 and 65535.";
+
+/* TODO */
+"Please enter the server URL." = "Please enter the server URL.";
+
 /* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "請認准，巨魔錄音機的唯一銷售、兌換渠道是浩劫商店（Havoc Marketplace），我們並沒有在其他任何渠道進行銷售。你即將打開商店頁面：如果你是首次使用浩劫商店，建議使用 Google 賬號登錄。如果你是中國大陸地區用戶，登錄 Google 需要特殊網絡。";
 
@@ -1701,6 +1725,9 @@
 
 /* No comment provided by engineer. */
 "Popup Banner with Sound" = "顯示有聲通知";
+
+/* TODO */
+"Port (Optional)" = "Port (Optional)";
 
 /* No comment provided by engineer. */
 "Preparing" = "準備中";
@@ -1987,6 +2014,9 @@
 /* No comment provided by engineer. */
 "Seconds" = "秒數";
 
+/* TODO */
+"Secure" = "Secure";
+
 /* No comment provided by engineer. */
 "Secure Payment" = "安全的支付方式";
 
@@ -2023,8 +2053,14 @@
 /* No comment provided by engineer. */
 "Separators" = "分隔符";
 
+/* TODO */
+"Server" = "Server";
+
 /* No comment provided by engineer. */
 "Server started at: %@" = "服務已啓動：%@";
+
+/* TODO */
+"Server URL" = "Server URL";
 
 /* No comment provided by engineer. */
 "service" = "服務";
@@ -2206,6 +2242,9 @@
 /* No comment provided by engineer. */
 "Stop Service" = "停止服務";
 
+/* TODO */
+"Successfully connected to the server %@." = "Successfully connected to the server %@.";
+
 /* No comment provided by engineer. */
 "Suggested" = "建議";
 
@@ -2283,6 +2322,9 @@
 
 /* No comment provided by engineer. */
 "Terminate Calls" = "結束通話";
+
+/* TODO */
+"Test Connection" = "Test Connection";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "文本轉語音";
@@ -2575,9 +2617,6 @@
 /* No comment provided by engineer. */
 "Underscore" = "下划線";
 
-/* TODO */
-"Erasing…" = "Erasing…";
-
 /* No comment provided by engineer. */
 "Unknown" = "未知";
 
@@ -2715,6 +2754,9 @@
 
 /* No comment provided by engineer. */
 "User Interface Style" = "界面樣式";
+
+/* TODO */
+"Username (Optional)" = "Username (Optional)";
 
 /* No comment provided by engineer. */
 "Utility" = "實用工具";

@@ -488,6 +488,9 @@
 "Connected Clients: %d" = "Connected Clients: %d";
 
 /* No comment provided by engineer. */
+"Connection" = "Connection";
+
+/* No comment provided by engineer. */
 "Constants" = "Constants";
 
 /* No comment provided by engineer. */
@@ -567,6 +570,9 @@
 
 /* No comment provided by engineer. */
 "Created At" = "Created At";
+
+/* No comment provided by engineer. */
+"Credentials" = "Credentials";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "Custom Export Name";
@@ -860,6 +866,9 @@
 "Erase Almost Completed" = "Erase Almost Completed";
 
 /* No comment provided by engineer. */
+"Erasing…" = "Erasing…";
+
+/* No comment provided by engineer. */
 "Error" = "Error";
 
 /* No comment provided by engineer. */
@@ -1037,7 +1046,7 @@
 "Go Home When Unlocked" = "Go Home When Unlocked";
 
 /* No comment provided by engineer. */
-"Google Drive" = "Google Drive";
+"Google Drive" = "Google Drive";
 
 /* No comment provided by engineer. */
 "Group Call" = "Group Call";
@@ -1436,6 +1445,9 @@
 "Never" = "Never";
 
 /* No comment provided by engineer. */
+"Never Show This Again" = "Never Show This Again";
+
+/* No comment provided by engineer. */
 "New" = "New";
 
 /* No comment provided by engineer. */
@@ -1476,6 +1488,9 @@
 
 /* No comment provided by engineer. */
 "Not My Favourite" = "Not My Favourite";
+
+/* No comment provided by engineer. */
+"Not Properly Configured" = "Not Properly Configured";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "Nothing Imported";
@@ -1574,6 +1589,9 @@
 "Page not found" = "Page not found";
 
 /* No comment provided by engineer. */
+"Password (Optional)" = "Password (Optional)";
+
+/* No comment provided by engineer. */
 "path" = "path";
 
 /* No comment provided by engineer. */
@@ -1670,6 +1688,12 @@
 "Please check your mail configuration." = "Please check your mail configuration.";
 
 /* No comment provided by engineer. */
+"Please enter a valid port number between 1 and 65535." = "Please enter a valid port number between 1 and 65535.";
+
+/* No comment provided by engineer. */
+"Please enter the server URL." = "Please enter the server URL.";
+
+/* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
 
 /* No comment provided by engineer. */
@@ -1701,6 +1725,9 @@
 
 /* No comment provided by engineer. */
 "Popup Banner with Sound" = "Popup Banner with Sound";
+
+/* No comment provided by engineer. */
+"Port (Optional)" = "Port (Optional)";
 
 /* No comment provided by engineer. */
 "Preparing" = "Preparing";
@@ -1988,6 +2015,9 @@
 "Seconds" = "Seconds";
 
 /* No comment provided by engineer. */
+"Secure" = "Secure";
+
+/* No comment provided by engineer. */
 "Secure Payment" = "Secure Payment";
 
 /* No comment provided by engineer. */
@@ -2024,7 +2054,13 @@
 "Separators" = "Separators";
 
 /* No comment provided by engineer. */
+"Server" = "Server";
+
+/* No comment provided by engineer. */
 "Server started at: %@" = "Server started at: %@";
+
+/* No comment provided by engineer. */
+"Server URL" = "Server URL";
 
 /* No comment provided by engineer. */
 "service" = "service";
@@ -2207,6 +2243,9 @@
 "Stop Service" = "Stop Service";
 
 /* No comment provided by engineer. */
+"Successfully connected to the server %@." = "Successfully connected to the server %@.";
+
+/* No comment provided by engineer. */
 "Suggested" = "Suggested";
 
 /* No comment provided by engineer. */
@@ -2283,6 +2322,9 @@
 
 /* No comment provided by engineer. */
 "Terminate Calls" = "Terminate Calls";
+
+/* No comment provided by engineer. */
+"Test Connection" = "Test Connection";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "text-to-speech";
@@ -2576,9 +2618,6 @@
 "Underscore" = "Underscore";
 
 /* No comment provided by engineer. */
-"Erasing…" = "Erasing…";
-
-/* No comment provided by engineer. */
 "Unknown" = "Unknown";
 
 /* No comment provided by engineer. */
@@ -2715,6 +2754,9 @@
 
 /* No comment provided by engineer. */
 "User Interface Style" = "User Interface Style";
+
+/* No comment provided by engineer. */
+"Username (Optional)" = "Username (Optional)";
 
 /* No comment provided by engineer. */
 "Utility" = "Utility";

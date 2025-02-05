@@ -487,6 +487,9 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "연결된 클라이언트: %d";
 
+/* TODO */
+"Connection" = "Connection";
+
 /* No comment provided by engineer. */
 "Constants" = "상수";
 
@@ -567,6 +570,9 @@
 
 /* No comment provided by engineer. */
 "Created At" = "생성일";
+
+/* TODO */
+"Credentials" = "Credentials";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "사용자 설정 내보내기 이름";
@@ -859,6 +865,9 @@
 /* TODO */
 "Erase Almost Completed" = "Erase Almost Completed";
 
+/* TODO */
+"Erasing…" = "Erasing…";
+
 /* No comment provided by engineer. */
 "Error" = "오류";
 
@@ -1037,7 +1046,7 @@
 "Go Home When Unlocked" = "잠금 해제 시 홈으로 이동";
 
 /* No comment provided by engineer. */
-"Google Drive" = "Google 드라이브";
+"Google Drive" = "Google 드라이브";
 
 /* TODO */
 "Group Call" = "Group Call";
@@ -1435,6 +1444,9 @@
 /* No comment provided by engineer. */
 "Never" = "끄기";
 
+/* TODO */
+"Never Show This Again" = "Never Show This Again";
+
 /* No comment provided by engineer. */
 "New" = "새로운 기능";
 
@@ -1476,6 +1488,9 @@
 
 /* No comment provided by engineer. */
 "Not My Favourite" = "즐겨찾기 아님";
+
+/* TODO */
+"Not Properly Configured" = "Not Properly Configured";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "가져온 항목 없음";
@@ -1572,6 +1587,9 @@
 
 /* No comment provided by engineer. */
 "Page not found" = "페이지를 찾을 수 없음";
+
+/* TODO */
+"Password (Optional)" = "Password (Optional)";
 
 /* No comment provided by engineer. */
 "path" = "경로";
@@ -1670,6 +1688,12 @@
 "Please check your mail configuration." = "이메일 구성을 확인하세요.";
 
 /* TODO */
+"Please enter a valid port number between 1 and 65535." = "Please enter a valid port number between 1 and 65535.";
+
+/* TODO */
+"Please enter the server URL." = "Please enter the server URL.";
+
+/* TODO */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
 
 /* TODO */
@@ -1701,6 +1725,9 @@
 
 /* No comment provided by engineer. */
 "Popup Banner with Sound" = "오디오 알림 표시";
+
+/* TODO */
+"Port (Optional)" = "Port (Optional)";
 
 /* No comment provided by engineer. */
 "Preparing" = "준비 중";
@@ -1987,6 +2014,9 @@
 /* No comment provided by engineer. */
 "Seconds" = "초";
 
+/* TODO */
+"Secure" = "Secure";
+
 /* No comment provided by engineer. */
 "Secure Payment" = "안전한 결제 방법";
 
@@ -2023,8 +2053,14 @@
 /* No comment provided by engineer. */
 "Separators" = "구분 기호";
 
+/* TODO */
+"Server" = "Server";
+
 /* No comment provided by engineer. */
 "Server started at: %@" = "서버 시작 시간: %@";
+
+/* TODO */
+"Server URL" = "Server URL";
 
 /* TODO */
 "service" = "service";
@@ -2206,6 +2242,9 @@
 /* No comment provided by engineer. */
 "Stop Service" = "서비스 중지";
 
+/* TODO */
+"Successfully connected to the server %@." = "Successfully connected to the server %@.";
+
 /* No comment provided by engineer. */
 "Suggested" = "권장 기능";
 
@@ -2283,6 +2322,9 @@
 
 /* No comment provided by engineer. */
 "Terminate Calls" = "통화 종료";
+
+/* TODO */
+"Test Connection" = "Test Connection";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "텍스트 음성 변환";
@@ -2575,9 +2617,6 @@
 /* No comment provided by engineer. */
 "Underscore" = "밑줄";
 
-/* TODO */
-"Erasing…" = "Erasing…";
-
 /* No comment provided by engineer. */
 "Unknown" = "알 수 없음";
 
@@ -2715,6 +2754,9 @@
 
 /* No comment provided by engineer. */
 "User Interface Style" = "인터페이스 스타일";
+
+/* TODO */
+"Username (Optional)" = "Username (Optional)";
 
 /* No comment provided by engineer. */
 "Utility" = "유틸리티";
