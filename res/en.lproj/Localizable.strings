@@ -185,6 +185,9 @@
 "AM/PM String" = "AM/PM String";
 
 /* No comment provided by engineer. */
+"An unknown error occurred." = "An unknown error occurred.";
+
+/* No comment provided by engineer. */
 "Analysing Audio" = "Analysing Audio";
 
 /* No comment provided by engineer. */
@@ -258,6 +261,18 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "Authenticate with %@";
+
+/* No comment provided by engineer. */
+"Authorization error: %@" = "Authorization error: %@";
+
+/* No comment provided by engineer. */
+"Authorization flow was manually canceled by user." = "Authorization flow was manually canceled by user.";
+
+/* No comment provided by engineer. */
+"Authorize with Dropbox" = "Authorize with Dropbox";
+
+/* No comment provided by engineer. */
+"Authorize with Google" = "Authorize with Google";
 
 /* No comment provided by engineer. */
 "Automatic" = "Automatic";
@@ -872,6 +887,9 @@
 "Error" = "Error";
 
 /* No comment provided by engineer. */
+"Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
+
+/* No comment provided by engineer. */
 "exit" = "exit";
 
 /* No comment provided by engineer. */
@@ -1382,6 +1400,9 @@
 "Minutes" = "Minutes";
 
 /* No comment provided by engineer. */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+
+/* No comment provided by engineer. */
 "Mixed" = "Mixed";
 
 /* No comment provided by engineer. */
@@ -1781,6 +1802,12 @@
 "Quit this application and try again." = "Quit this application and try again.";
 
 /* No comment provided by engineer. */
+"Re-authorize with Dropbox" = "Re-authorize with Dropbox";
+
+/* No comment provided by engineer. */
+"Re-authorize with Google" = "Re-authorize with Google";
+
+/* No comment provided by engineer. */
 "Re-enable Suggested Options" = "Re-enable Suggested Options";
 
 /* No comment provided by engineer. */
@@ -1791,6 +1818,12 @@
 
 /* No comment provided by engineer. */
 "Ready to record!" = "Ready to record!";
+
+/* No comment provided by engineer. */
+"Received authorization error: %@" = "Received authorization error: %@";
+
+/* No comment provided by engineer. */
+"Received transient error: %@" = "Received transient error: %@";
 
 /* No comment provided by engineer. */
 "Recommended for Apple devices" = "Recommended for Apple devices";
@@ -2243,6 +2276,12 @@
 "Stop Service" = "Stop Service";
 
 /* No comment provided by engineer. */
+"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+
+/* No comment provided by engineer. */
+"Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
+
+/* No comment provided by engineer. */
 "Successfully connected to the server %@." = "Successfully connected to the server %@.";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2649,9 @@
 
 /* No comment provided by engineer. */
 "Type to search…" = "Type to search…";
+
+/* No comment provided by engineer. */
+"Unauthorize" = "Unauthorize";
 
 /* No comment provided by engineer. */
 "Uncompressed" = "Uncompressed";

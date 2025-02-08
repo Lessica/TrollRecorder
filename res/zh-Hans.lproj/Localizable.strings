@@ -185,6 +185,9 @@
 "AM/PM String" = "上午/下午";
 
 /* No comment provided by engineer. */
+"An unknown error occurred." = "发生了未知错误。";
+
+/* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音频";
 
 /* No comment provided by engineer. */
@@ -258,6 +261,18 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "使用 %@ 进行验证";
+
+/* No comment provided by engineer. */
+"Authorization error: %@" = "认证错误：%@";
+
+/* No comment provided by engineer. */
+"Authorization flow was manually canceled by user." = "用户手动取消了认证流程。";
+
+/* No comment provided by engineer. */
+"Authorize with Dropbox" = "使用 Dropbox 账号登录";
+
+/* No comment provided by engineer. */
+"Authorize with Google" = "使用 Google 账号登录";
 
 /* No comment provided by engineer. */
 "Automatic" = "自动";
@@ -872,6 +887,9 @@
 "Error" = "错误";
 
 /* No comment provided by engineer. */
+"Error retrieving discovery document: %@" = "检索接口目录时发生错误：%@";
+
+/* No comment provided by engineer. */
 "exit" = "exit";
 
 /* No comment provided by engineer. */
@@ -1382,6 +1400,9 @@
 "Minutes" = "分钟";
 
 /* No comment provided by engineer. */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "缺少访问 Google 云端硬盘所需的权限。请重新登录 Google 账号，并授予 “巨魔录音机” 所有与 “Google 云端硬盘” 关联的权限。";
+
+/* No comment provided by engineer. */
 "Mixed" = "混合";
 
 /* No comment provided by engineer. */
@@ -1781,6 +1802,12 @@
 "Quit this application and try again." = "退出此应用程序并重试。";
 
 /* No comment provided by engineer. */
+"Re-authorize with Dropbox" = "使用 Dropbox 账号重新登录";
+
+/* No comment provided by engineer. */
+"Re-authorize with Google" = "使用 Google 账号重新登录";
+
+/* No comment provided by engineer. */
 "Re-enable Suggested Options" = "重新启用建议选项";
 
 /* No comment provided by engineer. */
@@ -1791,6 +1818,12 @@
 
 /* No comment provided by engineer. */
 "Ready to record!" = "准备录音！";
+
+/* No comment provided by engineer. */
+"Received authorization error: %@" = "发生认证错误: %@";
+
+/* No comment provided by engineer. */
+"Received transient error: %@" = "发生临时错误: %@";
 
 /* No comment provided by engineer. */
 "Recommended for Apple devices" = "推荐在 Apple 设备上使用";
@@ -2243,6 +2276,12 @@
 "Stop Service" = "停止服务";
 
 /* No comment provided by engineer. */
+"Successfully authorized to Google and connected to Google Drive." = "成功通过 Google 账号认证并连接到 Google 云端硬盘。";
+
+/* No comment provided by engineer. */
+"Successfully connected to Dropbox." = "成功连接到 Dropbox。";
+
+/* No comment provided by engineer. */
 "Successfully connected to the server %@." = "成功连接到服务器 %@。";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2649,9 @@
 
 /* No comment provided by engineer. */
 "Type to search…" = "键入以搜索…";
+
+/* No comment provided by engineer. */
+"Unauthorize" = "取消授权";
 
 /* No comment provided by engineer. */
 "Uncompressed" = "未压缩 (PCM)";

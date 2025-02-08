@@ -184,6 +184,9 @@
 /* Translated with Microsoft Translator */
 "AM/PM String" = "Chaîne AM/PM";
 
+/* TODO */
+"An unknown error occurred." = "An unknown error occurred.";
+
 /* No comment provided by engineer. */
 "Analysing Audio" = "Analyse audio en cours";
 
@@ -258,6 +261,18 @@
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "Authentifier avec %@";
+
+/* TODO */
+"Authorization error: %@" = "Authorization error: %@";
+
+/* TODO */
+"Authorization flow was manually canceled by user." = "Authorization flow was manually canceled by user.";
+
+/* TODO */
+"Authorize with Dropbox" = "Authorize with Dropbox";
+
+/* TODO */
+"Authorize with Google" = "Authorize with Google";
 
 /* TODO */
 "Automatic" = "Automatic";
@@ -871,6 +886,9 @@
 /* No comment provided by engineer. */
 "Error" = "Erreur";
 
+/* TODO */
+"Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
+
 /* No comment provided by engineer. */
 "exit" = "sortie";
 
@@ -1381,6 +1399,9 @@
 /* Translated with Microsoft Translator */
 "Minutes" = "Procès-verbal";
 
+/* TODO */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+
 /* No comment provided by engineer. */
 "Mixed" = "Mixte";
 
@@ -1780,6 +1801,12 @@
 /* No comment provided by engineer. */
 "Quit this application and try again." = "Quittez cette application et réessayez.";
 
+/* TODO */
+"Re-authorize with Dropbox" = "Re-authorize with Dropbox";
+
+/* TODO */
+"Re-authorize with Google" = "Re-authorize with Google";
+
 /* Translated with Microsoft Translator */
 "Re-enable Suggested Options" = "Réactiver les options suggérées";
 
@@ -1791,6 +1818,12 @@
 
 /* Translated with Microsoft Translator */
 "Ready to record!" = "Prêt à enregistrer !";
+
+/* TODO */
+"Received authorization error: %@" = "Received authorization error: %@";
+
+/* TODO */
+"Received transient error: %@" = "Received transient error: %@";
 
 /* TODO */
 "Recommended for Apple devices" = "Recommended for Apple devices";
@@ -2243,6 +2276,12 @@
 "Stop Service" = "Arrêter le service";
 
 /* TODO */
+"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+
+/* TODO */
+"Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
+
+/* TODO */
 "Successfully connected to the server %@." = "Successfully connected to the server %@.";
 
 /* Translated with Microsoft Translator */
@@ -2610,6 +2649,9 @@
 
 /* Translated with Microsoft Translator */
 "Type to search…" = "Tapez pour rechercher…";
+
+/* TODO */
+"Unauthorize" = "Unauthorize";
 
 /* No comment provided by engineer. */
 "Uncompressed" = "Non compressé";
