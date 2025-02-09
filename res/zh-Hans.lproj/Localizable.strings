@@ -275,6 +275,9 @@
 "Authorize with Google" = "使用 Google 账号登录";
 
 /* No comment provided by engineer. */
+"Authorize with Microsoft" = "使用 Microsoft 账号登录";
+
+/* No comment provided by engineer. */
 "Automatic" = "自动";
 
 /* No comment provided by engineer. */
@@ -581,6 +584,18 @@
 "Copy Value" = "拷贝值";
 
 /* No comment provided by engineer. */
+"Could not acquire token: %@" = "无法获取令牌：%@";
+
+/* No comment provided by engineer. */
+"Could not acquire token: No result returned." = "无法获取令牌：未返回结果";
+
+/* No comment provided by engineer. */
+"Could not get graph result: %@" = "无法获取图表结果：%@";
+
+/* No comment provided by engineer. */
+"Could not sign out account: %@" = "无法登出账户：%@";
+
+/* No comment provided by engineer. */
 "Create Archive" = "制作归档";
 
 /* No comment provided by engineer. */
@@ -783,6 +798,9 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此处__ 以调节 ___%@___ 的尺寸。";
+
+/* No comment provided by engineer. */
+"Drive ID" = "Drive ID";
 
 /* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
@@ -1397,10 +1415,13 @@
 "Microphone and speaker are recorded in different channels." = "麦克风和扬声器在不同的文件中录音。";
 
 /* No comment provided by engineer. */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
+/* No comment provided by engineer. */
 "Minutes" = "分钟";
 
 /* No comment provided by engineer. */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "缺少访问 Google 云端硬盘所需的权限。请重新登录 Google 账号，并授予 “巨魔录音机” 所有与 “Google 云端硬盘” 关联的权限。";
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "缺少访问 Google 云端硬盘所需的权限。请重新登录 Google 账号，并授予 “巨魔录音机” 所有与 “Google 云端硬盘” 关联的权限。";
 
 /* No comment provided by engineer. */
 "Mixed" = "混合";
@@ -1548,6 +1569,9 @@
 
 /* No comment provided by engineer. */
 "On" = "启用";
+
+/* No comment provided by engineer. */
+"OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
 "Oops!" = "似乎出了一点小问题";
@@ -1806,6 +1830,9 @@
 
 /* No comment provided by engineer. */
 "Re-authorize with Google" = "使用 Google 账号重新登录";
+
+/* No comment provided by engineer. */
+"Re-authorize with Microsoft" = "使用 Microsoft 账号重新登录";
 
 /* No comment provided by engineer. */
 "Re-enable Suggested Options" = "重新启用建议选项";
@@ -2276,7 +2303,10 @@
 "Stop Service" = "停止服务";
 
 /* No comment provided by engineer. */
-"Successfully authorized to Google and connected to Google Drive." = "成功通过 Google 账号认证并连接到 Google 云端硬盘。";
+"Successfully authorized to Google and connected to Google Drive." = "成功通过 Google 账号认证并连接到 Google 云端硬盘。";
+
+/* No comment provided by engineer. */
+"Successfully authorized to Microsoft and connected to OneDrive." = "成功通过 Microsoft 账号认证并连接到 OneDrive。";
 
 /* No comment provided by engineer. */
 "Successfully connected to Dropbox." = "成功连接到 Dropbox。";
@@ -2451,6 +2481,9 @@
 
 /* No comment provided by engineer. */
 "The primary button action at the right side of the hoverball when no call is active." = "当没有活跃通话时，轻按悬浮球右侧的主按钮时，所执行的操作。";
+
+/* No comment provided by engineer. */
+"The service is not properly configured." = "此服务尚未完成配置。";
 
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "运营商的名称。";
@@ -2651,6 +2684,9 @@
 "Type to search…" = "键入以搜索…";
 
 /* No comment provided by engineer. */
+"Unable to locate your personal “OneDrive”." = "无法找到你的个人 “OneDrive”。";
+
+/* No comment provided by engineer. */
 "Unauthorize" = "取消授权";
 
 /* No comment provided by engineer. */
@@ -2676,6 +2712,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Error" = "未知错误";
+
+/* No comment provided by engineer. */
+"Unknown error occurred." = "发生未知错误。";
 
 /* No comment provided by engineer. */
 "Unknown File Format" = "未知文件格式";

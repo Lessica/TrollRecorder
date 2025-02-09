@@ -275,6 +275,9 @@
 "Authorize with Google" = "Authorize with Google";
 
 /* TODO */
+"Authorize with Microsoft" = "Authorize with Microsoft";
+
+/* TODO */
 "Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
@@ -580,6 +583,18 @@
 /* Translated with Microsoft Translator */
 "Copy Value" = "Valor de copia";
 
+/* TODO */
+"Could not acquire token: %@" = "Could not acquire token: %@";
+
+/* TODO */
+"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+
+/* TODO */
+"Could not get graph result: %@" = "Could not get graph result: %@";
+
+/* TODO */
+"Could not sign out account: %@" = "Could not sign out account: %@";
+
 /* Translated with Microsoft Translator */
 "Create Archive" = "Crear archivo";
 
@@ -783,6 +798,9 @@
 
 /* Translated with Microsoft Translator */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Arrastre __aquí__ para ajustar  \nel tamaño del ___%@___.";
+
+/* TODO */
+"Drive ID" = "Drive ID";
 
 /* Translated with Microsoft Translator */
 "Dropbox" = "Dropbox";
@@ -1396,11 +1414,14 @@
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "El micrófono y el altavoz se graban en canales diferentes.";
 
+/* TODO */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
 /* Translated with Microsoft Translator */
 "Minutes" = "Actas";
 
 /* TODO */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "Mixed" = "Mezcla";
@@ -1548,6 +1569,9 @@
 
 /* TODO */
 "On" = "On";
+
+/* TODO */
+"OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
 "Oops!" = "¡Vaya!";
@@ -1806,6 +1830,9 @@
 
 /* TODO */
 "Re-authorize with Google" = "Re-authorize with Google";
+
+/* TODO */
+"Re-authorize with Microsoft" = "Re-authorize with Microsoft";
 
 /* Translated with Microsoft Translator */
 "Re-enable Suggested Options" = "Volver a activar las opciones sugeridas";
@@ -2276,7 +2303,10 @@
 "Stop Service" = "Detener servicio";
 
 /* TODO */
-"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+
+/* TODO */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Successfully authorized to Microsoft and connected to OneDrive.";
 
 /* TODO */
 "Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
@@ -2451,6 +2481,9 @@
 
 /* TODO */
 "The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
+
+/* TODO */
+"The service is not properly configured." = "The service is not properly configured.";
 
 /* Translated with Microsoft Translator */
 "The service operator name of the sender." = "El nombre del operador de servicios del remitente.";
@@ -2651,6 +2684,9 @@
 "Type to search…" = "Escriba para buscar…";
 
 /* TODO */
+"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
 "Unauthorize" = "Unauthorize";
 
 /* No comment provided by engineer. */
@@ -2676,6 +2712,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Error" = "Error desconocido";
+
+/* TODO */
+"Unknown error occurred." = "Unknown error occurred.";
 
 /* Translated with Microsoft Translator */
 "Unknown File Format" = "Formato de archivo desconocido";

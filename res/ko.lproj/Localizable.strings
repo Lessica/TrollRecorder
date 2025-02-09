@@ -275,6 +275,9 @@
 "Authorize with Google" = "Authorize with Google";
 
 /* TODO */
+"Authorize with Microsoft" = "Authorize with Microsoft";
+
+/* TODO */
 "Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
@@ -580,6 +583,18 @@
 /* No comment provided by engineer. */
 "Copy Value" = "값 복사";
 
+/* TODO */
+"Could not acquire token: %@" = "Could not acquire token: %@";
+
+/* TODO */
+"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+
+/* TODO */
+"Could not get graph result: %@" = "Could not get graph result: %@";
+
+/* TODO */
+"Could not sign out account: %@" = "Could not sign out account: %@";
+
 /* No comment provided by engineer. */
 "Create Archive" = "아카이브 만들기";
 
@@ -783,6 +798,9 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "__여기__ 를 드래그하여  \n___%@___ 의 크기를 조정하세요.";
+
+/* TODO */
+"Drive ID" = "Drive ID";
 
 /* No comment provided by engineer. */
 "Dropbox" = "DropBox";
@@ -1396,11 +1414,14 @@
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "마이크와 스피커는 서로 다른 채널에 녹음됩니다.";
 
+/* TODO */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
 /* No comment provided by engineer. */
 "Minutes" = "분";
 
 /* TODO */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "Mixed" = "혼합";
@@ -1548,6 +1569,9 @@
 
 /* TODO */
 "On" = "On";
+
+/* TODO */
+"OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
 "Oops!" = "작은 문제가 발생 했습니다.";
@@ -1806,6 +1830,9 @@
 
 /* TODO */
 "Re-authorize with Google" = "Re-authorize with Google";
+
+/* TODO */
+"Re-authorize with Microsoft" = "Re-authorize with Microsoft";
 
 /* No comment provided by engineer. */
 "Re-enable Suggested Options" = "제안 옵션 다시 활성화";
@@ -2276,7 +2303,10 @@
 "Stop Service" = "서비스 중지";
 
 /* TODO */
-"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+
+/* TODO */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Successfully authorized to Microsoft and connected to OneDrive.";
 
 /* TODO */
 "Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
@@ -2451,6 +2481,9 @@
 
 /* TODO */
 "The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
+
+/* TODO */
+"The service is not properly configured." = "The service is not properly configured.";
 
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "이동통신사 이름입니다.";
@@ -2651,6 +2684,9 @@
 "Type to search…" = "검색하려면 입력하세요...";
 
 /* TODO */
+"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
 "Unauthorize" = "Unauthorize";
 
 /* No comment provided by engineer. */
@@ -2676,6 +2712,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Error" = "알 수 없는 오류";
+
+/* TODO */
+"Unknown error occurred." = "Unknown error occurred.";
 
 /* No comment provided by engineer. */
 "Unknown File Format" = "알 수 없는 파일 포맷";

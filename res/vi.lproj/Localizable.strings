@@ -275,6 +275,9 @@
 "Authorize with Google" = "Authorize with Google";
 
 /* TODO */
+"Authorize with Microsoft" = "Authorize with Microsoft";
+
+/* TODO */
 "Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
@@ -581,6 +584,18 @@
 "Copy Value" = "Copy Value";
 
 /* TODO */
+"Could not acquire token: %@" = "Could not acquire token: %@";
+
+/* TODO */
+"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+
+/* TODO */
+"Could not get graph result: %@" = "Could not get graph result: %@";
+
+/* TODO */
+"Could not sign out account: %@" = "Could not sign out account: %@";
+
+/* TODO */
 "Create Archive" = "Create Archive";
 
 /* No comment provided by engineer. */
@@ -783,6 +798,9 @@
 
 /* TODO */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+
+/* TODO */
+"Drive ID" = "Drive ID";
 
 /* TODO */
 "Dropbox" = "Dropbox";
@@ -1397,10 +1415,13 @@
 "Microphone and speaker are recorded in different channels." = "Micrô và loa được ghi lại ở các kênh khác nhau.";
 
 /* TODO */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
+/* TODO */
 "Minutes" = "Minutes";
 
 /* TODO */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "Mixed" = "Được phối lại";
@@ -1548,6 +1569,9 @@
 
 /* TODO */
 "On" = "On";
+
+/* TODO */
+"OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
 "Oops!" = "Rất tiếc!";
@@ -1806,6 +1830,9 @@
 
 /* TODO */
 "Re-authorize with Google" = "Re-authorize with Google";
+
+/* TODO */
+"Re-authorize with Microsoft" = "Re-authorize with Microsoft";
 
 /* TODO */
 "Re-enable Suggested Options" = "Re-enable Suggested Options";
@@ -2276,7 +2303,10 @@
 "Stop Service" = "Dừng dịch vụ";
 
 /* TODO */
-"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+
+/* TODO */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Successfully authorized to Microsoft and connected to OneDrive.";
 
 /* TODO */
 "Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
@@ -2451,6 +2481,9 @@
 
 /* TODO */
 "The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
+
+/* TODO */
+"The service is not properly configured." = "The service is not properly configured.";
 
 /* TODO */
 "The service operator name of the sender." = "The service operator name of the sender.";
@@ -2651,6 +2684,9 @@
 "Type to search…" = "Type to search…";
 
 /* TODO */
+"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
 "Unauthorize" = "Unauthorize";
 
 /* No comment provided by engineer. */
@@ -2676,6 +2712,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Error" = "Lỗi không xác định";
+
+/* TODO */
+"Unknown error occurred." = "Unknown error occurred.";
 
 /* TODO */
 "Unknown File Format" = "Unknown File Format";

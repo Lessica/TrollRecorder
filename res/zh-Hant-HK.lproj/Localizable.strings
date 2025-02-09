@@ -275,6 +275,9 @@
 "Authorize with Google" = "Authorize with Google";
 
 /* TODO */
+"Authorize with Microsoft" = "Authorize with Microsoft";
+
+/* TODO */
 "Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
@@ -580,6 +583,18 @@
 /* No comment provided by engineer. */
 "Copy Value" = "複製值";
 
+/* TODO */
+"Could not acquire token: %@" = "Could not acquire token: %@";
+
+/* TODO */
+"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+
+/* TODO */
+"Could not get graph result: %@" = "Could not get graph result: %@";
+
+/* TODO */
+"Could not sign out account: %@" = "Could not sign out account: %@";
+
 /* No comment provided by engineer. */
 "Create Archive" = "創建存檔";
 
@@ -783,6 +798,9 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
+
+/* TODO */
+"Drive ID" = "Drive ID";
 
 /* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
@@ -1396,11 +1414,14 @@
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "咪高風和揚聲器在不同的檔案中錄音。";
 
+/* TODO */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
 /* No comment provided by engineer. */
 "Minutes" = "分鐘";
 
 /* TODO */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "Mixed" = "混合";
@@ -1548,6 +1569,9 @@
 
 /* TODO */
 "On" = "On";
+
+/* TODO */
+"OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
 "Oops!" = "似乎出了一點小問題";
@@ -1806,6 +1830,9 @@
 
 /* TODO */
 "Re-authorize with Google" = "Re-authorize with Google";
+
+/* TODO */
+"Re-authorize with Microsoft" = "Re-authorize with Microsoft";
 
 /* No comment provided by engineer. */
 "Re-enable Suggested Options" = "重新啟用建議選項";
@@ -2276,7 +2303,10 @@
 "Stop Service" = "停止服務";
 
 /* TODO */
-"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+
+/* TODO */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Successfully authorized to Microsoft and connected to OneDrive.";
 
 /* TODO */
 "Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
@@ -2451,6 +2481,9 @@
 
 /* TODO */
 "The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
+
+/* TODO */
+"The service is not properly configured." = "The service is not properly configured.";
 
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "運營商的名稱。";
@@ -2651,6 +2684,9 @@
 "Type to search…" = "鍵入以搜尋…";
 
 /* TODO */
+"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
 "Unauthorize" = "Unauthorize";
 
 /* No comment provided by engineer. */
@@ -2676,6 +2712,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Error" = "未知錯誤";
+
+/* TODO */
+"Unknown error occurred." = "Unknown error occurred.";
 
 /* No comment provided by engineer. */
 "Unknown File Format" = "未知檔案格式";

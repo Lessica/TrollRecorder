@@ -275,6 +275,9 @@
 "Authorize with Google" = "Authorize with Google";
 
 /* No comment provided by engineer. */
+"Authorize with Microsoft" = "Authorize with Microsoft";
+
+/* No comment provided by engineer. */
 "Automatic" = "Automatic";
 
 /* No comment provided by engineer. */
@@ -581,6 +584,18 @@
 "Copy Value" = "Copy Value";
 
 /* No comment provided by engineer. */
+"Could not acquire token: %@" = "Could not acquire token: %@";
+
+/* No comment provided by engineer. */
+"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+
+/* No comment provided by engineer. */
+"Could not get graph result: %@" = "Could not get graph result: %@";
+
+/* No comment provided by engineer. */
+"Could not sign out account: %@" = "Could not sign out account: %@";
+
+/* No comment provided by engineer. */
 "Create Archive" = "Create Archive";
 
 /* No comment provided by engineer. */
@@ -783,6 +798,9 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+
+/* No comment provided by engineer. */
+"Drive ID" = "Drive ID";
 
 /* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
@@ -1397,10 +1415,13 @@
 "Microphone and speaker are recorded in different channels." = "Microphone and speaker are recorded in different channels.";
 
 /* No comment provided by engineer. */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
+/* No comment provided by engineer. */
 "Minutes" = "Minutes";
 
 /* No comment provided by engineer. */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "Mixed" = "Mixed";
@@ -1548,6 +1569,9 @@
 
 /* No comment provided by engineer. */
 "On" = "On";
+
+/* No comment provided by engineer. */
+"OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
 "Oops!" = "Oops!";
@@ -1806,6 +1830,9 @@
 
 /* No comment provided by engineer. */
 "Re-authorize with Google" = "Re-authorize with Google";
+
+/* No comment provided by engineer. */
+"Re-authorize with Microsoft" = "Re-authorize with Microsoft";
 
 /* No comment provided by engineer. */
 "Re-enable Suggested Options" = "Re-enable Suggested Options";
@@ -2276,7 +2303,10 @@
 "Stop Service" = "Stop Service";
 
 /* No comment provided by engineer. */
-"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+
+/* No comment provided by engineer. */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Successfully authorized to Microsoft and connected to OneDrive.";
 
 /* No comment provided by engineer. */
 "Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
@@ -2451,6 +2481,9 @@
 
 /* No comment provided by engineer. */
 "The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
+
+/* No comment provided by engineer. */
+"The service is not properly configured." = "The service is not properly configured.";
 
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "The service operator name of the sender.";
@@ -2651,6 +2684,9 @@
 "Type to search…" = "Type to search…";
 
 /* No comment provided by engineer. */
+"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* No comment provided by engineer. */
 "Unauthorize" = "Unauthorize";
 
 /* No comment provided by engineer. */
@@ -2676,6 +2712,9 @@
 
 /* No comment provided by engineer. */
 "Unknown Error" = "Unknown Error";
+
+/* No comment provided by engineer. */
+"Unknown error occurred." = "Unknown error occurred.";
 
 /* No comment provided by engineer. */
 "Unknown File Format" = "Unknown File Format";
