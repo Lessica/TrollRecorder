@@ -4,3 +4,5 @@ plugins:
 title: TrollRecorder
 description: Record your phone calls like never before.
 show_downloads: true
+include:
+  - ".well-known"
