@@ -142,9 +142,6 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Permitir grabación automática";
 
-/* Translated with Microsoft Translator */
-"Allow Deletion of Local Recordings" = "Permitir el borrado de grabaciones locales";
-
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Permitir activaciones del HUD";
 
@@ -284,7 +281,7 @@
 "Automatic Recording" = "Grabación automática";
 
 /* Translated with Microsoft Translator */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Crea automáticamente clones de grabaciones primarias mezcladas y combinadas cada mes y almacénalos en iCloud Drive. Las grabaciones del mes actual no se archivarán.";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Crea automáticamente clones de grabaciones primarias mezcladas y combinadas cada mes y almacénalos en iCloud Drive. Las grabaciones del mes actual no se archivarán.";
 
 /* TODO */
 "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Habilita automáticamente los servicios en segundo plano cuando el dispositivo se reinicia y se desbloquea. Para activar esta función, es necesario añadir el widget “TrollRecorder“ en cualquier lugar de la pantalla de inicio.";
@@ -493,6 +490,12 @@
 /* No comment provided by engineer. */
 "Compress Recording" = "Comprimir grabación";
 
+/* No comment provided by engineer. */
+"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+
+/* No comment provided by engineer. */
+"Configure WebDAV Client" = "Configure WebDAV Client";
+
 /* Translated with Microsoft Translator */
 "Confirm" = "Confirme";
 
@@ -694,6 +697,9 @@
 /* Translated with Microsoft Translator */
 "Directory" = "Directorio";
 
+/* TODO */
+"Directory not found." = "Directory not found.";
+
 /* Translated with Microsoft Translator */
 "Disabled" = "Discapacitados";
 
@@ -739,6 +745,9 @@
 /* Translated with Microsoft Translator */
 "Display a notification banner when recording starts." = "Muestra un banner de notificación cuando se inicia la grabación.";
 
+/* TODO */
+"Display a notification banner when the synchronization fails." = "Display a notification banner when the synchronization fails.";
+
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Muestra el detalle de las grabaciones en el banner de notificación.";
 
@@ -781,6 +790,9 @@
 /* Translated with Microsoft Translator */
 "Do you want to clear this log file “%@”?" = "¿Desea borrar este archivo de registro “%@”?";
 
+/* TODO */
+"Do you want to merge recordings with “%@”?" = "Do you want to merge recordings with “%@”?";
+
 /* Translated with Microsoft Translator */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "¿Desea restablecer la licencia de software y restaurar todos los ajustes a sus valores por defecto? Sus grabaciones no se eliminarán.";
 
@@ -789,6 +801,9 @@
 
 /* Translated with Microsoft Translator */
 "Don’t ask again" = "No vuelvas a preguntar";
+
+/* TODO */
+"Don’t Merge" = "Don’t Merge";
 
 /* Translated with Microsoft Translator */
 "Double tap to restore __all edges__  \nto their default sizes." = "Pulse dos veces para restaurar __todos los bordes__  \na sus tamaños predeterminados.";
@@ -822,6 +837,9 @@
 
 /* Translated with Microsoft Translator */
 "Duration Description" = "Duración Descripción";
+
+/* TODO */
+"Duration exceeded." = "Duration exceeded.";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "Imagen fija";
@@ -905,6 +923,9 @@
 "Error" = "Error";
 
 /* TODO */
+"Error from network storage" = "Error from network storage";
+
+/* TODO */
 "Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
 
 /* No comment provided by engineer. */
@@ -949,6 +970,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Error al inicializar el reconocedor de voz utilizando la configuración regional actual “%@”.";
 
+/* TODO */
+"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+
 /* No comment provided by engineer. */
 "Failed to play: %@" = "Error al reproducir: %@";
 
@@ -957,6 +981,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Error al eliminar: %@";
+
+/* TODO */
+"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
 
 /* TODO */
 "Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
@@ -969,6 +996,9 @@
 
 /* Translated with Microsoft Translator */
 "File Format" = "Formato de archivo";
+
+/* TODO */
+"File not found." = "File not found.";
 
 /* No comment provided by engineer. */
 "File Size" = "Tamaño de archivo";
@@ -1139,13 +1169,10 @@
 "icloud" = "iCloud";
 
 /* Translated with Microsoft Translator */
-"iCloud Drive" = "iCloud Drive";
+"iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
 "Idle" = "En espera";
-
-/* Translated with Microsoft Translator */
-"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "Si la sincronización bidireccional está activada, permite que la eliminación desde la nube se refleje en el sistema de archivos local.";
 
 /* Translated with Microsoft Translator */
 "If there is something wrong with the search indexes, you can reset them here." = "Si hay algún problema con los índices de búsqueda, puede restablecerlos aquí.";
@@ -1213,10 +1240,10 @@
 /* TODO */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
 
-/* No comment provided by engineer. */
+/* TODO */
 "iPad" = "iPad";
 
-/* No comment provided by engineer. */
+/* TODO */
 "iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
@@ -1261,6 +1288,9 @@
 /* No comment provided by engineer. */
 "Larger" = "Más grande";
 
+/* TODO */
+"Last successful synchronization: %@" = "Last successful synchronization: %@";
+
 /* Translated with Microsoft Translator */
 "Later" = "Más tarde";
 
@@ -1281,6 +1311,9 @@
 
 /* TODO */
 "Legacy Jailbreak" = "Legacy Jailbreak";
+
+/* TODO */
+"Less serious error occurred." = "Less serious error occurred.";
 
 /* No comment provided by engineer. */
 "Lifetime Guarantee" = "Disponible de por vida";
@@ -1395,6 +1428,9 @@
 
 /* Translated with Microsoft Translator */
 "Medium Time" = "Tiempo medio";
+
+/* TODO */
+"Merge" = "Merge";
 
 /* No comment provided by engineer. */
 "Merged File" = "Archivo fusionado";
@@ -1603,14 +1639,14 @@
 /* Translated with Microsoft Translator */
 "Operation Succeed" = "Operación Éxito";
 
+/* TODO */
+"Operation succeed, but no files transferred." = "Operation succeed, but no files transferred.";
+
 /* Translated with Microsoft Translator */
 "Operator Name" = "Nombre del operador";
 
 /* No comment provided by engineer. */
 "Optic ID" = "ID óptica";
-
-/* Translated with Microsoft Translator */
-"Optimize %@ Storage" = "Optimizar %@ Almacenamiento";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Saliente";
@@ -1762,6 +1798,9 @@
 /* No comment provided by engineer. */
 "Popup Banner at End" = "Banner emergente al final";
 
+/* TODO */
+"Popup Banner when Fail" = "Popup Banner when Fail";
+
 /* Translated with Microsoft Translator */
 "Popup Banner with Badge" = "Banner Popup con Insignia";
 
@@ -1797,6 +1836,12 @@
 
 /* TODO */
 "Proceed Anyway" = "Proceed Anyway";
+
+/* TODO */
+"Process terminated by signal %d." = "Process terminated by signal %d.";
+
+/* TODO */
+"Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
 
 /* TODO */
 "Pulse-code modulation" = "Pulse-code modulation";
@@ -2194,6 +2239,15 @@
 /* Translated with Microsoft Translator */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Mostrar la opción de menú “Ver detalles” para que los desarrolladores puedan comprobar los manifiestos de las grabaciones.";
 
+/* No comment provided by engineer. */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+
+/* No comment provided by engineer. */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+
+/* No comment provided by engineer. */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+
 /* TODO */
 "Silent Mode" = "Silent Mode";
 
@@ -2332,8 +2386,14 @@
 /* Translated with Microsoft Translator */
 "synchronization" = "sincronización";
 
+/* TODO */
+"Synchronization Failed" = "Synchronization Failed";
+
 /* Translated with Microsoft Translator */
 "Synchronizing" = "Sincronización";
+
+/* TODO */
+"Syntax or usage error occurred." = "Syntax or usage error occurred.";
 
 /* No comment provided by engineer. */
 "System Applications" = "Aplicaciones del sistema";
@@ -2379,6 +2439,12 @@
 
 /* Translated with Microsoft Translator */
 "Tap to open settings." = "Pulse para abrir la configuración";
+
+/* TODO */
+"Tap to view details" = "Tap to view details";
+
+/* TODO */
+"Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Ignorar temporalmente";
@@ -2573,7 +2639,10 @@
 "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
 
 /* Translated with Microsoft Translator */
-"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Para configurar iCloud Drive, ve a “Ajustes” → “Móvil” → “iCloud Drive”.";
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Para configurar iCloud Drive, ve a “Ajustes” → “Móvil” → “iCloud Drive”.";
+
+/* TODO */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
 
 /* TODO */
 "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
@@ -2588,7 +2657,7 @@
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Para utilizar Smart Cloud Archive, tiene que activar Background App Refresh para TrollRecorder.";
 
 /* Translated with Microsoft Translator */
-"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Para utilizar Smart Cloud Archive, tienes que iniciar sesión en iCloud Drive en Ajustes.";
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Para utilizar Smart Cloud Archive, tienes que iniciar sesión en iCloud Drive en Ajustes.";
 
 /* No comment provided by engineer. */
 "To: %@" = "Hasta: %@";
@@ -2623,6 +2692,9 @@
 /* TODO */
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
+/* TODO */
+"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+
 /* Translated with Microsoft Translator */
 "top edge" = "borde superior";
 
@@ -2643,6 +2715,9 @@
 
 /* No comment provided by engineer. */
 "Transcript" = "Transcripción";
+
+/* TODO */
+"Transfer exceeded." = "Transfer exceeded.";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Transición cuando está inactivo";
@@ -2684,7 +2759,13 @@
 "Type to search…" = "Escriba para buscar…";
 
 /* TODO */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+
+/* TODO */
 "Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
 
 /* TODO */
 "Unauthorize" = "Unauthorize";
@@ -2795,7 +2876,7 @@
 "Upload" = "Cargar";
 
 /* Translated with Microsoft Translator */
-"Upload, download or synconize recordings between local and cloud drive." = "Sube, descarga o sincroniza grabaciones entre la unidad local y la nube.";
+"Upload, download or synchronize recordings between local and cloud drive." = "Sube, descarga o sincroniza grabaciones entre la unidad local y la nube.";
 
 /* Translated with Microsoft Translator */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Utilice la autenticación biométrica para desbloquear la aplicación. La reproducción en segundo plano no está disponible cuando esta función está habilitada.";
@@ -2889,6 +2970,9 @@
 
 /* Translated with Microsoft Translator */
 "View Logs: Launch Agent" = "Ver Registros: Agente de Lanzamiento";
+
+/* TODO */
+"View Logs: Network Storage" = "View Logs: Network Storage";
 
 /* TODO */
 "View Logs: Speech Utterance" = "View Logs: Speech Utterance";
@@ -3010,9 +3094,6 @@
 /* TODO */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
-/* Translated with Microsoft Translator */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "Cuando tu %@ tenga poco espacio, las grabaciones locales de los canales separados se eliminarán una vez cargadas.";
-
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Si se debe forzar a la aplicación a utilizar la interfaz de usuario clara u oscura.";
 
@@ -3070,6 +3151,9 @@
 /* Translated with Microsoft Translator */
 "You may need to reboot your device to make this application work properly." = "Es posible que tengas que reiniciar el dispositivo para que esta aplicación funcione correctamente.";
 
+/* TODO */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+
 /* Translated with Microsoft Translator */
 "You’re now using the free version of “TrollRecorder JB”." = "Ahora estás utilizando la versión gratuita de “TrollRecorder JB”.";
 
@@ -3110,7 +3194,7 @@
 "“Background App Refresh” Permission Denied" = "Permiso de actualización de fondo denegado";
 
 /* Translated with Microsoft Translator */
-"“iCloud Drive” Not Logged In" = "No se ha iniciado sesión en iCloud Drive";
+"“iCloud Drive” Not Logged In" = "No se ha iniciado sesión en iCloud Drive";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

@@ -142,9 +142,6 @@
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Cho phép ghi âm tự động";
 
-/* TODO */
-"Allow Deletion of Local Recordings" = "Allow Deletion of Local Recordings";
-
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Cho phép bong bóng được bật";
 
@@ -284,7 +281,7 @@
 "Automatic Recording" = "Ghi âm tự động";
 
 /* TODO */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
 /* TODO */
 "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Tự động kích hoạt các dịch vụ nền khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình chính.";
@@ -493,6 +490,12 @@
 /* No comment provided by engineer. */
 "Compress Recording" = "Ghi âm nén";
 
+/* No comment provided by engineer. */
+"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+
+/* No comment provided by engineer. */
+"Configure WebDAV Client" = "Configure WebDAV Client";
+
 /* TODO */
 "Confirm" = "Confirm";
 
@@ -695,6 +698,9 @@
 "Directory" = "Directory";
 
 /* TODO */
+"Directory not found." = "Directory not found.";
+
+/* TODO */
 "Disabled" = "Disabled";
 
 /* TODO */
@@ -739,6 +745,9 @@
 /* TODO */
 "Display a notification banner when recording starts." = "Display a notification banner when recording starts.";
 
+/* TODO */
+"Display a notification banner when the synchronization fails." = "Display a notification banner when the synchronization fails.";
+
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Hiển thị chi tiết các bản ghi âm trong biểu ngữ thông báo.";
 
@@ -782,6 +791,9 @@
 "Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
 
 /* TODO */
+"Do you want to merge recordings with “%@”?" = "Do you want to merge recordings with “%@”?";
+
+/* TODO */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
 
 /* TODO */
@@ -789,6 +801,9 @@
 
 /* TODO */
 "Don’t ask again" = "Don’t ask again";
+
+/* TODO */
+"Don’t Merge" = "Don’t Merge";
 
 /* TODO */
 "Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
@@ -822,6 +837,9 @@
 
 /* TODO */
 "Duration Description" = "Duration Description";
+
+/* TODO */
+"Duration exceeded." = "Duration exceeded.";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "Chuyển đổi năng động";
@@ -905,6 +923,9 @@
 "Error" = "Lỗi";
 
 /* TODO */
+"Error from network storage" = "Error from network storage";
+
+/* TODO */
 "Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
 
 /* No comment provided by engineer. */
@@ -949,6 +970,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Không thể khởi tạo bộ nhận dạng giọng nói bằng cách sử dụng ngôn ngữ hiện tại “%@”.";
 
+/* TODO */
+"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+
 /* No comment provided by engineer. */
 "Failed to play: %@" = "Không chạy được: %@";
 
@@ -957,6 +981,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Không thể xóa: %@";
+
+/* TODO */
+"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
 
 /* TODO */
 "Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
@@ -969,6 +996,9 @@
 
 /* TODO */
 "File Format" = "File Format";
+
+/* TODO */
+"File not found." = "File not found.";
 
 /* No comment provided by engineer. */
 "File Size" = "Kích thước tập tin";
@@ -1139,13 +1169,10 @@
 "icloud" = "iCloud";
 
 /* TODO */
-"iCloud Drive" = "iCloud Drive";
+"iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
-
-/* TODO */
-"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
 
 /* TODO */
 "If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
@@ -1261,6 +1288,9 @@
 /* No comment provided by engineer. */
 "Larger" = "Lớn hơn";
 
+/* TODO */
+"Last successful synchronization: %@" = "Last successful synchronization: %@";
+
 /* No comment provided by engineer. */
 "Later" = "Sau";
 
@@ -1281,6 +1311,9 @@
 
 /* TODO */
 "Legacy Jailbreak" = "Legacy Jailbreak";
+
+/* TODO */
+"Less serious error occurred." = "Less serious error occurred.";
 
 /* No comment provided by engineer. */
 "Lifetime Guarantee" = "Có sẵn vĩnh viễn";
@@ -1395,6 +1428,9 @@
 
 /* TODO */
 "Medium Time" = "Medium Time";
+
+/* TODO */
+"Merge" = "Merge";
 
 /* No comment provided by engineer. */
 "Merged File" = "Tệp đã hợp nhất";
@@ -1604,13 +1640,13 @@
 "Operation Succeed" = "Operation Succeed";
 
 /* TODO */
+"Operation succeed, but no files transferred." = "Operation succeed, but no files transferred.";
+
+/* TODO */
 "Operator Name" = "Operator Name";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
-
-/* TODO */
-"Optimize %@ Storage" = "Optimize %@ Storage";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Đi ra";
@@ -1763,6 +1799,9 @@
 "Popup Banner at End" = "Biểu ngữ bật lên ở cuối";
 
 /* TODO */
+"Popup Banner when Fail" = "Popup Banner when Fail";
+
+/* TODO */
 "Popup Banner with Badge" = "Popup Banner with Badge";
 
 /* No comment provided by engineer. */
@@ -1797,6 +1836,12 @@
 
 /* TODO */
 "Proceed Anyway" = "Proceed Anyway";
+
+/* TODO */
+"Process terminated by signal %d." = "Process terminated by signal %d.";
+
+/* TODO */
+"Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
 
 /* TODO */
 "Pulse-code modulation" = "Pulse-code modulation";
@@ -2194,6 +2239,15 @@
 /* TODO */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
 
+/* No comment provided by engineer. */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+
+/* No comment provided by engineer. */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+
+/* No comment provided by engineer. */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+
 /* TODO */
 "Silent Mode" = "Silent Mode";
 
@@ -2333,7 +2387,13 @@
 "synchronization" = "synchronization";
 
 /* TODO */
+"Synchronization Failed" = "Synchronization Failed";
+
+/* TODO */
 "Synchronizing" = "Synchronizing";
+
+/* TODO */
+"Syntax or usage error occurred." = "Syntax or usage error occurred.";
 
 /* No comment provided by engineer. */
 "System Applications" = "Ứng dụng hệ thống";
@@ -2379,6 +2439,12 @@
 
 /* TODO */
 "Tap to open settings." = "Tap to open settings.";
+
+/* TODO */
+"Tap to view details" = "Tap to view details";
+
+/* TODO */
+"Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Tạm thời bỏ qua";
@@ -2573,7 +2639,10 @@
 "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
 
 /* TODO */
-"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
+
+/* TODO */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
 
 /* TODO */
 "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
@@ -2588,7 +2657,7 @@
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”.";
 
 /* TODO */
-"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”.";
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”.";
 
 /* No comment provided by engineer. */
 "To: %@" = "Đến: %@";
@@ -2624,6 +2693,9 @@
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
 /* TODO */
+"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+
+/* TODO */
 "top edge" = "top edge";
 
 /* TODO */
@@ -2643,6 +2715,9 @@
 
 /* No comment provided by engineer. */
 "Transcript" = "Lời thoại";
+
+/* TODO */
+"Transfer exceeded." = "Transfer exceeded.";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Chuyển đổi khi nhàn rỗi";
@@ -2684,7 +2759,13 @@
 "Type to search…" = "Type to search…";
 
 /* TODO */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+
+/* TODO */
 "Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
 
 /* TODO */
 "Unauthorize" = "Unauthorize";
@@ -2795,7 +2876,7 @@
 "Upload" = "Upload";
 
 /* TODO */
-"Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
+"Upload, download or synchronize recordings between local and cloud drive." = "Upload, download or synchronize recordings between local and cloud drive.";
 
 /* TODO */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled.";
@@ -2889,6 +2970,9 @@
 
 /* TODO */
 "View Logs: Launch Agent" = "View Logs: Launch Agent";
+
+/* TODO */
+"View Logs: Network Storage" = "View Logs: Network Storage";
 
 /* TODO */
 "View Logs: Speech Utterance" = "View Logs: Speech Utterance";
@@ -3010,9 +3094,6 @@
 /* TODO */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
-/* TODO */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded.";
-
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Cho dù buộc ứng dụng sử dụng giao diện người dùng sáng hay tối.";
 
@@ -3071,6 +3152,9 @@
 "You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
 
 /* TODO */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+
+/* TODO */
 "You’re now using the free version of “TrollRecorder JB”." = "You’re now using the free version of “TrollRecorder JB”.";
 
 /* TODO */
@@ -3110,7 +3194,7 @@
 "“Background App Refresh” Permission Denied" = "“Background App Refresh” Permission Denied";
 
 /* TODO */
-"“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
+"“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

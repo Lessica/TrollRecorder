@@ -143,9 +143,6 @@
 "Allow Automatic Recording" = "자동 녹음 허용";
 
 /* No comment provided by engineer. */
-"Allow Deletion of Local Recordings" = "로컬 녹음 삭제 허용";
-
-/* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "호버볼 깨우기 허용";
 
 /* No comment provided by engineer. */
@@ -284,7 +281,7 @@
 "Automatic Recording" = "자동 녹음";
 
 /* No comment provided by engineer. */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "매달 혼합 및 결합된 기본 녹음의 복제본을 자동으로 생성하고 iCloud Drive에 저장합니다. 이번 달 녹음은 보관되지 않습니다.";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "매달 혼합 및 결합된 기본 녹음의 복제본을 자동으로 생성하고 iCloud Drive에 저장합니다. 이번 달 녹음은 보관되지 않습니다.";
 
 /* No comment provided by engineer. */
 "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "기기가 재시동되고 잠금 해제되면 자동으로 백그라운드 서비스를 시작하고 활성 상태를 유지합니다. 이 기능을 적용하려면 “TrollRecorder” 위젯을 잠금 화면이나 홈 화면 어딘가에 추가해야 합니다.";
@@ -494,6 +491,12 @@
 "Compress Recording" = "오디오 압축";
 
 /* No comment provided by engineer. */
+"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+
+/* No comment provided by engineer. */
+"Configure WebDAV Client" = "Configure WebDAV Client";
+
+/* No comment provided by engineer. */
 "Confirm" = "확인";
 
 /* TODO */
@@ -694,6 +697,9 @@
 /* No comment provided by engineer. */
 "Directory" = "디렉토리";
 
+/* TODO */
+"Directory not found." = "Directory not found.";
+
 /* No comment provided by engineer. */
 "Disabled" = "끄기";
 
@@ -739,6 +745,9 @@
 /* No comment provided by engineer. */
 "Display a notification banner when recording starts." = "녹음이 시작되면 알림 배너를 표시합니다.";
 
+/* TODO */
+"Display a notification banner when the synchronization fails." = "Display a notification banner when the synchronization fails.";
+
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "알림 배너에 녹음 세부사항을 표시합니다.";
 
@@ -781,6 +790,9 @@
 /* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "“%@” 로그 파일을 지우시겠습니까?";
 
+/* TODO */
+"Do you want to merge recordings with “%@”?" = "Do you want to merge recordings with “%@”?";
+
 /* No comment provided by engineer. */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "소프트웨어 라이센스를 재설정하고 모든 설정을 기본값으로 복원하시겠습니까? 녹음은 삭제되지 않습니다.";
 
@@ -789,6 +801,9 @@
 
 /* No comment provided by engineer. */
 "Don’t ask again" = "묻지 않음";
+
+/* TODO */
+"Don’t Merge" = "Don’t Merge";
 
 /* No comment provided by engineer. */
 "Double tap to restore __all edges__  \nto their default sizes." = "__모든 가장자리__ 를 기본 크기로 \n복원하려면 두 번 탭하세요.";
@@ -822,6 +837,9 @@
 
 /* No comment provided by engineer. */
 "Duration Description" = "기간 (설명)";
+
+/* TODO */
+"Duration exceeded." = "Duration exceeded.";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "전환만";
@@ -905,6 +923,9 @@
 "Error" = "오류";
 
 /* TODO */
+"Error from network storage" = "Error from network storage";
+
+/* TODO */
 "Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
 
 /* No comment provided by engineer. */
@@ -949,6 +970,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "현재 로케일 “%@”을(를) 사용하여 음성 인식기를 초기화하지 못했습니다.";
 
+/* TODO */
+"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+
 /* No comment provided by engineer. */
 "Failed to play: %@" = "재생 실패: %@";
 
@@ -957,6 +981,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "삭제 실패: %@";
+
+/* TODO */
+"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
 
 /* TODO */
 "Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
@@ -969,6 +996,9 @@
 
 /* No comment provided by engineer. */
 "File Format" = "파일 포맷";
+
+/* TODO */
+"File not found." = "File not found.";
 
 /* No comment provided by engineer. */
 "File Size" = "파일 크기";
@@ -1139,13 +1169,10 @@
 "icloud" = "iCloud";
 
 /* No comment provided by engineer. */
-"iCloud Drive" = "iCloud Drive";
+"iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
 "Idle" = "유휴";
-
-/* No comment provided by engineer. */
-"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "양방향 동기화가 활성화된 경우 클라우드에서의 삭제가 로컬 파일 시스템에 반영되도록 허용합니다.";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "검색 색인에 문제가 있는 경우 여기에서 재설정할 수 있습니다.";
@@ -1213,10 +1240,10 @@
 /* TODO */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
 
-/* No comment provided by engineer. */
+/* TODO */
 "iPad" = "iPad";
 
-/* No comment provided by engineer. */
+/* TODO */
 "iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
@@ -1261,6 +1288,9 @@
 /* No comment provided by engineer. */
 "Larger" = "더 크게";
 
+/* TODO */
+"Last successful synchronization: %@" = "Last successful synchronization: %@";
+
 /* No comment provided by engineer. */
 "Later" = "나중에";
 
@@ -1281,6 +1311,9 @@
 
 /* TODO */
 "Legacy Jailbreak" = "Legacy Jailbreak";
+
+/* TODO */
+"Less serious error occurred." = "Less serious error occurred.";
 
 /* No comment provided by engineer. */
 "Lifetime Guarantee" = "한 번 구매하면 평생 사용 가능";
@@ -1395,6 +1428,9 @@
 
 /* No comment provided by engineer. */
 "Medium Time" = "보통 시간";
+
+/* TODO */
+"Merge" = "Merge";
 
 /* No comment provided by engineer. */
 "Merged File" = "파일 병합";
@@ -1603,14 +1639,14 @@
 /* No comment provided by engineer. */
 "Operation Succeed" = "작업 성공";
 
+/* TODO */
+"Operation succeed, but no files transferred." = "Operation succeed, but no files transferred.";
+
 /* No comment provided by engineer. */
 "Operator Name" = "이동통신사 이름";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
-
-/* No comment provided by engineer. */
-"Optimize %@ Storage" = "%@ 저장 공간 최적화";
 
 /* No comment provided by engineer. */
 "Outgoing" = "발신";
@@ -1762,6 +1798,9 @@
 /* No comment provided by engineer. */
 "Popup Banner at End" = "종료 알림 표시";
 
+/* TODO */
+"Popup Banner when Fail" = "Popup Banner when Fail";
+
 /* No comment provided by engineer. */
 "Popup Banner with Badge" = "알림 배지 표시";
 
@@ -1797,6 +1836,12 @@
 
 /* TODO */
 "Proceed Anyway" = "Proceed Anyway";
+
+/* TODO */
+"Process terminated by signal %d." = "Process terminated by signal %d.";
+
+/* TODO */
+"Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
 
 /* TODO */
 "Pulse-code modulation" = "Pulse-code modulation";
@@ -2194,6 +2239,15 @@
 /* No comment provided by engineer. */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "개발자가 녹음 목록을 확인할 수 있도록 “세부사항 보기” 메뉴 항목을 표시합니다.";
 
+/* No comment provided by engineer. */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+
+/* No comment provided by engineer. */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+
+/* No comment provided by engineer. */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+
 /* TODO */
 "Silent Mode" = "Silent Mode";
 
@@ -2332,8 +2386,14 @@
 /* No comment provided by engineer. */
 "synchronization" = "동기화";
 
+/* TODO */
+"Synchronization Failed" = "Synchronization Failed";
+
 /* No comment provided by engineer. */
 "Synchronizing" = "동기화 중";
+
+/* TODO */
+"Syntax or usage error occurred." = "Syntax or usage error occurred.";
 
 /* No comment provided by engineer. */
 "System Applications" = "시스템 응용 프로그램";
@@ -2379,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "Tap to open settings." = "탭하여 설정 열기";
+
+/* TODO */
+"Tap to view details" = "Tap to view details";
+
+/* TODO */
+"Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "당분간 무시";
@@ -2573,7 +2639,10 @@
 "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
 
 /* No comment provided by engineer. */
-"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "iCloud Drive를 구성하려면 “설정” → “셀룰러” → “iCloud Drive”로 이동하세요.";
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "iCloud Drive를 구성하려면 “설정” → “셀룰러” → “iCloud Drive”로 이동하세요.";
+
+/* TODO */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
 
 /* TODO */
 "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
@@ -2588,7 +2657,7 @@
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "스마트 클라우드 아카이브를 사용하려면 TrollRecorder에 대한 백그라운드 앱 새로 고침을 활성화해야 합니다.";
 
 /* No comment provided by engineer. */
-"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "스마트 클라우드 아카이브를 사용하려면 설정에서 iCloud Drive에 로그인해야 합니다.";
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "스마트 클라우드 아카이브를 사용하려면 설정에서 iCloud Drive에 로그인해야 합니다.";
 
 /* No comment provided by engineer. */
 "To: %@" = "종료일: %@";
@@ -2623,6 +2692,9 @@
 /* TODO */
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
+/* TODO */
+"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+
 /* No comment provided by engineer. */
 "top edge" = "상단 가장자리";
 
@@ -2643,6 +2715,9 @@
 
 /* No comment provided by engineer. */
 "Transcript" = "녹취록";
+
+/* TODO */
+"Transfer exceeded." = "Transfer exceeded.";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "유휴 효과";
@@ -2684,7 +2759,13 @@
 "Type to search…" = "검색하려면 입력하세요...";
 
 /* TODO */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+
+/* TODO */
 "Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
 
 /* TODO */
 "Unauthorize" = "Unauthorize";
@@ -2795,7 +2876,7 @@
 "Upload" = "업로드";
 
 /* No comment provided by engineer. */
-"Upload, download or synconize recordings between local and cloud drive." = "로컬 드라이브와 클라우드 드라이브 간에 녹음을 업로드, 다운로드 또는 동기화합니다.";
+"Upload, download or synchronize recordings between local and cloud drive." = "로컬 드라이브와 클라우드 드라이브 간에 녹음을 업로드, 다운로드 또는 동기화합니다.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "생체 인증을 사용하여 응용 프로그램 잠금을 해제합니다. 이 기능을 활성화하면 백그라운드 재생을 사용할 수 없습니다.";
@@ -2889,6 +2970,9 @@
 
 /* No comment provided by engineer. */
 "View Logs: Launch Agent" = "에이전트 실행";
+
+/* TODO */
+"View Logs: Network Storage" = "View Logs: Network Storage";
 
 /* TODO */
 "View Logs: Speech Utterance" = "View Logs: Speech Utterance";
@@ -3011,9 +3095,6 @@
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
 /* No comment provided by engineer. */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "%@의 공간이 부족하면 분리된 채널의 로컬 녹음이 업로드된 후 삭제됩니다.";
-
-/* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "응용 프로그램이 밝은 사용자 인터페이스를 사용할지, 어두운 사용자 인터페이스를 사용할지 여부를 결정합니다.";
 
 /* No comment provided by engineer. */
@@ -3070,6 +3151,9 @@
 /* No comment provided by engineer. */
 "You may need to reboot your device to make this application work properly." = "이 응용 프로그램이 제대로 작동하려면 기기를 재시동해야 할 수도 있습니다.";
 
+/* TODO */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+
 /* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder JB”." = "귀하는 현재 “TrollRecorder JB” 무료 버전을 사용하고 계십니다.";
 
@@ -3110,7 +3194,7 @@
 "“Background App Refresh” Permission Denied" = "백그라운드 앱 새로 고침 권한 거부됨";
 
 /* No comment provided by engineer. */
-"“iCloud Drive” Not Logged In" = "“iCloud Drive” 에 로그인되지 않음";
+"“iCloud Drive” Not Logged In" = "“iCloud Drive” 에 로그인되지 않음";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

@@ -143,9 +143,6 @@
 "Allow Automatic Recording" = "允許自動錄音";
 
 /* No comment provided by engineer. */
-"Allow Deletion of Local Recordings" = "允許刪除本地錄音";
-
-/* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "允許喚醒懸浮球";
 
 /* No comment provided by engineer. */
@@ -284,7 +281,7 @@
 "Automatic Recording" = "自動錄音";
 
 /* No comment provided by engineer. */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "當前月份的錄音不會被歸檔。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "當前月份的錄音不會被歸檔。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
 
 /* No comment provided by engineer. */
 "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小工具添加到主螢幕任意位置才能使此選項生效。";
@@ -494,6 +491,12 @@
 "Compress Recording" = "壓縮音訊";
 
 /* No comment provided by engineer. */
+"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+
+/* No comment provided by engineer. */
+"Configure WebDAV Client" = "Configure WebDAV Client";
+
+/* No comment provided by engineer. */
 "Confirm" = "確認";
 
 /* TODO */
@@ -694,6 +697,9 @@
 /* No comment provided by engineer. */
 "Directory" = "目錄";
 
+/* TODO */
+"Directory not found." = "Directory not found.";
+
 /* No comment provided by engineer. */
 "Disabled" = "關閉";
 
@@ -739,6 +745,9 @@
 /* No comment provided by engineer. */
 "Display a notification banner when recording starts." = "錄音開始時，顯示通知橫幅。";
 
+/* TODO */
+"Display a notification banner when the synchronization fails." = "Display a notification banner when the synchronization fails.";
+
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "在通知橫幅中顯示錄音的詳細資訊。";
 
@@ -781,6 +790,9 @@
 /* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "你確認要清除日志檔案 “%@” 嗎？";
 
+/* TODO */
+"Do you want to merge recordings with “%@”?" = "Do you want to merge recordings with “%@”?";
+
 /* No comment provided by engineer. */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你確認要重設軟件授權，并將所有設定還原為原始值嗎？你的錄音檔案不會被刪除。";
 
@@ -789,6 +801,9 @@
 
 /* No comment provided by engineer. */
 "Don’t ask again" = "不再詢問";
+
+/* TODO */
+"Don’t Merge" = "Don’t Merge";
 
 /* No comment provided by engineer. */
 "Double tap to restore __all edges__  \nto their default sizes." = "輕觸兩次以恢復 __所有邊緣__ 至默認尺寸。";
@@ -822,6 +837,9 @@
 
 /* No comment provided by engineer. */
 "Duration Description" = "持續時間（描述）";
+
+/* TODO */
+"Duration exceeded." = "Duration exceeded.";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "僅轉場";
@@ -905,6 +923,9 @@
 "Error" = "錯誤";
 
 /* TODO */
+"Error from network storage" = "Error from network storage";
+
+/* TODO */
 "Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
 
 /* No comment provided by engineer. */
@@ -949,6 +970,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "無法以當前區域 “%@” 初初始化轉錄引擎。";
 
+/* TODO */
+"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+
 /* No comment provided by engineer. */
 "Failed to play: %@" = "無法播放：%@";
 
@@ -957,6 +981,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "無法刪除：%@";
+
+/* TODO */
+"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
 
 /* TODO */
 "Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
@@ -969,6 +996,9 @@
 
 /* No comment provided by engineer. */
 "File Format" = "檔案格式";
+
+/* TODO */
+"File not found." = "File not found.";
 
 /* No comment provided by engineer. */
 "File Size" = "檔案大小";
@@ -1139,13 +1169,10 @@
 "icloud" = "iCloud";
 
 /* No comment provided by engineer. */
-"iCloud Drive" = "iCloud 雲碟";
+"iCloud Drive" = "iCloud 雲碟";
 
 /* No comment provided by engineer. */
 "Idle" = "空閑";
-
-/* No comment provided by engineer. */
-"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "如果啟用了雙向同步，則允許將雲端的刪除反映到本地檔案系統中。";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜尋索引出了問題，可以在這裡重新設定。";
@@ -1213,10 +1240,10 @@
 /* No comment provided by engineer. */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "無效的程式碼簽名。\n請從 TrollStore 重新安裝此應用程式。";
 
-/* No comment provided by engineer. */
+/* TODO */
 "iPad" = "iPad";
 
-/* No comment provided by engineer. */
+/* TODO */
 "iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
@@ -1261,6 +1288,9 @@
 /* No comment provided by engineer. */
 "Larger" = "較大";
 
+/* TODO */
+"Last successful synchronization: %@" = "Last successful synchronization: %@";
+
 /* No comment provided by engineer. */
 "Later" = "稍後";
 
@@ -1281,6 +1311,9 @@
 
 /* TODO */
 "Legacy Jailbreak" = "Legacy Jailbreak";
+
+/* TODO */
+"Less serious error occurred." = "Less serious error occurred.";
 
 /* No comment provided by engineer. */
 "Lifetime Guarantee" = "一次購買終身可用";
@@ -1395,6 +1428,9 @@
 
 /* No comment provided by engineer. */
 "Medium Time" = "中等時間";
+
+/* TODO */
+"Merge" = "Merge";
 
 /* No comment provided by engineer. */
 "Merged File" = "合并檔案";
@@ -1603,14 +1639,14 @@
 /* No comment provided by engineer. */
 "Operation Succeed" = "操作成功";
 
+/* TODO */
+"Operation succeed, but no files transferred." = "Operation succeed, but no files transferred.";
+
 /* No comment provided by engineer. */
 "Operator Name" = "運營商名稱";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
-
-/* No comment provided by engineer. */
-"Optimize %@ Storage" = "優化 %@ 儲存空間";
 
 /* No comment provided by engineer. */
 "Outgoing" = "去電";
@@ -1762,6 +1798,9 @@
 /* No comment provided by engineer. */
 "Popup Banner at End" = "顯示結束通知";
 
+/* TODO */
+"Popup Banner when Fail" = "Popup Banner when Fail";
+
 /* No comment provided by engineer. */
 "Popup Banner with Badge" = "顯示通知角標";
 
@@ -1797,6 +1836,12 @@
 
 /* TODO */
 "Proceed Anyway" = "Proceed Anyway";
+
+/* TODO */
+"Process terminated by signal %d." = "Process terminated by signal %d.";
+
+/* TODO */
+"Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
 
 /* TODO */
 "Pulse-code modulation" = "Pulse-code modulation";
@@ -2194,6 +2239,15 @@
 /* No comment provided by engineer. */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "為開發者展示 “查看詳細資訊” 菜單項，以查看錄音的細節清單。";
 
+/* No comment provided by engineer. */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+
+/* No comment provided by engineer. */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+
+/* No comment provided by engineer. */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+
 /* TODO */
 "Silent Mode" = "Silent Mode";
 
@@ -2332,8 +2386,14 @@
 /* No comment provided by engineer. */
 "synchronization" = "同步";
 
+/* TODO */
+"Synchronization Failed" = "Synchronization Failed";
+
 /* No comment provided by engineer. */
 "Synchronizing" = "同步中";
+
+/* TODO */
+"Syntax or usage error occurred." = "Syntax or usage error occurred.";
 
 /* No comment provided by engineer. */
 "System Applications" = "系統應用程式";
@@ -2379,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "Tap to open settings." = "輕觸以打開設定。";
+
+/* TODO */
+"Tap to view details" = "Tap to view details";
+
+/* TODO */
+"Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暫時忽略";
@@ -2573,7 +2639,10 @@
 "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
 
 /* No comment provided by engineer. */
-"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "如需配置 iCloud 雲碟，請轉到 “設定” → “流動網絡” → “iCloud 雲碟”。";
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "如需配置 iCloud 雲碟，請轉到 “設定” → “流動網絡” → “iCloud 雲碟”。";
+
+/* TODO */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
 
 /* TODO */
 "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
@@ -2588,7 +2657,7 @@
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "如需使用智能雲端存檔，你需要為巨魔錄音機啟用背景 App 重新整理。";
 
 /* No comment provided by engineer. */
-"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "要使用智能雲端存檔，你必須在設定中登入 iCloud 雲碟。";
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "要使用智能雲端存檔，你必須在設定中登入 iCloud 雲碟。";
 
 /* No comment provided by engineer. */
 "To: %@" = "結束於：%@";
@@ -2623,6 +2692,9 @@
 /* TODO */
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
+/* TODO */
+"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+
 /* No comment provided by engineer. */
 "top edge" = "頂部邊緣";
 
@@ -2643,6 +2715,9 @@
 
 /* No comment provided by engineer. */
 "Transcript" = "轉錄";
+
+/* TODO */
+"Transfer exceeded." = "Transfer exceeded.";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "閑置效果";
@@ -2684,7 +2759,13 @@
 "Type to search…" = "鍵入以搜尋…";
 
 /* TODO */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+
+/* TODO */
 "Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
 
 /* TODO */
 "Unauthorize" = "Unauthorize";
@@ -2795,7 +2876,7 @@
 "Upload" = "上載";
 
 /* No comment provided by engineer. */
-"Upload, download or synconize recordings between local and cloud drive." = "在本地與雲端之間上載、下載或同步錄音。";
+"Upload, download or synchronize recordings between local and cloud drive." = "在本地與雲端之間上載、下載或同步錄音。";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物特徵識別驗證來解鎖應用程式。啟用此功能時，後台播放不可用。";
@@ -2889,6 +2970,9 @@
 
 /* No comment provided by engineer. */
 "View Logs: Launch Agent" = "啟用代理";
+
+/* TODO */
+"View Logs: Network Storage" = "View Logs: Network Storage";
 
 /* TODO */
 "View Logs: Speech Utterance" = "View Logs: Speech Utterance";
@@ -3011,9 +3095,6 @@
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
 /* No comment provided by engineer. */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "如果你的 %@ 空間不足，分離通道上的本地錄音在上載後將被刪除。";
-
-/* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "是否强制應用程式使用淺色或深色用戶界面。";
 
 /* No comment provided by engineer. */
@@ -3070,6 +3151,9 @@
 /* No comment provided by engineer. */
 "You may need to reboot your device to make this application work properly." = "你可能需要重新啟動你的裝置以使此應用程式正常工作。";
 
+/* TODO */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+
 /* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder JB”." = "您現在正在試用巨魔錄音機越獄版。";
 
@@ -3110,7 +3194,7 @@
 "“Background App Refresh” Permission Denied" = "“背景 App 重新整理” 被拒絕";
 
 /* No comment provided by engineer. */
-"“iCloud Drive” Not Logged In" = "未登入 “iCloud 雲碟”";
+"“iCloud Drive” Not Logged In" = "未登入 “iCloud 雲碟”";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

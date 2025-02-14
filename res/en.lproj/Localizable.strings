@@ -143,9 +143,6 @@
 "Allow Automatic Recording" = "Allow Automatic Recording";
 
 /* No comment provided by engineer. */
-"Allow Deletion of Local Recordings" = "Allow Deletion of Local Recordings";
-
-/* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
 
 /* No comment provided by engineer. */
@@ -284,7 +281,7 @@
 "Automatic Recording" = "Automatic Recording";
 
 /* No comment provided by engineer. */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
 /* No comment provided by engineer. */
 "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen.";
@@ -494,6 +491,12 @@
 "Compress Recording" = "Compress Recording";
 
 /* No comment provided by engineer. */
+"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+
+/* No comment provided by engineer. */
+"Configure WebDAV Client" = "Configure WebDAV Client";
+
+/* No comment provided by engineer. */
 "Confirm" = "Confirm";
 
 /* No comment provided by engineer. */
@@ -695,6 +698,9 @@
 "Directory" = "Directory";
 
 /* No comment provided by engineer. */
+"Directory not found." = "Directory not found.";
+
+/* No comment provided by engineer. */
 "Disabled" = "Disabled";
 
 /* No comment provided by engineer. */
@@ -740,6 +746,9 @@
 "Display a notification banner when recording starts." = "Display a notification banner when recording starts.";
 
 /* No comment provided by engineer. */
+"Display a notification banner when the synchronization fails." = "Display a notification banner when the synchronization fails.";
+
+/* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Display the detail of recordings in the notification banner.";
 
 /* No comment provided by engineer. */
@@ -782,6 +791,9 @@
 "Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
 
 /* No comment provided by engineer. */
+"Do you want to merge recordings with “%@”?" = "Do you want to merge recordings with “%@”?";
+
+/* No comment provided by engineer. */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
 
 /* No comment provided by engineer. */
@@ -789,6 +801,9 @@
 
 /* No comment provided by engineer. */
 "Don’t ask again" = "Don’t ask again";
+
+/* No comment provided by engineer. */
+"Don’t Merge" = "Don’t Merge";
 
 /* No comment provided by engineer. */
 "Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
@@ -822,6 +837,9 @@
 
 /* No comment provided by engineer. */
 "Duration Description" = "Duration Description";
+
+/* No comment provided by engineer. */
+"Duration exceeded." = "Duration exceeded.";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "Dynamic Transition";
@@ -905,6 +923,9 @@
 "Error" = "Error";
 
 /* No comment provided by engineer. */
+"Error from network storage" = "Error from network storage";
+
+/* No comment provided by engineer. */
 "Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
 
 /* No comment provided by engineer. */
@@ -950,6 +971,9 @@
 "Failed to initialize speech recognizer using current locale “%@”." = "Failed to initialize speech recognizer using current locale “%@”.";
 
 /* No comment provided by engineer. */
+"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+
+/* No comment provided by engineer. */
 "Failed to play: %@" = "Failed to play: %@";
 
 /* No comment provided by engineer. */
@@ -957,6 +981,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Failed to remove: %@";
+
+/* No comment provided by engineer. */
+"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
 
 /* No comment provided by engineer. */
 "Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
@@ -969,6 +996,9 @@
 
 /* No comment provided by engineer. */
 "File Format" = "File Format";
+
+/* No comment provided by engineer. */
+"File not found." = "File not found.";
 
 /* No comment provided by engineer. */
 "File Size" = "File Size";
@@ -1139,13 +1169,10 @@
 "icloud" = "iCloud";
 
 /* No comment provided by engineer. */
-"iCloud Drive" = "iCloud Drive";
+"iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
 "Idle" = "Idle";
-
-/* No comment provided by engineer. */
-"If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem." = "If bidirectional synchronization is enabled, allow the deletion from cloud to be reflected on the local filesystem.";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
@@ -1262,6 +1289,9 @@
 "Larger" = "Larger";
 
 /* No comment provided by engineer. */
+"Last successful synchronization: %@" = "Last successful synchronization: %@";
+
+/* No comment provided by engineer. */
 "Later" = "Later";
 
 /* No comment provided by engineer. */
@@ -1281,6 +1311,9 @@
 
 /* No comment provided by engineer. */
 "Legacy Jailbreak" = "Legacy Jailbreak";
+
+/* No comment provided by engineer. */
+"Less serious error occurred." = "Less serious error occurred.";
 
 /* No comment provided by engineer. */
 "Lifetime Guarantee" = "Lifetime Guarantee";
@@ -1395,6 +1428,9 @@
 
 /* No comment provided by engineer. */
 "Medium Time" = "Medium Time";
+
+/* No comment provided by engineer. */
+"Merge" = "Merge";
 
 /* No comment provided by engineer. */
 "Merged File" = "Merged File";
@@ -1604,13 +1640,13 @@
 "Operation Succeed" = "Operation Succeed";
 
 /* No comment provided by engineer. */
+"Operation succeed, but no files transferred." = "Operation succeed, but no files transferred.";
+
+/* No comment provided by engineer. */
 "Operator Name" = "Operator Name";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
-
-/* No comment provided by engineer. */
-"Optimize %@ Storage" = "Optimize %@ Storage";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Outgoing";
@@ -1763,6 +1799,9 @@
 "Popup Banner at End" = "Popup Banner at End";
 
 /* No comment provided by engineer. */
+"Popup Banner when Fail" = "Popup Banner when Fail";
+
+/* No comment provided by engineer. */
 "Popup Banner with Badge" = "Popup Banner with Badge";
 
 /* No comment provided by engineer. */
@@ -1797,6 +1836,12 @@
 
 /* No comment provided by engineer. */
 "Proceed Anyway" = "Proceed Anyway";
+
+/* No comment provided by engineer. */
+"Process terminated by signal %d." = "Process terminated by signal %d.";
+
+/* No comment provided by engineer. */
+"Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
 
 /* No comment provided by engineer. */
 "Pulse-code modulation" = "Pulse-code modulation";
@@ -2195,6 +2240,15 @@
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
 
 /* No comment provided by engineer. */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+
+/* No comment provided by engineer. */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+
+/* No comment provided by engineer. */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+
+/* No comment provided by engineer. */
 "Silent Mode" = "Silent Mode";
 
 /* No comment provided by engineer. */
@@ -2333,7 +2387,13 @@
 "synchronization" = "synchronization";
 
 /* No comment provided by engineer. */
+"Synchronization Failed" = "Synchronization Failed";
+
+/* No comment provided by engineer. */
 "Synchronizing" = "Synchronizing";
+
+/* No comment provided by engineer. */
+"Syntax or usage error occurred." = "Syntax or usage error occurred.";
 
 /* No comment provided by engineer. */
 "System Applications" = "System Applications";
@@ -2379,6 +2439,12 @@
 
 /* No comment provided by engineer. */
 "Tap to open settings." = "Tap to open settings.";
+
+/* No comment provided by engineer. */
+"Tap to view details" = "Tap to view details";
+
+/* No comment provided by engineer. */
+"Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Temporary Ignore";
@@ -2573,7 +2639,10 @@
 "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
 
 /* No comment provided by engineer. */
-"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
+
+/* No comment provided by engineer. */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
 
 /* No comment provided by engineer. */
 "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
@@ -2588,7 +2657,7 @@
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”.";
 
 /* No comment provided by engineer. */
-"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”.";
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”.";
 
 /* No comment provided by engineer. */
 "To: %@" = "To: %@";
@@ -2624,6 +2693,9 @@
 "Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
 /* No comment provided by engineer. */
+"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+
+/* No comment provided by engineer. */
 "top edge" = "top edge";
 
 /* No comment provided by engineer. */
@@ -2643,6 +2715,9 @@
 
 /* No comment provided by engineer. */
 "Transcript" = "Transcript";
+
+/* No comment provided by engineer. */
+"Transfer exceeded." = "Transfer exceeded.";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Transition When Idle";
@@ -2684,7 +2759,13 @@
 "Type to search…" = "Type to search…";
 
 /* No comment provided by engineer. */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+
+/* No comment provided by engineer. */
 "Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* No comment provided by engineer. */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
 
 /* No comment provided by engineer. */
 "Unauthorize" = "Unauthorize";
@@ -2795,7 +2876,7 @@
 "Upload" = "Upload";
 
 /* No comment provided by engineer. */
-"Upload, download or synconize recordings between local and cloud drive." = "Upload, download or synconize recordings between local and cloud drive.";
+"Upload, download or synchronize recordings between local and cloud drive." = "Upload, download or synchronize recordings between local and cloud drive.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled.";
@@ -2889,6 +2970,9 @@
 
 /* No comment provided by engineer. */
 "View Logs: Launch Agent" = "View Logs: Launch Agent";
+
+/* No comment provided by engineer. */
+"View Logs: Network Storage" = "View Logs: Network Storage";
 
 /* No comment provided by engineer. */
 "View Logs: Speech Utterance" = "View Logs: Speech Utterance";
@@ -3011,9 +3095,6 @@
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
 
 /* No comment provided by engineer. */
-"When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded.";
-
-/* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Whether to force the application to use the light or the dark user interface.";
 
 /* No comment provided by engineer. */
@@ -3071,6 +3152,9 @@
 "You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
 
 /* No comment provided by engineer. */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+
+/* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder JB”." = "You’re now using the free version of “TrollRecorder JB”.";
 
 /* No comment provided by engineer. */
@@ -3110,7 +3194,7 @@
 "“Background App Refresh” Permission Denied" = "“Background App Refresh” Permission Denied";
 
 /* No comment provided by engineer. */
-"“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
+"“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
