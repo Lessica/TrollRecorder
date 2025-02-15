@@ -2038,6 +2038,9 @@
 /* No comment provided by engineer. */
 "Resume with Warning" = "繼續並警告";
 
+/* TODO */
+"Retry" = "Retry";
+
 /* No comment provided by engineer. */
 "Reverse Selection" = "反選";
 
@@ -2797,6 +2800,9 @@
 /* TODO */
 "Unknown error occurred." = "Unknown error occurred.";
 
+/* TODO */
+"Unknown error occurred. Please check the log for more details." = "Unknown error occurred. Please check the log for more details.";
+
 /* No comment provided by engineer. */
 "Unknown File Format" = "未知檔案格式";
 
@@ -2952,6 +2958,9 @@
 
 /* No comment provided by engineer. */
 "View Details" = "查看詳細資訊";
+
+/* TODO */
+"View Logs" = "View Logs";
 
 /* No comment provided by engineer. */
 "View Logs: Application" = "應用程式";

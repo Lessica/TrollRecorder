@@ -1,80 +1,82 @@
 # E.U.L.A.
 
-Welcome to the TrollRecorder software and related services! We would like to remind you (the User) to read the TrollRecorder User Agreement and Privacy Policy (hereinafter referred to as the "Agreement") carefully before using and purchasing, and make sure that you fully understand the terms and conditions of the Agreement, especially those involving exemption or limitation of liability, license of rights and use of information, Terms of Consent to Open, Application of Laws and Dispute Settlement. Among them, the exemption or limitation of liability provisions and other important content will be bolded to alert your attention, you should focus on reading. If you are under 18 years of age, please read and fully understand this Agreement with your legal guardian and obtain the consent of your legal guardian to download the Software. Please read carefully and choose to accept or not accept this Agreement.
+Welcome to the TrollRecorder software and related services! We kindly ask you (the User) to carefully read the TrollRecorder User Agreement and Privacy Policy (hereinafter referred to as the "Agreement") before using or purchasing the software. Please ensure that you fully understand the terms and conditions of the Agreement, especially those involving exemption or limitation of liability, license of rights, use of information, consent terms, applicable laws, and dispute resolution. Provisions related to exemption or limitation of liability and other important content will be highlighted in bold to draw your attention. If you are under 18 years of age, please read and fully understand this Agreement with your legal guardian and obtain their consent before downloading the Software. Please read carefully and choose whether to accept or not accept this Agreement.
 
-Unless you accept all the terms of this Agreement, you are not authorized to purchase or use (hereinafter collectively referred to as "Use") the "TrollRecorder" Software or in any way use the "TrollRecorder" services or to obtain any services provided by the "TrollRecorder" software. By using the "TrollRecorder" software and related services (hereinafter referred to as the "Service"), you are deemed to have fully understood this Agreement and undertake to be bound by its terms as a party thereto. The "TrollRecorder" software service is developed and published by [@Lessica](https://github.com/Lessica) and [@Lakr233](https://github.com/Lakr233). This Agreement sets forth the rights and obligations between the developer of the "TrollRecorder" software and the User with respect to the "TrollRecorder" software service (the "Service"). ").
+Unless you accept all the terms of this Agreement, you are not authorized to purchase or use (hereinafter collectively referred to as "Use") the "TrollRecorder" Software or in any way use the "TrollRecorder" services or obtain any services provided by the "TrollRecorder" software. By using the "TrollRecorder" software and related services (hereinafter referred to as the "Service"), you are deemed to have fully understood this Agreement and agree to be bound by its terms. The "TrollRecorder" software service is developed and published by [@Lessica](https://github.com/Lessica) and [@Lakr233](https://github.com/Lakr233). This Agreement sets forth the rights and obligations between the developers of the "TrollRecorder" software and the User with respect to the "TrollRecorder" software service (the "Service").
 
 ## Definitions
 
-1. User: All natural persons, legal entities and other organizations, etc. who directly or indirectly acquire and use the "TrollRecorder" software and related services. In this Agreement, the term "User" or "You" is used.
-2. "TrollRecorder" means the software legally owned and operated by [@Lessica](https://github.com/Lessica) and [@Lakr233](https://github.com/Lakr233), "TrollRecorder" means the client applications, applets, WeChat public numbers, Today's headlines, Weibo and the website of [TrollRecorder](https://82flex.com/TrollRecorder/) legally owned and operated by [@Lessica](https://82flex.com/TrollRecorder/) and [@Lakr233](https://82flex.com/TrollRecorder/).
-3. This Agreement also includes all agreements and rules regarding the TrollRecorder Software and related services that have been published by the developer of the TrollRecorder Software and may be published from time to time. Once the aforementioned content has been officially published and delivered to the user in an appropriate manner (system notification, SMS, phone call, etc.), it becomes an integral part of this Agreement and you shall comply with the same. If the user does not accept the modified terms, please stop using the service immediately, the user continues to use the service is deemed to accept the modified agreement.
+1. **User**: Refers to all natural persons, legal entities, and other organizations who directly or indirectly acquire and use the "TrollRecorder" software and related services. In this Agreement, the term "User" or "You" is used.
+2. **"TrollRecorder"**: Refers to the software legally owned and operated by [@Lessica](https://github.com/Lessica) and [@Lakr233](https://github.com/Lakr233). "TrollRecorder" includes the client applications, applets, WeChat public accounts, Today's headlines, Weibo, and the website of [TrollRecorder](https://82flex.com/TrollRecorder/) legally owned and operated by [@Lessica](https://82flex.com/TrollRecorder/) and [@Lakr233](https://github.com/Lakr233).
+3. **Agreement**: Refers to this End User License Agreement, including all agreements and rules regarding the TrollRecorder Software and related services that have been published by the developers and may be published from time to time. Once the aforementioned content has been officially published and delivered to the User in an appropriate manner (e.g., system notification, SMS, phone call), it becomes an integral part of this Agreement, and you shall comply with it. If the User does not accept the modified terms, please stop using the service immediately. Continued use of the service is deemed acceptance of the modified Agreement.
 
 ## Software Purchase
 
-### Free use
+### Free Use
 
-The free version of "TrollRecorder" is available for free use and has the following differences in terms of functionality compared to the paid version:
+The free version of "TrollRecorder" is available for use at no cost and has the following functional limitations compared to the paid version:
 
-1. The free version does not provide any kind of technical support.
-2. Some of the settings (including, but not limited to, hoverball, geolocation, mixer and merger options) are restricted in the free version.
-3. Recording files of the free version will be watermarked.
+1. The free version does not include any form of technical support.
+2. Certain settings (including, but not limited to, hoverball, geolocation, mixer, and merger options) are restricted in the free version.
+3. Recordings made with the free version will be watermarked.
 
 The User shall use the free version of "TrollRecorder" in accordance with the full terms of this Agreement.
 
-### Authorized use
+### Authorized Use
 
-The User is required to purchase a license for the use of "TrollRecorder" before using the "TrollRecorder" paid service. The "TrollRecorder" license shall be registered with a device UDID number and a single license can be bound to one device UDID.
+The User is required to purchase a license to access the paid services of "TrollRecorder". The "TrollRecorder" license must be registered with a device UDID number, and a single license can be bound to one device UDID.
 
-### You undertake and guarantee that
+### User Commitments and Guarantees
 
-1. You understand and agree that the user shall be fully responsible for the authenticity, legality and validity of the information purchased; the user shall not impersonate any other person or publish any information in the name of any other person; the user shall not maliciously use the Authorized Device in such a way as to cause misidentification by other users; otherwise, we shall have the right to stop providing the service immediately and you shall bear all legal responsibilities arising therefrom.
-2. After your authorization is lost or forgotten, you can follow the corresponding complaint channels to timely appeal for retrieval.
-3. If your license is stolen or lost due to your own reasons or other uncontrollable factors, you are responsible for it and the developer of the "TrollRecorder" software will not be held liable.
+1. You understand and agree that you are fully responsible for the authenticity, legality, and validity of the information provided during the purchase; you shall not impersonate any other person or publish any information in the name of another person; you shall not maliciously use the Authorized Device in a manner that causes misidentification by other users. Otherwise, we reserve the right to immediately cease providing the service, and you shall bear all legal responsibilities arising therefrom.
+2. If your authorization is lost or forgotten, you can follow the corresponding complaint channels to appeal for retrieval in a timely manner.
+3. If your license is stolen or lost due to your own actions or other uncontrollable factors, you are responsible for it, and the developers of the "TrollRecorder" software will not be held liable.
 
 ## Privacy Policy
 
-The developer of "TrollRecorder" collects and uses personal information in accordance with laws and regulations and adheres to the principles of legality, legitimacy and necessity in the collection and use of personal information. Before using the "TrollRecorder" software and related services, please be sure to read and thoroughly understand this Privacy Policy. The developer of the "TrollRecorder" software may collect and use information about you, and you By choosing to use the "TrollRecorder" Software and related services, you agree that the developers of the "TrollRecorder" Software may collect, store, use, share, disclose and protect your information in accordance with this Privacy Policy. Information.
+The developer of "TrollRecorder" collects and uses personal information in accordance with applicable laws and regulations, adhering to the principles of legality, legitimacy, and necessity. Before using the "TrollRecorder" software and related services, please read and thoroughly understand this Privacy Policy. By choosing to use the "TrollRecorder" software and related services, you agree that the developers may collect, store, use, share, disclose, and protect your information in accordance with this Privacy Policy.
 
-### Information that may be collected by the Software
+### Information That May Be Collected by the Software
 
-#### Information you may provide
+#### Information You May Provide
 
-Network identification information (including system account number, IP address, e-mail address, etc.); communication information; device information (including device model, device MAC address, operating system type, device settings); unique device identifiers from the software list (information describing the basic conditions of the devices commonly used by an individual, such as IMEI/IDFA/UDID/GUID, SIM card IMSI information, etc.); location information (including trip information); and information about you. ); location information (including trip information, precise positioning information, accommodation information, latitude and longitude, etc.).
+- Network identification information (including system account number, IP address, email address, etc.)
+- Communication information
+- Device information (including device model, device MAC address, operating system type, device settings)
+- Unique device identifiers (such as IMEI/IDFA/UDID/GUID, SIM card IMSI information, etc.)
+- Location information (including trip information, precise positioning information, accommodation information, latitude and longitude, etc.)
 
-Information that may be collected by the developers of the "TrollRecorder" software.
+#### Information That May Be Collected by the Developers
 
-1. Log information
-   When you use the services provided by the developers of the "TrollRecorder" software, some log information that is not personally identifiable to you may be automatically collected through cookies or other means. This information includes: device or application information, such as the hardware device you are using, configuration information provided by your web browser or other program used to access the Platform services, your IP address, the version of the hardware device you are using and the device identification number.
+1. **Log Information**: When you use the services provided by the developers of the "TrollRecorder" software, some log information that is not personally identifiable may be automatically collected through cookies or other means. This information includes device or application information, such as the hardware device you are using, configuration information provided by your web browser or other programs used to access the platform services, your IP address, the version of the hardware device you are using, and the device identification number.
 
-2. Location Information
-   When you use the services provided by the Software through mobile devices with positioning function, the system will collect your geographic location information through GPS or Wi-Fi. You can stop the collection of your geographic location information by turning off the location function.
+2. **Location Information**: When you use the services provided by the software through mobile devices with positioning functions, the system will collect your geographic location information through GPS or Wi-Fi. You can stop the collection of your geographic location information by turning off the location function on your device.
 
-### How information may be used by the developers of the "TrollRecorder" Software
+### How Information May Be Used by the Developers of the "TrollRecorder" Software
 
 The developers of the "TrollRecorder" software may use the collected information for the following purposes:
 
 1. To provide services to you;
-2. To assist in the design, optimization and upgrading of the product and services;
-3. To provide you with personalized services, such as displaying and delivering to you knowledge content and advertisements that are more relevant to you;
-4. For authentication, security precautions, archiving and backup to ensure the security of the Services.
+2. To assist in the design, optimization, and upgrading of the product and services;
+3. To provide you with personalized services, such as displaying and delivering content and advertisements that are more relevant to you;
+4. For authentication, security precautions, archiving, and backup to ensure the security of the Services.
 
-### Protection of information
+### Protection of Information
 
 The developers of the "TrollRecorder" software will utilize a variety of security technologies and procedures to establish a comprehensive management system to protect your personal information.
 
-### Proper use and disclosure of information
+### Proper Use and Disclosure of Information
 
-The developers of "TrollRecorder" software will not transfer or disclose your personal information to any non-affiliated third party unless:
+The developers of the "TrollRecorder" software will not transfer or disclose your personal information to any non-affiliated third party unless:
 
 1. We have obtained your explicit authorization and consent in advance;
 2. When required to do so by relevant laws and regulations or by courts or governmental authorities;
-3. For the purpose of completing a merger, demerger, acquisition or transfer of assets, provided that the " TrollRecorder " Software Developer will require the new company, organization or individual holding your personal information to continue to be bound by this Privacy Policy, otherwise, the " TrollRecorder " Software Developer reserves the right to require such company, organization or individual to obtain your authorization to consent;
-4. Within the scope permitted by laws and regulations, in order to safeguard the lives, properties and other legitimate rights and interests of other users of "TrollRecorder" and the developers of the "TrollRecorder" software or to maintain the safety and stability of the products or services, the developers of the "TrollRecorder" software shall not be liable for any damages arising out of the use of the products or services. To the extent necessary for the safe and stable operation of TrollRecorder products or services, for example, to detect, prevent, and deal with illegal activities such as fraud and to minimize credit risks;
-5. The developer of the "TrollRecorder" software files a lawsuit or arbitration against the user in order to protect its legitimate rights and interests;
-6. For the purpose of public interest or academic research;
+3. For the purpose of completing a merger, demerger, acquisition, or transfer of assets, provided that the "TrollRecorder" software developers will require the new company, organization, or individual holding your personal information to continue to be bound by this Privacy Policy. Otherwise, the "TrollRecorder" software developers reserve the right to require such company, organization, or individual to obtain your authorization and consent;
+4. Within the scope permitted by laws and regulations, in order to safeguard the lives, properties, and other legitimate rights and interests of other users of "TrollRecorder" and the developers of the "TrollRecorder" software or to maintain the safety and stability of the products or services. To the extent necessary for the safe and stable operation of TrollRecorder products or services, for example, to detect, prevent, and deal with illegal activities such as fraud and to minimize credit risks;
+5. The developers of the "TrollRecorder" software file a lawsuit or arbitration against the user in order to protect their legitimate rights and interests;
+6. For the purpose of public interest or academic research.
 
-Please note that the developer of the "TrollRecorder" software will not ask you to provide any of your property accounts, bank cards, credit cards, third-party payment accounts and corresponding passwords when you use the relevant products or services, so please do not disclose your property accounts, bank cards, credit cards, third-party payment accounts and corresponding passwords or other important information when you use the services. Please do not disclose your property accounts, bank cards, credit cards, third-party payment accounts and corresponding passwords in the use of the service, otherwise you will be responsible for any loss caused.
+Please note that the developers of the "TrollRecorder" software will not ask you to provide any of your property accounts, bank cards, credit cards, third-party payment accounts, and corresponding passwords when you use the relevant products or services. Therefore, please do not disclose your property accounts, bank cards, credit cards, third-party payment accounts, and corresponding passwords or other important information when you use the services. If you do disclose such information, you will be responsible for any loss caused.
 
 ## Users' Usage Rules
 
@@ -181,5 +183,3 @@ The "TrollRecorder" software developer relies on the "TrollRecorder" software to
 1. The laws of the People's Republic of China (excluding conflict of laws) shall apply to the establishment, entry into force, fulfillment, interpretation and dispute resolution of this Agreement.
 2. The place of this Agreement is Jiangning District, Nanjing City, Jiangsu Province, People's Republic of China.
 3. If any dispute or controversy arises between you and the developer of the "TrollRecorder" software, it shall first be resolved through friendly negotiation; in the event that the negotiation fails, you agree to submit the dispute or controversy to the place where the Agreement is signed (i.e., Jiangning District of the People's Republic of China).
-
-**Translated with DeepL.com (free version), for original copy of this EULA, please contact us. For differences between the original and the translated version, the original version shall prevail.**

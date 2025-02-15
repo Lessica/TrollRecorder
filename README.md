@@ -37,8 +37,8 @@ We always built our app in the best quality.
 - [x] Discreet Voice Memos
 - [x] Record System Audio (i.e. What You Hear)
 - [x] Built-In Audio Editor
-- [ ] Google Drive
-- [ ] <del>Dropbox</del>
+- [x] Google Drive
+- [x] Dropbox
 
 ## Special Thanks
 
@@ -62,6 +62,14 @@ At least, you need to provide `Localizable.strings` and `InfoPlist.strings`. Exa
 **🙇 PLEASE HELP US TRANSLATE!**
 
 ![Statistics](./res/stats.png)
+
+## Privacy Policy
+
+See [Privacy Policy](./PrivacyPolicy.md).
+
+## End-User License Agreement
+
+See [E.U.L.A.](./EULA.md).
 
 ## License
 

@@ -2039,6 +2039,9 @@
 "Resume with Warning" = "继续并警告";
 
 /* No comment provided by engineer. */
+"Retry" = "重试";
+
+/* No comment provided by engineer. */
 "Reverse Selection" = "反选";
 
 /* No comment provided by engineer. */
@@ -2798,6 +2801,9 @@
 "Unknown error occurred." = "发生未知错误。";
 
 /* No comment provided by engineer. */
+"Unknown error occurred. Please check the log for more details." = "发生未知错误。请查看日志以获取更多详细信息。";
+
+/* No comment provided by engineer. */
 "Unknown File Format" = "未知文件格式";
 
 /* No comment provided by engineer. */
@@ -2952,6 +2958,9 @@
 
 /* No comment provided by engineer. */
 "View Details" = "查看详情";
+
+/* No comment provided by engineer. */
+"View Logs" = "查看日志";
 
 /* No comment provided by engineer. */
 "View Logs: Application" = "应用程序";
