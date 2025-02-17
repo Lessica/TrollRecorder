@@ -224,6 +224,9 @@
 "archive" = "归档";
 
 /* No comment provided by engineer. */
+"Archive" = "归档";
+
+/* No comment provided by engineer. */
 "Are you sure you want to discard the changes you made?" = "你确定要丢弃你所做的更改吗？";
 
 /* No comment provided by engineer. */
@@ -1394,6 +1397,9 @@
 "Make a new voice memo, or stop an existing one." = "开始一次新的语音备忘录，或停止一个正在进行的录制。";
 
 /* No comment provided by engineer. */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "同步：只修改云盘上的录音，使之与本地的录音保持一致。";
+
+/* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在备份域中创建录音的浅拷贝，并允许 iCloud 备份中包含这些副本。";
 
 /* No comment provided by engineer. */
@@ -1686,6 +1692,9 @@
 
 /* No comment provided by engineer. */
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "执行 “使用 iCloud 备份” 和 “智能云归档” 的完全同步。";
+
+/* No comment provided by engineer. */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "双向同步：在本地与云盘之间保持同步。";
 
 /* No comment provided by engineer. */
 "Perform Full Synchronization" = "执行完全同步";
@@ -2882,6 +2891,9 @@
 "Upload" = "上传";
 
 /* No comment provided by engineer. */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "上传：将本地录音以初始形态上传到云盘。可恢复。";
+
+/* No comment provided by engineer. */
 "Upload, download or synchronize recordings between local and cloud drive." = "在本地与云端之间上传、下载或同步录音。";
 
 /* No comment provided by engineer. */
@@ -2907,6 +2919,9 @@
 
 /* No comment provided by engineer. */
 "Use Snapshot Transition" = "使用快照效果";
+
+/* No comment provided by engineer. */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "归档：使用 “内容共享” → “自定义导出名称” 重命名本地录音并上传到云盘。不可恢复。";
 
 /* No comment provided by engineer. */
 "User Agreement" = "用户协议";

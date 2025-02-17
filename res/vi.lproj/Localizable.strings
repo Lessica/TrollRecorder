@@ -224,6 +224,9 @@
 "archive" = "archive";
 
 /* TODO */
+"Archive" = "Archive";
+
+/* TODO */
 "Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
 
 /* TODO */
@@ -1394,6 +1397,9 @@
 "Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
 
 /* TODO */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+
+/* TODO */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* TODO */
@@ -1686,6 +1692,9 @@
 
 /* TODO */
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”.";
+
+/* TODO */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
 
 /* TODO */
 "Perform Full Synchronization" = "Perform Full Synchronization";
@@ -2882,6 +2891,9 @@
 "Upload" = "Upload";
 
 /* TODO */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
+
+/* TODO */
 "Upload, download or synchronize recordings between local and cloud drive." = "Upload, download or synchronize recordings between local and cloud drive.";
 
 /* TODO */
@@ -2907,6 +2919,9 @@
 
 /* TODO */
 "Use Snapshot Transition" = "Use Snapshot Transition";
+
+/* TODO */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
 
 /* No comment provided by engineer. */
 "User Agreement" = "Thỏa thuận người dùng";
