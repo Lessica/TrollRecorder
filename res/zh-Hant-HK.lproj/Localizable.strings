@@ -227,6 +227,9 @@
 "Archive" = "Archive";
 
 /* TODO */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
+
+/* TODO */
 "Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
 
 /* No comment provided by engineer. */
@@ -345,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Bi-sync" = "雙向同步";
+
+/* TODO */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "生物特徵識別認證";
@@ -1396,9 +1402,6 @@
 /* TODO */
 "Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
 
-/* TODO */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
-
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在備份域中創建錄音的淺拷貝，並允許 iCloud 備份中包含這些副本。";
 
@@ -1693,9 +1696,6 @@
 /* No comment provided by engineer. */
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "執行 “使用 iCloud 備份” 和 “智能雲歸檔” 的完全同步。";
 
-/* TODO */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
-
 /* No comment provided by engineer. */
 "Perform Full Synchronization" = "執行完全同步";
 
@@ -1893,6 +1893,15 @@
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "連線守護進程";
+
+/* TODO */
+"README_APP_DOCUMENTS" = "README_APP_DOCUMENTS";
+
+/* TODO */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "README_SERVICE_ARCHIVED_RECORDINGS";
+
+/* TODO */
+"README_SERVICE_RECORDINGS" = "README_SERVICE_RECORDINGS";
 
 /* No comment provided by engineer. */
 "Ready" = "就緒";
@@ -2395,6 +2404,9 @@
 /* No comment provided by engineer. */
 "Sync Service Provider" = "服務供應商";
 
+/* TODO */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+
 /* No comment provided by engineer. */
 "synchronization" = "同步";
 
@@ -2890,11 +2902,11 @@
 /* No comment provided by engineer. */
 "Upload" = "上載";
 
-/* TODO */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
-
 /* No comment provided by engineer. */
 "Upload, download or synchronize recordings between local and cloud drive." = "在本地與雲端之間上載、下載或同步錄音。";
+
+/* TODO */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物特徵識別驗證來解鎖應用程式。啟用此功能時，後台播放不可用。";
@@ -2919,9 +2931,6 @@
 
 /* No comment provided by engineer. */
 "Use Snapshot Transition" = "使用快照效果";
-
-/* TODO */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
 
 /* No comment provided by engineer. */
 "User Agreement" = "用戶合約";

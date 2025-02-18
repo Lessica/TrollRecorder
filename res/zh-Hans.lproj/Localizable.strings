@@ -227,6 +227,9 @@
 "Archive" = "归档";
 
 /* No comment provided by engineer. */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "归档：使用 “内容共享” → “自定义导出名称” 重命名本地录音并上传到云盘。不可恢复。";
+
+/* No comment provided by engineer. */
 "Are you sure you want to discard the changes you made?" = "你确定要丢弃你所做的更改吗？";
 
 /* No comment provided by engineer. */
@@ -345,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Bi-sync" = "双向同步";
+
+/* No comment provided by engineer. */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "双向同步：在本地与云盘之间保持同步。";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "生物识别验证";
@@ -1397,9 +1403,6 @@
 "Make a new voice memo, or stop an existing one." = "开始一次新的语音备忘录，或停止一个正在进行的录制。";
 
 /* No comment provided by engineer. */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "同步：只修改云盘上的录音，使之与本地的录音保持一致。";
-
-/* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在备份域中创建录音的浅拷贝，并允许 iCloud 备份中包含这些副本。";
 
 /* No comment provided by engineer. */
@@ -1694,9 +1697,6 @@
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "执行 “使用 iCloud 备份” 和 “智能云归档” 的完全同步。";
 
 /* No comment provided by engineer. */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "双向同步：在本地与云盘之间保持同步。";
-
-/* No comment provided by engineer. */
 "Perform Full Synchronization" = "执行完全同步";
 
 /* No comment provided by engineer. */
@@ -1893,6 +1893,15 @@
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "连接守护进程";
+
+/* No comment provided by engineer. */
+"README_APP_DOCUMENTS" = "此目录为巨魔录音机录音数据备份目录，用于 “本地存储” 的 “通过 iCloud 备份” 功能。\r\n当你意外 “还原所有设置”，可以将此目录拷贝回 /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings 以恢复录音。";
+
+/* No comment provided by engineer. */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "此目录为巨魔录音机录音归档目录，用于 “网络存储” 的 “归档” 服务模式。\r\n需归档的录音文件将会被 APFS 硬连接到此目录中，它们不会被 iCloud 备份，也不会占用多份磁盘空间。\r\n请不要修改或删除此目录当中的任何文件。";
+
+/* No comment provided by engineer. */
+"README_SERVICE_RECORDINGS" = "此目录为巨魔录音机录音数据目录，包含录音的主要音频文件、分离通道音频文件及元数据。\r\n请不要修改或删除此目录当中的任何文件。";
 
 /* No comment provided by engineer. */
 "Ready" = "就绪";
@@ -2396,6 +2405,9 @@
 "Sync Service Provider" = "服务提供商";
 
 /* No comment provided by engineer. */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "同步：只修改云盘上的录音，使之与本地的录音保持一致。";
+
+/* No comment provided by engineer. */
 "synchronization" = "同步";
 
 /* No comment provided by engineer. */
@@ -2891,10 +2903,10 @@
 "Upload" = "上传";
 
 /* No comment provided by engineer. */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "上传：将本地录音以初始形态上传到云盘。可恢复。";
+"Upload, download or synchronize recordings between local and cloud drive." = "在本地与云端之间上传、下载或同步录音。";
 
 /* No comment provided by engineer. */
-"Upload, download or synchronize recordings between local and cloud drive." = "在本地与云端之间上传、下载或同步录音。";
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "上传：将本地录音以初始形态上传到云盘。可恢复。";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物识别验证来解锁应用程序。启用此功能时，后台播放不可用。";
@@ -2919,9 +2931,6 @@
 
 /* No comment provided by engineer. */
 "Use Snapshot Transition" = "使用快照效果";
-
-/* No comment provided by engineer. */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "归档：使用 “内容共享” → “自定义导出名称” 重命名本地录音并上传到云盘。不可恢复。";
 
 /* No comment provided by engineer. */
 "User Agreement" = "用户协议";

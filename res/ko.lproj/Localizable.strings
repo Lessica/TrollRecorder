@@ -227,6 +227,9 @@
 "Archive" = "Archive";
 
 /* TODO */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
+
+/* TODO */
 "Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
 
 /* No comment provided by engineer. */
@@ -345,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Bi-sync" = "양방향 동기화";
+
+/* TODO */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "생체 인증";
@@ -1396,9 +1402,6 @@
 /* TODO */
 "Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
 
-/* TODO */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
-
 /* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "백업 도메인에서 녹음의 얕은 복사본을 만들고 iCloud 백업에 이를 포함하도록 허용합니다.";
 
@@ -1693,9 +1696,6 @@
 /* No comment provided by engineer. */
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "“iCloud로 백업”과 “스마트 클라우드 아카이브”의 전체 동기화를 수행합니다.";
 
-/* TODO */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
-
 /* No comment provided by engineer. */
 "Perform Full Synchronization" = "전체 동기화 수행";
 
@@ -1893,6 +1893,15 @@
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "데몬에 도달 중";
+
+/* TODO */
+"README_APP_DOCUMENTS" = "README_APP_DOCUMENTS";
+
+/* TODO */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "README_SERVICE_ARCHIVED_RECORDINGS";
+
+/* TODO */
+"README_SERVICE_RECORDINGS" = "README_SERVICE_RECORDINGS";
 
 /* No comment provided by engineer. */
 "Ready" = "준비";
@@ -2395,6 +2404,9 @@
 /* No comment provided by engineer. */
 "Sync Service Provider" = "서비스 공급자";
 
+/* TODO */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+
 /* No comment provided by engineer. */
 "synchronization" = "동기화";
 
@@ -2890,11 +2902,11 @@
 /* No comment provided by engineer. */
 "Upload" = "업로드";
 
-/* TODO */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
-
 /* No comment provided by engineer. */
 "Upload, download or synchronize recordings between local and cloud drive." = "로컬 드라이브와 클라우드 드라이브 간에 녹음을 업로드, 다운로드 또는 동기화합니다.";
+
+/* TODO */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "생체 인증을 사용하여 응용 프로그램 잠금을 해제합니다. 이 기능을 활성화하면 백그라운드 재생을 사용할 수 없습니다.";
@@ -2919,9 +2931,6 @@
 
 /* No comment provided by engineer. */
 "Use Snapshot Transition" = "스냅샷 효과 사용";
-
-/* TODO */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
 
 /* No comment provided by engineer. */
 "User Agreement" = "사용 약관";

@@ -227,6 +227,9 @@
 "Archive" = "Archive";
 
 /* TODO */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
+
+/* TODO */
 "Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
 
 /* TODO */
@@ -345,6 +348,9 @@
 
 /* TODO */
 "Bi-sync" = "Bi-sync";
+
+/* TODO */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Xác thực sinh trắc học";
@@ -1397,9 +1403,6 @@
 "Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
 
 /* TODO */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
-
-/* TODO */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* TODO */
@@ -1694,9 +1697,6 @@
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”.";
 
 /* TODO */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
-
-/* TODO */
 "Perform Full Synchronization" = "Perform Full Synchronization";
 
 /* TODO */
@@ -1893,6 +1893,15 @@
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "Tiếp cận Daemon";
+
+/* TODO */
+"README_APP_DOCUMENTS" = "README_APP_DOCUMENTS";
+
+/* TODO */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "README_SERVICE_ARCHIVED_RECORDINGS";
+
+/* TODO */
+"README_SERVICE_RECORDINGS" = "README_SERVICE_RECORDINGS";
 
 /* No comment provided by engineer. */
 "Ready" = "Sẵn sàng";
@@ -2396,6 +2405,9 @@
 "Sync Service Provider" = "Sync Service Provider";
 
 /* TODO */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+
+/* TODO */
 "synchronization" = "synchronization";
 
 /* TODO */
@@ -2891,10 +2903,10 @@
 "Upload" = "Upload";
 
 /* TODO */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
+"Upload, download or synchronize recordings between local and cloud drive." = "Upload, download or synchronize recordings between local and cloud drive.";
 
 /* TODO */
-"Upload, download or synchronize recordings between local and cloud drive." = "Upload, download or synchronize recordings between local and cloud drive.";
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
 
 /* TODO */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled.";
@@ -2919,9 +2931,6 @@
 
 /* TODO */
 "Use Snapshot Transition" = "Use Snapshot Transition";
-
-/* TODO */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
 
 /* No comment provided by engineer. */
 "User Agreement" = "Thỏa thuận người dùng";

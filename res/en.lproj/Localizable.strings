@@ -227,6 +227,9 @@
 "Archive" = "Archive";
 
 /* No comment provided by engineer. */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
+
+/* No comment provided by engineer. */
 "Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
 
 /* No comment provided by engineer. */
@@ -345,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Bi-sync" = "Bi-sync";
+
+/* No comment provided by engineer. */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Biometric Authentication";
@@ -1397,9 +1403,6 @@
 "Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
 
 /* No comment provided by engineer. */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
-
-/* No comment provided by engineer. */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* No comment provided by engineer. */
@@ -1694,9 +1697,6 @@
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”.";
 
 /* No comment provided by engineer. */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
-
-/* No comment provided by engineer. */
 "Perform Full Synchronization" = "Perform Full Synchronization";
 
 /* No comment provided by engineer. */
@@ -1893,6 +1893,15 @@
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "Reaching Daemon";
+
+/* No comment provided by engineer. */
+"README_APP_DOCUMENTS" = "This directory contains the backup of the TrollRecorder recordings.\r\nYou can restore them by copying them back to the original location: /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings";
+
+/* No comment provided by engineer. */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "This directory contains hard link archives to TrollRecorder recordings.\r\nThey are not included in the iCloud backup, nor are they consumed by the storage quota.\r\nDo not delete them unless you are sure you no longer need them.";
+
+/* No comment provided by engineer. */
+"README_SERVICE_RECORDINGS" = "This directory contains the TrollRecorder recordings.\r\nYou can back them up by copying them to a safe location.";
 
 /* No comment provided by engineer. */
 "Ready" = "Ready";
@@ -2396,6 +2405,9 @@
 "Sync Service Provider" = "Sync Service Provider";
 
 /* No comment provided by engineer. */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+
+/* No comment provided by engineer. */
 "synchronization" = "synchronization";
 
 /* No comment provided by engineer. */
@@ -2891,10 +2903,10 @@
 "Upload" = "Upload";
 
 /* No comment provided by engineer. */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
+"Upload, download or synchronize recordings between local and cloud drive." = "Upload, download or synchronize recordings between local and cloud drive.";
 
 /* No comment provided by engineer. */
-"Upload, download or synchronize recordings between local and cloud drive." = "Upload, download or synchronize recordings between local and cloud drive.";
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled.";
@@ -2919,9 +2931,6 @@
 
 /* No comment provided by engineer. */
 "Use Snapshot Transition" = "Use Snapshot Transition";
-
-/* No comment provided by engineer. */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
 
 /* No comment provided by engineer. */
 "User Agreement" = "User Agreement";

@@ -227,6 +227,9 @@
 "Archive" = "Archive";
 
 /* TODO */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
+
+/* TODO */
 "Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
 
 /* Translated with Microsoft Translator */
@@ -345,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Bi-sync" = "Bi-sync";
+
+/* TODO */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Autenticación biométrica";
@@ -1396,9 +1402,6 @@
 /* TODO */
 "Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
 
-/* TODO */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
-
 /* Translated with Microsoft Translator */
 "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Haz copias superficiales de las grabaciones en un dominio de copia de seguridad y permite que Copia de seguridad de iCloud las incluya.";
 
@@ -1693,9 +1696,6 @@
 /* Translated with Microsoft Translator */
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Realice una sincronización completa de “Copia de seguridad con iCloud” y “Archivo en la nube inteligente”.";
 
-/* TODO */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
-
 /* Translated with Microsoft Translator */
 "Perform Full Synchronization" = "Sincronización completa";
 
@@ -1893,6 +1893,15 @@
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "Iniciando demonio";
+
+/* TODO */
+"README_APP_DOCUMENTS" = "README_APP_DOCUMENTS";
+
+/* TODO */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "README_SERVICE_ARCHIVED_RECORDINGS";
+
+/* TODO */
+"README_SERVICE_RECORDINGS" = "README_SERVICE_RECORDINGS";
 
 /* No comment provided by engineer. */
 "Ready" = "Listo";
@@ -2395,6 +2404,9 @@
 /* Translated with Microsoft Translator */
 "Sync Service Provider" = "Proveedor de servicios de sincronización";
 
+/* TODO */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+
 /* Translated with Microsoft Translator */
 "synchronization" = "sincronización";
 
@@ -2890,11 +2902,11 @@
 /* Translated with Microsoft Translator */
 "Upload" = "Cargar";
 
-/* TODO */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
-
 /* Translated with Microsoft Translator */
 "Upload, download or synchronize recordings between local and cloud drive." = "Sube, descarga o sincroniza grabaciones entre la unidad local y la nube.";
+
+/* TODO */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
 
 /* Translated with Microsoft Translator */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Utilice la autenticación biométrica para desbloquear la aplicación. La reproducción en segundo plano no está disponible cuando esta función está habilitada.";
@@ -2919,9 +2931,6 @@
 
 /* Translated with Microsoft Translator */
 "Use Snapshot Transition" = "Utilizar la transición instantánea";
-
-/* TODO */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local recordings and upload to cloud drives. Unrestorable.";
 
 /* No comment provided by engineer. */
 "User Agreement" = "Acuerdo de usuario";
