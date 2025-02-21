@@ -227,6 +227,9 @@
 "Archive" = "归档";
 
 /* No comment provided by engineer. */
+"Archive Regeneration" = "归档重建";
+
+/* No comment provided by engineer. */
 "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "归档：使用 “内容共享” → “自定义导出名称” 重命名混合和组合模式的本地录音并上传到云盘。不可恢复。";
 
 /* No comment provided by engineer. */
@@ -1496,7 +1499,7 @@
 "More Options" = "更多选项";
 
 /* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "将删除的录音移动到一个特殊的文件夹，允许你在改变主意或后来意识到需要它们时恢复已删除的项目。";
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "将删除的录音移动到一个特殊的目录，允许你在改变主意或后来意识到需要它们时恢复已删除的项目。";
 
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "MPEG-4 音频 (m4a)";
@@ -1575,6 +1578,9 @@
 
 /* No comment provided by engineer. */
 "Not My Favourite" = "未收藏";
+
+/* No comment provided by engineer. */
+"Not Now" = "以后再说";
 
 /* No comment provided by engineer. */
 "Not Properly Configured" = "未正确配置";
@@ -1916,6 +1922,9 @@
 "Received transient error: %@" = "发生临时错误: %@";
 
 /* No comment provided by engineer. */
+"Recents Only" = "仅限最近的录音";
+
+/* No comment provided by engineer. */
 "Recommended for Apple devices" = "推荐在 Apple 设备上使用";
 
 /* No comment provided by engineer. */
@@ -1980,6 +1989,9 @@
 
 /* No comment provided by engineer. */
 "Recycle Bin" = "回收站";
+
+/* No comment provided by engineer. */
+"Regenerate All" = "完全重新生成";
 
 /* No comment provided by engineer. */
 "reject" = "拒绝";
@@ -3195,6 +3207,9 @@
 
 /* No comment provided by engineer. */
 "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "你已将此应用程序的显示语言更改为 “%@”。退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
+
+/* No comment provided by engineer. */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "你修改了 “自定义导出名称” 选项。你想重新生成 “网络存储” 中已归档的录音吗？\n此操作可能需要一段时间并消耗额外的蜂窝数据流量。在此之前，你需要在服务提供商的网页后台上手动清理名为 “TrollRecorder/ArchivedRecordings” 的目录以避免重复归档。";
 
 /* No comment provided by engineer. */
 "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "你选择继续使用无效的代码签名。你仍然可以使用此应用程序查看或导出现有录音，但其他功能可能无法使用。";

@@ -227,6 +227,9 @@
 "Archive" = "Archive";
 
 /* TODO */
+"Archive Regeneration" = "Archive Regeneration";
+
+/* TODO */
 "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable.";
 
 /* TODO */
@@ -1577,6 +1580,9 @@
 "Not My Favourite" = "Not My Favourite";
 
 /* TODO */
+"Not Now" = "Not Now";
+
+/* TODO */
 "Not Properly Configured" = "Not Properly Configured";
 
 /* No comment provided by engineer. */
@@ -1916,6 +1922,9 @@
 "Received transient error: %@" = "Received transient error: %@";
 
 /* TODO */
+"Recents Only" = "Recents Only";
+
+/* TODO */
 "Recommended for Apple devices" = "Recommended for Apple devices";
 
 /* TODO */
@@ -1980,6 +1989,9 @@
 
 /* TODO */
 "Recycle Bin" = "Recycle Bin";
+
+/* TODO */
+"Regenerate All" = "Regenerate All";
 
 /* TODO */
 "reject" = "reject";
@@ -3195,6 +3207,9 @@
 
 /* TODO */
 "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+
+/* TODO */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates.";
 
 /* TODO */
 "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available.";

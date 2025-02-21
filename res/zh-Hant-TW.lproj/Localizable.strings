@@ -227,6 +227,9 @@
 "Archive" = "Archive";
 
 /* TODO */
+"Archive Regeneration" = "Archive Regeneration";
+
+/* TODO */
 "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable.";
 
 /* No comment provided by engineer. */
@@ -1577,6 +1580,9 @@
 "Not My Favourite" = "未收藏";
 
 /* TODO */
+"Not Now" = "Not Now";
+
+/* TODO */
 "Not Properly Configured" = "Not Properly Configured";
 
 /* No comment provided by engineer. */
@@ -1916,6 +1922,9 @@
 "Received transient error: %@" = "Received transient error: %@";
 
 /* TODO */
+"Recents Only" = "Recents Only";
+
+/* TODO */
 "Recommended for Apple devices" = "Recommended for Apple devices";
 
 /* No comment provided by engineer. */
@@ -1980,6 +1989,9 @@
 
 /* No comment provided by engineer. */
 "Recycle Bin" = "回收站";
+
+/* TODO */
+"Regenerate All" = "Regenerate All";
 
 /* No comment provided by engineer. */
 "reject" = "拒絕";
@@ -3195,6 +3207,9 @@
 
 /* No comment provided by engineer. */
 "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "你已將此應用程序的顯示語言更改為 “%@”。退出並重新打開應用程序方可生效。如果需要在推送通知、懸浮窗等位置使用新設置的語言，輕按繼續以妙手回春。";
+
+/* TODO */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates.";
 
 /* No comment provided by engineer. */
 "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "你選擇繼續使用無效的代碼簽名。你仍然可以使用此應用程序查看或導出現有錄音，但其他功能可能無法使用。";
