@@ -29,17 +29,6 @@ Popular jailbreaks are also supported. Get [TrollRecorder JB](https://havoc.app/
 Core features of TrollRecorder are free to use. You can buy a Pro license to unlock advanced features.  
 Paid licenses are valid for lifetime, and up to 5 devices.
 
-## 2.x Milestones
-
-We always built our app in the best quality.
-
-- [x] Voice Memos
-- [x] Discreet Voice Memos
-- [x] Record System Audio (i.e. What You Hear)
-- [x] Built-In Audio Editor
-- [x] Google Drive
-- [x] Dropbox
-
 ## Special Thanks
 
 - [TrollStore](https://github.com/opa334/TrollStore) and [Dopamine](https://github.com/opa334/Dopamine) by [@opa334dev](https://twitter.com/opa334dev)
@@ -97,8 +86,8 @@ The command line tools of TrollRecorder are [Free Software](https://www.gnu.org/
 | 　 微信和其他 App 录音 | 　✅ | 　✅ | 非 CallKit 的第三方 App 录音 |
 | 　 系统音频录制 | | 　✅ | 录制设备发出的声音 |
 | 👍 微信通话助理 | | 　✅ | 获取并显示微信的联系人备注 |
-| 👍 首次解锁后启动 | | 　⚠️ | 仅巨魔版提供，需将「巨魔录音机」小组件添加到主屏幕 |
-| 👍 稳定持久不漏录 | | 　✅ | 需将「巨魔录音机」小组件添加到主屏幕 |
+| 👍 首次解锁后启动 | | 　✅ | 需将小组件添加到锁定屏幕或主屏幕 |
+| 👍 稳定持久不漏录 | | 　✅ | 需将小组件添加到锁定屏幕或主屏幕 |
 | 👍 优秀的功耗控制 | 　✅ | 　✅ | 基于事件驱动，对续航影响极小 |
 | 　 通知与提醒 | 　✅ | 　✅ | 振动、触感反馈和推送通知 |
 | 　 位置服务 | 　✅ | 　✅ | 记录录音时的地理位置 |
@@ -114,18 +103,18 @@ The command line tools of TrollRecorder are [Free Software](https://www.gnu.org/
 | 　 多种文件和音频格式 | | 　✅ | 支持 m4a/caf/wav，支持 aac 编码 |
 | 　 自定义采样率 | | 　✅ | 更好的音频质量 |
 | 　 触控/面容 ID | | 　✅ | |
-| 　 隐秘语音备忘录 | | 　⚠️ | 仅越狱版提供，让语音备忘录保持隐身录制 |
+| 　 隐秘语音备忘录 | | 　✅ | 让语音备忘录保持隐身录制 |
 | 　 电话/联系人联动 | | 　✅ | 仅越狱版提供，在「最近通话」中查看关联录音 |
-| 　 更多网络存储 | | 　⌛️ | Google Drive 和 Dropbox |
+| 　 更多网络存储 | | 　✅ | Google Drive / Microsoft OneDrive / Dropbox |
 
 ### 巨魔版 vs 越狱版
 
 | 功能 | 巨魔版 | 越狱版 | 备注 |
 |------|------|------|------|
 | 稳定持久不漏录 | 　✅ | 　✅ | |
-| 首次解锁后启动 | 　✅ | | 需将「巨魔录音机」小组件添加到主屏幕 |
+| 首次解锁后启动 | 　✅ | | 需将小组件添加到锁定屏幕或主屏幕 |
 | 越狱后自启动 | | 　✅ | |
-| 隐秘语音备忘录 | | 　✅ | 让语音备忘录保持隐身录制 |
+| 隐秘语音备忘录 | 　✅ | 　✅ | 让语音备忘录保持隐身录制 |
 | 电话/联系人联动 | | 　✅ | 在「最近通话」中查看关联录音 |
 
 ### 智能云归档 vs 通过 iCloud 备份
@@ -141,3 +130,12 @@ The command line tools of TrollRecorder are [Free Software](https://www.gnu.org/
 | 只增不删 | ✅ | ⚠️ 跟随本地录音增删改 |
 | 自定义归档名称 | ✅ | ⚠️ 原始文件名称 |
 | 不占用额外存储空间 | ✅ APFS 克隆 | ✅ 硬链接 |
+
+### 网络存储模式
+
+| 模式 | 可恢复 | 描述 |
+|------|------|------|
+| 归档 | | 使用 “内容共享” → “自定义导出名称” **重命名** 混合和组合模式的本地录音并上传到云盘。你可以在云盘上按月查看、按备注后的文件名搜索录音。被 “归档” 到云盘的录音无法恢复到巨魔录音机 App 当中。 |
+| 上传 | 　✅ | 将本地录音（包含分离通道）和元数据以初始形态上传到云盘，云盘上的录音 **只增不删**。你可以通过 “双向同步” 或手动迁移将这些录音恢复到巨魔录音机 App 当中。 |
+| 同步 | 　✅ | 在 “上传” 的基础之上，如果你删除了本地录音，云盘上对应的录音也会被删除（或移动到云盘的回收站）。 |
+| 双向同步 | 　✅ | 在 “同步” 的基础之上，如果你删除了云盘上的录音，本地对应的录音也会被删除（不会移动到回收站），云盘上的录音和本地始终保持一致。 |
