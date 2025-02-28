@@ -43,6 +43,9 @@
 /* TODO */
 "(null)" = "(null)";
 
+/* TODO */
+"--arg=value" = "--arg=value";
+
 /* No comment provided by engineer. */
 "3 Seconds" = "3 Giây";
 
@@ -98,10 +101,16 @@
 "Activate the recorder hoverball." = "Kích hoạt bong bóng ghi âm.";
 
 /* TODO */
+"Add" = "Add";
+
+/* TODO */
 "Add Now" = "Add Now";
 
 /* TODO */
 "Add Required Widget" = "Add Required Widget";
+
+/* TODO */
+"Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "Liên hệ bổ sung";
@@ -571,6 +580,9 @@
 /* TODO */
 "Conversion Succeed" = "Conversion Succeed";
 
+/* TODO */
+"Convert latitude and longitude to human-readable address." = "Convert latitude and longitude to human-readable address.";
+
 /* No comment provided by engineer. */
 "Convert Now" = "Chuyển đổi ngay bây giờ";
 
@@ -618,6 +630,9 @@
 
 /* TODO */
 "Credentials" = "Credentials";
+
+/* TODO */
+"Custom CLI Options" = "Custom CLI Options";
 
 /* TODO */
 "Custom Export Name" = "Custom Export Name";
@@ -1540,6 +1555,9 @@
 /* TODO */
 "New" = "New";
 
+/* TODO */
+"New Argument" = "New Argument";
+
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Mô hình kết hợp mới";
 
@@ -1886,6 +1904,9 @@
 "Quit this application and try again." = "Quit this application and try again.";
 
 /* TODO */
+"Rclone Documentation" = "Rclone Documentation";
+
+/* TODO */
 "Re-authorize with Dropbox" = "Re-authorize with Dropbox";
 
 /* TODO */
@@ -2071,6 +2092,9 @@
 /* TODO */
 "Retry" = "Retry";
 
+/* TODO */
+"Reverse Geocoding" = "Reverse Geocoding";
+
 /* No comment provided by engineer. */
 "Reverse Selection" = "Lựa chọn ngược";
 
@@ -2131,6 +2155,9 @@
 /* No comment provided by engineer. */
 "Search Apps…" = "Tìm kiếm ứng dụng…";
 
+/* TODO */
+"Search Arguments…" = "Search Arguments…";
+
 /* No comment provided by engineer. */
 "Search Contacts…" = "Tìm kiếm danh bạ…";
 
@@ -2148,6 +2175,9 @@
 
 /* TODO */
 "Search Shortcuts…" = "Search Shortcuts…";
+
+/* TODO */
+"Search…" = "Search…";
 
 /* TODO */
 "Seconds" = "Seconds";
@@ -3125,7 +3155,13 @@
 "We’ve got new phone call recordings!" = "Chúng tôi có bản ghi âm cuộc gọi điện thoại mới!";
 
 /* TODO */
+"What’s New" = "What’s New";
+
+/* TODO */
 "When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+
+/* TODO */
+"When Foreground" = "When Foreground";
 
 /* TODO */
 "When Locked" = "When Locked";
@@ -3135,6 +3171,9 @@
 
 /* TODO */
 "When there is no call…" = "When there is no call…";
+
+/* TODO */
+"When Visible" = "When Visible";
 
 /* TODO */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";

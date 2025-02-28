@@ -43,6 +43,9 @@
 /* No comment provided by engineer. */
 "(null)" = "(null)";
 
+/* TODO */
+"--arg=value" = "--arg=value";
+
 /* No comment provided by engineer. */
 "3 Seconds" = "3 secondes";
 
@@ -98,10 +101,16 @@
 "Activate the recorder hoverball." = "Activer le hoverball de l'enregistreur.";
 
 /* TODO */
+"Add" = "Add";
+
+/* TODO */
 "Add Now" = "Add Now";
 
 /* TODO */
 "Add Required Widget" = "Add Required Widget";
+
+/* TODO */
+"Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "Contact supplémentaire";
@@ -571,6 +580,9 @@
 /* Translated with Microsoft Translator */
 "Conversion Succeed" = "Réussir la conversion";
 
+/* TODO */
+"Convert latitude and longitude to human-readable address." = "Convert latitude and longitude to human-readable address.";
+
 /* No comment provided by engineer. */
 "Convert Now" = "Convertir maintenant";
 
@@ -618,6 +630,9 @@
 
 /* TODO */
 "Credentials" = "Credentials";
+
+/* TODO */
+"Custom CLI Options" = "Custom CLI Options";
 
 /* Translated with Microsoft Translator */
 "Custom Export Name" = "Nom d'exportation personnalisé";
@@ -1540,6 +1555,9 @@
 /* Translated with Microsoft Translator */
 "New" = "Nouveau";
 
+/* TODO */
+"New Argument" = "New Argument";
+
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Nouveau Motif de Correspondance";
 
@@ -1886,6 +1904,9 @@
 "Quit this application and try again." = "Quittez cette application et réessayez.";
 
 /* TODO */
+"Rclone Documentation" = "Rclone Documentation";
+
+/* TODO */
 "Re-authorize with Dropbox" = "Re-authorize with Dropbox";
 
 /* TODO */
@@ -2071,6 +2092,9 @@
 /* TODO */
 "Retry" = "Retry";
 
+/* TODO */
+"Reverse Geocoding" = "Reverse Geocoding";
+
 /* No comment provided by engineer. */
 "Reverse Selection" = "Sélection inverse";
 
@@ -2131,6 +2155,9 @@
 /* No comment provided by engineer. */
 "Search Apps…" = "Rechercher des applications…";
 
+/* TODO */
+"Search Arguments…" = "Search Arguments…";
+
 /* No comment provided by engineer. */
 "Search Contacts…" = "Rechercher des contacts…";
 
@@ -2148,6 +2175,9 @@
 
 /* Translated with Microsoft Translator */
 "Search Shortcuts…" = "Raccourcis de recherche...";
+
+/* TODO */
+"Search…" = "Search…";
 
 /* Translated with Microsoft Translator */
 "Seconds" = "Secondes";
@@ -3125,7 +3155,13 @@
 "We’ve got new phone call recordings!" = "Nous avons de nouveaux enregistrements d'appels téléphoniques !";
 
 /* TODO */
+"What’s New" = "What’s New";
+
+/* TODO */
 "When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+
+/* TODO */
+"When Foreground" = "When Foreground";
 
 /* Translated with Microsoft Translator */
 "When Locked" = "En cas de verrouillage";
@@ -3135,6 +3171,9 @@
 
 /* TODO */
 "When there is no call…" = "When there is no call…";
+
+/* TODO */
+"When Visible" = "When Visible";
 
 /* TODO */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";

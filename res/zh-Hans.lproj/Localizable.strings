@@ -44,6 +44,9 @@
 "(null)" = "(空)";
 
 /* No comment provided by engineer. */
+"--arg=value" = "--arg=value";
+
+/* No comment provided by engineer. */
 "3 Seconds" = "3 秒";
 
 /* No comment provided by engineer. */
@@ -98,10 +101,16 @@
 "Activate the recorder hoverball." = "启动服务，并打开录音悬浮球。";
 
 /* No comment provided by engineer. */
+"Add" = "添加";
+
+/* No comment provided by engineer. */
 "Add Now" = "立即添加";
 
 /* No comment provided by engineer. */
 "Add Required Widget" = "添加所需的小组件";
+
+/* No comment provided by engineer. */
+"Additional command-line options for the Rclone synchronization tool." = "额外透传给 Rclone 同步工具的命令行选项。";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "自定义联系人";
@@ -572,6 +581,9 @@
 "Conversion Succeed" = "转换成功";
 
 /* No comment provided by engineer. */
+"Convert latitude and longitude to human-readable address." = "将经纬度转换为可读的地址。";
+
+/* No comment provided by engineer. */
 "Convert Now" = "立即转换";
 
 /* No comment provided by engineer. */
@@ -618,6 +630,9 @@
 
 /* No comment provided by engineer. */
 "Credentials" = "凭据";
+
+/* No comment provided by engineer. */
+"Custom CLI Options" = "自定义命令行参数";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "自定义导出名称";
@@ -1541,6 +1556,9 @@
 "New" = "新";
 
 /* No comment provided by engineer. */
+"New Argument" = "新参数";
+
+/* No comment provided by engineer. */
 "New Matching Pattern" = "新匹配条目";
 
 /* No comment provided by engineer. */
@@ -1886,6 +1904,9 @@
 "Quit this application and try again." = "退出此应用程序并重试。";
 
 /* No comment provided by engineer. */
+"Rclone Documentation" = "Rclone 文档";
+
+/* No comment provided by engineer. */
 "Re-authorize with Dropbox" = "使用 Dropbox 账号重新登录";
 
 /* No comment provided by engineer. */
@@ -2072,6 +2093,9 @@
 "Retry" = "重试";
 
 /* No comment provided by engineer. */
+"Reverse Geocoding" = "逆地理编码";
+
+/* No comment provided by engineer. */
 "Reverse Selection" = "反选";
 
 /* No comment provided by engineer. */
@@ -2132,6 +2156,9 @@
 "Search Apps…" = "搜索应用…";
 
 /* No comment provided by engineer. */
+"Search Arguments…" = "搜索参数…";
+
+/* No comment provided by engineer. */
 "Search Contacts…" = "搜索联系人…";
 
 /* No comment provided by engineer. */
@@ -2148,6 +2175,9 @@
 
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "搜索动作…";
+
+/* No comment provided by engineer. */
+"Search…" = "搜索…";
 
 /* No comment provided by engineer. */
 "Seconds" = "秒数";
@@ -3125,7 +3155,13 @@
 "We’ve got new phone call recordings!" = "我们生成了一些新的通话录音！";
 
 /* No comment provided by engineer. */
+"What’s New" = "更新内容";
+
+/* No comment provided by engineer. */
 "When any of the following actions is triggered, run the shortcut without any notification." = "当触发以下任何操作时，无需通知即运行快捷指令。";
+
+/* No comment provided by engineer. */
+"When Foreground" = "App 处于前台时";
 
 /* No comment provided by engineer. */
 "When Locked" = "仅锁定时";
@@ -3135,6 +3171,9 @@
 
 /* No comment provided by engineer. */
 "When there is no call…" = "当没有通话时…";
+
+/* No comment provided by engineer. */
+"When Visible" = "可见时";
 
 /* No comment provided by engineer. */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "启用 WebDAV 服务器后，是否允许你从 Safari、Chrome、Edge 等常见的网络浏览器访问。";

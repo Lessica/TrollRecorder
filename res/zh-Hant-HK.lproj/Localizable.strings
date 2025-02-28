@@ -43,6 +43,9 @@
 /* No comment provided by engineer. */
 "(null)" = "(空)";
 
+/* TODO */
+"--arg=value" = "--arg=value";
+
 /* No comment provided by engineer. */
 "3 Seconds" = "3 秒";
 
@@ -98,10 +101,16 @@
 "Activate the recorder hoverball." = "啟動服務，并打開錄音懸浮球。";
 
 /* TODO */
+"Add" = "Add";
+
+/* TODO */
 "Add Now" = "Add Now";
 
 /* TODO */
 "Add Required Widget" = "Add Required Widget";
+
+/* TODO */
+"Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "自定義聯絡人";
@@ -571,6 +580,9 @@
 /* No comment provided by engineer. */
 "Conversion Succeed" = "轉換成功";
 
+/* TODO */
+"Convert latitude and longitude to human-readable address." = "Convert latitude and longitude to human-readable address.";
+
 /* No comment provided by engineer. */
 "Convert Now" = "立即轉換";
 
@@ -618,6 +630,9 @@
 
 /* TODO */
 "Credentials" = "Credentials";
+
+/* TODO */
+"Custom CLI Options" = "Custom CLI Options";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "自定義匯出名稱";
@@ -1540,6 +1555,9 @@
 /* No comment provided by engineer. */
 "New" = "新";
 
+/* TODO */
+"New Argument" = "New Argument";
+
 /* No comment provided by engineer. */
 "New Matching Pattern" = "新匹配條目";
 
@@ -1886,6 +1904,9 @@
 "Quit this application and try again." = "退出此應用程式並重試。";
 
 /* TODO */
+"Rclone Documentation" = "Rclone Documentation";
+
+/* TODO */
 "Re-authorize with Dropbox" = "Re-authorize with Dropbox";
 
 /* TODO */
@@ -2071,6 +2092,9 @@
 /* TODO */
 "Retry" = "Retry";
 
+/* TODO */
+"Reverse Geocoding" = "Reverse Geocoding";
+
 /* No comment provided by engineer. */
 "Reverse Selection" = "反選";
 
@@ -2131,6 +2155,9 @@
 /* No comment provided by engineer. */
 "Search Apps…" = "搜尋應用…";
 
+/* TODO */
+"Search Arguments…" = "Search Arguments…";
+
 /* No comment provided by engineer. */
 "Search Contacts…" = "搜尋聯絡人…";
 
@@ -2148,6 +2175,9 @@
 
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "搜尋動作…";
+
+/* TODO */
+"Search…" = "Search…";
 
 /* No comment provided by engineer. */
 "Seconds" = "秒數";
@@ -3125,7 +3155,13 @@
 "We’ve got new phone call recordings!" = "我們生成了一份新的通話錄音！";
 
 /* TODO */
+"What’s New" = "What’s New";
+
+/* TODO */
 "When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+
+/* TODO */
+"When Foreground" = "When Foreground";
 
 /* No comment provided by engineer. */
 "When Locked" = "僅鎖定時";
@@ -3135,6 +3171,9 @@
 
 /* TODO */
 "When there is no call…" = "When there is no call…";
+
+/* TODO */
+"When Visible" = "When Visible";
 
 /* TODO */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";

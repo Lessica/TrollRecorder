@@ -44,6 +44,9 @@
 "(null)" = "(null)";
 
 /* No comment provided by engineer. */
+"--arg=value" = "--arg=value";
+
+/* No comment provided by engineer. */
 "3 Seconds" = "3 Seconds";
 
 /* No comment provided by engineer. */
@@ -98,10 +101,16 @@
 "Activate the recorder hoverball." = "Activate the recorder hoverball.";
 
 /* No comment provided by engineer. */
+"Add" = "Add";
+
+/* No comment provided by engineer. */
 "Add Now" = "Add Now";
 
 /* No comment provided by engineer. */
 "Add Required Widget" = "Add Required Widget";
+
+/* No comment provided by engineer. */
+"Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "Additional Contact";
@@ -572,6 +581,9 @@
 "Conversion Succeed" = "Conversion Succeed";
 
 /* No comment provided by engineer. */
+"Convert latitude and longitude to human-readable address." = "Convert latitude and longitude to human-readable address.";
+
+/* No comment provided by engineer. */
 "Convert Now" = "Convert Now";
 
 /* No comment provided by engineer. */
@@ -618,6 +630,9 @@
 
 /* No comment provided by engineer. */
 "Credentials" = "Credentials";
+
+/* No comment provided by engineer. */
+"Custom CLI Options" = "Custom CLI Options";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "Custom Export Name";
@@ -1541,6 +1556,9 @@
 "New" = "New";
 
 /* No comment provided by engineer. */
+"New Argument" = "New Argument";
+
+/* No comment provided by engineer. */
 "New Matching Pattern" = "New Matching Pattern";
 
 /* No comment provided by engineer. */
@@ -1886,6 +1904,9 @@
 "Quit this application and try again." = "Quit this application and try again.";
 
 /* No comment provided by engineer. */
+"Rclone Documentation" = "Rclone Documentation";
+
+/* No comment provided by engineer. */
 "Re-authorize with Dropbox" = "Re-authorize with Dropbox";
 
 /* No comment provided by engineer. */
@@ -2072,6 +2093,9 @@
 "Retry" = "Retry";
 
 /* No comment provided by engineer. */
+"Reverse Geocoding" = "Reverse Geocoding";
+
+/* No comment provided by engineer. */
 "Reverse Selection" = "Reverse Selection";
 
 /* No comment provided by engineer. */
@@ -2132,6 +2156,9 @@
 "Search Apps…" = "Search Apps…";
 
 /* No comment provided by engineer. */
+"Search Arguments…" = "Search Arguments…";
+
+/* No comment provided by engineer. */
 "Search Contacts…" = "Search Contacts…";
 
 /* No comment provided by engineer. */
@@ -2148,6 +2175,9 @@
 
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "Search Shortcuts…";
+
+/* No comment provided by engineer. */
+"Search…" = "Search…";
 
 /* No comment provided by engineer. */
 "Seconds" = "Seconds";
@@ -3125,7 +3155,13 @@
 "We’ve got new phone call recordings!" = "We’ve got new phone call recordings!";
 
 /* No comment provided by engineer. */
+"What’s New" = "What’s New";
+
+/* No comment provided by engineer. */
 "When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+
+/* No comment provided by engineer. */
+"When Foreground" = "When Foreground";
 
 /* No comment provided by engineer. */
 "When Locked" = "When Locked";
@@ -3135,6 +3171,9 @@
 
 /* No comment provided by engineer. */
 "When there is no call…" = "When there is no call…";
+
+/* No comment provided by engineer. */
+"When Visible" = "When Visible";
 
 /* No comment provided by engineer. */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
