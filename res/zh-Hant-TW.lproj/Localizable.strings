@@ -43,7 +43,7 @@
 /* No comment provided by engineer. */
 "(null)" = "(空)";
 
-/* TODO */
+/* No comment provided by engineer. */
 "--arg=value" = "--arg=value";
 
 /* No comment provided by engineer. */
@@ -100,8 +100,8 @@
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "啓動服務，並打開錄音懸浮球。";
 
-/* TODO */
-"Add" = "Add";
+/* No comment provided by engineer. */
+"Add" = "添加";
 
 /* No comment provided by engineer. */
 "Add Now" = "立即添加";
@@ -109,8 +109,8 @@
 /* No comment provided by engineer. */
 "Add Required Widget" = "添加所需的小組件";
 
-/* TODO */
-"Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
+/* No comment provided by engineer. */
+"Additional command-line options for the Rclone synchronization tool." = "Rclone同步工具的其它命令列選項。";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "自定義聯繫人";
@@ -190,8 +190,8 @@
 /* No comment provided by engineer. */
 "AM/PM String" = "上午/下午";
 
-/* TODO */
-"An unknown error occurred." = "An unknown error occurred.";
+/* No comment provided by engineer. */
+"An unknown error occurred." = "發生了未知的錯誤。";
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音頻";
@@ -230,16 +230,16 @@
 "Applications" = "應用程序";
 
 /* No comment provided by engineer. */
+"Archive" = "歸檔";
+
+/* No comment provided by engineer. */
 "archive" = "歸檔";
 
-/* TODO */
-"Archive" = "Archive";
+/* No comment provided by engineer. */
+"Archive Regeneration" = "歸檔重建";
 
-/* TODO */
-"Archive Regeneration" = "Archive Regeneration";
-
-/* TODO */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable.";
+/* No comment provided by engineer. */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "歸檔：使用內容共享→自定義匯出名稱重新命名本地混合和組合主錄音，並上傳到雲端驅動器。 無法恢復。";
 
 /* No comment provided by engineer. */
 "Are you sure you want to discard the changes you made?" = "你確定要丟棄你所做的更改嗎？";
@@ -277,20 +277,20 @@
 /* No comment provided by engineer. */
 "Authenticate with %@" = "使用 %@ 進行驗證";
 
-/* TODO */
-"Authorization error: %@" = "Authorization error: %@";
+/* No comment provided by engineer. */
+"Authorization error: %@" = "授權錯誤：%@";
 
-/* TODO */
-"Authorization flow was manually canceled by user." = "Authorization flow was manually canceled by user.";
+/* No comment provided by engineer. */
+"Authorization flow was manually canceled by user." = "使用者手動取消了授權流程。";
 
-/* TODO */
-"Authorize with Dropbox" = "Authorize with Dropbox";
+/* No comment provided by engineer. */
+"Authorize with Dropbox" = "使用Dropbox授權";
 
-/* TODO */
-"Authorize with Google" = "Authorize with Google";
+/* No comment provided by engineer. */
+"Authorize with Google" = "使用谷歌授權";
 
-/* TODO */
-"Authorize with Microsoft" = "Authorize with Microsoft";
+/* No comment provided by engineer. */
+"Authorize with Microsoft" = "與微軟授權";
 
 /* No comment provided by engineer. */
 "Automatic" = "自動";
@@ -361,8 +361,8 @@
 /* No comment provided by engineer. */
 "Bi-sync" = "雙向同步";
 
-/* TODO */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
+/* No comment provided by engineer. */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "雙向同步：在本地與雲盤之間執行雙向同步。";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "生物識別驗證";
@@ -481,8 +481,8 @@
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "自動清理緩存";
 
-/* TODO */
-"Clear" = "Clear";
+/* No comment provided by engineer. */
+"Clear" = "清空";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "清除篩選項";
@@ -512,10 +512,10 @@
 "Compress Recording" = "壓縮音頻";
 
 /* No comment provided by engineer. */
-"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+"Configure the embedded client with your WebDAV server address, username and password." = "使用您的WebDAV伺服器地址、使用者名稱和密碼配置嵌入式客戶端。";
 
 /* No comment provided by engineer. */
-"Configure WebDAV Client" = "Configure WebDAV Client";
+"Configure WebDAV Client" = "配置WebDAV客戶端";
 
 /* No comment provided by engineer. */
 "Confirm" = "確認";
@@ -529,8 +529,8 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連接客戶端：%d";
 
-/* TODO */
-"Connection" = "Connection";
+/* No comment provided by engineer. */
+"Connection" = "連接";
 
 /* No comment provided by engineer. */
 "Constants" = "常量";
@@ -580,8 +580,8 @@
 /* No comment provided by engineer. */
 "Conversion Succeed" = "轉換成功";
 
-/* TODO */
-"Convert latitude and longitude to human-readable address." = "Convert latitude and longitude to human-readable address.";
+/* No comment provided by engineer. */
+"Convert latitude and longitude to human-readable address." = "將緯度和經度轉換為人類可讀的地址。";
 
 /* No comment provided by engineer. */
 "Convert Now" = "立即轉換";
@@ -610,17 +610,17 @@
 /* No comment provided by engineer. */
 "Copy Value" = "拷貝值";
 
-/* TODO */
-"Could not acquire token: %@" = "Could not acquire token: %@";
+/* No comment provided by engineer. */
+"Could not acquire token: %@" = "無法獲取令牌：%@";
 
-/* TODO */
-"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+/* No comment provided by engineer. */
+"Could not acquire token: No result returned." = "無法獲取令牌：未返回結果。";
 
-/* TODO */
-"Could not get graph result: %@" = "Could not get graph result: %@";
+/* No comment provided by engineer. */
+"Could not get graph result: %@" = "無法獲得圖形結果：%@";
 
-/* TODO */
-"Could not sign out account: %@" = "Could not sign out account: %@";
+/* No comment provided by engineer. */
+"Could not sign out account: %@" = "無法登出帳戶：%@";
 
 /* No comment provided by engineer. */
 "Create Archive" = "製作歸檔";
@@ -628,11 +628,11 @@
 /* No comment provided by engineer. */
 "Created At" = "創建於";
 
-/* TODO */
-"Credentials" = "Credentials";
+/* No comment provided by engineer. */
+"Credentials" = "憑據";
 
-/* TODO */
-"Custom CLI Options" = "Custom CLI Options";
+/* No comment provided by engineer. */
+"Custom CLI Options" = "自定義命令行參數";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "自定義導出名稱";
@@ -724,8 +724,8 @@
 /* No comment provided by engineer. */
 "directory" = "目錄";
 
-/* TODO */
-"Directory not found." = "Directory not found.";
+/* No comment provided by engineer. */
+"Directory not found." = "找不到目錄。";
 
 /* No comment provided by engineer. */
 "Disabled" = "關閉";
@@ -772,8 +772,8 @@
 /* No comment provided by engineer. */
 "Display a notification banner when recording starts." = "錄音開始時，顯示通知橫幅。";
 
-/* TODO */
-"Display a notification banner when the synchronization fails." = "Display a notification banner when the synchronization fails.";
+/* No comment provided by engineer. */
+"Display a notification banner when the synchronization fails." = "當同步失敗時，顯示通知橫幅。";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "在通知橫幅中顯示錄音的詳細信息。";
@@ -817,8 +817,8 @@
 /* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "你確定要清空日誌文件“%@”嗎？";
 
-/* TODO */
-"Do you want to merge recordings with “%@”?" = "Do you want to merge recordings with “%@”?";
+/* No comment provided by engineer. */
+"Do you want to merge recordings with “%@”?" = "你想用“%@”合併錄音嗎？";
 
 /* No comment provided by engineer. */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你確定要重置軟件許可，並將所有設置還原為默認值嗎？你的錄音不會被刪除。";
@@ -829,8 +829,8 @@
 /* No comment provided by engineer. */
 "Don’t ask again" = "不再詢問";
 
-/* TODO */
-"Don’t Merge" = "Don’t Merge";
+/* No comment provided by engineer. */
+"Don’t Merge" = "不要合併";
 
 /* No comment provided by engineer. */
 "Double tap to restore __all edges__  \nto their default sizes." = "輕點兩次以恢復 __所有邊緣__ 至默認尺寸。";
@@ -841,7 +841,7 @@
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Drive ID" = "Drive ID";
 
 /* No comment provided by engineer. */
@@ -865,8 +865,8 @@
 /* No comment provided by engineer. */
 "Duration Description" = "持續時間（描述）";
 
-/* TODO */
-"Duration exceeded." = "Duration exceeded.";
+/* No comment provided by engineer. */
+"Duration exceeded." = "超過預計時間。";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "僅轉場";
@@ -889,8 +889,8 @@
 /* No comment provided by engineer. */
 "Enable Face ID" = "啓用面容 ID";
 
-/* TODO */
-"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+/* No comment provided by engineer. */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "啟用水準測量，並在懸停球摺疊時顯示指示器。 僅當閒置時設定為始終摺疊時，此選項才可用。";
 
 /* No comment provided by engineer. */
 "Enable Logging" = "啓用日誌";
@@ -934,26 +934,26 @@
 /* No comment provided by engineer. */
 "Enter your password" = "輸入密碼";
 
-/* TODO */
-"Erase All" = "Erase All";
+/* No comment provided by engineer. */
+"Erase All" = "全部刪除";
 
-/* TODO */
-"Erase all recordings, reset all settings, and clear all caches completely." = "Erase all recordings, reset all settings, and clear all caches completely.";
+/* No comment provided by engineer. */
+"Erase all recordings, reset all settings, and clear all caches completely." = "擦除所有錄音，重置所有設定，並完全清除所有快取。";
 
-/* TODO */
-"Erase Almost Completed" = "Erase Almost Completed";
+/* No comment provided by engineer. */
+"Erase Almost Completed" = "擦除快完成了";
 
-/* TODO */
-"Erasing…" = "Erasing…";
+/* No comment provided by engineer. */
+"Erasing…" = "擦除...";
 
 /* No comment provided by engineer. */
 "Error" = "錯誤";
 
-/* TODO */
-"Error from network storage" = "Error from network storage";
+/* No comment provided by engineer. */
+"Error from network storage" = "網路儲存錯誤";
 
-/* TODO */
-"Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
+/* No comment provided by engineer. */
+"Error retrieving discovery document: %@" = "檢索發現文件時出錯：%@";
 
 /* No comment provided by engineer. */
 "exit" = "exit";
@@ -997,8 +997,8 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "無法以當前區域“%@”初始化轉錄引擎。";
 
-/* TODO */
-"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+/* No comment provided by engineer. */
+"Failed to perform “%@” operation with service provider “%@”." = "未能對服務提供商“%@”執行“%@”操作。";
 
 /* No comment provided by engineer. */
 "Failed to play: %@" = "播放失敗：%@";
@@ -1009,11 +1009,11 @@
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "刪除失敗：%@";
 
-/* TODO */
-"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
+/* No comment provided by engineer. */
+"Fatal error occurred. You may need to re-authorize to continue." = "發生了致命錯誤。 您可能需要重新授權才能繼續。";
 
-/* TODO */
-"Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
+/* No comment provided by engineer. */
+"Features on this page are under active development, hang tight!" = "本頁面上的功能正在積極開發中，請抓緊時間！";
 
 /* No comment provided by engineer. */
 "Features Unlocked" = "功能已解鎖";
@@ -1024,8 +1024,8 @@
 /* No comment provided by engineer. */
 "File Format" = "文件格式";
 
-/* TODO */
-"File not found." = "File not found.";
+/* No comment provided by engineer. */
+"File not found." = "找不到檔案。";
 
 /* No comment provided by engineer. */
 "File Size" = "文件尺寸";
@@ -1093,8 +1093,8 @@
 /* No comment provided by engineer. */
 "Full Year" = "完整年份";
 
-/* TODO */
-"Get ${requestedField}" = "Get ${requestedField}";
+/* No comment provided by engineer. */
+"Get ${requestedField}" = "獲取${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "在通話中打開控制面板即可控制錄制參數。";
@@ -1144,8 +1144,8 @@
 /* No comment provided by engineer. */
 "Group Call" = "群組通話";
 
-/* TODO */
-"Hide Hoverball" = "Hide Hoverball";
+/* No comment provided by engineer. */
+"Hide Hoverball" = "隱藏懸浮球";
 
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏語音備忘錄在鎖定螢幕上的顯示，並隱藏其靈動島活動。此功能可能需要妙手回春才能完全生效。";
@@ -1267,10 +1267,10 @@
 /* No comment provided by engineer. */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "無效的代碼簽名。\n請從 TrollStore 重新安裝此應用程序。";
 
-/* TODO */
+/* No comment provided by engineer. */
 "iPad" = "iPad";
 
-/* TODO */
+/* No comment provided by engineer. */
 "iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
@@ -1283,7 +1283,7 @@
 "Is Finalizing" = "是否正在處理";
 
 /* No comment provided by engineer. */
-"Is Microphone Enabled" = "Is Microphone Enabled";
+"Is Microphone Enabled" = "麥克風是否啟用";
 
 /* No comment provided by engineer. */
 "Is Paused" = "是否已經暫停";
@@ -1315,8 +1315,8 @@
 /* No comment provided by engineer. */
 "Larger" = "較大";
 
-/* TODO */
-"Last successful synchronization: %@" = "Last successful synchronization: %@";
+/* No comment provided by engineer. */
+"Last successful synchronization: %@" = "上次成功同步：%@";
 
 /* No comment provided by engineer. */
 "Later" = "以後再說";
@@ -1339,8 +1339,8 @@
 /* No comment provided by engineer. */
 "Legacy Jailbreak" = "傳統越獄";
 
-/* TODO */
-"Less serious error occurred." = "Less serious error occurred.";
+/* No comment provided by engineer. */
+"Less serious error occurred." = "發生了不太嚴重的錯誤。";
 
 /* No comment provided by engineer. */
 "Lifetime Guarantee" = "一次購買終身可用";
@@ -1456,8 +1456,8 @@
 /* No comment provided by engineer. */
 "Medium Time" = "中等時間";
 
-/* TODO */
-"Merge" = "Merge";
+/* No comment provided by engineer. */
+"Merge" = "合併";
 
 /* No comment provided by engineer. */
 "Merged File" = "合併文件";
@@ -1477,14 +1477,14 @@
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "麥克風和揚聲器在不同的文件中錄音。";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
 /* No comment provided by engineer. */
 "Minutes" = "分鐘";
 
-/* TODO */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+/* No comment provided by engineer. */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "缺少訪問谷歌雲端硬碟所需的許可權。 請重新授權谷歌，並將所有谷歌雲端硬碟許可權授與TrollRecorder。";
 
 /* No comment provided by engineer. */
 "Mixed" = "混合";
@@ -1522,8 +1522,8 @@
 /* No comment provided by engineer. */
 "mute" = "靜音";
 
-/* TODO */
-"Mute ${requestedChannel}" = "Mute ${requestedChannel}";
+/* No comment provided by engineer. */
+"Mute ${requestedChannel}" = "靜音${requestedChannel}";
 
 /* No comment provided by engineer. */
 "Mute Existing Calls" = "靜音現有通話";
@@ -1549,14 +1549,14 @@
 /* No comment provided by engineer. */
 "Never" = "從不";
 
-/* TODO */
-"Never Show This Again" = "Never Show This Again";
+/* No comment provided by engineer. */
+"Never Show This Again" = "再也不展示這個了";
 
 /* No comment provided by engineer. */
 "New" = "新";
 
-/* TODO */
-"New Argument" = "New Argument";
+/* No comment provided by engineer. */
+"New Argument" = "新參數";
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "新匹配條目";
@@ -1591,17 +1591,17 @@
 /* No comment provided by engineer. */
 "None" = "無";
 
-/* TODO */
-"Not Implemented" = "Not Implemented";
+/* No comment provided by engineer. */
+"Not Implemented" = "尚未實現";
 
 /* No comment provided by engineer. */
 "Not My Favourite" = "未收藏";
 
-/* TODO */
-"Not Now" = "Not Now";
+/* No comment provided by engineer. */
+"Not Now" = "不是現在";
 
-/* TODO */
-"Not Properly Configured" = "Not Properly Configured";
+/* No comment provided by engineer. */
+"Not Properly Configured" = "配置不正確";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "未導入任何內容";
@@ -1630,16 +1630,16 @@
 /* No comment provided by engineer. */
 "Object Viewer" = "對象查看器";
 
-/* TODO */
-"Off" = "Off";
+/* No comment provided by engineer. */
+"Off" = "禁用";
 
 /* No comment provided by engineer. */
 "OK" = "好";
 
-/* TODO */
-"On" = "On";
+/* No comment provided by engineer. */
+"On" = "啟用";
 
-/* TODO */
+/* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
@@ -1672,8 +1672,8 @@
 /* No comment provided by engineer. */
 "Operation Succeed" = "操作成功";
 
-/* TODO */
-"Operation succeed, but no files transferred." = "Operation succeed, but no files transferred.";
+/* No comment provided by engineer. */
+"Operation succeed, but no files transferred." = "操作成功，但沒有傳輸檔案。";
 
 /* No comment provided by engineer. */
 "Operator Name" = "運營商名稱";
@@ -1702,8 +1702,8 @@
 /* No comment provided by engineer. */
 "Page not found" = "未找到頁面";
 
-/* TODO */
-"Password (Optional)" = "Password (Optional)";
+/* No comment provided by engineer. */
+"Password (Optional)" = "密碼（可選）";
 
 /* No comment provided by engineer. */
 "path" = "路徑";
@@ -1801,11 +1801,11 @@
 /* No comment provided by engineer. */
 "Please check your mail configuration." = "請檢查你的郵件配置。";
 
-/* TODO */
-"Please enter a valid port number between 1 and 65535." = "Please enter a valid port number between 1 and 65535.";
+/* No comment provided by engineer. */
+"Please enter a valid port number between 1 and 65535." = "請輸入1到65535之間的有效埠號。";
 
-/* TODO */
-"Please enter the server URL." = "Please enter the server URL.";
+/* No comment provided by engineer. */
+"Please enter the server URL." = "請輸入伺服器網址。";
 
 /* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "請認准，巨魔錄音機的唯一銷售、兌換渠道是浩劫商店（Havoc Marketplace），我們並沒有在其他任何渠道進行銷售。你即將打開商店頁面：如果你是首次使用浩劫商店，建議使用 Google 賬號登錄。如果你是中國大陸地區用戶，登錄 Google 需要特殊網絡。";
@@ -1813,11 +1813,11 @@
 /* No comment provided by engineer. */
 "Please reinstall this application from TrollStore." = "請從 TrollStore 重新安裝此應用程序。";
 
-/* TODO */
-"Please remember to uninstall “%@” from Sileo." = "Please remember to uninstall “%@” from Sileo.";
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from Sileo." = "請記得從Sileo解除安裝“%@”。";
 
-/* TODO */
-"Please remember to uninstall “%@” from TrollStore." = "Please remember to uninstall “%@” from TrollStore.";
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from TrollStore." = "請記得從TrollStore完全卸載“%@”。";
 
 /* No comment provided by engineer. */
 "Popover Control" = "懸浮球";
@@ -1831,8 +1831,8 @@
 /* No comment provided by engineer. */
 "Popup Banner at End" = "顯示結束通知";
 
-/* TODO */
-"Popup Banner when Fail" = "Popup Banner when Fail";
+/* No comment provided by engineer. */
+"Popup Banner when Fail" = "失敗時彈出橫幅";
 
 /* No comment provided by engineer. */
 "Popup Banner with Badge" = "顯示通知角標";
@@ -1843,8 +1843,8 @@
 /* No comment provided by engineer. */
 "Popup Banner with Sound" = "顯示有聲通知";
 
-/* TODO */
-"Port (Optional)" = "Port (Optional)";
+/* No comment provided by engineer. */
+"Port (Optional)" = "埠（可選）";
 
 /* No comment provided by engineer. */
 "Preparing" = "準備中";
@@ -1870,14 +1870,14 @@
 /* No comment provided by engineer. */
 "Proceed Anyway" = "仍然繼續";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Process terminated by signal %d." = "Process terminated by signal %d.";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
 
-/* TODO */
-"Pulse-code modulation" = "Pulse-code modulation";
+/* No comment provided by engineer. */
+"Pulse-code modulation" = "脈衝碼調製";
 
 /* No comment provided by engineer. */
 "Purchase" = "購買";
@@ -1903,17 +1903,17 @@
 /* No comment provided by engineer. */
 "Quit this application and try again." = "退出此應用程序並重試。";
 
-/* TODO */
-"Rclone Documentation" = "Rclone Documentation";
+/* No comment provided by engineer. */
+"Rclone Documentation" = "Rclone文件";
 
-/* TODO */
-"Re-authorize with Dropbox" = "Re-authorize with Dropbox";
+/* No comment provided by engineer. */
+"Re-authorize with Dropbox" = "使用Dropbox重新授權";
 
-/* TODO */
-"Re-authorize with Google" = "Re-authorize with Google";
+/* No comment provided by engineer. */
+"Re-authorize with Google" = "使用谷歌重新授權";
 
-/* TODO */
-"Re-authorize with Microsoft" = "Re-authorize with Microsoft";
+/* No comment provided by engineer. */
+"Re-authorize with Microsoft" = "與微軟重新授權";
 
 /* No comment provided by engineer. */
 "Re-enable Suggested Options" = "重新啓用建議選項";
@@ -1921,14 +1921,14 @@
 /* No comment provided by engineer. */
 "Reaching Daemon" = "連接守護進程";
 
-/* TODO */
-"README_APP_DOCUMENTS" = "README_APP_DOCUMENTS";
+/* No comment provided by engineer. */
+"README_APP_DOCUMENTS" = "閱讀_應用程式_文件";
 
-/* TODO */
-"README_SERVICE_ARCHIVED_RECORDINGS" = "README_SERVICE_ARCHIVED_RECORDINGS";
+/* No comment provided by engineer. */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "此目錄為巨魔錄音機歸檔目錄";
 
-/* TODO */
-"README_SERVICE_RECORDINGS" = "README_SERVICE_RECORDINGS";
+/* No comment provided by engineer. */
+"README_SERVICE_RECORDINGS" = "此目錄為巨魔錄音機數據目錄";
 
 /* No comment provided by engineer. */
 "Ready" = "就緒";
@@ -1936,17 +1936,17 @@
 /* No comment provided by engineer. */
 "Ready to record!" = "準備錄音！";
 
-/* TODO */
-"Received authorization error: %@" = "Received authorization error: %@";
+/* No comment provided by engineer. */
+"Received authorization error: %@" = "收到授權錯誤：%@";
 
-/* TODO */
-"Received transient error: %@" = "Received transient error: %@";
+/* No comment provided by engineer. */
+"Received transient error: %@" = "收到臨時錯誤：%@";
 
-/* TODO */
-"Recents Only" = "Recents Only";
+/* No comment provided by engineer. */
+"Recents Only" = "僅限最近";
 
-/* TODO */
-"Recommended for Apple devices" = "Recommended for Apple devices";
+/* No comment provided by engineer. */
+"Recommended for Apple devices" = "推薦在蘋果裝置上使用";
 
 /* No comment provided by engineer. */
 "Record" = "錄制";
@@ -1990,8 +1990,8 @@
 /* No comment provided by engineer. */
 "Recording Type" = "錄音類型";
 
-/* TODO */
-"Recording Type Description" = "Recording Type Description";
+/* No comment provided by engineer. */
+"Recording Type Description" = "錄音型別說明";
 
 /* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "即將於通話接通後開始錄音。";
@@ -2011,8 +2011,8 @@
 /* No comment provided by engineer. */
 "Recycle Bin" = "回收站";
 
-/* TODO */
-"Regenerate All" = "Regenerate All";
+/* No comment provided by engineer. */
+"Regenerate All" = "全部再生";
 
 /* No comment provided by engineer. */
 "reject" = "拒絕";
@@ -2071,8 +2071,8 @@
 /* No comment provided by engineer. */
 "Restore" = "恢復";
 
-/* TODO */
-"Restore %d Items From Recycle Bin" = "Restore %d Items From Recycle Bin";
+/* No comment provided by engineer. */
+"Restore %d Items From Recycle Bin" = "從回收站恢復%d個檔案";
 
 /* No comment provided by engineer. */
 "Restore Selected %ld Items" = "恢復選中的 %ld 項";
@@ -2089,11 +2089,11 @@
 /* No comment provided by engineer. */
 "Resume with Warning" = "繼續並警告";
 
-/* TODO */
-"Retry" = "Retry";
+/* No comment provided by engineer. */
+"Retry" = "再試";
 
-/* TODO */
-"Reverse Geocoding" = "Reverse Geocoding";
+/* No comment provided by engineer. */
+"Reverse Geocoding" = "反向地理編碼";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "反選";
@@ -2141,7 +2141,7 @@
 "Scene Identification" = "通話場景識別";
 
 /* No comment provided by engineer. */
-"screen" = "screen";
+"screen" = "螢幕";
 
 /* No comment provided by engineer. */
 "Search" = "搜尋";
@@ -2155,8 +2155,8 @@
 /* No comment provided by engineer. */
 "Search Apps…" = "搜尋應用…";
 
-/* TODO */
-"Search Arguments…" = "Search Arguments…";
+/* No comment provided by engineer. */
+"Search Arguments…" = "搜尋參數…";
 
 /* No comment provided by engineer. */
 "Search Contacts…" = "搜尋聯繫人…";
@@ -2176,14 +2176,14 @@
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "搜尋動作…";
 
-/* TODO */
-"Search…" = "Search…";
+/* No comment provided by engineer. */
+"Search…" = "搜尋...";
 
 /* No comment provided by engineer. */
 "Seconds" = "秒數";
 
-/* TODO */
-"Secure" = "Secure";
+/* No comment provided by engineer. */
+"Secure" = "安全的";
 
 /* No comment provided by engineer. */
 "Secure Payment" = "安全的支付方式";
@@ -2221,14 +2221,14 @@
 /* No comment provided by engineer. */
 "Separators" = "分隔符";
 
-/* TODO */
-"Server" = "Server";
+/* No comment provided by engineer. */
+"Server" = "伺服器";
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "服務已啓動：%@";
 
-/* TODO */
-"Server URL" = "Server URL";
+/* No comment provided by engineer. */
+"Server URL" = "伺服器網址";
 
 /* No comment provided by engineer. */
 "service" = "服務";
@@ -2272,8 +2272,8 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "顯示聯繫人姓名";
 
-/* TODO */
-"Show Hoverball" = "Show Hoverball";
+/* No comment provided by engineer. */
+"Show Hoverball" = "顯示懸停球";
 
 /* No comment provided by engineer. */
 "Show Notification" = "顯示通知";
@@ -2303,13 +2303,13 @@
 "Show “View Details” menu item for developers to check the manifests of recordings." = "為開發者顯示查看詳情菜單項，以查看錄音的細節清單。";
 
 /* No comment provided by engineer. */
-"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "使用您的Dropbox帳戶登入，以授權應用程式訪問您的Dropbox。";
 
 /* No comment provided by engineer. */
-"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+"Sign in with your Google account to authorize the app to access your Google Drive." = "使用您的谷歌帳戶登入，以授權應用程式訪問您的谷歌雲端硬碟。";
 
 /* No comment provided by engineer. */
-"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "使用您的微軟帳戶登入，以授權應用程式訪問您的微軟OneDrive。";
 
 /* No comment provided by engineer. */
 "Silent Mode" = "靜默模式";
@@ -2341,8 +2341,8 @@
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "出現了一些問題，我們無法驗證你的購買。你可以輕按查看我的賬戶，確認你的訂單狀態或兌換禮品代碼。";
 
-/* TODO */
-"Sound Level Meter" = "Sound Level Meter";
+/* No comment provided by engineer. */
+"Sound Level Meter" = "聲級計";
 
 /* No comment provided by engineer. */
 "Space" = "空格";
@@ -2360,28 +2360,28 @@
 "start" = "開始";
 
 /* No comment provided by engineer. */
-"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
+"Start a system screen recording just like what you do in the Control Center." = "開始系統螢幕錄製，就像您在控制中心一樣。";
 
-/* TODO */
-"Start Call Recording" = "Start Call Recording";
+/* No comment provided by engineer. */
+"Start Call Recording" = "開始通話錄音";
 
 /* No comment provided by engineer. */
 "Start Date" = "起始日期";
 
 /* No comment provided by engineer. */
-"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Start or prepare for a call recording, system audio recording, or create an voice memo.";
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "開始或準備通話錄音、系統錄音或建立語音備忘錄。";
 
 /* No comment provided by engineer. */
 "Start Recording" = "開始錄音";
 
 /* No comment provided by engineer. */
-"Start Screen Recording" = "Start Screen Recording";
+"Start Screen Recording" = "開始螢幕錄製";
 
-/* TODO */
-"Start System Audio Recording" = "Start System Audio Recording";
+/* No comment provided by engineer. */
+"Start System Audio Recording" = "啟動系統音訊錄製";
 
-/* TODO */
-"Start Voice Memo Recording" = "Start Voice Memo Recording";
+/* No comment provided by engineer. */
+"Start Voice Memo Recording" = "開始語音備忘錄錄音";
 
 /* No comment provided by engineer. */
 "status" = "狀態";
@@ -2402,10 +2402,10 @@
 "Stop & Save" = "結束並保存";
 
 /* No comment provided by engineer. */
-"Stop a call recording, system audio recording or voice memo if exists." = "Stop a call recording, system audio recording or voice memo if exists.";
+"Stop a call recording, system audio recording or voice memo if exists." = "停止通話錄音、系統錄音或語音備忘錄（如果存在）。";
 
 /* No comment provided by engineer. */
-"Stop a system screen recording if exists." = "Stop a system screen recording if exists.";
+"Stop a system screen recording if exists." = "如果存在系統螢幕錄製，請停止。";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "停止錄音";
@@ -2414,22 +2414,22 @@
 "Stop Recording When Disk Exhausted" = "空間不足時停止錄音";
 
 /* No comment provided by engineer. */
-"Stop Screen Recording" = "Stop Screen Recording";
+"Stop Screen Recording" = "停止螢幕錄製";
 
 /* No comment provided by engineer. */
 "Stop Service" = "停止服務";
 
-/* TODO */
-"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+/* No comment provided by engineer. */
+"Successfully authorized to Google and connected to Google Drive." = "成功授權到谷歌並連線到谷歌雲端硬碟。";
 
-/* TODO */
-"Successfully authorized to Microsoft and connected to OneDrive." = "Successfully authorized to Microsoft and connected to OneDrive.";
+/* No comment provided by engineer. */
+"Successfully authorized to Microsoft and connected to OneDrive." = "成功授權給微軟並連線到OneDrive。";
 
-/* TODO */
-"Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
+/* No comment provided by engineer. */
+"Successfully connected to Dropbox." = "成功連線到Dropbox。";
 
-/* TODO */
-"Successfully connected to the server %@." = "Successfully connected to the server %@.";
+/* No comment provided by engineer. */
+"Successfully connected to the server %@." = "成功連線到伺服器%@。";
 
 /* No comment provided by engineer. */
 "Suggested" = "建議";
@@ -2446,20 +2446,20 @@
 /* No comment provided by engineer. */
 "Sync Service Provider" = "服務提供商";
 
-/* TODO */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+/* No comment provided by engineer. */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "同步：使本地和雲記錄相同，僅修改雲驅動器。";
 
 /* No comment provided by engineer. */
 "synchronization" = "同步";
 
-/* TODO */
-"Synchronization Failed" = "Synchronization Failed";
+/* No comment provided by engineer. */
+"Synchronization Failed" = "同步失敗";
 
 /* No comment provided by engineer. */
 "Synchronizing" = "同步中";
 
-/* TODO */
-"Syntax or usage error occurred." = "Syntax or usage error occurred.";
+/* No comment provided by engineer. */
+"Syntax or usage error occurred." = "發生了語法或使用錯誤。";
 
 /* No comment provided by engineer. */
 "System Applications" = "系統應用";
@@ -2477,7 +2477,7 @@
 "System Language" = "系統語言";
 
 /* No comment provided by engineer. */
-"System Record" = "System Record";
+"System Record" = "系統記錄";
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "輕按並選中 __任一邊緣__，  \n使其進入 ___活躍狀態___。";
@@ -2506,11 +2506,11 @@
 /* No comment provided by engineer. */
 "Tap to open settings." = "輕按以打開設置。";
 
-/* TODO */
-"Tap to view details" = "Tap to view details";
+/* No comment provided by engineer. */
+"Tap to view details" = "點選檢視詳細資訊";
 
-/* TODO */
-"Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
+/* No comment provided by engineer. */
+"Temporary error occurred, more retries might fix." = "發生了臨時錯誤，更多的重試可能會修復。";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "暫時忽略";
@@ -2524,8 +2524,8 @@
 /* No comment provided by engineer. */
 "Terminate Calls" = "結束通話";
 
-/* TODO */
-"Test Connection" = "Test Connection";
+/* No comment provided by engineer. */
+"Test Connection" = "測試連線";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "文本轉語音";
@@ -2614,8 +2614,8 @@
 /* No comment provided by engineer. */
 "The primary button action at the right side of the hoverball when no call is active." = "當沒有活躍通話時，輕按懸浮球右側的主按鈕時，所執行的操作。";
 
-/* TODO */
-"The service is not properly configured." = "The service is not properly configured.";
+/* No comment provided by engineer. */
+"The service is not properly configured." = "服務配置不正確。";
 
 /* No comment provided by engineer. */
 "The service operator name of the sender." = "運營商的名稱。";
@@ -2707,8 +2707,8 @@
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "如需配置 iCloud 雲盤，請轉到 「設置」 → 「蜂窩移動網絡」 → 「iCloud 雲盤」。";
 
-/* TODO */
-"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
+/* No comment provided by engineer. */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "要配置與錄製同步相關的通知，請轉到網路儲存設定頁面。";
 
 /* No comment provided by engineer. */
 "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "如需配置長按動作，你需要從 「自動化」 → 「長按懸浮球」 中移除自定義快捷指令。";
@@ -2731,8 +2731,8 @@
 /* No comment provided by engineer. */
 "toggle" = "toggle";
 
-/* TODO */
-"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+/* No comment provided by engineer. */
+"Toggle ${requestedMode}" = "啟停${requestedMode}";
 
 /* No comment provided by engineer. */
 "Toggle Call Recording" = "啓停通話錄音";
@@ -2747,19 +2747,19 @@
 "Toggle Recording" = "啓停錄音";
 
 /* No comment provided by engineer. */
-"Toggle Screen Recording" = "Toggle Screen Recording";
+"Toggle Screen Recording" = "啟停螢幕錄製";
 
 /* No comment provided by engineer. */
 "Toggle System Audio Recording" = "啓停系統音頻錄制";
 
 /* No comment provided by engineer. */
-"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
+"Toggle system screen recording just like what you do in the Control Center." = "切換系統螢幕錄製，就像您在控制中心所做的那樣。";
 
 /* No comment provided by engineer. */
 "Toggle Voice Memo Recording" = "啓停語音備忘錄";
 
-/* TODO */
-"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+/* No comment provided by engineer. */
+"Token expired. Please re-authorize to continue." = "令牌過期。 請重新授權以繼續。";
 
 /* No comment provided by engineer. */
 "top edge" = "頂部";
@@ -2782,8 +2782,8 @@
 /* No comment provided by engineer. */
 "Transcript" = "轉錄";
 
-/* TODO */
-"Transfer exceeded." = "Transfer exceeded.";
+/* No comment provided by engineer. */
+"Transfer exceeded." = "傳輸數據量超過限制。";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "閒置效果";
@@ -2824,17 +2824,17 @@
 /* No comment provided by engineer. */
 "Type to search…" = "鍵入以搜尋…";
 
-/* TODO */
-"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+/* No comment provided by engineer. */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "無法找到用於雙向同步的遠端目錄。 您可能需要在遠端儲存上建立TrollRecorder/Recordings目錄。";
 
-/* TODO */
-"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+/* No comment provided by engineer. */
+"Unable to locate your personal “OneDrive”." = "無法找到您個人的OneDrive。";
 
-/* TODO */
-"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
+/* No comment provided by engineer. */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "無法執行增量雙向同步，需要完全重新同步。";
 
-/* TODO */
-"Unauthorize" = "Unauthorize";
+/* No comment provided by engineer. */
+"Unauthorize" = "未經授權";
 
 /* No comment provided by engineer. */
 "Uncompressed" = "未壓縮 (PCM)";
@@ -2860,11 +2860,11 @@
 /* No comment provided by engineer. */
 "Unknown Error" = "未知錯誤";
 
-/* TODO */
-"Unknown error occurred." = "Unknown error occurred.";
+/* No comment provided by engineer. */
+"Unknown error occurred." = "發生了未知錯誤。";
 
-/* TODO */
-"Unknown error occurred. Please check the log for more details." = "Unknown error occurred. Please check the log for more details.";
+/* No comment provided by engineer. */
+"Unknown error occurred. Please check the log for more details." = "發生了未知錯誤。 請檢視日誌以瞭解更多詳情。";
 
 /* No comment provided by engineer. */
 "Unknown File Format" = "未知文件格式";
@@ -2890,8 +2890,8 @@
 /* No comment provided by engineer. */
 "Unknown Sender" = "未知號卡";
 
-/* TODO */
-"Unknown Type" = "Unknown Type";
+/* No comment provided by engineer. */
+"Unknown Type" = "未知型別";
 
 /* No comment provided by engineer. */
 "Unknown Variant" = "未知變體";
@@ -2905,8 +2905,8 @@
 /* No comment provided by engineer. */
 "unmute" = "取消靜音";
 
-/* TODO */
-"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
+/* No comment provided by engineer. */
+"Unmute ${requestedChannel}" = "取消靜音 ${requestedChannel}";
 
 /* No comment provided by engineer. */
 "Unmute Existing Calls" = "取消靜音現有通話";
@@ -2947,8 +2947,8 @@
 /* No comment provided by engineer. */
 "Upload, download or synchronize recordings between local and cloud drive." = "在本地與雲端之間上傳、下載或同步錄音。";
 
-/* TODO */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
+/* No comment provided by engineer. */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "上傳：將本地錄音按原地上傳到雲驅動器。 可恢復的。";
 
 /* No comment provided by engineer. */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物識別驗證來解鎖應用程序。啓用此功能時，後台播放不可用。";
@@ -2989,8 +2989,8 @@
 /* No comment provided by engineer. */
 "User Interface Style" = "界面樣式";
 
-/* TODO */
-"Username (Optional)" = "Username (Optional)";
+/* No comment provided by engineer. */
+"Username (Optional)" = "使用者名稱（可選）";
 
 /* No comment provided by engineer. */
 "Utility" = "實用工具";
@@ -3025,8 +3025,8 @@
 /* No comment provided by engineer. */
 "View Details" = "查看詳情";
 
-/* TODO */
-"View Logs" = "View Logs";
+/* No comment provided by engineer. */
+"View Logs" = "檢視日誌";
 
 /* No comment provided by engineer. */
 "View Logs: Application" = "應用程序";
@@ -3046,8 +3046,8 @@
 /* No comment provided by engineer. */
 "View Logs: Launch Agent" = "啓動代理";
 
-/* TODO */
-"View Logs: Network Storage" = "View Logs: Network Storage";
+/* No comment provided by engineer. */
+"View Logs: Network Storage" = "檢視日誌：網路儲存";
 
 /* No comment provided by engineer. */
 "View Logs: Speech Utterance" = "語音播報";
@@ -3094,8 +3094,8 @@
 /* No comment provided by engineer. */
 "wait" = "等待";
 
-/* TODO */
-"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+/* No comment provided by engineer. */
+"Wait for ${requestedTimeout} seconds" = "等待 ${requestedTimeout} 秒";
 
 /* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "等待任意通話被接聽並接通。";
@@ -3154,14 +3154,14 @@
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "我們生成了一些新的通話錄音！";
 
-/* TODO */
-"What’s New" = "What’s New";
+/* No comment provided by engineer. */
+"What’s New" = "更新內容";
 
 /* No comment provided by engineer. */
 "When any of the following actions is triggered, run the shortcut without any notification." = "當觸發以下任何操作時，無需通知即運行快捷指令。";
 
-/* TODO */
-"When Foreground" = "When Foreground";
+/* No comment provided by engineer. */
+"When Foreground" = "App處於前台時";
 
 /* No comment provided by engineer. */
 "When Locked" = "僅鎖定時";
@@ -3172,8 +3172,8 @@
 /* No comment provided by engineer. */
 "When there is no call…" = "當沒有通話時…";
 
-/* TODO */
-"When Visible" = "When Visible";
+/* No comment provided by engineer. */
+"When Visible" = "當可見時";
 
 /* No comment provided by engineer. */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "啓用 WebDAV 服務器後，是否允許你從 Safari、Chrome、Edge 等常見的網絡瀏覽器訪問。";
@@ -3220,8 +3220,8 @@
 /* No comment provided by engineer. */
 "YES" = "是";
 
-/* TODO */
-"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!";
+/* No comment provided by engineer. */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "您即將刪除所有錄音，重置所有設定，並完全清除所有快取。\n\n此操作無法撤銷！";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 「設置」 → 「輔助功能」 → 「旁白」 → 「語音」 → 「聲音」 中下載語音包，然後在這裡選擇一種，用於 「通話錄音警告」 和 「語音播報」 快捷指令。";
@@ -3235,8 +3235,8 @@
 /* No comment provided by engineer. */
 "You may need to reboot your device to make this application work properly." = "你可能需要重新啓動你的設備以使此應用程序正常工作。";
 
-/* TODO */
-"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+/* No comment provided by engineer. */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "您在此%@上的資訊將上傳並與儲存“%@”中的錄音合併。";
 
 /* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder JB”." = "你現在正在試用巨魔錄音機越獄版。";
@@ -3247,8 +3247,8 @@
 /* No comment provided by engineer. */
 "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "你已將此應用程序的顯示語言更改為 “%@”。退出並重新打開應用程序方可生效。如果需要在推送通知、懸浮窗等位置使用新設置的語言，輕按繼續以妙手回春。";
 
-/* TODO */
-"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates.";
+/* No comment provided by engineer. */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "您更改了自定義匯出名稱。 您想在網路儲存中重新生成存檔的錄音嗎？\n\n此操作可能需要一段時間，並消耗額外的蜂窩資料流量配額。 您可能想要從您的雲驅動器中刪除TrollRecorder/ArchivedRecordings，以避免重複。";
 
 /* No comment provided by engineer. */
 "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "你選擇繼續使用無效的代碼簽名。你仍然可以使用此應用程序查看或導出現有錄音，但其他功能可能無法使用。";
