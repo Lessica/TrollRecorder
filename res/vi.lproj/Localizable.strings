@@ -638,6 +638,9 @@
 "Custom Export Name" = "Custom Export Name";
 
 /* TODO */
+"Custom Key Combination…" = "Custom Key Combination…";
+
+/* TODO */
 "Custom Layout Guide" = "Custom Layout Guide";
 
 /* TODO */
@@ -1153,6 +1156,9 @@
 /* TODO */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
 
+/* TODO */
+"Hide When Landscape" = "Hide When Landscape";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Ẩn khi chụp ảnh màn hình";
 
@@ -1203,6 +1209,9 @@
 
 /* TODO */
 "If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
+
+/* TODO */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "If there’s no active phone call, press and hold the power button to perform specified action.";
 
 /* TODO */
 "If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
@@ -1388,12 +1397,6 @@
 "Long Date" = "Long Date";
 
 /* TODO */
-"Long Press Action" = "Long Press Action";
-
-/* TODO */
-"Long Press Hoverball" = "Long Press Hoverball";
-
-/* TODO */
 "Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
 
 /* TODO */
@@ -1434,6 +1437,9 @@
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "Làm cho bong bóng mọi nơi trở nên vô hình khi chụp ảnh màn hình hoặc ghi lại màn hình.";
+
+/* TODO */
+"Make the hoverball invisible when the device is in landscape orientation." = "Make the hoverball invisible when the device is in landscape orientation.";
 
 /* No comment provided by engineer. */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Làm cho bong bóng trong suốt hoặc gấp lại khi để nó trong một thời gian.";
@@ -1681,6 +1687,9 @@
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
 
+/* TODO */
+"Options" = "Options";
+
 /* No comment provided by engineer. */
 "Outgoing" = "Đi ra";
 
@@ -1853,7 +1862,22 @@
 "Preserve All Channels" = "Bảo tồn tất cả các kênh";
 
 /* TODO */
+"Press & Hold Action" = "Press & Hold Action";
+
+/* TODO */
+"Press & Hold Hoverball" = "Press & Hold Hoverball";
+
+/* TODO */
+"Press & Hold Power Button" = "Press & Hold Power Button";
+
+/* TODO */
+"Press and hold the power button to start or stop recording during a call." = "Press and hold the power button to start or stop recording during a call.";
+
+/* TODO */
 "Press both of the physical volume buttons to start or stop recording during a call." = "Press both of the physical volume buttons to start or stop recording during a call.";
+
+/* TODO */
+"Press Both Volume Buttons" = "Press Both Volume Buttons";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "Xem trước bị vô hiệu hóa";
@@ -2456,6 +2480,9 @@
 "Synchronization Failed" = "Synchronization Failed";
 
 /* TODO */
+"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
+
+/* TODO */
 "Synchronizing" = "Synchronizing";
 
 /* TODO */
@@ -2576,6 +2603,9 @@
 "The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
 
 /* TODO */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”.";
+
+/* TODO */
 "The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
 
 /* No comment provided by engineer. */
@@ -2666,7 +2696,10 @@
 "This is a widget daemon for Troll Recorder." = "This is a widget daemon for Troll Recorder.";
 
 /* TODO */
-"This option overrides the “Long Press Action” of the Hoverball." = "This option overrides the “Long Press Action” of the Hoverball.";
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "This option affects the behavior of the “Quick Recording” and “Physical Key Combination”.";
+
+/* TODO */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "This option overrides the “Press & Hold Action” of the Hoverball.";
 
 /* TODO */
 "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
@@ -2711,7 +2744,7 @@
 "To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
 
 /* TODO */
-"To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”.";
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”.";
 
 /* TODO */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
@@ -2967,6 +3000,9 @@
 
 /* No comment provided by engineer. */
 "Use Haptic Patterns" = "Sử dụng mô hình xúc giác";
+
+/* TODO */
+"Use Media Controls" = "Use Media Controls";
 
 /* No comment provided by engineer. */
 "Use Recycle Bin" = "Sử dụng Thùng rác";

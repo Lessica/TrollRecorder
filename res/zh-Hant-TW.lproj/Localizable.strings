@@ -637,6 +637,9 @@
 /* No comment provided by engineer. */
 "Custom Export Name" = "自定義導出名稱";
 
+/* TODO */
+"Custom Key Combination…" = "Custom Key Combination…";
+
 /* No comment provided by engineer. */
 "Custom Layout Guide" = "自定義安全區域";
 
@@ -1153,6 +1156,9 @@
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "隱藏語音備忘錄在鎖定螢幕上的顯示，並隱藏其靈動島活動。你需要通過 TrollFools 或類似技術將其注入到語音備忘錄應用程序中。";
 
+/* TODO */
+"Hide When Landscape" = "Hide When Landscape";
+
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏時隱藏";
 
@@ -1203,6 +1209,9 @@
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜索索引出了問題，可以在這裡重新設置。";
+
+/* TODO */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "If there’s no active phone call, press and hold the power button to perform specified action.";
 
 /* No comment provided by engineer. */
 "If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "當沒有活躍通話時，同時按下兩個音量鍵執行指定的動作。";
@@ -1388,12 +1397,6 @@
 "Long Date" = "長日期";
 
 /* No comment provided by engineer. */
-"Long Press Action" = "長按動作";
-
-/* No comment provided by engineer. */
-"Long Press Hoverball" = "長按懸浮球";
-
-/* No comment provided by engineer. */
 "Long press the hoverball to start or stop recording by convenience." = "長按懸浮球以方便地開始或停止錄音。";
 
 /* No comment provided by engineer. */
@@ -1434,6 +1437,9 @@
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或螢幕錄制時使懸浮球不可見。";
+
+/* TODO */
+"Make the hoverball invisible when the device is in landscape orientation." = "Make the hoverball invisible when the device is in landscape orientation.";
 
 /* No comment provided by engineer. */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "當懸浮球閒置一段時間後，使其半透明或折疊到螢幕邊緣。";
@@ -1681,6 +1687,9 @@
 /* No comment provided by engineer. */
 "Optic ID" = "視控 ID";
 
+/* TODO */
+"Options" = "Options";
+
 /* No comment provided by engineer. */
 "Outgoing" = "去電";
 
@@ -1853,7 +1862,22 @@
 "Preserve All Channels" = "保留所有通道";
 
 /* No comment provided by engineer. */
+"Press & Hold Action" = "長按動作";
+
+/* No comment provided by engineer. */
+"Press & Hold Hoverball" = "長按懸浮球";
+
+/* TODO */
+"Press & Hold Power Button" = "Press & Hold Power Button";
+
+/* TODO */
+"Press and hold the power button to start or stop recording during a call." = "Press and hold the power button to start or stop recording during a call.";
+
+/* No comment provided by engineer. */
 "Press both of the physical volume buttons to start or stop recording during a call." = "通話過程中，同時按下兩個音量鍵開始或停止錄音。";
+
+/* TODO */
+"Press Both Volume Buttons" = "Press Both Volume Buttons";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "預覽已關閉";
@@ -2455,6 +2479,9 @@
 /* No comment provided by engineer. */
 "Synchronization Failed" = "同步失敗";
 
+/* TODO */
+"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
+
 /* No comment provided by engineer. */
 "Synchronizing" = "同步中";
 
@@ -2575,6 +2602,9 @@
 /* No comment provided by engineer. */
 "The hoverball can display even if you do not unlock your device." = "即使你沒有解鎖設備，懸浮球也可以顯示。";
 
+/* TODO */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”.";
+
 /* No comment provided by engineer. */
 "The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "最新版本的巨魔錄音機是 %@ (%@)。當前版本是 %@ (%@)。";
 
@@ -2665,8 +2695,11 @@
 /* No comment provided by engineer. */
 "This is a widget daemon for Troll Recorder." = "這是巨魔錄音機的啓動守護小組件。";
 
+/* TODO */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "This option affects the behavior of the “Quick Recording” and “Physical Key Combination”.";
+
 /* No comment provided by engineer. */
-"This option overrides the “Long Press Action” of the Hoverball." = "此選項將覆蓋懸浮球的長按動作。";
+"This option overrides the “Press & Hold Action” of the Hoverball." = "此選項將覆蓋懸浮球的長按動作。";
 
 /* No comment provided by engineer. */
 "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "此錄音包含多個音頻變體。原地保存將刪除除主要錄音文件之外的其他變體。你仍要繼續嗎，還是另存為副本？";
@@ -2711,7 +2744,7 @@
 "To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "要配置與錄製同步相關的通知，請轉到網路儲存設定頁面。";
 
 /* No comment provided by engineer. */
-"To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "如需配置長按動作，你需要從 「自動化」 → 「長按懸浮球」 中移除自定義快捷指令。";
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "如需配置長按動作，你需要從 「自動化」 → 「長按懸浮球」 中移除自定義快捷指令。";
 
 /* No comment provided by engineer. */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "如需獲取更準確的通話記錄，你需要通過 TrollFools 或類似技術將其注入到微信應用程序中。";
@@ -2967,6 +3000,9 @@
 
 /* No comment provided by engineer. */
 "Use Haptic Patterns" = "觸感反饋";
+
+/* TODO */
+"Use Media Controls" = "Use Media Controls";
 
 /* No comment provided by engineer. */
 "Use Recycle Bin" = "使用回收站";

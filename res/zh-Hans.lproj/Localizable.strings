@@ -638,6 +638,9 @@
 "Custom Export Name" = "自定义导出名称";
 
 /* No comment provided by engineer. */
+"Custom Key Combination…" = "自定义按键组合…";
+
+/* No comment provided by engineer. */
 "Custom Layout Guide" = "自定义安全区域";
 
 /* No comment provided by engineer. */
@@ -998,7 +1001,7 @@
 "Failed to initialize speech recognizer using current locale “%@”." = "无法以当前区域 “%@” 初始化转录引擎。";
 
 /* No comment provided by engineer. */
-"Failed to perform “%@” operation with service provider “%@”." = "无法与网络存储服务 %2$@ 完成 %1$@。";
+"Failed to perform “%@” operation with service provider “%@”." = "无法与网络存储服务 %2$@ 完成%1$@。";
 
 /* No comment provided by engineer. */
 "Failed to play: %@" = "播放失败：%@";
@@ -1154,6 +1157,9 @@
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "隐藏 “语音备忘录” 在锁定屏幕上的显示，并隐藏其 “灵动岛” 活动。你需要通过 TrollFools 或类似技术将其注入到 “语音备忘录” 应用程序中。";
 
 /* No comment provided by engineer. */
+"Hide When Landscape" = "横屏时隐藏";
+
+/* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏时隐藏";
 
 /* No comment provided by engineer. */
@@ -1203,6 +1209,9 @@
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜索索引出了问题，可以在这里重新设置。";
+
+/* No comment provided by engineer. */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "当没有活跃通话时，长按电源键执行指定的动作。";
 
 /* No comment provided by engineer. */
 "If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "当没有活跃通话时，同时按下两个音量键执行指定的动作。";
@@ -1388,12 +1397,6 @@
 "Long Date" = "长日期";
 
 /* No comment provided by engineer. */
-"Long Press Action" = "长按动作";
-
-/* No comment provided by engineer. */
-"Long Press Hoverball" = "长按悬浮球";
-
-/* No comment provided by engineer. */
 "Long press the hoverball to start or stop recording by convenience." = "长按悬浮球以方便地开始或停止录音。";
 
 /* No comment provided by engineer. */
@@ -1434,6 +1437,9 @@
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在进行截屏或屏幕录制时使悬浮球不可见。";
+
+/* No comment provided by engineer. */
+"Make the hoverball invisible when the device is in landscape orientation." = "当设备处于横屏方向时使悬浮球不可见。";
 
 /* No comment provided by engineer. */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "当悬浮球闲置一段时间后，使其半透明或折叠到屏幕边缘。";
@@ -1682,6 +1688,9 @@
 "Optic ID" = "视控 ID";
 
 /* No comment provided by engineer. */
+"Options" = "选项";
+
+/* No comment provided by engineer. */
 "Outgoing" = "去电";
 
 /* No comment provided by engineer. */
@@ -1853,7 +1862,22 @@
 "Preserve All Channels" = "保留所有通道";
 
 /* No comment provided by engineer. */
+"Press & Hold Action" = "长按动作";
+
+/* No comment provided by engineer. */
+"Press & Hold Hoverball" = "长按悬浮球";
+
+/* No comment provided by engineer. */
+"Press & Hold Power Button" = "长按电源键";
+
+/* No comment provided by engineer. */
+"Press and hold the power button to start or stop recording during a call." = "通话过程中，长按电源键开始或停止录音。";
+
+/* No comment provided by engineer. */
 "Press both of the physical volume buttons to start or stop recording during a call." = "通话过程中，同时按下两个音量键开始或停止录音。";
+
+/* No comment provided by engineer. */
+"Press Both Volume Buttons" = "按下两个音量键";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "预览已关闭";
@@ -2456,6 +2480,9 @@
 "Synchronization Failed" = "同步失败";
 
 /* No comment provided by engineer. */
+"Synchronize the playback status of the recording with Control Center." = "与控制中心同步录音的播放状态。";
+
+/* No comment provided by engineer. */
 "Synchronizing" = "同步中";
 
 /* No comment provided by engineer. */
@@ -2576,6 +2603,9 @@
 "The hoverball can display even if you do not unlock your device." = "即使你没有解锁设备，悬浮球也可以显示。";
 
 /* No comment provided by engineer. */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "适用于 “快速录音” 和 “物理按键组合” 的组合键已更改为 “%@”。";
+
+/* No comment provided by engineer. */
 "The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "最新版本的 “巨魔录音机” 是 %@ (%@)。当前版本是 %@ (%@)。";
 
 /* No comment provided by engineer. */
@@ -2666,7 +2696,10 @@
 "This is a widget daemon for Troll Recorder." = "这是巨魔录音机的启动守护小组件。";
 
 /* No comment provided by engineer. */
-"This option overrides the “Long Press Action” of the Hoverball." = "此选项将覆盖悬浮球的 “长按动作”。";
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "此选项影响 “快速录音” 和 “物理按键组合” 的行为。";
+
+/* No comment provided by engineer. */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "此选项将覆盖悬浮球的 “长按动作”。";
 
 /* No comment provided by engineer. */
 "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "此录音包含多个音频变体。原地保存将删除除主要录音文件之外的其他变体。你仍要继续吗，还是另存为副本？";
@@ -2711,7 +2744,7 @@
 "To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "如需配置与录音同步相关的通知，请转到 “网络存储” 设置页面。";
 
 /* No comment provided by engineer. */
-"To configure “Long Press Action”, you have to remove custom shortcut from “Automation” → “Long Press Hoverball”." = "如需配置 “长按动作”，你需要从 “自动化” → “长按悬浮球” 中移除自定义快捷指令。";
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "如需配置 “长按动作”，你需要从 “自动化” → “长按悬浮球” 中移除自定义快捷指令。";
 
 /* No comment provided by engineer. */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "如需获取更准确的通话记录，你需要通过 TrollFools 或类似技术将其注入到 “微信” 应用程序中。";
@@ -2967,6 +3000,9 @@
 
 /* No comment provided by engineer. */
 "Use Haptic Patterns" = "触感反馈";
+
+/* No comment provided by engineer. */
+"Use Media Controls" = "使用媒体控制";
 
 /* No comment provided by engineer. */
 "Use Recycle Bin" = "使用回收站";
