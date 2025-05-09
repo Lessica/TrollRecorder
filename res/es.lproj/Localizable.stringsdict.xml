@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Content Type</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>Tipo de contenido</string>
+            <key>other</key>
+            <string>Tipos de contenido</string>
+        </dict>
+    </dict>
+	<key>%lld content types</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+			<key>zero</key>
+			<string>%lld tipos de contenido</string>
+			<key>one</key>
+			<string>%lld tipo de contenido</string>
+			<key>other</key>
+			<string>%lld tipos de contenido</string>
+		</dict>
+	</dict>
+    <key>Information Field</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>Campo de información</string>
+            <key>other</key>
+            <string>Campos de información</string>
+        </dict>
+    </dict>
+	<key>%lld fields</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+			<key>zero</key>
+			<string>%lld campos</string>
+			<key>one</key>
+			<string>%lld campo</string>
+			<key>other</key>
+			<string>%lld campos</string>
+		</dict>
+	</dict>
+	<key>Voice Channel</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>Canal de voz</string>
+            <key>other</key>
+            <string>Canales de voz</string>
+        </dict>
+    </dict>
+	<key>%lld channels</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+			<key>zero</key>
+			<string>%lld canales</string>
+			<key>one</key>
+			<string>%lld canal</string>
+			<key>other</key>
+			<string>%lld canales</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
