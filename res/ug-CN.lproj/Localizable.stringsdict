@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Content Type</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>مەزمۇن تىپى</string>
+            <key>other</key>
+            <string>مەزمۇن تىپى</string>
+        </dict>
+    </dict>
+    <key>%lld content types</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+            <key>zero</key>
+            <string>%lld مەزمۇن تىپى</string>
+            <key>one</key>
+            <string>%lld مەزمۇن تىپى</string>
+            <key>other</key>
+            <string>%lld مەزمۇن تىپى</string>
+        </dict>
+    </dict>
+    <key>Information Field</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>ئۇچۇر خانىسى</string>
+            <key>other</key>
+            <string>ئۇچۇر خانىسى</string>
+        </dict>
+    </dict>
+    <key>%lld fields</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+            <key>zero</key>
+            <string>%lld تۈر</string>
+            <key>one</key>
+            <string>%lld تۈر</string>
+            <key>other</key>
+            <string>%lld تۈر</string>
+        </dict>
+    </dict>
+    <key>Voice Channel</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>ئاۋاز قانىلى</string>
+            <key>other</key>
+            <string>ئاۋاز قانىلى</string>
+        </dict>
+    </dict>
+    <key>%lld channels</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+            <key>zero</key>
+            <string>%lld قانال</string>
+            <key>one</key>
+            <string>%lld قانال</string>
+            <key>other</key>
+            <string>%lld قانال</string>
+        </dict>
+    </dict>
+</dict>
+</plist>
