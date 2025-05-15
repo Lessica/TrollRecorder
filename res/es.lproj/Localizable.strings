@@ -73,6 +73,7 @@
 /* No comment provided by engineer. */
 "A new version (%@) of “TrollRecorder” is available." = "Hay disponible una nueva versión (%@) de “TrollRecorder”.";
 
+/* No comment provided by engineer. */
 "A resping is required to completely apply the changes." = "Se requiere un respring para aplicar completamente los cambios.";
 
 /* No comment provided by engineer. */
@@ -1095,6 +1096,7 @@
 /* No comment provided by engineer. */
 "Full Year" = "Año completo";
 
+/* No comment provided by engineer. */
 "Get ${requestedField}" = "Obtener ${requestedField}";
 
 /* No comment provided by engineer. */
@@ -1199,6 +1201,7 @@
 /* No comment provided by engineer. */
 "icloud" = "iCloud";
 
+/* No comment provided by engineer. */
 "iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
@@ -1411,11 +1414,13 @@
 /* No comment provided by engineer. */
 "Maintenance" = "Mantenimiento";
 
+/* No comment provided by engineer. */
 "Make a ${requestedMode} recording" = "Hacer una grabación ${requestedMode}";
 
 /* No comment provided by engineer. */
 "Make a new recording, or stop an existing one." = "Hacer una nueva grabación o detener una existente.";
 
+/* No comment provided by engineer. */
 "Make a new voice memo, or stop an existing one." = "Hacer una nueva nota de voz o detener una existente.";
 
 /* No comment provided by engineer. */
@@ -1523,6 +1528,7 @@
 /* No comment provided by engineer. */
 "mute" = "silenciar";
 
+/* No comment provided by engineer. */
 "Mute ${requestedChannel}" = "Silenciar ${requestedChannel}";
 
 /* No comment provided by engineer. */
@@ -1630,13 +1636,16 @@
 /* No comment provided by engineer. */
 "Object Viewer" = "Visor de objetos";
 
+/* No comment provided by engineer. */
 "Off" = "Desactivado";
 
 /* No comment provided by engineer. */
 "OK" = "Aceptar";
 
+/* No comment provided by engineer. */
 "On" = "Activado";
 
+/* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
@@ -1660,6 +1669,7 @@
 /* No comment provided by engineer. */
 "Open in Maps" = "Abrir en Mapas";
 
+/* No comment provided by engineer. */
 "Open Troll Recorder" = "Abrir Troll Recorder";
 
 /* No comment provided by engineer. */
@@ -1761,6 +1771,7 @@
 /* No comment provided by engineer. */
 "play" = "reproducir";
 
+/* No comment provided by engineer. */
 "Play ${audioFile}" = "Reproducir ${audioFile}";
 
 /* No comment provided by engineer. */
@@ -2147,6 +2158,7 @@
 /* No comment provided by engineer. */
 "Save as Duplicate…" = "Guardar como duplicado…";
 
+/* No comment provided by engineer. */
 "Say ${requestedText}" = "Decir ${requestedText}";
 
 /* No comment provided by engineer. */
@@ -2188,6 +2200,7 @@
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "Buscar atajos…";
 
+/* No comment provided by engineer. */
 "Search…" = "Buscar…";
 
 /* No comment provided by engineer. */
@@ -2289,6 +2302,7 @@
 /* No comment provided by engineer. */
 "Show Notification" = "Mostrar notificación";
 
+/* No comment provided by engineer. */
 "Show notification ${requestedMessage}" = "Mostrar notificación ${requestedMessage}";
 
 /* No comment provided by engineer. */
@@ -2346,7 +2360,7 @@
 "Some settings have been reset to default values." = "Algunos ajustes se han restablecido a los valores predeterminados.";
 
 /* No comment provided by engineer. */
-"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Falta algo importante. Por favor, reinstala “TrollRecorder JB” desde Sileo.";
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Falta algo importante. Por favor, reinstala “TrollRecorder JB” desde Sileo.";
 
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Algo va mal, no podemos verificar tu licencia. Puedes tocar “Ver mi cuenta” para comprobar tus pedidos, compras o canjear un código de regalo.";
@@ -2678,6 +2692,7 @@
 /* No comment provided by engineer. */
 "This is a sandbox build, the daemon is not available." = "Esta es una compilación de sandbox, el demonio no está disponible.";
 
+/* No comment provided by engineer. */
 "This is a widget daemon for Troll Recorder." = "Este es un demonio de widget para Troll Recorder.";
 
 /* No comment provided by engineer. */
@@ -2749,6 +2764,7 @@
 /* No comment provided by engineer. */
 "toggle" = "alternar";
 
+/* No comment provided by engineer. */
 "Toggle ${requestedMode}" = "Alternar ${requestedMode}";
 
 /* No comment provided by engineer. */
@@ -2922,6 +2938,7 @@
 /* No comment provided by engineer. */
 "unmute" = "reactivar audio";
 
+/* No comment provided by engineer. */
 "Unmute ${requestedChannel}" = "Reactivar audio de ${requestedChannel}";
 
 /* No comment provided by engineer. */
@@ -3113,6 +3130,7 @@
 /* No comment provided by engineer. */
 "wait" = "esperar";
 
+/* No comment provided by engineer. */
 "Wait for ${requestedTimeout} seconds" = "Esperar ${requestedTimeout} segundos";
 
 /* No comment provided by engineer. */
@@ -3257,7 +3275,7 @@
 "Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Tu información en este %1$@ se subirá y fusionará con las grabaciones almacenadas en “%2$@”.";
 
 /* No comment provided by engineer. */
-"You’re now using the free version of “TrollRecorder JB”." = "Ahora estás usando la versión gratuita de “TrollRecorder JB”.";
+"You’re now using the free version of “TrollRecorder JB”." = "Ahora estás usando la versión gratuita de “TrollRecorder JB”.";
 
 /* No comment provided by engineer. */
 "You’re now using the free version of “TrollRecorder”." = "Ahora estás usando la versión gratuita de “TrollRecorder”.";
@@ -3302,10 +3320,10 @@
 "“iCloud Drive” Not Logged In" = "“iCloud Drive” sin iniciar sesión";
 
 /* No comment provided by engineer. */
-"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Las versiones de “TrollRecorder JB” y TrollStore están instaladas. Por favor, elimina ambas y reinstala “TrollRecorder JB” desde Sileo, o “TrollRecorder” desde TrollStore.";
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Las versiones de “TrollRecorder JB” y TrollStore están instaladas. Por favor, elimina ambas y reinstala “TrollRecorder JB” desde Sileo, o “TrollRecorder” desde TrollStore.";
 
 /* No comment provided by engineer. */
-"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” no es compatible con Bootstrap (RootHide). Por favor, elimina “TrollRecorder JB” e instala “TrollRecorder” desde TrollStore.";
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” no es compatible con Bootstrap (RootHide). Por favor, elimina “TrollRecorder JB” e instala “TrollRecorder” desde TrollStore.";
 
 /* No comment provided by engineer. */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” no es compatible con esta versión de iOS.";

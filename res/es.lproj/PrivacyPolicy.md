@@ -24,7 +24,7 @@ Sus datos personales son confidenciales y no los compartimos con terceros.
 
 ## Integración de almacenamiento en la nube
 
-“TrollRecorder” permite a los usuarios subir sus grabaciones a sus propias cuentas de Google Drive, Dropbox y Microsoft OneDrive. Esta función es opcional y requiere la autenticación del usuario con el respectivo servicio de almacenamiento en la nube. La aplicación almacena de forma segura sus credenciales de almacenamiento en la nube en su dispositivo; la autenticación se gestiona de forma segura a través de la API del servicio respectivo. Las grabaciones se suben directamente desde el dispositivo al servicio de almacenamiento en la nube elegido, y “TrollRecorder” no tiene acceso a las grabaciones almacenadas en estos servicios.
+“TrollRecorder” permite a los usuarios subir sus grabaciones a sus propias cuentas de Google Drive, Dropbox y Microsoft OneDrive. Esta función es opcional y requiere la autenticación del usuario con el respectivo servicio de almacenamiento en la nube. La aplicación almacena de forma segura sus credenciales de almacenamiento en la nube en su dispositivo; la autenticación se gestiona de forma segura a través de la API del servicio respectivo. Las grabaciones se suben directamente desde el dispositivo al servicio de almacenamiento en la nube elegido, y “TrollRecorder” no tiene acceso a las grabaciones almacenadas en estos servicios.
 
 ## Enlaces a otros sitios web
 

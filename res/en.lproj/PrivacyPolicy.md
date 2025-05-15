@@ -24,7 +24,7 @@ Your personal information remains confidential, and we do not share it with thir
 
 ## Cloud Storage Integration
 
-“TrollRecorder” allows users to upload their recordings to their own Google Drive, Dropbox, and Microsoft OneDrive accounts. This feature is optional and requires user authentication with the respective cloud storage service. The app securely stores your cloud storage credentials on your device; authentication is handled securely through the respective service’s API. Your recordings are uploaded directly from your device to your chosen cloud storage service, and “TrollRecorder” does not have access to your recordings stored in these services.
+“TrollRecorder” allows users to upload their recordings to their own Google Drive, Dropbox, and Microsoft OneDrive accounts. This feature is optional and requires user authentication with the respective cloud storage service. The app securely stores your cloud storage credentials on your device; authentication is handled securely through the respective service’s API. Your recordings are uploaded directly from your device to your chosen cloud storage service, and “TrollRecorder” does not have access to your recordings stored in these services.
 
 ## Links to Other Websites
 
