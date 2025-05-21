@@ -43,6 +43,8 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 - Traditional Chinese (Taiwan) by [@雲端戰神一刀秒](https://github.com/mp614t)
 - Vietnamese by [@2311WithLuv](https://www.facebook.com/If2019)
 - Korean by **@SUB2**
+- Uyghur by **BlacЖinG**
+- Turkish by **Altay T.**
 
 ## Localization
 
