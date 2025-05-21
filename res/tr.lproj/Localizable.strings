@@ -1,0 +1,3333 @@
+/* No comment provided by engineer. */
+"%@ Hz" = "%@ Hz";
+
+/* No comment provided by engineer. */
+"%@ is locked." = "%@ kilitli.";
+
+/* No comment provided by engineer. */
+"%@ is not available." = "%@ mevcut değil.";
+
+/* No comment provided by engineer. */
+"%@ is not implemented yet." = "%@ henüz uygulanmadı.";
+
+/* No comment provided by engineer. */
+"%@ is not set up." = "%@ ayarlanmadı.";
+
+/* No comment provided by engineer. */
+"%@ may not be configured" = "%@ yapılandırılmamış olabilir";
+
+/* No comment provided by engineer. */
+"%@ rows not loaded" = "%@ satır yüklenmedi";
+
+/* No comment provided by engineer. */
+"%d Exclusive Features" = "%d Özel Özellik";
+
+/* No comment provided by engineer. */
+"%ld Recording" = "%ld Kayıt";
+
+/* No comment provided by engineer. */
+"%ld Recording ◇ %@" = "%1$ld Kayıt ◇ %2$@";
+
+/* No comment provided by engineer. */
+"%ld Recordings" = "%ld Kayıt";
+
+/* No comment provided by engineer. */
+"%ld Recordings ◇ %@" = "%1$ld Kayıt ◇ %2$@";
+
+/* No comment provided by engineer. */
+"(%lu bytes)" = "(%lu bayt)";
+
+/* No comment provided by engineer. */
+"(%lu items)" = "(%lu öğe)";
+
+/* No comment provided by engineer. */
+"(null)" = "(null)";
+
+/* No comment provided by engineer. */
+"--arg=value" = "--arg=value";
+
+/* No comment provided by engineer. */
+"3 Seconds" = "3 Saniye";
+
+/* No comment provided by engineer. */
+"30 Days Ago" = "30 Gün Önce";
+
+/* No comment provided by engineer. */
+"4 Seconds" = "4 Saniye";
+
+/* No comment provided by engineer. */
+"45 Days Ago" = "45 Gün Önce";
+
+/* No comment provided by engineer. */
+"5 Seconds" = "5 Saniye";
+
+/* No comment provided by engineer. */
+"6 Seconds" = "6 Saniye";
+
+/* No comment provided by engineer. */
+"90 Days Ago" = "90 Gün Önce";
+
+/* No comment provided by engineer. */
+"<%@: %p>" = "<%@: %p>";
+
+/* No comment provided by engineer. */
+"A new version (%@) of “TrollRecorder” is available." = "“TrollRecorder”ın yeni bir sürümü (%@) mevcut.";
+
+/* No comment provided by engineer. */
+"A resping is required to completely apply the changes." = "Değişikliklerin tamamen uygulanması için bir yanıtlama gereklidir.";
+
+/* No comment provided by engineer. */
+"A widget is required for the “Launch Shield” feature." = "“Launch Shield” özelliği için bir widget gereklidir.";
+
+/* No comment provided by engineer. */
+"accept" = "kabul et";
+
+/* No comment provided by engineer. */
+"Accept all incoming calls automatically." = "Gelen tüm çağrıları otomatik olarak kabul et.";
+
+/* No comment provided by engineer. */
+"Accept Incoming Calls" = "Gelen Çağrıları Kabul Et";
+
+/* No comment provided by engineer. */
+"Access From Web Browser" = "Web Tarayıcısından Erişim";
+
+/* No comment provided by engineer. */
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Kayıtlarınıza ağdaki başka bir cihazdan WebDAV tarayıcısıyla erişin. Sunucu yalnızca uygulama ön plandayken etkindir.";
+
+/* No comment provided by engineer. */
+"activate" = "Etkinleştir";
+
+/* No comment provided by engineer. */
+"Activate the recorder hoverball." = "Kaydedici hoverball'u etkinleştir.";
+
+/* No comment provided by engineer. */
+"Add" = "Ekle";
+
+/* No comment provided by engineer. */
+"Add Now" = "Şimdi ekle";
+
+/* No comment provided by engineer. */
+"Add Required Widget" = "Gerekli Widget'ı Ekle";
+
+/* No comment provided by engineer. */
+"Additional command-line options for the Rclone synchronization tool." = "Rclone senkronizasyon aracı için ek komut satırı seçenekleri.";
+
+/* No comment provided by engineer. */
+"Additional Contact" = "Ek Kişi";
+
+/* No comment provided by engineer. */
+"Adequate" = "Yeterli";
+
+/* No comment provided by engineer. */
+"Advanced Audio Coding" = "Gelişmiş Ses Kodlama";
+
+/* No comment provided by engineer. */
+"Advanced Options" = "Gelişmiş Seçenekler";
+
+/* No comment provided by engineer. */
+"Advanced Search" = "Gelişmiş Arama";
+
+/* No comment provided by engineer. */
+"After %@" = "%@ sonrası";
+
+/* No comment provided by engineer. */
+"Agree" = "Kabul Et";
+
+/* No comment provided by engineer. */
+"Alias" = "Takma Ad";
+
+/* No comment provided by engineer. */
+"alive" = "canlı";
+
+/* No comment provided by engineer. */
+"All Edges" = "Tüm Kenarlar";
+
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Tüm kayıtlar 7 gün boyunca saklanır. Eski kayıtlar otomatik olarak silinir.";
+
+/* No comment provided by engineer. */
+"Allow Access to Call History" = "Arama Geçmişine Erişime İzin Ver";
+
+/* No comment provided by engineer. */
+"Allow Automatic Recording" = "Otomatik Kayda İzin Ver";
+
+/* No comment provided by engineer. */
+"Allow Hoverball Wake-Ups" = "Hoverball Uyandırmalarına İzin Ver";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Kayıtlardaki kişi adlarını doldurmak için WeChat kişi listesini ve VoIP arama geçmişini okumaya izin ver. Yalnızca yeni WeChat sürümleri desteklenir.";
+
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "iCloud hesabınıza giriş yapılmış cihazlarda, yakınlarda ve WLAN üzerindeyken alınan telefon görüşmelerini kaydetmeye izin ver.";
+
+/* No comment provided by engineer. */
+"Always" = "Her Zaman";
+
+/* No comment provided by engineer. */
+"Always Dark" = "Her Zaman Karanlık";
+
+/* No comment provided by engineer. */
+"Always Dynamic" = "Her Zaman Dinamik";
+
+/* No comment provided by engineer. */
+"Always Fold" = "Her zaman Katla";
+
+/* No comment provided by engineer. */
+"Always keep the hoverball window visible." = "Hoverball penceresini her zaman görünür tut.";
+
+/* No comment provided by engineer. */
+"Always Keep-Alive in Background" = "Arka Planda Her zaman Aktif Tut";
+
+/* No comment provided by engineer. */
+"Always Light" = "Her Zaman Aydınlık";
+
+/* No comment provided by engineer. */
+"Always On" = "Her Zaman Açık";
+
+/* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "Arka plan işlem görevlerini her zaman bir sonraki uygun fırsatta çalıştırmak üzere planla.";
+
+/* No comment provided by engineer. */
+"AM/PM String" = "AM/PM Dizesi";
+
+/* No comment provided by engineer. */
+"An unknown error occurred." = "Bilinmeyen bir hata oluştu.";
+
+/* No comment provided by engineer. */
+"Analysing Audio" = "Ses Analiz Ediliyor";
+
+/* No comment provided by engineer. */
+"Another %@ is required to continue editing. Available capacity is %@." = "Düzenlemeye devam etmek için başka bir %1$@ gereklidir. Kullanılabilir kapasite %2$@.";
+
+/* No comment provided by engineer. */
+"answer" = "cevapla";
+
+/* No comment provided by engineer. */
+"answered" = "cevaplandı";
+
+/* TODO */
+"Any" = "Any";
+
+/* No comment provided by engineer. */
+"App Icon" = "Uygulama Simgesi";
+
+/* TODO */
+"App Language" = "App Language";
+
+/* No comment provided by engineer. */
+"Appearance" = "Görünüm";
+
+/* No comment provided by engineer. */
+"Apple’s Core Audio" = "Apple’ın Core Audio'su";
+
+/* No comment provided by engineer. */
+"Application" = "Uygulama";
+
+/* No comment provided by engineer. */
+"Application Overrides" = "Uygulama Geçersiz Kılmaları";
+
+/* No comment provided by engineer. */
+"Applications" = "Uygulamalar";
+
+/* No comment provided by engineer. */
+"archive" = "arşiv";
+
+/* No comment provided by engineer. */
+"Archive" = "arşiv";
+
+/* No comment provided by engineer. */
+"Archive Regeneration" = "Arşiv Yenileme";
+
+/* No comment provided by engineer. */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Arşiv: Yerel karışık ve birleşik birincil kayıtları yeniden adlandırmak ve bulut sürücülerine yüklemek için “İçerik Paylaşımı” → “Özel Dışa Aktarma Adı ”nı kullanın. Geri alınamaz.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to discard the changes you made?" = "Yaptığınız değişiklikleri iptal etmek istediğinizden emin misiniz??";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove all shortcut definitions?" = "Tüm kısayol tanımlarını kaldırmak istediğinizden emin misiniz?";
+
+/* No comment provided by engineer. */
+"Associate with Call History" = "Arama Geçmişi ile İlişkilendir";
+
+/* No comment provided by engineer. */
+"At the end of recording, the audio files of each channel during recording are retained." = "Kayıt sonunda, kayıt sırasındaki her kanalın ses dosyaları saklanır.";
+
+/* No comment provided by engineer. */
+"Attachable Edges" = "Eklenebilir Kenarlar";
+
+/* No comment provided by engineer. */
+"audio" = "ses";
+
+/* No comment provided by engineer. */
+"Audio CD" = "Ses CD";
+
+/* No comment provided by engineer. */
+"Audio Compression" = "Ses Sıkıştırma";
+
+/* No comment provided by engineer. */
+"Audio File" = "Ses dosyası";
+
+/* No comment provided by engineer. */
+"Audio played to %@" = "%@ için çalınan ses";
+
+/* No comment provided by engineer. */
+"Audio progress" = "Ses ilerlemesi";
+
+/* No comment provided by engineer. */
+"Authenticate with %@" = "%@ ile kimlik doğrula";
+
+/* No comment provided by engineer. */
+"Authorization error: %@" = "Yetkilendirme hatası: %@";
+
+/* No comment provided by engineer. */
+"Authorization flow was manually canceled by user." = "Yetkilendirme akışı kullanıcı tarafından manuel olarak iptal edildi.";
+
+/* No comment provided by engineer. */
+"Authorize with Dropbox" = "Dropbox ile yetkilendirin";
+
+/* No comment provided by engineer. */
+"Authorize with Google" = "Google ile yetkilendirin";
+
+/* No comment provided by engineer. */
+"Authorize with Microsoft" = "Microsoft ile yetkilendirin";
+
+/* TODO */
+"Automatic" = "Automatic";
+
+/* No comment provided by engineer. */
+"Automatic Recording" = "Otomatik Kayıt";
+
+/* TODO */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
+
+/* No comment provided by engineer. */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Arka plan hizmetlerini otomatik olarak başlatın ve cihaz yeniden başlatıldığında ve kilidi açıldığında canlı tutun. Bu özelliği etkinleştirmek için “TrollRecorder” widget'ının kilit veya ana ekranda bir yere eklenmesi gerekir.";
+
+/* No comment provided by engineer. */
+"Automatically merge microphone and speaker into a single file after record complete." = "Kayıt tamamlandığında mikrofon ve hoparlörü otomatik tek dosyada birleştir.";
+
+/* No comment provided by engineer. */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Dikey yönelimde klavyeden kaçınmak için hoverball'u otomatik olarak hareket ettirin.";
+
+/* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "Çöp kutusunu otomatik temizle ve başarısız önbellekleri kaldır.";
+
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "Uygulama başladığında GitHub'dan en son sürümü otomatik sorgula.";
+
+/* No comment provided by engineer. */
+"Automatically remove recordings created earlier than specified date except those marked ones." = "İşaretlenenler hariç belirtilen tarihten önce oluşturulan kayıtları otomatik kaldır.";
+
+/* No comment provided by engineer. */
+"Automatically stop recording when available disk space is extremely low." = "Kullanılabilir disk alanı çok düşük olduğunda kaydı otomatik durdur.";
+
+/* No comment provided by engineer. */
+"Automatically Suspend in Background" = "Arka Planda Otomatik Askıya Al";
+
+/* No comment provided by engineer. */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Kilidi açıldığında otomatik masaüstüne kaydır. Kilitlemeden 10 saniye içinde açılırsa bu işlem geçersiz olur.";
+
+/* No comment provided by engineer. */
+"Automation" = "Otomasyon";
+
+/* No comment provided by engineer. */
+"Avoid screen being locked automatically when WebDAV server is used by any client." = "Herhangi bir istemci WebDAV sunucusunu kullandığında ekranın otomatik kilitlenmesini önle.";
+
+/* No comment provided by engineer. */
+"Background Style" = "Arka Plan Stili";
+
+/* No comment provided by engineer. */
+"backup" = "yedek";
+
+/* No comment provided by engineer. */
+"Backup Synchronized" = "Yedek Senkronize Edildi";
+
+/* No comment provided by engineer. */
+"Backup With iCloud" = "iCloud ile Yedekle";
+
+/* No comment provided by engineer. */
+"Batch Export" = "Toplu Dışa Aktar";
+
+/* No comment provided by engineer. */
+"Before %@" = "%@ öncesi";
+
+/* No comment provided by engineer. */
+"Before starting a call recording, a prompt voice is played to the opposite end." = "Arama kaydı başlamadan önce karşı tarafa bir uyarı sesi çalınır.";
+
+/* TODO */
+"Beta" = "Beta";
+
+/* No comment provided by engineer. */
+"Bi-sync" = "Çift Yönlü Senkronizasyon";
+
+/* No comment provided by engineer. */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: İki yol arasında çift yönlü senkronizasyon gerçekleştirin.";
+
+/* No comment provided by engineer. */
+"Biometric Authentication" = "Biyometrik Kimlik Doğrulama";
+
+/* No comment provided by engineer. */
+"Bonjour server started at: %@" = "Bonjour sunucusu şurada başlatıldı: %@";
+
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "Periyodik Görevleri Artır";
+
+/* No comment provided by engineer. */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore Uyumlu Mod)";
+
+/* TODO */
+"Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
+
+/* No comment provided by engineer. */
+"bottom edge" = "alt kenar";
+
+/* No comment provided by engineer. */
+"Build and use a custom export name template for exported audio files." = "Dışa aktarılan ses dosyaları için özel dışa aktarma adı şablonu oluştur ve kullan.";
+
+/* No comment provided by engineer. */
+"Bundle Display Name" = "Paket Görünen Adı";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "Paket Tanımlayıcısı";
+
+/* No comment provided by engineer. */
+"Bundle Name" = "Paket Adı";
+
+/* TODO */
+"Buy TrollRecorder Pro" = "Buy TrollRecorder Pro";
+
+/* No comment provided by engineer. */
+"Calculating…" = "Hesaplanıyor…";
+
+/* No comment provided by engineer. */
+"Call" = "Arama";
+
+/* No comment provided by engineer. */
+"call" = "arama";
+
+/* No comment provided by engineer. */
+"Call Direction" = "Arama Yönü";
+
+/* No comment provided by engineer. */
+"Call Identifier" = "Arama Tanımlayıcısı";
+
+/* No comment provided by engineer. */
+"Call Recording" = "Arama Kaydı";
+
+/* No comment provided by engineer. */
+"Call Recording Begins" = "Arama Kaydı Başlıyor";
+
+/* No comment provided by engineer. */
+"Call Recording Ends" = "Arama Kaydı Sonlanıyor";
+
+/* No comment provided by engineer. */
+"Call recording from “%@” and other %ld applications." = "“%@” ve diğer %ld uygulamalardan arama kaydı.";
+
+/* No comment provided by engineer. */
+"Call recording from “%@”." = "“%@” kaynaklı arama kaydı.";
+
+/* No comment provided by engineer. */
+"Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Arama kaydı yalnızca giden bir arama cevaplandığında veya gelen bir arama alındığında başlar.";
+
+/* No comment provided by engineer. */
+"Call State" = "Arama Durumu";
+
+/* No comment provided by engineer. */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Aramalar yalnızca bu cihazdaki mikrofon kullanılırken kaydedilebilir. Bu cihazdan yapılan ve diğer cihazlarda cevaplanan aramalar kaydedilmeyecektir.";
+
+/* TODO */
+"Camcorder" = "Camcorder";
+
+/* No comment provided by engineer. */
+"Cancel" = "İptal";
+
+/* No comment provided by engineer. */
+"Cannot parse text with UTF-8 encoding: “%@”." = "UTF-8 kodlamalı metin ayrıştırılamadı: “%@”.";
+
+/* No comment provided by engineer. */
+"Caution" = "Dikkat";
+
+/* No comment provided by engineer. */
+"check" = "Kontrol et";
+
+/* No comment provided by engineer. */
+"Check if the daemon is running. If not, launch it." = "Daemon'un çalışıp çalışmadığını kontrol edin. Eğer değilse, başlatın.";
+
+/* No comment provided by engineer. */
+"Check Updates" = "Güncellemeleri kontrol et";
+
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "Başlangıçta Güncellemeleri Kontrol Et";
+
+/* No comment provided by engineer. */
+"Checking service status" = "Servis durumu kontrol ediliyor";
+
+/* No comment provided by engineer. */
+"Child Pages" = "Alt Sayfalar";
+
+/* No comment provided by engineer. */
+"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Karıştırıcı için çıkış ses formatını seçin. Wave formatı gelişmiş kodlamayı desteklemez.";
+
+/* No comment provided by engineer. */
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Karıştırıcı için çıkış ses kalitesini seçin. Daha yüksek kalite, daha yüksek örnekleme hızı ve bit hızı anlamına gelir, bu da daha büyük dosya boyutuna neden olur.";
+
+/* No comment provided by engineer. */
+"Choose the output file format for the mixer." = "Mikser için çıkış dosya formatını seçin.";
+
+/* No comment provided by engineer. */
+"Choose the size preset of the hoverball." = "Hoverball'ın boyut ön ayarını seçin.";
+
+/* No comment provided by engineer. */
+"Clean Caches Automatically" = "Önbellekleri Otomatik Temizle";
+
+/* No comment provided by engineer. */
+"Clear" = "Temiz";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "Seçimi Temizle";
+
+/* TODO */
+"Clear Wave Caches" = "Clear Wave Caches";
+
+/* No comment provided by engineer. */
+"Close" = "Kapat";
+
+/* No comment provided by engineer. */
+"Collapse Recursively" = "Özyinelemeli Daralt";
+
+/* No comment provided by engineer. */
+"Collecting" = "Toplanıyor";
+
+/* No comment provided by engineer. */
+"Combined" = "Birleştirilmiş";
+
+/* No comment provided by engineer. */
+"Combined Mode" = "Birleştirilmiş Mod";
+
+/* TODO */
+"Compiled at %@" = "Compiled at %@";
+
+/* No comment provided by engineer. */
+"Compress Recording" = "Kaydı Sıkıştır";
+
+/* No comment provided by engineer. */
+"Configure the embedded client with your WebDAV server address, username and password." = "Katıştırılmış istemciyi WebDAV sunucu adresiniz, kullanıcı adınız ve parolanızla yapılandırın.";
+
+/* No comment provided by engineer. */
+"Configure WebDAV Client" = "WebDAV İstemcisini Yapılandırma";
+
+/* No comment provided by engineer. */
+"Confirm" = "Onayla";
+
+/* No comment provided by engineer. */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Havoc hesabınızı onaylayın, bu satın alma işleminin tek kanıtıdır. Unutulan hesaplar nedeniyle oluşabilecek yetki kayıplarından siz sorumlusunuz. Bir satın alma işlemi yaparken, ödemeyi tamamlamak için lütfen sayfadaki tutara tıklayın, hediye simgesine tıklamayın.";
+
+/* No comment provided by engineer. */
+"connected" = "bağlandı";
+
+/* No comment provided by engineer. */
+"Connected Clients: %d" = "Bağlı İstemciler: %d";
+
+/* No comment provided by engineer. */
+"Connection" = "Bağlantı";
+
+/* No comment provided by engineer. */
+"Constants" = "Sabitler";
+
+/* No comment provided by engineer. */
+"Contact Exceptions" = "Kişi İstisnaları";
+
+/* No comment provided by engineer. */
+"Contact Name" = "Kişi Adı";
+
+/* No comment provided by engineer. */
+"Contact Phone Address" = "Kişi Telefon Adresi";
+
+/* No comment provided by engineer. */
+"Contact Us" = "Bize Ulaşın";
+
+/* No comment provided by engineer. */
+"Contact via Discord" = "Discord üzerinden iletişim";
+
+/* No comment provided by engineer. */
+"Contact via Email" = "E-posta ile iletişim";
+
+/* No comment provided by engineer. */
+"Contact via QQ" = "QQ üzerinden iletişim";
+
+/* No comment provided by engineer. */
+"Contacts" = "Kişiler";
+
+/* No comment provided by engineer. */
+"Contacts in this list will not be recorded in any situation." = "Bu listedeki kişiler hiçbir durumda kaydedilmez.";
+
+/* No comment provided by engineer. */
+"Contacts Permission Denied" = "Kişi İzni Reddedildi";
+
+/* No comment provided by engineer. */
+"Content" = "İçerik";
+
+/* No comment provided by engineer. */
+"Content Sharing" = "İçerik Paylaşımı";
+
+/* No comment provided by engineer. */
+"Continue" = "Devam Et";
+
+/* No comment provided by engineer. */
+"Conversion Failed" = "Dönüştürme Başarısız";
+
+/* No comment provided by engineer. */
+"Conversion Succeed" = "Dönüştürme Başarılı";
+
+/* No comment provided by engineer. */
+"Convert latitude and longitude to human-readable address." = "Enlem ve boylamı insan tarafından okunabilir adrese dönüştürme.";
+
+/* No comment provided by engineer. */
+"Convert Now" = "Şimdi Dönüştür";
+
+/* No comment provided by engineer. */
+"Converting" = "Dönüştürülüyor";
+
+/* No comment provided by engineer. */
+"Copied" = "Kopyalandı";
+
+/* No comment provided by engineer. */
+"Copied Transcript" = "Transkript Kopyalandı";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopyala";
+
+/* No comment provided by engineer. */
+"Copy Key" = "Anahtarı Kopyala";
+
+/* No comment provided by engineer. */
+"Copy Path" = "Yolu Kopyala";
+
+/* No comment provided by engineer. */
+"Copy Transcript" = "Transkripti Kopyala";
+
+/* No comment provided by engineer. */
+"Copy Value" = "Değeri Kopyala";
+
+/* No comment provided by engineer. */
+"Could not acquire token: %@" = "Belirteç alınamadı: %@";
+
+/* No comment provided by engineer. */
+"Could not acquire token: No result returned." = "Belirteç alınamadı: Sonuç döndürülmedi.";
+
+/* No comment provided by engineer. */
+"Could not get graph result: %@" = "Grafik sonucu alınamadı: %@";
+
+/* No comment provided by engineer. */
+"Could not sign out account: %@" = "Hesaptan çıkış yapılamadı: %@";
+
+/* No comment provided by engineer. */
+"Create Archive" = "Arşiv Oluştur";
+
+/* No comment provided by engineer. */
+"Created At" = "Oluşturulma Tarihi";
+
+/* No comment provided by engineer. */
+"Credentials" = "Kimlik Bilgileri";
+
+/* No comment provided by engineer. */
+"Custom CLI Options" = "Özel CLI Seçenekleri";
+
+/* No comment provided by engineer. */
+"Custom Export Name" = "Özel Dışa Aktarma Adı";
+
+/* No comment provided by engineer. */
+"Custom Key Combination…" = "Özel Anahtar Kombinasyonu…";
+
+/* No comment provided by engineer. */
+"Custom Layout Guide" = "Özel Düzen Kılavuzu";
+
+/* No comment provided by engineer. */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Hoverball'ı ekranda konumlandırmanıza yardımcı olacak dikdörtgen bir bölge özelleştirin.";
+
+/* TODO */
+"daemon" = "daemon";
+
+/* No comment provided by engineer. */
+"Daily Arranged" = "Günlük Düzenlenmiş";
+
+/* No comment provided by engineer. */
+"Date & Time" = "Tarih & Saat";
+
+/* No comment provided by engineer. */
+"Day of Month Number" = "Ayın Gün Numarası";
+
+/* No comment provided by engineer. */
+"Day of Week String" = "Haftanın Günü Dizesi";
+
+/* No comment provided by engineer. */
+"deactivate" = "Devre Dışı Bırak";
+
+/* No comment provided by engineer. */
+"Deactivate" = "Devre Dışı Bırak";
+
+/* No comment provided by engineer. */
+"Deactivate & Sign Out" = "Devre Dışı Bırak ve Çıkış Yap";
+
+/* No comment provided by engineer. */
+"Deactivate the recorder hoverball." = "Kaydedici hoverball'u devre dışı bırak.";
+
+/* No comment provided by engineer. */
+"Debugging" = "Hata Ayıklama";
+
+/* No comment provided by engineer. */
+"decline" = "reddet";
+
+/* No comment provided by engineer. */
+"Decoding" = "Kod Çözme";
+
+/* No comment provided by engineer. */
+"Default" = "Varsayılan";
+
+/* No comment provided by engineer. */
+"Delete" = "Sil";
+
+/* No comment provided by engineer. */
+"Delete Recording" = "Kaydı Sil";
+
+/* No comment provided by engineer. */
+"Delete Selected %ld Items" = "Seçilen %ld Öğeyi Sil";
+
+/* No comment provided by engineer. */
+"Delete Selected Item" = "Seçilen Öğeyi Sil";
+
+/* No comment provided by engineer. */
+"Deleting" = "Siliniyor";
+
+/* No comment provided by engineer. */
+"Deselect All" = "Tüm Seçimleri Kaldır";
+
+/* No comment provided by engineer. */
+"Detail Only" = "Sadece Detay";
+
+/* No comment provided by engineer. */
+"Developer Options" = "Geliştirici Seçenekleri";
+
+/* No comment provided by engineer. */
+"Digital Video" = "Dijital Video";
+
+/* No comment provided by engineer. */
+"Direction" = "Yön";
+
+/* No comment provided by engineer. */
+"Direction Capitalized" = "Büyük Harfle Yön";
+
+/* No comment provided by engineer. */
+"Direction Description" = "Yön Açıklaması";
+
+/* No comment provided by engineer. */
+"directory" = "dizin";
+
+/* No comment provided by engineer. */
+"Directory" = "Dizin";
+
+/* TODO */
+"Directory not found." = "Directory not found.";
+
+/* No comment provided by engineer. */
+"Disabled" = "Devre Dışı";
+
+/* No comment provided by engineer. */
+"Disallow" = "İzin Vermeyin";
+
+/* No comment provided by engineer. */
+"Disallow Automatic Recording" = "Otomatik Kayda İzin Verme";
+
+/* No comment provided by engineer. */
+"Disallow Hoverball Wake-Ups" = "Hoverball Uyandırmalarına İzin Verme";
+
+/* TODO */
+"Discard" = "Discard";
+
+/* TODO */
+"discard" = "discard";
+
+/* TODO */
+"Discard Changes" = "Discard Changes";
+
+/* No comment provided by engineer. */
+"Discard Recording" = "Kaydı At";
+
+/* No comment provided by engineer. */
+"Discreet Mode" = "Gizli Mod";
+
+/* No comment provided by engineer. */
+"Discreet Voice Memos" = "Gizli Ses Notları";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Reddet";
+
+/* No comment provided by engineer. */
+"Display a notification banner and play an audible notice." = "Bildirim afişi göster ve sesli uyarı çal.";
+
+/* No comment provided by engineer. */
+"Display a notification banner and update the badge above the application icon." = "Bildirim afişi göster ve uygulama simgesi üzerindeki rozeti güncelle.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording ends." = "Kayıt sona erdiğinde bildirim afişi göster.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording starts." = "Kayıt başladığında bildirim afişi göster.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when the synchronization fails." = "Senkronizasyon başarısız olduğunda bir bildirim banner'ı görüntüleyin.";
+
+/* No comment provided by engineer. */
+"Display the detail of recordings in the notification banner." = "Bildirim afişinde kayıt detaylarını göster.";
+
+/* No comment provided by engineer. */
+"Display the exact duration of the recorded audio." = "Kaydedilen sesin tam süresini göster.";
+
+/* No comment provided by engineer. */
+"Display the hoverball during a call in the current application." = "Mevcut uygulamada arama sırasında hoverball'ı göster.";
+
+/* No comment provided by engineer. */
+"Display the hoverball during a call." = "Arama sırasında hoverball'ı göster.";
+
+/* No comment provided by engineer. */
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Ses giriş ve çıkışları sürekli aktif olduğunda hoverball'ı göster.";
+
+/* No comment provided by engineer. */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Bu uygulama aracılığıyla sesli not kaydederken veya arama kaydı manuel olarak başlatıldığında hoverball'u görüntüleyin.";
+
+/* No comment provided by engineer. */
+"Display the name or description of each option." = "Her seçeneğin adını veya açıklamasını göster.";
+
+/* No comment provided by engineer. */
+"Display the names of contacts in your address book instead of their phone numbers." = "Telefon numaraları yerine adres defterinizdeki kişi adlarını göster.";
+
+/* No comment provided by engineer. */
+"Display the path extension as the format of the recording." = "Kaydın formatını yol uzantısı olarak göster.";
+
+/* No comment provided by engineer. */
+"Display the preview images of the audio waveform of short recordings." = "Kısa kayıtların ses dalga formu önizleme görüntülerini göster.";
+
+/* No comment provided by engineer. */
+"Display the short name of the SIM card used for the recording if available." = "Mevcutse kayıt için kullanılan SIM kartın kısa adını göster.";
+
+/* No comment provided by engineer. */
+"Display the source bundle name of the recording." = "Kaydın kaynak paket adını göster.";
+
+/* No comment provided by engineer. */
+"Displays a local notification." = "Yerel bir bildirim görüntüler.";
+
+/* No comment provided by engineer. */
+"Do you want to clear this log file “%@”?" = "“%@” günlük dosyasını temizlemek istiyor musunuz?";
+
+/* No comment provided by engineer. */
+"Do you want to merge recordings with “%@”?" = "Kayıtları aşağıdakilerle birleştirmek istiyor musunuz “%@”?";
+
+/* No comment provided by engineer. */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Yazılım lisansını sıfırlamak ve tüm ayarları varsayılan değerlere döndürmek istiyor musunuz? Kayıtlarınız silinmeyecek.";
+
+/* No comment provided by engineer. */
+"Done" = "Tamamlandı";
+
+/* No comment provided by engineer. */
+"Don’t ask again" = "Tekrar sorma";
+
+/* No comment provided by engineer. */
+"Don’t Merge" = "Birleştirme";
+
+/* TODO */
+"Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
+
+/* TODO */
+"Downlink (Speaker)" = "Downlink (Speaker)";
+
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "___%@___ boyutunu ayarlamak için __buraya__ sürükleyin.";
+
+/* TODO */
+"Drive ID" = "Drive ID";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
+
+/* No comment provided by engineer. */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Çevresel sınırlamalar nedeniyle, boş veya eksik widget'larla karşılaşırsanız, lütfen cihazınızı yeniden başlatmayı veya simge önbelleğini TrollStore'dan yeniden oluşturmayı deneyin.";
+
+/* No comment provided by engineer. */
+"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Teknik nedenlerden dolayı, CallKit olmayan aramalar, arama durumlarıyla ilgili kısayolları tetiklemez.";
+
+/* No comment provided by engineer. */
+"Duration" = "Süre";
+
+/* No comment provided by engineer. */
+"duration" = "süre";
+
+/* No comment provided by engineer. */
+"Duration Before Idle" = "Süre önce boşta";
+
+/* No comment provided by engineer. */
+"Duration Description" = "Süre Açıklaması";
+
+/* TODO */
+"Duration exceeded." = "Duration exceeded.";
+
+/* No comment provided by engineer. */
+"Dynamic Transition" = "Dinamik Geçiş";
+
+/* No comment provided by engineer. */
+"E.U.L.A." = "E.U.L.A.";
+
+/* No comment provided by engineer. */
+"Edit" = "Düzenle";
+
+/* No comment provided by engineer. */
+"Empty Trash" = "Çöpü boşalt";
+
+/* No comment provided by engineer. */
+"Empty Trash (%@)" = "Çöpü boşalt (%@)";
+
+/* No comment provided by engineer. */
+"Enable Biometric Authentication" = "Biyometrik Kimlik Doğrulamayı Etkinleştir";
+
+/* TODO */
+"Enable Face ID" = "Enable Face ID";
+
+/* No comment provided by engineer. */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Seviye ölçümünü etkinleştirin ve hoverball katlandığında bir gösterge sunun. Bu seçenek yalnızca “Boştayken Geçiş” seçeneği “Her Zaman Katla” olarak ayarlandığında kullanılabilir.”.";
+
+/* No comment provided by engineer. */
+"Enable Logging" = "Günlüğü Etkinleştir";
+
+/* TODO */
+"Enable Optic ID" = "Enable Optic ID";
+
+/* TODO */
+"Enable Touch ID" = "Enable Touch ID";
+
+/* No comment provided by engineer. */
+"Enable WebDAV Server" = "WebDAV Sunucusunu Etkinleştir";
+
+/* No comment provided by engineer. */
+"Enabled" = "Etkin";
+
+/* No comment provided by engineer. */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "WebDAV sunucusunun, uygulama arka plana geçtiğinde ve son bağlantı kapatıldığında otomatik olarak kendini askıya almasını ve ardından uygulama ön plana geldiğinde otomatik olarak devam etmesini sağlar.";
+
+/* No comment provided by engineer. */
+"Encoding" = "Kodlama";
+
+/* No comment provided by engineer. */
+"End Date" = "Bitiş Tarihi";
+
+/* No comment provided by engineer. */
+"End Editing" = "Düzenlemeyi Bitir";
+
+/* No comment provided by engineer. */
+"Enhance Recording" = "Kaydı Geliştir";
+
+/* No comment provided by engineer. */
+"Enhanced Automatic Recording" = "Gelişmiş Otomatik Kayıt";
+
+/* No comment provided by engineer. */
+"Enhanced Scene Identification" = "Gelişmiş Sahne Tanımlama";
+
+/* TODO */
+"Ensure Daemon Is Running" = "Ensure Daemon Is Running";
+
+/* No comment provided by engineer. */
+"Enter your password" = "Şifrenizi girin";
+
+/* No comment provided by engineer. */
+"Erase All" = "Tümünü Sil";
+
+/* No comment provided by engineer. */
+"Erase all recordings, reset all settings, and clear all caches completely." = "E
+tüm kayıtları silin, tüm ayarları sıfırlayın ve tüm önbellekleri tamamen temizleyin.";
+
+/* No comment provided by engineer. */
+"Erase Almost Completed" = "Silme İşlemi Neredeyse Tamamlandı";
+
+/* No comment provided by engineer. */
+"Erasing…" = "Siliniyor…";
+
+/* No comment provided by engineer. */
+"Error" = "Hata";
+
+/* No comment provided by engineer. */
+"Error from network storage" = "Ağ depolama alanından hata";
+
+/* No comment provided by engineer. */
+"Error retrieving discovery document: %@" = "Keşif belgesi alınırken hata oluştu: %@";
+
+/* No comment provided by engineer. */
+"exit" = "çıkış";
+
+/* No comment provided by engineer. */
+"Exit Hoverball" = "Hoverball'dan Çık";
+
+/* No comment provided by engineer. */
+"Expand Recursively" = "Özyinelemeli Olarak Genişlet";
+
+/* No comment provided by engineer. */
+"Export recordings to anywhere you want without limitations." = "Kayıtları sınırlama olmadan istediğiniz yere aktarın.";
+
+/* No comment provided by engineer. */
+"Export to Anywhere" = "Her Yere Aktar";
+
+/* No comment provided by engineer. */
+"Export with Metadata" = "Metaveriyle Dışa Aktar";
+
+/* No comment provided by engineer. */
+"Exporting" = "Dışa Aktarma";
+
+/* No comment provided by engineer. */
+"FaceTime" = "FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime Ses";
+
+/* No comment provided by engineer. */
+"FaceTime Exclude List" = "FaceTime Hariç Tutma Listesi";
+
+/* TODO */
+"FaceTime VIP" = "FaceTime VIP";
+
+/* TODO */
+"Face ID" = "Face ID";
+
+/* No comment provided by engineer. */
+"Failed to export %d recordings" = "%d kaydı dışa aktarma başarısız oldu";
+
+/* No comment provided by engineer. */
+"Failed to initialize speech recognizer using current locale “%@”." = "Konuşma tanıyıcıyı mevcut yerel ayar “%@” kullanarak başlatma başarısız oldu.";
+
+/* No comment provided by engineer. */
+"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+
+/* No comment provided by engineer. */
+"Failed to play: %@" = "Oynatma başarısız: %@";
+
+/* No comment provided by engineer. */
+"Failed to recover: %@" = "Kurtarma başarısız: %@";
+
+/* No comment provided by engineer. */
+"Failed to remove: %@" = "Kaldırma başarısız: %@";
+
+/* TODO */
+"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
+
+/* TODO */
+"Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
+
+/* No comment provided by engineer. */
+"Features Unlocked" = "Özelliklerin Kilidi Açıldı";
+
+/* No comment provided by engineer. */
+"file" = "dosya";
+
+/* No comment provided by engineer. */
+"File Format" = "Dosya Formatı";
+
+/* No comment provided by engineer. */
+"File not found." = "Dosya bulunamadı.";
+
+/* No comment provided by engineer. */
+"File Size" = "Dosya Boyutu";
+
+/* No comment provided by engineer. */
+"File System" = "Dosya Sistemi";
+
+/* No comment provided by engineer. */
+"Filter" = "Filtre";
+
+/* No comment provided by engineer. */
+"Finalizing" = "Sonlandırılıyor";
+
+/* No comment provided by engineer. */
+"finish" = "bitir";
+
+/* No comment provided by engineer. */
+"Focus" = "Odak";
+
+/* No comment provided by engineer. */
+"Fold When Inactive" = "Etkin Olmadığında Katla";
+
+/* No comment provided by engineer. */
+"Follow System" = "Sistemi Takip Et";
+
+/* TODO */
+"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+
+/* TODO */
+"Format" = "Format";
+
+/* No comment provided by engineer. */
+"Formatted Location" = "Biçimlendirilmiş Konum";
+
+/* No comment provided by engineer. */
+"Forward 15 Seconds" = "15 Saniye İleri Sar";
+
+/* No comment provided by engineer. */
+"Frequently Asked Questions" = "Sıkça Sorulan Sorular";
+
+/* No comment provided by engineer. */
+"From %@" = "%@'dan";
+
+/* No comment provided by engineer. */
+"From %@ to %@" = "%1$@'dan %2$@'a";
+
+/* No comment provided by engineer. */
+"From: %@" = "Kimden: %@";
+
+/* No comment provided by engineer. */
+"From…" = "Kimden";
+
+/* No comment provided by engineer. */
+"Full" = "Tam";
+
+/* No comment provided by engineer. */
+"Full Date" = "Tam Tarih";
+
+/* No comment provided by engineer. */
+"Full Month Name" = "Tam Ay Adı";
+
+/* No comment provided by engineer. */
+"Full Time" = "Tam Zaman";
+
+/* No comment provided by engineer. */
+"Full Year" = "Tam Yıl";
+
+/* No comment provided by engineer. */
+"Get ${requestedField}" = "${requestedField} Al";
+
+/* No comment provided by engineer. */
+"Get advanced control when recording right in your call." = "Doğrudan aramanızda kayıt yaparken gelişmiş kontrol elde edin.";
+
+/* No comment provided by engineer. */
+"Get Call Duration" = "Arama Süresini Al";
+
+/* No comment provided by engineer. */
+"Get Call Status" = "Arama Durumunu Al";
+
+/* No comment provided by engineer. */
+"Get In Touch" = "İletişime Geçin";
+
+/* No comment provided by engineer. */
+"Get notifications after record complete." = "Kayıt tamamlandıktan sonra bildirim alın.";
+
+/* No comment provided by engineer. */
+"Get Recording Duration" = "Kayıt Süresini Al";
+
+/* No comment provided by engineer. */
+"Get Recording Paths" = "Kayıt Yollarını Al";
+
+/* No comment provided by engineer. */
+"Get Recording Status" = "Kayıt Durumunu Al";
+
+/* TODO */
+"Get the current recording duration of the Troll Recorder." = "Get the current recording duration of the Troll Recorder.";
+
+/* TODO */
+"Get the current recording paths of the Troll Recorder." = "Get the current recording paths of the Troll Recorder.";
+
+/* TODO */
+"Get the current recording status of the Troll Recorder." = "Get the current recording status of the Troll Recorder.";
+
+/* No comment provided by engineer. */
+"Get the primary call duration of the device." = "Cihazın birincil arama süresini alın.";
+
+/* No comment provided by engineer. */
+"Get the primary call status of the device." = "Cihazın birincil arama durumunu alın.";
+
+/* No comment provided by engineer. */
+"Go Home When Unlocked" = "Kilidi Açıldığında Ana Ekrana Git";
+
+/* TODO */
+"Google Drive" = "Google Drive";
+
+/* No comment provided by engineer. */
+"Group Call" = "Grup Araması";
+
+/* No comment provided by engineer. */
+"Hide Hoverball" = "Hoverball'u Gizle";
+
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "“Sesli Notlar” uygulamasını kilit ekranından gizleyin ve “Dynamic Island” etkinliklerini gizleyin. Bu özellik etkili olmak için yeniden başlatma gerektirebilir.";
+
+/* TODO */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+
+/* No comment provided by engineer. */
+"Hide When Landscape" = "Yatayken Gizle";
+
+/* No comment provided by engineer. */
+"Hide When Snapshot" = "Ekran Görüntüsü Alırken Gizle";
+
+/* No comment provided by engineer. */
+"Hours Minutes Seconds" = "Saat Dakika Saniye";
+
+/* No comment provided by engineer. */
+"Hours, 12-hour Clock" = "Saat, 12 saatlik Saat";
+
+/* No comment provided by engineer. */
+"Hours, 24-hour Clock" = "Saat, 24 saatlik Saat";
+
+/* TODO */
+"Hoverball" = "Hoverball";
+
+/* TODO */
+"Hoverball Plus" = "Hoverball Plus";
+
+/* No comment provided by engineer. */
+"Hoverball Size" = "Hoverball Boyutu";
+
+/* No comment provided by engineer. */
+"Hoverball Style" = "Hoverball Stili";
+
+/* No comment provided by engineer. */
+"How would you like to call?" = "Nasıl aramak istersiniz?";
+
+/* TODO */
+"hud" = "hud";
+
+/* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "Arama kaydını başlat";
+
+/* No comment provided by engineer. */
+"Hyphen" = "Tire";
+
+/* No comment provided by engineer. */
+"I Agree to the E.U.L.A." = "EULA'yı kabul ediyorum.";
+
+/* No comment provided by engineer. */
+"icloud" = "iCloud";
+
+/* TODO */
+"iCloud Drive" = "iCloud Drive";
+
+/* No comment provided by engineer. */
+"Idle" = "Boşta";
+
+/* No comment provided by engineer. */
+"If there is something wrong with the search indexes, you can reset them here." = "Arama indekslerinde bir sorun varsa, bunları buradan sıfırlayabilirsiniz.";
+
+/* TODO */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "If there’s no active phone call, press and hold the power button to perform specified action.";
+
+/* TODO */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
+
+/* No comment provided by engineer. */
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Telefonunuz çift SIM kartı destekliyorsa, kaydedilen arama için kullanılan SIM kartı takma adı burada görüntülenir.";
+
+/* TODO */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered.";
+
+/* No comment provided by engineer. */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Tüm dizin ve dosyalardaki son değişiklik tarihini yoksay ve tüm kayıtların derin bir kopyasını oluştur.";
+
+/* No comment provided by engineer. */
+"In 1 Hour" = "1 Saat İçinde";
+
+/* No comment provided by engineer. */
+"In 15 Minutes" = "15 Dakika İçinde";
+
+/* TODO */
+"Inaccurate Time Detected" = "Inaccurate Time Detected";
+
+/* No comment provided by engineer. */
+"Incoming" = "Gelen";
+
+/* No comment provided by engineer. */
+"incoming" = "gelen";
+
+/* No comment provided by engineer. */
+"Incoming Call" = "Gelen Arama";
+
+/* No comment provided by engineer. */
+"Incoming Call Answered" = "Gelen Arama Cevaplandı";
+
+/* No comment provided by engineer. */
+"Incoming Call Hang Up" = "Gelen Arama Kapatıldı";
+
+/* No comment provided by engineer. */
+"Incoming call recording from “%@” and other %ld applications." = "“%@” ve diğer %ld uygulamalarından gelen arama kaydı.";
+
+/* No comment provided by engineer. */
+"Incoming call recording from “%@”." = "“%@” uygulamasından gelen arama kaydı.";
+
+/* No comment provided by engineer. */
+"Inconsistency Found" = "Tutarsızlık Bulundu";
+
+/* No comment provided by engineer. */
+"Install" = "Yükle";
+
+/* No comment provided by engineer. */
+"Install Call History Tweak" = "Arama Geçmişi İnce Ayarını Yükle";
+
+/* No comment provided by engineer. */
+"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "“Kısayollar” içine “Sesi Sıkıştır” eylemini yükleyin, ardından sesinizi AAC/AIFF formatına sıkıştırmak için kayıtlarınızı bu eylemle paylaşın.";
+
+/* No comment provided by engineer. */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "“Kısayollar” içine “Arşiv Oluştur” eylemini yükleyin, ardından bir ZIP arşivi oluşturmak için kayıtlarınızı bu eylemle paylaşın.";
+
+/* No comment provided by engineer. */
+"Invalid Code Signature" = "Geçersiz Kod İmzası";
+
+/* TODO */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
+
+/* No comment provided by engineer. */
+"iPad" = "iPad";
+
+/* No comment provided by engineer. */
+"iPhone" = "iPhone";
+
+/* No comment provided by engineer. */
+"Is Favourite" = "Favori mi";
+
+/* No comment provided by engineer. */
+"Is Finalized" = "Sonlandırıldı";
+
+/* No comment provided by engineer. */
+"Is Finalizing" = "Sonlandırılıyor";
+
+/* No comment provided by engineer. */
+"Is Microphone Enabled" = "Mikrofon Etkin mi";
+
+/* No comment provided by engineer. */
+"Is Paused" = "Duraklatıldı";
+
+/* No comment provided by engineer. */
+"Is Running" = "Çalışıyor";
+
+/* No comment provided by engineer. */
+"Item #%lu" = "Öğe #%lu";
+
+/* No comment provided by engineer. */
+"Just in case that you love it." = "Sevdiğiniz ihtimaline karşı.";
+
+/* No comment provided by engineer. */
+"Just now" = "Şimdi";
+
+/* No comment provided by engineer. */
+"Keep Screen On When Connected" = "Bağlandığında Ekranı Açık Tut";
+
+/* No comment provided by engineer. */
+"Keyboard Avoidance" = "Klavye Engelleme";
+
+/* No comment provided by engineer. */
+"Kill all applications and restart the render server (backboardd)." = "Tüm uygulamaları kapatın ve render sunucusunu (backboardd) yeniden başlatın.";
+
+/* No comment provided by engineer. */
+"Language Changed" = "Dil Değiştirildi";
+
+/* No comment provided by engineer. */
+"Larger" = "Daha Büyük";
+
+/* No comment provided by engineer. */
+"Last successful synchronization: %@" = "Son başarılı senkronizasyon: %@";
+
+/* No comment provided by engineer. */
+"Later" = "Daha sonra";
+
+/* No comment provided by engineer. */
+"launch" = "başlat";
+
+/* No comment provided by engineer. */
+"Launch App at End" = "Sonda Uygulamayı Başlat";
+
+/* No comment provided by engineer. */
+"Launch Shield" = "İlk Kilit Açmada Başlat";
+
+/* No comment provided by engineer. */
+"Leading & Trailing" = "Baştaki ve Sondaki";
+
+/* No comment provided by engineer. */
+"leading edge" = "ön kenar";
+
+/* No comment provided by engineer. */
+"Legacy Jailbreak" = "Eski Jailbreak";
+
+/* No comment provided by engineer. */
+"Less serious error occurred." = "Daha az ciddi bir hata oluştu.";
+
+/* No comment provided by engineer. */
+"Lifetime Guarantee" = "Ömür Boyu Garanti";
+
+/* No comment provided by engineer. */
+"Link Device to Havoc" = "Cihazı Havoc'a Bağla";
+
+/* No comment provided by engineer. */
+"List and Detail" = "Liste ve Ayrıntı";
+
+/* No comment provided by engineer. */
+"Loading…" = "Yükleniyor…";
+
+/* No comment provided by engineer. */
+"Local Storage" = "Yerel Depolama";
+
+/* No comment provided by engineer. */
+"Localized name of the provider application. That is, where this recording comes from." = "Sağlayıcı uygulamasının yerelleştirilmiş adı. Yani, bu kaydın geldiği yer.";
+
+/* No comment provided by engineer. */
+"Locate in Maps" = "Haritalarda Bul";
+
+/* No comment provided by engineer. */
+"Location" = "Konum";
+
+/* No comment provided by engineer. */
+"Location Permission Denied" = "Konum İzni Reddedildi";
+
+/* No comment provided by engineer. */
+"Location Services" = "Konum Servisleri";
+
+/* No comment provided by engineer. */
+"Locked" = "Kilitli";
+
+/* No comment provided by engineer. */
+"Log Viewer" = "Günlük Görüntüleyici";
+
+/* No comment provided by engineer. */
+"Logging" = "Günlük Kaydı";
+
+/* No comment provided by engineer. */
+"Login Tips" = "Giriş İpuçları";
+
+/* No comment provided by engineer. */
+"Long Date" = "Uzun Tarih";
+
+/* TODO */
+"Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
+
+/* No comment provided by engineer. */
+"Long Time" = "Uzun Süre";
+
+/* No comment provided by engineer. */
+"Low Disk Space" = "Düşük Disk Alanı";
+
+/* TODO */
+"Made with ♥ by OwnGoal Studio" = "Made with ♥ by OwnGoal Studio";
+
+/* No comment provided by engineer. */
+"Mail composition failed" = "Posta oluşturma başarısız oldu";
+
+/* No comment provided by engineer. */
+"Maintenance" = "Bakım";
+
+/* No comment provided by engineer. */
+"Make a ${requestedMode} recording" = "${requestedMode} kaydı yap";
+
+/* TODO */
+"Make a new recording, or stop an existing one." = "Make a new recording, or stop an existing one.";
+
+/* TODO */
+"Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
+
+/* No comment provided by engineer. */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Kayıtların yedekleme alanında yüzeysel kopyalarını alın ve iCloud Yedekleme'nin bunları içermesine izin verin.";
+
+/* No comment provided by engineer. */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Mevcut arama kayıtlarını doğrudan arama geçmişi listesinde oynatın.";
+
+/* TODO */
+"Make the device ring or vibrate when recording ends." = "Make the device ring or vibrate when recording ends.";
+
+/* TODO */
+"Make the device ring or vibrate when recording starts." = "Make the device ring or vibrate when recording starts.";
+
+/* No comment provided by engineer. */
+"Make the hoverball invisible when taking screenshots or screen recordings." = "Ekran görüntüsü veya ekran kaydı alırken genel hoverball'u görünmez yapın.";
+
+/* TODO */
+"Make the hoverball invisible when the device is in landscape orientation." = "Make the hoverball invisible when the device is in landscape orientation.";
+
+/* No comment provided by engineer. */
+"Make the hoverball semi-transparent or folded when leave it for a while." = "Hoverball'u bir süre bıraktığınızda yarı saydam veya katlanmış hale getirin.";
+
+/* No comment provided by engineer. */
+"Making a phone call to begin recording." = "Kaydı başlatmak için telefon görüşmesi yapılıyor.";
+
+/* No comment provided by engineer. */
+"Mark" = "İşaretle";
+
+/* No comment provided by engineer. */
+"Maximum" = "Maksimum";
+
+/* No comment provided by engineer. */
+"Medium" = "Orta";
+
+/* No comment provided by engineer. */
+"Medium Date" = "Orta Tarih";
+
+/* No comment provided by engineer. */
+"Medium Time" = "Orta Süre";
+
+/* No comment provided by engineer. */
+"Merge" = "Birleştir";
+
+/* No comment provided by engineer. */
+"Merged File" = "Birleştirilmiş Dosya";
+
+/* No comment provided by engineer. */
+"Message" = "Mesaj";
+
+/* No comment provided by engineer. */
+"Metadata" = "Metaveri";
+
+/* No comment provided by engineer. */
+"Microphone" = "Mikrofon";
+
+/* No comment provided by engineer. */
+"microphone" = "mikrofon";
+
+/* No comment provided by engineer. */
+"Microphone and speaker are recorded in different channels." = "Mikrofon ve hoparlör farklı kanallarda kaydedilir.";
+
+/* TODO */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
+/* No comment provided by engineer. */
+"Minutes" = "Dakika";
+
+/* TODO */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+
+/* No comment provided by engineer. */
+"Mixed" = "Karışık";
+
+/* No comment provided by engineer. */
+"Mixer & Combiner" = "Karıştırıcı ve Birleştirici";
+
+/* No comment provided by engineer. */
+"Mixer Audio Format" = "Karıştırıcı Ses Formatı";
+
+/* No comment provided by engineer. */
+"Mixer File Format" = "Karıştırıcı Dosya Formatı";
+
+/* No comment provided by engineer. */
+"Mixer Quality" = "Karıştırıcı Kalitesi";
+
+/* No comment provided by engineer. */
+"Month Number" = "Ay Numarası";
+
+/* No comment provided by engineer. */
+"Monthly Arranged" = "Aylık Düzenlenmiş";
+
+/* No comment provided by engineer. */
+"More icons, more innovation." = "Daha fazla simge, daha fazla yenilik.";
+
+/* No comment provided by engineer. */
+"More Options" = "Daha Fazla Seçenek";
+
+/* No comment provided by engineer. */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Silinen kayıtları, fikrinizi değiştirirseniz veya daha sonra ihtiyacınız olduğunu fark ederseniz geri yüklemenize olanak tanıyan özel bir klasöre taşıyın.";
+
+/* No comment provided by engineer. */
+"MPEG-4 Audio" = "MPEG-4 Ses";
+
+/* No comment provided by engineer. */
+"mute" = "sessiz";
+
+/* No comment provided by engineer. */
+"Mute ${requestedChannel}" = "${requestedChannel} Sessiz";
+
+/* No comment provided by engineer. */
+"Mute Existing Calls" = "Mevcut Aramaları Sessize Al";
+
+/* No comment provided by engineer. */
+"Mute specified channel of all existing calls." = "Mevcut tüm aramaların belirtilen kanalını sessize alın.";
+
+/* No comment provided by engineer. */
+"My Favourite" = "Benim Favorim";
+
+/* No comment provided by engineer. */
+"My Favourites" = "Favorilerim";
+
+/* No comment provided by engineer. */
+"Name" = "Ad";
+
+/* No comment provided by engineer. */
+"Name with Alias" = "Takma Adlı Ad";
+
+/* No comment provided by engineer. */
+"Network Storage" = "Ağ Depolama";
+
+/* No comment provided by engineer. */
+"Never" = "Asla";
+
+/* No comment provided by engineer. */
+"Never Show This Again" = "Bunu Bir Daha Asla Gösterme";
+
+/* No comment provided by engineer. */
+"New" = "Yeni";
+
+/* No comment provided by engineer. */
+"New Argument" = "Yeni Argüman";
+
+/* No comment provided by engineer. */
+"New Matching Pattern" = "Yeni Eşleşen Desen";
+
+/* No comment provided by engineer. */
+"New Version Available" = "Yeni Sürüm Mevcut";
+
+/* No comment provided by engineer. */
+"New Version Installed" = "Yeni Sürüm Yüklendi";
+
+/* No comment provided by engineer. */
+"NO" = "HAYIR";
+
+/* No comment provided by engineer. */
+"No Available Version" = "Kullanılabilir Sürüm Yok";
+
+/* No comment provided by engineer. */
+"No phone number found in selected contacts." = "Seçilen kişilerde telefon numarası bulunamadı.";
+
+/* No comment provided by engineer. */
+"No phone number or email address found in selected contacts." = "Seçilen kişilerde telefon numarası veya e-posta adresi bulunamadı.";
+
+/* No comment provided by engineer. */
+"No Recording" = "Kayıt Yok";
+
+/* No comment provided by engineer. */
+"No speech detected." = "Konuşma algılanmadı.";
+
+/* No comment provided by engineer. */
+"No Transition" = "Geçiş Yok";
+
+/* No comment provided by engineer. */
+"None" = "Hiçbiri";
+
+/* No comment provided by engineer. */
+"Not Implemented" = "Uygulanmadı";
+
+/* No comment provided by engineer. */
+"Not My Favourite" = "Benim favorim değil";
+
+/* No comment provided by engineer. */
+"Not Now" = "Şimdi değil";
+
+/* No comment provided by engineer. */
+"Not Properly Configured" = "Düzgün Yapılandırılmadı";
+
+/* No comment provided by engineer. */
+"Nothing Imported" = "Hiçbir şey içe aktarılmadı";
+
+/* No comment provided by engineer. */
+"Nothing Inside" = "İçinde bir şey yok";
+
+/* No comment provided by engineer. */
+"notification" = "bildirim";
+
+/* No comment provided by engineer. */
+"Notification Permission Denied" = "Bildirim İzni Reddedildi";
+
+/* No comment provided by engineer. */
+"Notifications" = "Bildirimler";
+
+/* No comment provided by engineer. */
+"notify" = "bildir";
+
+/* No comment provided by engineer. */
+"Notify at Begin" = "Başlangıçta Bildir";
+
+/* No comment provided by engineer. */
+"Notify at End" = "Sonda Bildir";
+
+/* No comment provided by engineer. */
+"Object Viewer" = "Nesne Görüntüleyici";
+
+/* No comment provided by engineer. */
+"Off" = "Kapalı";
+
+/* No comment provided by engineer. */
+"OK" = "Tamam";
+
+/* No comment provided by engineer. */
+"On" = "Açık";
+
+/* No comment provided by engineer. */
+"OneDrive" = "OneDrive";
+
+/* No comment provided by engineer. */
+"Oops!" = "Eyvah!";
+
+/* No comment provided by engineer. */
+"Open" = "Aç";
+
+/* No comment provided by engineer. */
+"open" = "aç";
+
+/* No comment provided by engineer. */
+"Open Application" = "Uygulamayı Aç";
+
+/* No comment provided by engineer. */
+"Open Hoverball" = "Hoverball'ı Aç";
+
+/* No comment provided by engineer. */
+"Open in Filza" = "Filza'da Aç";
+
+/* No comment provided by engineer. */
+"Open in Maps" = "Haritalar'da Aç";
+
+/* TODO */
+"Open Troll Recorder" = "Open Troll Recorder";
+
+/* No comment provided by engineer. */
+"Operation Failed" = "İşlem Başarısız Oldu";
+
+/* No comment provided by engineer. */
+"Operation Succeed" = "İşlem Başarılı Oldu";
+
+/* No comment provided by engineer. */
+"Operation succeed, but no files transferred." = "İşlem başarılı oldu, ancak hiçbir dosya aktarılmadı.";
+
+/* No comment provided by engineer. */
+"Operator Name" = "Operatör Adı";
+
+/* TODO */
+"Optic ID" = "Optic ID";
+
+/* No comment provided by engineer. */
+"Options" = "Seçenekler";
+
+/* No comment provided by engineer. */
+"Outgoing" = "Giden";
+
+/* No comment provided by engineer. */
+"Outgoing Call" = "Giden Çağrı";
+
+/* No comment provided by engineer. */
+"Outgoing Call Answered" = "Giden Çağrı Cevaplandı";
+
+/* No comment provided by engineer. */
+"Outgoing Call Hang Up" = "Giden Çağrı Sonlandı";
+
+/* No comment provided by engineer. */
+"Outgoing call recording from “%@” and other %ld applications." = "“%@” ve diğer %ld uygulamalardan giden çağrı kaydı.";
+
+/* No comment provided by engineer. */
+"Outgoing call recording from “%@”." = "“%@” adresinden giden çağrı kaydı.";
+
+/* No comment provided by engineer. */
+"Page not found" = "Sayfa bulunamadı";
+
+/* No comment provided by engineer. */
+"Password (Optional)" = "Şifre (İsteğe Bağlı)";
+
+/* No comment provided by engineer. */
+"path" = "yol";
+
+/* No comment provided by engineer. */
+"Pause" = "Duraklat";
+
+/* No comment provided by engineer. */
+"Pause Recording" = "Kaydı Duraklat";
+
+/* No comment provided by engineer. */
+"Paused" = "Duraklatıldı";
+
+/* No comment provided by engineer. */
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "“iCloud ile Yedekleme” ve “Akıllı Bulut Arşivi”nin tam senkronizasyonunu gerçekleştirin.";
+
+/* No comment provided by engineer. */
+"Perform Full Synchronization" = "Tam Senkronizasyon Gerçekleştir";
+
+/* No comment provided by engineer. */
+"Period" = "Dönem";
+
+/* No comment provided by engineer. */
+"Phone" = "Telefon";
+
+/* No comment provided by engineer. */
+"phone" = "telefon";
+
+/* No comment provided by engineer. */
+"Phone Address" = "Telefon Adresi";
+
+/* No comment provided by engineer. */
+"Phone Call Exclude List" = "Telefon Çağrısı Hariç Tutma Listesi";
+
+/* No comment provided by engineer. */
+"phone call recording" = "telefon görüşmesi kaydı";
+
+/* No comment provided by engineer. */
+"Phone Call VIP" = "Telefon Çağrısı VIP";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Telefon Numarası";
+
+/* No comment provided by engineer. */
+"Phone Number or Email Address" = "Telefon Numarası veya E-posta Adresi";
+
+/* No comment provided by engineer. */
+"Physical Key Combination" = "Fiziksel Tuş Kombinasyonu";
+
+/* No comment provided by engineer. */
+"Placemark Name" = "Yer İşareti Adı";
+
+/* No comment provided by engineer. */
+"Play" = "Oynat";
+
+/* No comment provided by engineer. */
+"play" = "oynat";
+
+/* No comment provided by engineer. */
+"Play ${audioFile}" = "${audioFile} Oynat";
+
+/* No comment provided by engineer. */
+"Play Recording Warning" = "Kayıt Çalma Uyarısı";
+
+/* No comment provided by engineer. */
+"Play Sound" = "Ses Çal";
+
+/* No comment provided by engineer. */
+"Play specified audio file to the microphone." = "Belirtilen ses dosyasını mikrofona çal.";
+
+/* No comment provided by engineer. */
+"Play specified voice-over text to the microphone." = "Belirtilen sesli anlatım metnini mikrofona yayınlayın.";
+
+/* No comment provided by engineer. */
+"Play Uplink Audio" = "Yukarı Bağlantı Sesini Çal";
+
+/* No comment provided by engineer. */
+"Play Uplink Voice-Over" = "Mikrofona Sesli Anlatımı Oynat";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Oynat/Duraklat";
+
+/* No comment provided by engineer. */
+"Playback Rate" = "Oynatma Hızı";
+
+/* No comment provided by engineer. */
+"Playback Rate: %@x" = "Oynatma Hızı: %@x";
+
+/* No comment provided by engineer. */
+"Playback Speed" = "Oynatma Hızı";
+
+/* No comment provided by engineer. */
+"Player Options" = "Oynatıcı Seçenekleri";
+
+/* No comment provided by engineer. */
+"Please check your mail configuration." = "Lütfen posta yapılandırmanızı kontrol edin.";
+
+/* No comment provided by engineer. */
+"Please enter a valid port number between 1 and 65535." = "Lütfen 1 ile 65535 arasında geçerli bir bağlantı noktası numarası girin.";
+
+/* No comment provided by engineer. */
+"Please enter the server URL." = "Lütfen sunucu URL'sini girin.";
+
+/* No comment provided by engineer. */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "TrollRecorder'ın yalnızca Havoc Pazaryeri aracılığıyla satıldığını ve kullanılabileceğini lütfen unutmayın. Başka hiçbir kanal aracılığıyla satış yapmıyoruz. Mağaza sayfasını açmak üzeresiniz: Havoc Pazaryeri'ni ilk kez kullanıyorsanız, Google hesabınızla oturum açmanızı öneririz. Çin anakarasında bir kullanıcıysanız, Google'da oturum açmak özel bir ağ gerektirir.";
+
+/* No comment provided by engineer. */
+"Please reinstall this application from TrollStore." = "Lütfen bu uygulamayı TrollStore'dan yeniden yükleyin.";
+
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from Sileo." = "Lütfen “%@” uygulamasını Sileo'dan kaldırmayı unutmayın.";
+
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from TrollStore." = "Lütfen “%@” uygulamasını TrollStore'dan kaldırmayı unutmayın.";
+
+/* No comment provided by engineer. */
+"Popover Control" = "Açılır Pencere Kontrolü";
+
+/* No comment provided by engineer. */
+"Populate Location When App Starts" = "Uygulama Başladığında Konumu Doldur";
+
+/* No comment provided by engineer. */
+"Popup Banner at Begin" = "Başlangıçta Açılır Pencere";
+
+/* No comment provided by engineer. */
+"Popup Banner at End" = "Sonda Açılır Pencere";
+
+/* No comment provided by engineer. */
+"Popup Banner when Fail" = "Başarısız Olduğunda Açılır Pencere";
+
+/* No comment provided by engineer. */
+"Popup Banner with Badge" = "Rozetli Açılır Pencere";
+
+/* No comment provided by engineer. */
+"Popup Banner with Detail" = "Detaylı Açılır Pencere";
+
+/* No comment provided by engineer. */
+"Popup Banner with Sound" = "Sesli Açılır Pencere";
+
+/* No comment provided by engineer. */
+"Port (Optional)" = "Bağlantı Noktası (İsteğe Bağlı)";
+
+/* No comment provided by engineer. */
+"Preparing" = "Hazırlanıyor";
+
+/* No comment provided by engineer. */
+"Preserve All Channels" = "Tüm Kanalları Koru";
+
+/* No comment provided by engineer. */
+"Press & Hold Action" = "Basılı Tutma Eylemi";
+
+/* No comment provided by engineer. */
+"Press & Hold Hoverball" = "Hoverball'ı Basılı Tut";
+
+/* No comment provided by engineer. */
+"Press & Hold Power Button" = "Güç Düğmesini Basılı Tut";
+
+/* No comment provided by engineer. */
+"Press and hold the power button to start or stop recording during a call." = "Bir arama sırasında kaydı başlatmak veya durdurmak için güç düğmesini basılı tutun.";
+
+/* No comment provided by engineer. */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Bir arama sırasında kaydı başlatmak veya durdurmak için her iki fiziksel ses düğmesine basın.";
+
+/* No comment provided by engineer. */
+"Press Both Volume Buttons" = "Her İki Ses Düğmesine Basın";
+
+/* No comment provided by engineer. */
+"Preview Disabled" = "Önizleme Devre Dışı Bırakıldı";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Gizlilik Politikası";
+
+/* No comment provided by engineer. */
+"Privacy Policy & User Agreements" = "Gizlilik Politikası ve Kullanıcı Sözleşmeleri";
+
+/* TODO */
+"Private Browsing Detected" = "Private Browsing Detected";
+
+/* No comment provided by engineer. */
+"Proceed Anyway" = "Yine de Devam Et";
+
+/* No comment provided by engineer. */
+"Process terminated by signal %d." = "İşlem %d sinyaliyle sonlandırıldı.";
+
+/* No comment provided by engineer. */
+"Process terminated with exit code %d.\n%@" = "İşlem %1$d çıkış koduyla sonlandırıldı.\n%2$@";
+
+/* No comment provided by engineer. */
+"Pulse-code modulation" = "Darbe kod modülasyonu";
+
+/* No comment provided by engineer. */
+"Purchase" = "Satın Alma";
+
+/* No comment provided by engineer. */
+"Purchase Tips" = "Satın Alma İpuçları";
+
+/* No comment provided by engineer. */
+"Pure TrollStore" = "Saf TrollStore";
+
+/* No comment provided by engineer. */
+"Query the latest version from GitHub." = "GitHub'dan en son sürümü sorgula.";
+
+/* No comment provided by engineer. */
+"Querying" = "Sorgulanıyor";
+
+/* No comment provided by engineer. */
+"Quick Recording" = "Hızlı Kayıt";
+
+/* No comment provided by engineer. */
+"Quit and relaunch to continue using the Pro features." = "Profesyonel özellikleri kullanmaya devam etmek için çıkış yapın ve yeniden başlatın.";
+
+/* No comment provided by engineer. */
+"Quit this application and try again." = "Bu uygulamadan çıkın ve tekrar deneyin.";
+
+/* No comment provided by engineer. */
+"Rclone Documentation" = "Rclone Belgeleri";
+
+/* No comment provided by engineer. */
+"Re-authorize with Dropbox" = "Dropbox ile Yeniden Yetkilendir";
+
+/* No comment provided by engineer. */
+"Re-authorize with Google" = "Google ile Yeniden Yetkilendir";
+
+/* No comment provided by engineer. */
+"Re-authorize with Microsoft" = "Microsoft ile Yeniden Yetkilendir";
+
+/* No comment provided by engineer. */
+"Re-enable Suggested Options" = "Önerilen Seçenekleri Yeniden Etkinleştir";
+
+/* No comment provided by engineer. */
+"Reaching Daemon" = "Daemon'a Ulaşılıyor";
+
+/* TODO */
+"README_APP_DOCUMENTS" = "This directory contains the backup of the TrollRecorder recordings.\r\nYou can restore them by copying them back to the original location: /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings";
+
+/* TODO */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "This directory contains hard link archives to TrollRecorder recordings.\r\nThey are not included in the iCloud backup, nor are they consumed by the storage quota.\r\nDo not delete them unless you are sure you no longer need them.";
+
+/* TODO */
+"README_SERVICE_RECORDINGS" = "This directory contains the TrollRecorder recordings.\r\nYou can back them up by copying them to a safe location.";
+
+/* No comment provided by engineer. */
+"Ready" = "Hazır";
+
+/* No comment provided by engineer. */
+"Ready to record!" = "Kayda hazır!";
+
+/* No comment provided by engineer. */
+"Received authorization error: %@" = "Yetkilendirme hatası alındı: %@";
+
+/* No comment provided by engineer. */
+"Received transient error: %@" = "Geçici hata alındı: %@";
+
+/* No comment provided by engineer. */
+"Recents Only" = "Yalnızca Son Kullanılanlar";
+
+/* No comment provided by engineer. */
+"Recommended for Apple devices" = "Apple cihazları için önerilir";
+
+/* No comment provided by engineer. */
+"Record" = "Kaydet";
+
+/* No comment provided by engineer. */
+"Record all incoming and outgoing calls automatically." = "Tüm gelen ve giden çağrıları otomatik olarak kaydet.";
+
+/* No comment provided by engineer. */
+"Record Automatically" = "Otomatik Kaydet";
+
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "Diğer Cihazlarda Çağrı Kaydet";
+
+/* No comment provided by engineer. */
+"Record Only When Connected" = "Yalnızca Bağlıyken Kaydet";
+
+/* No comment provided by engineer. */
+"Record with Location" = "Konumla Kaydet";
+
+/* No comment provided by engineer. */
+"Recording" = "Kayıt";
+
+/* No comment provided by engineer. */
+"recording" = "kayıt";
+
+/* No comment provided by engineer. */
+"Recording (Localized)" = "Kayıt (Yerelleştirilmiş)";
+
+/* No comment provided by engineer. */
+"Recording Interrupted" = "Kayıt Kesintiye Uğradı";
+
+/* No comment provided by engineer. */
+"Recording Options" = "Kayıt Seçenekleri";
+
+/* No comment provided by engineer. */
+"Recording starts when both the audio inputs and outputs are continuously active." = "Kayıt, hem ses girişleri hem de çıkışları sürekli aktif olduğunda başlar.";
+
+/* No comment provided by engineer. */
+"Recording successfully started." = "Kayıt başarıyla başlatıldı.";
+
+/* No comment provided by engineer. */
+"Recording Type" = "Kayıt Türü";
+
+/* No comment provided by engineer. */
+"Recording Type Description" = "Kayıt Türü Açıklaması";
+
+/* No comment provided by engineer. */
+"Recording will begin when the call is answered." = "Arama cevaplandığında kayıt başlayacaktır.";
+
+/* No comment provided by engineer. */
+"Recording “%@” is in progress." = "“%@” kaydı devam ediyor.";
+
+/* No comment provided by engineer. */
+"RECORDING_LOCALIZED" = "Kayıt";
+
+/* No comment provided by engineer. */
+"Recordings" = "Kayıtlar";
+
+/* No comment provided by engineer. */
+"Recordings here are permanently removed after 30 days." = "Buradaki kayıtlar 30 gün sonra kalıcı olarak silinir.";
+
+/* No comment provided by engineer. */
+"Recycle Bin" = "Geri Dönüşüm Kutusu";
+
+/* No comment provided by engineer. */
+"Regenerate All" = "Tümünü Yeniden Oluştur";
+
+/* No comment provided by engineer. */
+"reject" = "reddet";
+
+/* No comment provided by engineer. */
+"Reject all incoming calls automatically." = "Tüm gelen aramaları otomatik olarak reddet.";
+
+/* No comment provided by engineer. */
+"Reject Incoming Calls" = "Gelen Aramaları Reddet";
+
+/* No comment provided by engineer. */
+"Relaunched" = "Yeniden Başlatıldı";
+
+/* No comment provided by engineer. */
+"Release" = "Sürüm";
+
+/* No comment provided by engineer. */
+"Release Notes" = "Sürüm Notları";
+
+/* No comment provided by engineer. */
+"Remove" = "Kaldır";
+
+/* No comment provided by engineer. */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Tüm önbelleğe alınmış dalga biçimlerini kaldırın ve orijinal kayıtlardan yeniden oluşturulmasına izin verin.";
+
+/* No comment provided by engineer. */
+"Remove All Recordings Permanently" = "Tüm Kayıtları Kalıcı Olarak Sil";
+
+/* No comment provided by engineer. */
+"Remove Outdated Recordings" = "Eski Kayıtları Kaldır";
+
+/* No comment provided by engineer. */
+"Rename" = "Yeniden Adlandır";
+
+/* No comment provided by engineer. */
+"Repeat Infinitely" = "Sonsuz Tekrarla";
+
+/* No comment provided by engineer. */
+"Reset" = "Sıfırla";
+
+/* No comment provided by engineer. */
+"Reset All Shortcuts" = "Tüm Kısayolları Sıfırla";
+
+/* No comment provided by engineer. */
+"Reset Search Indexes" = "Arama Dizilerini Sıfırla";
+
+/* No comment provided by engineer. */
+"Reset Service" = "Hizmeti Sıfırla";
+
+/* No comment provided by engineer. */
+"Respring" = "SpringBoard'ı Yeniden Başlat";
+
+/* No comment provided by engineer. */
+"Restart Render Server" = "Render Sunucusunu Yeniden Başlat";
+
+/* No comment provided by engineer. */
+"Restore" = "Geri Yükle";
+
+/* No comment provided by engineer. */
+"Restore %d Items From Recycle Bin" = "Geri Dönüşüm Kutusundan %d Öğe Geri Yükle";
+
+/* No comment provided by engineer. */
+"Restore Selected %ld Items" = "Seçilen %ld Öğeyi Geri Yükle";
+
+/* No comment provided by engineer. */
+"Restore Selected Item" = "Seçili Öğeyi Geri Yükle";
+
+/* No comment provided by engineer. */
+"Restoring" = "Geri Yükleniyor";
+
+/* No comment provided by engineer. */
+"Resume Recording" = "Kaydı Sürdür";
+
+/* No comment provided by engineer. */
+"Resume with Warning" = "Uyarıyla Devam Et";
+
+/* No comment provided by engineer. */
+"Retry" = "Tekrar Dene";
+
+/* No comment provided by engineer. */
+"Reverse Geocoding" = "Ters Coğrafi Kodlama";
+
+/* No comment provided by engineer. */
+"Reverse Selection" = "Seçimi Ters Çevir";
+
+/* No comment provided by engineer. */
+"Rewind 15 Seconds" = "15 Saniye Geri Sar";
+
+/* No comment provided by engineer. */
+"Ring" = "Zil Sesi";
+
+/* No comment provided by engineer. */
+"Ring & Vibrate" = "Zil Sesi ve Titreşim";
+
+/* No comment provided by engineer. */
+"Root" = "Kök";
+
+/* TODO */
+"RootHide Jailbreak" = "RootHide Jailbreak";
+
+/* TODO */
+"Rootless Jailbreak" = "Rootless Jailbreak";
+
+/* No comment provided by engineer. */
+"Runtime Environment: %@" = "Çalışma Ortamı: %@";
+
+/* No comment provided by engineer. */
+"Sample Rate" = "Örnek Hızı";
+
+/* No comment provided by engineer. */
+"Sandbox Build" = "Korumalı Alan Oluşturma";
+
+/* No comment provided by engineer. */
+"Save" = "Kaydet";
+
+/* No comment provided by engineer. */
+"Save as Duplicate" = "Kopya Olarak Kaydet";
+
+/* No comment provided by engineer. */
+"Save as Duplicate…" = "Kopya Olarak Kaydet…";
+
+/* No comment provided by engineer. */
+"Say ${requestedText}" = "${requestedText} söyle";
+
+/* No comment provided by engineer. */
+"Scene Identification" = "Sahne Tanımlama";
+
+/* No comment provided by engineer. */
+"screen" = "ekran";
+
+/* No comment provided by engineer. */
+"Search" = "Ara";
+
+/* No comment provided by engineer. */
+"Search %@ in %@…" = "%@ içinde %@ ara…";
+
+/* No comment provided by engineer. */
+"Search %@…" = "%@ ara…";
+
+/* No comment provided by engineer. */
+"Search Apps…" = "Uygulama Ara…";
+
+/* No comment provided by engineer. */
+"Search Arguments…" = "Argüman Ara…";
+
+/* No comment provided by engineer. */
+"Search Contacts…" = "Kişi Ara…";
+
+/* No comment provided by engineer. */
+"Search in %@…" = "%@ içinde ara…";
+
+/* No comment provided by engineer. */
+"Search in depth with all available information saved when recording such as contact info or locations." = "Kayıt sırasında kaydedilen kişi bilgileri veya konumlar gibi tüm mevcut bilgilerle derinlemesine arama yapın.";
+
+/* No comment provided by engineer. */
+"Search in Maps" = "Haritalar'da Ara";
+
+/* No comment provided by engineer. */
+"Search Recordings…" = "Kayıtları Ara…";
+
+/* No comment provided by engineer. */
+"Search Shortcuts…" = "Kısayolları Ara…";
+
+/* No comment provided by engineer. */
+"Search…" = "Ara…";
+
+/* No comment provided by engineer. */
+"Seconds" = "Saniye";
+
+/* No comment provided by engineer. */
+"Secure" = "Güvenli";
+
+/* No comment provided by engineer. */
+"Secure Payment" = "Güvenli Ödeme";
+
+/* No comment provided by engineer. */
+"See ya!" = "Görüşürüz!";
+
+/* No comment provided by engineer. */
+"Select" = "Seç";
+
+/* No comment provided by engineer. */
+"Select a recording to play." = "Oynatılacak bir kayıt seçin.";
+
+/* No comment provided by engineer. */
+"Select All" = "Tümünü Seç";
+
+/* No comment provided by engineer. */
+"Select the primary cloud service provider for recording synchronization." = "Kayıt senkronizasyonu için birincil bulut hizmet sağlayıcısını seçin.";
+
+/* No comment provided by engineer. */
+"Semi-Transparent" = "Yarı Saydam";
+
+/* No comment provided by engineer. */
+"Sender Name" = "Gönderen Adı";
+
+/* No comment provided by engineer. */
+"Sender Phone Address" = "Gönderen Telefon Adresi";
+
+/* No comment provided by engineer. */
+"Sender Short Name" = "Gönderen Kısa Adı";
+
+/* No comment provided by engineer. */
+"Separated Channels" = "Ayrılmış Kanallar";
+
+/* No comment provided by engineer. */
+"Separators" = "Ayırıcılar";
+
+/* No comment provided by engineer. */
+"Server" = "Sunucu";
+
+/* No comment provided by engineer. */
+"Server started at: %@" = "Sunucu şurada başlatıldı: %@";
+
+/* No comment provided by engineer. */
+"Server URL" = "Sunucu URL'si";
+
+/* No comment provided by engineer. */
+"service" = "hizmet";
+
+/* No comment provided by engineer. */
+"Service is alive" = "Hizmet aktif";
+
+/* No comment provided by engineer. */
+"Service is dead" = "Hizmet devre dışı";
+
+/* No comment provided by engineer. */
+"Service Status" = "Hizmet Durumu";
+
+/* No comment provided by engineer. */
+"Set a new name for this recording, or leave blank to use default." = "Bu kayıt için yeni bir ad belirleyin veya varsayılanı kullanmak için boş bırakın.";
+
+/* No comment provided by engineer. */
+"Settings" = "Ayarlar";
+
+/* No comment provided by engineer. */
+"Setup Failed" = "Kurulum Başarısız Oldu";
+
+/* No comment provided by engineer. */
+"Share" = "Paylaş";
+
+/* No comment provided by engineer. */
+"Short Date" = "Kısa Tarih";
+
+/* No comment provided by engineer. */
+"Short Day of Week String" = "Haftanın Kısa Günü Dizisi";
+
+/* No comment provided by engineer. */
+"Short Month Name" = "Kısa Ay Adı";
+
+/* No comment provided by engineer. */
+"Short Time" = "Kısa Süre";
+
+/* No comment provided by engineer. */
+"Show Bundle Name" = "Paket Adını Göster";
+
+/* No comment provided by engineer. */
+"Show Contact Names" = "Kişi Adlarını Göster";
+
+/* No comment provided by engineer. */
+"Show Hoverball" = "Hoverball'ı Göster";
+
+/* No comment provided by engineer. */
+"Show Notification" = "Bildirim Göster";
+
+/* No comment provided by engineer. */
+"Show notification ${requestedMessage}" = "${requestedMessage} bildirimini göster";
+
+/* No comment provided by engineer. */
+"Show on Lock Screen" = "Kilit Ekranında Göster";
+
+/* No comment provided by engineer. */
+"Show Option Description" = "Seçenek Açıklamasını Göster";
+
+/* No comment provided by engineer. */
+"Show Recording Duration" = "Kayıt Süresini Göster";
+
+/* No comment provided by engineer. */
+"Show Recording Format" = "Kayıt Biçimini Göster";
+
+/* No comment provided by engineer. */
+"Show SIM Card Alias" = "SIM Kart Takma Adını Göster";
+
+/* No comment provided by engineer. */
+"Show Waveform Previews" = "Dalga Biçimi Önizlemelerini Göster";
+
+/* No comment provided by engineer. */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Geliştiricilerin kayıtların manifestolarını kontrol etmeleri için “Detayları Görüntüle” menü öğesini gösterin.";
+
+/* No comment provided by engineer. */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Uygulamanın Dropbox'ınıza erişmesine izin vermek için Dropbox hesabınızla oturum açın.";
+
+/* TODO */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+
+/* TODO */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+
+/* No comment provided by engineer. */
+"Silent Mode" = "Sessiz Mod";
+
+/* No comment provided by engineer. */
+"SIM Card Alias" = "SIM Kart Takma Adı";
+
+/* No comment provided by engineer. */
+"Simulator" = "Simülatör";
+
+/* No comment provided by engineer. */
+"Skip Silence" = "Sessizliği Atla";
+
+/* No comment provided by engineer. */
+"Smaller" = "Daha Küçük";
+
+/* No comment provided by engineer. */
+"Smart Cloud Archive" = "Akıllı Bulut Arşivi";
+
+/* No comment provided by engineer. */
+"Software License" = "Yazılım Lisansı";
+
+/* No comment provided by engineer. */
+"Some settings have been reset to default values." = "Bazı ayarlar varsayılan değerlere sıfırlandı.";
+
+/* TODO */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo.";
+
+/* No comment provided by engineer. */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Yanlış bir şeyler var, lisansınızı doğrulayamıyoruz. Siparişlerinizi, satın aldıklarınızı kontrol etmek veya bir hediye kodunu kullanmak için “Hesabımı Görüntüle”ye dokunabilirsiniz.";
+
+/* No comment provided by engineer. */
+"Sound Level Meter" = "Ses Seviyesi Ölçer";
+
+/* No comment provided by engineer. */
+"Space" = "Boşluk";
+
+/* No comment provided by engineer. */
+"Speaker" = "Hoparlör";
+
+/* No comment provided by engineer. */
+"speaker" = "hoparlör";
+
+/* No comment provided by engineer. */
+"Specified range from %@ to %@ is invalid." = "%@ ile %@ arasında belirtilen aralık geçersiz.";
+
+/* No comment provided by engineer. */
+"start" = "başlat";
+
+/* No comment provided by engineer. */
+"Start a system screen recording just like what you do in the Control Center." = "Kontrol Merkezi'nde yaptığınız gibi bir sistem ekran kaydı başlatın.";
+
+/* No comment provided by engineer. */
+"Start Call Recording" = "Çağrı Kaydını Başlat";
+
+/* No comment provided by engineer. */
+"Start Date" = "Başlangıç Tarihi";
+
+/* No comment provided by engineer. */
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Bir çağrı kaydı, sistem ses kaydı başlatın veya hazırlayın ya da bir sesli not oluşturun.";
+
+/* No comment provided by engineer. */
+"Start Recording" = "Kaydı Başlat";
+
+/* No comment provided by engineer. */
+"Start Screen Recording" = "Ekran Kaydını Başlat";
+
+/* No comment provided by engineer. */
+"Start System Audio Recording" = "Sistem Ses Kaydını Başlat";
+
+/* No comment provided by engineer. */
+"Start Voice Memo Recording" = "Sesli Not Kaydını Başlat";
+
+/* No comment provided by engineer. */
+"status" = "durum";
+
+/* No comment provided by engineer. */
+"Stay tuned. We’re recording your call in the background." = "Bizi izlemeye devam edin. Aramanızı arka planda kaydediyoruz.";
+
+/* No comment provided by engineer. */
+"stop" = "durdur";
+
+/* No comment provided by engineer. */
+"Stop" = "Durdur";
+
+/* No comment provided by engineer. */
+"Stop & Reset Service" = "Hizmeti Durdur ve Sıfırla";
+
+/* No comment provided by engineer. */
+"Stop & Save" = "Durdur ve Kaydet";
+
+/* No comment provided by engineer. */
+"Stop a call recording, system audio recording or voice memo if exists." = "Varsa bir çağrı kaydını, sistem ses kaydını veya sesli notu durdurun.";
+
+/* No comment provided by engineer. */
+"Stop a system screen recording if exists." = "Varsa bir sistem ekran kaydını durdurun.";
+
+/* No comment provided by engineer. */
+"Stop Recording" = "Kaydı Durdur";
+
+/* No comment provided by engineer. */
+"Stop Recording When Disk Exhausted" = "Disk Dolduğunda Kaydı Durdur";
+
+/* No comment provided by engineer. */
+"Stop Screen Recording" = "Ekran Kaydını Durdur";
+
+/* No comment provided by engineer. */
+"Stop Service" = "Hizmeti Durdur";
+
+/* TODO */
+"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+
+/* No comment provided by engineer. */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Microsoft ile başarıyla yetkilendirildi ve OneDrive'a bağlandı.";
+
+/* No comment provided by engineer. */
+"Successfully connected to Dropbox." = "Dropbox'a başarıyla bağlandı.";
+
+/* No comment provided by engineer. */
+"Successfully connected to the server %@." = "Sunucuya başarıyla bağlanıldı: %@.";
+
+/* No comment provided by engineer. */
+"Suggested" = "Önerilen";
+
+/* No comment provided by engineer. */
+"Suggested Applications" = "Önerilen Uygulamalar";
+
+/* No comment provided by engineer. */
+"Sync" = "Senkronize Et";
+
+/* No comment provided by engineer. */
+"Sync Service Mode" = "Senkronizasyon Hizmeti Modu";
+
+/* No comment provided by engineer. */
+"Sync Service Provider" = "Senkronizasyon Hizmeti Sağlayıcısı";
+
+/* No comment provided by engineer. */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Senkronizasyon: Yerel ve bulut kayıtlarını aynı hale getir, yalnızca bulut sürücülerini değiştir.";
+
+/* No comment provided by engineer. */
+"synchronization" = "senkronizasyon";
+
+/* No comment provided by engineer. */
+"Synchronization Failed" = "Senkronizasyon Başarısız Oldu";
+
+/* No comment provided by engineer. */
+"Synchronize the playback status of the recording with Control Center." = "Kaydın oynatma durumunu Kontrol Merkezi ile senkronize edin.";
+
+/* No comment provided by engineer. */
+"Synchronizing" = "Senkronize Ediliyor";
+
+/* No comment provided by engineer. */
+"Syntax or usage error occurred." = "Sözdizimi veya kullanım hatası oluştu.";
+
+/* No comment provided by engineer. */
+"System Applications" = "Sistem Uygulamaları";
+
+/* No comment provided by engineer. */
+"System Audio" = "Sistem Sesi";
+
+/* No comment provided by engineer. */
+"System Audio Recording" = "Sistem Ses Kaydı";
+
+/* No comment provided by engineer. */
+"system audio recording" = "sistem ses kaydı";
+
+/* No comment provided by engineer. */
+"System Language" = "Sistem Dili";
+
+/* No comment provided by engineer. */
+"System Record" = "Sistem Kaydı";
+
+/* TODO */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+
+/* No comment provided by engineer. */
+"Tap again to make a phone call." = "Telefon araması yapmak için tekrar dokunun.";
+
+/* No comment provided by engineer. */
+"Tap again to open or search the location in Maps." = "Konumu Haritalar'da açmak veya aramak için tekrar dokunun.";
+
+/* No comment provided by engineer. */
+"Tap again to start a FaceTime call." = "FaceTime araması başlatmak için tekrar dokunun.";
+
+/* No comment provided by engineer. */
+"Tap to add required widget." = "Gerekli widget'ı eklemek için dokunun.";
+
+/* No comment provided by engineer. */
+"Tap to calculate the total size of all recordings." = "Tüm kayıtların toplam boyutunu hesaplamak için dokunun.";
+
+/* No comment provided by engineer. */
+"Tap to Copy" = "Kopyalamak İçin Dokun";
+
+/* No comment provided by engineer. */
+"Tap to Exit" = "Çıkmak İçin Dokun";
+
+/* No comment provided by engineer. */
+"Tap to open settings." = "Ayarları açmak için dokunun.";
+
+/* No comment provided by engineer. */
+"Tap to view details" = "Detayları görüntülemek için dokunun";
+
+/* No comment provided by engineer. */
+"Temporary error occurred, more retries might fix." = "Geçici bir hata oluştu, daha fazla deneme düzeltebilir.";
+
+/* No comment provided by engineer. */
+"Temporary Ignore" = "Geçici Olarak Yoksay";
+
+/* No comment provided by engineer. */
+"terminate" = "sonlandır";
+
+/* No comment provided by engineer. */
+"Terminate all active calls immediately." = "Tüm aktif çağrıları hemen sonlandır.";
+
+/* No comment provided by engineer. */
+"Terminate Calls" = "Aramaları Sonlandır";
+
+/* TODO */
+"Test Connection" = "Test Connection";
+
+/* No comment provided by engineer. */
+"text-to-speech" = "metinden sese";
+
+/* TODO */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "The %@ has been interrupted by the system. You may convert the recording manually later.";
+
+/* No comment provided by engineer. */
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Uygulama kurulumu bilinmeyen bir hatayla karşılaştı, Launch Daemon taleplerimize yanıt vermedi. Yeniden bağlanmaya çalışıyoruz, lütfen bekleyin. Sorun devam ederse uygulamayı yeniden yüklemeyi deneyebilirsiniz.";
+
+/* No comment provided by engineer. */
+"The application will launch automatically when recording ends." = "Kayıt sona erdiğinde uygulama otomatik olarak başlatılacaktır.";
+
+/* TODO */
+"The audio file to be played to the opposite side." = "The audio file to be played to the opposite side.";
+
+/* No comment provided by engineer. */
+"The bundle identifier of the application that initiated the call." = "Aramayı başlatan uygulamanın paket tanımlayıcısı.";
+
+/* No comment provided by engineer. */
+"The content of text file “%@” is empty." = "Metin dosyası “%@” içeriği boş.";
+
+/* No comment provided by engineer. */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Aramanın mevcut durumu. Olası değerler: Aranıyor, Bağlandı, Bağlantı Kesildi ve Bilinmiyor.";
+
+/* No comment provided by engineer. */
+"The date and time when the audio was created." = "Sesin oluşturulduğu tarih ve saat.";
+
+/* No comment provided by engineer. */
+"The device will vibrate with special haptic patterns when recording starts and ends." = "Kayıt başladığında ve bittiğinde cihaz özel titreşim desenleriyle titreyecektir.";
+
+/* No comment provided by engineer. */
+"The direction of the call. May not available for all audio files." = "Aramanın yönü. Tüm ses dosyaları için mevcut olmayabilir.";
+
+/* No comment provided by engineer. */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "Aramanın yönü. Olası değerler: Gelen, Giden ve Bilinmiyor.";
+
+/* No comment provided by engineer. */
+"The display name of the application that initiated the call." = "Aramayı başlatan uygulamanın görünen adı.";
+
+/* No comment provided by engineer. */
+"The field of information to get." = "Alınacak bilgi alanı.";
+
+/* No comment provided by engineer. */
+"The file format of the selected audio file." = "Seçilen ses dosyasının dosya formatı.";
+
+/* No comment provided by engineer. */
+"The hoverball can display even if you do not unlock your device." = "Cihazınızın kilidini açmasanız bile hoverball görüntülenebilir.";
+
+/* No comment provided by engineer. */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "“Hızlı Kayıt” ve “Fiziksel Tuş Kombinasyonu” tuş kombinasyonu şu şekilde değiştirilmiştir “%@”.";
+
+/* No comment provided by engineer. */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "“TrollRecorder” yazılımının en son sürümü %1$@ (%2$@). Geçerli sürüm %3$@ (%4$@).";
+
+/* No comment provided by engineer. */
+"The location metadata will be continuously updated while the recording is in progress." = "Kayıt devam ederken konum meta verileri sürekli güncellenecektir.";
+
+/* No comment provided by engineer. */
+"The location where the recording was recorded." = "Kaydın yapıldığı konum.";
+
+/* No comment provided by engineer. */
+"The maximum seconds to wait for calls to be connected." = "Aramaların bağlanması için beklenecek maksimum saniye.";
+
+/* No comment provided by engineer. */
+"The missing location metadata will be populated if you open the application right after the recording." = "Kayıttan hemen sonra uygulamayı açarsanız eksik konum meta verileri doldurulacaktır.";
+
+/* No comment provided by engineer. */
+"The name of the contact." = "Kişinin adı.";
+
+/* No comment provided by engineer. */
+"The name of the sender." = "Gönderenin adı.";
+
+/* No comment provided by engineer. */
+"The number of samples per second, higher sample rate means better audio quality with larger file size." = "Saniyedeki örnek sayısı, daha yüksek örnekleme oranı daha büyük dosya boyutuyla daha iyi ses kalitesi demektir.";
+
+/* No comment provided by engineer. */
+"The phone number of the contact." = "Kişinin telefon numarası.";
+
+/* No comment provided by engineer. */
+"The phone number of the sender." = "Gönderenin telefon numarası.";
+
+/* No comment provided by engineer. */
+"The phone number. Third party application or CallKit calls may not have this value." = "Telefon numarası. Üçüncü parti uygulamalar veya CallKit aramalarında bu değer bulunmayabilir.";
+
+/* No comment provided by engineer. */
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Kullanılacak son işlem modu. Combine modu stereo hoparlör sesini sol kanala sıkıştırırken mikrofonu sağ kanala yerleştirir. Mixed modu mikrofon kanalını stereo olarak çoğaltıp hoparlör kanallarıyla karıştırır.";
+
+/* No comment provided by engineer. */
+"The primary button action at the right side of the hoverball when no call is active." = "Hiçbir çağrı aktif değilken hoverball'un sağ tarafındaki birincil düğme eylemi.";
+
+/* No comment provided by engineer. */
+"The service is not properly configured." = "Hizmet düzgün yapılandırılmamış.";
+
+/* No comment provided by engineer. */
+"The service operator name of the sender." = "Gönderenin servis sağlayıcı adı.";
+
+/* No comment provided by engineer. */
+"The size of selected audio file." = "Seçilen ses dosyasının boyutu.";
+
+/* No comment provided by engineer. */
+"The text to be played to the opposite side." = "Karşı tarafa oynatılacak metin.";
+
+/* No comment provided by engineer. */
+"The time interval before the hoverball becomes idle." = "Hoverball'ın hareketsiz kalacağı zaman aralığı.";
+
+/* TODO */
+"The type of content to be recorded." = "The type of content to be recorded.";
+
+/* No comment provided by engineer. */
+"The unique identifier of the call." = "Aramanın benzersiz tanımlayıcısı.";
+
+/* No comment provided by engineer. */
+"The unique identifier of the provider application." = "Sağlayıcı uygulamanın benzersiz tanımlayıcısı.";
+
+/* No comment provided by engineer. */
+"The URL is not valid." = "URL geçersiz.";
+
+/* No comment provided by engineer. */
+"There is nothing but air." = "Havadan başka bir şey yok.";
+
+/* No comment provided by engineer. */
+"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "Arka plan servisinin kayıt dosyasını hemen dönüştürememe riski hala var. Neyse ki bu son adımı artık tamamlayabilirsiniz!";
+
+/* No comment provided by engineer. */
+"There was a problem verifying your identity." = "Kimliğiniz doğrulanırken bir sorun oluştu.";
+
+/* No comment provided by engineer. */
+"This feature requires a paid subscription. Please upgrade to use this feature." = "Bu özellik ücretli abonelik gerektirir. Kullanmak için lütfen yükseltme yapın.";
+
+/* No comment provided by engineer. */
+"This field accept phone number for matching contact." = "Bu alan kişi eşleştirmesi için telefon numarası kabul eder.";
+
+/* No comment provided by engineer. */
+"This field accept phone number or an email address for matching contact." = "Bu alan kişi eşleştirmesi için telefon numarası veya e-posta adresi kabul eder.";
+
+/* No comment provided by engineer. */
+"This is a sandbox build, the daemon is not available." = "Bu bir sandbox yapısıdır, arka plan servisi mevcut değil.";
+
+/* TODO */
+"This is a widget daemon for Troll Recorder." = "This is a widget daemon for Troll Recorder.";
+
+/* TODO */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "This option affects the behavior of the “Quick Recording” and “Physical Key Combination”.";
+
+/* TODO */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "This option overrides the “Press & Hold Action” of the Hoverball.";
+
+/* TODO */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
+
+/* TODO */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
+
+/* TODO */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+
+/* TODO */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "This version of WeChat (%@) is not supported. Please upgrade to the latest version.";
+
+/* TODO */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected.";
+
+/* TODO */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version.";
+
+/* TODO */
+"This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
+
+/* No comment provided by engineer. */
+"Three-digit Milliseconds" = "Üç Haneli Milisaniye";
+
+/* TODO */
+"Time Sensitive" = "Time Sensitive";
+
+/* TODO */
+"Title" = "Title";
+
+/* TODO */
+"To %@" = "To %@";
+
+/* TODO */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
+
+/* TODO */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
+
+/* TODO */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
+
+/* TODO */
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”.";
+
+/* TODO */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
+
+/* TODO */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”.";
+
+/* TODO */
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”.";
+
+/* TODO */
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”.";
+
+/* No comment provided by engineer. */
+"To: %@" = "Kime: %@";
+
+/* No comment provided by engineer. */
+"toggle" = "aç/kapat";
+
+/* TODO */
+"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+
+/* TODO */
+"Toggle Call Recording" = "Toggle Call Recording";
+
+/* No comment provided by engineer. */
+"Toggle Hoverball" = "Hoverball'ı Aç/Kapat";
+
+/* No comment provided by engineer. */
+"Toggle ON/OFF the recorder hoverball." = "Kaydedici hoverball'ı açıp kapatın.";
+
+/* No comment provided by engineer. */
+"Toggle Recording" = "Kaydı Aç/Kapat";
+
+/* TODO */
+"Toggle Screen Recording" = "Toggle Screen Recording";
+
+/* TODO */
+"Toggle System Audio Recording" = "Toggle System Audio Recording";
+
+/* TODO */
+"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
+
+/* TODO */
+"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
+
+/* TODO */
+"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+
+/* No comment provided by engineer. */
+"top edge" = "üst kenar";
+
+/* No comment provided by engineer. */
+"Total size is %@, path is %@" = "Toplam boyut %@, yol %@";
+
+/* TODO */
+"Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"To…" = "Kime:";
+
+/* No comment provided by engineer. */
+"Track Location Updates" = "Konum Güncellemelerini İzle";
+
+/* No comment provided by engineer. */
+"trailing edge" = "arka kenar";
+
+/* No comment provided by engineer. */
+"Transcript" = "Transkript";
+
+/* TODO */
+"Transfer exceeded." = "Transfer exceeded.";
+
+/* No comment provided by engineer. */
+"Transition When Idle" = "Boşta Geçiş";
+
+/* To translators: Replace @AUTHOR_NAME with your name. */
+"Translated by @AUTHOR_NAME" = "Altay T. tarafından çevrildi";
+
+/* TODO */
+"Trim" = "Trim";
+
+/* No comment provided by engineer. */
+"Troll Recorder" = "Troll Recorder";
+
+/* TODO */
+"tts" = "tts";
+
+/* No comment provided by engineer. */
+"Turn this option off to make the other options on this page take effect for the current application." = "Bu sayfadaki diğer seçeneklerin geçerli uygulama için etkili olmasını istiyorsanız bu seçeneği kapatın.";
+
+/* No comment provided by engineer. */
+"Two-digit Day of Month Number" = "İki Haneli Gün Numarası";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 12-hour Clock" = "İki Haneli Saat (12 saatlik)";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 24-hour Clock" = "İki Haneli Saat (24 saatlik)";
+
+/* No comment provided by engineer. */
+"Two-digit Minutes" = "İki Haneli Dakika";
+
+/* No comment provided by engineer. */
+"Two-digit Month Number" = "İki Haneli Ay Numarası";
+
+/* No comment provided by engineer. */
+"Two-digit Seconds" = "İki Haneli Saniye";
+
+/* No comment provided by engineer. */
+"Type to search…" = "Aramak için yazın…";
+
+/* TODO */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+
+/* TODO */
+"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+
+/* TODO */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
+
+/* TODO */
+"Unauthorize" = "Unauthorize";
+
+/* No comment provided by engineer. */
+"Uncompressed" = "Sıkıştırılmamış";
+
+/* No comment provided by engineer. */
+"Underscore" = "Alt Çizgi";
+
+/* No comment provided by engineer. */
+"Unknown" = "Bilinmiyor";
+
+/* No comment provided by engineer. */
+"Unknown Address" = "Bilinmeyen Adres";
+
+/* No comment provided by engineer. */
+"Unknown Artist" = "Bilinmeyen Sanatçı";
+
+/* No comment provided by engineer. */
+"Unknown Direction" = "Bilinmeyen Yön";
+
+/* No comment provided by engineer. */
+"Unknown Duration" = "Bilinmeyen Süre";
+
+/* No comment provided by engineer. */
+"Unknown Error" = "Bilinmeyen Hata";
+
+/* TODO */
+"Unknown error occurred." = "Unknown error occurred.";
+
+/* TODO */
+"Unknown error occurred. Please check the log for more details." = "Unknown error occurred. Please check the log for more details.";
+
+/* No comment provided by engineer. */
+"Unknown File Format" = "Bilinmeyen Dosya Formatı";
+
+/* No comment provided by engineer. */
+"Unknown Location" = "Bilinmeyen Konum";
+
+/* No comment provided by engineer. */
+"Unknown Operator" = "Bilinmeyen Operatör";
+
+/* No comment provided by engineer. */
+"Unknown Phone Address" = "Bilinmeyen Telefon Adresi";
+
+/* No comment provided by engineer. */
+"Unknown Place" = "Bilinmeyen Yer";
+
+/* No comment provided by engineer. */
+"Unknown Provider" = "Bilinmeyen Sağlayıcı";
+
+/* No comment provided by engineer. */
+"Unknown Sample Rate" = "Bilinmeyen Örnekleme Oranı";
+
+/* No comment provided by engineer. */
+"Unknown Sender" = "Bilinmeyen Gönderen";
+
+/* TODO */
+"Unknown Type" = "Unknown Type";
+
+/* No comment provided by engineer. */
+"Unknown Variant" = "Bilinmeyen Varyant";
+
+/* No comment provided by engineer. */
+"Unlock all features?" = "Tüm özelliklerin kilidini aç?";
+
+/* No comment provided by engineer. */
+"Unmark" = "İşareti Kaldır";
+
+/* TODO */
+"unmute" = "unmute";
+
+/* TODO */
+"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
+
+/* TODO */
+"Unmute Existing Calls" = "Unmute Existing Calls";
+
+/* TODO */
+"Unmute specified channel of all existing calls." = "Unmute specified channel of all existing calls.";
+
+/* No comment provided by engineer. */
+"Unspecified" = "Belirtilmemiş";
+
+/* No comment provided by engineer. */
+"Unsupported Configuration" = "Desteklenmeyen Yapılandırma";
+
+/* TODO */
+"Untitled" = "Untitled";
+
+/* No comment provided by engineer. */
+"Up to 5 Personal Devices" = "5 Kişisel Cihaza Kadar";
+
+/* No comment provided by engineer. */
+"Updating…" = "Güncelleniyor…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "Şimdi Yükselt";
+
+/* No comment provided by engineer. */
+"Upgrade to %@" = "%@ sürümüne yükselt";
+
+/* TODO */
+"uplink" = "uplink";
+
+/* TODO */
+"Uplink (Microphone)" = "Uplink (Microphone)";
+
+/* No comment provided by engineer. */
+"Upload" = "Yükle";
+
+/* No comment provided by engineer. */
+"Upload, download or synchronize recordings between local and cloud drive." = "Yerel ve bulut sürücüsü arasında kayıtları yükleme, indirme veya senkronize etme.";
+
+/* TODO */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
+
+/* No comment provided by engineer. */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Uygulamanın kilidini açmak için biyometrik kimlik doğrulama kullanın. Bu özellik etkinleştirildiğinde arka planda çalma mevcut değildir.";
+
+/* No comment provided by engineer. */
+"Use Cellular Network" = "Mobil Ağ Kullan";
+
+/* No comment provided by engineer. */
+"Use Date" = "Tarih Kullan";
+
+/* No comment provided by engineer. */
+"Use Date Range" = "Tarih Aralığı Kullan";
+
+/* No comment provided by engineer. */
+"Use Default Settings" = "Varsayılan Ayarları Kullan";
+
+/* No comment provided by engineer. */
+"Use Haptic Patterns" = "Titreşim Desenleri Kullan";
+
+/* TODO */
+"Use Media Controls" = "Use Media Controls";
+
+/* No comment provided by engineer. */
+"Use Recycle Bin" = "Geri Dönüşüm Kutusu Kullan";
+
+/* No comment provided by engineer. */
+"Use Snapshot Transition" = "Anlık Görüntü Geçişi Kullan";
+
+/* No comment provided by engineer. */
+"User Agreement" = "Kullanıcı Sözleşmesi";
+
+/* No comment provided by engineer. */
+"User Applications" = "Kullanıcı Uygulamaları";
+
+/* No comment provided by engineer. */
+"User denied access to speech recognition." = "Kullanıcı ses tanıma erişimini reddetti.";
+
+/* TODO */
+"User Initiated Recording" = "User Initiated Recording";
+
+/* No comment provided by engineer. */
+"User Interface Style" = "Kullanıcı Arayüzü Stili";
+
+/* TODO */
+"Username (Optional)" = "Username (Optional)";
+
+/* No comment provided by engineer. */
+"Utility" = "Yardımcı Program";
+
+/* No comment provided by engineer. */
+"Variant" = "Varyant";
+
+/* No comment provided by engineer. */
+"Variant Capitalized" = "Varyant (Büyük Harfli)";
+
+/* No comment provided by engineer. */
+"Variant Description" = "Varyant Açıklaması";
+
+/* No comment provided by engineer. */
+"Verification Failed" = "Doğrulama Başarısız";
+
+/* No comment provided by engineer. */
+"Verify License" = "Lisansı Doğrula";
+
+/* No comment provided by engineer. */
+"Version %@ Build %@" = "Version %1$@ Build %2$@";
+
+/* No comment provided by engineer. */
+"Version %@ Build %@ - New Version %@ Build %@" = "Version %1$@ Build %2$@ - New Version %3$@ Build %4$@";
+
+/* TODO */
+"Vibrate" = "Vibrate";
+
+/* TODO */
+"View" = "View";
+
+/* No comment provided by engineer. */
+"View Details" = "Detayları Görüntüle";
+
+/* TODO */
+"View Logs" = "View Logs";
+
+/* No comment provided by engineer. */
+"View Logs: Application" = "Günlükleri Görüntüle: Uygulama";
+
+/* TODO */
+"View Logs: Audio Player" = "View Logs: Audio Player";
+
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "Günlükleri Görüntüle: Çağrı Monitörü";
+
+/* No comment provided by engineer. */
+"View Logs: Call Recorder" = "Günlükleri Görüntüle: Çağrı Kaydedici";
+
+/* No comment provided by engineer. */
+"View Logs: Hoverball" = "Günlükleri Görüntüle: Hoverball";
+
+/* No comment provided by engineer. */
+"View Logs: Launch Agent" = "Günlükleri Görüntüle: Başlatma Aracı";
+
+/* TODO */
+"View Logs: Network Storage" = "View Logs: Network Storage";
+
+/* TODO */
+"View Logs: Speech Utterance" = "View Logs: Speech Utterance";
+
+/* TODO */
+"View Logs: System Audio" = "View Logs: System Audio";
+
+/* TODO */
+"View Logs: Voice Memo" = "View Logs: Voice Memo";
+
+/* No comment provided by engineer. */
+"View My Account" = "Hesabımı Görüntüle";
+
+/* No comment provided by engineer. */
+"View Recording Details" = "Kayıt Detaylarını Görüntüle";
+
+/* No comment provided by engineer. */
+"VIP contacts will always be recorded and added to the favourites." = "VIP kişiler her zaman kaydedilecek ve favorilere eklenecektir.";
+
+/* TODO */
+"Voice Memo" = "Voice Memo";
+
+/* TODO */
+"Voice Memo Recording" = "Voice Memo Recording";
+
+/* TODO */
+"voice memo recording" = "voice memo recording";
+
+/* TODO */
+"Voice Memos" = "Voice Memos";
+
+/* No comment provided by engineer. */
+"voice-over" = "seslendirme";
+
+/* No comment provided by engineer. */
+"Voice-Over Voice" = "Seslendirme Sesi";
+
+/* TODO */
+"VoIP" = "VoIP";
+
+/* TODO */
+"Volume" = "Volume";
+
+/* No comment provided by engineer. */
+"wait" = "bekle";
+
+/* TODO */
+"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+
+/* No comment provided by engineer. */
+"Wait for any calls to be answered and connected." = "Herhangi bir aramanın cevaplanıp bağlanmasını bekleyin.";
+
+/* TODO */
+"Wait for Calls" = "Wait for Calls";
+
+/* No comment provided by engineer. */
+"Wait for Connected Calls" = "Bağlı Aramaları Bekle";
+
+/* No comment provided by engineer. */
+"Warning, your call is being recorded now. Warning, your call is being recorded now." = "Uyarı, görüşmeniz şu anda kaydediliyor. Uyarı, görüşmeniz şu anda kaydediliyor.";
+
+/* No comment provided by engineer. */
+"Waveform Audio" = "Dalga Formu Ses";
+
+/* TODO */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed.";
+
+/* TODO */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
+
+/* No comment provided by engineer. */
+"We love colorful and moving backgrounds, but option here for you to disable it." = "Renkli ve hareketli arka planları seviyoruz ama burada devre dışı bırakma seçeneğiniz var.";
+
+/* No comment provided by engineer. */
+"WebDAV" = "WebDAV";
+
+/* No comment provided by engineer. */
+"WebDAV Server" = "WebDAV Sunucusu";
+
+/* No comment provided by engineer. */
+"WeChat" = "WeChat";
+
+/* TODO */
+"WeChat Assistant" = "WeChat Assistant";
+
+/* No comment provided by engineer. */
+"Welcome to" = "Hoş Geldiniz";
+
+/* No comment provided by engineer. */
+"We’re recording system audio in the background." = "Arka planda sistem sesini kaydediyoruz.";
+
+/* No comment provided by engineer. */
+"We’re recording your voice memo in the background." = "Arka planda sesli notunuzu kaydediyoruz.";
+
+/* No comment provided by engineer. */
+"We’ve got a new phone call recording!" = "Yeni bir telefon görüşmesi kaydımız var!";
+
+/* No comment provided by engineer. */
+"We’ve got a new system audio recording!" = "Yeni bir ses kayıt sistemimiz var.!";
+
+/* No comment provided by engineer. */
+"We’ve got a new voice memo!" = "Yeni bir sesli notumuz var.!";
+
+/* No comment provided by engineer. */
+"We’ve got new phone call recordings!" = "Yeni telefon görüşmesi kayıtlarımız var!";
+
+/* TODO */
+"What’s New" = "What’s New";
+
+/* No comment provided by engineer. */
+"When any of the following actions is triggered, run the shortcut without any notification." = "Aşağıdaki eylemlerden herhangi biri tetiklendiğinde, herhangi bir bildirim olmadan kısayolu çalıştırın.";
+
+/* No comment provided by engineer. */
+"When Foreground" = "Ön Plan Ne Zaman";
+
+/* No comment provided by engineer. */
+"When Locked" = "Kilitliyken";
+
+/* No comment provided by engineer. */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "WLAN'a bağlı değilken kayıt aktarımı için mobil ağ kullanın. Ek ücretler uygulanabilir.";
+
+/* TODO */
+"When there is no call…" = "When there is no call…";
+
+/* TODO */
+"When Visible" = "When Visible";
+
+/* No comment provided by engineer. */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "WebDAV sunucusu etkinleştirildiğinde, Safari, Chrome, Edge vb. gibi yaygın bir web tarayıcısından ziyaret etmenize izin verilip verilmeyeceği.";
+
+/* No comment provided by engineer. */
+"Whether to force the application to use the light or the dark user interface." = "Uygulamanın açık veya koyu kullanıcı arayüzü kullanmasını zorla.";
+
+/* No comment provided by engineer. */
+"Whether to force the hoverball to use the light or the dark style." = "Hoverball'ın açık veya koyu stil kullanmasını zorla.";
+
+/* No comment provided by engineer. */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Sesin sonsuza kadar tekrar oynatılıp oynatılmayacağı. Etkinleştirilirse, bu eylem çalmaya başladıktan hemen sonra geri döner.";
+
+/* No comment provided by engineer. */
+"Which channel to mute." = "Hangi kanalın sesinin kapatılacağı.";
+
+/* No comment provided by engineer. */
+"Which channel to unmute." = "Hangi kanalın sesini açmalı.";
+
+/* No comment provided by engineer. */
+"Which edges of the screen the hoverball can be attached to." = "Hoverball'ın ekranın hangi kenarlarına tutturulabileceği.";
+
+/* No comment provided by engineer. */
+"Why don’t you make a phone call?" = "Neden telefon görüşmesi yapmıyorsunuz?";
+
+/* No comment provided by engineer. */
+"Will start recording automatically on audio or video calls in the current application." = "Mevcut uygulamadaki sesli veya görüntülü aramalarda otomatik olarak kayıt başlatacak.";
+
+/* No comment provided by engineer. */
+"Will start recording automatically on audio or video calls." = "Sesli veya görüntülü aramalarda otomatik olarak kayıt başlatacak.";
+
+/* No comment provided by engineer. */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Dışa aktarılan ses dosyalarına başlık, sanatçı, albüm, tür, yıl ve kapak resmi dahil ID3 etiketleri yaz.";
+
+/* No comment provided by engineer. */
+"Write latitude and longitude to the recording metadata." = "Enlem ve boylam bilgilerini kayıt meta verilerine yaz.";
+
+/* No comment provided by engineer. */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Çalışma zamanı günlüklerini dosya sistemine yaz. Değişiklikleri uygulamak için servisleri yeniden başlatmalısınız.";
+
+/* No comment provided by engineer. */
+"Year Month Day" = "Yıl Ay Gün";
+
+/* No comment provided by engineer. */
+"YES" = "EVET";
+
+/* TODO */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!";
+
+/* TODO */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements.";
+
+/* TODO */
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording.";
+
+/* TODO */
+"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect.";
+
+/* TODO */
+"You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
+
+/* No comment provided by engineer. */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+
+/* TODO */
+"You’re now using the free version of “TrollRecorder JB”." = "You’re now using the free version of “TrollRecorder JB”.";
+
+/* TODO */
+"You’re now using the free version of “TrollRecorder”." = "You’re now using the free version of “TrollRecorder”.";
+
+/* TODO */
+"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+
+/* TODO */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates.";
+
+/* TODO */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available.";
+
+/* TODO */
+"You’ve enabled biometric authentication so it’s required to verify your identity." = "You’ve enabled biometric authentication so it’s required to verify your identity.";
+
+/* TODO */
+"You’ve pressed cancel." = "You’ve pressed cancel.";
+
+/* TODO */
+"You’ve pressed password." = "You’ve pressed password.";
+
+/* TODO */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* TODO */
+"½ Audio CD" = "½ Audio CD";
+
+/* TODO */
+"“%@” is not available." = "“%@” is not available.";
+
+/* TODO */
+"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
+
+/* TODO */
+"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
+
+/* TODO */
+"“Background App Refresh” Permission Denied" = "“Background App Refresh” Permission Denied";
+
+/* TODO */
+"“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
+
+/* TODO */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
+
+/* TODO */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore.";
+
+/* TODO */
+"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";
