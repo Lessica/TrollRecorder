@@ -12,6 +12,7 @@ available_languages = [
     'es',
     'fr',
     'ko',
+    'tr',
     'ug-CN',
     'vi',
     'zh-Hans',
