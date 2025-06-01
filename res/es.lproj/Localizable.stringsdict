@@ -11,9 +11,9 @@
             <key>NSStringFormatSpecTypeKey</key>
             <string>NSStringPluralRuleType</string>
             <key>one</key>
-            <string>Content Type</string>
+            <string>Tipo de contenido</string>
             <key>other</key>
-            <string>Content Types</string>
+            <string>Tipos de contenido</string>
         </dict>
     </dict>
     <key>%lld content types</key>
@@ -27,11 +27,11 @@
             <key>NSStringFormatValueTypeKey</key>
             <string>lld</string>
             <key>zero</key>
-            <string>%lld content types</string>
+            <string>%lld tipos de contenido</string>
             <key>one</key>
-            <string>%lld content type</string>
+            <string>%lld tipo de contenido</string>
             <key>other</key>
-            <string>%lld content types</string>
+            <string>%lld tipos de contenido</string>
         </dict>
     </dict>
     <key>Information Field</key>
@@ -43,9 +43,9 @@
             <key>NSStringFormatSpecTypeKey</key>
             <string>NSStringPluralRuleType</string>
             <key>one</key>
-            <string>Information Field</string>
+            <string>Campo de información</string>
             <key>other</key>
-            <string>Information Fields</string>
+            <string>Campos de información</string>
         </dict>
     </dict>
     <key>%lld fields</key>
@@ -59,11 +59,11 @@
             <key>NSStringFormatValueTypeKey</key>
             <string>lld</string>
             <key>zero</key>
-            <string>%lld fields</string>
+            <string>%lld campos</string>
             <key>one</key>
-            <string>%lld field</string>
+            <string>%lld campo</string>
             <key>other</key>
-            <string>%lld fields</string>
+            <string>%lld campos</string>
         </dict>
     </dict>
     <key>Voice Channel</key>
@@ -75,9 +75,9 @@
             <key>NSStringFormatSpecTypeKey</key>
             <string>NSStringPluralRuleType</string>
             <key>one</key>
-            <string>Voice Channel</string>
+            <string>Canal de voz</string>
             <key>other</key>
-            <string>Voice Channels</string>
+            <string>Canales de voz</string>
         </dict>
     </dict>
     <key>%lld channels</key>
@@ -91,11 +91,11 @@
             <key>NSStringFormatValueTypeKey</key>
             <string>lld</string>
             <key>zero</key>
-            <string>%lld channels</string>
+            <string>%lld canales</string>
             <key>one</key>
-            <string>%lld channel</string>
+            <string>%lld canal</string>
             <key>other</key>
-            <string>%lld channels</string>
+            <string>%lld canales</string>
         </dict>
     </dict>
 </dict>

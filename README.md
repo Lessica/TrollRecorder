@@ -45,6 +45,7 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 - Turkish by [**Altay T.**](https://x.com/yamenhuu)
 - Uyghur by **BlacЖinG**
 - Vietnamese by [@2311WithLuv](https://www.facebook.com/If2019)
+- Russian by **Card Holder**
 
 ## Localization
 

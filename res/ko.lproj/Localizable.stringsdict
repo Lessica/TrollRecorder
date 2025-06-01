@@ -16,23 +16,23 @@
             <string>정보 필드</string>
         </dict>
     </dict>
-	<key>%lld fields</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@VARIABLE@</string>
-		<key>VARIABLE</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
+    <key>%lld fields</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
             <string>lld</string>
-			<key>zero</key>
-			<string>%lld개 항목</string>
-			<key>one</key>
-			<string>%lld개 항목</string>
-			<key>other</key>
-			<string>%lld개 항목</string>
-		</dict>
-	</dict>
+            <key>zero</key>
+            <string>%lld개 항목</string>
+            <key>one</key>
+            <string>%lld개 항목</string>
+            <key>other</key>
+            <string>%lld개 항목</string>
+        </dict>
+    </dict>
 </dict>
 </plist>

@@ -2,101 +2,101 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>%lld channels</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@VARIABLE@</string>
-		<key>VARIABLE</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>lld</string>
-			<key>one</key>
-			<string>%lld kanal</string>
-			<key>other</key>
-			<string>%lld kanallar</string>
-			<key>zero</key>
-			<string>%lld kanallar</string>
-		</dict>
-	</dict>
-	<key>%lld content types</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@VARIABLE@</string>
-		<key>VARIABLE</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>lld</string>
-			<key>one</key>
-			<string>%lld İçerik Tipi</string>
-			<key>other</key>
-			<string>%lld İçerik türleri</string>
-			<key>zero</key>
-			<string>%lld i̇çeri̇k türleri̇</string>
-		</dict>
-	</dict>
-	<key>%lld fields</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@VARIABLE@</string>
-		<key>VARIABLE</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>lld</string>
-			<key>one</key>
-			<string>%lld Alan</string>
-			<key>other</key>
-			<string>%lld Alanlar</string>
-			<key>zero</key>
-			<string>%lld Alanlar</string>
-		</dict>
-	</dict>
-	<key>Content Type</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@VARIABLE@</string>
-		<key>VARIABLE</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>one</key>
-			<string>İçerik türü</string>
-			<key>other</key>
-			<string>İçerik türleri</string>
-		</dict>
-	</dict>
-	<key>Information Field</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@VARIABLE@</string>
-		<key>VARIABLE</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>one</key>
-			<string>Bilgi Alanı</string>
-			<key>other</key>
-			<string>Bilgi Alanları</string>
-		</dict>
-	</dict>
-	<key>Voice Channel</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@VARIABLE@</string>
-		<key>VARIABLE</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>one</key>
-			<string>Ses kanalı</string>
-			<key>other</key>
-			<string>Ses kanalları</string>
-		</dict>
-	</dict>
+    <key>%lld channels</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+            <key>one</key>
+            <string>%lld kanal</string>
+            <key>other</key>
+            <string>%lld kanallar</string>
+            <key>zero</key>
+            <string>%lld kanallar</string>
+        </dict>
+    </dict>
+    <key>%lld content types</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+            <key>one</key>
+            <string>%lld İçerik Tipi</string>
+            <key>other</key>
+            <string>%lld İçerik türleri</string>
+            <key>zero</key>
+            <string>%lld i̇çeri̇k türleri̇</string>
+        </dict>
+    </dict>
+    <key>%lld fields</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+            <key>one</key>
+            <string>%lld Alan</string>
+            <key>other</key>
+            <string>%lld Alanlar</string>
+            <key>zero</key>
+            <string>%lld Alanlar</string>
+        </dict>
+    </dict>
+    <key>Content Type</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>İçerik türü</string>
+            <key>other</key>
+            <string>İçerik türleri</string>
+        </dict>
+    </dict>
+    <key>Information Field</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>Bilgi Alanı</string>
+            <key>other</key>
+            <string>Bilgi Alanları</string>
+        </dict>
+    </dict>
+    <key>Voice Channel</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>Ses kanalı</string>
+            <key>other</key>
+            <string>Ses kanalları</string>
+        </dict>
+    </dict>
 </dict>
 </plist>

@@ -11,9 +11,13 @@
             <key>NSStringFormatSpecTypeKey</key>
             <string>NSStringPluralRuleType</string>
             <key>one</key>
-            <string>Content Type</string>
+            <string>Тип контента</string>
+            <key>few</key>
+            <string>Типы контента</string>
+            <key>many</key>
+            <string>Типы контента</string>
             <key>other</key>
-            <string>Content Types</string>
+            <string>Типы контента</string>
         </dict>
     </dict>
     <key>%lld content types</key>
@@ -27,11 +31,15 @@
             <key>NSStringFormatValueTypeKey</key>
             <string>lld</string>
             <key>zero</key>
-            <string>%lld content types</string>
+            <string>%lld типов контента</string>
             <key>one</key>
-            <string>%lld content type</string>
+            <string>%lld тип контента</string>
+            <key>few</key>
+            <string>%lld типа контента</string>
+            <key>many</key>
+            <string>%lld типов контента</string>
             <key>other</key>
-            <string>%lld content types</string>
+            <string>%lld типов контента</string>
         </dict>
     </dict>
     <key>Information Field</key>
@@ -43,9 +51,13 @@
             <key>NSStringFormatSpecTypeKey</key>
             <string>NSStringPluralRuleType</string>
             <key>one</key>
-            <string>Information Field</string>
+            <string>Информационное поле</string>
+            <key>few</key>
+            <string>Информационные поля</string>
+            <key>many</key>
+            <string>Информационные поля</string>
             <key>other</key>
-            <string>Information Fields</string>
+            <string>Информационные поля</string>
         </dict>
     </dict>
     <key>%lld fields</key>
@@ -59,11 +71,15 @@
             <key>NSStringFormatValueTypeKey</key>
             <string>lld</string>
             <key>zero</key>
-            <string>%lld fields</string>
+            <string>%lld полей</string>
             <key>one</key>
-            <string>%lld field</string>
+            <string>%lld поле</string>
+            <key>few</key>
+            <string>%lld поля</string>
+            <key>many</key>
+            <string>%lld полей</string>
             <key>other</key>
-            <string>%lld fields</string>
+            <string>%lld полей</string>
         </dict>
     </dict>
     <key>Voice Channel</key>
@@ -75,9 +91,13 @@
             <key>NSStringFormatSpecTypeKey</key>
             <string>NSStringPluralRuleType</string>
             <key>one</key>
-            <string>Voice Channel</string>
+            <string>Голосовой канал</string>
+            <key>few</key>
+            <string>Голосовые каналы</string>
+            <key>many</key>
+            <string>Голосовые каналы</string>
             <key>other</key>
-            <string>Voice Channels</string>
+            <string>Голосовые каналы</string>
         </dict>
     </dict>
     <key>%lld channels</key>
@@ -91,11 +111,15 @@
             <key>NSStringFormatValueTypeKey</key>
             <string>lld</string>
             <key>zero</key>
-            <string>%lld channels</string>
+            <string>%lld каналов</string>
             <key>one</key>
-            <string>%lld channel</string>
+            <string>%lld канал</string>
+            <key>few</key>
+            <string>%lld канала</string>
+            <key>many</key>
+            <string>%lld каналов</string>
             <key>other</key>
-            <string>%lld channels</string>
+            <string>%lld каналов</string>
         </dict>
     </dict>
 </dict>

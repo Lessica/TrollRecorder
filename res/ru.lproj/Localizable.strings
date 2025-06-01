@@ -1,0 +1,3332 @@
+/* No comment provided by engineer. */
+"%@ Hz" = "%@ Hz";
+
+/* No comment provided by engineer. */
+"%@ is locked." = "%@ заблокирован.";
+
+/* No comment provided by engineer. */
+"%@ is not available." = "%@ недоступен.";
+
+/* No comment provided by engineer. */
+"%@ is not implemented yet." = "%@ ещё не реализовано.";
+
+/* No comment provided by engineer. */
+"%@ is not set up." = "%@ не настроен.";
+
+/* No comment provided by engineer. */
+"%@ may not be configured" = "%@ может быть не настроен";
+
+/* No comment provided by engineer. */
+"%@ rows not loaded" = "%@ строк не загружено";
+
+/* No comment provided by engineer. */
+"%d Exclusive Features" = "%d эксклюзивных функций";
+
+/* No comment provided by engineer. */
+"%ld Recording" = "%ld запись";
+
+/* No comment provided by engineer. */
+"%ld Recording ◇ %@" = "%ld запись ◇ %@";
+
+/* No comment provided by engineer. */
+"%ld Recordings" = "%ld записей";
+
+/* No comment provided by engineer. */
+"%ld Recordings ◇ %@" = "%ld записей ◇ %@";
+
+/* No comment provided by engineer. */
+"(%lu bytes)" = "(%lu байт)";
+
+/* No comment provided by engineer. */
+"(%lu items)" = "(%lu элементов)";
+
+/* No comment provided by engineer. */
+"(null)" = "(null)";
+
+/* No comment provided by engineer. */
+"--arg=value" = "--arg=значение";
+
+/* No comment provided by engineer. */
+"3 Seconds" = "3 секунды";
+
+/* No comment provided by engineer. */
+"30 Days Ago" = "30 дней назад";
+
+/* No comment provided by engineer. */
+"4 Seconds" = "4 секунды";
+
+/* No comment provided by engineer. */
+"45 Days Ago" = "45 дней назад";
+
+/* No comment provided by engineer. */
+"5 Seconds" = "5 секунд";
+
+/* No comment provided by engineer. */
+"6 Seconds" = "6 секунд";
+
+/* No comment provided by engineer. */
+"90 Days Ago" = "90 дней назад";
+
+/* No comment provided by engineer. */
+"<%@: %p>" = "<%@: %p>";
+
+/* No comment provided by engineer. */
+"A new version (%@) of “TrollRecorder” is available." = "Доступна новая версия (%@) «TrollRecorder».";
+
+/* No comment provided by engineer. */
+"A resping is required to completely apply the changes." = "Для применения изменений требуется respring.";
+
+/* No comment provided by engineer. */
+"A widget is required for the “Launch Shield” feature." = "Для функции «Launch Shield» требуется виджет.";
+
+/* No comment provided by engineer. */
+"accept" = "принять";
+
+/* No comment provided by engineer. */
+"Accept all incoming calls automatically." = "Автоматически принимать все входящие звонки.";
+
+/* No comment provided by engineer. */
+"Accept Incoming Calls" = "Принимать входящие звонки";
+
+/* No comment provided by engineer. */
+"Access From Web Browser" = "Доступ из браузера";
+
+/* No comment provided by engineer. */
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Доступ к записям через WebDAV-браузер с другого устройства в сети. Сервер активен только когда приложение на переднем плане.";
+
+/* No comment provided by engineer. */
+"activate" = "активировать";
+
+/* No comment provided by engineer. */
+"Activate the recorder hoverball." = "Активировать плавающую кнопку записи.";
+
+/* No comment provided by engineer. */
+"Add" = "Добавить";
+
+/* No comment provided by engineer. */
+"Add Now" = "Добавить сейчас";
+
+/* No comment provided by engineer. */
+"Add Required Widget" = "Добавить необходимый виджет";
+
+/* No comment provided by engineer. */
+"Additional command-line options for the Rclone synchronization tool." = "Дополнительные параметры командной строки для инструмента синхронизации Rclone.";
+
+/* No comment provided by engineer. */
+"Additional Contact" = "Дополнительный контакт";
+
+/* No comment provided by engineer. */
+"Adequate" = "Adequate";
+
+/* No comment provided by engineer. */
+"Advanced Audio Coding" = "Advanced Audio Coding (AAC)";
+
+/* No comment provided by engineer. */
+"Advanced Options" = "Дополнительные настройки";
+
+/* No comment provided by engineer. */
+"Advanced Search" = "Расширенный поиск";
+
+/* No comment provided by engineer. */
+"After %@" = "После %@";
+
+/* No comment provided by engineer. */
+"Agree" = "Согласен";
+
+/* No comment provided by engineer. */
+"Alias" = "Псевдоним";
+
+/* No comment provided by engineer. */
+"alive" = "активен";
+
+/* No comment provided by engineer. */
+"All Edges" = "Все границы";
+
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Логи хранятся 7 дней. Устаревшие логи удаляются автоматически.";
+
+/* No comment provided by engineer. */
+"Allow Access to Call History" = "Разрешить доступ к истории звонков";
+
+/* No comment provided by engineer. */
+"Allow Automatic Recording" = "Разрешить автоматическую запись";
+
+/* No comment provided by engineer. */
+"Allow Hoverball Wake-Ups" = "Разрешить пробуждение плавающей кнопки";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Разрешить чтение списка контактов WeChat и истории VoIP-звонков для подстановки имён в записях. Поддерживаются только свежие версии WeChat.";
+
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Разрешить запись звонков на устройствах с вашим iCloud, когда они рядом и в сети Wi-Fi.";
+
+/* No comment provided by engineer. */
+"Always" = "Всегда";
+
+/* No comment provided by engineer. */
+"Always Dark" = "Всегда тёмная";
+
+/* No comment provided by engineer. */
+"Always Dynamic" = "Всегда динамическая";
+
+/* No comment provided by engineer. */
+"Always Fold" = "Всегда свёрнуто";
+
+/* No comment provided by engineer. */
+"Always keep the hoverball window visible." = "Всегда держать плавающую кнопку видимой.";
+
+/* No comment provided by engineer. */
+"Always Keep-Alive in Background" = "Всегда активен в фоне";
+
+/* No comment provided by engineer. */
+"Always Light" = "Всегда светлая";
+
+/* No comment provided by engineer. */
+"Always On" = "Всегда включён";
+
+/* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "Всегда планировать фоновые задачи на ближайшее доступное время.";
+
+/* No comment provided by engineer. */
+"AM/PM String" = "AM/PM строка";
+
+/* No comment provided by engineer. */
+"An unknown error occurred." = "Произошла неизвестная ошибка.";
+
+/* No comment provided by engineer. */
+"Analysing Audio" = "Анализ аудио";
+
+/* No comment provided by engineer. */
+"Another %@ is required to continue editing. Available capacity is %@." = "Требуется ещё %1$@ для редактирования. Доступно %2$@.";
+
+/* No comment provided by engineer. */
+"answer" = "ответить";
+
+/* No comment provided by engineer. */
+"answered" = "отвечен";
+
+/* No comment provided by engineer. */
+"Any" = "Любой";
+
+/* No comment provided by engineer. */
+"App Icon" = "Иконка приложения";
+
+/* No comment provided by engineer. */
+"App Language" = "Язык приложения";
+
+/* No comment provided by engineer. */
+"Appearance" = "Внешний вид";
+
+/* No comment provided by engineer. */
+"Apple’s Core Audio" = "Apple Core Audio";
+
+/* No comment provided by engineer. */
+"Application" = "Приложение";
+
+/* No comment provided by engineer. */
+"Application Overrides" = "Переопределения приложения";
+
+/* No comment provided by engineer. */
+"Applications" = "Приложения";
+
+/* No comment provided by engineer. */
+"archive" = "архив";
+
+/* No comment provided by engineer. */
+"Archive" = "Архив";
+
+/* No comment provided by engineer. */
+"Archive Regeneration" = "Пересоздание архива";
+
+/* No comment provided by engineer. */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Архив: используйте «Общий доступ» → «Своё имя экспорта» для переименования локальных записей и загрузки в облако. Восстановление невозможно.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to discard the changes you made?" = "Вы уверены, что хотите отменить изменения?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove all shortcut definitions?" = "Вы уверены, что хотите удалить все определения ярлыков?";
+
+/* No comment provided by engineer. */
+"Associate with Call History" = "Связать с историей звонков";
+
+/* No comment provided by engineer. */
+"At the end of recording, the audio files of each channel during recording are retained." = "После записи сохраняются аудиофайлы каждого канала.";
+
+/* No comment provided by engineer. */
+"Attachable Edges" = "Прикрепляемые границы";
+
+/* No comment provided by engineer. */
+"audio" = "аудио";
+
+/* No comment provided by engineer. */
+"Audio CD" = "Audio CD";
+
+/* No comment provided by engineer. */
+"Audio Compression" = "Сжатие аудио";
+
+/* No comment provided by engineer. */
+"Audio File" = "Аудиофайл";
+
+/* No comment provided by engineer. */
+"Audio played to %@" = "Аудио воспроизведено для %@";
+
+/* No comment provided by engineer. */
+"Audio progress" = "Прогресс аудио";
+
+/* No comment provided by engineer. */
+"Authenticate with %@" = "Аутентификация через %@";
+
+/* No comment provided by engineer. */
+"Authorization error: %@" = "Ошибка авторизации: %@";
+
+/* No comment provided by engineer. */
+"Authorization flow was manually canceled by user." = "Пользователь отменил процесс авторизации.";
+
+/* No comment provided by engineer. */
+"Authorize with Dropbox" = "Авторизоваться через Dropbox";
+
+/* No comment provided by engineer. */
+"Authorize with Google" = "Авторизоваться через Google";
+
+/* No comment provided by engineer. */
+"Authorize with Microsoft" = "Авторизоваться через Microsoft";
+
+/* No comment provided by engineer. */
+"Automatic" = "Автоматически";
+
+/* No comment provided by engineer. */
+"Automatic Recording" = "Автоматическая запись";
+
+/* No comment provided by engineer. */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Ежемесячно создавать копии смешанных записей и хранить в iCloud Drive. Записи текущего месяца не архивируются.";
+
+/* No comment provided by engineer. */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Автозапуск фоновых служб после перезагрузки. Для работы требуется виджет «TrollRecorder» на экране блокировки или главном.";
+
+/* No comment provided by engineer. */
+"Automatically merge microphone and speaker into a single file after record complete." = "Автоматически объединять микрофон и динамик в один файл после записи.";
+
+/* No comment provided by engineer. */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Автоматически перемещать плавающую кнопку, чтобы избежать клавиатуры.";
+
+/* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "Автоматически очищать корзину и удалять ошибочные кеши.";
+
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "Автоматически проверять новую версию на GitHub при запуске.";
+
+/* No comment provided by engineer. */
+"Automatically remove recordings created earlier than specified date except those marked ones." = "Автоматически удалять записи старше указанной даты, кроме помеченных.";
+
+/* No comment provided by engineer. */
+"Automatically stop recording when available disk space is extremely low." = "Автоматически останавливать запись при нехватке места.";
+
+/* No comment provided by engineer. */
+"Automatically Suspend in Background" = "Автоматически приостанавливать в фоне";
+
+/* No comment provided by engineer. */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Автоматически переходить на рабочий стол при разблокировке. Не срабатывает, если разблокировано в течение 10 секунд после блокировки.";
+
+/* No comment provided by engineer. */
+"Automation" = "Автоматизация";
+
+/* No comment provided by engineer. */
+"Avoid screen being locked automatically when WebDAV server is used by any client." = "Не блокировать экран при использовании WebDAV-сервера.";
+
+/* No comment provided by engineer. */
+"Background Style" = "Стиль фона";
+
+/* No comment provided by engineer. */
+"backup" = "резервная копия";
+
+/* No comment provided by engineer. */
+"Backup Synchronized" = "Резервная копия синхронизирована";
+
+/* No comment provided by engineer. */
+"Backup With iCloud" = "Резервная копия в iCloud";
+
+/* No comment provided by engineer. */
+"Batch Export" = "Пакетный экспорт";
+
+/* No comment provided by engineer. */
+"Before %@" = "До %@";
+
+/* No comment provided by engineer. */
+"Before starting a call recording, a prompt voice is played to the opposite end." = "Перед записью воспроизводится предупреждающее сообщение.";
+
+/* No comment provided by engineer. */
+"Beta" = "Бета";
+
+/* No comment provided by engineer. */
+"Bi-sync" = "Двусторонняя синхронизация";
+
+/* No comment provided by engineer. */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Двусторонняя синхронизация: синхронизация в обоих направлениях.";
+
+/* No comment provided by engineer. */
+"Biometric Authentication" = "Биометрическая аутентификация";
+
+/* No comment provided by engineer. */
+"Bonjour server started at: %@" = "Bonjour-сервер запущен: %@";
+
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "Ускорение периодических задач";
+
+/* No comment provided by engineer. */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (режим совместимости TrollStore)";
+
+/* No comment provided by engineer. */
+"Both (Microphone & Speaker)" = "Оба (микрофон и динамик)";
+
+/* No comment provided by engineer. */
+"bottom edge" = "нижняя граница";
+
+/* No comment provided by engineer. */
+"Build and use a custom export name template for exported audio files." = "Создать шаблон имени для экспортируемых аудиофайлов.";
+
+/* No comment provided by engineer. */
+"Bundle Display Name" = "Отображаемое имя пакета";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "Идентификатор пакета";
+
+/* No comment provided by engineer. */
+"Bundle Name" = "Имя пакета";
+
+/* No comment provided by engineer. */
+"Buy TrollRecorder Pro" = "Купить TrollRecorder Pro";
+
+/* No comment provided by engineer. */
+"Calculating…" = "Вычисление…";
+
+/* No comment provided by engineer. */
+"Call" = "Звонок";
+
+/* No comment provided by engineer. */
+"call" = "звонок";
+
+/* No comment provided by engineer. */
+"Call Direction" = "Направление звонка";
+
+/* No comment provided by engineer. */
+"Call Identifier" = "Идентификатор звонка";
+
+/* No comment provided by engineer. */
+"Call Recording" = "Запись звонка";
+
+/* No comment provided by engineer. */
+"Call Recording Begins" = "Начало записи звонка";
+
+/* No comment provided by engineer. */
+"Call Recording Ends" = "Конец записи звонка";
+
+/* No comment provided by engineer. */
+"Call recording from “%@” and other %ld applications." = "Запись звонков из «%@» и %ld других приложений.";
+
+/* No comment provided by engineer. */
+"Call recording from “%@”." = "Запись звонков из «%@».";
+
+/* No comment provided by engineer. */
+"Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Запись начинается только после ответа на звонок.";
+
+/* No comment provided by engineer. */
+"Call State" = "Состояние звонка";
+
+/* No comment provided by engineer. */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Запись возможна только при использовании микрофона этого устройства.";
+
+/* No comment provided by engineer. */
+"Camcorder" = "Camcorder";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отмена";
+
+/* No comment provided by engineer. */
+"Cannot parse text with UTF-8 encoding: “%@”." = "Не удалось разобрать текст в UTF-8: «%@».";
+
+/* No comment provided by engineer. */
+"Caution" = "Осторожно";
+
+/* No comment provided by engineer. */
+"check" = "проверить";
+
+/* No comment provided by engineer. */
+"Check if the daemon is running. If not, launch it." = "Проверить работу демона. Запустить, если не работает.";
+
+/* No comment provided by engineer. */
+"Check Updates" = "Проверить обновления";
+
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "Проверять обновления при запуске";
+
+/* No comment provided by engineer. */
+"Checking service status" = "Проверка статуса службы";
+
+/* No comment provided by engineer. */
+"Child Pages" = "Дочерние страницы";
+
+/* No comment provided by engineer. */
+"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Выберите формат аудио для микшера. Wave не поддерживает продвинутое кодирование.";
+
+/* No comment provided by engineer. */
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Выберите качество аудио. Высокое качество увеличивает размер файла.";
+
+/* No comment provided by engineer. */
+"Choose the output file format for the mixer." = "Выберите формат файла для микшера.";
+
+/* No comment provided by engineer. */
+"Choose the size preset of the hoverball." = "Выберите размер плавающей кнопки.";
+
+/* No comment provided by engineer. */
+"Clean Caches Automatically" = "Автоматически очищать кеш";
+
+/* No comment provided by engineer. */
+"Clear" = "Очистить";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "Снять выделение";
+
+/* No comment provided by engineer. */
+"Clear Wave Caches" = "Очистить кеш волн";
+
+/* No comment provided by engineer. */
+"Close" = "Закрыть";
+
+/* No comment provided by engineer. */
+"Collapse Recursively" = "Свернуть рекурсивно";
+
+/* No comment provided by engineer. */
+"Collecting" = "Сбор";
+
+/* No comment provided by engineer. */
+"Combined" = "Объединённый";
+
+/* No comment provided by engineer. */
+"Combined Mode" = "Объединённый режим";
+
+/* No comment provided by engineer. */
+"Compiled at %@" = "Собрано %@";
+
+/* No comment provided by engineer. */
+"Compress Recording" = "Сжимать запись";
+
+/* No comment provided by engineer. */
+"Configure the embedded client with your WebDAV server address, username and password." = "Настройте клиент WebDAV: адрес сервера, имя пользователя и пароль.";
+
+/* No comment provided by engineer. */
+"Configure WebDAV Client" = "Настроить WebDAV-клиент";
+
+/* No comment provided by engineer. */
+"Confirm" = "Подтвердить";
+
+/* No comment provided by engineer. */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Подтвердите аккаунт Havoc — это единственное доказательство покупки. Не нажимайте на иконку подарка при оплате.";
+
+/* No comment provided by engineer. */
+"connected" = "подключён";
+
+/* No comment provided by engineer. */
+"Connected Clients: %d" = "Подключённые клиенты: %d";
+
+/* No comment provided by engineer. */
+"Connection" = "Подключение";
+
+/* No comment provided by engineer. */
+"Constants" = "Константы";
+
+/* No comment provided by engineer. */
+"Contact Exceptions" = "Исключения контактов";
+
+/* No comment provided by engineer. */
+"Contact Name" = "Имя контакта";
+
+/* No comment provided by engineer. */
+"Contact Phone Address" = "Телефон контакта";
+
+/* No comment provided by engineer. */
+"Contact Us" = "Связаться с нами";
+
+/* No comment provided by engineer. */
+"Contact via Discord" = "Discord";
+
+/* No comment provided by engineer. */
+"Contact via Email" = "Email";
+
+/* No comment provided by engineer. */
+"Contact via QQ" = "QQ";
+
+/* No comment provided by engineer. */
+"Contacts" = "Контакты";
+
+/* No comment provided by engineer. */
+"Contacts in this list will not be recorded in any situation." = "Контакты из этого списка не будут записываться.";
+
+/* No comment provided by engineer. */
+"Contacts Permission Denied" = "Доступ к контактам запрещён";
+
+/* No comment provided by engineer. */
+"Content" = "Содержание";
+
+/* No comment provided by engineer. */
+"Content Sharing" = "Общий доступ";
+
+/* No comment provided by engineer. */
+"Continue" = "Продолжить";
+
+/* No comment provided by engineer. */
+"Conversion Failed" = "Ошибка преобразования";
+
+/* No comment provided by engineer. */
+"Conversion Succeed" = "Преобразование успешно";
+
+/* No comment provided by engineer. */
+"Convert latitude and longitude to human-readable address." = "Преобразовать координаты в читаемый адрес.";
+
+/* No comment provided by engineer. */
+"Convert Now" = "Преобразовать сейчас";
+
+/* No comment provided by engineer. */
+"Converting" = "Преобразование";
+
+/* No comment provided by engineer. */
+"Copied" = "Скопировано";
+
+/* No comment provided by engineer. */
+"Copied Transcript" = "Транскрипт скопирован";
+
+/* No comment provided by engineer. */
+"Copy" = "Копировать";
+
+/* No comment provided by engineer. */
+"Copy Key" = "Копировать ключ";
+
+/* No comment provided by engineer. */
+"Copy Path" = "Копировать путь";
+
+/* No comment provided by engineer. */
+"Copy Transcript" = "Копировать транскрипт";
+
+/* No comment provided by engineer. */
+"Copy Value" = "Копировать значение";
+
+/* No comment provided by engineer. */
+"Could not acquire token: %@" = "Не удалось получить токен: %@";
+
+/* No comment provided by engineer. */
+"Could not acquire token: No result returned." = "Не удалось получить токен: нет результата.";
+
+/* No comment provided by engineer. */
+"Could not get graph result: %@" = "Не удалось получить результат графа: %@";
+
+/* No comment provided by engineer. */
+"Could not sign out account: %@" = "Не удалось выйти из аккаунта: %@";
+
+/* No comment provided by engineer. */
+"Create Archive" = "Создать архив";
+
+/* No comment provided by engineer. */
+"Created At" = "Создано";
+
+/* No comment provided by engineer. */
+"Credentials" = "Учётные данные";
+
+/* No comment provided by engineer. */
+"Custom CLI Options" = "Свои параметры CLI";
+
+/* No comment provided by engineer. */
+"Custom Export Name" = "Своё имя экспорта";
+
+/* No comment provided by engineer. */
+"Custom Key Combination…" = "Своя комбинация клавиш…";
+
+/* No comment provided by engineer. */
+"Custom Layout Guide" = "Настроить направляющие";
+
+/* No comment provided by engineer. */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Настройте область для позиционирования плавающей кнопки.";
+
+/* No comment provided by engineer. */
+"daemon" = "демон";
+
+/* No comment provided by engineer. */
+"Daily Arranged" = "Ежедневно";
+
+/* No comment provided by engineer. */
+"Date & Time" = "Дата и время";
+
+/* No comment provided by engineer. */
+"Day of Month Number" = "Число месяца";
+
+/* No comment provided by engineer. */
+"Day of Week String" = "День недели";
+
+/* No comment provided by engineer. */
+"deactivate" = "деактивировать";
+
+/* No comment provided by engineer. */
+"Deactivate" = "Деактивировать";
+
+/* No comment provided by engineer. */
+"Deactivate & Sign Out" = "Деактивировать и выйти";
+
+/* No comment provided by engineer. */
+"Deactivate the recorder hoverball." = "Деактивировать плавающую кнопку записи.";
+
+/* No comment provided by engineer. */
+"Debugging" = "Отладка";
+
+/* No comment provided by engineer. */
+"decline" = "отклонить";
+
+/* No comment provided by engineer. */
+"Decoding" = "Декодирование";
+
+/* No comment provided by engineer. */
+"Default" = "По умолчанию";
+
+/* No comment provided by engineer. */
+"Delete" = "Удалить";
+
+/* No comment provided by engineer. */
+"Delete Recording" = "Удалить запись";
+
+/* No comment provided by engineer. */
+"Delete Selected %ld Items" = "Удалить выбранные %ld элементов";
+
+/* No comment provided by engineer. */
+"Delete Selected Item" = "Удалить выбранный элемент";
+
+/* No comment provided by engineer. */
+"Deleting" = "Удаление";
+
+/* No comment provided by engineer. */
+"Deselect All" = "Снять все выделения";
+
+/* No comment provided by engineer. */
+"Detail Only" = "Только детали";
+
+/* No comment provided by engineer. */
+"Developer Options" = "Настройки разработчика";
+
+/* No comment provided by engineer. */
+"Digital Video" = "Digital Video";
+
+/* No comment provided by engineer. */
+"Direction" = "Направление";
+
+/* No comment provided by engineer. */
+"Direction Capitalized" = "Направление (с заглавной)";
+
+/* No comment provided by engineer. */
+"Direction Description" = "Описание направления";
+
+/* No comment provided by engineer. */
+"directory" = "директория";
+
+/* No comment provided by engineer. */
+"Directory" = "Директория";
+
+/* No comment provided by engineer. */
+"Directory not found." = "Директория не найдена.";
+
+/* No comment provided by engineer. */
+"Disabled" = "Отключено";
+
+/* No comment provided by engineer. */
+"Disallow" = "Запретить";
+
+/* No comment provided by engineer. */
+"Disallow Automatic Recording" = "Запретить автоматическую запись";
+
+/* No comment provided by engineer. */
+"Disallow Hoverball Wake-Ups" = "Запретить пробуждение плавающей кнопки";
+
+/* No comment provided by engineer. */
+"Discard" = "Отменить";
+
+/* No comment provided by engineer. */
+"discard" = "отменить";
+
+/* No comment provided by engineer. */
+"Discard Changes" = "Отменить изменения";
+
+/* No comment provided by engineer. */
+"Discard Recording" = "Отменить запись";
+
+/* No comment provided by engineer. */
+"Discreet Mode" = "Скрытый режим";
+
+/* No comment provided by engineer. */
+"Discreet Voice Memos" = "Скрытые голосовые заметки";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Закрыть";
+
+/* No comment provided by engineer. */
+"Display a notification banner and play an audible notice." = "Показывать уведомление и воспроизводить звук.";
+
+/* No comment provided by engineer. */
+"Display a notification banner and update the badge above the application icon." = "Показывать уведомление и обновлять значок приложения.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording ends." = "Показывать уведомление при окончании записи.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording starts." = "Показывать уведомление при начале записи.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when the synchronization fails." = "Показывать уведомление при ошибке синхронизации.";
+
+/* No comment provided by engineer. */
+"Display the detail of recordings in the notification banner." = "Показывать детали записи в уведомлении.";
+
+/* No comment provided by engineer. */
+"Display the exact duration of the recorded audio." = "Показывать точную длительность аудио.";
+
+/* No comment provided by engineer. */
+"Display the hoverball during a call in the current application." = "Показывать плавающую кнопку во время звонка в текущем приложении.";
+
+/* No comment provided by engineer. */
+"Display the hoverball during a call." = "Показывать плавающую кнопку во время звонка.";
+
+/* No comment provided by engineer. */
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Показывать плавающую кнопку при активности аудиовходов и выходов.";
+
+/* No comment provided by engineer. */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Показывать плавающую кнопку при записи голосовой заметки или ручном запуске записи.";
+
+/* No comment provided by engineer. */
+"Display the name or description of each option." = "Показывать название или описание каждой опции.";
+
+/* No comment provided by engineer. */
+"Display the names of contacts in your address book instead of their phone numbers." = "Показывать имена контактов вместо номеров.";
+
+/* No comment provided by engineer. */
+"Display the path extension as the format of the recording." = "Показывать расширение файла как формат записи.";
+
+/* No comment provided by engineer. */
+"Display the preview images of the audio waveform of short recordings." = "Показывать превью волновой формы для коротких записей.";
+
+/* No comment provided by engineer. */
+"Display the short name of the SIM card used for the recording if available." = "Показывать название SIM-карты, если доступно.";
+
+/* No comment provided by engineer. */
+"Display the source bundle name of the recording." = "Показывать название исходного пакета записи.";
+
+/* No comment provided by engineer. */
+"Displays a local notification." = "Показывает локальное уведомление.";
+
+/* No comment provided by engineer. */
+"Do you want to clear this log file “%@”?" = "Очистить лог-файл «%@»?";
+
+/* No comment provided by engineer. */
+"Do you want to merge recordings with “%@”?" = "Объединить записи с «%@»?";
+
+/* No comment provided by engineer. */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Сбросить лицензию и настройки? Записи не будут удалены.";
+
+/* No comment provided by engineer. */
+"Done" = "Готово";
+
+/* No comment provided by engineer. */
+"Don’t ask again" = "Не спрашивать снова";
+
+/* No comment provided by engineer. */
+"Don’t Merge" = "Не объединять";
+
+/* No comment provided by engineer. */
+"Double tap to restore __all edges__  \nto their default sizes." = "Двойное нажатие сбросит __все границы__  \nк размерам по умолчанию.";
+
+/* No comment provided by engineer. */
+"Downlink (Speaker)" = "Исходящий (динамик)";
+
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Перетащите __сюда__, чтобы  \nизменить размер ___%@___.";
+
+/* No comment provided by engineer. */
+"Drive ID" = "ID диска";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
+
+/* No comment provided by engineer. */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Из-за ограничений среды попробуйте перезагрузку или сброс кеша иконок в TrollStore.";
+
+/* No comment provided by engineer. */
+"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Звонки без CallKit не активируют ярлыки, связанные со статусами.";
+
+/* No comment provided by engineer. */
+"Duration" = "Длительность";
+
+/* No comment provided by engineer. */
+"duration" = "длительность";
+
+/* No comment provided by engineer. */
+"Duration Before Idle" = "Длительность до бездействия";
+
+/* No comment provided by engineer. */
+"Duration Description" = "Описание длительности";
+
+/* No comment provided by engineer. */
+"Duration exceeded." = "Длительность превышена.";
+
+/* No comment provided by engineer. */
+"Dynamic Transition" = "Динамический переход";
+
+/* No comment provided by engineer. */
+"E.U.L.A." = "Лицензионное соглашение";
+
+/* No comment provided by engineer. */
+"Edit" = "Редактировать";
+
+/* No comment provided by engineer. */
+"Empty Trash" = "Очистить корзину";
+
+/* No comment provided by engineer. */
+"Empty Trash (%@)" = "Очистить корзину (%@)";
+
+/* No comment provided by engineer. */
+"Enable Biometric Authentication" = "Включить биометрическую аутентификацию";
+
+/* No comment provided by engineer. */
+"Enable Face ID" = "Включить Face ID";
+
+/* No comment provided by engineer. */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Включить индикатор уровня при свёрнутой кнопке. Доступно только при настройке «Сворачивать при бездействии».";
+
+/* No comment provided by engineer. */
+"Enable Logging" = "Включить логирование";
+
+/* No comment provided by engineer. */
+"Enable Optic ID" = "Включить Optic ID";
+
+/* No comment provided by engineer. */
+"Enable Touch ID" = "Включить Touch ID";
+
+/* No comment provided by engineer. */
+"Enable WebDAV Server" = "Включить WebDAV-сервер";
+
+/* No comment provided by engineer. */
+"Enabled" = "Включено";
+
+/* No comment provided by engineer. */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "WebDAV-сервер автоматически приостанавливается в фоне и возобновляется при возврате на передний план.";
+
+/* No comment provided by engineer. */
+"Encoding" = "Кодирование";
+
+/* No comment provided by engineer. */
+"End Date" = "Конечная дата";
+
+/* No comment provided by engineer. */
+"End Editing" = "Завершить редактирование";
+
+/* No comment provided by engineer. */
+"Enhance Recording" = "Улучшить запись";
+
+/* No comment provided by engineer. */
+"Enhanced Automatic Recording" = "Улучшенная автоматическая запись";
+
+/* No comment provided by engineer. */
+"Enhanced Scene Identification" = "Улучшенное определение сцены";
+
+/* No comment provided by engineer. */
+"Ensure Daemon Is Running" = "Убедиться, что демон работает";
+
+/* No comment provided by engineer. */
+"Enter your password" = "Введите пароль";
+
+/* No comment provided by engineer. */
+"Erase All" = "Стереть всё";
+
+/* No comment provided by engineer. */
+"Erase all recordings, reset all settings, and clear all caches completely." = "Удалить все записи, сбросить настройки и очистить кеш.";
+
+/* No comment provided by engineer. */
+"Erase Almost Completed" = "Стирание почти завершено";
+
+/* No comment provided by engineer. */
+"Erasing…" = "Стирание…";
+
+/* No comment provided by engineer. */
+"Error" = "Ошибка";
+
+/* No comment provided by engineer. */
+"Error from network storage" = "Ошибка сетевого хранилища";
+
+/* No comment provided by engineer. */
+"Error retrieving discovery document: %@" = "Ошибка получения документа: %@";
+
+/* No comment provided by engineer. */
+"exit" = "выход";
+
+/* No comment provided by engineer. */
+"Exit Hoverball" = "Закрыть плавающую кнопку";
+
+/* No comment provided by engineer. */
+"Expand Recursively" = "Развернуть рекурсивно";
+
+/* No comment provided by engineer. */
+"Export recordings to anywhere you want without limitations." = "Экспорт записей без ограничений.";
+
+/* No comment provided by engineer. */
+"Export to Anywhere" = "Экспорт куда угодно";
+
+/* No comment provided by engineer. */
+"Export with Metadata" = "Экспорт с метаданными";
+
+/* No comment provided by engineer. */
+"Exporting" = "Экспорт";
+
+/* No comment provided by engineer. */
+"FaceTime" = "FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime Audio";
+
+/* No comment provided by engineer. */
+"FaceTime Exclude List" = "Исключения FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime VIP" = "VIP FaceTime";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
+
+/* No comment provided by engineer. */
+"Failed to export %d recordings" = "Не удалось экспортировать %d записей";
+
+/* No comment provided by engineer. */
+"Failed to initialize speech recognizer using current locale “%@”." = "Не удалось инициализировать распознавание речи для локали «%@».";
+
+/* No comment provided by engineer. */
+"Failed to perform “%@” operation with service provider “%@”." = "Не удалось выполнить «%1$@» с провайдером «%2$@».";
+
+/* No comment provided by engineer. */
+"Failed to play: %@" = "Ошибка воспроизведения: %@";
+
+/* No comment provided by engineer. */
+"Failed to recover: %@" = "Ошибка восстановления: %@";
+
+/* No comment provided by engineer. */
+"Failed to remove: %@" = "Ошибка удаления: %@";
+
+/* No comment provided by engineer. */
+"Fatal error occurred. You may need to re-authorize to continue." = "Критическая ошибка. Может потребоваться повторная авторизация.";
+
+/* No comment provided by engineer. */
+"Features on this page are under active development, hang tight!" = "Функции на этой странице в разработке!";
+
+/* No comment provided by engineer. */
+"Features Unlocked" = "Функции разблокированы";
+
+/* No comment provided by engineer. */
+"file" = "файл";
+
+/* No comment provided by engineer. */
+"File Format" = "Формат файла";
+
+/* No comment provided by engineer. */
+"File not found." = "Файл не найден.";
+
+/* No comment provided by engineer. */
+"File Size" = "Размер файла";
+
+/* No comment provided by engineer. */
+"File System" = "Файловая система";
+
+/* No comment provided by engineer. */
+"Filter" = "Фильтр";
+
+/* No comment provided by engineer. */
+"Finalizing" = "Завершение";
+
+/* No comment provided by engineer. */
+"finish" = "завершить";
+
+/* No comment provided by engineer. */
+"Focus" = "Фокус";
+
+/* No comment provided by engineer. */
+"Fold When Inactive" = "Сворачивать при бездействии";
+
+/* No comment provided by engineer. */
+"Follow System" = "Как в системе";
+
+/* No comment provided by engineer. */
+"Force the app to use a specific language. Reopen to apply changes." = "Принудительно установить язык. Перезапустите для применения.";
+
+/* No comment provided by engineer. */
+"Format" = "Формат";
+
+/* No comment provided by engineer. */
+"Formatted Location" = "Форматированное местоположение";
+
+/* No comment provided by engineer. */
+"Forward 15 Seconds" = "Вперёд на 15 секунд";
+
+/* No comment provided by engineer. */
+"Frequently Asked Questions" = "Частые вопросы";
+
+/* No comment provided by engineer. */
+"From %@" = "От %@";
+
+/* No comment provided by engineer. */
+"From %@ to %@" = "От %1$@ до %2$@";
+
+/* No comment provided by engineer. */
+"From: %@" = "От: %@";
+
+/* No comment provided by engineer. */
+"From…" = "От…";
+
+/* No comment provided by engineer. */
+"Full" = "Полный";
+
+/* No comment provided by engineer. */
+"Full Date" = "Полная дата";
+
+/* No comment provided by engineer. */
+"Full Month Name" = "Полное название месяца";
+
+/* No comment provided by engineer. */
+"Full Time" = "Полное время";
+
+/* No comment provided by engineer. */
+"Full Year" = "Полный год";
+
+/* No comment provided by engineer. */
+"Get ${requestedField}" = "Получить ${requestedField}";
+
+/* No comment provided by engineer. */
+"Get advanced control when recording right in your call." = "Расширенное управление записью во время звонка.";
+
+/* No comment provided by engineer. */
+"Get Call Duration" = "Получить длительность звонка";
+
+/* No comment provided by engineer. */
+"Get Call Status" = "Получить статус звонка";
+
+/* No comment provided by engineer. */
+"Get In Touch" = "Связаться";
+
+/* No comment provided by engineer. */
+"Get notifications after record complete." = "Получать уведомления после записи.";
+
+/* No comment provided by engineer. */
+"Get Recording Duration" = "Получить длительность записи";
+
+/* No comment provided by engineer. */
+"Get Recording Paths" = "Получить пути записи";
+
+/* No comment provided by engineer. */
+"Get Recording Status" = "Получить статус записи";
+
+/* No comment provided by engineer. */
+"Get the current recording duration of the Troll Recorder." = "Получить текущую длительность записи Troll Recorder.";
+
+/* No comment provided by engineer. */
+"Get the current recording paths of the Troll Recorder." = "Получить текущие пути записи Troll Recorder.";
+
+/* No comment provided by engineer. */
+"Get the current recording status of the Troll Recorder." = "Получить текущий статус записи Troll Recorder.";
+
+/* No comment provided by engineer. */
+"Get the primary call duration of the device." = "Получить длительность текущего звонка.";
+
+/* No comment provided by engineer. */
+"Get the primary call status of the device." = "Получить статус текущего звонка.";
+
+/* No comment provided by engineer. */
+"Go Home When Unlocked" = "На главный экран при разблокировке";
+
+/* No comment provided by engineer. */
+"Google Drive" = "Google Диск";
+
+/* No comment provided by engineer. */
+"Group Call" = "Групповой звонок";
+
+/* No comment provided by engineer. */
+"Hide Hoverball" = "Скрыть плавающую кнопку";
+
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Скрыть «Голосовые заметки» с экрана блокировки и Dynamic Island. Может потребоваться respring.";
+
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Скрыть «Голосовые заметки» с экрана блокировки. Требуется инъекция через TrollFools.";
+
+/* No comment provided by engineer. */
+"Hide When Landscape" = "Скрывать в альбомной ориентации";
+
+/* No comment provided by engineer. */
+"Hide When Snapshot" = "Скрывать при скриншоте";
+
+/* No comment provided by engineer. */
+"Hours Minutes Seconds" = "Часы Минуты Секунды";
+
+/* No comment provided by engineer. */
+"Hours, 12-hour Clock" = "Часы (12-часовой формат)";
+
+/* No comment provided by engineer. */
+"Hours, 24-hour Clock" = "Часы (24-часовой формат)";
+
+/* No comment provided by engineer. */
+"Hoverball" = "Плавающая кнопка";
+
+/* No comment provided by engineer. */
+"Hoverball Plus" = "Hoverball Plus";
+
+/* No comment provided by engineer. */
+"Hoverball Size" = "Размер плавающей кнопки";
+
+/* No comment provided by engineer. */
+"Hoverball Style" = "Стиль плавающей кнопки";
+
+/* No comment provided by engineer. */
+"How would you like to call?" = "Как вы хотите позвонить?";
+
+/* No comment provided by engineer. */
+"hud" = "интерфейс";
+
+/* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "Запись звонка";
+
+/* No comment provided by engineer. */
+"Hyphen" = "Дефис";
+
+/* No comment provided by engineer. */
+"I Agree to the E.U.L.A." = "Я принимаю условия лицензии";
+
+/* No comment provided by engineer. */
+"icloud" = "iCloud";
+
+/* No comment provided by engineer. */
+"iCloud Drive" = "iCloud Диск";
+
+/* No comment provided by engineer. */
+"Idle" = "Бездействие";
+
+/* No comment provided by engineer. */
+"If there is something wrong with the search indexes, you can reset them here." = "Сбросить поисковые индексы при проблемах.";
+
+/* No comment provided by engineer. */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "При отсутствии звонка: удержание кнопки питания для действия.";
+
+/* No comment provided by engineer. */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "При отсутствии звонка: нажатие обеих кнопок громкости для действия.";
+
+/* No comment provided by engineer. */
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Для двух SIM-карт отображается псевдоним используемой карты.";
+
+/* No comment provided by engineer. */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Действие при успешной синхронизации резервной копии iCloud.";
+
+/* No comment provided by engineer. */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Игнорировать даты изменений и создать полные копии записей.";
+
+/* No comment provided by engineer. */
+"In 1 Hour" = "Через 1 час";
+
+/* No comment provided by engineer. */
+"In 15 Minutes" = "Через 15 минут";
+
+/* No comment provided by engineer. */
+"Inaccurate Time Detected" = "Обнаружено неточное время";
+
+/* No comment provided by engineer. */
+"Incoming" = "Входящий";
+
+/* No comment provided by engineer. */
+"incoming" = "входящий";
+
+/* No comment provided by engineer. */
+"Incoming Call" = "Входящий звонок";
+
+/* No comment provided by engineer. */
+"Incoming Call Answered" = "Входящий звонок принят";
+
+/* No comment provided by engineer. */
+"Incoming Call Hang Up" = "Входящий звонок сброшен";
+
+/* No comment provided by engineer. */
+"Incoming call recording from “%@” and other %ld applications." = "Запись входящего звонка из «%@» и %ld других приложений.";
+
+/* No comment provided by engineer. */
+"Incoming call recording from “%@”." = "Запись входящего звонка из «%@».";
+
+/* No comment provided by engineer. */
+"Inconsistency Found" = "Обнаружено несоответствие";
+
+/* No comment provided by engineer. */
+"Install" = "Установить";
+
+/* No comment provided by engineer. */
+"Install Call History Tweak" = "Установить твик истории звонков";
+
+/* No comment provided by engineer. */
+"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Добавьте действие «Сжать аудио» в «Команды» для сжатия в AAC/AIFF.";
+
+/* No comment provided by engineer. */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Добавьте действие «Создать архив» в «Команды» для создания ZIP-архива.";
+
+/* No comment provided by engineer. */
+"Invalid Code Signature" = "Неверная подпись кода";
+
+/* No comment provided by engineer. */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Неверная подпись кода.\nПереустановите приложение через TrollStore.";
+
+/* No comment provided by engineer. */
+"iPad" = "iPad";
+
+/* No comment provided by engineer. */
+"iPhone" = "iPhone";
+
+/* No comment provided by engineer. */
+"Is Favourite" = "В избранном";
+
+/* No comment provided by engineer. */
+"Is Finalized" = "Завершено";
+
+/* No comment provided by engineer. */
+"Is Finalizing" = "Завершается";
+
+/* No comment provided by engineer. */
+"Is Microphone Enabled" = "Микрофон включён";
+
+/* No comment provided by engineer. */
+"Is Paused" = "На паузе";
+
+/* No comment provided by engineer. */
+"Is Running" = "Запущено";
+
+/* No comment provided by engineer. */
+"Item #%lu" = "Элемент №%lu";
+
+/* No comment provided by engineer. */
+"Just in case that you love it." = "На случай, если вам понравится.";
+
+/* No comment provided by engineer. */
+"Just now" = "Только что";
+
+/* No comment provided by engineer. */
+"Keep Screen On When Connected" = "Не выключать экран при подключении";
+
+/* No comment provided by engineer. */
+"Keyboard Avoidance" = "Избегание клавиатуры";
+
+/* No comment provided by engineer. */
+"Kill all applications and restart the render server (backboardd)." = "Закрыть все приложения и перезапустить сервер рендеринга (backboardd).";
+
+/* No comment provided by engineer. */
+"Language Changed" = "Язык изменён";
+
+/* No comment provided by engineer. */
+"Larger" = "Больше";
+
+/* No comment provided by engineer. */
+"Last successful synchronization: %@" = "Последняя успешная синхронизация: %@";
+
+/* No comment provided by engineer. */
+"Later" = "Позже";
+
+/* No comment provided by engineer. */
+"launch" = "запуск";
+
+/* No comment provided by engineer. */
+"Launch App at End" = "Запустить приложение по завершении";
+
+/* No comment provided by engineer. */
+"Launch Shield" = "Launch Shield";
+
+/* No comment provided by engineer. */
+"Leading & Trailing" = "Ведущий и завершающий";
+
+/* No comment provided by engineer. */
+"leading edge" = "ведущая грань";
+
+/* No comment provided by engineer. */
+"Legacy Jailbreak" = "Старый джейлбрейк";
+
+/* No comment provided by engineer. */
+"Less serious error occurred." = "Произошла незначительная ошибка.";
+
+/* No comment provided by engineer. */
+"Lifetime Guarantee" = "Пожизненная гарантия";
+
+/* No comment provided by engineer. */
+"Link Device to Havoc" = "Привязать устройство к Havoc";
+
+/* No comment provided by engineer. */
+"List and Detail" = "Список и детали";
+
+/* No comment provided by engineer. */
+"Loading…" = "Загрузка…";
+
+/* No comment provided by engineer. */
+"Local Storage" = "Локальное хранилище";
+
+/* No comment provided by engineer. */
+"Localized name of the provider application. That is, where this recording comes from." = "Локализованное название приложения-источника записи.";
+
+/* No comment provided by engineer. */
+"Locate in Maps" = "Открыть в Картах";
+
+/* No comment provided by engineer. */
+"Location" = "Местоположение";
+
+/* No comment provided by engineer. */
+"Location Permission Denied" = "Доступ к местоположению запрещён";
+
+/* No comment provided by engineer. */
+"Location Services" = "Службы геолокации";
+
+/* No comment provided by engineer. */
+"Locked" = "Заблокировано";
+
+/* No comment provided by engineer. */
+"Log Viewer" = "Просмотр логов";
+
+/* No comment provided by engineer. */
+"Logging" = "Логирование";
+
+/* No comment provided by engineer. */
+"Login Tips" = "Советы по входу";
+
+/* No comment provided by engineer. */
+"Long Date" = "Длинная дата";
+
+/* No comment provided by engineer. */
+"Long press the hoverball to start or stop recording by convenience." = "Долгое нажатие на плавающую кнопку для удобного управления записью.";
+
+/* No comment provided by engineer. */
+"Long Time" = "Долгое время";
+
+/* No comment provided by engineer. */
+"Low Disk Space" = "Мало места на диске";
+
+/* No comment provided by engineer. */
+"Made with ♥ by OwnGoal Studio" = "Сделано с ♥ в OwnGoal Studio";
+
+/* No comment provided by engineer. */
+"Mail composition failed" = "Не удалось создать письмо";
+
+/* No comment provided by engineer. */
+"Maintenance" = "Обслуживание";
+
+/* No comment provided by engineer. */
+"Make a ${requestedMode} recording" = "Сделать запись в режиме ${requestedMode}";
+
+/* No comment provided by engineer. */
+"Make a new recording, or stop an existing one." = "Начать новую запись или остановить текущую.";
+
+/* No comment provided by engineer. */
+"Make a new voice memo, or stop an existing one." = "Создать новый голосовой меморандум или остановить текущий.";
+
+/* No comment provided by engineer. */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Создавать поверхностные копии записей в резервной области и разрешать их включение в iCloud Backup.";
+
+/* No comment provided by engineer. */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Связанные записи звонков на странице истории вызовов будут открываться в TrollRecorder для воспроизведения.";
+
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording ends." = "Заставлять устройство звонить или вибрировать при окончании записи.";
+
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording starts." = "Заставлять устройство звонить или вибрировать при начале записи.";
+
+/* No comment provided by engineer. */
+"Make the hoverball invisible when taking screenshots or screen recordings." = "Скрывать hoverball при создании скриншотов или записи экрана.";
+
+/* No comment provided by engineer. */
+"Make the hoverball invisible when the device is in landscape orientation." = "Скрывать hoverball в альбомной ориентации устройства.";
+
+/* No comment provided by engineer. */
+"Make the hoverball semi-transparent or folded when leave it for a while." = "Делать hoverball полупрозрачным или свернутым после бездействия.";
+
+/* No comment provided by engineer. */
+"Making a phone call to begin recording." = "Совершение звонка для начала записи.";
+
+/* No comment provided by engineer. */
+"Mark" = "Пометить";
+
+/* No comment provided by engineer. */
+"Maximum" = "Максимум";
+
+/* No comment provided by engineer. */
+"Medium" = "Средний";
+
+/* No comment provided by engineer. */
+"Medium Date" = "Средний формат даты";
+
+/* No comment provided by engineer. */
+"Medium Time" = "Средний формат времени";
+
+/* No comment provided by engineer. */
+"Merge" = "Объединить";
+
+/* No comment provided by engineer. */
+"Merged File" = "Объединенный файл";
+
+/* No comment provided by engineer. */
+"Message" = "Сообщение";
+
+/* No comment provided by engineer. */
+"Metadata" = "Метаданные";
+
+/* No comment provided by engineer. */
+"Microphone" = "Микрофон";
+
+/* No comment provided by engineer. */
+"microphone" = "микрофон";
+
+/* No comment provided by engineer. */
+"Microphone and speaker are recorded in different channels." = "Микрофон и динамик записываются на разные каналы.";
+
+/* No comment provided by engineer. */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
+/* No comment provided by engineer. */
+"Minutes" = "Минуты";
+
+/* No comment provided by engineer. */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Недостаточно прав для доступа к Google Drive. Повторно авторизуйтесь в Google и предоставьте все права «Google Drive» для «TrollRecorder».";
+
+/* No comment provided by engineer. */
+"Mixed" = "Смешанный";
+
+/* No comment provided by engineer. */
+"Mixer & Combiner" = "Микшер и объединитель";
+
+/* No comment provided by engineer. */
+"Mixer Audio Format" = "Формат аудио микшера";
+
+/* No comment provided by engineer. */
+"Mixer File Format" = "Формат файла микшера";
+
+/* No comment provided by engineer. */
+"Mixer Quality" = "Качество микшера";
+
+/* No comment provided by engineer. */
+"Month Number" = "Номер месяца";
+
+/* No comment provided by engineer. */
+"Monthly Arranged" = "Размещено по месяцам";
+
+/* No comment provided by engineer. */
+"More icons, more innovation." = "Больше иконок — больше инноваций.";
+
+/* No comment provided by engineer. */
+"More Options" = "Дополнительные опции";
+
+/* No comment provided by engineer. */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Перемещать удаленные записи в специальную папку для возможного восстановления.";
+
+/* No comment provided by engineer. */
+"MPEG-4 Audio" = "Аудио MPEG-4";
+
+/* No comment provided by engineer. */
+"mute" = "отключить звук";
+
+/* No comment provided by engineer. */
+"Mute ${requestedChannel}" = "Отключить звук ${requestedChannel}";
+
+/* No comment provided by engineer. */
+"Mute Existing Calls" = "Отключить звук текущих звонков";
+
+/* No comment provided by engineer. */
+"Mute specified channel of all existing calls." = "Отключить звук указанного канала во всех текущих звонках.";
+
+/* No comment provided by engineer. */
+"My Favourite" = "Мое избранное";
+
+/* No comment provided by engineer. */
+"My Favourites" = "Мои избранные";
+
+/* No comment provided by engineer. */
+"Name" = "Имя";
+
+/* No comment provided by engineer. */
+"Name with Alias" = "Имя с псевдонимом";
+
+/* No comment provided by engineer. */
+"Network Storage" = "Сетевое хранилище";
+
+/* No comment provided by engineer. */
+"Never" = "Никогда";
+
+/* No comment provided by engineer. */
+"Never Show This Again" = "Больше не показывать";
+
+/* No comment provided by engineer. */
+"New" = "Новый";
+
+/* No comment provided by engineer. */
+"New Argument" = "Новый аргумент";
+
+/* No comment provided by engineer. */
+"New Matching Pattern" = "Новый шаблон соответствия";
+
+/* No comment provided by engineer. */
+"New Version Available" = "Доступна новая версия";
+
+/* No comment provided by engineer. */
+"New Version Installed" = "Новая версия установлена";
+
+/* No comment provided by engineer. */
+"NO" = "НЕТ";
+
+/* No comment provided by engineer. */
+"No Available Version" = "Нет доступной версии";
+
+/* No comment provided by engineer. */
+"No phone number found in selected contacts." = "В выбранных контактах не найдено номеров телефона.";
+
+/* No comment provided by engineer. */
+"No phone number or email address found in selected contacts." = "В выбранных контактах не найдено номеров телефона или email-адресов.";
+
+/* No comment provided by engineer. */
+"No Recording" = "Нет записи";
+
+/* No comment provided by engineer. */
+"No speech detected." = "Речь не обнаружена.";
+
+/* No comment provided by engineer. */
+"No Transition" = "Без перехода";
+
+/* No comment provided by engineer. */
+"None" = "Нет";
+
+/* No comment provided by engineer. */
+"Not Implemented" = "Не реализовано";
+
+/* No comment provided by engineer. */
+"Not My Favourite" = "Не в избранном";
+
+/* No comment provided by engineer. */
+"Not Now" = "Не сейчас";
+
+/* No comment provided by engineer. */
+"Not Properly Configured" = "Неправильно настроено";
+
+/* No comment provided by engineer. */
+"Nothing Imported" = "Ничего не импортировано";
+
+/* No comment provided by engineer. */
+"Nothing Inside" = "Пусто";
+
+/* No comment provided by engineer. */
+"notification" = "уведомление";
+
+/* No comment provided by engineer. */
+"Notification Permission Denied" = "Доступ к уведомлениям запрещен";
+
+/* No comment provided by engineer. */
+"Notifications" = "Уведомления";
+
+/* No comment provided by engineer. */
+"notify" = "уведомить";
+
+/* No comment provided by engineer. */
+"Notify at Begin" = "Уведомлять в начале";
+
+/* No comment provided by engineer. */
+"Notify at End" = "Уведомлять в конце";
+
+/* No comment provided by engineer. */
+"Object Viewer" = "Просмотр объектов";
+
+/* No comment provided by engineer. */
+"Off" = "Выкл.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On" = "Вкл.";
+
+/* No comment provided by engineer. */
+"OneDrive" = "OneDrive";
+
+/* No comment provided by engineer. */
+"Oops!" = "Упс!";
+
+/* No comment provided by engineer. */
+"Open" = "Открыть";
+
+/* No comment provided by engineer. */
+"open" = "открыть";
+
+/* No comment provided by engineer. */
+"Open Application" = "Открыть приложение";
+
+/* No comment provided by engineer. */
+"Open Hoverball" = "Открыть hoverball";
+
+/* No comment provided by engineer. */
+"Open in Filza" = "Открыть в Filza";
+
+/* No comment provided by engineer. */
+"Open in Maps" = "Открыть в Картах";
+
+/* No comment provided by engineer. */
+"Open Troll Recorder" = "Открыть Troll Recorder";
+
+/* No comment provided by engineer. */
+"Operation Failed" = "Ошибка операции";
+
+/* No comment provided by engineer. */
+"Operation Succeed" = "Операция успешна";
+
+/* No comment provided by engineer. */
+"Operation succeed, but no files transferred." = "Операция успешна, но файлы не переданы.";
+
+/* No comment provided by engineer. */
+"Operator Name" = "Имя оператора";
+
+/* No comment provided by engineer. */
+"Optic ID" = "Optic ID";
+
+/* No comment provided by engineer. */
+"Options" = "Опции";
+
+/* No comment provided by engineer. */
+"Outgoing" = "Исходящий";
+
+/* No comment provided by engineer. */
+"Outgoing Call" = "Исходящий звонок";
+
+/* No comment provided by engineer. */
+"Outgoing Call Answered" = "Исходящий звонок принят";
+
+/* No comment provided by engineer. */
+"Outgoing Call Hang Up" = "Исходящий звонок завершен";
+
+/* No comment provided by engineer. */
+"Outgoing call recording from “%@” and other %ld applications." = "Запись исходящих звонков из «%@» и %ld других приложений.";
+
+/* No comment provided by engineer. */
+"Outgoing call recording from “%@”." = "Запись исходящих звонков из «%@».";
+
+/* No comment provided by engineer. */
+"Page not found" = "Страница не найдена";
+
+/* No comment provided by engineer. */
+"Password (Optional)" = "Пароль (необязательно)";
+
+/* No comment provided by engineer. */
+"path" = "путь";
+
+/* No comment provided by engineer. */
+"Pause" = "Пауза";
+
+/* No comment provided by engineer. */
+"Pause Recording" = "Приостановить запись";
+
+/* No comment provided by engineer. */
+"Paused" = "На паузе";
+
+/* No comment provided by engineer. */
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Выполнить полную синхронизацию «Резервной копии с iCloud» и «Умного облачного архива».";
+
+/* No comment provided by engineer. */
+"Perform Full Synchronization" = "Выполнить полную синхронизацию";
+
+/* No comment provided by engineer. */
+"Period" = "Период";
+
+/* No comment provided by engineer. */
+"Phone" = "Телефон";
+
+/* No comment provided by engineer. */
+"phone" = "телефон";
+
+/* No comment provided by engineer. */
+"Phone Address" = "Адрес телефона";
+
+/* No comment provided by engineer. */
+"Phone Call Exclude List" = "Исключения для звонков";
+
+/* No comment provided by engineer. */
+"phone call recording" = "запись телефонного звонка";
+
+/* No comment provided by engineer. */
+"Phone Call VIP" = "VIP-звонки";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Номер телефона";
+
+/* No comment provided by engineer. */
+"Phone Number or Email Address" = "Номер телефона или email";
+
+/* No comment provided by engineer. */
+"Physical Key Combination" = "Комбинация физических клавиш";
+
+/* No comment provided by engineer. */
+"Placemark Name" = "Название метки";
+
+/* No comment provided by engineer. */
+"Play" = "Воспроизвести";
+
+/* No comment provided by engineer. */
+"play" = "воспроизвести";
+
+/* No comment provided by engineer. */
+"Play ${audioFile}" = "Воспроизвести ${audioFile}";
+
+/* No comment provided by engineer. */
+"Play Recording Warning" = "Предупреждение при воспроизведении";
+
+/* No comment provided by engineer. */
+"Play Sound" = "Проиграть звук";
+
+/* No comment provided by engineer. */
+"Play specified audio file to the microphone." = "Воспроизвести указанный аудиофайл через микрофон.";
+
+/* No comment provided by engineer. */
+"Play specified voice-over text to the microphone." = "Воспроизвести указанный текст через микрофон.";
+
+/* No comment provided by engineer. */
+"Play Uplink Audio" = "Воспроизвести аудио uplink";
+
+/* No comment provided by engineer. */
+"Play Uplink Voice-Over" = "Воспроизвести голосовой комментарий uplink";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Воспроизвести/Пауза";
+
+/* No comment provided by engineer. */
+"Playback Rate" = "Скорость воспроизведения";
+
+/* No comment provided by engineer. */
+"Playback Rate: %@x" = "Скорость воспроизведения: %@x";
+
+/* No comment provided by engineer. */
+"Playback Speed" = "Скорость воспроизведения";
+
+/* No comment provided by engineer. */
+"Player Options" = "Настройки плеера";
+
+/* No comment provided by engineer. */
+"Please check your mail configuration." = "Проверьте настройки почты.";
+
+/* No comment provided by engineer. */
+"Please enter a valid port number between 1 and 65535." = "Введите корректный номер порта (1–65535).";
+
+/* No comment provided by engineer. */
+"Please enter the server URL." = "Введите URL сервера.";
+
+/* No comment provided by engineer. */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "TrollRecorder продается и активируется исключительно через Havoc Marketplace. Вы переходите в магазин: при первом входе рекомендуется авторизация через Google. Пользователям из материкового Китая может потребоваться VPN.";
+
+/* No comment provided by engineer. */
+"Please reinstall this application from TrollStore." = "Переустановите приложение через TrollStore.";
+
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from Sileo." = "Не забудьте удалить «%@» из Sileo.";
+
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from TrollStore." = "Не забудьте удалить «%@» из TrollStore.";
+
+/* No comment provided by engineer. */
+"Popover Control" = "Управление всплывающим окном";
+
+/* No comment provided by engineer. */
+"Populate Location When App Starts" = "Определять местоположение при запуске";
+
+/* No comment provided by engineer. */
+"Popup Banner at Begin" = "Всплывающий баннер в начале";
+
+/* No comment provided by engineer. */
+"Popup Banner at End" = "Всплывающий баннер в конце";
+
+/* No comment provided by engineer. */
+"Popup Banner when Fail" = "Всплывающий баннер при ошибке";
+
+/* No comment provided by engineer. */
+"Popup Banner with Badge" = "Всплывающий баннер с иконкой";
+
+/* No comment provided by engineer. */
+"Popup Banner with Detail" = "Всплывающий баннер с деталями";
+
+/* No comment provided by engineer. */
+"Popup Banner with Sound" = "Всплывающий баннер со звуком";
+
+/* No comment provided by engineer. */
+"Port (Optional)" = "Порт (необязательно)";
+
+/* No comment provided by engineer. */
+"Preparing" = "Подготовка";
+
+/* No comment provided by engineer. */
+"Preserve All Channels" = "Сохранять все каналы";
+
+/* No comment provided by engineer. */
+"Press & Hold Action" = "Действие при удержании";
+
+/* No comment provided by engineer. */
+"Press & Hold Hoverball" = "Удерживать hoverball";
+
+/* No comment provided by engineer. */
+"Press & Hold Power Button" = "Удерживать кнопку питания";
+
+/* No comment provided by engineer. */
+"Press and hold the power button to start or stop recording during a call." = "Удерживайте кнопку питания для начала/остановки записи во время звонка.";
+
+/* No comment provided by engineer. */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Нажмите обе кнопки громкости для начала/остановки записи во время звонка.";
+
+/* No comment provided by engineer. */
+"Press Both Volume Buttons" = "Нажать обе кнопки громкости";
+
+/* No comment provided by engineer. */
+"Preview Disabled" = "Предпросмотр отключен";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Политика конфиденциальности";
+
+/* No comment provided by engineer. */
+"Privacy Policy & User Agreements" = "Политика конфиденциальности и условия использования";
+
+/* No comment provided by engineer. */
+"Private Browsing Detected" = "Обнаружен приватный режим";
+
+/* No comment provided by engineer. */
+"Proceed Anyway" = "Продолжить";
+
+/* No comment provided by engineer. */
+"Process terminated by signal %d." = "Процесс завершен сигналом %d.";
+
+/* No comment provided by engineer. */
+"Process terminated with exit code %d.\n%@" = "Процесс завершен с кодом %1$d.\n%2$@";
+
+/* No comment provided by engineer. */
+"Pulse-code modulation" = "Импульсно-кодовая модуляция";
+
+/* No comment provided by engineer. */
+"Purchase" = "Покупка";
+
+/* No comment provided by engineer. */
+"Purchase Tips" = "Подсказки по покупке";
+
+/* No comment provided by engineer. */
+"Pure TrollStore" = "Только TrollStore";
+
+/* No comment provided by engineer. */
+"Query the latest version from GitHub." = "Проверить последнюю версию на GitHub.";
+
+/* No comment provided by engineer. */
+"Querying" = "Запрос";
+
+/* No comment provided by engineer. */
+"Quick Recording" = "Быстрая запись";
+
+/* No comment provided by engineer. */
+"Quit and relaunch to continue using the Pro features." = "Перезапустите приложение для доступа к Pro-функциям.";
+
+/* No comment provided by engineer. */
+"Quit this application and try again." = "Закройте приложение и попробуйте снова.";
+
+/* No comment provided by engineer. */
+"Rclone Documentation" = "Документация Rclone";
+
+/* No comment provided by engineer. */
+"Re-authorize with Dropbox" = "Переавторизоваться в Dropbox";
+
+/* No comment provided by engineer. */
+"Re-authorize with Google" = "Переавторизоваться в Google";
+
+/* No comment provided by engineer. */
+"Re-authorize with Microsoft" = "Переавторизоваться в Microsoft";
+
+/* No comment provided by engineer. */
+"Re-enable Suggested Options" = "Включить рекомендуемые опции";
+
+/* No comment provided by engineer. */
+"Reaching Daemon" = "Подключение к демону";
+
+/* No comment provided by engineer. */
+"README_APP_DOCUMENTS" = "Эта папка содержит резервные копии записей TrollRecorder recordings.\r\nYou для восстановления скопируйте их в /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings";
+
+/* No comment provided by engineer. */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "Эта папка содержит жесткие ссылки на записи TrollRecorder recordings.\r\nYou не входят в iCloud Backup и не учитываются в quota.\r\nDo не удаляйте их без необходимости.";
+
+/* No comment provided by engineer. */
+"README_SERVICE_RECORDINGS" = "Эта папка содержит записи TrollRecorder recordings.\r\nYou для резервирования скопируйте их в надежное место.";
+
+/* No comment provided by engineer. */
+"Ready" = "Готово";
+
+/* No comment provided by engineer. */
+"Ready to record!" = "Готово к записи!";
+
+/* No comment provided by engineer. */
+"Received authorization error: %@" = "Ошибка авторизации: %@";
+
+/* No comment provided by engineer. */
+"Received transient error: %@" = "Временная ошибка: %@";
+
+/* No comment provided by engineer. */
+"Recents Only" = "Только недавние";
+
+/* No comment provided by engineer. */
+"Recommended for Apple devices" = "Рекомендуется для Apple";
+
+/* No comment provided by engineer. */
+"Record" = "Запись";
+
+/* No comment provided by engineer. */
+"Record all incoming and outgoing calls automatically." = "Автоматически записывать все входящие и исходящие звонки.";
+
+/* No comment provided by engineer. */
+"Record Automatically" = "Автозапись";
+
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "Запись звонков на других устройствах";
+
+/* No comment provided by engineer. */
+"Record Only When Connected" = "Записывать только при подключении";
+
+/* No comment provided by engineer. */
+"Record with Location" = "Запись с местоположением";
+
+/* No comment provided by engineer. */
+"Recording" = "Запись";
+
+/* No comment provided by engineer. */
+"recording" = "запись";
+
+/* No comment provided by engineer. */
+"Recording (Localized)" = "Запись (локализованная)";
+
+/* Инженер не предоставил комментария. */
+"Recording Interrupted" = "Запись прервана";
+
+/* Инженер не предоставил комментария. */
+"Recording Options" = "Настройки записи";
+
+/* Инженер не предоставил комментария. */
+"Recording starts when both the audio inputs and outputs are continuously active." = "Запись начнется, когда аудиовходы и аудиовыходы будут непрерывно активны.";
+
+/* Инженер не предоставил комментария. */
+"Recording successfully started." = "Запись успешно начата.";
+
+/* Инженер не предоставил комментария. */
+"Recording Type" = "Тип записи";
+
+/* Инженер не предоставил комментария. */
+"Recording Type Description" = "Описание типа записи";
+
+/* Инженер не предоставил комментария. */
+"Recording will begin when the call is answered." = "Запись начнется при ответе на звонок.";
+
+/* Инженер не предоставил комментария. */
+"Recording “%@” is in progress." = "Идет запись «%@».";
+
+/* Инженер не предоставил комментария. */
+"RECORDING_LOCALIZED" = "Запись";
+
+/* Инженер не предоставил комментария. */
+"Recordings" = "Записи";
+
+/* Инженер не предоставил комментария. */
+"Recordings here are permanently removed after 30 days." = "Записи здесь удаляются безвозвратно через 30 дней.";
+
+/* Инженер не предоставил комментария. */
+"Recycle Bin" = "Корзина";
+
+/* Инженер не предоставил комментария. */
+"Regenerate All" = "Перегенерировать все";
+
+/* Инженер не предоставил комментария. */
+"reject" = "отклонить";
+
+/* Инженер не предоставил комментария. */
+"Reject all incoming calls automatically." = "Автоматически отклонять все входящие звонки.";
+
+/* Инженер не предоставил комментария. */
+"Reject Incoming Calls" = "Отклонять входящие звонки";
+
+/* Инженер не предоставил комментария. */
+"Relaunched" = "Перезапущено";
+
+/* Инженер не предоставил комментария. */
+"Release" = "Релиз";
+
+/* Инженер не предоставил комментария. */
+"Release Notes" = "Release Notes";
+
+/* Инженер не предоставил комментария. */
+"Remove" = "Удалить";
+
+/* Инженер не предоставил комментария. */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Удалить все кэшированные волновые формы и разрешить их перестроение из оригинальных записей.";
+
+/* Инженер не предоставил комментария. */
+"Remove All Recordings Permanently" = "Безвозвратно удалить все записи";
+
+/* Инженер не предоставил комментария. */
+"Remove Outdated Recordings" = "Удалить устаревшие записи";
+
+/* Инженер не предоставил комментария. */
+"Rename" = "Переименовать";
+
+/* Инженер не предоставил комментария. */
+"Repeat Infinitely" = "Повторять бесконечно";
+
+/* Инженер не предоставил комментария. */
+"Reset" = "Сбросить";
+
+/* Инженер не предоставил комментария. */
+"Reset All Shortcuts" = "Сбросить все ярлыки";
+
+/* Инженер не предоставил комментария. */
+"Reset Search Indexes" = "Сбросить поисковые индексы";
+
+/* Инженер не предоставил комментария. */
+"Reset Service" = "Сбросить службу";
+
+/* Инженер не предоставил комментария. */
+"Respring" = "Перезапуск SpringBoard";
+
+/* Инженер не предоставил комментария. */
+"Restart Render Server" = "Перезапустить сервер рендеринга";
+
+/* Инженер не предоставил комментария. */
+"Restore" = "Восстановить";
+
+/* Инженер не предоставил комментария. */
+"Restore %d Items From Recycle Bin" = "Восстановить %d элементов из корзины";
+
+/* Инженер не предоставил комментария. */
+"Restore Selected %ld Items" = "Восстановить выбранные %ld элементов";
+
+/* Инженер не предоставил комментария. */
+"Restore Selected Item" = "Восстановить выбранный элемент";
+
+/* Инженер не предоставил комментария. */
+"Restoring" = "Восстановление";
+
+/* Инженер не предоставил комментария. */
+"Resume Recording" = "Продолжить запись";
+
+/* Инженер не предоставил комментария. */
+"Resume with Warning" = "Продолжить с предупреждением";
+
+/* Инженер не предоставил комментария. */
+"Retry" = "Повторить";
+
+/* Инженер не предоставил комментария. */
+"Reverse Geocoding" = "Обратное геокодирование";
+
+/* Инженер не предоставил комментария. */
+"Reverse Selection" = "Инвертировать выделение";
+
+/* Инженер не предоставил комментария. */
+"Rewind 15 Seconds" = "Перемотать на 15 секунд";
+
+/* Инженер не предоставил комментария. */
+"Ring" = "Звонок";
+
+/* Инженер не предоставил комментария. */
+"Ring & Vibrate" = "Звонок и вибрация";
+
+/* Инженер не предоставил комментария. */
+"Root" = "Root";
+
+/* Инженер не предоставил комментария. */
+"RootHide Jailbreak" = "RootHide джейлбрейк";
+
+/* Инженер не предоставил комментария. */
+"Rootless Jailbreak" = "Rootless джейлбрейк";
+
+/* Инженер не предоставил комментария. */
+"Runtime Environment: %@" = "Среда выполнения: %@";
+
+/* Инженер не предоставил комментария. */
+"Sample Rate" = "Частота дискретизации";
+
+/* Инженер не предоставил комментария. */
+"Sandbox Build" = "Сборка в песочнице";
+
+/* Инженер не предоставил комментария. */
+"Save" = "Сохранить";
+
+/* Инженер не предоставил комментария. */
+"Save as Duplicate" = "Сохранить копию";
+
+/* Инженер не предоставил комментария. */
+"Save as Duplicate…" = "Сохранить копию…";
+
+/* Инженер не предоставил комментария. */
+"Say ${requestedText}" = "Скажите ${requestedText}";
+
+/* Инженер не предоставил комментария. */
+"Scene Identification" = "Идентификация сцены";
+
+/* Инженер не предоставил комментария. */
+"screen" = "экран";
+
+/* Инженер не предоставил комментария. */
+"Search" = "Поиск";
+
+/* Инженер не предоставил комментария. */
+"Search %@ in %@…" = "Искать %1$@ в %2$@…";
+
+/* Инженер не предоставил комментария. */
+"Search %@…" = "Искать %@…";
+
+/* Инженер не предоставил комментария. */
+"Search Apps…" = "Искать приложения…";
+
+/* Инженер не предоставил комментария. */
+"Search Arguments…" = "Искать аргументы…";
+
+/* Инженер не предоставил комментария. */
+"Search Contacts…" = "Искать контакты…";
+
+/* Инженер не предоставил комментария. */
+"Search in %@…" = "Искать в %@…";
+
+/* Инженер не предоставил комментария. */
+"Search in depth with all available information saved when recording such as contact info or locations." = "Глубокий поиск со всей сохранённой при записи информацией, такой как данные контактов или местоположения.";
+
+/* Инженер не предоставил комментария. */
+"Search in Maps" = "Искать в Картах";
+
+/* Инженер не предоставил комментария. */
+"Search Recordings…" = "Искать записи…";
+
+/* Инженер не предоставил комментария. */
+"Search Shortcuts…" = "Искать ярлыки…";
+
+/* Инженер не предоставил комментария. */
+"Search…" = "Поиск…";
+
+/* Инженер не предоставил комментария. */
+"Seconds" = "Секунды";
+
+/* Инженер не предоставил комментария. */
+"Secure" = "Безопасный";
+
+/* Инженер не предоставил комментария. */
+"Secure Payment" = "Безопасный платёж";
+
+/* Инженер не предоставил комментария. */
+"See ya!" = "До встречи!";
+
+/* Инженер не предоставил комментария. */
+"Select" = "Выбрать";
+
+/* Инженер не предоставил комментария. */
+"Select a recording to play." = "Выберите запись для воспроизведения.";
+
+/* Инженер не предоставил комментария. */
+"Select All" = "Выбрать все";
+
+/* Инженер не предоставил комментария. */
+"Select the primary cloud service provider for recording synchronization." = "Выберите основной облачный сервис для синхронизации записей.";
+
+/* Инженер не предоставил комментария. */
+"Semi-Transparent" = "Полупрозрачный";
+
+/* Инженер не предоставил комментария. */
+"Sender Name" = "Имя отправителя";
+
+/* Инженер не предоставил комментария. */
+"Sender Phone Address" = "Телефонный адрес отправителя";
+
+/* Инженер не предоставил комментария. */
+"Sender Short Name" = "Короткое имя отправителя";
+
+/* Инженер не предоставил комментария. */
+"Separated Channels" = "Разделенные каналы";
+
+/* Инженер не предоставил комментария. */
+"Separators" = "Разделители";
+
+/* Инженер не предоставил комментария. */
+"Server" = "Сервер";
+
+/* Инженер не предоставил комментария. */
+"Server started at: %@" = "Сервер запущен в: %@";
+
+/* Инженер не предоставил комментария. */
+"Server URL" = "URL сервера";
+
+/* Инженер не предоставил комментария. */
+"service" = "сервис";
+
+/* Инженер не предоставил комментария. */
+"Service is alive" = "Сервис активен";
+
+/* Инженер не предоставил комментария. */
+"Service is dead" = "Сервис неактивен";
+
+/* Инженер не предоставил комментария. */
+"Service Status" = "Статус сервиса";
+
+/* Инженер не предоставил комментария. */
+"Set a new name for this recording, or leave blank to use default." = "Задайте новое имя для этой записи или оставьте пустым для значения по умолчанию.";
+
+/* Инженер не предоставил комментария. */
+"Settings" = "Настройки";
+
+/* Инженер не предоставил комментария. */
+"Setup Failed" = "Ошибка настройки";
+
+/* Инженер не предоставил комментария. */
+"Share" = "Поделиться";
+
+/* Инженер не предоставил комментария. */
+"Short Date" = "Краткая дата";
+
+/* Инженер не предоставил комментария. */
+"Short Day of Week String" = "Сокращенный день недели";
+
+/* Инженер не предоставил комментария. */
+"Short Month Name" = "Сокращенное название месяца";
+
+/* Инженер не предоставил комментария. */
+"Short Time" = "Краткое время";
+
+/* Инженер не предоставил комментария. */
+"Show Bundle Name" = "Показывать Bundle Name";
+
+/* Инженер не предоставил комментария. */
+"Show Contact Names" = "Показывать имена контактов";
+
+/* Инженер не предоставил комментария. */
+"Show Hoverball" = "Показывать Hoverball";
+
+/* No comment provided by engineer. */
+"Show Notification" = "Показывать уведомление";
+
+/* No comment provided by engineer. */
+"Show notification ${requestedMessage}" = "Показать уведомление ${requestedMessage}";
+
+/* No comment provided by engineer. */
+"Show on Lock Screen" = "Показывать на экране блокировки";
+
+/* No comment provided by engineer. */
+"Show Option Description" = "Показывать описание опции";
+
+/* No comment provided by engineer. */
+"Show Recording Duration" = "Показывать длительность записи";
+
+/* No comment provided by engineer. */
+"Show Recording Format" = "Показывать формат записи";
+
+/* No comment provided by engineer. */
+"Show SIM Card Alias" = "Показывать псевдоним SIM-карты";
+
+/* No comment provided by engineer. */
+"Show Waveform Previews" = "Показывать превью волновой формы";
+
+/* No comment provided by engineer. */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Показывать пункт меню «Просмотр деталей» для разработчиков (просмотр манифестов записей).";
+
+/* No comment provided by engineer. */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Войдите в Dropbox, чтобы предоставить приложению доступ.";
+
+/* No comment provided by engineer. */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Войдите в Google, чтобы предоставить приложению доступ к Google Drive.";
+
+/* No comment provided by engineer. */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Войдите в Microsoft, чтобы предоставить приложению доступ к OneDrive.";
+
+/* No comment provided by engineer. */
+"Silent Mode" = "Тихий режим";
+
+/* No comment provided by engineer. */
+"SIM Card Alias" = "Псевдоним SIM-карты";
+
+/* No comment provided by engineer. */
+"Simulator" = "Симулятор";
+
+/* No comment provided by engineer. */
+"Skip Silence" = "Пропускать тишину";
+
+/* No comment provided by engineer. */
+"Smaller" = "Меньше";
+
+/* No comment provided by engineer. */
+"Smart Cloud Archive" = "Умное облачное архивирование";
+
+/* No comment provided by engineer. */
+"Software License" = "Лицензия ПО";
+
+/* No comment provided by engineer. */
+"Some settings have been reset to default values." = "Некоторые настройки сброшены до значений по умолчанию.";
+
+/* No comment provided by engineer. */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Отсутствует важный компонент. Переустановите «TrollRecorder JB» через Sileo.";
+
+/* No comment provided by engineer. */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Ошибка проверки лицензии. Нажмите «Мой аккаунт» для проверки заказов, покупок или активации кода.";
+
+/* No comment provided by engineer. */
+"Sound Level Meter" = "Измеритель уровня звука";
+
+/* No comment provided by engineer. */
+"Space" = "Пробел";
+
+/* No comment provided by engineer. */
+"Speaker" = "Динамик";
+
+/* No comment provided by engineer. */
+"speaker" = "динамик";
+
+/* No comment provided by engineer. */
+"Specified range from %@ to %@ is invalid." = "Указанный диапазон от %1$@ до %2$@ недействителен.";
+
+/* No comment provided by engineer. */
+"start" = "старт";
+
+/* No comment provided by engineer. */
+"Start a system screen recording just like what you do in the Control Center." = "Начать запись экрана (аналогично функции в Пункте управления).";
+
+/* No comment provided by engineer. */
+"Start Call Recording" = "Начать запись звонка";
+
+/* No comment provided by engineer. */
+"Start Date" = "Дата начала";
+
+/* No comment provided by engineer. */
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Начать или подготовить запись звонка/системного звука/голосовую заметку.";
+
+/* No comment provided by engineer. */
+"Start Recording" = "Начать запись";
+
+/* No comment provided by engineer. */
+"Start Screen Recording" = "Начать запись экрана";
+
+/* No comment provided by engineer. */
+"Start System Audio Recording" = "Начать запись системного звука";
+
+/* No comment provided by engineer. */
+"Start Voice Memo Recording" = "Начать голосовую заметку";
+
+/* No comment provided by engineer. */
+"status" = "статус";
+
+/* No comment provided by engineer. */
+"Stay tuned. We’re recording your call in the background." = "Идёт запись звонка в фоновом режиме.";
+
+/* No comment provided by engineer. */
+"stop" = "стоп";
+
+/* No comment provided by engineer. */
+"Stop" = "Остановить";
+
+/* No comment provided by engineer. */
+"Stop & Reset Service" = "Остановить и сбросить службу";
+
+/* No comment provided by engineer. */
+"Stop & Save" = "Остановить и сохранить";
+
+/* No comment provided by engineer. */
+"Stop a call recording, system audio recording or voice memo if exists." = "Остановить запись звонка/системного звука/голосовой заметки (если активна).";
+
+/* No comment provided by engineer. */
+"Stop a system screen recording if exists." = "Остановить запись экрана (если активна).";
+
+/* No comment provided by engineer. */
+"Stop Recording" = "Остановить запись";
+
+/* No comment provided by engineer. */
+"Stop Recording When Disk Exhausted" = "Останавливать запись при нехватке места";
+
+/* No comment provided by engineer. */
+"Stop Screen Recording" = "Остановить запись экрана";
+
+/* No comment provided by engineer. */
+"Stop Service" = "Остановить службу";
+
+/* No comment provided by engineer. */
+"Successfully authorized to Google and connected to Google Drive." = "Успешная авторизация в Google и подключение к Google Drive.";
+
+/* No comment provided by engineer. */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Успешная авторизация в Microsoft и подключение к OneDrive.";
+
+/* No comment provided by engineer. */
+"Successfully connected to Dropbox." = "Успешное подключение к Dropbox.";
+
+/* No comment provided by engineer. */
+"Successfully connected to the server %@." = "Успешное подключение к серверу %@.";
+
+/* No comment provided by engineer. */
+"Suggested" = "Рекомендуемые";
+
+/* No comment provided by engineer. */
+"Suggested Applications" = "Рекомендуемые приложения";
+
+/* No comment provided by engineer. */
+"Sync" = "Синхронизация";
+
+/* No comment provided by engineer. */
+"Sync Service Mode" = "Режим синхронизации";
+
+/* No comment provided by engineer. */
+"Sync Service Provider" = "Провайдер синхронизации";
+
+/* No comment provided by engineer. */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Синхронизация: идентичность локальных и облачных записей (изменяются только облачные данные).";
+
+/* No comment provided by engineer. */
+"synchronization" = "синхронизация";
+
+/* No comment provided by engineer. */
+"Synchronization Failed" = "Ошибка синхронизации";
+
+/* No comment provided by engineer. */
+"Synchronize the playback status of the recording with Control Center." = "Синхронизировать статус воспроизведения с Пунктом управления.";
+
+/* No comment provided by engineer. */
+"Synchronizing" = "Синхронизация";
+
+/* No comment provided by engineer. */
+"Syntax or usage error occurred." = "Ошибка синтаксиса или использования.";
+
+/* No comment provided by engineer. */
+"System Applications" = "Системные приложения";
+
+/* No comment provided by engineer. */
+"System Audio" = "Системный звук";
+
+/* No comment provided by engineer. */
+"System Audio Recording" = "Запись системного звука";
+
+/* No comment provided by engineer. */
+"system audio recording" = "запись системного звука";
+
+/* No comment provided by engineer. */
+"System Language" = "Системный язык";
+
+/* No comment provided by engineer. */
+"System Record" = "Системная запись";
+
+/* No comment provided by engineer. */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Нажмите __любую грань__, \nчтобы выбрать её как ___активную грань___.";
+
+/* No comment provided by engineer. */
+"Tap again to make a phone call." = "Нажмите ещё раз для совершения звонка.";
+
+/* No comment provided by engineer. */
+"Tap again to open or search the location in Maps." = "Нажмите ещё раз для открытия/поиска места в Картах.";
+
+/* No comment provided by engineer. */
+"Tap again to start a FaceTime call." = "Нажмите ещё раз для FaceTime-звонка.";
+
+/* No comment provided by engineer. */
+"Tap to add required widget." = "Нажмите для добавления виджета.";
+
+/* No comment provided by engineer. */
+"Tap to calculate the total size of all recordings." = "Нажмите для подсчёта общего размера записей.";
+
+/* No comment provided by engineer. */
+"Tap to Copy" = "Нажмите для копирования";
+
+/* No comment provided by engineer. */
+"Tap to Exit" = "Нажмите для выхода";
+
+/* No comment provided by engineer. */
+"Tap to open settings." = "Нажмите для открытия настроек.";
+
+/* No comment provided by engineer. */
+"Tap to view details" = "Нажмите для просмотра деталей";
+
+/* No comment provided by engineer. */
+"Temporary error occurred, more retries might fix." = "Временная ошибка, повторные попытки могут помочь.";
+
+/* No comment provided by engineer. */
+"Temporary Ignore" = "Временно игнорировать";
+
+/* No comment provided by engineer. */
+"terminate" = "завершить";
+
+/* No comment provided by engineer. */
+"Terminate all active calls immediately." = "Немедленно завершить все активные звонки.";
+
+/* No comment provided by engineer. */
+"Terminate Calls" = "Завершить звонки";
+
+/* No comment provided by engineer. */
+"Test Connection" = "Проверить соединение";
+
+/* No comment provided by engineer. */
+"text-to-speech" = "текст-в-речь";
+
+/* No comment provided by engineer. */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "Система прервала %@. Вы можете конвертировать запись вручную позже.";
+
+/* No comment provided by engineer. */
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Неизвестная ошибка: демон запуска не отвечает. Идёт повторное подключение. Если проблема остаётся, переустановите приложение.";
+
+/* No comment provided by engineer. */
+"The application will launch automatically when recording ends." = "Приложение запустится автоматически после записи.";
+
+/* No comment provided by engineer. */
+"The audio file to be played to the opposite side." = "Аудиофайл для воспроизведения собеседнику.";
+
+/* No comment provided by engineer. */
+"The bundle identifier of the application that initiated the call." = "Идентификатор приложения, инициировавшего звонок.";
+
+/* No comment provided by engineer. */
+"The content of text file “%@” is empty." = "Текстовый файл «%@» пуст.";
+
+/* No comment provided by engineer. */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Текущий статус звонка. Варианты: Набор, Соединён, Завершён, Неизвестно.";
+
+/* No comment provided by engineer. */
+"The date and time when the audio was created." = "Дата и время создания аудио.";
+
+/* No comment provided by engineer. */
+"The device will vibrate with special haptic patterns when recording starts and ends." = "Устройство будет вибрировать при начале/окончании записи.";
+
+/* No comment provided by engineer. */
+"The direction of the call. May not available for all audio files." = "Направление звонка. Доступно не для всех аудиофайлов.";
+
+/* No comment provided by engineer. */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "Направление звонка. Варианты: Входящий, Исходящий, Неизвестно.";
+
+/* No comment provided by engineer. */
+"The display name of the application that initiated the call." = "Название приложения, инициировавшего звонок.";
+
+/* No comment provided by engineer. */
+"The field of information to get." = "Поле информации для получения.";
+
+/* No comment provided by engineer. */
+"The file format of the selected audio file." = "Формат выбранного аудиофайла.";
+
+/* No comment provided by engineer. */
+"The hoverball can display even if you do not unlock your device." = "Hoverball отображается даже на заблокированном устройстве.";
+
+/* No comment provided by engineer. */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Комбинация клавиш для «Быстрой записи» изменена на «%@».";
+
+/* No comment provided by engineer. */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "Последняя версия «TrollRecorder»: %1$@ (%2$@). Текущая версия: %3$@ (%4$@).";
+
+/* No comment provided by engineer. */
+"The location metadata will be continuously updated while the recording is in progress." = "Метаданные местоположения обновляются во время записи.";
+
+/* No comment provided by engineer. */
+"The location where the recording was recorded." = "Местоположение, где была сделана запись.";
+
+/* No comment provided by engineer. */
+"The maximum seconds to wait for calls to be connected." = "Максимальное время ожидания соединения (в секундах).";
+
+/* No comment provided by engineer. */
+"The missing location metadata will be populated if you open the application right after the recording." = "Отсутствующие метаданные местоположения добавятся при открытии приложения сразу после записи.";
+
+/* No comment provided by engineer. */
+"The name of the contact." = "Имя контакта.";
+
+/* No comment provided by engineer. */
+"The name of the sender." = "Имя отправителя.";
+
+/* No comment provided by engineer. */
+"The number of samples per second, higher sample rate means better audio quality with larger file size." = "Частота дискретизации (чем выше — лучше качество, но больше размер файла).";
+
+/* No comment provided by engineer. */
+"The phone number of the contact." = "Номер телефона контакта.";
+
+/* No comment provided by engineer. */
+"The phone number of the sender." = "Номер телефона отправителя.";
+
+/* No comment provided by engineer. */
+"The phone number. Third party application or CallKit calls may not have this value." = "Номер телефона. Может отсутствовать для сторонних приложений или CallKit.";
+
+/* No comment provided by engineer. */
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Режим постобработки: Combine — динамики в левый канал, микрофон в правый; Mixed — микширование каналов.";
+
+/* No comment provided by engineer. */
+"The primary button action at the right side of the hoverball when no call is active." = "Действие основной кнопки hoverball (правая сторона) без активного звонка.";
+
+/* No comment provided by engineer. */
+"The service is not properly configured." = "Служба настроена неправильно.";
+
+/* No comment provided by engineer. */
+"The service operator name of the sender." = "Оператор связи отправителя.";
+
+/* No comment provided by engineer. */
+"The size of selected audio file." = "Размер выбранного аудиофайла.";
+
+/* No comment provided by engineer. */
+"The text to be played to the opposite side." = "Текст для воспроизведения собеседнику.";
+
+/* No comment provided by engineer. */
+"The time interval before the hoverball becomes idle." = "Время до перехода hoverball в режим бездействия.";
+
+/* No comment provided by engineer. */
+"The type of content to be recorded." = "Тип контента для записи.";
+
+/* No comment provided by engineer. */
+"The unique identifier of the call." = "Уникальный идентификатор звонка.";
+
+/* No comment provided by engineer. */
+"The unique identifier of the provider application." = "Уникальный идентификатор приложения-провайдера.";
+
+/* No comment provided by engineer. */
+"The URL is not valid." = "Некорректный URL.";
+
+/* No comment provided by engineer. */
+"There is nothing but air." = "Здесь пусто.";
+
+/* No comment provided by engineer. */
+"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "Фоновая служба может не конвертировать запись сразу. Теперь вы можете завершить этот шаг вручную!";
+
+/* No comment provided by engineer. */
+"There was a problem verifying your identity." = "Ошибка проверки вашей личности.";
+
+/* No comment provided by engineer. */
+"This feature requires a paid subscription. Please upgrade to use this feature." = "Для этой функции нужна платная подписка.";
+
+/* No comment provided by engineer. */
+"This field accept phone number for matching contact." = "Это поле принимает номер телефона для поиска контакта.";
+
+/* No comment provided by engineer. */
+"This field accept phone number or an email address for matching contact." = "Это поле принимает номер телефона или email для поиска контакта.";
+
+/* No comment provided by engineer. */
+"This is a sandbox build, the daemon is not available." = "Это тестовая сборка — демон недоступен.";
+
+/* No comment provided by engineer. */
+"This is a widget daemon for Troll Recorder." = "Это демон виджета для Troll Recorder.";
+
+/* No comment provided by engineer. */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "Эта опция влияет на «Быструю запись» и «Комбинацию клавиш».";
+
+/* No comment provided by engineer. */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "Эта опция переопределяет действие «Удержание» для Hoverball.";
+
+/* No comment provided by engineer. */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "Эта запись содержит несколько вариантов аудио. Сохранение удалит другие варианты. Продолжить или сохранить копию?";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Это запись из WeChat. Ассистент WeChat сохранит имена контактов.\nКупить TrollRecorder Pro для активации ассистента?";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Это запись из WeChat. Ассистент WeChat сохранит имена контактов.\nАктивировать ассистент сейчас?";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "Эта версия WeChat (%@) не поддерживается. Обновите приложение.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Эта версия WeChat (%@) не тестировалась. Некоторые функции могут не работать.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "Эта версия WeChat (%@) поддерживается частично. Рекомендуем обновление.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is supported." = "Эта версия WeChat (%@) поддерживается.";
+
+/* No comment provided by engineer. */
+"Three-digit Milliseconds" = "Трехзначные миллисекунды";
+
+/* No comment provided by engineer. */
+"Time Sensitive" = "Срочное";
+
+/* No comment provided by engineer. */
+"Title" = "Название";
+
+/* No comment provided by engineer. */
+"To %@" = "Кому: %@";
+
+/* No comment provided by engineer. */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Для активации «Launch Shield» добавьте виджет TrollRecorder на экран. Нажмите «Добавить», затем переместите его.";
+
+/* No comment provided by engineer. */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Для настройки iCloud Drive перейдите в «Настройки» → «Сотовая связь» → «iCloud Drive».";
+
+/* No comment provided by engineer. */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "Настройки уведомлений синхронизации в разделе «Сетевое хранилище».";
+
+/* No comment provided by engineer. */
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "Для настройки «Удержания» удалите кастомный ярлык в «Автоматизация» → «Удержание Hoverball».";
+
+/* No comment provided by engineer. */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "Для точной истории звонков используйте TrollFools для интеграции с WeChat.";
+
+/* No comment provided by engineer. */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Для доступа WebDAV выберите «Всегда» или «При использовании» для TrollRecorder.";
+
+/* No comment provided by engineer. */
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Для «Умного архива» включите фоновое обновление TrollRecorder.";
+
+/* No comment provided by engineer. */
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Для «Умного архива» войдите в iCloud Drive в «Настройках».";
+
+/* No comment provided by engineer. */
+"To: %@" = "Кому: %@";
+
+/* No comment provided by engineer. */
+"toggle" = "переключить";
+
+/* No comment provided by engineer. */
+"Toggle ${requestedMode}" = "Переключить ${requestedMode}";
+
+/* No comment provided by engineer. */
+"Toggle Call Recording" = "Переключить запись звонка";
+
+/* No comment provided by engineer. */
+"Toggle Hoverball" = "Переключить Hoverball";
+
+/* No comment provided by engineer. */
+"Toggle ON/OFF the recorder hoverball." = "Включить/выключить Hoverball.";
+
+/* No comment provided by engineer. */
+"Toggle Recording" = "Переключить запись";
+
+/* No comment provided by engineer. */
+"Toggle Screen Recording" = "Переключить запись экрана";
+
+/* No comment provided by engineer. */
+"Toggle System Audio Recording" = "Переключить запись системного звука";
+
+/* No comment provided by engineer. */
+"Toggle system screen recording just like what you do in the Control Center." = "Переключить запись экрана (как в Пункте управления).";
+
+/* No comment provided by engineer. */
+"Toggle Voice Memo Recording" = "Переключить голосовую заметку";
+
+/* No comment provided by engineer. */
+"Token expired. Please re-authorize to continue." = "Токен устарел. Повторно авторизуйтесь.";
+
+/* No comment provided by engineer. */
+"top edge" = "верхняя грань";
+
+/* No comment provided by engineer. */
+"Total size is %@, path is %@" = "Общий размер: %@, путь: %@";
+
+/* No comment provided by engineer. */
+"Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"To…" = "Кому…";
+
+/* No comment provided by engineer. */
+"Track Location Updates" = "Отслеживать местоположение";
+
+/* No comment provided by engineer. */
+"trailing edge" = "задняя грань";
+
+/* No comment provided by engineer. */
+"Transcript" = "Транскрипт";
+
+/* No comment provided by engineer. */
+"Transfer exceeded." = "Превышен лимит передачи.";
+
+/* No comment provided by engineer. */
+"Transition When Idle" = "Анимация бездействия";
+
+/* To translators: Replace @AUTHOR_NAME with your name. */
+"Translated by @AUTHOR_NAME" = "Перевод: Card Holder";
+
+/* No comment provided by engineer. */
+"Trim" = "Обрезать";
+
+/* No comment provided by engineer. */
+"Troll Recorder" = "Troll Recorder";
+
+/* No comment provided by engineer. */
+"tts" = "TTS";
+
+/* No comment provided by engineer. */
+"Turn this option off to make the other options on this page take effect for the current application." = "Отключите эту опцию, чтобы другие настройки применились.";
+
+/* No comment provided by engineer. */
+"Two-digit Day of Month Number" = "Двузначный день месяца";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 12-hour Clock" = "Двузначные часы (12-часовой формат)";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 24-hour Clock" = "Двузначные часы (24-часовой формат)";
+
+/* No comment provided by engineer. */
+"Two-digit Minutes" = "Двузначные минуты";
+
+/* No comment provided by engineer. */
+"Two-digit Month Number" = "Двузначный номер месяца";
+
+/* No comment provided by engineer. */
+"Two-digit Seconds" = "Двузначные секунды";
+
+/* No comment provided by engineer. */
+"Type to search…" = "Поиск…";
+
+/* No comment provided by engineer. */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Не удалось найти папку для синхронизации. Создайте «TrollRecorder/Recordings» в хранилище.";
+
+/* No comment provided by engineer. */
+"Unable to locate your personal “OneDrive”." = "Не удалось найти ваш OneDrive.";
+
+/* No comment provided by engineer. */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Требуется полная синхронизация (инкрементная невозможна).";
+
+/* No comment provided by engineer. */
+"Unauthorize" = "Отозвать доступ";
+
+/* No comment provided by engineer. */
+"Uncompressed" = "Без сжатия";
+
+/* No comment provided by engineer. */
+"Underscore" = "Подчеркивание";
+
+/* No comment provided by engineer. */
+"Unknown" = "Неизвестно";
+
+/* No comment provided by engineer. */
+"Unknown Address" = "Неизвестный адрес";
+
+/* No comment provided by engineer. */
+"Unknown Artist" = "Неизвестный исполнитель";
+
+/* No comment provided by engineer. */
+"Unknown Direction" = "Неизвестное направление";
+
+/* No comment provided by engineer. */
+"Unknown Duration" = "Неизвестная длительность";
+
+/* No comment provided by engineer. */
+"Unknown Error" = "Неизвестная ошибка";
+
+/* No comment provided by engineer. */
+"Unknown error occurred." = "Произошла неизвестная ошибка.";
+
+/* No comment provided by engineer. */
+"Unknown error occurred. Please check the log for more details." = "Неизвестная ошибка. Подробности в логах.";
+
+/* No comment provided by engineer. */
+"Unknown File Format" = "Неизвестный формат файла";
+
+/* No comment provided by engineer. */
+"Unknown Location" = "Неизвестное местоположение";
+
+/* No comment provided by engineer. */
+"Unknown Operator" = "Неизвестный оператор";
+
+/* No comment provided by engineer. */
+"Unknown Phone Address" = "Неизвестный номер";
+
+/* No comment provided by engineer. */
+"Unknown Place" = "Неизвестное место";
+
+/* No comment provided by engineer. */
+"Unknown Provider" = "Неизвестный провайдер";
+
+/* No comment provided by engineer. */
+"Unknown Sample Rate" = "Неизвестная частота дискретизации";
+
+/* No comment provided by engineer. */
+"Unknown Sender" = "Неизвестный отправитель";
+
+/* No comment provided by engineer. */
+"Unknown Type" = "Неизвестный тип";
+
+/* No comment provided by engineer. */
+"Unknown Variant" = "Неизвестный вариант";
+
+/* No comment provided by engineer. */
+"Unlock all features?" = "Разблокировать все функции?";
+
+/* No comment provided by engineer. */
+"Unmark" = "Снять отметку";
+
+/* No comment provided by engineer. */
+"unmute" = "включить звук";
+
+/* No comment provided by engineer. */
+"Unmute ${requestedChannel}" = "Включить звук ${requestedChannel}";
+
+/* No comment provided by engineer. */
+"Unmute Existing Calls" = "Включить звук текущих звонков";
+
+/* No comment provided by engineer. */
+"Unmute specified channel of all existing calls." = "Включить звук указанного канала во всех звонках.";
+
+/* No comment provided by engineer. */
+"Unspecified" = "Не указано";
+
+/* No comment provided by engineer. */
+"Unsupported Configuration" = "Неподдерживаемая конфигурация";
+
+/* No comment provided by engineer. */
+"Untitled" = "Без названия";
+
+/* No comment provided by engineer. */
+"Up to 5 Personal Devices" = "До 5 личных устройств";
+
+/* No comment provided by engineer. */
+"Updating…" = "Обновление…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "Обновить сейчас";
+
+/* No comment provided by engineer. */
+"Upgrade to %@" = "Обновить до %@";
+
+/* No comment provided by engineer. */
+"uplink" = "исходящий";
+
+/* No comment provided by engineer. */
+"Uplink (Microphone)" = "Исходящий (микрофон)";
+
+/* No comment provided by engineer. */
+"Upload" = "Загрузить";
+
+/* No comment provided by engineer. */
+"Upload, download or synchronize recordings between local and cloud drive." = "Загрузка, выгрузка или синхронизация записей с облаком.";
+
+/* No comment provided by engineer. */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Загрузка: записи сохраняются в облако в оригинале. Восстановимо.";
+
+/* No comment provided by engineer. */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Использовать биометрию для разблокировки. Фоновое воспроизведение отключено.";
+
+/* No comment provided by engineer. */
+"Use Cellular Network" = "Использовать мобильную сеть";
+
+/* No comment provided by engineer. */
+"Use Date" = "Использовать дату";
+
+/* No comment provided by engineer. */
+"Use Date Range" = "Использовать диапазон дат";
+
+/* No comment provided by engineer. */
+"Use Default Settings" = "Использовать настройки по умолчанию";
+
+/* No comment provided by engineer. */
+"Use Haptic Patterns" = "Использовать тактильные паттерны";
+
+/* No comment provided by engineer. */
+"Use Media Controls" = "Использовать медиа-управление";
+
+/* No comment provided by engineer. */
+"Use Recycle Bin" = "Использовать корзину";
+
+/* No comment provided by engineer. */
+"Use Snapshot Transition" = "Использовать переход через снимок";
+
+/* No comment provided by engineer. */
+"User Agreement" = "Пользовательское соглашение";
+
+/* No comment provided by engineer. */
+"User Applications" = "Пользовательские приложения";
+
+/* No comment provided by engineer. */
+"User denied access to speech recognition." = "Пользователь запретил доступ к распознаванию речи";
+
+/* No comment provided by engineer. */
+"User Initiated Recording" = "Запись, инициированная пользователем";
+
+/* No comment provided by engineer. */
+"User Interface Style" = "Стиль интерфейса";
+
+/* No comment provided by engineer. */
+"Username (Optional)" = "Имя пользователя (опционально)";
+
+/* No comment provided by engineer. */
+"Utility" = "Утилита";
+
+/* No comment provided by engineer. */
+"Variant" = "Вариант";
+
+/* No comment provided by engineer. */
+"Variant Capitalized" = "Вариант (с заглавной)";
+
+/* No comment provided by engineer. */
+"Variant Description" = "Описание варианта";
+
+/* No comment provided by engineer. */
+"Verification Failed" = "Проверка не пройдена";
+
+/* No comment provided by engineer. */
+"Verify License" = "Проверить лицензию";
+
+/* No comment provided by engineer. */
+"Version %@ Build %@" = "Версия %@ Сборка %@";
+
+/* No comment provided by engineer. */
+"Version %@ Build %@ - New Version %@ Build %@" = "Версия %@ Сборка %@ - Новая версия %@ Сборка %@";
+
+/* No comment provided by engineer. */
+"Vibrate" = "Вибрация";
+
+/* No comment provided by engineer. */
+"View" = "Просмотр";
+
+/* No comment provided by engineer. */
+"View Details" = "Просмотр деталей";
+
+/* No comment provided by engineer. */
+"View Logs" = "Просмотр логов";
+
+/* No comment provided by engineer. */
+"View Logs: Application" = "Логи приложения";
+
+/* No comment provided by engineer. */
+"View Logs: Audio Player" = "Логи аудиоплеера";
+
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "Логи монитора вызовов";
+
+/* No comment provided by engineer. */
+"View Logs: Call Recorder" = "Логи записи вызовов";
+
+/* No comment provided by engineer. */
+"View Logs: Hoverball" = "Логи Hoverball";
+
+/* No comment provided by engineer. */
+"View Logs: Launch Agent" = "Логи агента запуска";
+
+/* No comment provided by engineer. */
+"View Logs: Network Storage" = "Логи сетевого хранилища";
+
+/* No comment provided by engineer. */
+"View Logs: Speech Utterance" = "Логи речевого вывода";
+
+/* No comment provided by engineer. */
+"View Logs: System Audio" = "Логи системного звука";
+
+/* No comment provided by engineer. */
+"View Logs: Voice Memo" = "Логи голосовых заметок";
+
+/* No comment provided by engineer. */
+"View My Account" = "Мой аккаунт";
+
+/* No comment provided by engineer. */
+"View Recording Details" = "Просмотр деталей записи";
+
+/* No comment provided by engineer. */
+"VIP contacts will always be recorded and added to the favourites." = "Контакты VIP всегда записываются и добавляются в избранное";
+
+/* No comment provided by engineer. */
+"Voice Memo" = "Голосовая заметка";
+
+/* No comment provided by engineer. */
+"Voice Memo Recording" = "Запись голосовой заметки";
+
+/* No comment provided by engineer. */
+"voice memo recording" = "запись голосовой заметки";
+
+/* No comment provided by engineer. */
+"Voice Memos" = "Голосовые заметки";
+
+/* No comment provided by engineer. */
+"voice-over" = "голос за кадром";
+
+/* No comment provided by engineer. */
+"Voice-Over Voice" = "Голос озвучки";
+
+/* No comment provided by engineer. */
+"VoIP" = "VoIP";
+
+/* No comment provided by engineer. */
+"Volume" = "Громкость";
+
+/* No comment provided by engineer. */
+"wait" = "ожидание";
+
+/* No comment provided by engineer. */
+"Wait for ${requestedTimeout} seconds" = "Ожидать ${requestedTimeout} секунд";
+
+/* No comment provided by engineer. */
+"Wait for any calls to be answered and connected." = "Ожидать ответа и соединения вызова";
+
+/* No comment provided by engineer. */
+"Wait for Calls" = "Ожидать вызовы";
+
+/* No comment provided by engineer. */
+"Wait for Connected Calls" = "Ожидать соединённые вызовы";
+
+/* No comment provided by engineer. */
+"Warning, your call is being recorded now. Warning, your call is being recorded now." = "Внимание: ваш разговор записывается. Внимание: ваш разговор записывается.";
+
+/* No comment provided by engineer. */
+"Waveform Audio" = "Waveform Audio";
+
+/* No comment provided by engineer. */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "Не удалось проверить покупку из-за неверного времени. Убедитесь, что время на устройстве точное.";
+
+/* No comment provided by engineer. */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Не удалось проверить покупку в приватном режиме. Отключите приватный режим Safari.";
+
+/* No comment provided by engineer. */
+"We love colorful and moving backgrounds, but option here for you to disable it." = "Мы любим красочные анимированные фоны, но вы можете отключить их здесь.";
+
+/* No comment provided by engineer. */
+"WebDAV" = "WebDAV";
+
+/* No comment provided by engineer. */
+"WebDAV Server" = "WebDAV сервер";
+
+/* No comment provided by engineer. */
+"WeChat" = "WeChat";
+
+/* No comment provided by engineer. */
+"WeChat Assistant" = "Ассистент WeChat";
+
+/* No comment provided by engineer. */
+"Welcome to" = "Добро пожаловать в";
+
+/* No comment provided by engineer. */
+"We’re recording system audio in the background." = "Идёт запись системного звука в фоне.";
+
+/* No comment provided by engineer. */
+"We’re recording your voice memo in the background." = "Идёт запись вашей голосовой заметки в фоне.";
+
+/* No comment provided by engineer. */
+"We’ve got a new phone call recording!" = "У нас новая запись звонка!";
+
+/* No comment provided by engineer. */
+"We’ve got a new system audio recording!" = "У нас новая запись системного звука!";
+
+/* No comment provided by engineer. */
+"We’ve got a new voice memo!" = "У нас новая голосовая заметка!";
+
+/* No comment provided by engineer. */
+"We’ve got new phone call recordings!" = "У нас новые записи звонков!";
+
+/* No comment provided by engineer. */
+"What’s New" = "Что нового";
+
+/* No comment provided by engineer. */
+"When any of the following actions is triggered, run the shortcut without any notification." = "При срабатывании любого из следующих действий запускать сценарий без уведомлений.";
+
+/* No comment provided by engineer. */
+"When Foreground" = "Когда на переднем плане";
+
+/* No comment provided by engineer. */
+"When Locked" = "При блокировке";
+
+/* No comment provided by engineer. */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "При отсутствии Wi-Fi использовать мобильную сеть для передачи записей. Могут взиматься дополнительные платежи.";
+
+/* No comment provided by engineer. */
+"When there is no call…" = "Когда нет звонков…";
+
+/* No comment provided by engineer. */
+"When Visible" = "Когда видно";
+
+/* No comment provided by engineer. */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "При включении WebDAV сервера разрешать доступ через браузеры (Safari, Chrome, Edge и др.)";
+
+/* No comment provided by engineer. */
+"Whether to force the application to use the light or the dark user interface." = "Принудительно устанавливать светлую или тёмную тему интерфейса.";
+
+/* No comment provided by engineer. */
+"Whether to force the hoverball to use the light or the dark style." = "Принудительно устанавливать светлый или тёмный стиль для hoverball.";
+
+/* No comment provided by engineer. */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Бесконечно повторять воспроизведение аудио. При включении действие завершится сразу после начала воспроизведения.";
+
+/* No comment provided by engineer. */
+"Which channel to mute." = "Какой канал отключить.";
+
+/* No comment provided by engineer. */
+"Which channel to unmute." = "Какой канал включить.";
+
+/* No comment provided by engineer. */
+"Which edges of the screen the hoverball can be attached to." = "К каким краям экрана можно прикреплять hoverball.";
+
+/* No comment provided by engineer. */
+"Why don’t you make a phone call?" = "Почему бы не сделать звонок?";
+
+/* No comment provided by engineer. */
+"Will start recording automatically on audio or video calls in the current application." = "Автоматически записывать аудио и видеозвонки в текущем приложении.";
+
+/* No comment provided by engineer. */
+"Will start recording automatically on audio or video calls." = "Автоматически записывать аудио и видеозвонки.";
+
+/* No comment provided by engineer. */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Добавлять ID3-теги в экспортируемые аудиофайлы (название, исполнитель, альбом, жанр, год и обложку).";
+
+/* No comment provided by engineer. */
+"Write latitude and longitude to the recording metadata." = "Записывать широту и долготу в метаданные записи.";
+
+/* No comment provided by engineer. */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Записывать логи работы в файловую систему. Для применения изменений требуется перезапуск служб.";
+
+/* No comment provided by engineer. */
+"Year Month Day" = "Год Месяц День";
+
+/* No comment provided by engineer. */
+"YES" = "ДА";
+
+/* No comment provided by engineer. */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "Вы собираетесь удалить все записи, сбросить настройки и очистить кеш.\nTHIS ЭТО ДЕЙСТВИЕ НЕЛЬЗЯ ОТМЕНИТЬ!";
+
+/* No comment provided by engineer. */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Вы можете загрузить голос в “Настройки” → “Универсальный доступ” → “VoiceOver” → “Речь” → “Голоса”, затем выбрать его здесь для голосовых объявлений.";
+
+/* No comment provided by engineer. */
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Для определения местоположения в фоне выберите “Всегда” для “Troll Recorder”. При выборе “При использовании” местоположение будет обновляться только после запуска приложения.";
+
+/* No comment provided by engineer. */
+"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Для работы настроек на этой странице может потребоваться включить “Расширенную авто-запись” или “Расширенное определение сцены”.";
+
+/* No comment provided by engineer. */
+"You may need to reboot your device to make this application work properly." = "Для корректной работы приложения может потребоваться перезагрузка устройства.";
+
+/* No comment provided by engineer. */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Ваши данные с %@ будут загружены и объединены с записями в “%@”.";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder JB”." = "Вы используете бесплатную версию “TrollRecorder JB”.";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder”." = "Вы используете бесплатную версию “TrollRecorder”.";
+
+/* No comment provided by engineer. */
+"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "Вы изменили язык приложения на “%@”. Для полного применения изменений требуется respring.";
+
+/* No comment provided by engineer. */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Вы изменили “Пользовательское имя экспорта”. Пересоздать архивные записи в “Сетевом хранилище”?\nОперация может занять время и расходовать мобильный трафик. Рекомендуется удалить “TrollRecorder/ArchivedRecordings” из облака во избежание дублирования.";
+
+/* No comment provided by engineer. */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "Вы продолжили без валидной подписи. Доступны просмотр и экспорт записей, другие функции могут не работать.";
+
+/* No comment provided by engineer. */
+"You’ve enabled biometric authentication so it’s required to verify your identity." = "Вы включили биометрическую аутентификацию - требуется подтверждение личности.";
+
+/* No comment provided by engineer. */
+"You’ve pressed cancel." = "Вы нажали “Отмена”.";
+
+/* No comment provided by engineer. */
+"You’ve pressed password." = "Вы ввели пароль.";
+
+/* No comment provided by engineer. */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* No comment provided by engineer. */
+"½ Audio CD" = "½ Audio CD";
+
+/* No comment provided by engineer. */
+"“%@” is not available." = "“%@” недоступен.";
+
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Автоматическая запись” отключена: звонки VIP всегда записываются и добавляются в избранное, остальные - нет.";
+
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Автоматическая запись” включена: контакты из “Исключений” не записываются, остальные записываются. Записи VIP добавляются в избранное.";
+
+/* No comment provided by engineer. */
+"“Background App Refresh” Permission Denied" = "Доступ к “Фоновому обновлению” запрещён";
+
+/* No comment provided by engineer. */
+"“iCloud Drive” Not Logged In" = "Нет входа в “iCloud Drive”";
+
+/* No comment provided by engineer. */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Установлены обе версии “TrollRecorder JB” и TrollStore. Удалите их и установите заново через Sileo или TrollStore.";
+
+/* No comment provided by engineer. */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” несовместим с Bootstrap (RootHide). Удалите его и установите “TrollRecorder” через TrollStore.";
+
+/* No comment provided by engineer. */
+"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” несовместим с этой версией iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";
