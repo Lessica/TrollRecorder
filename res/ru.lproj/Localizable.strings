@@ -115,7 +115,7 @@
 /* No comment provided by engineer. */
 "Additional Contact" = "Дополнительный контакт";
 
-/* No comment provided by engineer. */
+/* TODO */
 "Adequate" = "Adequate";
 
 /* No comment provided by engineer. */
@@ -259,7 +259,7 @@
 /* No comment provided by engineer. */
 "audio" = "аудио";
 
-/* No comment provided by engineer. */
+/* TODO */
 "Audio CD" = "Audio CD";
 
 /* No comment provided by engineer. */
@@ -436,7 +436,7 @@
 /* No comment provided by engineer. */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Запись возможна только при использовании микрофона этого устройства.";
 
-/* No comment provided by engineer. */
+/* TODO */
 "Camcorder" = "Camcorder";
 
 /* No comment provided by engineer. */
@@ -709,7 +709,7 @@
 /* No comment provided by engineer. */
 "Developer Options" = "Настройки разработчика";
 
-/* No comment provided by engineer. */
+/* TODO */
 "Digital Video" = "Digital Video";
 
 /* No comment provided by engineer. */
@@ -1174,7 +1174,7 @@
 /* No comment provided by engineer. */
 "Hoverball" = "Плавающая кнопка";
 
-/* No comment provided by engineer. */
+/* TODO */
 "Hoverball Plus" = "Hoverball Plus";
 
 /* No comment provided by engineer. */
@@ -1336,7 +1336,7 @@
 /* No comment provided by engineer. */
 "Launch App at End" = "Запустить приложение по завершении";
 
-/* No comment provided by engineer. */
+/* TODO */
 "Launch Shield" = "Launch Shield";
 
 /* No comment provided by engineer. */
@@ -1999,304 +1999,304 @@
 /* No comment provided by engineer. */
 "Recording (Localized)" = "Запись (локализованная)";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recording Interrupted" = "Запись прервана";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recording Options" = "Настройки записи";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Запись начнется, когда аудиовходы и аудиовыходы будут непрерывно активны.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recording successfully started." = "Запись успешно начата.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recording Type" = "Тип записи";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recording Type Description" = "Описание типа записи";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recording will begin when the call is answered." = "Запись начнется при ответе на звонок.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recording “%@” is in progress." = "Идет запись «%@».";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "RECORDING_LOCALIZED" = "Запись";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recordings" = "Записи";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recordings here are permanently removed after 30 days." = "Записи здесь удаляются безвозвратно через 30 дней.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Recycle Bin" = "Корзина";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Regenerate All" = "Перегенерировать все";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "reject" = "отклонить";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Reject all incoming calls automatically." = "Автоматически отклонять все входящие звонки.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Reject Incoming Calls" = "Отклонять входящие звонки";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Relaunched" = "Перезапущено";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Release" = "Релиз";
 
-/* Инженер не предоставил комментария. */
+/* TODO */
 "Release Notes" = "Release Notes";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Remove" = "Удалить";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Удалить все кэшированные волновые формы и разрешить их перестроение из оригинальных записей.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "Безвозвратно удалить все записи";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Remove Outdated Recordings" = "Удалить устаревшие записи";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Rename" = "Переименовать";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Repeat Infinitely" = "Повторять бесконечно";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Reset" = "Сбросить";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Reset All Shortcuts" = "Сбросить все ярлыки";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Reset Search Indexes" = "Сбросить поисковые индексы";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Reset Service" = "Сбросить службу";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Respring" = "Перезапуск SpringBoard";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Restart Render Server" = "Перезапустить сервер рендеринга";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Restore" = "Восстановить";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Restore %d Items From Recycle Bin" = "Восстановить %d элементов из корзины";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Restore Selected %ld Items" = "Восстановить выбранные %ld элементов";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Restore Selected Item" = "Восстановить выбранный элемент";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Restoring" = "Восстановление";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Resume Recording" = "Продолжить запись";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Resume with Warning" = "Продолжить с предупреждением";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Retry" = "Повторить";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Reverse Geocoding" = "Обратное геокодирование";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Reverse Selection" = "Инвертировать выделение";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Rewind 15 Seconds" = "Перемотать на 15 секунд";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Ring" = "Звонок";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Ring & Vibrate" = "Звонок и вибрация";
 
-/* Инженер не предоставил комментария. */
+/* TODO */
 "Root" = "Root";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "RootHide Jailbreak" = "RootHide джейлбрейк";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Rootless Jailbreak" = "Rootless джейлбрейк";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Runtime Environment: %@" = "Среда выполнения: %@";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Sample Rate" = "Частота дискретизации";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Sandbox Build" = "Сборка в песочнице";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Save" = "Сохранить";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Save as Duplicate" = "Сохранить копию";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Save as Duplicate…" = "Сохранить копию…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Say ${requestedText}" = "Скажите ${requestedText}";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Scene Identification" = "Идентификация сцены";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "screen" = "экран";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search" = "Поиск";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search %@ in %@…" = "Искать %1$@ в %2$@…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search %@…" = "Искать %@…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search Apps…" = "Искать приложения…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search Arguments…" = "Искать аргументы…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search Contacts…" = "Искать контакты…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search in %@…" = "Искать в %@…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Глубокий поиск со всей сохранённой при записи информацией, такой как данные контактов или местоположения.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search in Maps" = "Искать в Картах";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search Recordings…" = "Искать записи…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search Shortcuts…" = "Искать ярлыки…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Search…" = "Поиск…";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Seconds" = "Секунды";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Secure" = "Безопасный";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Secure Payment" = "Безопасный платёж";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "See ya!" = "До встречи!";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Select" = "Выбрать";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Select a recording to play." = "Выберите запись для воспроизведения.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Select All" = "Выбрать все";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Select the primary cloud service provider for recording synchronization." = "Выберите основной облачный сервис для синхронизации записей.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Semi-Transparent" = "Полупрозрачный";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Sender Name" = "Имя отправителя";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Sender Phone Address" = "Телефонный адрес отправителя";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Sender Short Name" = "Короткое имя отправителя";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Separated Channels" = "Разделенные каналы";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Separators" = "Разделители";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Server" = "Сервер";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Server started at: %@" = "Сервер запущен в: %@";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Server URL" = "URL сервера";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "service" = "сервис";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Service is alive" = "Сервис активен";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Service is dead" = "Сервис неактивен";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Service Status" = "Статус сервиса";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "Задайте новое имя для этой записи или оставьте пустым для значения по умолчанию.";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Settings" = "Настройки";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Setup Failed" = "Ошибка настройки";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Share" = "Поделиться";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Short Date" = "Краткая дата";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Short Day of Week String" = "Сокращенный день недели";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Short Month Name" = "Сокращенное название месяца";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Short Time" = "Краткое время";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Show Bundle Name" = "Показывать Bundle Name";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Show Contact Names" = "Показывать имена контактов";
 
-/* Инженер не предоставил комментария. */
+/* No comment provided by engineer. */
 "Show Hoverball" = "Показывать Hoverball";
 
 /* No comment provided by engineer. */
@@ -3145,7 +3145,7 @@
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Внимание: ваш разговор записывается. Внимание: ваш разговор записывается.";
 
-/* No comment provided by engineer. */
+/* TODO */
 "Waveform Audio" = "Waveform Audio";
 
 /* No comment provided by engineer. */
@@ -3298,10 +3298,10 @@
 /* No comment provided by engineer. */
 "You’ve pressed password." = "Вы ввели пароль.";
 
-/* No comment provided by engineer. */
+/* TODO */
 "¼ Audio CD" = "¼ Audio CD";
 
-/* No comment provided by engineer. */
+/* TODO */
 "½ Audio CD" = "½ Audio CD";
 
 /* No comment provided by engineer. */
