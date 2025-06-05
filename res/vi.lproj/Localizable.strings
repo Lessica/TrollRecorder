@@ -8,7 +8,7 @@
 "%@ is not available." = "%@ không có sẵn.";
 
 /* TODO */
-"%@ is not implemented yet." = "%@ is not implemented yet.";
+"%@ is not implemented yet." = "%@ Chưa được thực hiện.";
 
 /* No comment provided by engineer. */
 "%@ is not set up." = "%@ không được thiết lập.";
@@ -17,7 +17,7 @@
 "%@ may not be configured" = "%@ có thể không được cấu hình";
 
 /* TODO */
-"%@ rows not loaded" = "%@ rows not loaded";
+"%@ rows not loaded" = "%@ các hàng không tải được";
 
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "%d Các tính năng độc quyền";
@@ -56,7 +56,7 @@
 "4 Seconds" = "4 Giây";
 
 /* TODO */
-"45 Days Ago" = "45 Days Ago";
+"45 Days Ago" = "45 Ngày Trước";
 
 /* No comment provided by engineer. */
 "5 Seconds" = "5 Giây";
@@ -71,25 +71,25 @@
 "<%@: %p>" = "<%@: %p>";
 
 /* TODO */
-"A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
+"A new version (%@) of “TrollRecorder” is available." = "Phiên bản mới (%@) của “TrollRecorder” đã có sẵn.";
 
 /* TODO */
-"A resping is required to completely apply the changes." = "A resping is required to completely apply the changes.";
+"A resping is required to completely apply the changes." = "Resping là cần thiết để áp dụng tất cả các thay đổi.";
 
 /* TODO */
 "A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
 
 /* TODO */
-"accept" = "accept";
+"accept" = "Chấp nhận";
 
 /* TODO */
-"Accept all incoming calls automatically." = "Accept all incoming calls automatically.";
+"Accept all incoming calls automatically." = "Tự động chấp nhận tất cả các cuộc gọi đến.";
 
 /* TODO */
-"Accept Incoming Calls" = "Accept Incoming Calls";
+"Accept Incoming Calls" = "Chấp nhận cuộc gọi đến";
 
 /* TODO */
-"Access From Web Browser" = "Access From Web Browser";
+"Access From Web Browser" = "Truy cập từ trình duyệt web";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Truy cập các bản ghi âm của bạn từ trình duyệt WebDAV từ một thiết bị khác trong mạng. Máy chủ chỉ hoạt động khi ứng dụng ở phía trước.";
@@ -101,13 +101,13 @@
 "Activate the recorder hoverball." = "Kích hoạt bong bóng ghi âm.";
 
 /* TODO */
-"Add" = "Add";
+"Add" = "Thêm";
 
 /* TODO */
-"Add Now" = "Add Now";
+"Add Now" = "Thêm Ngay";
 
 /* TODO */
-"Add Required Widget" = "Add Required Widget";
+"Add Required Widget" = "Thêm tiện ích cần thiết";
 
 /* TODO */
 "Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
@@ -116,7 +116,7 @@
 "Additional Contact" = "Liên hệ bổ sung";
 
 /* TODO */
-"Adequate" = "Adequate";
+"Adequate" = "Đầy Đủ";
 
 /* No comment provided by engineer. */
 "Advanced Audio Coding" = "Mã hóa âm thanh nâng cao";
@@ -128,25 +128,25 @@
 "Advanced Search" = "Tìm kiếm nâng cao";
 
 /* TODO */
-"After %@" = "After %@";
+"After %@" = "Sau %@";
 
 /* No comment provided by engineer. */
 "Agree" = "Đồng ý";
 
 /* TODO */
-"Alias" = "Alias";
+"Alias" = "Bí Danh";
 
 /* TODO */
-"alive" = "alive";
+"alive" = "tồn tại";
 
 /* TODO */
-"All Edges" = "All Edges";
+"All Edges" = "Tất Cả Các Cạnh";
 
 /* TODO */
-"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Tất cả các bản ghi sẽ được giữ trong 7 ngày. Nhật ký lỗi thời sẽ tự động bị xóa.";
 
 /* TODO */
-"Allow Access to Call History" = "Allow Access to Call History";
+"Allow Access to Call History" = "Cho phép truy cập vào lịch sử cuộc gọi";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Cho phép ghi âm tự động";
@@ -155,13 +155,13 @@
 "Allow Hoverball Wake-Ups" = "Cho phép bong bóng được bật";
 
 /* TODO */
-"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Cho phép đọc danh sách liên hệ WeChat và lịch sử cuộc gọi VoIP để điền tên liên hệ của các bản ghi. Chỉ hỗ trợ các phiên bản WeChat gần đây.";
 
 /* TODO */
-"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Cho phép ghi âm các cuộc gọi điện thoại nhận được trên các thiết bị đã đăng nhập vào tài khoản iCloud của bạn khi chúng ở gần và trên mạng WLAN.";
 
 /* TODO */
-"Always" = "Always";
+"Always" = "Luôn luôn";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Luôn tối";
@@ -170,13 +170,13 @@
 "Always Dynamic" = "Luôn năng động";
 
 /* TODO */
-"Always Fold" = "Always Fold";
+"Always Fold" = "Luôn Gấp Lại";
 
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "Luôn giữ cho cửa sổ bong bóng được hiển thị mọi lúc";
 
 /* TODO */
-"Always Keep-Alive in Background" = "Always Keep-Alive in Background";
+"Always Keep-Alive in Background" = "Luôn luôn giữ chạy trong nền.";
 
 /* No comment provided by engineer. */
 "Always Light" = "Luôn sáng";
@@ -185,34 +185,34 @@
 "Always On" = "Luôn bật";
 
 /* TODO */
-"Always schedule background processing tasks to run at the next available opportunity." = "Always schedule background processing tasks to run at the next available opportunity.";
+"Always schedule background processing tasks to run at the next available opportunity." = "Luôn lên lịch các tác vụ xử lý nền để chạy vào thời điểm có thể tiếp theo.";
 
 /* TODO */
 "AM/PM String" = "AM/PM String";
 
 /* TODO */
-"An unknown error occurred." = "An unknown error occurred.";
+"An unknown error occurred." = "Đã xảy ra lỗi không xác định.";
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "Phân tích âm thanh";
 
 /* TODO */
-"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+"Another %@ is required to continue editing. Available capacity is %@." = "Cần có %1$@ khác để tiếp tục chỉnh sửa. Dung lượng khả dụng là %2$@.";
 
 /* TODO */
-"answer" = "answer";
+"answer" = "trả lời";
 
 /* TODO */
-"answered" = "answered";
+"answered" = "đã trả lời";
 
 /* TODO */
-"Any" = "Any";
+"Any" = "Bất kỳ";
 
 /* TODO */
-"App Icon" = "App Icon";
+"App Icon" = "Biểu tượng App";
 
 /* TODO */
-"App Language" = "App Language";
+"App Language" = "Ngôn ngữ";
 
 /* No comment provided by engineer. */
 "Appearance" = "Vẻ bề ngoài";
@@ -230,10 +230,10 @@
 "Applications" = "Các ứng dụng";
 
 /* TODO */
-"archive" = "archive";
+"archive" = "bản lưu trữ";
 
 /* TODO */
-"Archive" = "Archive";
+"Archive" = "Bản lưu trữ";
 
 /* TODO */
 "Archive Regeneration" = "Archive Regeneration";
