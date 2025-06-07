@@ -1045,6 +1045,9 @@
 /* No comment provided by engineer. */
 "finish" = "완료";
 
+/* TODO */
+"Fix File-System" = "Fix File-System";
+
 /* No comment provided by engineer. */
 "Focus" = "초점";
 
@@ -1215,6 +1218,9 @@
 
 /* TODO */
 "If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
+
+/* TODO */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here.";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "휴대폰이 듀얼 SIM 카드를 지원하는 경우 통화 녹음에 사용된 SIM 카드 별명이 여기에 표시됩니다.";
@@ -1899,6 +1905,9 @@
 
 /* TODO */
 "Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
+
+/* TODO */
+"Processing" = "Processing";
 
 /* TODO */
 "Pulse-code modulation" = "Pulse-code modulation";
@@ -3258,6 +3267,9 @@
 
 /* TODO */
 "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!";
+
+/* TODO */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
 
 /* TODO */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements.";
