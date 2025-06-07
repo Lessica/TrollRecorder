@@ -1,0 +1,47 @@
+/* No comment provided by engineer. */
+"CFBundleDisplayName" = "TrollRecorder";
+
+/* No comment provided by engineer. */
+"NSContactsUsageDescription" = "TrollRecorderは電話番号の代わりに友達の名前を表示するために、連絡先にアクセスする必要があります。";
+
+/* No comment provided by engineer. */
+"NSFaceIDUsageDescription" = "TrollRecorderは本人確認のためにFace IDにアクセスする必要があります。";
+
+/* No comment provided by engineer. */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorderは録音したデータを保存するために、位置情報にアクセスする必要があります。";
+
+/* No comment provided by engineer. */
+"NSLocationAlwaysUsageDescription" = "TrollRecorderは録音したデータを保存するために、位置情報にアクセスする必要があります。";
+
+/* No comment provided by engineer. */
+"NSLocationTemporaryUsageDescriptionDictionary" = "TrollRecorderは録音したデータを保存するために、位置情報にアクセスする必要があります。";
+
+/* No comment provided by engineer. */
+"NSLocationUsageDescription" = "TrollRecorderは録音したデータを保存するために、位置情報にアクセスする必要があります。";
+
+/* No comment provided by engineer. */
+"NSLocationWhenInUseUsageDescription" = "TrollRecorderは録音したデータを保存するために、位置情報にアクセスする必要があります。";
+
+/* No comment provided by engineer. */
+"NSMicrophoneUsageDescription" = "TrollRecorderは、最も基本的な録音機能を実装するために、マイクにアクセスする必要があります。";
+
+/* No comment provided by engineer. */
+"NSSpeechRecognitionUsageDescription" = "TrollRecorderは音声認識を使用して録音の文字起こしをするために権限を要求しています。";
+
+/* No comment provided by engineer. */
+"NSUbiquitousContainerName" = "TrollRecorder";
+
+/* No comment provided by engineer. */
+"Toggle Call Recording" = "通話録音の切り替え";
+
+/* No comment provided by engineer. */
+"Toggle Hoverball" = "ホバーボールの切り替え";
+
+/* No comment provided by engineer. */
+"Toggle Recording" = "録音の切り替え";
+
+/* No comment provided by engineer. */
+"Toggle System Audio Recording" = "システムオーディオ録音の切り替え";
+
+/* No comment provided by engineer. */
+"Toggle Voice Memo Recording" = "音声メモ録音の切り替え";
