@@ -7,8 +7,8 @@
 /* No comment provided by engineer. */
 "%@ is not available." = "%@ không có sẵn.";
 
-/* TODO */
-"%@ is not implemented yet." = "%@ is not implemented yet.";
+/* No comment provided by engineer. */
+"%@ is not implemented yet." = "%@ Chưa được thực hiện.";
 
 /* No comment provided by engineer. */
 "%@ is not set up." = "%@ không được thiết lập.";
@@ -16,8 +16,8 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ có thể không được cấu hình";
 
-/* TODO */
-"%@ rows not loaded" = "%@ rows not loaded";
+/* No comment provided by engineer. */
+"%@ rows not loaded" = "%@ các hàng không tải được";
 
 /* No comment provided by engineer. */
 "%d Exclusive Features" = "%d Các tính năng độc quyền";
@@ -40,10 +40,10 @@
 /* TODO */
 "(%lu items)" = "(%lu items)";
 
-/* TODO */
+/* No comment provided by engineer. */
 "(null)" = "(null)";
 
-/* TODO */
+/* No comment provided by engineer. */
 "--arg=value" = "--arg=value";
 
 /* No comment provided by engineer. */
@@ -55,8 +55,8 @@
 /* No comment provided by engineer. */
 "4 Seconds" = "4 Giây";
 
-/* TODO */
-"45 Days Ago" = "45 Days Ago";
+/* No comment provided by engineer. */
+"45 Days Ago" = "45 Ngày Trước";
 
 /* No comment provided by engineer. */
 "5 Seconds" = "5 Giây";
@@ -67,29 +67,29 @@
 /* No comment provided by engineer. */
 "90 Days Ago" = "90 Ngày Trước";
 
-/* TODO */
+/* No comment provided by engineer. */
 "<%@: %p>" = "<%@: %p>";
 
-/* TODO */
-"A new version (%@) of “TrollRecorder” is available." = "A new version (%@) of “TrollRecorder” is available.";
+/* No comment provided by engineer. */
+"A new version (%@) of “TrollRecorder” is available." = "Phiên bản mới (%@) của “TrollRecorder” đã có sẵn.";
 
-/* TODO */
-"A resping is required to completely apply the changes." = "A resping is required to completely apply the changes.";
+/* No comment provided by engineer. */
+"A resping is required to completely apply the changes." = "Resping là cần thiết để áp dụng tất cả các thay đổi.";
 
 /* TODO */
 "A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
 
-/* TODO */
-"accept" = "accept";
+/* No comment provided by engineer. */
+"accept" = "Chấp nhận";
 
-/* TODO */
-"Accept all incoming calls automatically." = "Accept all incoming calls automatically.";
+/* No comment provided by engineer. */
+"Accept all incoming calls automatically." = "Tự động chấp nhận tất cả các cuộc gọi đến.";
 
-/* TODO */
-"Accept Incoming Calls" = "Accept Incoming Calls";
+/* No comment provided by engineer. */
+"Accept Incoming Calls" = "Chấp nhận cuộc gọi đến";
 
-/* TODO */
-"Access From Web Browser" = "Access From Web Browser";
+/* No comment provided by engineer. */
+"Access From Web Browser" = "Truy cập từ trình duyệt web";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Truy cập các bản ghi âm của bạn từ trình duyệt WebDAV từ một thiết bị khác trong mạng. Máy chủ chỉ hoạt động khi ứng dụng ở phía trước.";
@@ -100,14 +100,14 @@
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "Kích hoạt bong bóng ghi âm.";
 
-/* TODO */
-"Add" = "Add";
+/* No comment provided by engineer. */
+"Add" = "Thêm";
 
-/* TODO */
-"Add Now" = "Add Now";
+/* No comment provided by engineer. */
+"Add Now" = "Thêm Ngay";
 
-/* TODO */
-"Add Required Widget" = "Add Required Widget";
+/* No comment provided by engineer. */
+"Add Required Widget" = "Thêm tiện ích cần thiết";
 
 /* TODO */
 "Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Additional Contact" = "Liên hệ bổ sung";
 
-/* TODO */
-"Adequate" = "Adequate";
+/* No comment provided by engineer. */
+"Adequate" = "Đầy Đủ";
 
 /* No comment provided by engineer. */
 "Advanced Audio Coding" = "Mã hóa âm thanh nâng cao";
@@ -127,26 +127,26 @@
 /* No comment provided by engineer. */
 "Advanced Search" = "Tìm kiếm nâng cao";
 
-/* TODO */
-"After %@" = "After %@";
+/* No comment provided by engineer. */
+"After %@" = "Sau %@";
 
 /* No comment provided by engineer. */
 "Agree" = "Đồng ý";
 
-/* TODO */
-"Alias" = "Alias";
+/* No comment provided by engineer. */
+"Alias" = "Bí Danh";
 
-/* TODO */
-"alive" = "alive";
+/* No comment provided by engineer. */
+"alive" = "tồn tại";
 
-/* TODO */
-"All Edges" = "All Edges";
+/* No comment provided by engineer. */
+"All Edges" = "Tất Cả Các Cạnh";
 
-/* TODO */
-"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Tất cả các bản ghi sẽ được giữ trong 7 ngày. Nhật ký lỗi thời sẽ tự động bị xóa.";
 
-/* TODO */
-"Allow Access to Call History" = "Allow Access to Call History";
+/* No comment provided by engineer. */
+"Allow Access to Call History" = "Cho phép truy cập vào lịch sử cuộc gọi";
 
 /* No comment provided by engineer. */
 "Allow Automatic Recording" = "Cho phép ghi âm tự động";
@@ -154,14 +154,14 @@
 /* No comment provided by engineer. */
 "Allow Hoverball Wake-Ups" = "Cho phép bong bóng được bật";
 
-/* TODO */
-"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Cho phép đọc danh sách liên hệ WeChat và lịch sử cuộc gọi VoIP để điền tên liên hệ của các bản ghi. Chỉ hỗ trợ các phiên bản WeChat gần đây.";
 
-/* TODO */
-"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN.";
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Cho phép ghi âm các cuộc gọi điện thoại nhận được trên các thiết bị đã đăng nhập vào tài khoản iCloud của bạn khi chúng ở gần và trên mạng WLAN.";
 
-/* TODO */
-"Always" = "Always";
+/* No comment provided by engineer. */
+"Always" = "Luôn luôn";
 
 /* No comment provided by engineer. */
 "Always Dark" = "Luôn tối";
@@ -169,14 +169,14 @@
 /* No comment provided by engineer. */
 "Always Dynamic" = "Luôn năng động";
 
-/* TODO */
-"Always Fold" = "Always Fold";
+/* No comment provided by engineer. */
+"Always Fold" = "Luôn Gấp Lại";
 
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "Luôn giữ cho cửa sổ bong bóng được hiển thị mọi lúc";
 
-/* TODO */
-"Always Keep-Alive in Background" = "Always Keep-Alive in Background";
+/* No comment provided by engineer. */
+"Always Keep-Alive in Background" = "Luôn luôn giữ chạy trong nền.";
 
 /* No comment provided by engineer. */
 "Always Light" = "Luôn sáng";
@@ -184,35 +184,35 @@
 /* No comment provided by engineer. */
 "Always On" = "Luôn bật";
 
-/* TODO */
-"Always schedule background processing tasks to run at the next available opportunity." = "Always schedule background processing tasks to run at the next available opportunity.";
+/* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "Luôn lên lịch các tác vụ xử lý nền để chạy vào thời điểm có thể tiếp theo.";
 
 /* TODO */
 "AM/PM String" = "AM/PM String";
 
-/* TODO */
-"An unknown error occurred." = "An unknown error occurred.";
+/* No comment provided by engineer. */
+"An unknown error occurred." = "Đã xảy ra lỗi không xác định.";
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "Phân tích âm thanh";
 
-/* TODO */
-"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+/* No comment provided by engineer. */
+"Another %@ is required to continue editing. Available capacity is %@." = "Cần có %1$@ khác để tiếp tục chỉnh sửa. Dung lượng khả dụng là %2$@.";
 
-/* TODO */
-"answer" = "answer";
+/* No comment provided by engineer. */
+"answer" = "trả lời";
 
-/* TODO */
-"answered" = "answered";
+/* No comment provided by engineer. */
+"answered" = "đã trả lời";
 
-/* TODO */
-"Any" = "Any";
+/* No comment provided by engineer. */
+"Any" = "Bất kỳ";
 
-/* TODO */
-"App Icon" = "App Icon";
+/* No comment provided by engineer. */
+"App Icon" = "Biểu tượng App";
 
-/* TODO */
-"App Language" = "App Language";
+/* No comment provided by engineer. */
+"App Language" = "Ngôn ngữ";
 
 /* No comment provided by engineer. */
 "Appearance" = "Vẻ bề ngoài";
@@ -229,92 +229,92 @@
 /* No comment provided by engineer. */
 "Applications" = "Các ứng dụng";
 
-/* TODO */
-"archive" = "archive";
+/* No comment provided by engineer. */
+"archive" = "bản lưu trữ";
 
-/* TODO */
-"Archive" = "Archive";
+/* No comment provided by engineer. */
+"Archive" = "Bản lưu trữ";
 
-/* TODO */
-"Archive Regeneration" = "Archive Regeneration";
+/* No comment provided by engineer. */
+"Archive Regeneration" = "Làm mới kho lưu trữ";
 
-/* TODO */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable.";
+/* No comment provided by engineer. */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Lưu trữ: Sử dụng “Chia sẻ nội dung” → “Tuỳ chỉnh tên xuất” để đổi tên các bản ghi chính hỗn hợp & kết hợp cục bộ và tải lên các ổ đĩa đám mây. Không thể khôi phục.";
 
-/* TODO */
-"Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
+/* No comment provided by engineer. */
+"Are you sure you want to discard the changes you made?" = "Bạn có chắc chắn muốn bỏ qua những thay đổi bạn đã thực hiện không?";
 
-/* TODO */
-"Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
+/* No comment provided by engineer. */
+"Are you sure you want to remove all shortcut definitions?" = "Bạn có chắc chắn muốn xóa tất cả các định nghĩa phím tắt không?";
 
-/* TODO */
-"Associate with Call History" = "Associate with Call History";
+/* No comment provided by engineer. */
+"Associate with Call History" = "Liên kết với Lịch sử Cuộc Gọi";
 
 /* No comment provided by engineer. */
 "At the end of recording, the audio files of each channel during recording are retained." = "Vào cuối quá trình ghi âm, các tệp âm thanh của mỗi kênh trong quá trình ghi âm được giữ lại.";
 
-/* TODO */
-"Attachable Edges" = "Attachable Edges";
+/* No comment provided by engineer. */
+"Attachable Edges" = "Cạnh có thể gắn kết";
 
-/* TODO */
-"audio" = "audio";
+/* No comment provided by engineer. */
+"audio" = "âm thanh";
 
-/* TODO */
-"Audio CD" = "Audio CD";
+/* No comment provided by engineer. */
+"Audio CD" = "Âm thanh CD";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "Nén âm thanh";
 
-/* TODO */
-"Audio File" = "Audio File";
+/* No comment provided by engineer. */
+"Audio File" = "Tệp âm thanh";
 
-/* TODO */
-"Audio played to %@" = "Audio played to %@";
+/* No comment provided by engineer. */
+"Audio played to %@" = "Âm thanh được phát đến %@";
 
-/* TODO */
-"Audio progress" = "Audio progress";
+/* No comment provided by engineer. */
+"Audio progress" = "Tiến trình âm thanh";
 
 /* No comment provided by engineer. */
 "Authenticate with %@" = "Xác thực với %@";
 
-/* TODO */
-"Authorization error: %@" = "Authorization error: %@";
+/* No comment provided by engineer. */
+"Authorization error: %@" = "Lỗi Uỷ Quyền: %@";
 
-/* TODO */
-"Authorization flow was manually canceled by user." = "Authorization flow was manually canceled by user.";
+/* No comment provided by engineer. */
+"Authorization flow was manually canceled by user." = "Người dùng đã hủy quy trình uỷ quyền theo cách thủ công.";
 
-/* TODO */
-"Authorize with Dropbox" = "Authorize with Dropbox";
+/* No comment provided by engineer. */
+"Authorize with Dropbox" = "Ủy quyền với Dropbox";
 
-/* TODO */
-"Authorize with Google" = "Authorize with Google";
+/* No comment provided by engineer. */
+"Authorize with Google" = "Ủy quyền với Google";
 
-/* TODO */
-"Authorize with Microsoft" = "Authorize with Microsoft";
+/* No comment provided by engineer. */
+"Authorize with Microsoft" = "Ủy quyền với Microsoft";
 
-/* TODO */
-"Automatic" = "Automatic";
+/* No comment provided by engineer. */
+"Automatic" = "Tự động";
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "Ghi âm tự động";
 
-/* TODO */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
+/* No comment provided by engineer. */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Tự động tạo bản sao cho các bản ghi chính hỗn hợp & kết hợp mỗi tháng và lưu trữ chúng trong iCloud Drive. Các bản ghi từ tháng hiện tại sẽ không được lưu trữ.";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Tự động kích hoạt các dịch vụ nền khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình chính.";
 
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "Tự động hợp nhất micrô và loa thành một tệp duy nhất sau khi ghi âm hoàn tất.";
 
-/* TODO */
-"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatically move the hoverball to avoid the keyboard in portrait orientation.";
+/* No comment provided by engineer. */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Tự động di chuyển bong bóng để tránh bàn phím theo chiều dọc.";
 
-/* TODO */
-"Automatically purge recycle bin and remove failure caches." = "Automatically purge recycle bin and remove failure caches.";
+/* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "Tự động xóa thùng rác và xóa bộ nhớ đệm lỗi.";
 
-/* TODO */
-"Automatically query the latest version from GitHub when the application starts." = "Automatically query the latest version from GitHub when the application starts.";
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "Tự động truy vấn phiên bản mới nhất từ ​​GitHub khi ứng dụng khởi động.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Tự động xóa các bản ghi được tạo sớm hơn ngày được chỉ định ngoại trừ những bản được đánh dấu.";
@@ -322,14 +322,14 @@
 /* No comment provided by engineer. */
 "Automatically stop recording when available disk space is extremely low." = "Tự động dừng ghi âm khi dung lượng ổ cứng trống cực kỳ thấp.";
 
-/* TODO */
-"Automatically Suspend in Background" = "Automatically Suspend in Background";
+/* No comment provided by engineer. */
+"Automatically Suspend in Background" = "Tự động tạm dừng ở chế độ nền";
 
-/* TODO */
-"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect.";
+/* No comment provided by engineer. */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Tự động vuốt lên màn hình nền khi mở khóa. Mở khóa trong vòng 10 giây sau khi khóa, hành động này sẽ không có hiệu lực.";
 
-/* TODO */
-"Automation" = "Automation";
+/* No comment provided by engineer. */
+"Automation" = "Tự động hóa";
 
 /* No comment provided by engineer. */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Tránh màn hình bị khóa tự động khi máy chủ WebDAV được sử dụng bởi bất kỳ khách hàng nào.";
@@ -337,20 +337,20 @@
 /* No comment provided by engineer. */
 "Background Style" = "Phong cách nền";
 
-/* TODO */
-"backup" = "backup";
+/* No comment provided by engineer. */
+"backup" = "sao lưu";
 
-/* TODO */
-"Backup Synchronized" = "Backup Synchronized";
+/* No comment provided by engineer. */
+"Backup Synchronized" = "Đồng bộ sao lưu";
 
-/* TODO */
-"Backup With iCloud" = "Backup With iCloud";
+/* No comment provided by engineer. */
+"Backup With iCloud" = "Sao lưu với iCloud";
 
 /* No comment provided by engineer. */
 "Batch Export" = "Xuất hàng loạt";
 
-/* TODO */
-"Before %@" = "Before %@";
+/* No comment provided by engineer. */
+"Before %@" = "Trước %@";
 
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Trước khi bắt đầu ghi âm cuộc gọi, một giọng nói nhắc nhở được phát ở đầu đối diện.";
@@ -358,11 +358,11 @@
 /* TODO */
 "Beta" = "Beta";
 
-/* TODO */
-"Bi-sync" = "Bi-sync";
+/* No comment provided by engineer. */
+"Bi-sync" = "Đồng bộ hai chiều";
 
-/* TODO */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
+/* No comment provided by engineer. */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Đồng bộ hai chiều: Thực hiện đồng bộ hai chiều giữa hai đường dẫn.";
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Xác thực sinh trắc học";
@@ -370,23 +370,23 @@
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Máy chủ Bonjour bắt đầu lúc: %@";
 
-/* TODO */
-"Boost Periodic Tasks" = "Boost Periodic Tasks";
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "Tăng cường nhiệm vụ định kỳ";
 
-/* TODO */
-"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore Compatible Mode)";
+/* No comment provided by engineer. */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (Chế độ tương thích với TrollStore)";
 
-/* TODO */
-"Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
+/* No comment provided by engineer. */
+"Both (Microphone & Speaker)" = "Cả hai (Micro và Loa)";
 
-/* TODO */
-"bottom edge" = "bottom edge";
+/* No comment provided by engineer. */
+"bottom edge" = "cạnh dưới";
 
-/* TODO */
-"Build and use a custom export name template for exported audio files." = "Build and use a custom export name template for exported audio files.";
+/* No comment provided by engineer. */
+"Build and use a custom export name template for exported audio files." = "Xây dựng và sử dụng mẫu tên xuất tùy chỉnh cho các tệp âm thanh đã xuất.";
 
-/* TODO */
-"Bundle Display Name" = "Bundle Display Name";
+/* No comment provided by engineer. */
+"Bundle Display Name" = "Tên hiển thị của gói";
 
 /* No comment provided by engineer. */
 "Bundle Identifier" = "Mã định danh gói";
@@ -400,26 +400,26 @@
 /* No comment provided by engineer. */
 "Calculating…" = "Đang tính toán…";
 
-/* TODO */
-"Call" = "Call";
+/* No comment provided by engineer. */
+"Call" = "Gọi";
 
-/* TODO */
-"call" = "call";
+/* No comment provided by engineer. */
+"call" = "gọi";
 
-/* TODO */
-"Call Direction" = "Call Direction";
+/* No comment provided by engineer. */
+"Call Direction" = "Hướng cuộc gọi";
 
-/* TODO */
-"Call Identifier" = "Call Identifier";
+/* No comment provided by engineer. */
+"Call Identifier" = "Mã định danh cuộc gọi";
 
 /* No comment provided by engineer. */
 "Call Recording" = "Ghi âm cuộc gọi";
 
-/* TODO */
-"Call Recording Begins" = "Call Recording Begins";
+/* No comment provided by engineer. */
+"Call Recording Begins" = "Bắt đầu ghi âm cuộc gọi";
 
-/* TODO */
-"Call Recording Ends" = "Call Recording Ends";
+/* No comment provided by engineer. */
+"Call Recording Ends" = "Ghi âm cuộc gọi kết thúc";
 
 /* No comment provided by engineer. */
 "Call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi từ “%@” và %ld các ứng dụng khác";
@@ -430,47 +430,47 @@
 /* No comment provided by engineer. */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Ghi âm cuộc gọi chỉ bắt đầu khi một cuộc gọi đi được trả lời hoặc một cuộc gọi đến được nhận.";
 
-/* TODO */
-"Call State" = "Call State";
+/* No comment provided by engineer. */
+"Call State" = "Trạng thái cuộc gọi";
 
-/* TODO */
-"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
+/* No comment provided by engineer. */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Cuộc gọi chỉ có thể được ghi âm khi sử dụng micrô trên thiết bị này. Các cuộc gọi từ thiết bị này được trả lời trên các thiết bị khác sẽ không được ghi âm.";
 
-/* TODO */
-"Camcorder" = "Camcorder";
+/* No comment provided by engineer. */
+"Camcorder" = "Máy quay phim";
 
 /* No comment provided by engineer. */
 "Cancel" = "Huỷ";
 
-/* TODO */
-"Cannot parse text with UTF-8 encoding: “%@”." = "Cannot parse text with UTF-8 encoding: “%@”.";
+/* No comment provided by engineer. */
+"Cannot parse text with UTF-8 encoding: “%@”." = "Không thể phân tích văn bản với mã hóa UTF-8: “%@”.";
 
-/* TODO */
-"Caution" = "Caution";
+/* No comment provided by engineer. */
+"Caution" = "Cảnh báo";
 
-/* TODO */
-"check" = "check";
+/* No comment provided by engineer. */
+"check" = "kiểm tra";
 
-/* TODO */
-"Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
+/* No comment provided by engineer. */
+"Check if the daemon is running. If not, launch it." = "Kiểm tra xem daemon có đang chạy không. Nếu không, hãy khởi động nó.";
 
-/* TODO */
-"Check Updates" = "Check Updates";
+/* No comment provided by engineer. */
+"Check Updates" = "Kiểm Tra Cập Nhật";
 
-/* TODO */
-"Check Updates at Launch" = "Check Updates at Launch";
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "Kiểm tra cập nhật khi khởi động";
 
-/* TODO */
-"Checking service status" = "Checking service status";
+/* No comment provided by engineer. */
+"Checking service status" = "Kiểm tra trạng thái dịch vụ";
 
-/* TODO */
-"Child Pages" = "Child Pages";
+/* No comment provided by engineer. */
+"Child Pages" = "Trang phụ";
 
 /* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Chọn định dạng âm thanh đầu ra cho bộ hoà âm. Định dạng Wave Audio không hỗ trợ mã hóa nâng cao.";
 
 /* No comment provided by engineer. */
-"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size.";
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Chọn chất lượng âm thanh đầu ra cho bộ trộn. Chất lượng cao hơn có nghĩa là tốc độ lấy mẫu và tốc độ bit cao hơn, điều này sẽ dẫn đến kích thước tệp lớn hơn.";
 
 /* No comment provided by engineer. */
 "Choose the output file format for the mixer." = "Chọn định dạng tệp đầu ra cho bộ hoà âm.";
@@ -481,23 +481,23 @@
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "Tự động làm sạch bộ nhớ đệm";
 
-/* TODO */
-"Clear" = "Clear";
+/* No comment provided by engineer. */
+"Clear" = "Xoá";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Lựa chọn rõ ràng";
 
-/* TODO */
-"Clear Wave Caches" = "Clear Wave Caches";
+/* No comment provided by engineer. */
+"Clear Wave Caches" = "Xóa bộ nhớ đệm sóng rõ ràng";
 
-/* TODO */
-"Close" = "Close";
+/* No comment provided by engineer. */
+"Close" = "Đóng";
 
-/* TODO */
-"Collapse Recursively" = "Collapse Recursively";
+/* No comment provided by engineer. */
+"Collapse Recursively" = "Thu gon đệ quy";
 
-/* TODO */
-"Collecting" = "Collecting";
+/* No comment provided by engineer. */
+"Collecting" = "Thu thập";
 
 /* No comment provided by engineer. */
 "Combined" = "Kết hợp";
@@ -505,44 +505,44 @@
 /* No comment provided by engineer. */
 "Combined Mode" = "Chế độ kết hợp";
 
-/* TODO */
-"Compiled at %@" = "Compiled at %@";
+/* No comment provided by engineer. */
+"Compiled at %@" = "Tổng hợp tại %@";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "Ghi âm nén";
 
 /* No comment provided by engineer. */
-"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+"Configure the embedded client with your WebDAV server address, username and password." = "Định cấu hình máy khách nhúng với địa chỉ máy chủ, tên người dùng và mật khẩu WebDAV của bạn.";
 
 /* No comment provided by engineer. */
-"Configure WebDAV Client" = "Configure WebDAV Client";
+"Configure WebDAV Client" = "Cấu hình WedDAV khách hàng";
 
-/* TODO */
-"Confirm" = "Confirm";
+/* No comment provided by engineer. */
+"Confirm" = "Xác Nhận";
 
-/* TODO */
-"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
+/* No comment provided by engineer. */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Xác nhận tài khoản Havoc của bạn, đây là bằng chứng mua hàng duy nhất. Bạn chịu trách nhiệm về bất kỳ mất mát ủy quyền nào do quên tài khoản. Khi mua hàng, vui lòng nhấp vào số tiền trên trang để hoàn tất thanh toán, không nhấp vào biểu tượng quà tặng.";
 
-/* TODO */
-"connected" = "connected";
+/* No comment provided by engineer. */
+"connected" = "đã kết nối";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Khách hàng được kết nối: %d";
 
-/* TODO */
-"Connection" = "Connection";
+/* No comment provided by engineer. */
+"Connection" = "Kết Nối";
 
-/* TODO */
-"Constants" = "Constants";
+/* No comment provided by engineer. */
+"Constants" = "Hằng Số";
 
 /* No comment provided by engineer. */
 "Contact Exceptions" = "Ngoại lệ liên hệ";
 
-/* TODO */
-"Contact Name" = "Contact Name";
+/* No comment provided by engineer. */
+"Contact Name" = "Tên Liên Hệ";
 
-/* TODO */
-"Contact Phone Address" = "Contact Phone Address";
+/* No comment provided by engineer. */
+"Contact Phone Address" = "Số điện thoại liên hệ";
 
 /* No comment provided by engineer. */
 "Contact Us" = "Liên hệ với chúng tôi";
@@ -562,26 +562,26 @@
 /* No comment provided by engineer. */
 "Contacts in this list will not be recorded in any situation." = "Các liên hệ trong danh sách này sẽ không được ghi lại trong bất kỳ tình huống nào.";
 
-/* TODO */
-"Contacts Permission Denied" = "Contacts Permission Denied";
+/* No comment provided by engineer. */
+"Contacts Permission Denied" = "Từ chối quyền truy cập danh bạ";
 
-/* TODO */
-"Content" = "Content";
+/* No comment provided by engineer. */
+"Content" = "Nội Dung";
 
-/* TODO */
-"Content Sharing" = "Content Sharing";
+/* No comment provided by engineer. */
+"Content Sharing" = "Chia sẻ nội dung";
 
 /* No comment provided by engineer. */
 "Continue" = "Tiếp tục";
 
-/* TODO */
-"Conversion Failed" = "Conversion Failed";
+/* No comment provided by engineer. */
+"Conversion Failed" = "Chuyển đổi thất bại";
 
-/* TODO */
-"Conversion Succeed" = "Conversion Succeed";
+/* No comment provided by engineer. */
+"Conversion Succeed" = "Chuyển đổi thành công";
 
-/* TODO */
-"Convert latitude and longitude to human-readable address." = "Convert latitude and longitude to human-readable address.";
+/* No comment provided by engineer. */
+"Convert latitude and longitude to human-readable address." = "Chuyển đổi vĩ độ, kinh độ thành địa chỉ dễ đọc.";
 
 /* No comment provided by engineer. */
 "Convert Now" = "Chuyển đổi ngay bây giờ";
@@ -595,11 +595,11 @@
 /* No comment provided by engineer. */
 "Copied Transcript" = "Lời thoại đã được sao chép";
 
-/* TODO */
-"Copy" = "Copy";
+/* No comment provided by engineer. */
+"Copy" = "Sao Chép";
 
-/* TODO */
-"Copy Key" = "Copy Key";
+/* No comment provided by engineer. */
+"Copy Key" = "Sao chép khoá";
 
 /* No comment provided by engineer. */
 "Copy Path" = "Sao chép đường dẫn";
@@ -607,59 +607,59 @@
 /* No comment provided by engineer. */
 "Copy Transcript" = "Sao chép lời thoại";
 
-/* TODO */
-"Copy Value" = "Copy Value";
+/* No comment provided by engineer. */
+"Copy Value" = "Sao chép giá trị";
 
-/* TODO */
-"Could not acquire token: %@" = "Could not acquire token: %@";
+/* No comment provided by engineer. */
+"Could not acquire token: %@" = "Không lấy được mã xác thực: %@";
 
-/* TODO */
-"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+/* No comment provided by engineer. */
+"Could not acquire token: No result returned." = "Không lấy được mã xác thực: Không có kết quả.";
 
-/* TODO */
-"Could not get graph result: %@" = "Could not get graph result: %@";
+/* No comment provided by engineer. */
+"Could not get graph result: %@" = "Không lấy được kết quả đồ thị: %@";
 
-/* TODO */
-"Could not sign out account: %@" = "Could not sign out account: %@";
+/* No comment provided by engineer. */
+"Could not sign out account: %@" = "Không thể đăng xuất tài khoản: %@";
 
-/* TODO */
-"Create Archive" = "Create Archive";
+/* No comment provided by engineer. */
+"Create Archive" = "Tạo lưu trữ";
 
 /* No comment provided by engineer. */
 "Created At" = "Được tạo ra tại";
 
-/* TODO */
-"Credentials" = "Credentials";
+/* No comment provided by engineer. */
+"Credentials" = "Thông tin xác thực";
 
-/* TODO */
-"Custom CLI Options" = "Custom CLI Options";
+/* No comment provided by engineer. */
+"Custom CLI Options" = "Tùy chọn CLI tùy chỉnh";
 
-/* TODO */
-"Custom Export Name" = "Custom Export Name";
+/* No comment provided by engineer. */
+"Custom Export Name" = "Tên xuất tuỳ chỉnh";
 
-/* TODO */
-"Custom Key Combination…" = "Custom Key Combination…";
+/* No comment provided by engineer. */
+"Custom Key Combination…" = "Tổ hợp phím tùy chỉnh…";
 
-/* TODO */
-"Custom Layout Guide" = "Custom Layout Guide";
+/* No comment provided by engineer. */
+"Custom Layout Guide" = "Hướng dẫn bố cục tùy chỉnh";
 
-/* TODO */
-"Customize a rectangular region that helps you position the hoverball on the screen." = "Customize a rectangular region that helps you position the hoverball on the screen.";
+/* No comment provided by engineer. */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Tùy chỉnh vùng chữ nhật để định vị bong bóng.";
 
 /* TODO */
 "daemon" = "daemon";
 
-/* TODO */
-"Daily Arranged" = "Daily Arranged";
+/* No comment provided by engineer. */
+"Daily Arranged" = "Sắp xếp theo ngày";
 
-/* TODO */
-"Date & Time" = "Date & Time";
+/* No comment provided by engineer. */
+"Date & Time" = "Ngày & Giờ";
 
-/* TODO */
-"Day of Month Number" = "Day of Month Number";
+/* No comment provided by engineer. */
+"Day of Month Number" = "Số ngày trong tháng";
 
-/* TODO */
-"Day of Week String" = "Day of Week String";
+/* No comment provided by engineer. */
+"Day of Week String" = "Tên ngày trong tuần";
 
 /* No comment provided by engineer. */
 "deactivate" = "huỷ kích hoạt";
@@ -673,17 +673,17 @@
 /* No comment provided by engineer. */
 "Deactivate the recorder hoverball." = "Vô hiệu hóa bong bóng ghi âm.";
 
-/* TODO */
-"Debugging" = "Debugging";
+/* No comment provided by engineer. */
+"Debugging" = "Gỡ Lỗi";
 
-/* TODO */
-"decline" = "decline";
+/* No comment provided by engineer. */
+"decline" = "từ chối";
 
-/* TODO */
-"Decoding" = "Decoding";
+/* No comment provided by engineer. */
+"Decoding" = "Giải mã";
 
-/* TODO */
-"Default" = "Default";
+/* No comment provided by engineer. */
+"Default" = "Mặc định";
 
 /* No comment provided by engineer. */
 "Delete" = "Xoá";
@@ -697,86 +697,86 @@
 /* No comment provided by engineer. */
 "Delete Selected Item" = "Xóa mục đã chọn";
 
-/* TODO */
-"Deleting" = "Deleting";
+/* No comment provided by engineer. */
+"Deleting" = "Đang xoá";
 
-/* TODO */
-"Deselect All" = "Deselect All";
+/* No comment provided by engineer. */
+"Deselect All" = "Bỏ chọn tất cả";
 
-/* TODO */
-"Detail Only" = "Detail Only";
+/* No comment provided by engineer. */
+"Detail Only" = "Chỉ chi tiết";
 
-/* TODO */
-"Developer Options" = "Developer Options";
+/* No comment provided by engineer. */
+"Developer Options" = "Tuỳ chọn Nhà phát triển";
 
-/* TODO */
-"Digital Video" = "Digital Video";
+/* No comment provided by engineer. */
+"Digital Video" = "Video Số";
 
 /* No comment provided by engineer. */
 "Direction" = "Hướng";
 
-/* TODO */
-"Direction Capitalized" = "Direction Capitalized";
+/* No comment provided by engineer. */
+"Direction Capitalized" = "Hướng viết hoa";
 
-/* TODO */
-"Direction Description" = "Direction Description";
+/* No comment provided by engineer. */
+"Direction Description" = "Mô tả hướng";
 
-/* TODO */
-"directory" = "directory";
+/* No comment provided by engineer. */
+"directory" = "thư mục";
 
-/* TODO */
-"Directory" = "Directory";
+/* No comment provided by engineer. */
+"Directory" = "Thư mục";
 
-/* TODO */
-"Directory not found." = "Directory not found.";
+/* No comment provided by engineer. */
+"Directory not found." = "Không tìm thấy thư mục.";
 
-/* TODO */
-"Disabled" = "Disabled";
+/* No comment provided by engineer. */
+"Disabled" = "Đã Tắt";
 
-/* TODO */
-"Disallow" = "Disallow";
+/* No comment provided by engineer. */
+"Disallow" = "Không cho phép";
 
-/* TODO */
-"Disallow Automatic Recording" = "Disallow Automatic Recording";
+/* No comment provided by engineer. */
+"Disallow Automatic Recording" = "Không cho phép ghi âm tự động";
 
-/* TODO */
-"Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
+/* No comment provided by engineer. */
+"Disallow Hoverball Wake-Ups" = "Không cho phép bật bong bóng";
 
-/* TODO */
-"Discard" = "Discard";
+/* No comment provided by engineer. */
+"Discard" = "Bỏ qua";
 
-/* TODO */
-"discard" = "discard";
+/* No comment provided by engineer. */
+"discard" = "bỏ qua";
 
-/* TODO */
-"Discard Changes" = "Discard Changes";
+/* No comment provided by engineer. */
+"Discard Changes" = "Bỏ thay đổi";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "Bỏ ghi âm";
 
-/* TODO */
-"Discreet Mode" = "Discreet Mode";
+/* No comment provided by engineer. */
+"Discreet Mode" = "Chế độ kín đáo";
 
-/* TODO */
-"Discreet Voice Memos" = "Discreet Voice Memos";
+/* No comment provided by engineer. */
+"Discreet Voice Memos" = "Ghi chú giọng nói kín đáo";
 
 /* No comment provided by engineer. */
 "Dismiss" = "Sa thải";
 
-/* TODO */
-"Display a notification banner and play an audible notice." = "Display a notification banner and play an audible notice.";
+/* No comment provided by engineer. */
+"Display a notification banner and play an audible notice." = "Hiển thị biểu ngữ thông báo và phát âm báo.";
 
-/* TODO */
-"Display a notification banner and update the badge above the application icon." = "Display a notification banner and update the badge above the application icon.";
+/* No comment provided by engineer. */
+"Display a notification banner and update the badge above the application icon." = "Hiển thị biểu ngữ thông báo và cập nhật biểu tượng trên ứng dụng.";
 
 /* No comment provided by engineer. */
 "Display a notification banner when recording ends." = "Hiển thị biểu ngữ thông báo khi ghi âm kết thúc.";
 
-/* TODO */
-"Display a notification banner when recording starts." = "Display a notification banner when recording starts.";
+/* No comment provided by engineer. */
+"Display a notification banner when recording starts." = "Hiển thị biểu ngữ thông báo khi bắt đầu ghi âm.";
 
-/* TODO */
-"Display a notification banner when the synchronization fails." = "Display a notification banner when the synchronization fails.";
+/* No comment provided by engineer. */
+"Display a notification banner when the synchronization fails." = "Hiển thị biểu ngữ thông báo khi đồng bộ thất bại.";
 
 /* No comment provided by engineer. */
 "Display the detail of recordings in the notification banner." = "Hiển thị chi tiết các bản ghi âm trong biểu ngữ thông báo.";
@@ -793,11 +793,11 @@
 /* No comment provided by engineer. */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Hiển thị bong bóng mọi nơi khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
 
-/* TODO */
-"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Display the hoverball when record voice memo through this application, or the call recording is manually initiated.";
+/* No comment provided by engineer. */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Hiển thị bong bóng khi ghi chú giọng nói qua ứng dụng này hoặc khi ghi âm cuộc gọi được khởi tạo thủ công.";
 
-/* TODO */
-"Display the name or description of each option." = "Display the name or description of each option.";
+/* No comment provided by engineer. */
+"Display the name or description of each option." = "Hiển thị tên hoặc mô tả của từng tùy chọn.";
 
 /* No comment provided by engineer. */
 "Display the names of contacts in your address book instead of their phone numbers." = "Hiển thị tên của các liên hệ trong sổ địa chỉ của bạn thay vì số điện thoại của họ.";
@@ -814,62 +814,62 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "Hiển thị tên gói nguồn của bản ghi.";
 
-/* TODO */
-"Displays a local notification." = "Displays a local notification.";
+/* No comment provided by engineer. */
+"Displays a local notification." = "Hiển thị thông báo cục bộ.";
 
-/* TODO */
-"Do you want to clear this log file “%@”?" = "Do you want to clear this log file “%@”?";
+/* No comment provided by engineer. */
+"Do you want to clear this log file “%@”?" = "Bạn có muốn xóa tệp nhật ký “%@” không?";
 
-/* TODO */
-"Do you want to merge recordings with “%@”?" = "Do you want to merge recordings with “%@”?";
+/* No comment provided by engineer. */
+"Do you want to merge recordings with “%@”?" = "Bạn có muốn gộp các bản ghi với “%@” không?";
 
-/* TODO */
-"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed.";
+/* No comment provided by engineer. */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Bạn có muốn đặt lại giấy phép phần mềm và khôi phục tất cả cài đặt về mặc định? Các bản ghi sẽ không bị xóa.";
 
-/* TODO */
-"Done" = "Done";
+/* No comment provided by engineer. */
+"Done" = "Hoàn tất";
 
-/* TODO */
-"Don’t ask again" = "Don’t ask again";
+/* No comment provided by engineer. */
+"Don’t ask again" = "Không hỏi lại";
 
-/* TODO */
-"Don’t Merge" = "Don’t Merge";
+/* No comment provided by engineer. */
+"Don’t Merge" = "Không gộp";
 
-/* TODO */
-"Double tap to restore __all edges__  \nto their default sizes." = "Double tap to restore __all edges__  \nto their default sizes.";
+/* No comment provided by engineer. */
+"Double tap to restore __all edges__  \nto their default sizes." = "Chạm hai lần để khôi phục __tất cả các cạnh__ về kích thước mặc định.";
 
-/* TODO */
-"Downlink (Speaker)" = "Downlink (Speaker)";
+/* No comment provided by engineer. */
+"Downlink (Speaker)" = "Âm thanh xuống (Loa)";
 
-/* TODO */
-"Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Kéo __vào đây__ để điều chỉnh kích thước của ___%@___. ";
 
-/* TODO */
-"Drive ID" = "Drive ID";
+/* No comment provided by engineer. */
+"Drive ID" = "ID Ổ Đĩa";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
 
-/* TODO */
-"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
+/* No comment provided by engineer. */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Do giới hạn môi trường, nếu bạn gặp lỗi widget trống hoặc thiếu, hãy thử khởi động lại thiết bị hoặc làm mới bộ nhớ đệm biểu tượng từ TrollStore.";
 
-/* TODO */
-"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states.";
+/* No comment provided by engineer. */
+"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Do lý do kỹ thuật, các cuộc gọi không qua CallKit sẽ không kích hoạt phím tắt liên quan đến trạng thái cuộc gọi.";
 
-/* TODO */
-"Duration" = "Duration";
+/* No comment provided by engineer. */
+"Duration" = "Thời lượng";
 
-/* TODO */
-"duration" = "duration";
+/* No comment provided by engineer. */
+"duration" = "thời lượng";
 
 /* No comment provided by engineer. */
 "Duration Before Idle" = "Thời lượng trước khi nhàn rỗi";
 
-/* TODO */
-"Duration Description" = "Duration Description";
+/* No comment provided by engineer. */
+"Duration Description" = "Mô tả thời lượng";
 
-/* TODO */
-"Duration exceeded." = "Duration exceeded.";
+/* No comment provided by engineer. */
+"Duration exceeded." = "Vượt qua thời lượng.";
 
 /* No comment provided by engineer. */
 "Dynamic Transition" = "Chuyển đổi năng động";
@@ -877,32 +877,32 @@
 /* No comment provided by engineer. */
 "E.U.L.A." = "E.U.L.A.";
 
-/* TODO */
-"Edit" = "Edit";
+/* No comment provided by engineer. */
+"Edit" = "Chỉnh sửa";
 
-/* TODO */
-"Empty Trash" = "Empty Trash";
+/* No comment provided by engineer. */
+"Empty Trash" = "Xoá thùng rác";
 
-/* TODO */
-"Empty Trash (%@)" = "Empty Trash (%@)";
+/* No comment provided by engineer. */
+"Empty Trash (%@)" = "Xoá thùng rác (%@)";
 
-/* TODO */
-"Enable Biometric Authentication" = "Enable Biometric Authentication";
+/* No comment provided by engineer. */
+"Enable Biometric Authentication" = "Bật xác thực sinh trắc học";
 
-/* TODO */
-"Enable Face ID" = "Enable Face ID";
+/* No comment provided by engineer. */
+"Enable Face ID" = "Bật Face ID";
 
-/* TODO */
-"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+/* No comment provided by engineer. */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Bật đo mức âm lượng và hiển thị chỉ báo khi bong bóng được gập lại. Tùy chọn này chỉ khả dụng khi “Chuyển đổi khi nhàn rỗi” đặt là “Luôn gấp lại”.";
 
-/* TODO */
-"Enable Logging" = "Enable Logging";
+/* No comment provided by engineer. */
+"Enable Logging" = "Bật ghi nhật ký";
 
-/* TODO */
-"Enable Optic ID" = "Enable Optic ID";
+/* No comment provided by engineer. */
+"Enable Optic ID" = "Bật Optic ID";
 
-/* TODO */
-"Enable Touch ID" = "Enable Touch ID";
+/* No comment provided by engineer. */
+"Enable Touch ID" = "Bật Touch ID";
 
 /* No comment provided by engineer. */
 "Enable WebDAV Server" = "Bật máy chủ WebDAV";
@@ -910,20 +910,20 @@
 /* No comment provided by engineer. */
 "Enabled" = "Đã kích hoạt";
 
-/* TODO */
-"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground.";
+/* No comment provided by engineer. */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Cho phép máy chủ WebDAV tự động tạm dừng khi ứng dụng chuyển sang nền và kết nối cuối cùng đóng, sau đó tự động tiếp tục khi ứng dụng trở lại.";
 
-/* TODO */
-"Encoding" = "Encoding";
+/* No comment provided by engineer. */
+"Encoding" = "Mã hoá";
 
 /* No comment provided by engineer. */
 "End Date" = "Ngày kết thúc";
 
-/* TODO */
-"End Editing" = "End Editing";
+/* No comment provided by engineer. */
+"End Editing" = "Kết thúc chỉnh sửa";
 
-/* TODO */
-"Enhance Recording" = "Enhance Recording";
+/* No comment provided by engineer. */
+"Enhance Recording" = "Tăng cường ghi âm";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "Ghi âm tự động nâng cao";
@@ -931,32 +931,32 @@
 /* No comment provided by engineer. */
 "Enhanced Scene Identification" = "Nhận dạng cảnh nâng cao";
 
-/* TODO */
-"Ensure Daemon Is Running" = "Ensure Daemon Is Running";
+/* No comment provided by engineer. */
+"Ensure Daemon Is Running" = "Đảm bảo tiến trình nền đang chạy";
 
 /* No comment provided by engineer. */
 "Enter your password" = "Nhập mật khẩu của bạn";
 
-/* TODO */
-"Erase All" = "Erase All";
+/* No comment provided by engineer. */
+"Erase All" = "Xoá tất cả";
 
-/* TODO */
-"Erase all recordings, reset all settings, and clear all caches completely." = "Erase all recordings, reset all settings, and clear all caches completely.";
+/* No comment provided by engineer. */
+"Erase all recordings, reset all settings, and clear all caches completely." = "Xóa tất cả bản ghi, đặt lại mọi cài đặt và xóa sạch bộ nhớ đệm.";
 
-/* TODO */
-"Erase Almost Completed" = "Erase Almost Completed";
+/* No comment provided by engineer. */
+"Erase Almost Completed" = "Xoá gần hoàn tất";
 
-/* TODO */
-"Erasing…" = "Erasing…";
+/* No comment provided by engineer. */
+"Erasing…" = "Đang xoá...";
 
 /* No comment provided by engineer. */
 "Error" = "Lỗi";
 
-/* TODO */
-"Error from network storage" = "Error from network storage";
+/* No comment provided by engineer. */
+"Error from network storage" = "Lỗi từ lưu trữ mạng";
 
-/* TODO */
-"Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
+/* No comment provided by engineer. */
+"Error retrieving discovery document: %@" = "Lỗi lấy tài liệu khám phá: %@";
 
 /* No comment provided by engineer. */
 "exit" = "thoát";
@@ -964,8 +964,8 @@
 /* No comment provided by engineer. */
 "Exit Hoverball" = "Thoát bong bóng";
 
-/* TODO */
-"Expand Recursively" = "Expand Recursively";
+/* No comment provided by engineer. */
+"Expand Recursively" = "Mở rộng đệ quy";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";
@@ -973,17 +973,17 @@
 /* No comment provided by engineer. */
 "Export to Anywhere" = "Xuất đến mọi nơi";
 
-/* TODO */
-"Export with Metadata" = "Export with Metadata";
+/* No comment provided by engineer. */
+"Export with Metadata" = "Xuất với Siêu dữ liệu";
 
-/* TODO */
-"Exporting" = "Exporting";
+/* No comment provided by engineer. */
+"Exporting" = "Đang xuất..";
 
-/* TODO */
+/* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
 
-/* TODO */
-"FaceTime Audio" = "FaceTime Audio";
+/* No comment provided by engineer. */
+"FaceTime Audio" = "Âm thanh FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime Exclude List" = "Danh sách loại trừ FaceTime";
@@ -994,14 +994,14 @@
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
-/* TODO */
-"Failed to export %d recordings" = "Failed to export %d recordings";
+/* No comment provided by engineer. */
+"Failed to export %d recordings" = "Xuất %d bản ghi thất bại";
 
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Không thể khởi tạo bộ nhận dạng giọng nói bằng cách sử dụng ngôn ngữ hiện tại “%@”.";
 
-/* TODO */
-"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+/* No comment provided by engineer. */
+"Failed to perform “%@” operation with service provider “%@”." = "Thực hiện thao tác “%1$@” với nhà cung cấp “%2$@” thất bại.";
 
 /* No comment provided by engineer. */
 "Failed to play: %@" = "Không chạy được: %@";
@@ -1012,68 +1012,71 @@
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Không thể xóa: %@";
 
-/* TODO */
-"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
+/* No comment provided by engineer. */
+"Fatal error occurred. You may need to re-authorize to continue." = "Đã xảy ra lỗi nghiêm trọng. Bạn cần xác thực lại để tiếp tục.";
 
-/* TODO */
-"Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
+/* No comment provided by engineer. */
+"Features on this page are under active development, hang tight!" = "Các tính năng trên trang này đang được phát triển, vui lòng chờ!";
 
 /* No comment provided by engineer. */
 "Features Unlocked" = "Các tính năng đã được mở khóa";
 
-/* TODO */
-"file" = "file";
+/* No comment provided by engineer. */
+"file" = "tệp";
 
-/* TODO */
-"File Format" = "File Format";
+/* No comment provided by engineer. */
+"File Format" = "Định dạng tệp";
 
-/* TODO */
-"File not found." = "File not found.";
+/* No comment provided by engineer. */
+"File not found." = "Không tì thấy tệp.";
 
 /* No comment provided by engineer. */
 "File Size" = "Kích thước tập tin";
 
-/* TODO */
-"File System" = "File System";
+/* No comment provided by engineer. */
+"File System" = "Tệp Hệ Thống";
 
-/* TODO */
-"Filter" = "Filter";
+/* No comment provided by engineer. */
+"Filter" = "Bộ lọc";
 
 /* No comment provided by engineer. */
 "Finalizing" = "Đang hoàn thiện";
 
-/* TODO */
-"finish" = "finish";
+/* No comment provided by engineer. */
+"finish" = "kết thúc";
 
 /* TODO */
-"Focus" = "Focus";
+"Fix File-System" = "Fix File-System";
 
-/* TODO */
-"Fold When Inactive" = "Fold When Inactive";
+/* No comment provided by engineer. */
+"Focus" = "Tập trung";
+
+/* No comment provided by engineer. */
+"Fold When Inactive" = "Gập khi không hoạt động";
 
 /* No comment provided by engineer. */
 "Follow System" = "Theo dõi hệ thống";
 
-/* TODO */
-"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+/* No comment provided by engineer. */
+"Force the app to use a specific language. Reopen to apply changes." = "Buộc ứng dụng sử dụng ngôn ngữ cụ thể. Mở lại để áp dụng thay đổi.";
 
 /* No comment provided by engineer. */
 "Format" = "Định dạng";
 
-/* TODO */
-"Formatted Location" = "Formatted Location";
+/* No comment provided by engineer. */
+"Formatted Location" = "Vị trí đã địn dạng";
 
-/* TODO */
-"Forward 15 Seconds" = "Forward 15 Seconds";
+/* No comment provided by engineer. */
+"Forward 15 Seconds" = "Chuyển tiếp 15s";
 
 /* No comment provided by engineer. */
 "Frequently Asked Questions" = "Những câu hỏi thường gặp";
 
-/* TODO */
-"From %@" = "From %@";
+/* No comment provided by engineer. */
+"From %@" = "Từ %@";
 
-/* TODO */
-"From %@ to %@" = "From %1$@ to %2$@";
+/* No comment provided by engineer. */
+"From %@ to %@" = "Từ %1$@ đến %2$@";
 
 /* No comment provided by engineer. */
 "From: %@" = "Từ: %@";
@@ -1081,32 +1084,32 @@
 /* No comment provided by engineer. */
 "From…" = "Từ";
 
-/* TODO */
-"Full" = "Full";
+/* No comment provided by engineer. */
+"Full" = "Đầy đủ";
 
-/* TODO */
-"Full Date" = "Full Date";
+/* No comment provided by engineer. */
+"Full Date" = "Ngày đầy đủ";
 
-/* TODO */
-"Full Month Name" = "Full Month Name";
+/* No comment provided by engineer. */
+"Full Month Name" = "Tên tháng đầy đủ";
 
-/* TODO */
-"Full Time" = "Full Time";
+/* No comment provided by engineer. */
+"Full Time" = "Giờ đầy đủ";
 
-/* TODO */
-"Full Year" = "Full Year";
+/* No comment provided by engineer. */
+"Full Year" = "Năm đầy đủ";
 
-/* TODO */
-"Get ${requestedField}" = "Get ${requestedField}";
+/* No comment provided by engineer. */
+"Get ${requestedField}" = "Lấy ${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "Nhận điều khiển nâng cao khi ghi âm ngay trong cuộc gọi của bạn.";
 
-/* TODO */
-"Get Call Duration" = "Get Call Duration";
+/* No comment provided by engineer. */
+"Get Call Duration" = "Lấy thời lượng cuộc gọi";
 
-/* TODO */
-"Get Call Status" = "Get Call Status";
+/* No comment provided by engineer. */
+"Get Call Status" = "Lấy trạng thái cuộc gọi";
 
 /* No comment provided by engineer. */
 "Get In Touch" = "Liên lạc";
@@ -1114,62 +1117,62 @@
 /* No comment provided by engineer. */
 "Get notifications after record complete." = "Nhận thông báo sau khi hoàn thành bản ghi.";
 
-/* TODO */
-"Get Recording Duration" = "Get Recording Duration";
+/* No comment provided by engineer. */
+"Get Recording Duration" = "Lấy thời lượng ghi âm";
 
-/* TODO */
-"Get Recording Paths" = "Get Recording Paths";
+/* No comment provided by engineer. */
+"Get Recording Paths" = "Lấy đường dẫn ghi âm";
 
-/* TODO */
-"Get Recording Status" = "Get Recording Status";
+/* No comment provided by engineer. */
+"Get Recording Status" = "Lấy trạng thái ghi âm";
 
-/* TODO */
-"Get the current recording duration of the Troll Recorder." = "Get the current recording duration of the Troll Recorder.";
+/* No comment provided by engineer. */
+"Get the current recording duration of the Troll Recorder." = "Lấy thời lượng ghi âm hiện tại của Troll Recorder.";
 
-/* TODO */
-"Get the current recording paths of the Troll Recorder." = "Get the current recording paths of the Troll Recorder.";
+/* No comment provided by engineer. */
+"Get the current recording paths of the Troll Recorder." = "Lấy đường dẫn ghi âm hiện tại của Troll Recorder.";
 
-/* TODO */
-"Get the current recording status of the Troll Recorder." = "Get the current recording status of the Troll Recorder.";
+/* No comment provided by engineer. */
+"Get the current recording status of the Troll Recorder." = "Lấy trạng thái ghi âm hiện tại của Troll Recorder.";
 
-/* TODO */
-"Get the primary call duration of the device." = "Get the primary call duration of the device.";
+/* No comment provided by engineer. */
+"Get the primary call duration of the device." = "Lấy thời lượng cuộc gọi chính của thiết bị.";
 
-/* TODO */
-"Get the primary call status of the device." = "Get the primary call status of the device.";
+/* No comment provided by engineer. */
+"Get the primary call status of the device." = "Lấy trạng thái cuộc gọi chính của thiết bị.";
 
-/* TODO */
-"Go Home When Unlocked" = "Go Home When Unlocked";
+/* No comment provided by engineer. */
+"Go Home When Unlocked" = "Về màn hình chính khi mở khóa";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Google Drive" = "Google Drive";
 
-/* TODO */
-"Group Call" = "Group Call";
+/* No comment provided by engineer. */
+"Group Call" = "Cuộc gọi nhóm";
 
-/* TODO */
-"Hide Hoverball" = "Hide Hoverball";
+/* No comment provided by engineer. */
+"Hide Hoverball" = "Ẩn bong bóng";
 
-/* TODO */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Ẩn ứng dụng “Ghi chú giọng nói” khỏi màn hình khóa và ẩn hoạt động “Dynamic Island”. Có thể cần khởi động lại để áp dụng.";
 
-/* TODO */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Ẩn ứng dụng “Ghi chú giọng nói” khỏi màn hình khóa và ẩn hoạt động “Dynamic Island”. Bạn cần chèn vào ứng dụng qua TrollFools hoặc công nghệ tương tự.";
 
-/* TODO */
-"Hide When Landscape" = "Hide When Landscape";
+/* No comment provided by engineer. */
+"Hide When Landscape" = "Ẩn khi xoay ngang";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "Ẩn khi chụp ảnh màn hình";
 
-/* TODO */
-"Hours Minutes Seconds" = "Hours Minutes Seconds";
+/* No comment provided by engineer. */
+"Hours Minutes Seconds" = "Giờ Phút Giây";
 
-/* TODO */
-"Hours, 12-hour Clock" = "Hours, 12-hour Clock";
+/* No comment provided by engineer. */
+"Hours, 12-hour Clock" = "Giờ, Đồng hồ 12H";
 
-/* TODO */
-"Hours, 24-hour Clock" = "Hours, 24-hour Clock";
+/* No comment provided by engineer. */
+"Hours, 24-hour Clock" = "Giờ, Đông hồ 24H";
 
 /* No comment provided by engineer. */
 "Hoverball" = "Bong bóng";
@@ -1183,8 +1186,8 @@
 /* No comment provided by engineer. */
 "Hoverball Style" = "Phong cách bong bóng";
 
-/* TODO */
-"How would you like to call?" = "How would you like to call?";
+/* No comment provided by engineer. */
+"How would you like to call?" = "Bạn muốn gọi như thế nào?";
 
 /* No comment provided by engineer. */
 "hud" = "hud";
@@ -1192,38 +1195,41 @@
 /* TODO: Length limited, please translate to a shorter phrase */
 "HUD_CALL_RECORDING" = "Bắt đầu ghi âm cuộc gọi";
 
-/* TODO */
-"Hyphen" = "Hyphen";
+/* No comment provided by engineer. */
+"Hyphen" = "Dấu gạch nối";
 
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "Tôi đồng ý với E.U.L.A.";
 
-/* TODO */
+/* No comment provided by engineer. */
 "icloud" = "iCloud";
 
-/* TODO */
+/* No comment provided by engineer. */
 "iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
 
-/* TODO */
-"If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
+/* No comment provided by engineer. */
+"If there is something wrong with the search indexes, you can reset them here." = "Nếu có vấn đề gì với chỉ mục tìm kiếm, bạn có thể thiết lập lại chúng tại đây.";
+
+/* No comment provided by engineer. */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "Nếu không có cuộc gọi nào đang diễn ra, hãy nhấn và giữ nút nguồn để thực hiện hành động đã chỉ định.";
+
+/* No comment provided by engineer. */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "Nếu không có cuộc gọi nào đang diễn ra, hãy nhấn cả hai nút âm lượng vật lý để thực hiện hành động đã chỉ định.";
 
 /* TODO */
-"If there’s no active phone call, press and hold the power button to perform specified action." = "If there’s no active phone call, press and hold the power button to perform specified action.";
-
-/* TODO */
-"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here.";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Nếu điện thoại của bạn hỗ trợ thẻ SIM kép, bí danh thẻ SIM được sử dụng cho cuộc gọi được ghi lại sẽ được hiển thị ở đây.";
 
-/* TODO */
-"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered.";
+/* No comment provided by engineer. */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Nếu bạn đã bật “Sao lưu bằng iCloud” và bản sao lưu được đồng bộ hóa thành công, hành động này sẽ được kích hoạt.";
 
-/* TODO */
-"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ignore the last modification date on all directories and files and make a deep clone of all recordings.";
+/* No comment provided by engineer. */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Bỏ qua ngày sửa đổi cuối cùng trên tất cả các thư mục và tệp và tạo bản sao sâu của tất cả các bản ghi.";
 
 /* No comment provided by engineer. */
 "In 1 Hour" = "Trong 1 Giờ";
@@ -1231,23 +1237,23 @@
 /* No comment provided by engineer. */
 "In 15 Minutes" = "Trong 15 Phút";
 
-/* TODO */
-"Inaccurate Time Detected" = "Inaccurate Time Detected";
+/* No comment provided by engineer. */
+"Inaccurate Time Detected" = "Thời gian không chính xác được phát hiện";
 
 /* No comment provided by engineer. */
 "Incoming" = "Đến";
 
-/* TODO */
-"incoming" = "incoming";
+/* No comment provided by engineer. */
+"incoming" = "đang đến";
 
-/* TODO */
-"Incoming Call" = "Incoming Call";
+/* No comment provided by engineer. */
+"Incoming Call" = "Cuộc gọi đến";
 
-/* TODO */
-"Incoming Call Answered" = "Incoming Call Answered";
+/* No comment provided by engineer. */
+"Incoming Call Answered" = "Cuộc gọi đến đã được trả lời";
 
-/* TODO */
-"Incoming Call Hang Up" = "Incoming Call Hang Up";
+/* No comment provided by engineer. */
+"Incoming Call Hang Up" = "Cuộc gọi đến cúp máy";
 
 /* No comment provided by engineer. */
 "Incoming call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đến từ “%@” và các ứng dụng %ld khác.";
@@ -1261,95 +1267,95 @@
 /* No comment provided by engineer. */
 "Install" = "Cài đặt";
 
-/* TODO */
-"Install Call History Tweak" = "Install Call History Tweak";
+/* No comment provided by engineer. */
+"Install Call History Tweak" = "Cài đặt Tweak Lịch Sử Cuộc Gọi";
 
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Cài đặt hành động “Nén âm thanh” vào “Phím tắt”, sau đó chia sẻ bản ghi âm của bạn với hành động này để nén âm thanh của bạn sang định dạng AAC/AIFF.";
 
-/* TODO */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
+/* No comment provided by engineer. */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Cài đặt hành động “Tạo lưu trữ” vào “Phím tắt”, sau đó chia sẻ bản ghi âm của bạn với hành động này để tạo kho lưu trữ ZIP.";
 
-/* TODO */
-"Invalid Code Signature" = "Invalid Code Signature";
+/* No comment provided by engineer. */
+"Invalid Code Signature" = "Mã chữ ký không hợp lệ";
 
-/* TODO */
-"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
+/* No comment provided by engineer. */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Chữ ký mã không hợp lệ.\Vui lòng cài đặt ứng dụng này từ TrollStore.";
 
-/* TODO */
+/* No comment provided by engineer. */
 "iPad" = "iPad";
 
-/* TODO */
+/* No comment provided by engineer. */
 "iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
 "Is Favourite" = "Được yêu thích";
 
-/* TODO */
-"Is Finalized" = "Is Finalized";
+/* No comment provided by engineer. */
+"Is Finalized" = "Đã hoàn thành";
 
-/* TODO */
-"Is Finalizing" = "Is Finalizing";
+/* No comment provided by engineer. */
+"Is Finalizing" = "Đang hoàn thiện";
 
-/* TODO */
-"Is Microphone Enabled" = "Is Microphone Enabled";
+/* No comment provided by engineer. */
+"Is Microphone Enabled" = "Micrô có được bật không";
 
-/* TODO */
-"Is Paused" = "Is Paused";
+/* No comment provided by engineer. */
+"Is Paused" = "Đã tạm dừng";
 
-/* TODO */
-"Is Running" = "Is Running";
+/* No comment provided by engineer. */
+"Is Running" = "Đang chạy";
 
 /* TODO */
 "Item #%lu" = "Item #%lu";
 
-/* TODO */
-"Just in case that you love it." = "Just in case that you love it.";
+/* No comment provided by engineer. */
+"Just in case that you love it." = "Trong trường hợp bạn thích nó.";
 
-/* TODO */
-"Just now" = "Just now";
+/* No comment provided by engineer. */
+"Just now" = "Vừa rồi";
 
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "Giữ Màn Hình Bật Khi Kết Nối";
 
-/* TODO */
-"Keyboard Avoidance" = "Keyboard Avoidance";
+/* No comment provided by engineer. */
+"Keyboard Avoidance" = "Tránh bàn phím";
 
-/* TODO */
-"Kill all applications and restart the render server (backboardd)." = "Kill all applications and restart the render server (backboardd).";
+/* No comment provided by engineer. */
+"Kill all applications and restart the render server (backboardd)." = "Tắt tất cả các ứng dụng và khởi động lại máy chủ kết xuất (backboardd).";
 
-/* TODO */
-"Language Changed" = "Language Changed";
+/* No comment provided by engineer. */
+"Language Changed" = "Ngôn ngữ đã thay đổi";
 
 /* No comment provided by engineer. */
 "Larger" = "Lớn hơn";
 
-/* TODO */
-"Last successful synchronization: %@" = "Last successful synchronization: %@";
+/* No comment provided by engineer. */
+"Last successful synchronization: %@" = "Đồng bộ hóa thành công cuối cùng: %@";
 
 /* No comment provided by engineer. */
 "Later" = "Sau";
 
-/* TODO */
-"launch" = "launch";
+/* No comment provided by engineer. */
+"launch" = "Khởi chạy";
 
 /* No comment provided by engineer. */
 "Launch App at End" = "Khởi chạy ứng dụng ở cuối";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Launch Shield" = "Khởi chạy khi mở khóa lần đầu tiên";
 
-/* TODO */
-"Leading & Trailing" = "Leading & Trailing";
+/* No comment provided by engineer. */
+"Leading & Trailing" = "Dẫn đầu & Theo sau";
 
-/* TODO */
-"leading edge" = "leading edge";
+/* No comment provided by engineer. */
+"leading edge" = "cạnh hàng đầu";
 
 /* TODO */
 "Legacy Jailbreak" = "Legacy Jailbreak";
 
-/* TODO */
-"Less serious error occurred." = "Less serious error occurred.";
+/* No comment provided by engineer. */
+"Less serious error occurred." = "Đã ít xảy ra lỗi nghiêm trọng hơn.";
 
 /* No comment provided by engineer. */
 "Lifetime Guarantee" = "Có sẵn vĩnh viễn";
@@ -1357,8 +1363,8 @@
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
 
-/* TODO */
-"List and Detail" = "List and Detail";
+/* No comment provided by engineer. */
+"List and Detail" = "Danh sách và Chi tiết";
 
 /* No comment provided by engineer. */
 "Loading…" = "Đang tải…";
@@ -1369,38 +1375,38 @@
 /* No comment provided by engineer. */
 "Localized name of the provider application. That is, where this recording comes from." = "Tên bản địa hóa của ứng dụng nhà cung cấp. Đó là, bản ghi âm này đến từ đâu.";
 
-/* TODO */
-"Locate in Maps" = "Locate in Maps";
+/* No comment provided by engineer. */
+"Locate in Maps" = "Xác định vị trí trong Bản đồ";
 
 /* No comment provided by engineer. */
 "Location" = "Vị trí";
 
-/* TODO */
-"Location Permission Denied" = "Location Permission Denied";
+/* No comment provided by engineer. */
+"Location Permission Denied" = "Quyền vị trí bị từ chối";
 
 /* No comment provided by engineer. */
 "Location Services" = "Dịch vụ định vị";
 
-/* TODO */
-"Locked" = "Locked";
+/* No comment provided by engineer. */
+"Locked" = "Đã khoá";
 
-/* TODO */
-"Log Viewer" = "Log Viewer";
+/* No comment provided by engineer. */
+"Log Viewer" = "Trình xem nhật ký";
 
-/* TODO */
-"Logging" = "Logging";
+/* No comment provided by engineer. */
+"Logging" = "Ghi nhật ký";
 
-/* TODO */
-"Login Tips" = "Login Tips";
+/* No comment provided by engineer. */
+"Login Tips" = "Mẹo đăng nhập";
 
-/* TODO */
-"Long Date" = "Long Date";
+/* No comment provided by engineer. */
+"Long Date" = "Ngày dài";
 
-/* TODO */
-"Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
+/* No comment provided by engineer. */
+"Long press the hoverball to start or stop recording by convenience." = "Nhấn và giữ bong bóng để bắt đầu hoặc dừng ghi âm một cách thuận tiện.";
 
-/* TODO */
-"Long Time" = "Long Time";
+/* No comment provided by engineer. */
+"Long Time" = "Thời gian dài";
 
 /* No comment provided by engineer. */
 "Low Disk Space" = "Dung lượng đĩa thấp";
@@ -1408,38 +1414,38 @@
 /* No comment provided by engineer. */
 "Made with ♥ by OwnGoal Studio" = "Được làm bằng tình yêu bởi OwnGoal Studio";
 
-/* TODO */
-"Mail composition failed" = "Mail composition failed";
+/* No comment provided by engineer. */
+"Mail composition failed" = "Soạn thư không thành công";
 
-/* TODO */
-"Maintenance" = "Maintenance";
+/* No comment provided by engineer. */
+"Maintenance" = "BẢO TRÌ";
 
-/* TODO */
-"Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
+/* No comment provided by engineer. */
+"Make a ${requestedMode} recording" = "Thực hiện ghi âm ${requestedMode}";
 
-/* TODO */
-"Make a new recording, or stop an existing one." = "Make a new recording, or stop an existing one.";
+/* No comment provided by engineer. */
+"Make a new recording, or stop an existing one." = "Tạo bản ghi âm mới hoặc dừng bản ghi âm hiện tại.";
 
-/* TODO */
-"Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
+/* No comment provided by engineer. */
+"Make a new voice memo, or stop an existing one." = "Tạo một bản ghi nhớ giọng nói mới hoặc dừng bản ghi nhớ giọng nói hiện tại.";
 
-/* TODO */
-"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
+/* No comment provided by engineer. */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Tạo các bản sao nông của bản ghi âm trong miền sao lưu và cho phép iCloud Backup đưa chúng vào.";
 
-/* TODO */
-"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback.";
+/* No comment provided by engineer. */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Thực hiện ghi âm cuộc gọi liên quan được hiển thị trên trang lịch sử cuộc gọi, chuyển đến TrollRecorder để phát lại.";
 
-/* TODO */
-"Make the device ring or vibrate when recording ends." = "Make the device ring or vibrate when recording ends.";
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording ends." = "Làm cho thiết bị đổ chuông hoặc rung khi quá trình ghi âm kết thúc.";
 
-/* TODO */
-"Make the device ring or vibrate when recording starts." = "Make the device ring or vibrate when recording starts.";
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording starts." = "Làm cho thiết bị đổ chuông hoặc rung khi bắt đầu ghi âm.";
 
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "Làm cho bong bóng mọi nơi trở nên vô hình khi chụp ảnh màn hình hoặc ghi lại màn hình.";
 
-/* TODO */
-"Make the hoverball invisible when the device is in landscape orientation." = "Make the hoverball invisible when the device is in landscape orientation.";
+/* No comment provided by engineer. */
+"Make the hoverball invisible when the device is in landscape orientation." = "Làm cho bong bóng trở nên vô hình khi thiết bị ở chế độ ngang.";
 
 /* No comment provided by engineer. */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Làm cho bong bóng trong suốt hoặc gấp lại khi để nó trong một thời gian.";
@@ -1456,14 +1462,14 @@
 /* No comment provided by engineer. */
 "Medium" = "Trung bình";
 
-/* TODO */
-"Medium Date" = "Medium Date";
+/* No comment provided by engineer. */
+"Medium Date" = "Ngày trung bình";
 
-/* TODO */
-"Medium Time" = "Medium Time";
+/* No comment provided by engineer. */
+"Medium Time" = "Thời gian trung bình";
 
-/* TODO */
-"Merge" = "Merge";
+/* No comment provided by engineer. */
+"Merge" = "Hợp nhất";
 
 /* No comment provided by engineer. */
 "Merged File" = "Tệp đã hợp nhất";
@@ -1474,8 +1480,8 @@
 /* TODO */
 "Metadata" = "Metadata";
 
-/* No comment provided by engineer. */
-"Microphone" = "Micro";
+/* TODO */
+"Microphone" = "Microphone";
 
 /* TODO */
 "microphone" = "microphone";
@@ -1483,14 +1489,14 @@
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "Micrô và loa được ghi lại ở các kênh khác nhau.";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
-/* TODO */
-"Minutes" = "Minutes";
+/* No comment provided by engineer. */
+"Minutes" = "Phút";
 
-/* TODO */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+/* No comment provided by engineer. */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Thiếu quyền cần thiết để truy cập Google Drive. Vui lòng cấp lại quyền với Google và cấp tất cả quyền “Google Drive” cho “TrollRecorder”.";
 
 /* No comment provided by engineer. */
 "Mixed" = "Được phối lại";
@@ -1505,19 +1511,19 @@
 "Mixer File Format" = "Định dạng tập tin bản phối lại";
 
 /* No comment provided by engineer. */
-"Mixer Quality" = "Mixer Quality";
+"Mixer Quality" = "Chất lượng Phối";
 
-/* TODO */
-"Month Number" = "Month Number";
+/* No comment provided by engineer. */
+"Month Number" = "Số tháng";
 
-/* TODO */
-"Monthly Arranged" = "Monthly Arranged";
+/* No comment provided by engineer. */
+"Monthly Arranged" = "Sắp xếp hàng tháng";
 
-/* TODO */
-"More icons, more innovation." = "More icons, more innovation.";
+/* No comment provided by engineer. */
+"More icons, more innovation." = "Nhiều biểu tượng hơn, nhiều sáng tạo hơn.";
 
-/* TODO */
-"More Options" = "More Options";
+/* No comment provided by engineer. */
+"More Options" = "Thêm tùy chọn";
 
 /* No comment provided by engineer. */
 "Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Di chuyển các bản ghi âm đã xóa vào một thư mục đặc biệt cho phép bạn khôi phục các mục đã xóa nếu bạn đổi ý hoặc nhận ra rằng bạn cần chúng sau này.";
@@ -1525,29 +1531,29 @@
 /* No comment provided by engineer. */
 "MPEG-4 Audio" = "Âm thanh MPEG-4";
 
-/* TODO */
-"mute" = "mute";
+/* No comment provided by engineer. */
+"mute" = "tắt tiếng";
 
-/* TODO */
-"Mute ${requestedChannel}" = "Mute ${requestedChannel}";
+/* No comment provided by engineer. */
+"Mute ${requestedChannel}" = "Tắt tiếng ${requestedChannel}";
 
-/* TODO */
-"Mute Existing Calls" = "Mute Existing Calls";
+/* No comment provided by engineer. */
+"Mute Existing Calls" = "Tắt tiếng cuộc gọi hiện tại";
 
-/* TODO */
-"Mute specified channel of all existing calls." = "Mute specified channel of all existing calls.";
+/* No comment provided by engineer. */
+"Mute specified channel of all existing calls." = "Tắt tiếng kênh đã chỉ định của tất cả các cuộc gọi hiện có.";
 
-/* TODO */
-"My Favourite" = "My Favourite";
+/* No comment provided by engineer. */
+"My Favourite" = "Yêu thích của Tôi";
 
 /* No comment provided by engineer. */
 "My Favourites" = "Mục yêu thích của tôi";
 
-/* TODO */
-"Name" = "Name";
+/* No comment provided by engineer. */
+"Name" = "Tên";
 
-/* TODO */
-"Name with Alias" = "Name with Alias";
+/* No comment provided by engineer. */
+"Name with Alias" = "Tên có Biệt danh";
 
 /* No comment provided by engineer. */
 "Network Storage" = "Lưu trữ mạng";
@@ -1558,26 +1564,26 @@
 /* TODO */
 "Never Show This Again" = "Never Show This Again";
 
-/* TODO */
-"New" = "New";
+/* No comment provided by engineer. */
+"New" = "Mới";
 
-/* TODO */
-"New Argument" = "New Argument";
+/* No comment provided by engineer. */
+"New Argument" = "Lập luận mới";
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Mô hình kết hợp mới";
 
-/* TODO */
-"New Version Available" = "New Version Available";
+/* No comment provided by engineer. */
+"New Version Available" = "Phiên bản mới có sẵn";
 
-/* TODO */
-"New Version Installed" = "New Version Installed";
+/* No comment provided by engineer. */
+"New Version Installed" = "Đã cài đặt phiên bản mới";
 
-/* TODO */
-"NO" = "NO";
+/* No comment provided by engineer. */
+"NO" = "KHÔNG";
 
-/* TODO */
-"No Available Version" = "No Available Version";
+/* No comment provided by engineer. */
+"No Available Version" = "Không có phiên bản nào khả dụng";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "Không tìm thấy số điện thoại trong các liên hệ đã chọn.";
@@ -1597,55 +1603,55 @@
 /* No comment provided by engineer. */
 "None" = "Không";
 
-/* TODO */
-"Not Implemented" = "Not Implemented";
+/* No comment provided by engineer. */
+"Not Implemented" = "Không được thực hiện";
 
-/* TODO */
-"Not My Favourite" = "Not My Favourite";
+/* No comment provided by engineer. */
+"Not My Favourite" = "Không phải là sở thích của tôi";
 
-/* TODO */
-"Not Now" = "Not Now";
+/* No comment provided by engineer. */
+"Not Now" = "Không phải bây giờ";
 
-/* TODO */
-"Not Properly Configured" = "Not Properly Configured";
+/* No comment provided by engineer. */
+"Not Properly Configured" = "Không cấu hình đúng";
 
 /* No comment provided by engineer. */
 "Nothing Imported" = "Không có gì được nhập vào";
 
-/* TODO */
-"Nothing Inside" = "Nothing Inside";
+/* No comment provided by engineer. */
+"Nothing Inside" = "Không có gì bên trong";
 
-/* TODO */
-"notification" = "notification";
+/* No comment provided by engineer. */
+"notification" = "thông báo";
 
-/* TODO */
-"Notification Permission Denied" = "Notification Permission Denied";
+/* No comment provided by engineer. */
+"Notification Permission Denied" = "Quyền thông báo bị từ chối";
 
 /* No comment provided by engineer. */
 "Notifications" = "Thông báo";
 
-/* TODO */
-"notify" = "notify";
+/* No comment provided by engineer. */
+"notify" = "thông báo";
 
-/* TODO */
-"Notify at Begin" = "Notify at Begin";
+/* No comment provided by engineer. */
+"Notify at Begin" = "Thông báo khi bắt đầu";
 
-/* TODO */
-"Notify at End" = "Notify at End";
+/* No comment provided by engineer. */
+"Notify at End" = "Thông báo khi kết thúc";
 
-/* TODO */
-"Object Viewer" = "Object Viewer";
+/* No comment provided by engineer. */
+"Object Viewer" = "Trình xem đối tượng";
 
-/* TODO */
-"Off" = "Off";
+/* No comment provided by engineer. */
+"Off" = "Tắt";
 
 /* No comment provided by engineer. */
 "OK" = "Được rồi";
 
-/* TODO */
-"On" = "On";
+/* No comment provided by engineer. */
+"On" = "Bật";
 
-/* TODO */
+/* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
@@ -1657,8 +1663,8 @@
 /* No comment provided by engineer. */
 "open" = "mở";
 
-/* TODO */
-"Open Application" = "Open Application";
+/* No comment provided by engineer. */
+"Open Application" = "Mở ứng dụng";
 
 /* No comment provided by engineer. */
 "Open Hoverball" = "Mở bong bóng";
@@ -1666,41 +1672,41 @@
 /* No comment provided by engineer. */
 "Open in Filza" = "Mở Trong Filza";
 
-/* TODO */
-"Open in Maps" = "Open in Maps";
+/* No comment provided by engineer. */
+"Open in Maps" = "Mở Trong Bản đồ";
 
 /* No comment provided by engineer. */
 "Open Troll Recorder" = "Mở Troll Recorder";
 
-/* TODO */
-"Operation Failed" = "Operation Failed";
+/* No comment provided by engineer. */
+"Operation Failed" = "Thao tác thất bại";
 
-/* TODO */
-"Operation Succeed" = "Operation Succeed";
+/* No comment provided by engineer. */
+"Operation Succeed" = "Thao tác thành công";
 
-/* TODO */
-"Operation succeed, but no files transferred." = "Operation succeed, but no files transferred.";
+/* No comment provided by engineer. */
+"Operation succeed, but no files transferred." = "Thao tác thành công nhưng không có tập tin nào được chuyển.";
 
-/* TODO */
-"Operator Name" = "Operator Name";
+/* No comment provided by engineer. */
+"Operator Name" = "Tên người điều khiển";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
 
-/* TODO */
-"Options" = "Options";
+/* No comment provided by engineer. */
+"Options" = "Tùy chọn";
 
 /* No comment provided by engineer. */
 "Outgoing" = "Đi ra";
 
-/* TODO */
-"Outgoing Call" = "Outgoing Call";
+/* No comment provided by engineer. */
+"Outgoing Call" = "Cuộc gọi đi";
 
-/* TODO */
-"Outgoing Call Answered" = "Outgoing Call Answered";
+/* No comment provided by engineer. */
+"Outgoing Call Answered" = "Cuộc gọi đi đã được trả lời";
 
-/* TODO */
-"Outgoing Call Hang Up" = "Outgoing Call Hang Up";
+/* No comment provided by engineer. */
+"Outgoing Call Hang Up" = "Cuộc gọi đi đã tắt máy";
 
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đi từ “%@” và các ứng dụng %ld khác.";
@@ -1708,38 +1714,38 @@
 /* No comment provided by engineer. */
 "Outgoing call recording from “%@”." = "Ghi âm cuộc gọi đi từ “%@”.";
 
-/* TODO */
-"Page not found" = "Page not found";
+/* No comment provided by engineer. */
+"Page not found" = "Không tìm thấy trang";
 
-/* TODO */
-"Password (Optional)" = "Password (Optional)";
+/* No comment provided by engineer. */
+"Password (Optional)" = "Mật khẩu (Tùy chọn)";
 
-/* TODO */
-"path" = "path";
+/* No comment provided by engineer. */
+"path" = "đường dẫn";
 
-/* TODO */
-"Pause" = "Pause";
+/* No comment provided by engineer. */
+"Pause" = "Tạm dừng";
 
-/* TODO */
-"Pause Recording" = "Pause Recording";
+/* No comment provided by engineer. */
+"Pause Recording" = "Tạm dừng ghi âm";
 
 /* No comment provided by engineer. */
 "Paused" = "Tạm dừng";
 
-/* TODO */
-"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”.";
+/* No comment provided by engineer. */
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Thực hiện đồng bộ hóa đầy đủ “Sao lưu bằng iCloud” và “Lưu trữ đám mây thông minh”.";
 
-/* TODO */
-"Perform Full Synchronization" = "Perform Full Synchronization";
+/* No comment provided by engineer. */
+"Perform Full Synchronization" = "Thực hiện đồng bộ hóa đầy đủ";
 
-/* TODO */
-"Period" = "Period";
+/* No comment provided by engineer. */
+"Period" = "Giai đoạn";
 
-/* TODO */
-"Phone" = "Phone";
+/* No comment provided by engineer. */
+"Phone" = "Điện thoại";
 
-/* TODO */
-"phone" = "phone";
+/* No comment provided by engineer. */
+"phone" = "điện thoại";
 
 /* No comment provided by engineer. */
 "Phone Address" = "Địa chỉ điện thoại";
@@ -1747,8 +1753,8 @@
 /* No comment provided by engineer. */
 "Phone Call Exclude List" = "Danh sách loại trừ cuộc gọi điện thoại";
 
-/* TODO */
-"phone call recording" = "phone call recording";
+/* No comment provided by engineer. */
+"phone call recording" = "ghi âm cuộc gọi điện thoại";
 
 /* No comment provided by engineer. */
 "Phone Call VIP" = "Cuộc gọi điện thoại VIP";
@@ -1759,74 +1765,74 @@
 /* No comment provided by engineer. */
 "Phone Number or Email Address" = "Số điện thoại hoặc địa chỉ email";
 
-/* TODO */
-"Physical Key Combination" = "Physical Key Combination";
+/* No comment provided by engineer. */
+"Physical Key Combination" = "Tổ hợp phím vật lý";
 
-/* TODO */
-"Placemark Name" = "Placemark Name";
+/* No comment provided by engineer. */
+"Placemark Name" = "Tên điểm đánh dấu";
 
-/* TODO */
-"Play" = "Play";
+/* No comment provided by engineer. */
+"Play" = "Phát";
 
-/* TODO */
-"play" = "play";
+/* No comment provided by engineer. */
+"play" = "phát";
 
-/* TODO */
-"Play ${audioFile}" = "Play ${audioFile}";
+/* No comment provided by engineer. */
+"Play ${audioFile}" = "Phát ${audioFile}";
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Phát Cảnh Báo Ghi Âm";
 
-/* TODO */
-"Play Sound" = "Play Sound";
+/* No comment provided by engineer. */
+"Play Sound" = "Phát Âm Thanh";
 
-/* TODO */
-"Play specified audio file to the microphone." = "Play specified audio file to the microphone.";
+/* No comment provided by engineer. */
+"Play specified audio file to the microphone." = "Phát tệp âm thanh đã chỉ định vào micrô.";
 
-/* TODO */
-"Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
+/* No comment provided by engineer. */
+"Play specified voice-over text to the microphone." = "Phát văn bản lồng ghép đã chỉ định vào micrô.";
 
-/* TODO */
-"Play Uplink Audio" = "Play Uplink Audio";
+/* No comment provided by engineer. */
+"Play Uplink Audio" = "Phát âm thanh Uplink";
 
-/* TODO */
-"Play Uplink Voice-Over" = "Play Uplink Voice-Over";
+/* No comment provided by engineer. */
+"Play Uplink Voice-Over" = "Phát văn bản lồng ghép Uplink";
 
-/* TODO */
-"Play/Pause" = "Play/Pause";
+/* No comment provided by engineer. */
+"Play/Pause" = "Phát/Tạm dừng";
 
-/* TODO */
-"Playback Rate" = "Playback Rate";
+/* No comment provided by engineer. */
+"Playback Rate" = "Tốc độ phát lại";
 
-/* TODO */
-"Playback Rate: %@x" = "Playback Rate: %@x";
+/* No comment provided by engineer. */
+"Playback Rate: %@x" = "Tốc độ phát lại: %@x";
 
-/* TODO */
-"Playback Speed" = "Playback Speed";
+/* No comment provided by engineer. */
+"Playback Speed" = "Tốc độ phát";
 
-/* TODO */
-"Player Options" = "Player Options";
+/* No comment provided by engineer. */
+"Player Options" = "Tùy chọn của người chơi";
 
-/* TODO */
-"Please check your mail configuration." = "Please check your mail configuration.";
+/* No comment provided by engineer. */
+"Please check your mail configuration." = "Vui lòng kiểm tra cấu hình email của bạn.";
 
-/* TODO */
-"Please enter a valid port number between 1 and 65535." = "Please enter a valid port number between 1 and 65535.";
+/* No comment provided by engineer. */
+"Please enter a valid port number between 1 and 65535." = "Vui lòng nhập một số cổng hợp lệ từ 1 đến 65535.";
 
-/* TODO */
-"Please enter the server URL." = "Please enter the server URL.";
+/* No comment provided by engineer. */
+"Please enter the server URL." = "Vui lòng nhập URL máy chủ.";
 
-/* TODO */
-"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
+/* No comment provided by engineer. */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Vui lòng lưu ý rằng TrollRecorder chỉ được bán và đổi qua Havoc Marketplace. Chúng tôi không bán qua bất kỳ kênh nào khác. Bạn sắp mở trang cửa hàng: Nếu đây là lần đầu tiên bạn sử dụng Havoc Marketplace, chúng tôi khuyên bạn nên đăng nhập bằng tài khoản Google của mình. Nếu bạn là người dùng ở Trung Quốc đại lục, việc đăng nhập vào Google yêu cầu một mạng đặc biệt.";
 
-/* TODO */
-"Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
+/* No comment provided by engineer. */
+"Please reinstall this application from TrollStore." = "Vui lòng cài đặt lại ứng dụng này từ TrollStore.";
 
-/* TODO */
-"Please remember to uninstall “%@” from Sileo." = "Please remember to uninstall “%@” from Sileo.";
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from Sileo." = "Hãy nhớ gỡ cài đặt “%@” khỏi Sileo.";
 
-/* TODO */
-"Please remember to uninstall “%@” from TrollStore." = "Please remember to uninstall “%@” from TrollStore.";
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from TrollStore." = "Hãy nhớ gỡ cài đặt “%@” khỏi TrollStore.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Kiểm soát cửa sổ bật lên";
@@ -1834,50 +1840,50 @@
 /* No comment provided by engineer. */
 "Populate Location When App Starts" = "Điền vị trí khi ứng dụng bắt đầu";
 
-/* TODO */
-"Popup Banner at Begin" = "Popup Banner at Begin";
+/* No comment provided by engineer. */
+"Popup Banner at Begin" = "Biểu ngữ bật lên ở đầu";
 
 /* No comment provided by engineer. */
 "Popup Banner at End" = "Biểu ngữ bật lên ở cuối";
 
-/* TODO */
-"Popup Banner when Fail" = "Popup Banner when Fail";
+/* No comment provided by engineer. */
+"Popup Banner when Fail" = "Biểu ngữ bật lên khi thất bại";
 
-/* TODO */
-"Popup Banner with Badge" = "Popup Banner with Badge";
+/* No comment provided by engineer. */
+"Popup Banner with Badge" = "Biểu ngữ bật lên với biểu tượng";
 
 /* No comment provided by engineer. */
 "Popup Banner with Detail" = "Biểu ngữ bật lên với chi tiết";
 
-/* TODO */
-"Popup Banner with Sound" = "Popup Banner with Sound";
+/* No comment provided by engineer. */
+"Popup Banner with Sound" = "Biểu ngữ bật lên với âm thanh";
 
-/* TODO */
-"Port (Optional)" = "Port (Optional)";
+/* No comment provided by engineer. */
+"Port (Optional)" = "Cổng (Tùy chọn)";
 
-/* TODO */
-"Preparing" = "Preparing";
+/* No comment provided by engineer. */
+"Preparing" = "Đang chuẩn bị";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Bảo tồn tất cả các kênh";
 
-/* TODO */
-"Press & Hold Action" = "Press & Hold Action";
+/* No comment provided by engineer. */
+"Press & Hold Action" = "Nhấn & Giữ Hành Động";
 
-/* TODO */
-"Press & Hold Hoverball" = "Press & Hold Hoverball";
+/* No comment provided by engineer. */
+"Press & Hold Hoverball" = "Nhấn & Giữ Bong Bóng";
 
-/* TODO */
-"Press & Hold Power Button" = "Press & Hold Power Button";
+/* No comment provided by engineer. */
+"Press & Hold Power Button" = "Nhấn & Giữ Nút Nguồn";
 
-/* TODO */
-"Press and hold the power button to start or stop recording during a call." = "Press and hold the power button to start or stop recording during a call.";
+/* No comment provided by engineer. */
+"Press and hold the power button to start or stop recording during a call." = "Nhấn và giữ nút nguồn để bắt đầu hoặc dừng ghi âm trong cuộc gọi.";
 
-/* TODO */
-"Press both of the physical volume buttons to start or stop recording during a call." = "Press both of the physical volume buttons to start or stop recording during a call.";
+/* No comment provided by engineer. */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Nhấn cả hai nút âm lượng vật lý để bắt đầu hoặc dừng ghi âm trong cuộc gọi.";
 
-/* TODO */
-"Press Both Volume Buttons" = "Press Both Volume Buttons";
+/* No comment provided by engineer. */
+"Press Both Volume Buttons" = "Nhấn Cả Hai Nút Âm Lượng";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "Xem trước bị vô hiệu hóa";
@@ -1888,59 +1894,62 @@
 /* No comment provided by engineer. */
 "Privacy Policy & User Agreements" = "Chính sách bảo mật & Thỏa thuận người dùng";
 
-/* TODO */
-"Private Browsing Detected" = "Private Browsing Detected";
+/* No comment provided by engineer. */
+"Private Browsing Detected" = "Phát hiện chế độ duyệt web riêng tư";
+
+/* No comment provided by engineer. */
+"Proceed Anyway" = "Tiếp tục bất chấp";
+
+/* No comment provided by engineer. */
+"Process terminated by signal %d." = "Quá trình bị chấm dứt bởi tín hiệu %d.";
+
+/* No comment provided by engineer. */
+"Process terminated with exit code %d.\n%@" = "Quá trình bị chấm dứt với mã thoát %1$d.\n%2$@";
 
 /* TODO */
-"Proceed Anyway" = "Proceed Anyway";
+"Processing" = "Processing";
 
-/* TODO */
-"Process terminated by signal %d." = "Process terminated by signal %d.";
-
-/* TODO */
-"Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
-
-/* TODO */
-"Pulse-code modulation" = "Pulse-code modulation";
+/* No comment provided by engineer. */
+"Pulse-code modulation" = "Điều chế xung mã";
 
 /* No comment provided by engineer. */
 "Purchase" = "Mua";
 
-/* TODO */
-"Purchase Tips" = "Purchase Tips";
+/* No comment provided by engineer. */
+"Purchase Tips" = "Mẹo mua hàng";
 
 /* TODO */
 "Pure TrollStore" = "Pure TrollStore";
 
-/* TODO */
-"Query the latest version from GitHub." = "Query the latest version from GitHub.";
+/* No comment provided by engineer. */
+"Query the latest version from GitHub." = "Truy vấn phiên bản mới nhất từ GitHub.";
 
-/* TODO */
-"Querying" = "Querying";
+/* No comment provided by engineer. */
+"Querying" = "Đang truy vấn";
 
 /* No comment provided by engineer. */
 "Quick Recording" = "Ghi âm nhanh";
 
-/* TODO */
-"Quit and relaunch to continue using the Pro features." = "Quit and relaunch to continue using the Pro features.";
+/* No comment provided by engineer. */
+"Quit and relaunch to continue using the Pro features." = "Thoát và khởi động lại để tiếp tục sử dụng các tính năng Pro.";
 
-/* TODO */
-"Quit this application and try again." = "Quit this application and try again.";
+/* No comment provided by engineer. */
+"Quit this application and try again." = "Thoát ứng dụng này và thử lại.";
 
-/* TODO */
-"Rclone Documentation" = "Rclone Documentation";
+/* No comment provided by engineer. */
+"Rclone Documentation" = "Tài liệu Rclone";
 
-/* TODO */
-"Re-authorize with Dropbox" = "Re-authorize with Dropbox";
+/* No comment provided by engineer. */
+"Re-authorize with Dropbox" = "Xác thực lại với Dropbox";
 
-/* TODO */
-"Re-authorize with Google" = "Re-authorize with Google";
+/* No comment provided by engineer. */
+"Re-authorize with Google" = "Xác thực lại với Google";
 
-/* TODO */
-"Re-authorize with Microsoft" = "Re-authorize with Microsoft";
+/* No comment provided by engineer. */
+"Re-authorize with Microsoft" = "Xác thực lại với Microsoft";
 
-/* TODO */
-"Re-enable Suggested Options" = "Re-enable Suggested Options";
+/* No comment provided by engineer. */
+"Re-enable Suggested Options" = "Kích hoạt lại các tùy chọn gợi ý";
 
 /* No comment provided by engineer. */
 "Reaching Daemon" = "Tiếp cận Daemon";
@@ -1957,23 +1966,23 @@
 /* No comment provided by engineer. */
 "Ready" = "Sẵn sàng";
 
-/* TODO */
-"Ready to record!" = "Ready to record!";
+/* No comment provided by engineer. */
+"Ready to record!" = "Sẵn sàng để ghi âm!";
 
-/* TODO */
-"Received authorization error: %@" = "Received authorization error: %@";
+/* No comment provided by engineer. */
+"Received authorization error: %@" = " Đã nhận được lỗi ủy quyền: %@";
 
-/* TODO */
-"Received transient error: %@" = "Received transient error: %@";
+/* No comment provided by engineer. */
+"Received transient error: %@" = "Đã nhận được lỗi tạm thời: %@";
 
-/* TODO */
-"Recents Only" = "Recents Only";
+/* No comment provided by engineer. */
+"Recents Only" = "Chỉ Hiện Tại";
 
-/* TODO */
-"Recommended for Apple devices" = "Recommended for Apple devices";
+/* No comment provided by engineer. */
+"Recommended for Apple devices" = "Dành cho thiết bị Apple";
 
-/* TODO */
-"Record" = "Record";
+/* No comment provided by engineer. */
+"Record" = "Ghi âm";
 
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Tự động ghi lại tất cả các cuộc gọi đến và đi.";
@@ -1981,8 +1990,8 @@
 /* No comment provided by engineer. */
 "Record Automatically" = "Ghi lại tự động";
 
-/* TODO */
-"Record Calls on Other Devices" = "Record Calls on Other Devices";
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "Ghi âm cuộc gọi trên thiết bị khác";
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Chỉ Ghi Lại Khi Được Kết Nối";
@@ -1996,74 +2005,74 @@
 /* No comment provided by engineer. */
 "Recording" = "Đang ghi";
 
-/* TODO */
-"Recording (Localized)" = "Recording (Localized)";
+/* No comment provided by engineer. */
+"Recording (Localized)" = "Ghi âm (Địa phương hóa)";
 
-/* TODO */
-"Recording Interrupted" = "Recording Interrupted";
+/* No comment provided by engineer. */
+"Recording Interrupted" = "Ghi âm bị gián đoạn";
 
-/* TODO */
-"Recording Options" = "Recording Options";
+/* No comment provided by engineer. */
+"Recording Options" = "Tùy chọn ghi âm";
 
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Ghi âm bắt đầu khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
 
-/* TODO */
-"Recording successfully started." = "Recording successfully started.";
-
-/* TODO */
-"Recording Type" = "Recording Type";
-
-/* TODO */
-"Recording Type Description" = "Recording Type Description";
-
-/* TODO */
-"Recording will begin when the call is answered." = "Recording will begin when the call is answered.";
+/* No comment provided by engineer. */
+"Recording successfully started." = "Ghi âm đã bắt đầu thành công.";
 
 /* No comment provided by engineer. */
-"Recording “%@” is in progress." = "Recording “%@” is in progress.";
+"Recording Type" = "Loại ghi âm";
 
-/* TODO */
-"RECORDING_LOCALIZED" = "Recording";
+/* No comment provided by engineer. */
+"Recording Type Description" = "Mô tả loại ghi âm";
+
+/* No comment provided by engineer. */
+"Recording will begin when the call is answered." = "Ghi âm sẽ bắt đầu khi cuộc gọi được trả lời.";
+
+/* No comment provided by engineer. */
+"Recording “%@” is in progress." = "Ghi âm “%@” đang diễn ra.";
+
+/* No comment provided by engineer. */
+"RECORDING_LOCALIZED" = "Ghi âm";
 
 /* No comment provided by engineer. */
 "Recordings" = "Bản ghi âm";
 
-/* TODO */
-"Recordings here are permanently removed after 30 days." = "Recordings here are permanently removed after 30 days.";
+/* No comment provided by engineer. */
+"Recordings here are permanently removed after 30 days." = "Bản ghi âm ở đây sẽ bị xóa vĩnh viễn sau 30 ngày.";
 
-/* TODO */
-"Recycle Bin" = "Recycle Bin";
+/* No comment provided by engineer. */
+"Recycle Bin" = "Thùng rác";
 
-/* TODO */
-"Regenerate All" = "Regenerate All";
+/* No comment provided by engineer. */
+"Regenerate All" = "Tái tạo tất cả";
 
-/* TODO */
-"reject" = "reject";
+/* No comment provided by engineer. */
+"reject" = "từ chối";
 
-/* TODO */
-"Reject all incoming calls automatically." = "Reject all incoming calls automatically.";
+/* No comment provided by engineer. */
+"Reject all incoming calls automatically." = "Từ chối tất cả các cuộc gọi đến tự động.";
 
-/* TODO */
-"Reject Incoming Calls" = "Reject Incoming Calls";
+/* No comment provided by engineer. */
+"Reject Incoming Calls" = "Từ chối cuộc gọi đến";
 
-/* TODO */
-"Relaunched" = "Relaunched";
+/* No comment provided by engineer. */
+"Relaunched" = "Đã khởi động lại";
 
-/* TODO */
-"Release" = "Release";
+/* No comment provided by engineer. */
+"Release" = "Phát hành";
 
-/* TODO */
-"Release Notes" = "Release Notes";
+/* No comment provided by engineer. */
+"Release Notes" = "Ghi chú phát hành";
 
-/* TODO */
-"Remove" = "Remove";
+/* No comment provided by engineer. */
+"Remove" = "Xóa";
 
-/* TODO */
-"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Remove all cached waveforms and allow them to be rebuilt from the original recordings.";
+/* No comment provided by engineer. */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Xóa tất cả các dạng sóng đã lưu và cho phép chúng được xây dựng lại từ các bản ghi gốc.";
 
-/* TODO */
-"Remove All Recordings Permanently" = "Remove All Recordings Permanently";
+/* No comment provided by engineer. */
+"Remove All Recordings Permanently" = "Xóa tất cả bản ghi vĩnh viễn";
 
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "Xóa bản ghi lỗi thời";
@@ -2071,65 +2080,65 @@
 /* No comment provided by engineer. */
 "Rename" = "Đổi tên";
 
-/* TODO */
-"Repeat Infinitely" = "Repeat Infinitely";
-
-/* TODO */
-"Reset" = "Reset";
-
-/* TODO */
-"Reset All Shortcuts" = "Reset All Shortcuts";
-
-/* TODO */
-"Reset Search Indexes" = "Reset Search Indexes";
-
-/* TODO */
-"Reset Service" = "Reset Service";
+/* No comment provided by engineer. */
+"Repeat Infinitely" = "Lặp lại vô hạn";
 
 /* No comment provided by engineer. */
+"Reset" = "Đặt lại";
+
+/* No comment provided by engineer. */
+"Reset All Shortcuts" = "Đặt lại tất cả phím tắt";
+
+/* No comment provided by engineer. */
+"Reset Search Indexes" = "Đặt lại chỉ mục tìm kiếm";
+
+/* No comment provided by engineer. */
+"Reset Service" = "Đặt lại dịch vụ";
+
+/* TODO */
 "Respring" = "Respring";
 
-/* TODO */
-"Restart Render Server" = "Restart Render Server";
+/* No comment provided by engineer. */
+"Restart Render Server" = "Khởi động lại máy chủ kết xuất";
 
-/* TODO */
-"Restore" = "Restore";
+/* No comment provided by engineer. */
+"Restore" = "Khôi phục";
 
-/* TODO */
-"Restore %d Items From Recycle Bin" = "Restore %d Items From Recycle Bin";
+/* No comment provided by engineer. */
+"Restore %d Items From Recycle Bin" = "Khôi phục %d mục từ thùng rác";
 
-/* TODO */
-"Restore Selected %ld Items" = "Restore Selected %ld Items";
+/* No comment provided by engineer. */
+"Restore Selected %ld Items" = "Khôi phục %ld mục đã chọn";
 
-/* TODO */
-"Restore Selected Item" = "Restore Selected Item";
+/* No comment provided by engineer. */
+"Restore Selected Item" = "Khôi phục mục đã chọn";
 
-/* TODO */
-"Restoring" = "Restoring";
+/* No comment provided by engineer. */
+"Restoring" = "Đang khôi phục";
 
-/* TODO */
-"Resume Recording" = "Resume Recording";
+/* No comment provided by engineer. */
+"Resume Recording" = "Tiếp tục ghi âm";
 
-/* TODO */
-"Resume with Warning" = "Resume with Warning";
+/* No comment provided by engineer. */
+"Resume with Warning" = "Tiếp tục với cảnh báo";
 
-/* TODO */
-"Retry" = "Retry";
+/* No comment provided by engineer. */
+"Retry" = "Thử lại";
 
-/* TODO */
-"Reverse Geocoding" = "Reverse Geocoding";
+/* No comment provided by engineer. */
+"Reverse Geocoding" = "Địa lý ngược";
 
 /* No comment provided by engineer. */
 "Reverse Selection" = "Lựa chọn ngược";
 
-/* TODO */
-"Rewind 15 Seconds" = "Rewind 15 Seconds";
+/* No comment provided by engineer. */
+"Rewind 15 Seconds" = "Tua lại 15 giây";
 
-/* TODO */
-"Ring" = "Ring";
+/* No comment provided by engineer. */
+"Ring" = "Chuông";
 
-/* TODO */
-"Ring & Vibrate" = "Ring & Vibrate";
+/* No comment provided by engineer. */
+"Ring & Vibrate" = "Chuông & Rung";
 
 /* TODO */
 "Root" = "Root";
@@ -2140,8 +2149,8 @@
 /* TODO */
 "Rootless Jailbreak" = "Rootless Jailbreak";
 
-/* TODO */
-"Runtime Environment: %@" = "Runtime Environment: %@";
+/* No comment provided by engineer. */
+"Runtime Environment: %@" = "Môi trường thực thi: %@";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "Tỷ lệ mẫu";
@@ -2149,70 +2158,70 @@
 /* TODO */
 "Sandbox Build" = "Sandbox Build";
 
-/* TODO */
-"Save" = "Save";
+/* No comment provided by engineer. */
+"Save" = "Lưu";
 
-/* TODO */
-"Save as Duplicate" = "Save as Duplicate";
+/* No comment provided by engineer. */
+"Save as Duplicate" = "Lưu dưới dạng bản sao";
 
-/* TODO */
-"Save as Duplicate…" = "Save as Duplicate…";
+/* No comment provided by engineer. */
+"Save as Duplicate…" = "Lưu dưới dạng bản sao…";
 
-/* TODO */
-"Say ${requestedText}" = "Say ${requestedText}";
+/* No comment provided by engineer. */
+"Say ${requestedText}" = "Nói ${requestedText}";
 
 /* No comment provided by engineer. */
 "Scene Identification" = "Nhận dạng cảnh";
 
-/* TODO */
-"screen" = "screen";
+/* No comment provided by engineer. */
+"screen" = "màn hình";
 
 /* No comment provided by engineer. */
 "Search" = "Tìm kiếm";
 
-/* TODO */
-"Search %@ in %@…" = "Search %1$@ in %2$@…";
+/* No comment provided by engineer. */
+"Search %@ in %@…" = "Tìm kiếm %1$@ trong %2$@…";
 
-/* TODO */
-"Search %@…" = "Search %@…";
+/* No comment provided by engineer. */
+"Search %@…" = "Tìm kiếm %@…";
 
 /* No comment provided by engineer. */
 "Search Apps…" = "Tìm kiếm ứng dụng…";
 
-/* TODO */
-"Search Arguments…" = "Search Arguments…";
+/* No comment provided by engineer. */
+"Search Arguments…" = "Tìm kiếm đối số…";
 
 /* No comment provided by engineer. */
 "Search Contacts…" = "Tìm kiếm danh bạ…";
 
-/* TODO */
-"Search in %@…" = "Search in %@…";
+/* No comment provided by engineer. */
+"Search in %@…" = "Tìm kiếm trong %@…";
 
 /* No comment provided by engineer. */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Tìm kiếm chuyên sâu với tất cả thông tin có sẵn được lưu khi ghi lại như thông tin liên hệ hoặc vị trí.";
 
-/* TODO */
-"Search in Maps" = "Search in Maps";
+/* No comment provided by engineer. */
+"Search in Maps" = "Tìm kiếm trong Bản đồ";
 
 /* No comment provided by engineer. */
 "Search Recordings…" = "Tìm kiếm các bản ghi âm…";
 
-/* TODO */
-"Search Shortcuts…" = "Search Shortcuts…";
+/* No comment provided by engineer. */
+"Search Shortcuts…" = "Tìm kiếm phím tắt…";
 
-/* TODO */
-"Search…" = "Search…";
+/* No comment provided by engineer. */
+"Search…" = "Tìm kiếm…";
 
-/* TODO */
-"Seconds" = "Seconds";
+/* No comment provided by engineer. */
+"Seconds" = "Giây";
 
-/* TODO */
-"Secure" = "Secure";
+/* No comment provided by engineer. */
+"Secure" = "Bảo mật";
 
 /* No comment provided by engineer. */
 "Secure Payment" = "Thanh toán an toàn";
 
-/* Translated with Microsoft Translator */
+/* No comment provided by engineer. */
 "See ya!" = "Hẹn gặp lại!";
 
 /* No comment provided by engineer. */
@@ -2224,47 +2233,47 @@
 /* No comment provided by engineer. */
 "Select All" = "Chọn tất cả";
 
-/* TODO */
-"Select the primary cloud service provider for recording synchronization." = "Select the primary cloud service provider for recording synchronization.";
+/* No comment provided by engineer. */
+"Select the primary cloud service provider for recording synchronization." = "Chọn nhà cung cấp dịch vụ đám mây chính để đồng bộ hóa ghi âm.";
 
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Bán trong suốt";
 
-/* TODO */
-"Sender Name" = "Sender Name";
+/* No comment provided by engineer. */
+"Sender Name" = "Tên người gửi";
 
-/* TODO */
-"Sender Phone Address" = "Sender Phone Address";
+/* No comment provided by engineer. */
+"Sender Phone Address" = "Địa chỉ điện thoại người gửi";
 
-/* TODO */
-"Sender Short Name" = "Sender Short Name";
+/* No comment provided by engineer. */
+"Sender Short Name" = "Tên ngắn gọn người gửi";
 
 /* No comment provided by engineer. */
 "Separated Channels" = "Các kênh riêng biệt";
 
-/* TODO */
-"Separators" = "Separators";
+/* No comment provided by engineer. */
+"Separators" = "Các ký tự phân cách";
 
-/* TODO */
-"Server" = "Server";
+/* No comment provided by engineer. */
+"Server" = "Máy chủ";
 
 /* No comment provided by engineer. */
 "Server started at: %@" = "Máy chủ bắt đầu lúc: %@";
 
-/* TODO */
-"Server URL" = "Server URL";
+/* No comment provided by engineer. */
+"Server URL" = "URL máy chủ";
 
-/* TODO */
-"service" = "service";
+/* No comment provided by engineer. */
+"service" = "dịch vụ";
 
-/* TODO */
-"Service is alive" = "Service is alive";
+/* No comment provided by engineer. */
+"Service is alive" = "Dịch vụ đang hoạt động";
 
-/* TODO */
-"Service is dead" = "Service is dead";
+/* No comment provided by engineer. */
+"Service is dead" = "Dịch vụ đã ngừng hoạt động";
 
-/* TODO */
-"Service Status" = "Service Status";
+/* No comment provided by engineer. */
+"Service Status" = "Trạng thái dịch vụ";
 
 /* No comment provided by engineer. */
 "Set a new name for this recording, or leave blank to use default." = "Đặt tên mới cho bản ghi này hoặc để trống để sử dụng mặc định.";
@@ -2278,17 +2287,17 @@
 /* No comment provided by engineer. */
 "Share" = "Chia sẻ";
 
-/* TODO */
-"Short Date" = "Short Date";
+/* No comment provided by engineer. */
+"Short Date" = "Ngày ngắn";
 
-/* TODO */
-"Short Day of Week String" = "Short Day of Week String";
+/* No comment provided by engineer. */
+"Short Day of Week String" = "Chuỗi ngày trong tuần ngắn";
 
-/* TODO */
-"Short Month Name" = "Short Month Name";
+/* No comment provided by engineer. */
+"Short Month Name" = "Tên tháng ngắn";
 
-/* TODO */
-"Short Time" = "Short Time";
+/* No comment provided by engineer. */
+"Short Time" = "Thời gian ngắn";
 
 /* No comment provided by engineer. */
 "Show Bundle Name" = "Hiển thị tên gói";
@@ -2296,20 +2305,20 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "Hiển thị tên liên hệ";
 
-/* TODO */
-"Show Hoverball" = "Show Hoverball";
+/* No comment provided by engineer. */
+"Show Hoverball" = "Hiển thị Bong Bóng";
 
-/* TODO */
-"Show Notification" = "Show Notification";
+/* No comment provided by engineer. */
+"Show Notification" = "Hiển thị thông báo";
 
-/* TODO */
-"Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
+/* No comment provided by engineer. */
+"Show notification ${requestedMessage}" = "Hiển thị thông báo ${requestedMessage}";
 
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "Hiển thị trên màn hình khóa";
 
-/* TODO */
-"Show Option Description" = "Show Option Description";
+/* No comment provided by engineer. */
+"Show Option Description" = "Hiển thị mô tả tùy chọn";
 
 /* No comment provided by engineer. */
 "Show Recording Duration" = "Hiển thị thời lượng ghi âm";
@@ -2323,101 +2332,101 @@
 /* No comment provided by engineer. */
 "Show Waveform Previews" = "Hiển thị bản xem trước dạng sóng";
 
-/* TODO */
-"Show “View Details” menu item for developers to check the manifests of recordings." = "Show “View Details” menu item for developers to check the manifests of recordings.";
+/* No comment provided by engineer. */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Hiển thị mục menu “Xem chi tiết” để nhà phát triển kiểm tra bản kê khai của bản ghi.";
 
 /* No comment provided by engineer. */
-"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Đăng nhập bằng tài khoản Dropbox của bạn để ủy quyền cho ứng dụng truy cập Dropbox của bạn.";
 
 /* No comment provided by engineer. */
-"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Đăng nhập bằng tài khoản Google của bạn để ủy quyền cho ứng dụng truy cập Google Drive của bạn.";
 
 /* No comment provided by engineer. */
-"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Đăng nhập bằng tài khoản Microsoft của bạn để ủy quyền cho ứng dụng truy cập OneDrive của bạn.";
 
-/* TODO */
-"Silent Mode" = "Silent Mode";
+/* No comment provided by engineer. */
+"Silent Mode" = "Chế độ im lặng";
 
 /* No comment provided by engineer. */
 "SIM Card Alias" = "Bí danh thẻ SIM";
 
-/* TODO */
-"Simulator" = "Simulator";
+/* No comment provided by engineer. */
+"Simulator" = "Trình giả lập";
 
-/* TODO */
-"Skip Silence" = "Skip Silence";
+/* No comment provided by engineer. */
+"Skip Silence" = "Bỏ qua im lặng";
 
 /* No comment provided by engineer. */
 "Smaller" = "Nhỏ hơn";
 
-/* TODO */
-"Smart Cloud Archive" = "Smart Cloud Archive";
+/* No comment provided by engineer. */
+"Smart Cloud Archive" = "Lưu trữ đám mây thông minh";
 
 /* No comment provided by engineer. */
 "Software License" = "Giấy phép phần mềm";
 
-/* TODO */
-"Some settings have been reset to default values." = "Some settings have been reset to default values.";
+/* No comment provided by engineer. */
+"Some settings have been reset to default values." = "Một số cài đặt đã được đặt lại về giá trị mặc định.";
 
-/* TODO */
-"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo.";
+/* No comment provided by engineer. */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Một cái gì đó quan trọng đang thiếu. Vui lòng cài đặt lại “TrollRecorder JB” từ Sileo.";
 
-/* TODO */
-"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code.";
+/* No comment provided by engineer. */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Có điều gì đó không ổn, chúng tôi không thể xác minh giấy phép của bạn. Bạn có thể nhấn “Xem tài khoản của tôi” để kiểm tra đơn hàng, mua sắm hoặc đổi mã quà tặng.";
 
-/* TODO */
-"Sound Level Meter" = "Sound Level Meter";
+/* No comment provided by engineer. */
+"Sound Level Meter" = "Đồng hồ đo mức âm thanh";
 
-/* TODO */
-"Space" = "Space";
+/* No comment provided by engineer. */
+"Space" = "Không gian";
 
 /* No comment provided by engineer. */
 "Speaker" = "Người nói";
 
-/* TODO */
-"speaker" = "speaker";
+/* No comment provided by engineer. */
+"speaker" = "người nói";
 
-/* TODO */
-"Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+/* No comment provided by engineer. */
+"Specified range from %@ to %@ is invalid." = "Khoảng đã chỉ định từ %1$@ đến %2$@ là không hợp lệ.";
 
 /* No comment provided by engineer. */
 "start" = "bắt đầu";
 
-/* TODO */
-"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
+/* No comment provided by engineer. */
+"Start a system screen recording just like what you do in the Control Center." = "Bắt đầu ghi màn hình hệ thống giống như những gì bạn làm trong Trung tâm điều khiển.";
 
-/* TODO */
-"Start Call Recording" = "Start Call Recording";
+/* No comment provided by engineer. */
+"Start Call Recording" = "Bắt đầu ghi âm cuộc gọi";
 
 /* No comment provided by engineer. */
 "Start Date" = "Ngày bắt đầu";
 
-/* TODO */
-"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Start or prepare for a call recording, system audio recording, or create an voice memo.";
+/* No comment provided by engineer. */
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Bắt đầu hoặc chuẩn bị cho một cuộc gọi ghi âm, ghi âm âm thanh hệ thống hoặc tạo một ghi chú âm thanh.";
 
 /* No comment provided by engineer. */
 "Start Recording" = "Bắt đầu ghi âm";
 
-/* TODO */
-"Start Screen Recording" = "Start Screen Recording";
+/* No comment provided by engineer. */
+"Start Screen Recording" = "Bắt đầu ghi màn hình";
 
-/* TODO */
-"Start System Audio Recording" = "Start System Audio Recording";
+/* No comment provided by engineer. */
+"Start System Audio Recording" = "Bắt đầu ghi âm hệ thống";
 
-/* TODO */
-"Start Voice Memo Recording" = "Start Voice Memo Recording";
+/* No comment provided by engineer. */
+"Start Voice Memo Recording" = "Bắt đầu ghi âm ghi chú thoại";
 
-/* TODO */
-"status" = "status";
+/* No comment provided by engineer. */
+"status" = "trạng thái";
 
-/* TODO */
-"Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
+/* No comment provided by engineer. */
+"Stay tuned. We’re recording your call in the background." = "Hãy giữ nguyên. Chúng tôi đang ghi âm cuộc gọi của bạn ở chế độ nền.";
 
 /* No comment provided by engineer. */
 "stop" = "dừng lại";
 
-/* TODO */
-"Stop" = "Stop";
+/* No comment provided by engineer. */
+"Stop" = "Dừng";
 
 /* No comment provided by engineer. */
 "Stop & Reset Service" = "Dừng & Đặt lại Dịch vụ";
@@ -2425,11 +2434,11 @@
 /* No comment provided by engineer. */
 "Stop & Save" = "Dừng lại & Lưu";
 
-/* TODO */
-"Stop a call recording, system audio recording or voice memo if exists." = "Stop a call recording, system audio recording or voice memo if exists.";
+/* No comment provided by engineer. */
+"Stop a call recording, system audio recording or voice memo if exists." = "Dừng ghi âm cuộc gọi, ghi âm âm thanh hệ thống hoặc ghi chú thoại nếu có.";
 
-/* TODO */
-"Stop a system screen recording if exists." = "Stop a system screen recording if exists.";
+/* No comment provided by engineer. */
+"Stop a system screen recording if exists." = "Dừng ghi màn hình hệ thống nếu có.";
 
 /* No comment provided by engineer. */
 "Stop Recording" = "Dừng Ghi Âm";
@@ -2437,56 +2446,56 @@
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "Dừng Ghi Âm Khi Đĩa Hết";
 
-/* TODO */
-"Stop Screen Recording" = "Stop Screen Recording";
+/* No comment provided by engineer. */
+"Stop Screen Recording" = "Dừng Ghi Màn Hình";
 
 /* No comment provided by engineer. */
 "Stop Service" = "Dừng dịch vụ";
 
-/* TODO */
-"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+/* No comment provided by engineer. */
+"Successfully authorized to Google and connected to Google Drive." = "Đã được ủy quyền thành công với Google và kết nối với Google Drive.";
 
-/* TODO */
-"Successfully authorized to Microsoft and connected to OneDrive." = "Successfully authorized to Microsoft and connected to OneDrive.";
+/* No comment provided by engineer. */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Đã được ủy quyền thành công với Microsoft và kết nối với OneDrive.";
 
-/* TODO */
-"Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
+/* No comment provided by engineer. */
+"Successfully connected to Dropbox." = "Đã kết nối thành công với Dropbox.";
 
-/* TODO */
-"Successfully connected to the server %@." = "Successfully connected to the server %@.";
+/* No comment provided by engineer. */
+"Successfully connected to the server %@." = "Đã kết nối thành công với máy chủ %@.";
 
-/* TODO */
-"Suggested" = "Suggested";
+/* No comment provided by engineer. */
+"Suggested" = "Gợi ý";
 
-/* TODO */
-"Suggested Applications" = "Suggested Applications";
+/* No comment provided by engineer. */
+"Suggested Applications" = "Gợi ý Ứng dụng";
 
-/* TODO */
-"Sync" = "Sync";
+/* No comment provided by engineer. */
+"Sync" = "Đồng bộ hóa";
 
-/* TODO */
-"Sync Service Mode" = "Sync Service Mode";
+/* No comment provided by engineer. */
+"Sync Service Mode" = "Chế độ dịch vụ đồng bộ hóa";
 
-/* TODO */
-"Sync Service Provider" = "Sync Service Provider";
+/* No comment provided by engineer. */
+"Sync Service Provider" = "Nhà cung cấp dịch vụ đồng bộ hóa";
 
-/* TODO */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+/* No comment provided by engineer. */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Đồng bộ hóa: Làm cho các bản ghi âm cục bộ và đám mây giống hệt nhau, chỉ thay đổi các ổ đĩa đám mây.";
 
-/* TODO */
-"synchronization" = "synchronization";
+/* No comment provided by engineer. */
+"synchronization" = "đồng bộ hóa";
 
-/* TODO */
-"Synchronization Failed" = "Synchronization Failed";
+/* No comment provided by engineer. */
+"Synchronization Failed" = "Đồng bộ hóa không thành công";
 
-/* TODO */
-"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
+/* No comment provided by engineer. */
+"Synchronize the playback status of the recording with Control Center." = "Đồng bộ hóa trạng thái phát lại của bản ghi với Trung tâm điều khiển.";
 
-/* TODO */
-"Synchronizing" = "Synchronizing";
+/* No comment provided by engineer. */
+"Synchronizing" = "Đang đồng bộ hóa";
 
-/* TODO */
-"Syntax or usage error occurred." = "Syntax or usage error occurred.";
+/* No comment provided by engineer. */
+"Syntax or usage error occurred." = "Đã xảy ra lỗi cú pháp hoặc cách sử dụng.";
 
 /* No comment provided by engineer. */
 "System Applications" = "Ứng dụng hệ thống";
@@ -2494,71 +2503,71 @@
 /* No comment provided by engineer. */
 "System Audio" = "Hệ thống âm thanh";
 
-/* TODO */
-"System Audio Recording" = "System Audio Recording";
+/* No comment provided by engineer. */
+"System Audio Recording" = "Ghi âm hệ thống";
 
-/* TODO */
-"system audio recording" = "system audio recording";
+/* No comment provided by engineer. */
+"system audio recording" = "ghi âm hệ thống";
 
-/* TODO */
-"System Language" = "System Language";
+/* No comment provided by engineer. */
+"System Language" = "Ngôn ngữ hệ thống";
 
-/* TODO */
-"System Record" = "System Record";
+/* No comment provided by engineer. */
+"System Record" = "Ghi âm hệ thống";
 
-/* TODO */
-"Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
+/* No comment provided by engineer. */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Nhấn vào __bất kỳ cạnh nào__  \nđể chọn nó làm ___cạnh hoạt động___.";
 
-/* TODO */
-"Tap again to make a phone call." = "Tap again to make a phone call.";
+/* No comment provided by engineer. */
+"Tap again to make a phone call." = "Nhấn lại để thực hiện cuộc gọi.";
 
-/* TODO */
-"Tap again to open or search the location in Maps." = "Tap again to open or search the location in Maps.";
+/* No comment provided by engineer. */
+"Tap again to open or search the location in Maps." = "Nhấn lại để mở hoặc tìm kiếm vị trí trong Bản đồ.";
 
-/* TODO */
-"Tap again to start a FaceTime call." = "Tap again to start a FaceTime call.";
+/* No comment provided by engineer. */
+"Tap again to start a FaceTime call." = "Nhấn lại để bắt đầu cuộc gọi FaceTime.";
 
-/* TODO */
-"Tap to add required widget." = "Tap to add required widget.";
+/* No comment provided by engineer. */
+"Tap to add required widget." = "Nhấn để thêm tiện ích cần thiết.";
 
-/* TODO */
-"Tap to calculate the total size of all recordings." = "Tap to calculate the total size of all recordings.";
+/* No comment provided by engineer. */
+"Tap to calculate the total size of all recordings." = "Nhấn để tính toán tổng kích thước của tất cả các bản ghi.";
 
-/* TODO */
-"Tap to Copy" = "Tap to Copy";
+/* No comment provided by engineer. */
+"Tap to Copy" = "Nhấn để sao chép";
 
 /* No comment provided by engineer. */
 "Tap to Exit" = "Nhấn để thoát";
 
-/* TODO */
-"Tap to open settings." = "Tap to open settings.";
+/* No comment provided by engineer. */
+"Tap to open settings." = "Nhấn để mở cài đặt.";
 
-/* TODO */
-"Tap to view details" = "Tap to view details";
+/* No comment provided by engineer. */
+"Tap to view details" = "Nhấn để xem chi tiết.";
 
-/* TODO */
-"Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
+/* No comment provided by engineer. */
+"Temporary error occurred, more retries might fix." = "Đã xảy ra lỗi tạm thời, thử lại có thể khắc phục.";
 
 /* No comment provided by engineer. */
 "Temporary Ignore" = "Tạm thời bỏ qua";
 
-/* TODO */
-"terminate" = "terminate";
+/* No comment provided by engineer. */
+"terminate" = "kết thúc";
 
-/* TODO */
-"Terminate all active calls immediately." = "Terminate all active calls immediately.";
+/* No comment provided by engineer. */
+"Terminate all active calls immediately." = "Kết thúc tất cả các cuộc gọi đang hoạt động ngay lập tức.";
 
-/* TODO */
-"Terminate Calls" = "Terminate Calls";
+/* No comment provided by engineer. */
+"Terminate Calls" = "Kết thúc cuộc gọi";
 
-/* TODO */
-"Test Connection" = "Test Connection";
+/* No comment provided by engineer. */
+"Test Connection" = "Kiểm tra kết nối";
 
-/* TODO */
-"text-to-speech" = "text-to-speech";
+/* No comment provided by engineer. */
+"text-to-speech" = "chuyển văn bản thành giọng nói";
 
-/* TODO */
-"The %@ has been interrupted by the system. You may convert the recording manually later." = "The %@ has been interrupted by the system. You may convert the recording manually later.";
+/* No comment provided by engineer. */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "Bản ghi %@ đã bị hệ thống ngắt quãng. Bạn có thể chuyển đổi bản ghi này một cách thủ công sau.";
 
 /* No comment provided by engineer. */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Thiết lập ứng dụng đã gặp lỗi không xác định, Launch Daemon không phản hồi yêu cầu của chúng tôi. Chúng tôi đang cố gắng kết nối lại, vui lòng đợi. Nếu sự cố vẫn tiếp diễn, bạn có thể thử cài đặt lại ứng dụng.";
@@ -2566,17 +2575,17 @@
 /* No comment provided by engineer. */
 "The application will launch automatically when recording ends." = "Ứng dụng sẽ tự động khởi chạy khi ghi âm kết thúc.";
 
-/* TODO */
-"The audio file to be played to the opposite side." = "The audio file to be played to the opposite side.";
+/* No comment provided by engineer. */
+"The audio file to be played to the opposite side." = "Tệp âm thanh sẽ được phát cho bên đối diện.";
 
-/* TODO */
-"The bundle identifier of the application that initiated the call." = "The bundle identifier of the application that initiated the call.";
+/* No comment provided by engineer. */
+"The bundle identifier of the application that initiated the call." = "Định danh gói của ứng dụng đã khởi tạo cuộc gọi.";
 
-/* TODO */
-"The content of text file “%@” is empty." = "The content of text file “%@” is empty.";
+/* No comment provided by engineer. */
+"The content of text file “%@” is empty." = "Nội dung của tệp văn bản “%@” là trống.";
 
-/* TODO */
-"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown.";
+/* No comment provided by engineer. */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Trạng thái hiện tại của cuộc gọi. Các giá trị có thể là: Đang gọi, Đã kết nối, Đã ngắt kết nối và Không xác định.";
 
 /* No comment provided by engineer. */
 "The date and time when the audio was created." = "Ngày và giờ khi âm thanh được tạo ra.";
@@ -2587,26 +2596,26 @@
 /* No comment provided by engineer. */
 "The direction of the call. May not available for all audio files." = "Hướng của cuộc gọi. Có thể không có sẵn cho tất cả các tệp âm thanh.";
 
-/* TODO */
-"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "The direction of the call. Possible values are: Incoming, Outgoing, and Unknown.";
+/* No comment provided by engineer. */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "Hướng của cuộc gọi. Các giá trị có thể là: Đến, Đi và Không xác định.";
 
-/* TODO */
-"The display name of the application that initiated the call." = "The display name of the application that initiated the call.";
+/* No comment provided by engineer. */
+"The display name of the application that initiated the call." = "Tên hiển thị của ứng dụng đã khởi tạo cuộc gọi.";
 
-/* TODO */
-"The field of information to get." = "The field of information to get.";
+/* No comment provided by engineer. */
+"The field of information to get." = "Trường thông tin cần lấy.";
 
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "Định dạng tệp của tệp âm thanh đã chọn.";
 
-/* TODO */
-"The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
+/* No comment provided by engineer. */
+"The hoverball can display even if you do not unlock your device." = "Bóng lơ lửng có thể hiển thị ngay cả khi bạn không mở khóa thiết bị của mình.";
 
-/* TODO */
-"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”.";
+/* No comment provided by engineer. */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Tổ hợp phím của “Ghi âm nhanh” và “Tổ hợp phím vật lý” đã được thay đổi thành “%@”.";
 
-/* TODO */
-"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
+/* No comment provided by engineer. */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "Phiên bản mới nhất của “TrollRecorder” là %1$@ (%2$@). Phiên bản hiện tại là %3$@ (%4$@).";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "Siêu dữ liệu vị trí sẽ được cập nhật liên tục trong khi quá trình ghi đang diễn ra.";
@@ -2614,26 +2623,26 @@
 /* No comment provided by engineer. */
 "The location where the recording was recorded." = "Vị trí nơi ghi âm được ghi lại.";
 
-/* TODO */
-"The maximum seconds to wait for calls to be connected." = "The maximum seconds to wait for calls to be connected.";
+/* No comment provided by engineer. */
+"The maximum seconds to wait for calls to be connected." = "Thời gian tối đa để chờ các cuộc gọi được kết nối.";
 
 /* No comment provided by engineer. */
 "The missing location metadata will be populated if you open the application right after the recording." = "Siêu dữ liệu vị trí bị thiếu sẽ được điền nếu bạn mở ứng dụng ngay sau khi ghi.";
 
-/* TODO */
-"The name of the contact." = "The name of the contact.";
+/* No comment provided by engineer. */
+"The name of the contact." = "Tên của liên hệ.";
 
-/* TODO */
-"The name of the sender." = "The name of the sender.";
+/* No comment provided by engineer. */
+"The name of the sender." = "Tên của người gửi.";
 
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Số lượng mẫu mỗi giây, tốc độ mẫu cao hơn có nghĩa là chất lượng âm thanh tốt hơn với kích thước tệp lớn hơn.";
 
-/* TODO */
-"The phone number of the contact." = "The phone number of the contact.";
+/* No comment provided by engineer. */
+"The phone number of the contact." = "Số điện thoại của liên hệ.";
 
-/* TODO */
-"The phone number of the sender." = "The phone number of the sender.";
+/* No comment provided by engineer. */
+"The phone number of the sender." = "Số điện thoại của người gửi.";
 
 /* No comment provided by engineer. */
 "The phone number. Third party application or CallKit calls may not have this value." = "Số điện thoại. Ứng dụng của bên thứ ba hoặc các cuộc gọi CallKit có thể không có giá trị này.";
@@ -2641,35 +2650,35 @@
 /* No comment provided by engineer. */
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Chế độ xử lý bài đăng sẽ được sử dụng. Chế độ kết hợp sẽ nhét âm thanh loa âm thanh nổi vào kênh bên trái, với micrô ở kênh bên phải. Chế độ hỗn hợp sẽ sao chép kênh micrô sang âm thanh nổi và trộn nó với các kênh loa.";
 
-/* TODO */
-"The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
+/* No comment provided by engineer. */
+"The primary button action at the right side of the hoverball when no call is active." = "Hành động nút chính ở bên phải của bóng lơ lửng khi không có cuộc gọi nào đang hoạt động.";
 
-/* TODO */
-"The service is not properly configured." = "The service is not properly configured.";
+/* No comment provided by engineer. */
+"The service is not properly configured." = "Dịch vụ không được cấu hình đúng cách.";
 
-/* TODO */
-"The service operator name of the sender." = "The service operator name of the sender.";
+/* No comment provided by engineer. */
+"The service operator name of the sender." = "Tên nhà cung cấp dịch vụ của người gửi.";
 
 /* No comment provided by engineer. */
 "The size of selected audio file." = "Kích thước của tệp âm thanh đã chọn.";
 
-/* TODO */
-"The text to be played to the opposite side." = "The text to be played to the opposite side.";
+/* No comment provided by engineer. */
+"The text to be played to the opposite side." = "Văn bản sẽ được phát cho bên đối diện.";
 
 /* No comment provided by engineer. */
 "The time interval before the hoverball becomes idle." = "Khoảng thời gian trước khi bong bóng mọi nơi trở nên nhàn rỗi.";
 
-/* TODO */
-"The type of content to be recorded." = "The type of content to be recorded.";
+/* No comment provided by engineer. */
+"The type of content to be recorded." = "Loại nội dung sẽ được ghi lại.";
 
-/* TODO */
-"The unique identifier of the call." = "The unique identifier of the call.";
+/* No comment provided by engineer. */
+"The unique identifier of the call." = "Mã định danh duy nhất của cuộc gọi.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the provider application." = "Mã định danh duy nhất của ứng dụng nhà cung cấp.";
 
-/* TODO */
-"The URL is not valid." = "The URL is not valid.";
+/* No comment provided by engineer. */
+"The URL is not valid." = "URL không hợp lệ.";
 
 /* No comment provided by engineer. */
 "There is nothing but air." = "Không có gì ngoài không khí.";
@@ -2689,74 +2698,74 @@
 /* No comment provided by engineer. */
 "This field accept phone number or an email address for matching contact." = "Trường này chấp nhận số điện thoại hoặc địa chỉ email để liên hệ phù hợp.";
 
-/* TODO */
-"This is a sandbox build, the daemon is not available." = "This is a sandbox build, the daemon is not available.";
+/* No comment provided by engineer. */
+"This is a sandbox build, the daemon is not available." = "Đây là bản dựng sandbox, không có daemon.";
 
-/* TODO */
-"This is a widget daemon for Troll Recorder." = "This is a widget daemon for Troll Recorder.";
+/* No comment provided by engineer. */
+"This is a widget daemon for Troll Recorder." = "Đây là daemon widget cho Troll Recorder.";
 
-/* TODO */
-"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "This option affects the behavior of the “Quick Recording” and “Physical Key Combination”.";
+/* No comment provided by engineer. */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "Tùy chọn này ảnh hưởng đến hành vi của “Ghi âm nhanh” và “Tổ hợp phím vật lý”.";
 
-/* TODO */
-"This option overrides the “Press & Hold Action” of the Hoverball." = "This option overrides the “Press & Hold Action” of the Hoverball.";
+/* No comment provided by engineer. */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "Tùy chọn này ghi đè lên “Hành động Nhấn & Giữ” của Hoverball.";
 
-/* TODO */
-"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
+/* No comment provided by engineer. */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "Ghi âm này chứa nhiều biến thể âm thanh. Lưu tại chỗ sẽ xóa các biến thể khác. Bạn có muốn tiếp tục không, hoặc lưu dưới dạng bản sao?";
 
-/* TODO */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?";
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Ghi âm này đến từ WeChat, và “WeChat Assistant” giúp bạn điền tên và ghi chú liên hệ WeChat lần sau.\nBạn có thể mua “TrollRecorder Pro” để kích hoạt “WeChat Assistant”, bạn có muốn mua ngay bây giờ không?";
 
-/* TODO */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?";
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Ghi âm này đến từ WeChat, và “WeChat Assistant” giúp bạn điền tên và ghi chú liên hệ WeChat lần sau.\nBạn dường như chưa kích hoạt “WeChat Assistant”, bạn có muốn kích hoạt ngay bây giờ không?";
 
-/* TODO */
-"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "This version of WeChat (%@) is not supported. Please upgrade to the latest version.";
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "Phiên bản WeChat (%@) này không được hỗ trợ. Vui lòng nâng cấp lên phiên bản mới nhất.";
 
-/* TODO */
-"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected.";
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Phiên bản WeChat (%@) này chưa được kiểm tra và không được hỗ trợ chính thức. Một số tính năng có thể không hoạt động như mong đợi.";
 
-/* TODO */
-"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version.";
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "Phiên bản WeChat (%@) này được hỗ trợ một phần. Nên nâng cấp lên phiên bản mới nhất.";
 
-/* TODO */
-"This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is supported." = "Phiên bản WeChat (%@) này được hỗ trợ.";
 
-/* TODO */
-"Three-digit Milliseconds" = "Three-digit Milliseconds";
+/* No comment provided by engineer. */
+"Three-digit Milliseconds" = "Ba chữ số mili giây.";
 
-/* TODO */
-"Time Sensitive" = "Time Sensitive";
+/* No comment provided by engineer. */
+"Time Sensitive" = "Nhạy cảm với thời gian.";
 
-/* TODO */
-"Title" = "Title";
+/* No comment provided by engineer. */
+"Title" = "Tiêu đề";
 
-/* TODO */
-"To %@" = "To %@";
+/* No comment provided by engineer. */
+"To %@" = "Đến %@";
 
-/* TODO */
-"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
+/* No comment provided by engineer. */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Để kích hoạt tính năng “Launch Shield”, bạn phải thêm widget “Troll Recorder” vào màn hình khóa hoặc màn hình chính. Nhấn “Thêm ngay” để thêm widget đó vào trang đầu tiên của màn hình chính. Bạn có thể nhấn và giữ để thay đổi vị trí của nó sau.";
 
-/* TODO */
-"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
+/* No comment provided by engineer. */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Để cấu hình iCloud Drive, hãy vào “Cài đặt” → “Di động” → “iCloud Drive”.";
 
-/* TODO */
-"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
+/* No comment provided by engineer. */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "Để cấu hình thông báo liên quan đến đồng bộ hóa ghi âm, hãy vào trang cài đặt “Lưu trữ Mạng”.";
 
-/* TODO */
-"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”.";
+/* No comment provided by engineer. */
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "Để cấu hình “Hành động Nhấn & Giữ”, bạn phải xóa phím tắt tùy chỉnh từ “Tự động hóa” → “Nhấn & Giữ Hoverball”.";
 
-/* TODO */
-"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
+/* No comment provided by engineer. */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "Để có được lịch sử cuộc gọi chính xác hơn, bạn phải tiêm nó vào ứng dụng “WeChat” thông qua TrollFools hoặc các công nghệ tương tự.";
 
-/* TODO */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”.";
+/* No comment provided by engineer. */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Để giữ cho WebDAV luôn hoạt động, bạn phải chọn “Luôn” hoặc “Trong khi Sử dụng Ứng dụng” cho “Troll Recorder”.";
 
-/* TODO */
-"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”.";
+/* No comment provided by engineer. */
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Để sử dụng “Smart Cloud Archive”, bạn phải bật “Background App Refresh” cho “Troll Recorder”.";
 
-/* TODO */
-"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”.";
+/* No comment provided by engineer. */
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Để sử dụng “Smart Cloud Archive”, bạn phải đăng nhập vào iCloud Drive trong “Cài đặt”.";
 
 /* No comment provided by engineer. */
 "To: %@" = "Đến: %@";
@@ -2764,11 +2773,11 @@
 /* No comment provided by engineer. */
 "toggle" = "bật/tắt";
 
-/* TODO */
-"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+/* No comment provided by engineer. */
+"Toggle ${requestedMode}" = "Bật/Tắt ${requestedMode}";
 
-/* TODO */
-"Toggle Call Recording" = "Toggle Call Recording";
+/* No comment provided by engineer. */
+"Toggle Call Recording" = "Bật/Tắt ghi âm cuộc gọi";
 
 /* No comment provided by engineer. */
 "Toggle Hoverball" = "Bật/Tắt bong bóng";
@@ -2779,26 +2788,26 @@
 /* No comment provided by engineer. */
 "Toggle Recording" = "Bật tắt ghi âm";
 
-/* TODO */
-"Toggle Screen Recording" = "Toggle Screen Recording";
+/* No comment provided by engineer. */
+"Toggle Screen Recording" = "Bật/Tắt ghi màn hình";
 
-/* TODO */
-"Toggle System Audio Recording" = "Toggle System Audio Recording";
+/* No comment provided by engineer. */
+"Toggle System Audio Recording" = "Bật/Tắt ghi âm hệ thống";
 
-/* TODO */
-"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
+/* No comment provided by engineer. */
+"Toggle system screen recording just like what you do in the Control Center." = "Bật/Tắt ghi màn hình hệ thống giống như những gì bạn làm trong Trung tâm Điều khiển.";
 
-/* TODO */
-"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
+/* No comment provided by engineer. */
+"Toggle Voice Memo Recording" = "Bật/Tắt ghi âm ghi chú giọng nói";
 
-/* TODO */
-"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+/* No comment provided by engineer. */
+"Token expired. Please re-authorize to continue." = "Mã thông báo đã hết hạn. Vui lòng cấp lại quyền để tiếp tục.";
 
-/* TODO */
-"top edge" = "top edge";
+/* No comment provided by engineer. */
+"top edge" = "đỉnh trên";
 
-/* TODO */
-"Total size is %@, path is %@" = "Total size is %@, path is %@";
+/* No comment provided by engineer. */
+"Total size is %@, path is %@" = "Tổng kích thước là %@, đường dẫn là %@";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
@@ -2809,14 +2818,14 @@
 /* No comment provided by engineer. */
 "Track Location Updates" = "Theo dõi cập nhật vị trí";
 
-/* TODO */
-"trailing edge" = "trailing edge";
+/* No comment provided by engineer. */
+"trailing edge" = "đỉnh dưới";
 
 /* No comment provided by engineer. */
 "Transcript" = "Lời thoại";
 
-/* TODO */
-"Transfer exceeded." = "Transfer exceeded.";
+/* No comment provided by engineer. */
+"Transfer exceeded." = "Chuyển nhượng vượt quá giới hạn.";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Chuyển đổi khi nhàn rỗi";
@@ -2824,92 +2833,92 @@
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Được dịch bởi @2311WithLuv";
 
-/* TODO */
-"Trim" = "Trim";
+/* No comment provided by engineer. */
+"Trim" = "Cắt bớt";
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
 
-/* TODO */
+/* No comment provided by engineer. */
 "tts" = "tts";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Tắt tùy chọn này để làm cho các tùy chọn khác trên trang này có hiệu lực đối với ứng dụng hiện tại.";
 
-/* TODO */
-"Two-digit Day of Month Number" = "Two-digit Day of Month Number";
+/* No comment provided by engineer. */
+"Two-digit Day of Month Number" = "Hai chữ số Ngày trong Tháng";
 
-/* TODO */
-"Two-digit Hours, 12-hour Clock" = "Two-digit Hours, 12-hour Clock";
+/* No comment provided by engineer. */
+"Two-digit Hours, 12-hour Clock" = "Hai chữ số Giờ, Đồng hồ 12 giờ";
 
-/* TODO */
-"Two-digit Hours, 24-hour Clock" = "Two-digit Hours, 24-hour Clock";
+/* No comment provided by engineer. */
+"Two-digit Hours, 24-hour Clock" = "Hai chữ số Giờ, Đồng hồ 24 giờ";
 
-/* TODO */
-"Two-digit Minutes" = "Two-digit Minutes";
+/* No comment provided by engineer. */
+"Two-digit Minutes" = "Hai chữ số Phút";
 
-/* TODO */
-"Two-digit Month Number" = "Two-digit Month Number";
+/* No comment provided by engineer. */
+"Two-digit Month Number" = "Hai chữ số Tháng";
 
-/* TODO */
-"Two-digit Seconds" = "Two-digit Seconds";
+/* No comment provided by engineer. */
+"Two-digit Seconds" = "Hai chữ số Giây";
 
-/* TODO */
-"Type to search…" = "Type to search…";
+/* No comment provided by engineer. */
+"Type to search…" = "Gõ để tìm…";
 
-/* TODO */
-"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+/* No comment provided by engineer. */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Không thể xác định thư mục từ xa cho đồng bộ hóa hai chiều. Bạn có thể cần tạo thư mục “TrollRecorder/Recordings” trên bộ nhớ từ xa.";
 
-/* TODO */
-"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+/* No comment provided by engineer. */
+"Unable to locate your personal “OneDrive”." = "Không thể xác định “OneDrive” cá nhân của bạn.";
 
-/* TODO */
-"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
+/* No comment provided by engineer. */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Không thể thực hiện đồng bộ hóa hai chiều gia tăng, cần phải đồng bộ hóa lại hoàn toàn.";
 
-/* TODO */
-"Unauthorize" = "Unauthorize";
+/* No comment provided by engineer. */
+"Unauthorize" = "Bỏ ủy quyền";
 
 /* No comment provided by engineer. */
 "Uncompressed" = "Không nén";
 
-/* TODO */
-"Underscore" = "Underscore";
+/* No comment provided by engineer. */
+"Underscore" = "Gạch dưới";
 
 /* No comment provided by engineer. */
 "Unknown" = "Không xác định";
 
-/* TODO */
-"Unknown Address" = "Unknown Address";
+/* No comment provided by engineer. */
+"Unknown Address" = "Địa chỉ không xác định";
 
-/* TODO */
-"Unknown Artist" = "Unknown Artist";
+/* No comment provided by engineer. */
+"Unknown Artist" = "Nghệ sĩ không xác định";
 
-/* TODO */
-"Unknown Direction" = "Unknown Direction";
+/* No comment provided by engineer. */
+"Unknown Direction" = "Hướng không xác định";
 
-/* TODO */
-"Unknown Duration" = "Unknown Duration";
+/* No comment provided by engineer. */
+"Unknown Duration" = "Thời gian không xác định";
 
 /* No comment provided by engineer. */
 "Unknown Error" = "Lỗi không xác định";
 
-/* TODO */
-"Unknown error occurred." = "Unknown error occurred.";
+/* No comment provided by engineer. */
+"Unknown error occurred." = "Đã xảy ra lỗi không xác định.";
 
-/* TODO */
-"Unknown error occurred. Please check the log for more details." = "Unknown error occurred. Please check the log for more details.";
+/* No comment provided by engineer. */
+"Unknown error occurred. Please check the log for more details." = "Đã xảy ra lỗi không xác định. Vui lòng kiểm tra nhật ký để biết thêm chi tiết.";
 
-/* TODO */
-"Unknown File Format" = "Unknown File Format";
+/* No comment provided by engineer. */
+"Unknown File Format" = "Định dạng tệp không xác định.";
 
-/* TODO */
-"Unknown Location" = "Unknown Location";
+/* No comment provided by engineer. */
+"Unknown Location" = "Vị trí không xác định.";
 
-/* TODO */
-"Unknown Operator" = "Unknown Operator";
+/* No comment provided by engineer. */
+"Unknown Operator" = "Toán tử không xác định.";
 
-/* TODO */
-"Unknown Phone Address" = "Unknown Phone Address";
+/* No comment provided by engineer. */
+"Unknown Phone Address" = "Địa chỉ điện thoại không xác định.";
 
 /* No comment provided by engineer. */
 "Unknown Place" = "Địa điểm không xác định";
@@ -2917,17 +2926,17 @@
 /* No comment provided by engineer. */
 "Unknown Provider" = "Nhà cung cấp không xác định";
 
-/* TODO */
-"Unknown Sample Rate" = "Unknown Sample Rate";
+/* No comment provided by engineer. */
+"Unknown Sample Rate" = "Tỷ lệ mẫu không xác định";
 
-/* TODO */
-"Unknown Sender" = "Unknown Sender";
+/* No comment provided by engineer. */
+"Unknown Sender" = "Người gửi không xác định";
 
-/* TODO */
-"Unknown Type" = "Unknown Type";
+/* No comment provided by engineer. */
+"Unknown Type" = "Loại không xác định";
 
-/* TODO */
-"Unknown Variant" = "Unknown Variant";
+/* No comment provided by engineer. */
+"Unknown Variant" = "Biến thể không xác định";
 
 /* No comment provided by engineer. */
 "Unlock all features?" = "Cần tất cả các tính năng?";
@@ -2935,35 +2944,35 @@
 /* No comment provided by engineer. */
 "Unmark" = "Bỏ đánh dấu";
 
-/* TODO */
-"unmute" = "unmute";
+/* No comment provided by engineer. */
+"unmute" = "Bỏ tắt tiếng";
 
-/* TODO */
-"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
+/* No comment provided by engineer. */
+"Unmute ${requestedChannel}" = "Bỏ tắt tiếng ${requestedChannel}";
 
-/* TODO */
-"Unmute Existing Calls" = "Unmute Existing Calls";
+/* No comment provided by engineer. */
+"Unmute Existing Calls" = "Bỏ tắt tiếng các cuộc gọi hiện có";
 
-/* TODO */
-"Unmute specified channel of all existing calls." = "Unmute specified channel of all existing calls.";
+/* No comment provided by engineer. */
+"Unmute specified channel of all existing calls." = "Bỏ tắt tiếng kênh đã chỉ định của tất cả các cuộc gọi hiện có.";
 
-/* TODO */
-"Unspecified" = "Unspecified";
+/* No comment provided by engineer. */
+"Unspecified" = "Không xác định";
 
 /* No comment provided by engineer. */
 "Unsupported Configuration" = "Cấu hình không được hỗ trợ";
 
-/* TODO */
-"Untitled" = "Untitled";
+/* No comment provided by engineer. */
+"Untitled" = "Không có tiêu đề";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Up to 5 Personal Devices" = "Nhiều thiết bị";
 
 /* No comment provided by engineer. */
 "Updating…" = "Đang cập nhật…";
 
-/* TODO */
-"Upgrade Now" = "Upgrade Now";
+/* No comment provided by engineer. */
+"Upgrade Now" = "Nâng cấp ngay";
 
 /* No comment provided by engineer. */
 "Upgrade to %@" = "Nâng cấp lên %@";
@@ -2974,20 +2983,20 @@
 /* TODO */
 "Uplink (Microphone)" = "Uplink (Microphone)";
 
-/* TODO */
-"Upload" = "Upload";
+/* No comment provided by engineer. */
+"Upload" = "Tải lên";
 
-/* TODO */
-"Upload, download or synchronize recordings between local and cloud drive." = "Upload, download or synchronize recordings between local and cloud drive.";
+/* No comment provided by engineer. */
+"Upload, download or synchronize recordings between local and cloud drive." = "Tải lên, tải xuống hoặc đồng bộ hóa bản ghi giữa ổ đĩa cục bộ và ổ đĩa đám mây.";
 
-/* TODO */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
+/* No comment provided by engineer. */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Tải lên bản ghi cục bộ lên ổ đĩa đám mây như hiện tại. Có thể khôi phục.";
 
-/* TODO */
-"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled.";
+/* No comment provided by engineer. */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Sử dụng xác thực sinh trắc học để mở khóa ứng dụng. Phát lại nền không khả dụng khi tính năng này được bật.";
 
-/* TODO */
-"Use Cellular Network" = "Use Cellular Network";
+/* No comment provided by engineer. */
+"Use Cellular Network" = "Sử dụng Mạng Di động";
 
 /* No comment provided by engineer. */
 "Use Date" = "Ngày sử dụng";
@@ -3001,14 +3010,14 @@
 /* No comment provided by engineer. */
 "Use Haptic Patterns" = "Sử dụng mô hình xúc giác";
 
-/* TODO */
-"Use Media Controls" = "Use Media Controls";
+/* No comment provided by engineer. */
+"Use Media Controls" = "Sử dụng Trình phát phương tiện";
 
 /* No comment provided by engineer. */
 "Use Recycle Bin" = "Sử dụng Thùng rác";
 
-/* TODO */
-"Use Snapshot Transition" = "Use Snapshot Transition";
+/* No comment provided by engineer. */
+"Use Snapshot Transition" = "Sử dụng Chuyển tiếp Ảnh chụp";
 
 /* No comment provided by engineer. */
 "User Agreement" = "Thỏa thuận người dùng";
@@ -3019,26 +3028,26 @@
 /* No comment provided by engineer. */
 "User denied access to speech recognition." = "Người dùng bị từ chối quyền truy cập vào nhận dạng giọng nói.";
 
-/* TODO */
-"User Initiated Recording" = "User Initiated Recording";
+/* No comment provided by engineer. */
+"User Initiated Recording" = "Ghi âm do người dùng khởi xướng";
 
 /* No comment provided by engineer. */
 "User Interface Style" = "Phong cách giao diện người dùng";
 
-/* TODO */
-"Username (Optional)" = "Username (Optional)";
+/* No comment provided by engineer. */
+"Username (Optional)" = "Tên người dùng (Tùy chọn)";
 
 /* No comment provided by engineer. */
 "Utility" = "Tiện ích";
 
-/* TODO */
-"Variant" = "Variant";
+/* No comment provided by engineer. */
+"Variant" = "Biến thể";
 
-/* TODO */
-"Variant Capitalized" = "Variant Capitalized";
+/* No comment provided by engineer. */
+"Variant Capitalized" = "Biến thể Viết hoa";
 
-/* TODO */
-"Variant Description" = "Variant Description";
+/* No comment provided by engineer. */
+"Variant Description" = "Mô tả Biến thể";
 
 /* No comment provided by engineer. */
 "Verification Failed" = "Xác minh không thành công";
@@ -3052,95 +3061,95 @@
 /* No comment provided by engineer. */
 "Version %@ Build %@ - New Version %@ Build %@" = "Phiên bản %1$@ Xây dựng %2$@ - Phiên bản mới %3$@ Xây dựng %4$@";
 
-/* TODO */
-"Vibrate" = "Vibrate";
+/* No comment provided by engineer. */
+"Vibrate" = "Rung";
 
-/* TODO */
-"View" = "View";
+/* No comment provided by engineer. */
+"View" = "Xem";
 
-/* TODO */
-"View Details" = "View Details";
+/* No comment provided by engineer. */
+"View Details" = "Xem Chi tiết";
 
-/* TODO */
-"View Logs" = "View Logs";
+/* No comment provided by engineer. */
+"View Logs" = "Xem Nhật ký";
 
-/* TODO */
-"View Logs: Application" = "View Logs: Application";
+/* No comment provided by engineer. */
+"View Logs: Application" = "Xem Nhật ký: Ứng dụng";
 
-/* TODO */
-"View Logs: Audio Player" = "View Logs: Audio Player";
+/* No comment provided by engineer. */
+"View Logs: Audio Player" = "Xem Nhật ký: Trình phát âm thanh";
 
-/* TODO */
-"View Logs: Call Monitor" = "View Logs: Call Monitor";
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "Xem Nhật ký: Giám sát cuộc gọi";
 
-/* TODO */
-"View Logs: Call Recorder" = "View Logs: Call Recorder";
+/* No comment provided by engineer. */
+"View Logs: Call Recorder" = "Xem Nhật ký: Ghi âm cuộc gọi";
 
-/* TODO */
-"View Logs: Hoverball" = "View Logs: Hoverball";
+/* No comment provided by engineer. */
+"View Logs: Hoverball" = "Xem Nhật ký: Bong Bóng";
 
-/* TODO */
-"View Logs: Launch Agent" = "View Logs: Launch Agent";
+/* No comment provided by engineer. */
+"View Logs: Launch Agent" = "Xem Nhật ký: Launch Agent";
 
-/* TODO */
-"View Logs: Network Storage" = "View Logs: Network Storage";
+/* No comment provided by engineer. */
+"View Logs: Network Storage" = "Xem Nhật ký: Lưu trữ mạng";
 
-/* TODO */
-"View Logs: Speech Utterance" = "View Logs: Speech Utterance";
+/* No comment provided by engineer. */
+"View Logs: Speech Utterance" = "Xem Nhật ký: Phát biểu";
 
-/* TODO */
-"View Logs: System Audio" = "View Logs: System Audio";
+/* No comment provided by engineer. */
+"View Logs: System Audio" = "Xem Nhật ký: Âm thanh hệ thống";
 
-/* TODO */
-"View Logs: Voice Memo" = "View Logs: Voice Memo";
+/* No comment provided by engineer. */
+"View Logs: Voice Memo" = "Xem Nhật ký: Ghi âm giọng nói";
 
-/* TODO */
-"View My Account" = "View My Account";
+/* No comment provided by engineer. */
+"View My Account" = "Xem Tài khoản của tôi";
 
-/* TODO */
-"View Recording Details" = "View Recording Details";
+/* No comment provided by engineer. */
+"View Recording Details" = "Xem Chi tiết Bản ghi";
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "Các liên hệ VIP sẽ luôn được ghi lại và thêm vào các mục yêu thích.";
 
-/* TODO */
-"Voice Memo" = "Voice Memo";
+/* No comment provided by engineer. */
+"Voice Memo" = "Ghi âm giọng nói";
 
-/* TODO */
-"Voice Memo Recording" = "Voice Memo Recording";
+/* No comment provided by engineer. */
+"Voice Memo Recording" = "Ghi âm giọng nói";
 
-/* TODO */
-"voice memo recording" = "voice memo recording";
+/* No comment provided by engineer. */
+"voice memo recording" = "ghi âm giọng nói";
 
-/* TODO */
-"Voice Memos" = "Voice Memos";
+/* No comment provided by engineer. */
+"Voice Memos" = "Ghi âm giọng nói";
 
-/* TODO */
-"voice-over" = "voice-over";
+/* No comment provided by engineer. */
+"voice-over" = "lời nói qua";
 
-/* TODO */
-"Voice-Over Voice" = "Voice-Over Voice";
+/* No comment provided by engineer. */
+"Voice-Over Voice" = "Lồng tiếng giọng nói";
 
-/* TODO */
+/* No comment provided by engineer. */
 "VoIP" = "VoIP";
 
-/* TODO */
-"Volume" = "Volume";
+/* No comment provided by engineer. */
+"Volume" = "Âm lượng";
 
-/* TODO */
-"wait" = "wait";
+/* No comment provided by engineer. */
+"wait" = "chờ";
 
-/* TODO */
-"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+/* No comment provided by engineer. */
+"Wait for ${requestedTimeout} seconds" = "Chờ ${requestedTimeout} giây";
 
-/* TODO */
-"Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
+/* No comment provided by engineer. */
+"Wait for any calls to be answered and connected." = "Chờ bất kỳ cuộc gọi nào được trả lời và kết nối.";
 
-/* TODO */
-"Wait for Calls" = "Wait for Calls";
+/* No comment provided by engineer. */
+"Wait for Calls" = "Chờ cuộc gọi";
 
-/* TODO */
-"Wait for Connected Calls" = "Wait for Connected Calls";
+/* No comment provided by engineer. */
+"Wait for Connected Calls" = "Chờ cuộc gọi đã kết nối";
 
 /* No comment provided by engineer. */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ. Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.";
@@ -3148,22 +3157,22 @@
 /* No comment provided by engineer. */
 "Waveform Audio" = "Âm thanh dạng sóng";
 
-/* TODO */
-"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed.";
+/* No comment provided by engineer. */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "Chúng tôi không thể xác minh giao dịch mua của bạn do thời gian không chính xác. Vui lòng đảm bảo thời gian trên thiết bị của bạn là chính xác để tiếp tục.";
 
-/* TODO */
-"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
+/* No comment provided by engineer. */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Chúng tôi không thể xác minh giao dịch mua của bạn trong chế độ duyệt web riêng tư. Vui lòng đảm bảo rằng bạn không ở chế độ duyệt web riêng tư của Safari để tiếp tục.";
 
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Chúng tôi thích những hình nền đầy màu sắc và chuyển động, nhưng hãy chọn ở đây để bạn vô hiệu hóa nó.";
 
-/* TODO */
+/* No comment provided by engineer. */
 "WebDAV" = "WebDAV";
 
-/* TODO */
-"WebDAV Server" = "WebDAV Server";
+/* No comment provided by engineer. */
+"WebDAV Server" = "Máy chủ WebDAV";
 
-/* TODO */
+/* No comment provided by engineer. */
 "WeChat" = "WeChat";
 
 /* TODO */
@@ -3172,47 +3181,47 @@
 /* No comment provided by engineer. */
 "Welcome to" = "Chào mừng đến với";
 
-/* TODO */
-"We’re recording system audio in the background." = "We’re recording system audio in the background.";
+/* No comment provided by engineer. */
+"We’re recording system audio in the background." = "Chúng tôi đang ghi âm hệ thống ở chế độ nền.";
 
-/* TODO */
-"We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
+/* No comment provided by engineer. */
+"We’re recording your voice memo in the background." = "Chúng tôi đang ghi âm ghi chú giọng nói của bạn ở chế độ nền.";
 
 /* No comment provided by engineer. */
 "We’ve got a new phone call recording!" = "Chúng tôi có một bản ghi âm cuộc gọi điện thoại mới!";
 
-/* TODO */
-"We’ve got a new system audio recording!" = "We’ve got a new system audio recording!";
+/* No comment provided by engineer. */
+"We’ve got a new system audio recording!" = "Chúng tôi có một bản ghi âm hệ thống mới!";
 
-/* TODO */
-"We’ve got a new voice memo!" = "We’ve got a new voice memo!";
+/* No comment provided by engineer. */
+"We’ve got a new voice memo!" = "Chúng tôi có một ghi chú giọng nói mới!";
 
 /* No comment provided by engineer. */
 "We’ve got new phone call recordings!" = "Chúng tôi có bản ghi âm cuộc gọi điện thoại mới!";
 
-/* TODO */
-"What’s New" = "What’s New";
+/* No comment provided by engineer. */
+"What’s New" = "Có gì mới";
 
-/* TODO */
-"When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+/* No comment provided by engineer. */
+"When any of the following actions is triggered, run the shortcut without any notification." = "Khi bất kỳ hành động nào sau đây được kích hoạt, hãy chạy phím tắt mà không có thông báo.";
 
-/* TODO */
-"When Foreground" = "When Foreground";
+/* No comment provided by engineer. */
+"When Foreground" = "Khi ở chế độ nền";
 
-/* TODO */
-"When Locked" = "When Locked";
+/* No comment provided by engineer. */
+"When Locked" = "Khi bị khóa";
 
-/* TODO */
-"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply.";
+/* No comment provided by engineer. */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Khi không kết nối với WLAN, hãy sử dụng mạng di động để chuyển giao bản ghi. Có thể phát sinh thêm phí.";
 
-/* TODO */
-"When there is no call…" = "When there is no call…";
+/* No comment provided by engineer. */
+"When there is no call…" = "Khi không có cuộc gọi…";
 
-/* TODO */
-"When Visible" = "When Visible";
+/* No comment provided by engineer. */
+"When Visible" = "Khi hiển thị";
 
-/* TODO */
-"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
+/* No comment provided by engineer. */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "Khi máy chủ WebDAV được bật, có cho phép bạn truy cập từ trình duyệt web thông thường như Safari, Chrome, Edge, v.v. hay không.";
 
 /* No comment provided by engineer. */
 "Whether to force the application to use the light or the dark user interface." = "Cho dù buộc ứng dụng sử dụng giao diện người dùng sáng hay tối.";
@@ -3220,20 +3229,20 @@
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "Cho dù buộc bong bóng mọi nơi sử dụng phong cách ánh sáng hay bóng tối.";
 
-/* TODO */
-"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing.";
+/* No comment provided by engineer. */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Có lặp lại vô hạn việc phát âm thanh hay không. Nếu được bật, hành động này sẽ trả về ngay lập tức sau khi bắt đầu phát.";
 
-/* TODO */
-"Which channel to mute." = "Which channel to mute.";
+/* No comment provided by engineer. */
+"Which channel to mute." = "Kênh nào để tắt tiếng.";
 
-/* TODO */
-"Which channel to unmute." = "Which channel to unmute.";
+/* No comment provided by engineer. */
+"Which channel to unmute." = "Kênh nào để bật tiếng.";
 
-/* TODO */
-"Which edges of the screen the hoverball can be attached to." = "Which edges of the screen the hoverball can be attached to.";
+/* No comment provided by engineer. */
+"Which edges of the screen the hoverball can be attached to." = "Các cạnh nào của màn hình mà bong bóng nổi có thể được gắn vào.";
 
-/* TODO */
-"Why don’t you make a phone call?" = "Why don’t you make a phone call?";
+/* No comment provided by engineer. */
+"Why don’t you make a phone call?" = "Tại sao bạn không thực hiện cuộc gọi điện thoại?";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video trong ứng dụng hiện tại.";
@@ -3241,53 +3250,56 @@
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video.";
 
-/* TODO */
-"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork.";
+/* No comment provided by engineer. */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Viết thẻ ID3 vào các tệp âm thanh xuất khẩu, bao gồm tiêu đề, nghệ sĩ, album, thể loại, năm và hình ảnh bìa.";
 
 /* No comment provided by engineer. */
 "Write latitude and longitude to the recording metadata." = "Viết vĩ độ và kinh độ vào siêu dữ liệu ghi.";
 
-/* TODO */
-"Write runtime logs into filesystem. You need to restart services to apply changes." = "Write runtime logs into filesystem. You need to restart services to apply changes.";
+/* No comment provided by engineer. */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Viết nhật ký thời gian chạy vào hệ thống tệp. Bạn cần khởi động lại các dịch vụ để áp dụng thay đổi.";
+
+/* No comment provided by engineer. */
+"Year Month Day" = "Năm Tháng Ngày";
+
+/* No comment provided by engineer. */
+"YES" = "CÓ";
+
+/* No comment provided by engineer. */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "Bạn sắp xóa tất cả các bản ghi, đặt lại tất cả các cài đặt và xóa tất cả các bộ nhớ cache hoàn toàn.\nHÀNH ĐỘNG NÀY KHÔNG THỂ KHÔI PHỤC!";
 
 /* TODO */
-"Year Month Day" = "Year Month Day";
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
 
-/* TODO */
-"YES" = "YES";
-
-/* TODO */
-"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!";
-
-/* TODO */
-"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements.";
+/* No comment provided by engineer. */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Bạn có thể tải xuống gói giọng nói trong “Cài đặt” → “Trợ năng” → “VoiceOver” → “Giọng nói” → “Giọng nói” để tải xuống các gói giọng nói, và sau đó chọn một cái ở đây cho thông báo giọng nói.";
 
 /* No comment provided by engineer. */
 "You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Bạn phải chọn “Luôn luôn” cho TrollRecorder để xác định vị trí của bạn trong nền. Nếu bạn chọn “Trong khi sử dụng ứng dụng”, các địa điểm sẽ chỉ được cập nhật khi bạn khởi chạy ứng dụng sau khi ghi âm.";
 
 /* No comment provided by engineer. */
-"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect.";
+"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Bạn có thể cần phải bật “Ghi âm tự động nâng cao” hoặc “Nhận diện cảnh nâng cao” để các tùy chọn trên trang này có hiệu lực.";
 
-/* TODO */
-"You may need to reboot your device to make this application work properly." = "You may need to reboot your device to make this application work properly.";
+/* No comment provided by engineer. */
+"You may need to reboot your device to make this application work properly." = "Bạn có thể cần khởi động lại thiết bị của mình để ứng dụng này hoạt động đúng cách.";
 
-/* TODO */
-"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+/* No comment provided by engineer. */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Thông tin của bạn trên %@ sẽ được tải lên và hợp nhất với các bản ghi được lưu trữ trong “%@”.";
 
-/* TODO */
-"You’re now using the free version of “TrollRecorder JB”." = "You’re now using the free version of “TrollRecorder JB”.";
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder JB”." = "Bạn đang sử dụng phiên bản miễn phí của “TrollRecorder JB”.";
 
-/* TODO */
-"You’re now using the free version of “TrollRecorder”." = "You’re now using the free version of “TrollRecorder”.";
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder”." = "Bạn đang sử dụng phiên bản miễn phí của “TrollRecorder”.";
 
-/* TODO */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+/* No comment provided by engineer. */
+"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "Bạn đã thay đổi ngôn ngữ hiển thị của ứng dụng thành “%@”. Cần phải khởi động lại để hoàn tất áp dụng các thay đổi.";
 
-/* TODO */
-"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates.";
+/* No comment provided by engineer. */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Bạn đã thay đổi “Tên xuất tùy chỉnh”. Bạn có muốn tái tạo các bản ghi đã lưu trữ trong “Lưu trữ mạng” không?\nHành động này có thể mất một thời gian và tiêu tốn thêm hạn mức dữ liệu di động. Bạn có thể muốn xóa “TrollRecorder/ArchivedRecordings” khỏi các ổ đĩa đám mây của mình để tránh trùng lặp.";
 
-/* TODO */
-"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available.";
+/* No comment provided by engineer. */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "Bạn đã chọn tiếp tục mà không có chữ ký mã hợp lệ. Bạn vẫn có thể sử dụng ứng dụng để xem hoặc xuất các bản ghi hiện có, nhưng các tính năng khác có thể không khả dụng.";
 
 /* No comment provided by engineer. */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "Bạn đã bật xác thực sinh trắc học nên cần phải xác minh danh tính của bạn.";
@@ -3304,29 +3316,29 @@
 /* TODO */
 "½ Audio CD" = "½ Audio CD";
 
-/* TODO */
-"“%@” is not available." = "“%@” is not available.";
+/* No comment provided by engineer. */
+"“%@” is not available." = "“%@” không có sẵn.";
 
-/* TODO */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Cho phép ghi âm tự động” đã bị vô hiệu hóa: Các liên hệ VIP sẽ luôn được ghi âm và thêm vào danh sách yêu thích, trong khi các liên hệ khác sẽ không được ghi âm.";
 
-/* TODO */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Cho phép ghi âm tự động” đã được bật: Các liên hệ trong “Danh sách loại trừ cuộc gọi” sẽ không được ghi âm, trong khi các liên hệ khác sẽ được ghi âm. Các bản ghi của các liên hệ VIP cũng sẽ được thêm vào danh sách yêu thích.";
 
-/* TODO */
-"“Background App Refresh” Permission Denied" = "“Background App Refresh” Permission Denied";
+/* No comment provided by engineer. */
+"“Background App Refresh” Permission Denied" = "“Làm mới ứng dụng nền” đã bị từ chối.";
 
-/* TODO */
-"“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
+/* No comment provided by engineer. */
+"“iCloud Drive” Not Logged In" = "“iCloud Drive” chưa đăng nhập.";
 
-/* TODO */
-"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
+/* No comment provided by engineer. */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” và phiên bản TrollStore đều đã được cài đặt. Vui lòng gỡ bỏ cả hai, cài đặt lại “TrollRecorder JB” từ Sileo, hoặc “TrollRecorder” từ TrollStore.";
 
-/* TODO */
-"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore.";
+/* No comment provided by engineer. */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” không tương thích với Bootstrap (RootHide). Vui lòng gỡ bỏ “TrollRecorder JB”, và cài đặt “TrollRecorder” từ TrollStore.";
 
-/* TODO */
-"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+/* No comment provided by engineer. */
+"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” không tương thích với phiên bản iOS này.";
 
 /* No comment provided by engineer. */
 "…" = "…";
