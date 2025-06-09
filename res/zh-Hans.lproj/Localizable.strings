@@ -1046,6 +1046,9 @@
 "finish" = "结束";
 
 /* No comment provided by engineer. */
+"Fix File-System" = "修复文件系统";
+
+/* No comment provided by engineer. */
 "Focus" = "聚焦";
 
 /* No comment provided by engineer. */
@@ -1215,6 +1218,9 @@
 
 /* No comment provided by engineer. */
 "If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "当没有活跃通话时，同时按下两个音量键执行指定的动作。";
+
+/* No comment provided by engineer. */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "如果你使用 Filza 修改了录音，或者遇到了任何文件系统权限问题，可以在这里修复它们。";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果你的手机支持双卡，录音通话时所使用的 SIM 卡别名将显示在这里。";
@@ -1899,6 +1905,9 @@
 
 /* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "进程结束，返回值为 %1$d。\n%2$@";
+
+/* No comment provided by engineer. */
+"Processing" = "处理中";
 
 /* No comment provided by engineer. */
 "Pulse-code modulation" = "脉冲编码调制，占用较多储存空间。";
@@ -3258,6 +3267,9 @@
 
 /* No comment provided by engineer. */
 "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "你即将彻底抹除所有录音、重置所有设置并完全清除所有缓存。\n此操作无法撤销！";
+
+/* No comment provided by engineer. */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "你即将修复所有录音和设置的文件系统所有者和权限。";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 “设置” → “辅助功能” → “旁白” → “语音” → “声音” 中下载语音包，然后在这里选择一种，用于 “播放录音警告” 选项和 “语音播报” 快捷指令。";

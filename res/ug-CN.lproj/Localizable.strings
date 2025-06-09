@@ -1045,6 +1045,9 @@
 /* No comment provided by engineer. */
 "finish" = "تامام";
 
+/* TODO */
+"Fix File-System" = "Fix File-System";
+
 /* No comment provided by engineer. */
 "Focus" = "فوكۇس";
 
@@ -1215,6 +1218,9 @@
 
 /* No comment provided by engineer. */
 "If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "ئاكتىپ تېلېفون چاقىرىشى بولمىغاندا، كۆرسىتىلگەن ھەرىكەتنى ئىجرا قىلىش ئۈچۈن ئىككى ئاۋاز كۇنۇپكىسىنى تەڭ بېسىڭ.";
+
+/* TODO */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here.";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "تېلېفونىڭىز قوش SIM كارتا قوللىسا، ئۈن يازما چاقىرىش ئۈچۈن ئىشلىتىلگەن SIM كارتا تەخەللۇسى بۇ يەردە كۆرسىتىلىدۇ.";
@@ -1899,6 +1905,9 @@
 
 /* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
+
+/* TODO */
+"Processing" = "Processing";
 
 /* TODO */
 "Pulse-code modulation" = "Pulse-code modulation";
@@ -3258,6 +3267,9 @@
 
 /* No comment provided by engineer. */
 "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "سىز بارلىق ئۈنئالغۇلارنى، تەڭشەكلەرنى ۋە غەملەكلەرنى پۈتۈنلەي ئۆچۈرۈشكە تەمشەلدىڭىز.\nبۇ مەشغۇلاتنى قايتۇرغىلى بولمايدۇ!";
+
+/* TODO */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "«تەڭشەكلەر» → «قوشۇمچە ئىقتىدارلار» → «ئاۋازلىق ئوقۇش» → «نۇتۇق» → «ئاۋاز» تىن ئاۋاز بوغچىسىنى چۈشۈرۈپ، ئاندىن بۇ يەردە بىرنى تاللاپ ئاۋازلىق ئېلان ئۈچۈن ئىشلىتەلەيسىز.";
