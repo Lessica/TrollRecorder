@@ -37,14 +37,14 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 
 ## Translators
 
-- French by [@DzMoha](https://twitter.com/contact_nadhir)
-- Korean by **@SUB**
-- Spanish by [@Deci8BelioS](https://github.com/Deci8BelioS)
-- Traditional Chinese (Hong Kong) by [@CaslenZ](https://github.com/CaslenZ)
-- Traditional Chinese (Taiwan) by [@雲端戰神一刀秒](https://github.com/mp614t)
+- French by [**DzMoha**](https://twitter.com/contact_nadhir)
+- Korean by **SUB2**
+- Spanish by [**@Deci8BelioS**](https://github.com/Deci8BelioS)
+- Traditional Chinese (Hong Kong) by [**@CaslenZ**](https://github.com/CaslenZ)
+- Traditional Chinese (Taiwan) by [**雲端戰神一刀秒**](https://github.com/mp614t)
 - Turkish by [**Altay T.**](https://x.com/yamenhuu)
 - Uyghur by **BlacЖinG**
-- Vietnamese by [@2311WithLuv](https://www.facebook.com/If2019)
+- Vietnamese by [**@Trickbox0411**](https://github.com/Trickbox0411) and [**2311WithLuv**](https://www.facebook.com/If2019)
 - Russian by [**RAYMONCE**](https://t.me/raymonce)
 
 ## Localization
