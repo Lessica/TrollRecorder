@@ -1906,6 +1906,9 @@
 /* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "Quá trình bị chấm dứt với mã thoát %1$d.\n%2$@";
 
+/* TODO */
+"Processing" = "Processing";
+
 /* No comment provided by engineer. */
 "Pulse-code modulation" = "Điều chế xung mã (PCM)";
 
@@ -2543,10 +2546,10 @@
 "Tap to view details" = "Nhấn để xem chi tiết.";
 
 /* No comment provided by engineer. */
-"Temporary error occurred, more retries might fix." = "Đã xảy ra lỗi tạm thời, thử lại có thể khắc phục.";
+"Temporarily Ignore" = "Tạm thời bỏ qua";
 
 /* No comment provided by engineer. */
-"Temporary Ignore" = "Tạm thời bỏ qua";
+"Temporary error occurred, more retries might fix." = "Đã xảy ra lỗi tạm thời, thử lại có thể khắc phục.";
 
 /* No comment provided by engineer. */
 "terminate" = "kết thúc";
