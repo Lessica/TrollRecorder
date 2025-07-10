@@ -3332,7 +3332,10 @@
 "“Background App Refresh” Permission Denied" = "後台 App 刷新權限被拒絕";
 
 /* No comment provided by engineer. */
-"“iCloud Drive” Not Logged In" = "未登錄iCloud 雲盤";
+"“iCloud Drive” Not Logged In" = "未登錄 iCloud 雲盤";
+
+/* No comment provided by engineer. */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“啟動守護” 已啟用：服務將在某些情形下被重新啟動。若要使服務始終處於關閉狀態，需先關閉 “進階選項” → “啟動守護”，完全結束，再重新開啟此應用程式，最後再次選擇此選項。";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "巨魔錄音機和 TrollRecorder JB 不能共存，請卸載它們。然後從 Sileo 重新安裝 TrollRecorder JB，或從 TrollStore 安裝巨魔錄音機，你只能選取其中一個。";

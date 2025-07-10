@@ -3335,6 +3335,9 @@
 "“iCloud Drive” Not Logged In" = "未登录 “iCloud 云盘”";
 
 /* No comment provided by engineer. */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“启动守护” 已启用：服务将在某些情形下被重新激活。若要使服务始终处于关闭状态，需先关闭 “高级选项” → “启动守护”，完全退出，再重新打开此应用程序，最后再次选择此选项。";
+
+/* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "巨魔录音机和 “TrollRecorder JB” 不能共存，请卸载它们。然后从 Sileo 重新安装 “TrollRecorder JB”，或从 TrollStore 安装巨魔录音机，你只能选取其中一个。";
 
 /* No comment provided by engineer. */
