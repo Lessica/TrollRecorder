@@ -1,0 +1,47 @@
+/* No comment provided by engineer. */
+"CFBundleDisplayName" = "TrollRecorder";
+
+/* No comment provided by engineer. */
+"NSContactsUsageDescription" = "«TrollRecorder» потребує доступ до ваших контактів, щоб відображати ім’я вашого друга замість номера телефону.";
+
+/* No comment provided by engineer. */
+"NSFaceIDUsageDescription" = "«TrollRecorder» потребує доступ до Face ID для підтвердження вашої особи.";
+
+/* No comment provided by engineer. */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "«TrollRecorder» потребує доступ до вашого місцезнаходження, щоб зберігати його разом із вашими записами.";
+
+/* No comment provided by engineer. */
+"NSLocationAlwaysUsageDescription" = "«TrollRecorder» потребує доступ до вашого місцезнаходження, щоб зберігати його разом із вашими записами.";
+
+/* No comment provided by engineer. */
+"NSLocationTemporaryUsageDescriptionDictionary" = "«TrollRecorder» потребує доступ до вашого місцезнаходження, щоб зберігати його разом із вашими записами.";
+
+/* No comment provided by engineer. */
+"NSLocationUsageDescription" = "«TrollRecorder» потребує доступ до вашого місцезнаходження, щоб зберігати його разом із вашими записами.";
+
+/* No comment provided by engineer. */
+"NSLocationWhenInUseUsageDescription" = "«TrollRecorder» потребує доступ до вашого місцезнаходження, щоб зберігати його разом із вашими записами.";
+
+/* No comment provided by engineer. */
+"NSMicrophoneUsageDescription" = "«TrollRecorder» потребує доступ до вашого мікрофона для реалізації основних функцій запису.";
+
+/* No comment provided by engineer. */
+"NSSpeechRecognitionUsageDescription" = "«TrollRecorder» хоче використовувати розпізнавання мови для створення текстового перекладу ваших записів.";
+
+/* No comment provided by engineer. */
+"NSUbiquitousContainerName" = "TrollRecorder";
+
+/* No comment provided by engineer. */
+"Toggle Call Recording" = "Увімкнути/вимкнути запис дзвінків";
+
+/* No comment provided by engineer. */
+"Toggle Hoverball" = "Увімкнути/вимкнути плаваючу кулю";
+
+/* No comment provided by engineer. */
+"Toggle Recording" = "Увімкнути/вимкнути запис";
+
+/* No comment provided by engineer. */
+"Toggle System Audio Recording" = "Увімкнути/вимкнути запис системного звуку";
+
+/* No comment provided by engineer. */
+"Toggle Voice Memo Recording" = "Увімкнути/вимкнути запис голосових нотаток";

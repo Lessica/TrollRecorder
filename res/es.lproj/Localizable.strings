@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "Hay disponible una nueva versión (%@) de “TrollRecorder”.";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "Se requiere un respring para aplicar completamente los cambios.";
+"A respring is required to completely apply the changes." = "Se requiere un respring para aplicar completamente los cambios.";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "Se requiere un widget para la función “Escudo de inicio”.";
@@ -2239,6 +2239,9 @@
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Semitransparente";
 
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
+
 /* No comment provided by engineer. */
 "Sender Name" = "Nombre del remitente";
 
@@ -3293,7 +3296,7 @@
 "You’re now using the free version of “TrollRecorder”." = "Ahora estás usando la versión gratuita de “TrollRecorder”.";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "Has cambiado el idioma de visualización de la aplicación a “%@”. Se requiere un respring para aplicar completamente los cambios.";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Has cambiado el idioma de visualización de la aplicación a “%@”. Se requiere un respring para aplicar completamente los cambios.";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Has cambiado el “Nombre de exportación personalizado”. ¿Quieres regenerar las grabaciones archivadas en “Almacenamiento en red”?\nEsta operación puede tardar un tiempo y consumir cuota adicional de datos móviles. Es posible que quieras eliminar “TrollRecorder/ArchivedRecordings” de tus unidades en la nube para evitar duplicados.";
@@ -3330,6 +3333,9 @@
 
 /* No comment provided by engineer. */
 "“iCloud Drive” Not Logged In" = "“iCloud Drive” sin iniciar sesión";
+
+/* TODO */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Las versiones de “TrollRecorder JB” y TrollStore están instaladas. Por favor, elimina ambas y reinstala “TrollRecorder JB” desde Sileo, o “TrollRecorder” desde TrollStore.";

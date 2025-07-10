@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "Phiên bản mới (%@) của “TrollRecorder” đã có sẵn.";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "Resping là cần thiết để áp dụng tất cả các thay đổi.";
+"A respring is required to completely apply the changes." = "Resping là cần thiết để áp dụng tất cả các thay đổi.";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "Cần có tiện ích cho tính năng “Launch Shield”.";
@@ -2236,6 +2236,9 @@
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Bán trong suốt";
 
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
+
 /* No comment provided by engineer. */
 "Sender Name" = "Tên người gửi";
 
@@ -3290,7 +3293,7 @@
 "You’re now using the free version of “TrollRecorder”." = "Bạn đang sử dụng phiên bản miễn phí của “TrollRecorder”.";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "Bạn đã thay đổi ngôn ngữ hiển thị của ứng dụng thành “%@”. Cần phải khởi động lại để hoàn tất áp dụng các thay đổi.";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Bạn đã thay đổi ngôn ngữ hiển thị của ứng dụng thành “%@”. Cần phải khởi động lại để hoàn tất áp dụng các thay đổi.";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Bạn đã thay đổi “Tên xuất tùy chỉnh”. Bạn có muốn tái tạo các bản ghi đã lưu trữ trong “Sao lưu Đám Mây” không?\nHành động này có thể mất một thời gian và tiêu tốn thêm hạn mức dữ liệu di động. Bạn có thể muốn xóa “TrollRecorder/ArchivedRecordings” khỏi các ổ đĩa đám mây của mình để tránh trùng lặp.";
@@ -3327,6 +3330,9 @@
 
 /* No comment provided by engineer. */
 "“iCloud Drive” Not Logged In" = "“iCloud Drive” chưa đăng nhập.";
+
+/* TODO */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” và phiên bản TrollStore đều đã được cài đặt. Vui lòng gỡ bỏ cả hai, cài đặt lại “TrollRecorder JB” từ Sileo, hoặc “TrollRecorder” từ TrollStore.";

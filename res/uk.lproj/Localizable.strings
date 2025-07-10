@@ -1,0 +1,3350 @@
+/* No comment provided by engineer. */
+"%@ Hz" = "%@ Hz";
+
+/* No comment provided by engineer. */
+"%@ is locked." = "%@ заблоковано.";
+
+/* No comment provided by engineer. */
+"%@ is not available." = "%@ недоступний.";
+
+/* No comment provided by engineer. */
+"%@ is not implemented yet." = "%@ ще не реалізовано.";
+
+/* No comment provided by engineer. */
+"%@ is not set up." = "%@ не налаштовано.";
+
+/* No comment provided by engineer. */
+"%@ may not be configured" = "%@ може бути не налаштовано";
+
+/* No comment provided by engineer. */
+"%@ rows not loaded" = "%@ рядків не завантажено";
+
+/* No comment provided by engineer. */
+"%d Exclusive Features" = "%d ексклюзивних функцій";
+
+/* No comment provided by engineer. */
+"%ld Recording" = "%ld запис";
+
+/* No comment provided by engineer. */
+"%ld Recording ◇ %@" = "%ld запис ◇ %@";
+
+/* No comment provided by engineer. */
+"%ld Recordings" = "%ld записів";
+
+/* No comment provided by engineer. */
+"%ld Recordings ◇ %@" = "%ld записів ◇ %@";
+
+/* No comment provided by engineer. */
+"(%lu bytes)" = "(%lu байт)";
+
+/* No comment provided by engineer. */
+"(%lu items)" = "(%lu елементів)";
+
+/* No comment provided by engineer. */
+"(null)" = "(null)";
+
+/* No comment provided by engineer. */
+"--arg=value" = "--arg=значення";
+
+/* No comment provided by engineer. */
+"3 Seconds" = "3 секунди";
+
+/* No comment provided by engineer. */
+"30 Days Ago" = "30 днів тому";
+
+/* No comment provided by engineer. */
+"4 Seconds" = "4 секунди";
+
+/* No comment provided by engineer. */
+"45 Days Ago" = "45 днів тому";
+
+/* No comment provided by engineer. */
+"5 Seconds" = "5 секунд";
+
+/* No comment provided by engineer. */
+"6 Seconds" = "6 секунд";
+
+/* No comment provided by engineer. */
+"90 Days Ago" = "90 днів тому";
+
+/* No comment provided by engineer. */
+"<%@: %p>" = "<%@: %p>";
+
+/* No comment provided by engineer. */
+"A new version (%@) of “TrollRecorder” is available." = "Доступна нова версія (%@) «TrollRecorder».";
+
+/* No comment provided by engineer. */
+"A respring is required to completely apply the changes." = "Для застосування змін потрібен respring.";
+
+/* No comment provided by engineer. */
+"A widget is required for the “Launch Shield” feature." = "Для функції «Launch Shield» потрібен віджет.";
+
+/* No comment provided by engineer. */
+"accept" = "прийняти";
+
+/* No comment provided by engineer. */
+"Accept all incoming calls automatically." = "Автоматично приймати всі вхідні дзвінки.";
+
+/* No comment provided by engineer. */
+"Accept Incoming Calls" = "Приймати вхідні дзвінки";
+
+/* No comment provided by engineer. */
+"Access From Web Browser" = "Доступ з браузера";
+
+/* No comment provided by engineer. */
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Доступ до записів через WebDAV-браузер з іншого пристрою в мережі. Сервер активний лише коли додаток на передньому плані.";
+
+/* No comment provided by engineer. */
+"activate" = "активувати";
+
+/* No comment provided by engineer. */
+"Activate the recorder hoverball." = "Активувати плаваючу кнопку для запису.";
+
+/* No comment provided by engineer. */
+"Add" = "Додати";
+
+/* No comment provided by engineer. */
+"Add Now" = "Додати зараз";
+
+/* No comment provided by engineer. */
+"Add Required Widget" = "Додати необхідний віджет";
+
+/* No comment provided by engineer. */
+"Additional command-line options for the Rclone synchronization tool." = "Додаткові параметри командного рядка для інструменту синхронізації Rclone.";
+
+/* No comment provided by engineer. */
+"Additional Contact" = "Додатковий контакт";
+
+/* No comment provided by engineer. */
+"Adequate" = "Adequate";
+
+/* No comment provided by engineer. */
+"Advanced Audio Coding" = "Advanced Audio Coding (AAC)";
+
+/* No comment provided by engineer. */
+"Advanced Options" = "Додаткові налаштування";
+
+/* No comment provided by engineer. */
+"Advanced Search" = "Розширений пошук";
+
+/* No comment provided by engineer. */
+"After %@" = "Після %@";
+
+/* No comment provided by engineer. */
+"Agree" = "Погоджуюсь";
+
+/* No comment provided by engineer. */
+"Alias" = "Псевдонім";
+
+/* No comment provided by engineer. */
+"alive" = "активний";
+
+/* No comment provided by engineer. */
+"All Edges" = "Усі грані";
+
+/* No comment provided by engineer. */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Логи зберігаються 7 днів. Застарілі логи видаляються автоматично.";
+
+/* No comment provided by engineer. */
+"Allow Access to Call History" = "Дозволити доступ до історії дзвінків";
+
+/* No comment provided by engineer. */
+"Allow Automatic Recording" = "Дозволити автоматичний запис";
+
+/* No comment provided by engineer. */
+"Allow Hoverball Wake-Ups" = "Дозволити пробудження плаваючої кнопки";
+
+/* No comment provided by engineer. */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Дозволити читання списку контактів WeChat та історії VoIP-дзвінків для підстановки імен у записах. Підтримуються лише свіжі версії WeChat.";
+
+/* No comment provided by engineer. */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Дозволити запис дзвінків на пристроях з вашим iCloud, коли вони поряд і в мережі Wi-Fi.";
+
+/* No comment provided by engineer. */
+"Always" = "Завжди";
+
+/* No comment provided by engineer. */
+"Always Dark" = "Завжди темна";
+
+/* No comment provided by engineer. */
+"Always Dynamic" = "Завжди динамічна";
+
+/* No comment provided by engineer. */
+"Always Fold" = "Завжди згорнуто";
+
+/* No comment provided by engineer. */
+"Always keep the hoverball window visible." = "Завжди тримати плаваючу кнопку видимою.";
+
+/* No comment provided by engineer. */
+"Always Keep-Alive in Background" = "Завжди активний у фоні";
+
+/* No comment provided by engineer. */
+"Always Light" = "Завжди світла";
+
+/* No comment provided by engineer. */
+"Always On" = "Завжди увімкнено";
+
+/* No comment provided by engineer. */
+"Always schedule background processing tasks to run at the next available opportunity." = "Завжди планувати фонові задачі на найближчий доступний час.";
+
+/* No comment provided by engineer. */
+"AM/PM String" = "AM/PM строка";
+
+/* No comment provided by engineer. */
+"An unknown error occurred." = "Сталася невідома помилка.";
+
+/* No comment provided by engineer. */
+"Analysing Audio" = "Аналіз аудіо";
+
+/* No comment provided by engineer. */
+"Another %@ is required to continue editing. Available capacity is %@." = "Потрібно ще %@ для редагування. Доступно %@.";
+
+/* No comment provided by engineer. */
+"answer" = "відповідь";
+
+/* No comment provided by engineer. */
+"answered" = "відповіли";
+
+/* No comment provided by engineer. */
+"Any" = "Будь-який";
+
+/* No comment provided by engineer. */
+"App Icon" = "Іконка додатка";
+
+/* No comment provided by engineer. */
+"App Language" = "Мова додатка";
+
+/* No comment provided by engineer. */
+"Appearance" = "Зовнішній вигляд";
+
+/* No comment provided by engineer. */
+"Apple’s Core Audio" = "Apple’s Core Audio";
+
+/* No comment provided by engineer. */
+"Application" = "Додаток";
+
+/* No comment provided by engineer. */
+"Application Overrides" = "Перевизначення додатка";
+
+/* No comment provided by engineer. */
+"Applications" = "Додатки";
+
+/* No comment provided by engineer. */
+"archive" = "архів";
+
+/* No comment provided by engineer. */
+"Archive" = "Архів";
+
+/* No comment provided by engineer. */
+"Archive Regeneration" = "Відтворення архіву";
+
+/* No comment provided by engineer. */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Архів: використовуйте «Спільний доступ» → «Власна назва експорту» для перейменування локальних записів та завантаження в хмару. Відновлення неможливе.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to discard the changes you made?" = "Ви впевнені, що хочете скасувати зміни?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove all shortcut definitions?" = "Ви впевнені, що хочете видалити всі визначення ярликів?";
+
+/* No comment provided by engineer. */
+"Associate with Call History" = "Пов’язати з історією дзвінків";
+
+/* No comment provided by engineer. */
+"At the end of recording, the audio files of each channel during recording are retained." = "Після завершення запису зберігаються аудіофайли кожного каналу.";
+
+/* No comment provided by engineer. */
+"Attachable Edges" = "Кріпильні краї";
+
+/* No comment provided by engineer. */
+"audio" = "аудіо";
+
+/* No comment provided by engineer. */
+"Audio CD" = "Аудіо CD";
+
+/* No comment provided by engineer. */
+"Audio Compression" = "Стиснення аудіо";
+
+/* No comment provided by engineer. */
+"Audio File" = "Аудіофайл";
+
+/* No comment provided by engineer. */
+"Audio played to %@" = "Аудіо відтворено для %@";
+
+/* No comment provided by engineer. */
+"Audio progress" = "Прогрес аудіо";
+
+/* No comment provided by engineer. */
+"Authenticate with %@" = "Автентифікація через %@";
+
+/* No comment provided by engineer. */
+"Authorization error: %@" = "Помилка авторизації: %@";
+
+/* No comment provided by engineer. */
+"Authorization flow was manually canceled by user." = "Користувач вручну скасував процес авторизації.";
+
+/* No comment provided by engineer. */
+"Authorize with Dropbox" = "Авторизуватися через Dropbox";
+
+/* No comment provided by engineer. */
+"Authorize with Google" = "Авторизуватися через Google";
+
+/* No comment provided by engineer. */
+"Authorize with Microsoft" = "Авторизуватися через Microsoft";
+
+/* No comment provided by engineer. */
+"Automatic" = "Автоматично";
+
+/* No comment provided by engineer. */
+"Automatic Recording" = "Автоматичний запис";
+
+/* No comment provided by engineer. */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Щомісяця автоматично створювати копії змішаних записів та зберігати їх у iCloud Drive. Записи поточного місяця не архівуються.";
+
+/* No comment provided by engineer. */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Автоматичний запуск фонових служб після перезавантаження. Для роботи потрібен віджет «TrollRecorder» на екрані блокування або домашньому екрані.";
+
+/* No comment provided by engineer. */
+"Automatically merge microphone and speaker into a single file after record complete." = "Автоматично об’єднувати мікрофон та динамік в один файл після запису.";
+
+/* No comment provided by engineer. */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Автоматично переміщувати плаваючу кнопку, щоб уникнути перекриття клавіатури.";
+
+/* No comment provided by engineer. */
+"Automatically purge recycle bin and remove failure caches." = "Автоматично очищати кошик та видаляти помилкові кеші.";
+
+/* No comment provided by engineer. */
+"Automatically query the latest version from GitHub when the application starts." = "Автоматично перевіряти нову версію на GitHub при запуску додатка.";
+
+/* No comment provided by engineer. */
+"Automatically remove recordings created earlier than specified date except those marked ones." = "Автоматично видаляти записи, створені раніше вказаної дати, крім позначених.";
+
+/* No comment provided by engineer. */
+"Automatically stop recording when available disk space is extremely low." = "Автоматично зупиняти запис при критичному нестачанні місця.";
+
+/* No comment provided by engineer. */
+"Automatically Suspend in Background" = "Автоматично призупиняти у фоні";
+
+/* No comment provided by engineer. */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Автоматично переходити на робочий стіл при розблокуванні. Не діє, якщо розблокування відбулося протягом 10 секунд після блокування.";
+
+/* No comment provided by engineer. */
+"Automation" = "Автоматизація";
+
+/* No comment provided by engineer. */
+"Avoid screen being locked automatically when WebDAV server is used by any client." = "Не блокувати екран автоматично під час використання WebDAV-сервера.";
+
+/* No comment provided by engineer. */
+"Background Style" = "Стиль фону";
+
+/* No comment provided by engineer. */
+"backup" = "резервна копія";
+
+/* No comment provided by engineer. */
+"Backup Synchronized" = "Резервну копію синхронізовано";
+
+/* No comment provided by engineer. */
+"Backup With iCloud" = "Резервне копіювання в iCloud";
+
+/* No comment provided by engineer. */
+"Batch Export" = "Пакетний експорт";
+
+/* No comment provided by engineer. */
+"Before %@" = "До %@";
+
+/* No comment provided by engineer. */
+"Before starting a call recording, a prompt voice is played to the opposite end." = "Перед початком запису дзвінка відтворюється голосове попередження.";
+
+/* No comment provided by engineer. */
+"Beta" = "Бета";
+
+/* No comment provided by engineer. */
+"Bi-sync" = "Двостороння синхронізація";
+
+/* No comment provided by engineer. */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Двостороння синхронізація: синхронізація в обох напрямках.";
+
+/* No comment provided by engineer. */
+"Biometric Authentication" = "Біометрична аутентифікація";
+
+/* No comment provided by engineer. */
+"Bonjour server started at: %@" = "Сервер Bonjour запущено: %@";
+
+/* No comment provided by engineer. */
+"Boost Periodic Tasks" = "Пришвидшення періодичних задач";
+
+/* No comment provided by engineer. */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (режим сумісності з TrollStore)";
+
+/* No comment provided by engineer. */
+"Both (Microphone & Speaker)" = "Обидва (мікрофон та динамік)";
+
+/* No comment provided by engineer. */
+"bottom edge" = "нижній край";
+
+/* No comment provided by engineer. */
+"Build and use a custom export name template for exported audio files." = "Створити шаблон назви для експортованих аудіофайлів.";
+
+/* No comment provided by engineer. */
+"Bundle Display Name" = "Відображувана назва пакунка";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "Ідентифікатор пакунка";
+
+/* No comment provided by engineer. */
+"Bundle Name" = "Назва пакунка";
+
+/* No comment provided by engineer. */
+"Buy TrollRecorder Pro" = "Купити TrollRecorder Pro";
+
+/* No comment provided by engineer. */
+"Calculating…" = "Обчислення…";
+
+/* No comment provided by engineer. */
+"Call" = "Дзвінок";
+
+/* No comment provided by engineer. */
+"call" = "дзвінок";
+
+/* No comment provided by engineer. */
+"Call Direction" = "Напрямок дзвінка";
+
+/* No comment provided by engineer. */
+"Call Identifier" = "Ідентифікатор дзвінка";
+
+/* No comment provided by engineer. */
+"Call Recording" = "Запис дзвінка";
+
+/* No comment provided by engineer. */
+"Call Recording Begins" = "Початок запису дзвінка";
+
+/* No comment provided by engineer. */
+"Call Recording Ends" = "Кінець запису дзвінка";
+
+/* No comment provided by engineer. */
+"Call recording from “%@” and other %ld applications." = "Запис дзвінків з «%@» та %ld інших додатків.";
+
+/* No comment provided by engineer. */
+"Call recording from “%@”." = "Запис дзвінків з «%@».";
+
+/* No comment provided by engineer. */
+"Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Запис починається лише після відповіді на дзвінок.";
+
+/* No comment provided by engineer. */
+"Call State" = "Стан дзвінка";
+
+/* No comment provided by engineer. */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Запис можливий лише при використанні мікрофона цього пристрою.";
+
+/* No comment provided by engineer. */
+"Camcorder" = "Camcorder";
+
+/* No comment provided by engineer. */
+"Cancel" = "Скасувати";
+
+/* No comment provided by engineer. */
+"Cannot parse text with UTF-8 encoding: “%@”." = "Не вдалося розібрати текст у кодуванні UTF-8: «%@».";
+
+/* No comment provided by engineer. */
+"Caution" = "Обережно";
+
+/* No comment provided by engineer. */
+"check" = "перевірити";
+
+/* No comment provided by engineer. */
+"Check if the daemon is running. If not, launch it." = "Перевірити роботу демона. Запустити, якщо не працює.";
+
+/* No comment provided by engineer. */
+"Check Updates" = "Перевірити оновлення";
+
+/* No comment provided by engineer. */
+"Check Updates at Launch" = "Перевіряти оновлення при запуску";
+
+/* No comment provided by engineer. */
+"Checking service status" = "Перевірка статусу служби";
+
+/* No comment provided by engineer. */
+"Child Pages" = "Дочірні сторінки";
+
+/* No comment provided by engineer. */
+"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Виберіть формат аудіо для мікшера. Wave не підтримує розширене кодування.";
+
+/* No comment provided by engineer. */
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Виберіть якість аудіо. Вища якість збільшує розмір файлу.";
+
+/* No comment provided by engineer. */
+"Choose the output file format for the mixer." = "Виберіть формат файлу для мікшера.";
+
+/* No comment provided by engineer. */
+"Choose the size preset of the hoverball." = "Виберіть розмір плаваючої кнопки.";
+
+/* No comment provided by engineer. */
+"Clean Caches Automatically" = "Автоматично очищати кеш";
+
+/* No comment provided by engineer. */
+"Clear" = "Очистити";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "Зняти виділення";
+
+/* No comment provided by engineer. */
+"Clear Wave Caches" = "Очистити кеш хвиль";
+
+/* No comment provided by engineer. */
+"Close" = "Закрити";
+
+/* No comment provided by engineer. */
+"Collapse Recursively" = "Згорнути рекурсивно";
+
+/* No comment provided by engineer. */
+"Collecting" = "Збір";
+
+/* No comment provided by engineer. */
+"Combined" = "Об’єднаний";
+
+/* No comment provided by engineer. */
+"Combined Mode" = "Об’єднаний режим";
+
+/* No comment provided by engineer. */
+"Compiled at %@" = "Зібрано %@";
+
+/* No comment provided by engineer. */
+"Compress Recording" = "Стискати запис";
+
+/* No comment provided by engineer. */
+"Configure the embedded client with your WebDAV server address, username and password." = "Налаштуйте клієнт WebDAV: адреса сервера, ім'я користувача та пароль.";
+
+/* No comment provided by engineer. */
+"Configure WebDAV Client" = "Налаштувати WebDAV-клієнт";
+
+/* No comment provided by engineer. */
+"Confirm" = "Підтвердити";
+
+/* No comment provided by engineer. */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Підтвердіть обліковий запис Havoc — це єдиний доказ покупки. Не натискайте на іконку подарунка при оплаті.";
+
+/* No comment provided by engineer. */
+"connected" = "підключено";
+
+/* No comment provided by engineer. */
+"Connected Clients: %d" = "Підключені клієнти: %d";
+
+/* No comment provided by engineer. */
+"Connection" = "Підключення";
+
+/* No comment provided by engineer. */
+"Constants" = "Константи";
+
+/* No comment provided by engineer. */
+"Contact Exceptions" = "Винятки контактів";
+
+/* No comment provided by engineer. */
+"Contact Name" = "Ім'я контакту";
+
+/* No comment provided by engineer. */
+"Contact Phone Address" = "Телефон контакту";
+
+/* No comment provided by engineer. */
+"Contact Us" = "Зв'язатися з нами";
+
+/* No comment provided by engineer. */
+"Contact via Discord" = "Discord";
+
+/* No comment provided by engineer. */
+"Contact via Email" = "Email";
+
+/* No comment provided by engineer. */
+"Contact via QQ" = "QQ";
+
+/* No comment provided by engineer. */
+"Contacts" = "Контакти";
+
+/* No comment provided by engineer. */
+"Contacts in this list will not be recorded in any situation." = "Контакти з цього списку не записуватимуться.";
+
+/* No comment provided by engineer. */
+"Contacts Permission Denied" = "Доступ до контактів заборонено";
+
+/* No comment provided by engineer. */
+"Content" = "Вміст";
+
+/* No comment provided by engineer. */
+"Content Sharing" = "Спільний доступ";
+
+/* No comment provided by engineer. */
+"Continue" = "Продовжити";
+
+/* No comment provided by engineer. */
+"Conversion Failed" = "Помилка перетворення";
+
+/* No comment provided by engineer. */
+"Conversion Succeed" = "Перетворення успішне";
+
+/* No comment provided by engineer. */
+"Convert latitude and longitude to human-readable address." = "Перетворити координати на читабельну адресу.";
+
+/* No comment provided by engineer. */
+"Convert Now" = "Перетворити зараз";
+
+/* No comment provided by engineer. */
+"Converting" = "Перетворення";
+
+/* No comment provided by engineer. */
+"Copied" = "Скопійовано";
+
+/* No comment provided by engineer. */
+"Copied Transcript" = "Транскрипт скопійовано";
+
+/* No comment provided by engineer. */
+"Copy" = "Копіювати";
+
+/* No comment provided by engineer. */
+"Copy Key" = "Копіювати ключ";
+
+/* No comment provided by engineer. */
+"Copy Path" = "Копіювати шлях";
+
+/* No comment provided by engineer. */
+"Copy Transcript" = "Копіювати транскрипт";
+
+/* No comment provided by engineer. */
+"Copy Value" = "Копіювати значення";
+
+/* No comment provided by engineer. */
+"Could not acquire token: %@" = "Не вдалося отримати токен: %@";
+
+/* No comment provided by engineer. */
+"Could not acquire token: No result returned." = "Не вдалося отримати токен: результат відсутній.";
+
+/* No comment provided by engineer. */
+"Could not get graph result: %@" = "Не вдалося отримати результат графу: %@";
+
+/* No comment provided by engineer. */
+"Could not sign out account: %@" = "Не вдалося вийти з облікового запису: %@";
+
+/* No comment provided by engineer. */
+"Create Archive" = "Створити архів";
+
+/* No comment provided by engineer. */
+"Created At" = "Створено";
+
+/* No comment provided by engineer. */
+"Credentials" = "Облікові дані";
+
+/* No comment provided by engineer. */
+"Custom CLI Options" = "Власні параметри CLI";
+
+/* No comment provided by engineer. */
+"Custom Export Name" = "Власна назва експорту";
+
+/* No comment provided by engineer. */
+"Custom Key Combination…" = "Власна комбінація клавіш…";
+
+/* No comment provided by engineer. */
+"Custom Layout Guide" = "Шаблон розташування";
+
+/* No comment provided by engineer. */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Налаштуйте область для позиціювання плаваючої кнопки.";
+
+/* No comment provided by engineer. */
+"daemon" = "демон";
+
+/* No comment provided by engineer. */
+"Daily Arranged" = "Щодня";
+
+/* No comment provided by engineer. */
+"Date & Time" = "Дата та час";
+
+/* No comment provided by engineer. */
+"Day of Month Number" = "Число місяця";
+
+/* No comment provided by engineer. */
+"Day of Week String" = "День тижня";
+
+/* No comment provided by engineer. */
+"deactivate" = "деактивувати";
+
+/* No comment provided by engineer. */
+"Deactivate" = "Деактивувати";
+
+/* No comment provided by engineer. */
+"Deactivate & Sign Out" = "Деактивувати та вийти";
+
+/* No comment provided by engineer. */
+"Deactivate the recorder hoverball." = "Деактивувати плаваючу кнопку запису.";
+
+/* No comment provided by engineer. */
+"Debugging" = "Налагодження";
+
+/* No comment provided by engineer. */
+"decline" = "відхилити";
+
+/* No comment provided by engineer. */
+"Decoding" = "Декодування";
+
+/* No comment provided by engineer. */
+"Default" = "За замовчуванням";
+
+/* No comment provided by engineer. */
+"Delete" = "Видалити";
+
+/* No comment provided by engineer. */
+"Delete Recording" = "Видалити запис";
+
+/* No comment provided by engineer. */
+"Delete Selected %ld Items" = "Видалити обрані %ld елементів";
+
+/* No comment provided by engineer. */
+"Delete Selected Item" = "Видалити обраний елемент";
+
+/* No comment provided by engineer. */
+"Deleting" = "Видалення";
+
+/* No comment provided by engineer. */
+"Deselect All" = "Зняти всі позначки";
+
+/* No comment provided by engineer. */
+"Detail Only" = "Лише деталі";
+
+/* No comment provided by engineer. */
+"Developer Options" = "Налаштування розробника";
+
+/* No comment provided by engineer. */
+"Digital Video" = "Цифрове відео";
+
+/* No comment provided by engineer. */
+"Direction" = "Напрямок";
+
+/* No comment provided by engineer. */
+"Direction Capitalized" = "Напрямок (з великої літери)";
+
+/* No comment provided by engineer. */
+"Direction Description" = "Опис напрямку";
+
+/* No comment provided by engineer. */
+"directory" = "директорія";
+
+/* No comment provided by engineer. */
+"Directory" = "Директорія";
+
+/* No comment provided by engineer. */
+"Directory not found." = "Директорію не знайдено.";
+
+/* No comment provided by engineer. */
+"Disabled" = "Вимкнено";
+
+/* No comment provided by engineer. */
+"Disallow" = "Заборонити";
+
+/* No comment provided by engineer. */
+"Disallow Automatic Recording" = "Заборонити автоматичний запис";
+
+/* No comment provided by engineer. */
+"Disallow Hoverball Wake-Ups" = "Заборонити пробудження плаваючої кнопки";
+
+/* No comment provided by engineer. */
+"Discard" = "Скасувати";
+
+/* No comment provided by engineer. */
+"discard" = "скасувати";
+
+/* No comment provided by engineer. */
+"Discard Changes" = "Скасувати зміни";
+
+/* No comment provided by engineer. */
+"Discard Recording" = "Скасувати запис";
+
+/* No comment provided by engineer. */
+"Discreet Mode" = "Прихований режим";
+
+/* No comment provided by engineer. */
+"Discreet Voice Memos" = "Приховані голосові нотатки";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Закрити";
+
+/* No comment provided by engineer. */
+"Display a notification banner and play an audible notice." = "Показувати сповіщення та відтворювати звук.";
+
+/* No comment provided by engineer. */
+"Display a notification banner and update the badge above the application icon." = "Показувати сповіщення та оновлювати значок додатка.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording ends." = "Показувати сповіщення після завершення запису.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when recording starts." = "Показувати сповіщення при початку запису.";
+
+/* No comment provided by engineer. */
+"Display a notification banner when the synchronization fails." = "Показувати сповіщення при помилці синхронізації.";
+
+/* No comment provided by engineer. */
+"Display the detail of recordings in the notification banner." = "Показувати деталі запису у сповіщенні.";
+
+/* No comment provided by engineer. */
+"Display the exact duration of the recorded audio." = "Показувати точну тривалість аудіо.";
+
+/* No comment provided by engineer. */
+"Display the hoverball during a call in the current application." = "Показувати плаваючу кнопку під час дзвінка в поточному додатку.";
+
+/* No comment provided by engineer. */
+"Display the hoverball during a call." = "Показувати плаваючу кнопку під час дзвінка.";
+
+/* No comment provided by engineer. */
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Показувати плаваючу кнопку при активності аудіовходів та виходів.";
+
+/* No comment provided by engineer. */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Показувати плаваючу кнопку під час запису голосових нотаток або ручного запуску запису.";
+
+/* No comment provided by engineer. */
+"Display the name or description of each option." = "Показувати назву або опис кожної опції.";
+
+/* No comment provided by engineer. */
+"Display the names of contacts in your address book instead of their phone numbers." = "Показувати імена контактів замість номерів.";
+
+/* No comment provided by engineer. */
+"Display the path extension as the format of the recording." = "Показувати розширення файлу як формат запису.";
+
+/* No comment provided by engineer. */
+"Display the preview images of the audio waveform of short recordings." = "Показувати прев'ю аудіохвилі для коротких записів.";
+
+/* No comment provided by engineer. */
+"Display the short name of the SIM card used for the recording if available." = "Показувати назву SIM-карти, якщо доступно.";
+
+/* No comment provided by engineer. */
+"Display the source bundle name of the recording." = "Показувати назву вихідного пакету запису.";
+
+/* No comment provided by engineer. */
+"Displays a local notification." = "Показує локальне сповіщення.";
+
+/* No comment provided by engineer. */
+"Do you want to clear this log file “%@”?" = "Очистити лог-файл «%@»?";
+
+/* No comment provided by engineer. */
+"Do you want to merge recordings with “%@”?" = "Об'єднати записи з «%@»?";
+
+/* No comment provided by engineer. */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Скинути ліцензію та налаштування? Записи не будуть видалені.";
+
+/* No comment provided by engineer. */
+"Done" = "Готово";
+
+/* No comment provided by engineer. */
+"Don’t ask again" = "Більше не питати";
+
+/* No comment provided by engineer. */
+"Don’t Merge" = "Не об'єднувати";
+
+/* No comment provided by engineer. */
+"Double tap to restore __all edges__  \nto their default sizes." = "Подвійне натискання скине __усі межі__  \nдо розмірів за замовчуванням.";
+
+/* No comment provided by engineer. */
+"Downlink (Speaker)" = "Вихідний (динамік)";
+
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Перетягніть __сюди__, щоб  \nзмінити розмір ___%@___.";
+
+/* No comment provided by engineer. */
+"Drive ID" = "ID диску";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
+
+/* No comment provided by engineer. */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Через обмеження оточення спробуйте перезавантажити пристрій або оновити кеш іконок у TrollStore.";
+
+/* No comment provided by engineer. */
+"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Дзвінки без CallKit не активують ярлики, пов’язані зі статусами.";
+
+/* No comment provided by engineer. */
+"Duration" = "Тривалість";
+
+/* No comment provided by engineer. */
+"duration" = "тривалість";
+
+/* No comment provided by engineer. */
+"Duration Before Idle" = "Тривалість до бездіяльності";
+
+/* No comment provided by engineer. */
+"Duration Description" = "Опис тривалості";
+
+/* No comment provided by engineer. */
+"Duration exceeded." = "Тривалість перевищено.";
+
+/* No comment provided by engineer. */
+"Dynamic Transition" = "Динамічний перехід";
+
+/* No comment provided by engineer. */
+"E.U.L.A." = "Ліцензійна угода";
+
+/* No comment provided by engineer. */
+"Edit" = "Редагувати";
+
+/* No comment provided by engineer. */
+"Empty Trash" = "Очистити кошик";
+
+/* No comment provided by engineer. */
+"Empty Trash (%@)" = "Очистити кошик (%@)";
+
+/* No comment provided by engineer. */
+"Enable Biometric Authentication" = "Увімкнути біометричну аутентифікацію";
+
+/* No comment provided by engineer. */
+"Enable Face ID" = "Увімкнути Face ID";
+
+/* No comment provided by engineer. */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Увімкнути індикатор рівня при згорнутій кнопці. Доступно лише при налаштуванні «Згортати при бездіяльності».";
+
+/* No comment provided by engineer. */
+"Enable Logging" = "Увімкнути логування";
+
+/* No comment provided by engineer. */
+"Enable Optic ID" = "Увімкнути Optic ID";
+
+/* No comment provided by engineer. */
+"Enable Touch ID" = "Увімкнути Touch ID";
+
+/* No comment provided by engineer. */
+"Enable WebDAV Server" = "Увімкнути WebDAV-сервер";
+
+/* No comment provided by engineer. */
+"Enabled" = "Увімкнено";
+
+/* No comment provided by engineer. */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "WebDAV-сервер автоматично призупиняється у фоні та відновлюється при поверненні на передній план.";
+
+/* No comment provided by engineer. */
+"Encoding" = "Кодування";
+
+/* No comment provided by engineer. */
+"End Date" = "Кінцева дата";
+
+/* No comment provided by engineer. */
+"End Editing" = "Завершити редагування";
+
+/* No comment provided by engineer. */
+"Enhance Recording" = "Покращити запис";
+
+/* No comment provided by engineer. */
+"Enhanced Automatic Recording" = "Покращений автоматичний запис";
+
+/* No comment provided by engineer. */
+"Enhanced Scene Identification" = "Покращене визначення сцени";
+
+/* No comment provided by engineer. */
+"Ensure Daemon Is Running" = "Переконатися, що демон працює";
+
+/* No comment provided by engineer. */
+"Enter your password" = "Введіть пароль";
+
+/* No comment provided by engineer. */
+"Erase All" = "Стерти все";
+
+/* No comment provided by engineer. */
+"Erase all recordings, reset all settings, and clear all caches completely." = "Видалити всі записи, скинути налаштування та очистити кеш.";
+
+/* No comment provided by engineer. */
+"Erase Almost Completed" = "Видалення майже завершено";
+
+/* No comment provided by engineer. */
+"Erasing…" = "Видалення…";
+
+/* No comment provided by engineer. */
+"Error" = "Помилка";
+
+/* No comment provided by engineer. */
+"Error from network storage" = "Помилка мережевого сховища";
+
+/* No comment provided by engineer. */
+"Error retrieving discovery document: %@" = "Помилка отримання документа: %@";
+
+/* No comment provided by engineer. */
+"exit" = "вихід";
+
+/* No comment provided by engineer. */
+"Exit Hoverball" = "Закрити плаваючу кнопку";
+
+/* No comment provided by engineer. */
+"Expand Recursively" = "Розгорнути рекурсивно";
+
+/* No comment provided by engineer. */
+"Export recordings to anywhere you want without limitations." = "Експортувати записи без обмежень.";
+
+/* No comment provided by engineer. */
+"Export to Anywhere" = "Експорт будь-куди";
+
+/* No comment provided by engineer. */
+"Export with Metadata" = "Експорт з метаданими";
+
+/* No comment provided by engineer. */
+"Exporting" = "Експорт";
+
+/* No comment provided by engineer. */
+"FaceTime" = "FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime Audio";
+
+/* No comment provided by engineer. */
+"FaceTime Exclude List" = "Винятки FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime VIP" = "VIP FaceTime";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
+
+/* No comment provided by engineer. */
+"Failed to export %d recordings" = "Не вдалося експортувати %d записів";
+
+/* No comment provided by engineer. */
+"Failed to initialize speech recognizer using current locale “%@”." = "Не вдалося ініціалізувати розпізнавання мови для локалі «%@».";
+
+/* No comment provided by engineer. */
+"Failed to perform “%@” operation with service provider “%@”." = "Не вдалося виконати «%1$@» з провайдером «%2$@».";
+
+/* No comment provided by engineer. */
+"Failed to play: %@" = "Помилка відтворення: %@";
+
+/* No comment provided by engineer. */
+"Failed to recover: %@" = "Помилка відновлення: %@";
+
+/* No comment provided by engineer. */
+"Failed to remove: %@" = "Помилка видалення: %@";
+
+/* No comment provided by engineer. */
+"Fatal error occurred. You may need to re-authorize to continue." = "Критична помилка. Можливо, потрібна повторна авторизація.";
+
+/* No comment provided by engineer. */
+"Features on this page are under active development, hang tight!" = "Функції на цій сторінці в розробці!";
+
+/* No comment provided by engineer. */
+"Features Unlocked" = "Функції розблоковано";
+
+/* No comment provided by engineer. */
+"file" = "файл";
+
+/* No comment provided by engineer. */
+"File Format" = "Формат файлу";
+
+/* No comment provided by engineer. */
+"File not found." = "Файл не знайдено.";
+
+/* No comment provided by engineer. */
+"File Size" = "Розмір файлу";
+
+/* No comment provided by engineer. */
+"File System" = "Файлова система";
+
+/* No comment provided by engineer. */
+"Filter" = "Фільтр";
+
+/* No comment provided by engineer. */
+"Finalizing" = "Завершення";
+
+/* No comment provided by engineer. */
+"finish" = "завершити";
+
+/* TODO */
+"Fix File-System" = "Fix File-System";
+
+/* No comment provided by engineer. */
+"Focus" = "Фокус";
+
+/* No comment provided by engineer. */
+"Fold When Inactive" = "Згортати при бездіяльності";
+
+/* No comment provided by engineer. */
+"Follow System" = "Як у системі";
+
+/* No comment provided by engineer. */
+"Force the app to use a specific language. Reopen to apply changes." = "Примусово встановити мову. Перезапустіть для застосування змін.";
+
+/* No comment provided by engineer. */
+"Format" = "Формат";
+
+/* No comment provided by engineer. */
+"Formatted Location" = "Відформатоване місцезнаходження";
+
+/* No comment provided by engineer. */
+"Forward 15 Seconds" = "Вперед на 15 секунд";
+
+/* No comment provided by engineer. */
+"Frequently Asked Questions" = "Часті запитання";
+
+/* No comment provided by engineer. */
+"From %@" = "Від %@";
+
+/* No comment provided by engineer. */
+"From %@ to %@" = "Від %@ до %@";
+
+/* No comment provided by engineer. */
+"From: %@" = "Від: %@";
+
+/* No comment provided by engineer. */
+"From…" = "Від…";
+
+/* No comment provided by engineer. */
+"Full" = "Повний";
+
+/* No comment provided by engineer. */
+"Full Date" = "Повна дата";
+
+/* No comment provided by engineer. */
+"Full Month Name" = "Повна назва місяця";
+
+/* No comment provided by engineer. */
+"Full Time" = "Повний час";
+
+/* No comment provided by engineer. */
+"Full Year" = "Повний рік";
+
+/* No comment provided by engineer. */
+"Get ${requestedField}" = "Отримати ${requestedField}";
+
+/* No comment provided by engineer. */
+"Get advanced control when recording right in your call." = "Розширене керування записом під час дзвінка.";
+
+/* No comment provided by engineer. */
+"Get Call Duration" = "Отримати тривалість дзвінка";
+
+/* No comment provided by engineer. */
+"Get Call Status" = "Отримати статус дзвінка";
+
+/* No comment provided by engineer. */
+"Get In Touch" = "Зв'язатися";
+
+/* No comment provided by engineer. */
+"Get notifications after record complete." = "Отримувати сповіщення після завершення запису.";
+
+/* No comment provided by engineer. */
+"Get Recording Duration" = "Отримати тривалість запису";
+
+/* No comment provided by engineer. */
+"Get Recording Paths" = "Отримати шляхи запису";
+
+/* No comment provided by engineer. */
+"Get Recording Status" = "Отримати статус запису";
+
+/* No comment provided by engineer. */
+"Get the current recording duration of the Troll Recorder." = "Отримати поточну тривалість запису Troll Recorder.";
+
+/* No comment provided by engineer. */
+"Get the current recording paths of the Troll Recorder." = "Отримати поточні шляхи запису Troll Recorder.";
+
+/* No comment provided by engineer. */
+"Get the current recording status of the Troll Recorder." = "Отримати поточний статус запису Troll Recorder.";
+
+/* No comment provided by engineer. */
+"Get the primary call duration of the device." = "Отримати тривалість поточного дзвінка.";
+
+/* No comment provided by engineer. */
+"Get the primary call status of the device." = "Отримати статус поточного дзвінка.";
+
+/* No comment provided by engineer. */
+"Go Home When Unlocked" = "На головний екран при розблокуванні";
+
+/* No comment provided by engineer. */
+"Google Drive" = "Google Drive";
+
+/* No comment provided by engineer. */
+"Group Call" = "Груповий дзвінок";
+
+/* No comment provided by engineer. */
+"Hide Hoverball" = "Приховати плаваючу кнопку";
+
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Приховати «Голосові нотатки» з екрана блокування та Dynamic Island. Може знадобитися respring.";
+
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Приховати «Голосові нотатки» з екрана блокування. Потрібна ін'єкція через TrollFools.";
+
+/* No comment provided by engineer. */
+"Hide When Landscape" = "Приховувати в альбомній орієнтації";
+
+/* No comment provided by engineer. */
+"Hide When Snapshot" = "Приховувати при знімку екрана";
+
+/* No comment provided by engineer. */
+"Hours Minutes Seconds" = "Години Хвилини Секунди";
+
+/* No comment provided by engineer. */
+"Hours, 12-hour Clock" = "Години (12-годинний формат)";
+
+/* No comment provided by engineer. */
+"Hours, 24-hour Clock" = "Години (24-годинний формат)";
+
+/* No comment provided by engineer. */
+"Hoverball" = "Плаваюча кнопка";
+
+/* No comment provided by engineer. */
+"Hoverball Plus" = "Hoverball Plus";
+
+/* No comment provided by engineer. */
+"Hoverball Size" = "Розмір плаваючої кнопки";
+
+/* No comment provided by engineer. */
+"Hoverball Style" = "Стиль плаваючої кнопки";
+
+/* No comment provided by engineer. */
+"How would you like to call?" = "Як ви хочете подзвонити?";
+
+/* No comment provided by engineer. */
+"hud" = "інтерфейс";
+
+/* No comment provided by engineer. */
+"HUD_CALL_RECORDING" = "Запис дзвінка";
+
+/* No comment provided by engineer. */
+"Hyphen" = "Дефіс";
+
+/* No comment provided by engineer. */
+"I Agree to the E.U.L.A." = "Я приймаю умови ліцензії";
+
+/* No comment provided by engineer. */
+"icloud" = "iCloud";
+
+/* No comment provided by engineer. */
+"iCloud Drive" = "iCloud Диск";
+
+/* No comment provided by engineer. */
+"Idle" = "Без дії";
+
+/* No comment provided by engineer. */
+"If there is something wrong with the search indexes, you can reset them here." = "Якщо є проблеми з пошуковими індексами, їх можна скинути тут.";
+
+/* No comment provided by engineer. */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "Якщо немає активного дзвінка: утримання кнопки живлення для виконання дії.";
+
+/* No comment provided by engineer. */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "Якщо немає активного дзвінка: натискання обох кнопок гучності для виконання дії.";
+
+/* TODO */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here.";
+
+/* No comment provided by engineer. */
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Для двох SIM-карт відображатиметься псевдонім використаної карти.";
+
+/* No comment provided by engineer. */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Дія при успішній синхронізації резервної копії iCloud.";
+
+/* No comment provided by engineer. */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ігнорувати дати змін та створити повні копії записів.";
+
+/* No comment provided by engineer. */
+"In 1 Hour" = "За 1 годину";
+
+/* No comment provided by engineer. */
+"In 15 Minutes" = "За 15 хвилин";
+
+/* No comment provided by engineer. */
+"Inaccurate Time Detected" = "Виявлено неточний час";
+
+/* No comment provided by engineer. */
+"Incoming" = "Вхідний";
+
+/* No comment provided by engineer. */
+"incoming" = "вхідний";
+
+/* No comment provided by engineer. */
+"Incoming Call" = "Вхідний дзвінок";
+
+/* No comment provided by engineer. */
+"Incoming Call Answered" = "Вхідний дзвінок прийнято";
+
+/* No comment provided by engineer. */
+"Incoming Call Hang Up" = "Вхідний дзвінок скинуто";
+
+/* No comment provided by engineer. */
+"Incoming call recording from “%@” and other %ld applications." = "Запис вхідного дзвінка з «%@» та %ld інших додатків.";
+
+/* No comment provided by engineer. */
+"Incoming call recording from “%@”." = "Запис вхідного дзвінка з «%@».";
+
+/* No comment provided by engineer. */
+"Inconsistency Found" = "Виявлено невідповідність";
+
+/* No comment provided by engineer. */
+"Install" = "Встановити";
+
+/* No comment provided by engineer. */
+"Install Call History Tweak" = "Встановити твік історії дзвінків";
+
+/* No comment provided by engineer. */
+"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Додайте дію «Стиснути аудіо» до «Команд» для стиснення у формат AAC/AIFF.";
+
+/* No comment provided by engineer. */
+"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Додайте дію «Створити архів» до «Команд» для створення ZIP-архіву.";
+
+/* No comment provided by engineer. */
+"Invalid Code Signature" = "Невірний підпис коду";
+
+/* No comment provided by engineer. */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Невірний підпис коду.\nПеревстановіть додаток через TrollStore.";
+
+/* No comment provided by engineer. */
+"iPad" = "iPad";
+
+/* No comment provided by engineer. */
+"iPhone" = "iPhone";
+
+/* No comment provided by engineer. */
+"Is Favourite" = "У обраному";
+
+/* No comment provided by engineer. */
+"Is Finalized" = "Завершено";
+
+/* No comment provided by engineer. */
+"Is Finalizing" = "Завершується";
+
+/* No comment provided by engineer. */
+"Is Microphone Enabled" = "Мікрофон увімкнено";
+
+/* No comment provided by engineer. */
+"Is Paused" = "На паузі";
+
+/* No comment provided by engineer. */
+"Is Running" = "Працює";
+
+/* No comment provided by engineer. */
+"Item #%lu" = "Елемент №%lu";
+
+/* No comment provided by engineer. */
+"Just in case that you love it." = "На випадок, якщо вам сподобається.";
+
+/* No comment provided by engineer. */
+"Just now" = "Щойно";
+
+/* No comment provided by engineer. */
+"Keep Screen On When Connected" = "Не вимикати екран при підключенні";
+
+/* No comment provided by engineer. */
+"Keyboard Avoidance" = "Уникнення клавіатури";
+
+/* No comment provided by engineer. */
+"Kill all applications and restart the render server (backboardd)." = "Закрити всі програми та перезапустити сервер рендерингу (backboardd).";
+
+/* No comment provided by engineer. */
+"Language Changed" = "Мову змінено";
+
+/* No comment provided by engineer. */
+"Larger" = "Більше";
+
+/* No comment provided by engineer. */
+"Last successful synchronization: %@" = "Остання успішна синхронізація: %@";
+
+/* No comment provided by engineer. */
+"Later" = "Пізніше";
+
+/* No comment provided by engineer. */
+"launch" = "запуск";
+
+/* No comment provided by engineer. */
+"Launch App at End" = "Запустити програму після завершення";
+
+/* No comment provided by engineer. */
+"Launch Shield" = "Launch Shield";
+
+/* No comment provided by engineer. */
+"Leading & Trailing" = "Провідний та завершальний";
+
+/* No comment provided by engineer. */
+"leading edge" = "провідний край";
+
+/* No comment provided by engineer. */
+"Legacy Jailbreak" = "Застарілий джейлбрейк";
+
+/* No comment provided by engineer. */
+"Less serious error occurred." = "Сталася незначна помилка.";
+
+/* No comment provided by engineer. */
+"Lifetime Guarantee" = "Пожиттєва гарантія";
+
+/* No comment provided by engineer. */
+"Link Device to Havoc" = "Прив'язати пристрій до Havoc";
+
+/* No comment provided by engineer. */
+"List and Detail" = "Список та деталі";
+
+/* No comment provided by engineer. */
+"Loading…" = "Завантаження…";
+
+/* No comment provided by engineer. */
+"Local Storage" = "Локальне сховище";
+
+/* No comment provided by engineer. */
+"Localized name of the provider application. That is, where this recording comes from." = "Локалізована назва програми-джерела запису.";
+
+/* No comment provided by engineer. */
+"Locate in Maps" = "Відкрити в Картах";
+
+/* No comment provided by engineer. */
+"Location" = "Місцезнаходження";
+
+/* No comment provided by engineer. */
+"Location Permission Denied" = "Доступ до місцезнаходження заборонено";
+
+/* No comment provided by engineer. */
+"Location Services" = "Служби геолокації";
+
+/* No comment provided by engineer. */
+"Locked" = "Заблоковано";
+
+/* No comment provided by engineer. */
+"Log Viewer" = "Переглядач логів";
+
+/* No comment provided by engineer. */
+"Logging" = "Логування";
+
+/* No comment provided by engineer. */
+"Login Tips" = "Поради щодо входу";
+
+/* No comment provided by engineer. */
+"Long Date" = "Довга дата";
+
+/* No comment provided by engineer. */
+"Long press the hoverball to start or stop recording by convenience." = "Долгое нажатие на плавающую кнопку для удобного управления записью.";
+
+/* No comment provided by engineer. */
+"Long Time" = "Довгий час";
+
+/* No comment provided by engineer. */
+"Low Disk Space" = "Мало місця на диску";
+
+/* No comment provided by engineer. */
+"Made with ♥ by OwnGoal Studio" = "Зроблено з ♥ в OwnGoal Studio";
+
+/* No comment provided by engineer. */
+"Mail composition failed" = "Не вдалося створити лист";
+
+/* No comment provided by engineer. */
+"Maintenance" = "Технічне обслуговування";
+
+/* No comment provided by engineer. */
+"Make a ${requestedMode} recording" = "Зробити запис у режимі ${requestedMode}";
+
+/* No comment provided by engineer. */
+"Make a new recording, or stop an existing one." = "Почати новий запис або зупинити поточний.";
+
+/* No comment provided by engineer. */
+"Make a new voice memo, or stop an existing one." = "Створити новий голосовий меморандум або зупинити поточний.";
+
+/* No comment provided by engineer. */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Створювати поверхневі копії записів у резервній області та дозволяти їх включення в iCloud Backup.";
+
+/* No comment provided by engineer. */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Пов’язані записи дзвінків на сторінці історії викликів відкриватимуться в TrollRecorder для відтворення.";
+
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording ends." = "Примушувати пристрій дзвонити або вібрувати після завершення запису.";
+
+/* No comment provided by engineer. */
+"Make the device ring or vibrate when recording starts." = "Примушувати пристрій дзвонити або вібрувати на початку запису.";
+
+/* No comment provided by engineer. */
+"Make the hoverball invisible when taking screenshots or screen recordings." = "Приховувати hoverball під час створення скріншотів або запису екрану.";
+
+/* No comment provided by engineer. */
+"Make the hoverball invisible when the device is in landscape orientation." = "Приховувати hoverball у альбомній орієнтації пристрою.";
+
+/* No comment provided by engineer. */
+"Make the hoverball semi-transparent or folded when leave it for a while." = "Робити hoverball напівпрозорим або згорнутим після бездіяльності.";
+
+/* No comment provided by engineer. */
+"Making a phone call to begin recording." = "Виконання дзвінка для початку запису.";
+
+/* No comment provided by engineer. */
+"Mark" = "Позначити";
+
+/* No comment provided by engineer. */
+"Maximum" = "Максимум";
+
+/* No comment provided by engineer. */
+"Medium" = "Середній";
+
+/* No comment provided by engineer. */
+"Medium Date" = "Середній формат дати";
+
+/* No comment provided by engineer. */
+"Medium Time" = "Середній формат часу";
+
+/* No comment provided by engineer. */
+"Merge" = "Об'єднати";
+
+/* No comment provided by engineer. */
+"Merged File" = "Об'єднаний файл";
+
+/* No comment provided by engineer. */
+"Message" = "Повідомлення";
+
+/* No comment provided by engineer. */
+"Metadata" = "Метадані";
+
+/* No comment provided by engineer. */
+"Microphone" = "Мікрофон";
+
+/* No comment provided by engineer. */
+"microphone" = "мікрофон";
+
+/* No comment provided by engineer. */
+"Microphone and speaker are recorded in different channels." = "Мікрофон і динамік записуються на різні канали.";
+
+/* No comment provided by engineer. */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
+/* No comment provided by engineer. */
+"Minutes" = "Хвилини";
+
+/* No comment provided by engineer. */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Бракує необхідних дозволів для доступу до Google Drive. Повторно авторизуйтесь у Google і надайте всі дозволи «Google Drive» для «TrollRecorder».";
+
+/* No comment provided by engineer. */
+"Mixed" = "Змішаний";
+
+/* No comment provided by engineer. */
+"Mixer & Combiner" = "Мікшер і об'єднувач";
+
+/* No comment provided by engineer. */
+"Mixer Audio Format" = "Формат аудіо мікшера";
+
+/* No comment provided by engineer. */
+"Mixer File Format" = "Формат файлу мікшера";
+
+/* No comment provided by engineer. */
+"Mixer Quality" = "Якість мікшера";
+
+/* No comment provided by engineer. */
+"Month Number" = "Номер місяця";
+
+/* No comment provided by engineer. */
+"Monthly Arranged" = "Розташовано за місяцями";
+
+/* No comment provided by engineer. */
+"More icons, more innovation." = "Більше іконок — більше інновацій.";
+
+/* No comment provided by engineer. */
+"More Options" = "Додаткові параметри";
+
+/* No comment provided by engineer. */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Переміщати видалені записи до спеціальної папки для можливого відновлення.";
+
+/* No comment provided by engineer. */
+"MPEG-4 Audio" = "Аудіо MPEG-4";
+
+/* No comment provided by engineer. */
+"mute" = "вимкнути звук";
+
+/* No comment provided by engineer. */
+"Mute ${requestedChannel}" = "Вимкнути звук ${requestedChannel}";
+
+/* No comment provided by engineer. */
+"Mute Existing Calls" = "Вимкнути звук поточних дзвінків";
+
+/* No comment provided by engineer. */
+"Mute specified channel of all existing calls." = "Вимкнути звук зазначеного каналу у всіх поточних дзвінках.";
+
+/* No comment provided by engineer. */
+"My Favourite" = "Моє обране";
+
+/* No comment provided by engineer. */
+"My Favourites" = "Мої обрані";
+
+/* No comment provided by engineer. */
+"Name" = "Ім'я";
+
+/* No comment provided by engineer. */
+"Name with Alias" = "Ім'я з псевдонімом";
+
+/* No comment provided by engineer. */
+"Network Storage" = "Мережеве сховище";
+
+/* No comment provided by engineer. */
+"Never" = "Ніколи";
+
+/* No comment provided by engineer. */
+"Never Show This Again" = "Більше не показувати";
+
+/* No comment provided by engineer. */
+"New" = "Новий";
+
+/* No comment provided by engineer. */
+"New Argument" = "Новий аргумент";
+
+/* No comment provided by engineer. */
+"New Matching Pattern" = "Новий шаблон відповідності";
+
+/* No comment provided by engineer. */
+"New Version Available" = "Доступна нова версія";
+
+/* No comment provided by engineer. */
+"New Version Installed" = "Нова версія встановлена";
+
+/* No comment provided by engineer. */
+"NO" = "НІ";
+
+/* No comment provided by engineer. */
+"No Available Version" = "Немає доступної версії";
+
+/* No comment provided by engineer. */
+"No phone number found in selected contacts." = "У вибраних контактах не знайдено номерів телефону.";
+
+/* No comment provided by engineer. */
+"No phone number or email address found in selected contacts." = "У вибраних контактах не знайдено номерів телефону або email-адрес.";
+
+/* No comment provided by engineer. */
+"No Recording" = "Немає запису";
+
+/* No comment provided by engineer. */
+"No speech detected." = "Мовлення не виявлено.";
+
+/* No comment provided by engineer. */
+"No Transition" = "Без переходу";
+
+/* No comment provided by engineer. */
+"None" = "Немає";
+
+/* No comment provided by engineer. */
+"Not Implemented" = "Не реалізовано";
+
+/* No comment provided by engineer. */
+"Not My Favourite" = "Не в обраному";
+
+/* No comment provided by engineer. */
+"Not Now" = "Не зараз";
+
+/* No comment provided by engineer. */
+"Not Properly Configured" = "Неправильно налаштовано";
+
+/* No comment provided by engineer. */
+"Nothing Imported" = "Нічого не імпортовано";
+
+/* No comment provided by engineer. */
+"Nothing Inside" = "Порожньо";
+
+/* No comment provided by engineer. */
+"notification" = "сповіщення";
+
+/* No comment provided by engineer. */
+"Notification Permission Denied" = "Доступ до сповіщень заборонено";
+
+/* No comment provided by engineer. */
+"Notifications" = "Сповіщення";
+
+/* No comment provided by engineer. */
+"notify" = "сповістити";
+
+/* No comment provided by engineer. */
+"Notify at Begin" = "Сповіщати на початку";
+
+/* No comment provided by engineer. */
+"Notify at End" = "Сповіщати в кінці";
+
+/* No comment provided by engineer. */
+"Object Viewer" = "Перегляд об'єктів";
+
+/* No comment provided by engineer. */
+"Off" = "Вимк.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On" = "Увімк.";
+
+/* No comment provided by engineer. */
+"OneDrive" = "OneDrive";
+
+/* No comment provided by engineer. */
+"Oops!" = "Ой!";
+
+/* No comment provided by engineer. */
+"Open" = "Відкрити";
+
+/* No comment provided by engineer. */
+"open" = "відкрити";
+
+/* No comment provided by engineer. */
+"Open Application" = "Відкрити застосунок";
+
+/* No comment provided by engineer. */
+"Open Hoverball" = "Відкрити hoverball";
+
+/* No comment provided by engineer. */
+"Open in Filza" = "Відкрити в Filza";
+
+/* No comment provided by engineer. */
+"Open in Maps" = "Відкрити в Картах";
+
+/* No comment provided by engineer. */
+"Open Troll Recorder" = "Відкрити Troll Recorder";
+
+/* No comment provided by engineer. */
+"Operation Failed" = "Помилка операції";
+
+/* No comment provided by engineer. */
+"Operation Succeed" = "Операція успішна";
+
+/* No comment provided by engineer. */
+"Operation succeed, but no files transferred." = "Операція успішна, але файли не передано.";
+
+/* No comment provided by engineer. */
+"Operator Name" = "Ім'я оператора";
+
+/* No comment provided by engineer. */
+"Optic ID" = "Optic ID";
+
+/* No comment provided by engineer. */
+"Options" = "Параметри";
+
+/* No comment provided by engineer. */
+"Outgoing" = "Вихідний";
+
+/* No comment provided by engineer. */
+"Outgoing Call" = "Вихідний дзвінок";
+
+/* No comment provided by engineer. */
+"Outgoing Call Answered" = "Вихідний дзвінок прийнято";
+
+/* No comment provided by engineer. */
+"Outgoing Call Hang Up" = "Вихідний дзвінок завершено";
+
+/* No comment provided by engineer. */
+"Outgoing call recording from “%@” and other %ld applications." = "Запис вихідних дзвінків з «%@» та ще %ld застосунків.";
+
+/* No comment provided by engineer. */
+"Outgoing call recording from “%@”." = "Запис вихідних дзвінків з «%@».";
+
+/* No comment provided by engineer. */
+"Page not found" = "Сторінку не знайдено";
+
+/* No comment provided by engineer. */
+"Password (Optional)" = "Пароль (необов’язково)";
+
+/* No comment provided by engineer. */
+"path" = "шлях";
+
+/* No comment provided by engineer. */
+"Pause" = "Пауза";
+
+/* No comment provided by engineer. */
+"Pause Recording" = "Призупинити запис";
+
+/* No comment provided by engineer. */
+"Paused" = "Призупинено";
+
+/* No comment provided by engineer. */
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Виконати повну синхронізацію «Резервної копії через iCloud» та «Розумного хмарного архіву».";
+
+/* No comment provided by engineer. */
+"Perform Full Synchronization" = "Виконати повну синхронізацію";
+
+/* No comment provided by engineer. */
+"Period" = "Період";
+
+/* No comment provided by engineer. */
+"Phone" = "Телефон";
+
+/* No comment provided by engineer. */
+"phone" = "телефон";
+
+/* No comment provided by engineer. */
+"Phone Address" = "Адреса телефону";
+
+/* No comment provided by engineer. */
+"Phone Call Exclude List" = "Список виключень для дзвінків";
+
+/* No comment provided by engineer. */
+"phone call recording" = "запис телефонного дзвінка";
+
+/* No comment provided by engineer. */
+"Phone Call VIP" = "VIP-дзвінки";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Номер телефону";
+
+/* No comment provided by engineer. */
+"Phone Number or Email Address" = "Номер телефону або email";
+
+/* No comment provided by engineer. */
+"Physical Key Combination" = "Комбінація фізичних клавіш";
+
+/* No comment provided by engineer. */
+"Placemark Name" = "Назва позначки";
+
+/* No comment provided by engineer. */
+"Play" = "Відтворити";
+
+/* No comment provided by engineer. */
+"play" = "відтворити";
+
+/* No comment provided by engineer. */
+"Play ${audioFile}" = "Відтворити ${audioFile}";
+
+/* No comment provided by engineer. */
+"Play Recording Warning" = "Попередження при відтворенні запису";
+
+/* No comment provided by engineer. */
+"Play Sound" = "Відтворити звук";
+
+/* No comment provided by engineer. */
+"Play specified audio file to the microphone." = "Відтворити вказаний аудіофайл через мікрофон.";
+
+/* No comment provided by engineer. */
+"Play specified voice-over text to the microphone." = "Відтворити вказаний озвучений текст через мікрофон.";
+
+/* No comment provided by engineer. */
+"Play Uplink Audio" = "Відтворити аудіо uplink";
+
+/* No comment provided by engineer. */
+"Play Uplink Voice-Over" = "Відтворити озвучення uplink";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Відтворити/Пауза";
+
+/* No comment provided by engineer. */
+"Playback Rate" = "Швидкість відтворення";
+
+/* No comment provided by engineer. */
+"Playback Rate: %@x" = "Швидкість відтворення: %@x";
+
+/* No comment provided by engineer. */
+"Playback Speed" = "Швидкість відтворення";
+
+/* No comment provided by engineer. */
+"Player Options" = "Налаштування плеєра";
+
+/* No comment provided by engineer. */
+"Please check your mail configuration." = "Перевірте налаштування пошти.";
+
+/* No comment provided by engineer. */
+"Please enter a valid port number between 1 and 65535." = "Введіть коректний номер порту від 1 до 65535.";
+
+/* No comment provided by engineer. */
+"Please enter the server URL." = "Введіть URL сервера.";
+
+/* No comment provided by engineer. */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Зверніть увагу, що TrollRecorder продається та активується виключно через Havoc Marketplace. Ми не продаємо його через інші канали. Ви збираєтеся відкрити сторінку магазину. Якщо ви використовуєте Havoc Marketplace вперше, рекомендуємо увійти через обліковий запис Google. Користувачам з материкового Китаю може знадобитися спеціальне з'єднання для входу в Google.";
+
+/* No comment provided by engineer. */
+"Please reinstall this application from TrollStore." = "Будь ласка, перевстановіть застосунок через TrollStore.";
+
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from Sileo." = "Не забудьте видалити «%@» з Sileo.";
+
+/* No comment provided by engineer. */
+"Please remember to uninstall “%@” from TrollStore." = "Не забудьте видалити «%@» з TrollStore.";
+
+/* No comment provided by engineer. */
+"Popover Control" = "Керування спливаючим вікном";
+
+/* No comment provided by engineer. */
+"Populate Location When App Starts" = "Визначати місцезнаходження при запуску";
+
+/* No comment provided by engineer. */
+"Popup Banner at Begin" = "Спливаючий банер на початку";
+
+/* No comment provided by engineer. */
+"Popup Banner at End" = "Спливаючий банер в кінці";
+
+/* No comment provided by engineer. */
+"Popup Banner when Fail" = "Спливаючий банер при помилці";
+
+/* No comment provided by engineer. */
+"Popup Banner with Badge" = "Спливаючий банер з іконкою";
+
+/* No comment provided by engineer. */
+"Popup Banner with Detail" = "Спливаючий банер з деталями";
+
+/* No comment provided by engineer. */
+"Popup Banner with Sound" = "Спливаючий банер зі звуком";
+
+/* No comment provided by engineer. */
+"Port (Optional)" = "Порт (необов'язково)";
+
+/* No comment provided by engineer. */
+"Preparing" = "Підготовка";
+
+/* No comment provided by engineer. */
+"Preserve All Channels" = "Зберігати всі канали";
+
+/* No comment provided by engineer. */
+"Press & Hold Action" = "Дія при утриманні";
+
+/* No comment provided by engineer. */
+"Press & Hold Hoverball" = "Утримувати hoverball";
+
+/* No comment provided by engineer. */
+"Press & Hold Power Button" = "Утримувати кнопку живлення";
+
+/* No comment provided by engineer. */
+"Press and hold the power button to start or stop recording during a call." = "Утримуйте кнопку живлення для початку/зупинки запису під час дзвінка.";
+
+/* No comment provided by engineer. */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Натисніть обидві кнопки гучності для початку/зупинки запису під час дзвінка.";
+
+/* No comment provided by engineer. */
+"Press Both Volume Buttons" = "Натиснути обидві кнопки гучності";
+
+/* No comment provided by engineer. */
+"Preview Disabled" = "Попередній перегляд вимкнено";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Політика конфіденційності";
+
+/* No comment provided by engineer. */
+"Privacy Policy & User Agreements" = "Політика конфіденційності та умови використання";
+
+/* No comment provided by engineer. */
+"Private Browsing Detected" = "Виявлено приватний режим";
+
+/* No comment provided by engineer. */
+"Proceed Anyway" = "Продовжити";
+
+/* No comment provided by engineer. */
+"Process terminated by signal %d." = "Процес завершено сигналом %d.";
+
+/* No comment provided by engineer. */
+"Process terminated with exit code %d.\n%@" = "Процес завершено з кодом %d.\n%@";
+
+/* TODO */
+"Processing" = "Processing";
+
+/* No comment provided by engineer. */
+"Pulse-code modulation" = "Імпульсно-кодова модуляція";
+
+/* No comment provided by engineer. */
+"Purchase" = "Купівля";
+
+/* No comment provided by engineer. */
+"Purchase Tips" = "Поради щодо покупки";
+
+/* No comment provided by engineer. */
+"Pure TrollStore" = "Лише TrollStore";
+
+/* No comment provided by engineer. */
+"Query the latest version from GitHub." = "Перевірити останню версію на GitHub.";
+
+/* No comment provided by engineer. */
+"Querying" = "Запит";
+
+/* No comment provided by engineer. */
+"Quick Recording" = "Швидкий запис";
+
+/* No comment provided by engineer. */
+"Quit and relaunch to continue using the Pro features." = "Перезапустіть додаток для доступу до Pro-функцій.";
+
+/* No comment provided by engineer. */
+"Quit this application and try again." = "Закрийте додаток і спробуйте знову.";
+
+/* No comment provided by engineer. */
+"Rclone Documentation" = "Документація Rclone";
+
+/* No comment provided by engineer. */
+"Re-authorize with Dropbox" = "Повторно авторизуватися в Dropbox";
+
+/* No comment provided by engineer. */
+"Re-authorize with Google" = "Повторно авторизуватися в Google";
+
+/* No comment provided by engineer. */
+"Re-authorize with Microsoft" = "Повторно авторизуватися в Microsoft";
+
+/* No comment provided by engineer. */
+"Re-enable Suggested Options" = "Увімкнути рекомендовані опції";
+
+/* No comment provided by engineer. */
+"Reaching Daemon" = "Підключення до демона";
+
+/* No comment provided by engineer. */
+"README_APP_DOCUMENTS" = "Ця папка містить резервні копії записів TrollRecorder.\r\nДля відновлення скопіюйте їх у /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings";
+
+/* No comment provided by engineer. */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "Ця папка містить жорсткі посилання на записи TrollRecorder.\r\nНе входить до iCloud Backup і не враховується в квоті.\r\nНе видаляйте їх без потреби.";
+
+/* No comment provided by engineer. */
+"README_SERVICE_RECORDINGS" = "Ця папка містить записи TrollRecorder.\r\nДля резервування скопіюйте їх у надійне місце.";
+
+/* No comment provided by engineer. */
+"Ready" = "Готово";
+
+/* No comment provided by engineer. */
+"Ready to record!" = "Готово до запису!";
+
+/* No comment provided by engineer. */
+"Received authorization error: %@" = "Помилка авторизації: %@";
+
+/* No comment provided by engineer. */
+"Received transient error: %@" = "Тимчасова помилка: %@";
+
+/* No comment provided by engineer. */
+"Recents Only" = "Лише нещодавні";
+
+/* No comment provided by engineer. */
+"Recommended for Apple devices" = "Рекомендовано для Apple";
+
+/* No comment provided by engineer. */
+"Record" = "Запис";
+
+/* No comment provided by engineer. */
+"Record all incoming and outgoing calls automatically." = "Автоматично записувати всі вхідні та вихідні дзвінки.";
+
+/* No comment provided by engineer. */
+"Record Automatically" = "Автозапис";
+
+/* No comment provided by engineer. */
+"Record Calls on Other Devices" = "Запис дзвінків на інших пристроях";
+
+/* No comment provided by engineer. */
+"Record Only When Connected" = "Записувати лише при підключенні";
+
+/* No comment provided by engineer. */
+"Record with Location" = "Запис із місцезнаходженням";
+
+/* No comment provided by engineer. */
+"Recording" = "Запис";
+
+/* No comment provided by engineer. */
+"recording" = "запис";
+
+/* No comment provided by engineer. */
+"Recording (Localized)" = "Запис (локалізований)";
+
+/* No comment provided by engineer. */
+"Recording Interrupted" = "Запис перервано";
+
+/* No comment provided by engineer. */
+"Recording Options" = "Налаштування запису";
+
+/* No comment provided by engineer. */
+"Recording starts when both the audio inputs and outputs are continuously active." = "Запис почнеться, коли аудіовходи та аудіовиходи будуть постійно активними.";
+
+/* No comment provided by engineer. */
+"Recording successfully started." = "Запис успішно розпочато.";
+
+/* No comment provided by engineer. */
+"Recording Type" = "Тип запису";
+
+/* No comment provided by engineer. */
+"Recording Type Description" = "Опис типу запису";
+
+/* No comment provided by engineer. */
+"Recording will begin when the call is answered." = "Запис почнеться після відповіді на дзвінок.";
+
+/* No comment provided by engineer. */
+"Recording “%@” is in progress." = "Триває запис “%@”.";
+
+/* No comment provided by engineer. */
+"RECORDING_LOCALIZED" = "Запис";
+
+/* No comment provided by engineer. */
+"Recordings" = "Записи";
+
+/* No comment provided by engineer. */
+"Recordings here are permanently removed after 30 days." = "Тут записи видаляються назавжди через 30 днів.";
+
+/* No comment provided by engineer. */
+"Recycle Bin" = "Кошик";
+
+/* No comment provided by engineer. */
+"Regenerate All" = "Перегенерувати все";
+
+/* No comment provided by engineer. */
+"reject" = "відхилити";
+
+/* No comment provided by engineer. */
+"Reject all incoming calls automatically." = "Автоматично відхиляти всі вхідні дзвінки.";
+
+/* No comment provided by engineer. */
+"Reject Incoming Calls" = "Відхиляти вхідні дзвінки";
+
+/* No comment provided by engineer. */
+"Relaunched" = "Перезапущено";
+
+/* No comment provided by engineer. */
+"Release" = "Реліз";
+
+/* No comment provided by engineer. */
+"Release Notes" = "Примітки до релізу";
+
+/* No comment provided by engineer. */
+"Remove" = "Видалити";
+
+/* No comment provided by engineer. */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Видалити всі кешовані хвильові форми та дозволити їх відновлення з оригінальних записів.";
+
+/* No comment provided by engineer. */
+"Remove All Recordings Permanently" = "Видалити всі записи назавжди";
+
+/* No comment provided by engineer. */
+"Remove Outdated Recordings" = "Видалити застарілі записи";
+
+/* No comment provided by engineer. */
+"Rename" = "Перейменувати";
+
+/* No comment provided by engineer. */
+"Repeat Infinitely" = "Повторювати безкінечно";
+
+/* No comment provided by engineer. */
+"Reset" = "Скинути";
+
+/* No comment provided by engineer. */
+"Reset All Shortcuts" = "Скинути всі ярлики";
+
+/* No comment provided by engineer. */
+"Reset Search Indexes" = "Скинути пошукові індекси";
+
+/* No comment provided by engineer. */
+"Reset Service" = "Скинути службу";
+
+/* No comment provided by engineer. */
+"Respring" = "Перезавантаження SpringBoard";
+
+/* No comment provided by engineer. */
+"Restart Render Server" = "Перезапустити сервер рендерингу";
+
+/* No comment provided by engineer. */
+"Restore" = "Відновити";
+
+/* No comment provided by engineer. */
+"Restore %d Items From Recycle Bin" = "Відновити %d елементів із кошика";
+
+/* No comment provided by engineer. */
+"Restore Selected %ld Items" = "Відновити вибрані %ld елементів";
+
+/* No comment provided by engineer. */
+"Restore Selected Item" = "Відновити вибраний елемент";
+
+/* No comment provided by engineer. */
+"Restoring" = "Відновлення";
+
+/* No comment provided by engineer. */
+"Resume Recording" = "Продовжити запис";
+
+/* No comment provided by engineer. */
+"Resume with Warning" = "Продовжити з попередженням";
+
+/* No comment provided by engineer. */
+"Retry" = "Повторити";
+
+/* No comment provided by engineer. */
+"Reverse Geocoding" = "Зворотнє геокодування";
+
+/* No comment provided by engineer. */
+"Reverse Selection" = "Інвертувати виділення";
+
+/* No comment provided by engineer. */
+"Rewind 15 Seconds" = "Перемотати на 15 секунд";
+
+/* No comment provided by engineer. */
+"Ring" = "Дзвінок";
+
+/* No comment provided by engineer. */
+"Ring & Vibrate" = "Дзвінок і вібрація";
+
+/* No comment provided by engineer. */
+"Root" = "Root";
+
+/* No comment provided by engineer. */
+"RootHide Jailbreak" = "RootHide джейлбрейк";
+
+/* No comment provided by engineer. */
+"Rootless Jailbreak" = "Rootless джейлбрейк";
+
+/* No comment provided by engineer. */
+"Runtime Environment: %@" = "Середовище виконання: %@";
+
+/* No comment provided by engineer. */
+"Sample Rate" = "Частота дискретизації";
+
+/* No comment provided by engineer. */
+"Sandbox Build" = "Збірка в пісочниці";
+
+/* No comment provided by engineer. */
+"Save" = "Зберегти";
+
+/* No comment provided by engineer. */
+"Save as Duplicate" = "Зберегти копію";
+
+/* No comment provided by engineer. */
+"Save as Duplicate…" = "Зберегти копію…";
+
+/* No comment provided by engineer. */
+"Say ${requestedText}" = "Скажіть ${requestedText}";
+
+/* No comment provided by engineer. */
+"Scene Identification" = "Ідентифікація сцени";
+
+/* No comment provided by engineer. */
+"screen" = "екран";
+
+/* No comment provided by engineer. */
+"Search" = "Пошук";
+
+/* No comment provided by engineer. */
+"Search %@ in %@…" = "Шукати %@ в %@…";
+
+/* No comment provided by engineer. */
+"Search %@…" = "Шукати %@…";
+
+/* No comment provided by engineer. */
+"Search Apps…" = "Шукати програми…";
+
+/* No comment provided by engineer. */
+"Search Arguments…" = "Шукати аргументи…";
+
+/* No comment provided by engineer. */
+"Search Contacts…" = "Шукати контакти…";
+
+/* No comment provided by engineer. */
+"Search in %@…" = "Шукати в %@…";
+
+/* No comment provided by engineer. */
+"Search in depth with all available information saved when recording such as contact info or locations." = "Глибинний пошук із усією збереженою під час запису інформацією, такою як дані контактів чи місцезнаходження.";
+
+/* No comment provided by engineer. */
+"Search in Maps" = "Шукати в Картах";
+
+/* No comment provided by engineer. */
+"Search Recordings…" = "Шукати записи…";
+
+/* No comment provided by engineer. */
+"Search Shortcuts…" = "Шукати ярлики…";
+
+/* No comment provided by engineer. */
+"Search…" = "Пошук…";
+
+/* No comment provided by engineer. */
+"Seconds" = "Секунди";
+
+/* No comment provided by engineer. */
+"Secure" = "Безпечний";
+
+/* No comment provided by engineer. */
+"Secure Payment" = "Безпечний платіж";
+
+/* No comment provided by engineer. */
+"See ya!" = "Бувайте!";
+
+/* No comment provided by engineer. */
+"Select" = "Вибрати";
+
+/* No comment provided by engineer. */
+"Select a recording to play." = "Виберіть запис для відтворення.";
+
+/* No comment provided by engineer. */
+"Select All" = "Вибрати все";
+
+/* No comment provided by engineer. */
+"Select the primary cloud service provider for recording synchronization." = "Виберіть основну хмарну службу для синхронізації записів.";
+
+/* No comment provided by engineer. */
+"Semi-Transparent" = "Напівпрозорий";
+
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
+
+/* No comment provided by engineer. */
+"Sender Name" = "Ім'я відправника";
+
+/* No comment provided by engineer. */
+"Sender Phone Address" = "Телефонна адреса відправника";
+
+/* No comment provided by engineer. */
+"Sender Short Name" = "Коротке ім'я відправника";
+
+/* No comment provided by engineer. */
+"Separated Channels" = "Розділені канали";
+
+/* No comment provided by engineer. */
+"Separators" = "Роздільники";
+
+/* No comment provided by engineer. */
+"Server" = "Сервер";
+
+/* No comment provided by engineer. */
+"Server started at: %@" = "Сервер запущено о: %@";
+
+/* No comment provided by engineer. */
+"Server URL" = "URL сервера";
+
+/* No comment provided by engineer. */
+"service" = "служба";
+
+/* No comment provided by engineer. */
+"Service is alive" = "Служба активна";
+
+/* No comment provided by engineer. */
+"Service is dead" = "Служба неактивна";
+
+/* No comment provided by engineer. */
+"Service Status" = "Статус служби";
+
+/* No comment provided by engineer. */
+"Set a new name for this recording, or leave blank to use default." = "Вкажіть нову назву для цього запису або залиште порожнім для значення за замовчуванням.";
+
+/* No comment provided by engineer. */
+"Settings" = "Налаштування";
+
+/* No comment provided by engineer. */
+"Setup Failed" = "Помилка налаштування";
+
+/* No comment provided by engineer. */
+"Share" = "Поділитися";
+
+/* No comment provided by engineer. */
+"Short Date" = "Коротка дата";
+
+/* No comment provided by engineer. */
+"Short Day of Week String" = "Скорочений день тижня";
+
+/* No comment provided by engineer. */
+"Short Month Name" = "Скорочена назва місяця";
+
+/* No comment provided by engineer. */
+"Short Time" = "Короткий час";
+
+/* No comment provided by engineer. */
+"Show Bundle Name" = "Показувати Bundle Name";
+
+/* No comment provided by engineer. */
+"Show Contact Names" = "Показувати імена контактів";
+
+/* No comment provided by engineer. */
+"Show Hoverball" = "Показувати Hoverball";
+
+/* No comment provided by engineer. */
+"Show Notification" = "Показувати сповіщення";
+
+/* No comment provided by engineer. */
+"Show notification ${requestedMessage}" = "Показати сповіщення ${requestedMessage}";
+
+/* No comment provided by engineer. */
+"Show on Lock Screen" = "Показувати на екрані блокування";
+
+/* No comment provided by engineer. */
+"Show Option Description" = "Показувати опис опції";
+
+/* No comment provided by engineer. */
+"Show Recording Duration" = "Показувати тривалість запису";
+
+/* No comment provided by engineer. */
+"Show Recording Format" = "Показувати формат запису";
+
+/* No comment provided by engineer. */
+"Show SIM Card Alias" = "Показувати псевдонім SIM-картки";
+
+/* No comment provided by engineer. */
+"Show Waveform Previews" = "Показувати прев'ю хвильової форми";
+
+/* No comment provided by engineer. */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Показувати пункт меню «Переглянути деталі» для розробників (перегляд маніфестів записів).";
+
+/* No comment provided by engineer. */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Увійдіть у Dropbox, щоб надати додатку доступ.";
+
+/* No comment provided by engineer. */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Увійдіть у Google, щоб надати додатку доступ до Google Drive.";
+
+/* No comment provided by engineer. */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Увійдіть у Microsoft, щоб надати додатку доступ до OneDrive.";
+
+/* No comment provided by engineer. */
+"Silent Mode" = "Тихий режим";
+
+/* No comment provided by engineer. */
+"SIM Card Alias" = "Псевдонім SIM-картки";
+
+/* No comment provided by engineer. */
+"Simulator" = "Симулятор";
+
+/* No comment provided by engineer. */
+"Skip Silence" = "Пропускати тишу";
+
+/* No comment provided by engineer. */
+"Smaller" = "Менше";
+
+/* No comment provided by engineer. */
+"Smart Cloud Archive" = "Розумне хмарне архівування";
+
+/* No comment provided by engineer. */
+"Software License" = "Ліцензія ПЗ";
+
+/* No comment provided by engineer. */
+"Some settings have been reset to default values." = "Деякі налаштування скинуто до значень за замовчуванням.";
+
+/* No comment provided by engineer. */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Відсутній важливий компонент. Перевстановіть «TrollRecorder JB» через Sileo.";
+
+/* No comment provided by engineer. */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Помилка перевірки ліцензії. Натисніть «Мій акаунт» для перевірки замовлень, покупок або активації коду.";
+
+/* No comment provided by engineer. */
+"Sound Level Meter" = "Вимірювач рівня звуку";
+
+/* No comment provided by engineer. */
+"Space" = "Пробіл";
+
+/* No comment provided by engineer. */
+"Speaker" = "Динамік";
+
+/* No comment provided by engineer. */
+"speaker" = "динамік";
+
+/* No comment provided by engineer. */
+"Specified range from %@ to %@ is invalid." = "Вказаний діапазон від %@ до %@ є недійсним.";
+
+/* No comment provided by engineer. */
+"start" = "старт";
+
+/* No comment provided by engineer. */
+"Start a system screen recording just like what you do in the Control Center." = "Почати запис екрану (аналогічно функції в Центрі управління).";
+
+/* No comment provided by engineer. */
+"Start Call Recording" = "Почати запис дзвінка";
+
+/* No comment provided by engineer. */
+"Start Date" = "Дата початку";
+
+/* No comment provided by engineer. */
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Почати або підготувати запис дзвінка/системного звуку/голосову замітку.";
+
+/* No comment provided by engineer. */
+"Start Recording" = "Почати запис";
+
+/* No comment provided by engineer. */
+"Start Screen Recording" = "Почати запис екрану";
+
+/* No comment provided by engineer. */
+"Start System Audio Recording" = "Почати запис системного звуку";
+
+/* No comment provided by engineer. */
+"Start Voice Memo Recording" = "Почати голосову замітку";
+
+/* No comment provided by engineer. */
+"status" = "статус";
+
+/* No comment provided by engineer. */
+"Stay tuned. We’re recording your call in the background." = "Триває запис дзвінка у фоновому режимі.";
+
+/* No comment provided by engineer. */
+"stop" = "стоп";
+
+/* No comment provided by engineer. */
+"Stop" = "Зупинити";
+
+/* No comment provided by engineer. */
+"Stop & Reset Service" = "Зупинити та скинути службу";
+
+/* No comment provided by engineer. */
+"Stop & Save" = "Зупинити та зберегти";
+
+/* No comment provided by engineer. */
+"Stop a call recording, system audio recording or voice memo if exists." = "Зупинити запис дзвінка/системного звуку/голосової замітки (якщо активний).";
+
+/* No comment provided by engineer. */
+"Stop a system screen recording if exists." = "Зупинити запис екрану (якщо активний).";
+
+/* No comment provided by engineer. */
+"Stop Recording" = "Зупинити запис";
+
+/* No comment provided by engineer. */
+"Stop Recording When Disk Exhausted" = "Зупиняти запис при нестачі місця";
+
+/* No comment provided by engineer. */
+"Stop Screen Recording" = "Зупинити запис екрану";
+
+/* No comment provided by engineer. */
+"Stop Service" = "Зупинити службу";
+
+/* No comment provided by engineer. */
+"Successfully authorized to Google and connected to Google Drive." = "Успішна авторизація в Google та підключення до Google Drive.";
+
+/* No comment provided by engineer. */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Успішна авторизація в Microsoft та підключення до OneDrive.";
+
+/* No comment provided by engineer. */
+"Successfully connected to Dropbox." = "Успішне підключення до Dropbox.";
+
+/* No comment provided by engineer. */
+"Successfully connected to the server %@." = "Успішне підключення до сервера %@.";
+
+/* No comment provided by engineer. */
+"Suggested" = "Рекомендовані";
+
+/* No comment provided by engineer. */
+"Suggested Applications" = "Рекомендовані програми";
+
+/* No comment provided by engineer. */
+"Sync" = "Синхронізація";
+
+/* No comment provided by engineer. */
+"Sync Service Mode" = "Режим синхронізації";
+
+/* No comment provided by engineer. */
+"Sync Service Provider" = "Провайдер синхронізації";
+
+/* No comment provided by engineer. */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Синхронізація: ідентичність локальних та хмарних записів (змінюються лише хмарні дані).";
+
+/* No comment provided by engineer. */
+"synchronization" = "синхронізація";
+
+/* No comment provided by engineer. */
+"Synchronization Failed" = "Помилка синхронізації";
+
+/* No comment provided by engineer. */
+"Synchronize the playback status of the recording with Control Center." = "Синхронізувати статус відтворення з Центром керування.";
+
+/* No comment provided by engineer. */
+"Synchronizing" = "Синхронізація";
+
+/* No comment provided by engineer. */
+"Syntax or usage error occurred." = "Помилка синтаксису або використання.";
+
+/* No comment provided by engineer. */
+"System Applications" = "Системні програми";
+
+/* No comment provided by engineer. */
+"System Audio" = "Системний звук";
+
+/* No comment provided by engineer. */
+"System Audio Recording" = "Запис системного звуку";
+
+/* No comment provided by engineer. */
+"system audio recording" = "запис системного звуку";
+
+/* No comment provided by engineer. */
+"System Language" = "Системна мова";
+
+/* No comment provided by engineer. */
+"System Record" = "Системний запис";
+
+/* No comment provided by engineer. */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Торкніться __будь-якого краю__, щоб вибрати його як ___активний край___.";
+
+/* No comment provided by engineer. */
+"Tap again to make a phone call." = "Натисніть ще раз, щоб здійснити дзвінок.";
+
+/* No comment provided by engineer. */
+"Tap again to open or search the location in Maps." = "Натисніть ще раз, щоб відкрити/знайти місце в Картах.";
+
+/* No comment provided by engineer. */
+"Tap again to start a FaceTime call." = "Натисніть ще раз, щоб розпочати FaceTime-дзвінок.";
+
+/* No comment provided by engineer. */
+"Tap to add required widget." = "Натисніть, щоб додати віджет.";
+
+/* No comment provided by engineer. */
+"Tap to calculate the total size of all recordings." = "Натисніть, щоб підрахувати загальний розмір записів.";
+
+/* No comment provided by engineer. */
+"Tap to Copy" = "Натисніть, щоб скопіювати";
+
+/* No comment provided by engineer. */
+"Tap to Exit" = "Натисніть, щоб вийти";
+
+/* No comment provided by engineer. */
+"Tap to open settings." = "Натисніть, щоб відкрити налаштування.";
+
+/* No comment provided by engineer. */
+"Tap to view details" = "Натисніть, щоб переглянути деталі";
+
+/* No comment provided by engineer. */
+"Temporarily Ignore" = "Тимчасово ігнорувати";
+
+/* No comment provided by engineer. */
+"Temporary error occurred, more retries might fix." = "Тимчасова помилка, повторні спроби можуть допомогти.";
+
+/* No comment provided by engineer. */
+"terminate" = "завершити";
+
+/* No comment provided by engineer. */
+"Terminate all active calls immediately." = "Негайно завершити всі активні дзвінки.";
+
+/* No comment provided by engineer. */
+"Terminate Calls" = "Завершити дзвінки";
+
+/* No comment provided by engineer. */
+"Test Connection" = "Перевірити з’єднання";
+
+/* No comment provided by engineer. */
+"text-to-speech" = "текст-в-мова";
+
+/* No comment provided by engineer. */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "Система перервала %@. Ви можете конвертувати запис вручну пізніше.";
+
+/* No comment provided by engineer. */
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Невідома помилка: демон запуску не відповідає. Відбувається повторне підключення. Якщо проблема не зникне, перевстановіть програму.";
+
+/* No comment provided by engineer. */
+"The application will launch automatically when recording ends." = "Програма запуститься автоматично після завершення запису.";
+
+/* No comment provided by engineer. */
+"The audio file to be played to the opposite side." = "Аудіофайл для відтворення співрозмовнику.";
+
+/* No comment provided by engineer. */
+"The bundle identifier of the application that initiated the call." = "Ідентифікатор програми, яка ініціювала дзвінок.";
+
+/* No comment provided by engineer. */
+"The content of text file “%@” is empty." = "Текстовий файл “%@” порожній.";
+
+/* No comment provided by engineer. */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Поточний статус дзвінка. Можливі значення: Набір, З’єднано, Завершено, Невідомо.";
+
+/* No comment provided by engineer. */
+"The date and time when the audio was created." = "Дата та час створення аудіо.";
+
+/* No comment provided by engineer. */
+"The device will vibrate with special haptic patterns when recording starts and ends." = "Пристрій вібруватиме при початку/завершенні запису.";
+
+/* No comment provided by engineer. */
+"The direction of the call. May not available for all audio files." = "Напрямок дзвінка. Може бути недоступним для деяких аудіофайлів.";
+
+/* No comment provided by engineer. */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "Напрямок дзвінка. Можливі значення: Вхідний, Вихідний, Невідомо.";
+
+/* No comment provided by engineer. */
+"The display name of the application that initiated the call." = "Назва програми, яка ініціювала дзвінок.";
+
+/* No comment provided by engineer. */
+"The field of information to get." = "Поле інформації для отримання.";
+
+/* No comment provided by engineer. */
+"The file format of the selected audio file." = "Формат обраного аудіофайлу.";
+
+/* No comment provided by engineer. */
+"The hoverball can display even if you do not unlock your device." = "Hoverball відображається навіть на заблокованому пристрої.";
+
+/* No comment provided by engineer. */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Комбінація клавіш для «Швидкого запису» змінена на «%@».";
+
+/* No comment provided by engineer. */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "Остання версія «TrollRecorder»: %@ (%@). Поточна версія: %@ (%@).";
+
+/* No comment provided by engineer. */
+"The location metadata will be continuously updated while the recording is in progress." = "Метадані місця запису оновлюються під час запису.";
+
+/* No comment provided by engineer. */
+"The location where the recording was recorded." = "Місце, де було зроблено запис.";
+
+/* No comment provided by engineer. */
+"The maximum seconds to wait for calls to be connected." = "Максимальний час очікування з’єднання (у секундах).";
+
+/* No comment provided by engineer. */
+"The missing location metadata will be populated if you open the application right after the recording." = "Відсутні метадані місця заповняться при відкритті додатку одразу після запису.";
+
+/* No comment provided by engineer. */
+"The name of the contact." = "Ім’я контакту.";
+
+/* No comment provided by engineer. */
+"The name of the sender." = "Ім’я відправника.";
+
+/* No comment provided by engineer. */
+"The number of samples per second, higher sample rate means better audio quality with larger file size." = "Частота дискретизації (чим вища — тим краща якість, але більший розмір файлу).";
+
+/* No comment provided by engineer. */
+"The phone number of the contact." = "Номер телефону контакту.";
+
+/* No comment provided by engineer. */
+"The phone number of the sender." = "Номер телефону відправника.";
+
+/* No comment provided by engineer. */
+"The phone number. Third party application or CallKit calls may not have this value." = "Номер телефону. Може бути відсутнім для сторонніх додатків або CallKit.";
+
+/* No comment provided by engineer. */
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Режим постобробки: Combine — динаміки в лівий канал, мікрофон у правий; Mixed — мікшування каналів.";
+
+/* No comment provided by engineer. */
+"The primary button action at the right side of the hoverball when no call is active." = "Дія основної кнопки hoverball (права сторона) без активного дзвінка.";
+
+/* No comment provided by engineer. */
+"The service is not properly configured." = "Служба налаштована неправильно.";
+
+/* No comment provided by engineer. */
+"The service operator name of the sender." = "Оператор зв’язку відправника.";
+
+/* No comment provided by engineer. */
+"The size of selected audio file." = "Розмір обраного аудіофайлу.";
+
+/* No comment provided by engineer. */
+"The text to be played to the opposite side." = "Текст для відтворення співрозмовнику.";
+
+/* No comment provided by engineer. */
+"The time interval before the hoverball becomes idle." = "Час до переходу hoverball у режим бездіяльності.";
+
+/* No comment provided by engineer. */
+"The type of content to be recorded." = "Тип контенту для запису.";
+
+/* No comment provided by engineer. */
+"The unique identifier of the call." = "Унікальний ідентифікатор дзвінка.";
+
+/* No comment provided by engineer. */
+"The unique identifier of the provider application." = "Унікальний ідентифікатор додатку-провайдера.";
+
+/* No comment provided by engineer. */
+"The URL is not valid." = "Недійсний URL.";
+
+/* No comment provided by engineer. */
+"There is nothing but air." = "Тут пусто.";
+
+/* No comment provided by engineer. */
+"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "Фонова служба може не конвертувати запис відразу. Тепер ви можете завершити цей крок вручну!";
+
+/* No comment provided by engineer. */
+"There was a problem verifying your identity." = "Помилка перевірки вашої особи.";
+
+/* No comment provided by engineer. */
+"This feature requires a paid subscription. Please upgrade to use this feature." = "Для цієї функції потрібна платна підписка.";
+
+/* No comment provided by engineer. */
+"This field accept phone number for matching contact." = "Це поле приймає номер телефону для пошуку контакту.";
+
+/* No comment provided by engineer. */
+"This field accept phone number or an email address for matching contact." = "Це поле приймає номер телефону або email для пошуку контакту.";
+
+/* No comment provided by engineer. */
+"This is a sandbox build, the daemon is not available." = "Це тестова збірка — демон недоступний.";
+
+/* No comment provided by engineer. */
+"This is a widget daemon for Troll Recorder." = "Це демон віджета для Troll Recorder.";
+
+/* No comment provided by engineer. */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "Ця опція впливає на «Швидкий запис» і «Комбінацію клавіш».";
+
+/* No comment provided by engineer. */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "Ця опція замінює дію «Утримання» для Hoverball.";
+
+/* No comment provided by engineer. */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "Цей запис містить кілька варіантів аудіо. Збереження видалить інші версії. Продовжити чи зберегти копію?";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Цей запис із WeChat. Асистент WeChat збереже імена контактів.\nПридбати TrollRecorder Pro для активації асистента?";
+
+/* No comment provided by engineer. */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Цей запис із WeChat. Асистент WeChat збереже імена контактів.\nАктивувати асистента зараз?";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "Ця версія WeChat (%@) не підтримується. Оновіть додаток.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Ця версія WeChat (%@) не тестувалася. Деякі функції можуть працювати некоректно.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "Ця версія WeChat (%@) підтримується частково. Рекомендуємо оновити.";
+
+/* No comment provided by engineer. */
+"This version of WeChat (%@) is supported." = "Ця версія WeChat (%@) підтримується.";
+
+/* No comment provided by engineer. */
+"Three-digit Milliseconds" = "Тризначні мілісекунди";
+
+/* No comment provided by engineer. */
+"Time Sensitive" = "Термінове";
+
+/* No comment provided by engineer. */
+"Title" = "Назва";
+
+/* No comment provided by engineer. */
+"To %@" = "Для: %@";
+
+/* No comment provided by engineer. */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Для активації «Launch Shield» додайте віджет TrollRecorder на екран. Натисніть «Додати», потім перемістіть його.";
+
+/* No comment provided by engineer. */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Для налаштування iCloud Drive перейдіть у «Налаштування» → «Стілка даних» → «iCloud Drive».";
+
+/* No comment provided by engineer. */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "Налаштування сповіщень синхронізації у розділі «Мережеве сховище».";
+
+/* No comment provided by engineer. */
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "Для налаштування «Утримання» видаліть ярлик у «Автоматизація» → «Утримання Hoverball».";
+
+/* No comment provided by engineer. */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "Для точної історії дзвінків використайте TrollFools для інтеграції з WeChat.";
+
+/* No comment provided by engineer. */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Для доступу WebDAV оберіть «Завжди» або «Під час використання» для TrollRecorder.";
+
+/* No comment provided by engineer. */
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Для «Розумного архіву» увімкніть фонове оновлення TrollRecorder.";
+
+/* No comment provided by engineer. */
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Для «Розумного архіву» увійдіть у iCloud Drive у «Налаштуваннях».";
+
+/* No comment provided by engineer. */
+"To: %@" = "Для: %@";
+
+/* No comment provided by engineer. */
+"toggle" = "перемкнути";
+
+/* No comment provided by engineer. */
+"Toggle ${requestedMode}" = "Перемкнути ${requestedMode}";
+
+/* No comment provided by engineer. */
+"Toggle Call Recording" = "Перемкнути запис дзвінка";
+
+/* No comment provided by engineer. */
+"Toggle Hoverball" = "Перемкнути Hoverball";
+
+/* No comment provided by engineer. */
+"Toggle ON/OFF the recorder hoverball." = "Увімкнути/вимкнути Hoverball.";
+
+/* No comment provided by engineer. */
+"Toggle Recording" = "Перемкнути запис";
+
+/* No comment provided by engineer. */
+"Toggle Screen Recording" = "Перемкнути запис екрана";
+
+/* No comment provided by engineer. */
+"Toggle System Audio Recording" = "Перемкнути запис системного звуку";
+
+/* No comment provided by engineer. */
+"Toggle system screen recording just like what you do in the Control Center." = "Перемкнути запис екрана (як у Центрі керування).";
+
+/* No comment provided by engineer. */
+"Toggle Voice Memo Recording" = "Перемкнути голосову нотатку";
+
+/* No comment provided by engineer. */
+"Token expired. Please re-authorize to continue." = "Токен застарів. Повторно авторизуйтесь.";
+
+/* No comment provided by engineer. */
+"top edge" = "верхній край";
+
+/* No comment provided by engineer. */
+"Total size is %@, path is %@" = "Загальний розмір: %@, шлях: %@";
+
+/* No comment provided by engineer. */
+"Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"To…" = "Для…";
+
+/* No comment provided by engineer. */
+"Track Location Updates" = "Відстежувати місцезнаходження";
+
+/* No comment provided by engineer. */
+"trailing edge" = "задній край";
+
+/* No comment provided by engineer. */
+"Transcript" = "Транскрипт";
+
+/* No comment provided by engineer. */
+"Transfer exceeded." = "Перевищено ліміт передачі.";
+
+/* No comment provided by engineer. */
+"Transition When Idle" = "Анімація бездіяльності";
+
+/* To translators: Replace @AUTHOR_NAME with your name. */
+"Translated by @AUTHOR_NAME" = "Переклад: @RAYMONCE";
+
+/* No comment provided by engineer. */
+"Trim" = "Обрізати";
+
+/* No comment provided by engineer. */
+"Troll Recorder" = "Troll Recorder";
+
+/* No comment provided by engineer. */
+"tts" = "TTS";
+
+/* No comment provided by engineer. */
+"Turn this option off to make the other options on this page take effect for the current application." = "Вимкніть цю опцію, щоб інші налаштування застосувались.";
+
+/* No comment provided by engineer. */
+"Two-digit Day of Month Number" = "Двозначний день місяця";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 12-hour Clock" = "Двозначний час (12-годинний формат)";
+
+/* No comment provided by engineer. */
+"Two-digit Hours, 24-hour Clock" = "Двозначний час (24-годинний формат)";
+
+/* No comment provided by engineer. */
+"Two-digit Minutes" = "Двозначні хвилини";
+
+/* No comment provided by engineer. */
+"Two-digit Month Number" = "Двозначний номер місяця";
+
+/* No comment provided by engineer. */
+"Two-digit Seconds" = "Двозначні секунди";
+
+/* No comment provided by engineer. */
+"Type to search…" = "Пошук…";
+
+/* No comment provided by engineer. */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Не вдалося знайти папку для синхронізації. Створіть «TrollRecorder/Recordings» у сховищі.";
+
+/* No comment provided by engineer. */
+"Unable to locate your personal “OneDrive”." = "Не вдалося знайти ваш OneDrive.";
+
+/* No comment provided by engineer. */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Потрібна повна синхронізація (покрокова неможлива).";
+
+/* No comment provided by engineer. */
+"Unauthorize" = "Відкликати доступ";
+
+/* No comment provided by engineer. */
+"Uncompressed" = "Без стиснення";
+
+/* No comment provided by engineer. */
+"Underscore" = "Підкреслення";
+
+/* No comment provided by engineer. */
+"Unknown" = "Невідомо";
+
+/* No comment provided by engineer. */
+"Unknown Address" = "Невідома адреса";
+
+/* No comment provided by engineer. */
+"Unknown Artist" = "Невідомий виконавець";
+
+/* No comment provided by engineer. */
+"Unknown Direction" = "Невідомий напрямок";
+
+/* No comment provided by engineer. */
+"Unknown Duration" = "Невідома тривалість";
+
+/* No comment provided by engineer. */
+"Unknown Error" = "Невідома помилка";
+
+/* No comment provided by engineer. */
+"Unknown error occurred." = "Сталася невідома помилка.";
+
+/* No comment provided by engineer. */
+"Unknown error occurred. Please check the log for more details." = "Невідома помилка. Деталі в журналі.";
+
+/* No comment provided by engineer. */
+"Unknown File Format" = "Невідомий формат файлу";
+
+/* No comment provided by engineer. */
+"Unknown Location" = "Невідоме місцезнаходження";
+
+/* No comment provided by engineer. */
+"Unknown Operator" = "Невідомий оператор";
+
+/* No comment provided by engineer. */
+"Unknown Phone Address" = "Невідомий номер";
+
+/* No comment provided by engineer. */
+"Unknown Place" = "Невідоме місце";
+
+/* No comment provided by engineer. */
+"Unknown Provider" = "Невідомий провайдер";
+
+/* No comment provided by engineer. */
+"Unknown Sample Rate" = "Невідома частота дискретизації";
+
+/* No comment provided by engineer. */
+"Unknown Sender" = "Невідомий відправник";
+
+/* No comment provided by engineer. */
+"Unknown Type" = "Невідомий тип";
+
+/* No comment provided by engineer. */
+"Unknown Variant" = "Невідомий варіант";
+
+/* No comment provided by engineer. */
+"Unlock all features?" = "Розблокувати всі функції?";
+
+/* No comment provided by engineer. */
+"Unmark" = "Зняти позначку";
+
+/* No comment provided by engineer. */
+"unmute" = "увімкнути звук";
+
+/* No comment provided by engineer. */
+"Unmute ${requestedChannel}" = "Увімкнути звук ${requestedChannel}";
+
+/* No comment provided by engineer. */
+"Unmute Existing Calls" = "Увімкнути звук поточних дзвінків";
+
+/* No comment provided by engineer. */
+"Unmute specified channel of all existing calls." = "Увімкнути звук вказаного каналу у всіх дзвінках.";
+
+/* No comment provided by engineer. */
+"Unspecified" = "Не вказано";
+
+/* No comment provided by engineer. */
+"Unsupported Configuration" = "Непідтримувана конфігурація";
+
+/* No comment provided by engineer. */
+"Untitled" = "Без назви";
+
+/* No comment provided by engineer. */
+"Up to 5 Personal Devices" = "До 5 особистих пристроїв";
+
+/* No comment provided by engineer. */
+"Updating…" = "Оновлення…";
+
+/* No comment provided by engineer. */
+"Upgrade Now" = "Оновити зараз";
+
+/* No comment provided by engineer. */
+"Upgrade to %@" = "Оновити до %@";
+
+/* No comment provided by engineer. */
+"uplink" = "вихідний";
+
+/* No comment provided by engineer. */
+"Uplink (Microphone)" = "Вихідний (мікрофон)";
+
+/* No comment provided by engineer. */
+"Upload" = "Завантажити";
+
+/* No comment provided by engineer. */
+"Upload, download or synchronize recordings between local and cloud drive." = "Завантаження, вивантаження чи синхронізація записів з хмарним сховищем.";
+
+/* No comment provided by engineer. */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Завантаження: записи зберігаються у хмару в оригіналі. Можливе відновлення.";
+
+/* No comment provided by engineer. */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Використовувати біометрію для розблокування. Фонове відтворення вимкнено.";
+
+/* No comment provided by engineer. */
+"Use Cellular Network" = "Використовувати мобільний інтернет";
+
+/* No comment provided by engineer. */
+"Use Date" = "Використовувати дату";
+
+/* No comment provided by engineer. */
+"Use Date Range" = "Використовувати діапазон дат";
+
+/* No comment provided by engineer. */
+"Use Default Settings" = "Використовувати типові налаштування";
+
+/* No comment provided by engineer. */
+"Use Haptic Patterns" = "Використовувати тактильні шаблони";
+
+/* No comment provided by engineer. */
+"Use Media Controls" = "Використовувати медіакерування";
+
+/* No comment provided by engineer. */
+"Use Recycle Bin" = "Використовувати кошик";
+
+/* No comment provided by engineer. */
+"Use Snapshot Transition" = "Використовувати перехід через знімок";
+
+/* No comment provided by engineer. */
+"User Agreement" = "Угода користувача";
+
+/* No comment provided by engineer. */
+"User Applications" = "Користувацькі програми";
+
+/* No comment provided by engineer. */
+"User denied access to speech recognition." = "Користувач заблокував доступ до розпізнавання мови";
+
+/* No comment provided by engineer. */
+"User Initiated Recording" = "Запис ініційований користувачем";
+
+/* No comment provided by engineer. */
+"User Interface Style" = "Стиль інтерфейсу";
+
+/* No comment provided by engineer. */
+"Username (Optional)" = "Ім'я користувача (необов'язково)";
+
+/* No comment provided by engineer. */
+"Utility" = "Утиліта";
+
+/* No comment provided by engineer. */
+"Variant" = "Варіант";
+
+/* No comment provided by engineer. */
+"Variant Capitalized" = "Варіант (з великої літери)";
+
+/* No comment provided by engineer. */
+"Variant Description" = "Опис варіанту";
+
+/* No comment provided by engineer. */
+"Verification Failed" = "Перевірку не пройдено";
+
+/* No comment provided by engineer. */
+"Verify License" = "Перевірити ліцензію";
+
+/* No comment provided by engineer. */
+"Version %@ Build %@" = "Версія %@ Збірка %@";
+
+/* No comment provided by engineer. */
+"Version %@ Build %@ - New Version %@ Build %@" = "Версія %@ Збірка %@ - Нова версія %@ Збірка %@";
+
+/* No comment provided by engineer. */
+"Vibrate" = "Вібрація";
+
+/* No comment provided by engineer. */
+"View" = "Перегляд";
+
+/* No comment provided by engineer. */
+"View Details" = "Перегляд деталей";
+
+/* No comment provided by engineer. */
+"View Logs" = "Перегляд журналів";
+
+/* No comment provided by engineer. */
+"View Logs: Application" = "Журнали програми";
+
+/* No comment provided by engineer. */
+"View Logs: Audio Player" = "Журнали аудіоплеєра";
+
+/* No comment provided by engineer. */
+"View Logs: Call Monitor" = "Журнали монітора дзвінків";
+
+/* No comment provided by engineer. */
+"View Logs: Call Recorder" = "Журнали запису дзвінків";
+
+/* No comment provided by engineer. */
+"View Logs: Hoverball" = "Журнали Hoverball";
+
+/* No comment provided by engineer. */
+"View Logs: Launch Agent" = "Журнали агента запуску";
+
+/* No comment provided by engineer. */
+"View Logs: Network Storage" = "Журнали мережевого сховища";
+
+/* No comment provided by engineer. */
+"View Logs: Speech Utterance" = "Журнали мовного виводу";
+
+/* No comment provided by engineer. */
+"View Logs: System Audio" = "Журнали системного звуку";
+
+/* No comment provided by engineer. */
+"View Logs: Voice Memo" = "Журнали голосових нотаток";
+
+/* No comment provided by engineer. */
+"View My Account" = "Мій акаунт";
+
+/* No comment provided by engineer. */
+"View Recording Details" = "Перегляд деталей запису";
+
+/* No comment provided by engineer. */
+"VIP contacts will always be recorded and added to the favourites." = "VIP-контакти завжди записуватимуться та додаватимуться до обраного";
+
+/* No comment provided by engineer. */
+"Voice Memo" = "Голосова нотатка";
+
+/* No comment provided by engineer. */
+"Voice Memo Recording" = "Запис голосової нотатки";
+
+/* No comment provided by engineer. */
+"voice memo recording" = "запис голосової нотатки";
+
+/* No comment provided by engineer. */
+"Voice Memos" = "Голосові нотатки";
+
+/* No comment provided by engineer. */
+"voice-over" = "закадровий голос";
+
+/* No comment provided by engineer. */
+"Voice-Over Voice" = "Голос за кадром";
+
+/* No comment provided by engineer. */
+"VoIP" = "VoIP";
+
+/* No comment provided by engineer. */
+"Volume" = "Гучність";
+
+/* No comment provided by engineer. */
+"wait" = "очікування";
+
+/* No comment provided by engineer. */
+"Wait for ${requestedTimeout} seconds" = "Очікувати ${requestedTimeout} секунд";
+
+/* No comment provided by engineer. */
+"Wait for any calls to be answered and connected." = "Очікувати відповіді та підключення дзвінка";
+
+/* No comment provided by engineer. */
+"Wait for Calls" = "Очікувати дзвінки";
+
+/* No comment provided by engineer. */
+"Wait for Connected Calls" = "Очікувати підключені дзвінки";
+
+/* No comment provided by engineer. */
+"Warning, your call is being recorded now. Warning, your call is being recorded now." = "Увага: ваш розмову записується. Увага: ваш розмову записується.";
+
+/* No comment provided by engineer. */
+"Waveform Audio" = "Waveform Audio";
+
+/* No comment provided by engineer. */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "Не вдалося перевірити покупку через неточний час. Переконайтеся, що час на пристрої встановлено правильно.";
+
+/* No comment provided by engineer. */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Не вдалося перевірити покупку в приватному режимі. Вимкніть приватний режим Safari.";
+
+/* No comment provided by engineer. */
+"We love colorful and moving backgrounds, but option here for you to disable it." = "Ми любимо яскраві анімовані фони, але ви можете вимкнути їх тут.";
+
+/* No comment provided by engineer. */
+"WebDAV" = "WebDAV";
+
+/* No comment provided by engineer. */
+"WebDAV Server" = "WebDAV сервер";
+
+/* No comment provided by engineer. */
+"WeChat" = "WeChat";
+
+/* No comment provided by engineer. */
+"WeChat Assistant" = "Помічник WeChat";
+
+/* No comment provided by engineer. */
+"Welcome to" = "Ласкаво просимо до";
+
+/* No comment provided by engineer. */
+"We’re recording system audio in the background." = "Триває запис системного звуку у фоні.";
+
+/* No comment provided by engineer. */
+"We’re recording your voice memo in the background." = "Триває запис вашої голосової нотатки у фоні.";
+
+/* No comment provided by engineer. */
+"We’ve got a new phone call recording!" = "У нас новий запис дзвінка!";
+
+/* No comment provided by engineer. */
+"We’ve got a new system audio recording!" = "У нас новий запис системного звуку!";
+
+/* No comment provided by engineer. */
+"We’ve got a new voice memo!" = "У нас нова голосова нотатка!";
+
+/* No comment provided by engineer. */
+"We’ve got new phone call recordings!" = "У нас нові записи дзвінків!";
+
+/* No comment provided by engineer. */
+"What’s New" = "Що нового";
+
+/* No comment provided by engineer. */
+"When any of the following actions is triggered, run the shortcut without any notification." = "При активації будь-якої з наступних дій запускати сценарій без сповіщень.";
+
+/* No comment provided by engineer. */
+"When Foreground" = "Коли на передньому плані";
+
+/* No comment provided by engineer. */
+"When Locked" = "При блокуванні";
+
+/* No comment provided by engineer. */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Якщо Wi-Fi недоступний, використовувати мобільний інтернет для передачі записів. Можуть стягуватися додаткові кошти.";
+
+/* No comment provided by engineer. */
+"When there is no call…" = "Коли немає дзвінків…";
+
+/* No comment provided by engineer. */
+"When Visible" = "Коли видно";
+
+/* No comment provided by engineer. */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "Якщо WebDAV сервер увімкнено, дозволяти доступ через звичайні браузери (Safari, Chrome, Edge тощо)";
+
+/* No comment provided by engineer. */
+"Whether to force the application to use the light or the dark user interface." = "Примусово встановлювати світлий або темний інтерфейс програми.";
+
+/* No comment provided by engineer. */
+"Whether to force the hoverball to use the light or the dark style." = "Примусово встановлювати світлий або темний стиль для hoverball.";
+
+/* No comment provided by engineer. */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Нескінченно повторювати відтворення аудіо. Якщо увімкнено, дія завершиться відразу після початку відтворення.";
+
+/* No comment provided by engineer. */
+"Which channel to mute." = "Який канал вимкнути.";
+
+/* No comment provided by engineer. */
+"Which channel to unmute." = "Який канал увімкнути.";
+
+/* No comment provided by engineer. */
+"Which edges of the screen the hoverball can be attached to." = "До яких країв екрану можна прикріпляти hoverball.";
+
+/* No comment provided by engineer. */
+"Why don’t you make a phone call?" = "Чому б не зателефонувати?";
+
+/* No comment provided by engineer. */
+"Will start recording automatically on audio or video calls in the current application." = "Автоматично записувати аудіо- та відеодзвінки в поточному додатку.";
+
+/* No comment provided by engineer. */
+"Will start recording automatically on audio or video calls." = "Автоматично записувати аудіо- та відеодзвінки.";
+
+/* No comment provided by engineer. */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Додавати ID3-теги до експортованих аудіофайлів (назва, виконавець, альбом, жанр, рік та обкладинка).";
+
+/* No comment provided by engineer. */
+"Write latitude and longitude to the recording metadata." = "Записувати координати (широту та довготу) до метаданих запису.";
+
+/* No comment provided by engineer. */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Записувати логи роботи у файлову систему. Для застосування змін потрібно перезапустити служби.";
+
+/* No comment provided by engineer. */
+"Year Month Day" = "Рік Місяць День";
+
+/* No comment provided by engineer. */
+"YES" = "ТАК";
+
+/* No comment provided by engineer. */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "Ви збираєтеся повністю видалити всі записи, скинути налаштування та очистити кеш.\nЦЮ ДІЮ НЕМОЖЛИВО СКАСУВАТИ!";
+
+/* TODO */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
+
+/* No comment provided by engineer. */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Ви можете завантажити голосовий пакет у “Налаштування” → “Спеціальні можливості” → “VoiceOver” → “Мова” → “Голоси”, а потім обрати його тут для голосових оголошень.";
+
+/* No comment provided by engineer. */
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Для визначення місцезнаходження у фоні оберіть “Завжди” для “Troll Recorder”. Якщо обрати “Під час використання програми”, координати оновлюватимуться лише після запуску додатку.";
+
+/* No comment provided by engineer. */
+"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Для застосування налаштувань на цій сторінці може знадобитися увімкнути “Розширений автоматичний запис” або “Розширене визначення сцени”.";
+
+/* No comment provided by engineer. */
+"You may need to reboot your device to make this application work properly." = "Для коректної роботи програми може знадобитися перезавантаження пристрою.";
+
+/* No comment provided by engineer. */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Ваші дані з %@ будуть завантажені та об'єднані із записами у “%@”.";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder JB”." = "Ви використовуєте безкоштовну версію “TrollRecorder JB”.";
+
+/* No comment provided by engineer. */
+"You’re now using the free version of “TrollRecorder”." = "Ви використовуєте безкоштовну версію “TrollRecorder”.";
+
+/* No comment provided by engineer. */
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Ви змінили мову інтерфейсу програми на “%@”. Для повного застосування змін необхідний respring.";
+
+/* No comment provided by engineer. */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Ви змінили “Спеціальну назву експорту”. Бажаєте перестворити архівні записи в “Мережевому сховищі”?\nЦя операція може зайняти час і витратити мобільний трафік. Рекомендуємо видалити “TrollRecorder/ArchivedRecordings” з хмарних сховищ, щоб уникнути дублювання.";
+
+/* No comment provided by engineer. */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "Ви продовжили без дійсного підпису коду. Ви можете переглядати та експортувати існуючі записи, але інші функції можуть бути недоступні.";
+
+/* No comment provided by engineer. */
+"You’ve enabled biometric authentication so it’s required to verify your identity." = "Ви ввімкнули біометричну аутентифікацію - необхідно підтвердити особу.";
+
+/* No comment provided by engineer. */
+"You’ve pressed cancel." = "Ви натиснули “Скасувати”.";
+
+/* No comment provided by engineer. */
+"You’ve pressed password." = "Ви ввели пароль.";
+
+/* No comment provided by engineer. */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* No comment provided by engineer. */
+"½ Audio CD" = "½ Audio CD";
+
+/* No comment provided by engineer. */
+"“%@” is not available." = "“%@” недоступний.";
+
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Автоматичний запис” вимкнено: дзвінки VIP завжди записуватимуться та додаватимуться до обраного, інші контакти - ні.";
+
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Автоматичний запис” увімкнено: контакти з “Списку винятків” не записуватимуться, інші - записуватимуться. Записи VIP також додаватимуться до обраного.";
+
+/* No comment provided by engineer. */
+"“Background App Refresh” Permission Denied" = "Доступ до “Фонового оновлення” заборонено";
+
+/* No comment provided by engineer. */
+"“iCloud Drive” Not Logged In" = "Не виконано вхід у “iCloud Drive”";
+
+/* TODO */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
+
+/* No comment provided by engineer. */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Встановлено обидві версії “TrollRecorder JB” та TrollStore. Видаліть їх та встановіть наново через Sileo або TrollStore.";
+
+/* No comment provided by engineer. */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” несумісний з Bootstrap (RootHide). Видаліть його та встановіть “TrollRecorder” через TrollStore.";
+
+/* No comment provided by engineer. */
+"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” несумісний з цією версією iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";
