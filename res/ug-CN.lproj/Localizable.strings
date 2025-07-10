@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "«ترول ئۈنئالغۇ»نىڭ يېڭى نەشرى %@ ئىشلىتىشكە بولىدۇ.";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "ئۆزگەرتىشلەرنى ئىشقا ئاشۇرۇش ئۈچۈن قايتا ئېچىش كېرەك. ئەگەر ئۇقتۇرۇش، لەيلىمە كۆزنەك قاتارلىق جايلاردا يېڭى تەڭشەلگەن تىل ئىشلىتىشنى ئىستىسىڭىز، «داۋاملاشتۇرۇش»نى چېكىڭ.";
+"A respring is required to completely apply the changes." = "ئۆزگەرتىشلەرنى ئىشقا ئاشۇرۇش ئۈچۈن قايتا ئېچىش كېرەك. ئەگەر ئۇقتۇرۇش، لەيلىمە كۆزنەك قاتارلىق جايلاردا يېڭى تەڭشەلگەن تىل ئىشلىتىشنى ئىستىسىڭىز، «داۋاملاشتۇرۇش»نى چېكىڭ.";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "«قوزغىتىش قوغدىغۇچى» ئىقتىدارى ئۈچۈن كىچىك پروگرامما زۆرۈر.";
@@ -2239,6 +2239,9 @@
 /* No comment provided by engineer. */
 "Semi-Transparent" = "يېرىم سۈزۈك";
 
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
+
 /* No comment provided by engineer. */
 "Sender Name" = "سىم كارتا ئاتى";
 
@@ -3293,7 +3296,7 @@
 "You’re now using the free version of “TrollRecorder”." = "سىز ھازىر تىرول ئۈنئالغۇنىڭ سىناق نۇسخىسىنى ئىشلىتىۋاتىسىز.";
 
 /* TODO */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes.";
 
 /* TODO */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates.";

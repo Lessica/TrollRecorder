@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "巨魔录音机有新版本 %@ 可用。";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
+"A respring is required to completely apply the changes." = "退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "“启动守护” 功能需要一个小组件。";
@@ -2240,6 +2240,9 @@
 "Semi-Transparent" = "半透明";
 
 /* No comment provided by engineer. */
+"Send Diagnostic" = "发送诊断信息";
+
+/* No comment provided by engineer. */
 "Sender Name" = "号卡名称";
 
 /* No comment provided by engineer. */
@@ -3293,7 +3296,7 @@
 "You’re now using the free version of “TrollRecorder”." = "你现在正在试用巨魔录音机。";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "你已将此应用程序的显示语言更改为 “%@”。退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "你已将此应用程序的显示语言更改为 “%@”。退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "你修改了 “自定义导出名称” 选项。你想重新生成 “网络存储” 中已归档的录音吗？\n此操作可能需要一段时间并消耗额外的蜂窝数据流量。在此之前，你需要在服务提供商的网页后台上手动清理名为 “TrollRecorder/ArchivedRecordings” 的目录以避免重复归档。";

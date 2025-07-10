@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "Доступна новая версия (%@) «TrollRecorder».";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "Для применения изменений требуется respring.";
+"A respring is required to completely apply the changes." = "Для применения изменений требуется respring.";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "Для функции «Launch Shield» требуется виджет.";
@@ -2239,6 +2239,9 @@
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Полупрозрачный";
 
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
+
 /* No comment provided by engineer. */
 "Sender Name" = "Имя отправителя";
 
@@ -3293,7 +3296,7 @@
 "You’re now using the free version of “TrollRecorder”." = "Вы используете бесплатную версию “TrollRecorder”.";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "Вы изменили язык приложения на “%@”. Для полного применения изменений требуется respring.";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Вы изменили язык приложения на “%@”. Для полного применения изменений требуется respring.";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Вы изменили “Пользовательское имя экспорта”. Пересоздать архивные записи в “Сетевом хранилище”?\nОперация может занять время и расходовать мобильный трафик. Рекомендуется удалить “TrollRecorder/ArchivedRecordings” из облака во избежание дублирования.";

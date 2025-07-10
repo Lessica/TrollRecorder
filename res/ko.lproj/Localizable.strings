@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "TrollRecorder”의 새 버전 (%@)을 사용할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "변경 사항을 완전히 적용하려면 리스프링이 필요합니다.";
+"A respring is required to completely apply the changes." = "변경 사항을 완전히 적용하려면 리스프링이 필요합니다.";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "“시작 데몬” 기능에 위젯이 필요합니다.";
@@ -2239,6 +2239,9 @@
 /* No comment provided by engineer. */
 "Semi-Transparent" = "반투명";
 
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
+
 /* No comment provided by engineer. */
 "Sender Name" = "발신자 이름";
 
@@ -3293,7 +3296,7 @@
 "You’re now using the free version of “TrollRecorder”." = "귀하는 현재 “TrollRecorder” 무료 버전을 사용하고 계십니다.";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "응용 프로그램의 표시 언어를 “%@“(으)로 변경했습니다. 변경사항을 완전히 적용하려면 다시 실행해야 합니다.";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "응용 프로그램의 표시 언어를 “%@“(으)로 변경했습니다. 변경사항을 완전히 적용하려면 다시 실행해야 합니다.";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "“사용자 설정 내보내기 이름“을 변경했습니다. “네트워크 스토리지“에 보관된 녹음을 다시 생성하시겠습니까?\n이 작업에는 시간이 걸리고 추가 셀룰러 데이터를 소모할 수 있습니다. 그 전에 반복적인 보관을 피하기 위해 서비스 공급자의 웹 백엔드에서 “TrollRecorder/ArchivedRecordings“라는 디렉토리를 수동으로 정리해야 합니다.";
