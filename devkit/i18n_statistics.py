@@ -15,6 +15,7 @@ available_languages = [
     'ru',
     'tr',
     'ug-CN',
+    'uk',
     'vi',
     'zh-Hans',
     'zh-Hant-HK',
