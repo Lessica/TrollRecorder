@@ -1231,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ігнорувати дати змін та створити повні копії записів.";
 
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "За 1 годину";
 
@@ -2100,6 +2103,9 @@
 
 /* No comment provided by engineer. */
 "Restart Render Server" = "Перезапустити сервер рендерингу";
+
+/* TODO */
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
 
 /* No comment provided by engineer. */
 "Restore" = "Відновити";

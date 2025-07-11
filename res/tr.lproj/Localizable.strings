@@ -1231,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Tüm dizin ve dosyalardaki son değişiklik tarihini yoksay ve tüm kayıtların derin bir kopyasını oluştur.";
 
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1 Saat İçinde";
 
@@ -2100,6 +2103,9 @@
 
 /* No comment provided by engineer. */
 "Restart Render Server" = "Render Sunucusunu Yeniden Başlat";
+
+/* TODO */
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
 
 /* No comment provided by engineer. */
 "Restore" = "Geri Yükle";

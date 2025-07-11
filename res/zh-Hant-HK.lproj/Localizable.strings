@@ -1231,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "忽略所有目錄和檔案的最後修改日期，並深度克隆所有錄音。";
 
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1 小時内";
 
@@ -2100,6 +2103,9 @@
 
 /* No comment provided by engineer. */
 "Restart Render Server" = "重啟渲染服務";
+
+/* TODO */
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
 
 /* No comment provided by engineer. */
 "Restore" = "恢復";

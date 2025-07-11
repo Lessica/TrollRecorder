@@ -1231,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "모든 디렉토리와 파일의 마지막 수정 날짜를 무시하고 모든 녹음을 깊은 복제합니다.";
 
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1시간 안에";
 
@@ -2100,6 +2103,9 @@
 
 /* No comment provided by engineer. */
 "Restart Render Server" = "렌더링 서버 재시작";
+
+/* TODO */
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
 
 /* No comment provided by engineer. */
 "Restore" = "복원";
