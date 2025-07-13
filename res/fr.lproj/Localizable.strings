@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "Une nouvelle version de l'application est disponible (%@).";
 
 /* TODO */
-"A resping is required to completely apply the changes." = "A resping is required to completely apply the changes.";
+"A respring is required to completely apply the changes." = "A respring is required to completely apply the changes.";
 
 /* TODO */
 "A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
@@ -1231,6 +1231,9 @@
 /* Translated with Microsoft Translator */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ignorez la date de dernière modification de tous les répertoires et fichiers et faites un clone profond de tous les enregistrements.";
 
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "Dans 1 heure";
 
@@ -2101,6 +2104,9 @@
 /* Translated with Microsoft Translator */
 "Restart Render Server" = "Redémarrer le serveur de rendu";
 
+/* TODO */
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+
 /* No comment provided by engineer. */
 "Restore" = "Restaurer";
 
@@ -2238,6 +2244,9 @@
 
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Semi-transparent";
+
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
 
 /* Translated with Microsoft Translator */
 "Sender Name" = "Nom de l'expéditeur";
@@ -2545,11 +2554,11 @@
 /* TODO */
 "Tap to view details" = "Tap to view details";
 
+/* No comment provided by engineer. */
+"Temporarily Ignore" = "Ignorer temporairement";
+
 /* TODO */
 "Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
-
-/* No comment provided by engineer. */
-"Temporary Ignore" = "Ignorer temporairement";
 
 /* Translated with Microsoft Translator */
 "terminate" = "résilier";
@@ -3293,7 +3302,7 @@
 "You’re now using the free version of “TrollRecorder”." = "Vous utilisez maintenant la version gratuite de “TrollRecorder”.";
 
 /* TODO */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes.";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes.";
 
 /* TODO */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates.";
@@ -3330,6 +3339,9 @@
 
 /* Translated with Microsoft Translator */
 "“iCloud Drive” Not Logged In" = "iCloud Drive n'est pas connecté";
+
+/* TODO */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

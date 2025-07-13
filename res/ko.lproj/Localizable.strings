@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "TrollRecorder”의 새 버전 (%@)을 사용할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "변경 사항을 완전히 적용하려면 리스프링이 필요합니다.";
+"A respring is required to completely apply the changes." = "변경 사항을 완전히 적용하려면 리스프링이 필요합니다.";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "“시작 데몬” 기능에 위젯이 필요합니다.";
@@ -1231,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "모든 디렉토리와 파일의 마지막 수정 날짜를 무시하고 모든 녹음을 깊은 복제합니다.";
 
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1시간 안에";
 
@@ -2101,6 +2104,9 @@
 /* No comment provided by engineer. */
 "Restart Render Server" = "렌더링 서버 재시작";
 
+/* TODO */
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+
 /* No comment provided by engineer. */
 "Restore" = "복원";
 
@@ -2238,6 +2244,9 @@
 
 /* No comment provided by engineer. */
 "Semi-Transparent" = "반투명";
+
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
 
 /* No comment provided by engineer. */
 "Sender Name" = "발신자 이름";
@@ -2546,10 +2555,10 @@
 "Tap to view details" = "탭하여 세부 정보 보기";
 
 /* No comment provided by engineer. */
-"Temporary error occurred, more retries might fix." = "일시적인 오류가 발생했습니다. 다시 시도하면 문제가 해결될 수 있습니다.";
+"Temporarily Ignore" = "당분간 무시";
 
 /* No comment provided by engineer. */
-"Temporary Ignore" = "당분간 무시";
+"Temporary error occurred, more retries might fix." = "일시적인 오류가 발생했습니다. 다시 시도하면 문제가 해결될 수 있습니다.";
 
 /* No comment provided by engineer. */
 "terminate" = "종료";
@@ -3293,7 +3302,7 @@
 "You’re now using the free version of “TrollRecorder”." = "귀하는 현재 “TrollRecorder” 무료 버전을 사용하고 계십니다.";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "응용 프로그램의 표시 언어를 “%@“(으)로 변경했습니다. 변경사항을 완전히 적용하려면 다시 실행해야 합니다.";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "응용 프로그램의 표시 언어를 “%@“(으)로 변경했습니다. 변경사항을 완전히 적용하려면 다시 실행해야 합니다.";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "“사용자 설정 내보내기 이름“을 변경했습니다. “네트워크 스토리지“에 보관된 녹음을 다시 생성하시겠습니까?\n이 작업에는 시간이 걸리고 추가 셀룰러 데이터를 소모할 수 있습니다. 그 전에 반복적인 보관을 피하기 위해 서비스 공급자의 웹 백엔드에서 “TrollRecorder/ArchivedRecordings“라는 디렉토리를 수동으로 정리해야 합니다.";
@@ -3330,6 +3339,9 @@
 
 /* No comment provided by engineer. */
 "“iCloud Drive” Not Logged In" = "“iCloud Drive”에 로그인되지 않음";
+
+/* TODO */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB“와 TrollStore 버전이 모두 설치되어 있습니다. 둘 다 제거하거나 Sileo에서 “TrollRecorder JB“를 다시 설치하거나 TrollStore에서 “TrollRecorder“를 다시 설치하세요.";

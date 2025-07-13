@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "巨魔錄音機有新版本 %@ 可用。";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "退出並重新打開應用程序方可生效。如果需要在推送通知、懸浮窗等位置使用新設置的語言，輕按繼續以妙手回春。";
+"A respring is required to completely apply the changes." = "退出並重新打開應用程序方可生效。如果需要在推送通知、懸浮窗等位置使用新設置的語言，輕按繼續以妙手回春。";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "啓動守護功能需要一個小組件。";
@@ -95,7 +95,7 @@
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網路中的另一台設備的WebDAV客戶端中訪問你的錄音。僅當應用程序處於前台時服務可用。";
 
 /* No comment provided by engineer. */
-"activate" = "activate";
+"activate" = "啟用";
 
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "啓動服務，並打開錄音懸浮球。";
@@ -637,8 +637,8 @@
 /* No comment provided by engineer. */
 "Custom Export Name" = "自定義導出名稱";
 
-/* TODO */
-"Custom Key Combination…" = "Custom Key Combination…";
+/* No comment provided by engineer. */
+"Custom Key Combination…" = "自定義組合鍵…";
 
 /* No comment provided by engineer. */
 "Custom Layout Guide" = "自定義安全區域";
@@ -665,7 +665,7 @@
 "Deactivate" = "反激活";
 
 /* No comment provided by engineer. */
-"deactivate" = "deactivate";
+"deactivate" = "停用";
 
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "反激活並退出登錄";
@@ -959,7 +959,7 @@
 "Error retrieving discovery document: %@" = "檢索發現文件時出錯：%@";
 
 /* No comment provided by engineer. */
-"exit" = "exit";
+"exit" = "離開";
 
 /* No comment provided by engineer. */
 "Exit Hoverball" = "關閉懸浮球";
@@ -1045,8 +1045,8 @@
 /* No comment provided by engineer. */
 "finish" = "結束";
 
-/* TODO */
-"Fix File-System" = "Fix File-System";
+/* No comment provided by engineer. */
+"Fix File-System" = "修復文件系統";
 
 /* No comment provided by engineer. */
 "Focus" = "聚焦";
@@ -1159,8 +1159,8 @@
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "隱藏語音備忘錄在鎖定螢幕上的顯示，並隱藏其靈動島活動。你需要通過 TrollFools 或類似技術將其注入到語音備忘錄應用程序中。";
 
-/* TODO */
-"Hide When Landscape" = "Hide When Landscape";
+/* No comment provided by engineer. */
+"Hide When Landscape" = "橫屏時隱藏";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "截屏時隱藏";
@@ -1190,7 +1190,7 @@
 "How would you like to call?" = "你想如何撥打電話？";
 
 /* No comment provided by engineer. */
-"hud" = "hud";
+"hud" = "抬頭顯示器";
 
 /* No comment provided by engineer. */
 "HUD_CALL_RECORDING" = "開始通話錄音";
@@ -1213,14 +1213,14 @@
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜索索引出了問題，可以在這裡重新設置。";
 
-/* TODO */
-"If there’s no active phone call, press and hold the power button to perform specified action." = "If there’s no active phone call, press and hold the power button to perform specified action.";
+/* No comment provided by engineer. */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "如果沒有活躍的電話，請按住電源按鈕以執行指定操作。";
 
 /* No comment provided by engineer. */
 "If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "當沒有活躍通話時，同時按下兩個音量鍵執行指定的動作。";
 
-/* TODO */
-"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here.";
+/* No comment provided by engineer. */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "如果您使用 Filza 修改了錄音或遇到任何檔案系統許可權問題，您可以在此處修復它們。";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果你的手機支持雙卡，錄音通話時所使用的 SIM 卡別名將顯示在這裡。";
@@ -1230,6 +1230,9 @@
 
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "忽略所有目錄和文件的最後修改日期，並深度克隆所有錄音。";
+
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
 
 /* No comment provided by engineer. */
 "In 1 Hour" = "1 小時內";
@@ -1444,8 +1447,8 @@
 /* No comment provided by engineer. */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在進行截屏或螢幕錄制時使懸浮球不可見。";
 
-/* TODO */
-"Make the hoverball invisible when the device is in landscape orientation." = "Make the hoverball invisible when the device is in landscape orientation.";
+/* No comment provided by engineer. */
+"Make the hoverball invisible when the device is in landscape orientation." = "當裝置處於橫向時，使懸停球不可見。";
 
 /* No comment provided by engineer. */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "當懸浮球閒置一段時間後，使其半透明或折疊到螢幕邊緣。";
@@ -1693,8 +1696,8 @@
 /* No comment provided by engineer. */
 "Optic ID" = "視控 ID";
 
-/* TODO */
-"Options" = "Options";
+/* No comment provided by engineer. */
+"Options" = "選項";
 
 /* No comment provided by engineer. */
 "Outgoing" = "去電";
@@ -1873,17 +1876,17 @@
 /* No comment provided by engineer. */
 "Press & Hold Hoverball" = "長按懸浮球";
 
-/* TODO */
-"Press & Hold Power Button" = "Press & Hold Power Button";
+/* No comment provided by engineer. */
+"Press & Hold Power Button" = "長按電源鍵";
 
-/* TODO */
-"Press and hold the power button to start or stop recording during a call." = "Press and hold the power button to start or stop recording during a call.";
+/* No comment provided by engineer. */
+"Press and hold the power button to start or stop recording during a call." = "按住電源鍵可在通話過程開始或停止錄音。";
 
 /* No comment provided by engineer. */
 "Press both of the physical volume buttons to start or stop recording during a call." = "通話過程中，同時按下兩個音量鍵開始或停止錄音。";
 
-/* TODO */
-"Press Both Volume Buttons" = "Press Both Volume Buttons";
+/* No comment provided by engineer. */
+"Press Both Volume Buttons" = "按下兩個音量鍵";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "預覽已關閉";
@@ -1901,13 +1904,13 @@
 "Proceed Anyway" = "仍然繼續";
 
 /* No comment provided by engineer. */
-"Process terminated by signal %d." = "Process terminated by signal %d.";
+"Process terminated by signal %d." = "進程被信號 %d 終止。";
 
 /* No comment provided by engineer. */
-"Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
+"Process terminated with exit code %d.\n%@" = "進程結束，返回值為 %1$d.\n%2$@";
 
-/* TODO */
-"Processing" = "Processing";
+/* No comment provided by engineer. */
+"Processing" = "處理中";
 
 /* No comment provided by engineer. */
 "Pulse-code modulation" = "脈衝碼調製";
@@ -2102,10 +2105,13 @@
 "Restart Render Server" = "重啓渲染服務";
 
 /* No comment provided by engineer. */
+"Restart SpringBoard and “Launch Shield” widgets." = "重新啟動 SpringBoard 和 “啟動守護” 小工具。";
+
+/* No comment provided by engineer. */
 "Restore" = "恢復";
 
 /* No comment provided by engineer. */
-"Restore %d Items From Recycle Bin" = "從回收站恢復%d個檔案";
+"Restore %d Items From Recycle Bin" = "從回收站恢復 %d 個檔案";
 
 /* No comment provided by engineer. */
 "Restore Selected %ld Items" = "恢復選中的 %ld 項";
@@ -2238,6 +2244,9 @@
 
 /* No comment provided by engineer. */
 "Semi-Transparent" = "半透明";
+
+/* No comment provided by engineer. */
+"Send Diagnostic" = "傳送診斷信息";
 
 /* No comment provided by engineer. */
 "Sender Name" = "號卡名稱";
@@ -2488,8 +2497,8 @@
 /* No comment provided by engineer. */
 "Synchronization Failed" = "同步失敗";
 
-/* TODO */
-"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
+/* No comment provided by engineer. */
+"Synchronize the playback status of the recording with Control Center." = "將錄音的播放狀態與控制中心同步。";
 
 /* No comment provided by engineer. */
 "Synchronizing" = "同步中";
@@ -2546,10 +2555,10 @@
 "Tap to view details" = "點選檢視詳細資訊";
 
 /* No comment provided by engineer. */
-"Temporary error occurred, more retries might fix." = "發生了臨時錯誤，更多的重試可能會修復。";
+"Temporarily Ignore" = "暫時忽略";
 
 /* No comment provided by engineer. */
-"Temporary Ignore" = "暫時忽略";
+"Temporary error occurred, more retries might fix." = "發生了臨時錯誤，更多的重試可能會修復。";
 
 /* No comment provided by engineer. */
 "terminate" = "終止";
@@ -2611,8 +2620,8 @@
 /* No comment provided by engineer. */
 "The hoverball can display even if you do not unlock your device." = "即使你沒有解鎖設備，懸浮球也可以顯示。";
 
-/* TODO */
-"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”.";
+/* No comment provided by engineer. */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "快速錄音和物理按鍵組合的組合鍵已更改為 “%@”。";
 
 /* No comment provided by engineer. */
 "The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "最新版本的巨魔錄音機是 %@ (%@)。當前版本是 %@ (%@)。";
@@ -2704,8 +2713,8 @@
 /* No comment provided by engineer. */
 "This is a widget daemon for Troll Recorder." = "這是巨魔錄音機的啓動守護小組件。";
 
-/* TODO */
-"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "This option affects the behavior of the “Quick Recording” and “Physical Key Combination”.";
+/* No comment provided by engineer. */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "此選項會影響快速錄音和物理按鍵組合的行為。";
 
 /* No comment provided by engineer. */
 "This option overrides the “Press & Hold Action” of the Hoverball." = "此選項將覆蓋懸浮球的長按動作。";
@@ -2771,7 +2780,7 @@
 "To: %@" = "結束於：%@";
 
 /* No comment provided by engineer. */
-"toggle" = "toggle";
+"toggle" = "切換";
 
 /* No comment provided by engineer. */
 "Toggle ${requestedMode}" = "啟停${requestedMode}";
@@ -3010,8 +3019,8 @@
 /* No comment provided by engineer. */
 "Use Haptic Patterns" = "觸感反饋";
 
-/* TODO */
-"Use Media Controls" = "Use Media Controls";
+/* No comment provided by engineer. */
+"Use Media Controls" = "使用媒體控制";
 
 /* No comment provided by engineer. */
 "Use Recycle Bin" = "使用回收站";
@@ -3268,8 +3277,8 @@
 /* No comment provided by engineer. */
 "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "您即將刪除所有錄音，重置所有設定，並完全清除所有快取。\n\n此操作無法撤銷！";
 
-/* TODO */
-"You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
+/* No comment provided by engineer. */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "您即將修復所有錄音和設置文件的系統所有者和權限。";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 「設置」 → 「輔助功能」 → 「旁白」 → 「語音」 → 「聲音」 中下載語音包，然後在這裡選擇一種，用於 「通話錄音警告」 和 「語音播報」 快捷指令。";
@@ -3293,7 +3302,7 @@
 "You’re now using the free version of “TrollRecorder”." = "你現在正在試用巨魔錄音機。";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "你已將此應用程序的顯示語言更改為 “%@”。退出並重新打開應用程序方可生效。如果需要在推送通知、懸浮窗等位置使用新設置的語言，輕按繼續以妙手回春。";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "你已將此應用程序的顯示語言更改為 “%@”。退出並重新打開應用程序方可生效。如果需要在推送通知、懸浮窗等位置使用新設置的語言，輕按繼續以妙手回春。";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "您更改了自定義匯出名稱。 您想在網路儲存中重新生成存檔的錄音嗎？\n\n此操作可能需要一段時間，並消耗額外的蜂窩資料流量配額。 您可能想要從您的雲驅動器中刪除TrollRecorder/ArchivedRecordings，以避免重複。";
@@ -3329,7 +3338,10 @@
 "“Background App Refresh” Permission Denied" = "後台 App 刷新權限被拒絕";
 
 /* No comment provided by engineer. */
-"“iCloud Drive” Not Logged In" = "未登錄iCloud 雲盤";
+"“iCloud Drive” Not Logged In" = "未登錄 iCloud 雲盤";
+
+/* No comment provided by engineer. */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“啟動守護” 已啟用：服務將在某些情形下被重新啟動。若要使服務始終處於關閉狀態，需先關閉 “進階選項” → “啟動守護”，完全結束，再重新開啟此應用程式，最後再次選擇此選項。";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "巨魔錄音機和 TrollRecorder JB 不能共存，請卸載它們。然後從 Sileo 重新安裝 TrollRecorder JB，或從 TrollStore 安裝巨魔錄音機，你只能選取其中一個。";

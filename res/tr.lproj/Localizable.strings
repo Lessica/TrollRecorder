@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "“TrollRecorder”ın yeni bir sürümü (%@) mevcut.";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "Değişikliklerin tamamen uygulanması için bir yanıtlama gereklidir.";
+"A respring is required to completely apply the changes." = "Değişikliklerin tamamen uygulanması için bir yanıtlama gereklidir.";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "“Launch Shield” özelliği için bir widget gereklidir.";
@@ -1231,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Tüm dizin ve dosyalardaki son değişiklik tarihini yoksay ve tüm kayıtların derin bir kopyasını oluştur.";
 
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1 Saat İçinde";
 
@@ -2101,6 +2104,9 @@
 /* No comment provided by engineer. */
 "Restart Render Server" = "Render Sunucusunu Yeniden Başlat";
 
+/* TODO */
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+
 /* No comment provided by engineer. */
 "Restore" = "Geri Yükle";
 
@@ -2238,6 +2244,9 @@
 
 /* No comment provided by engineer. */
 "Semi-Transparent" = "Yarı Saydam";
+
+/* TODO */
+"Send Diagnostic" = "Send Diagnostic";
 
 /* No comment provided by engineer. */
 "Sender Name" = "Gönderen Adı";
@@ -2546,10 +2555,10 @@
 "Tap to view details" = "Detayları görüntülemek için dokunun";
 
 /* No comment provided by engineer. */
-"Temporary error occurred, more retries might fix." = "Geçici bir hata oluştu, daha fazla deneme düzeltebilir.";
+"Temporarily Ignore" = "Geçici Olarak Yoksay";
 
 /* No comment provided by engineer. */
-"Temporary Ignore" = "Geçici Olarak Yoksay";
+"Temporary error occurred, more retries might fix." = "Geçici bir hata oluştu, daha fazla deneme düzeltebilir.";
 
 /* No comment provided by engineer. */
 "terminate" = "sonlandır";
@@ -3293,7 +3302,7 @@
 "You’re now using the free version of “TrollRecorder”." = "Şu anda “TrollRecorder” ın ücretsiz sürümünü kullanıyorsunuz.”.";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "Uygulamanın görüntüleme dilini “%@” olarak değiştirdiniz. Değişiklikleri tamamen uygulamak için bir yanıt gereklidir.";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Uygulamanın görüntüleme dilini “%@” olarak değiştirdiniz. Değişiklikleri tamamen uygulamak için bir yanıt gereklidir.";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "“Özel Dışa Aktarma Adı “nı değiştirdiniz. “Ağ Depolama “daki arşivlenmiş kayıtları yeniden oluşturmak istiyor musunuz? Bu işlem biraz zaman alabilir ve ekstra hücresel veri trafiği kotası tüketebilir. Yinelemeleri önlemek için bulut sürücülerinizden “TrollRecorder/ArşivlenmişKayıtlar” ı silmek isteyebilirsiniz.";
@@ -3330,6 +3339,9 @@
 
 /* TODO */
 "“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
+
+/* TODO */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

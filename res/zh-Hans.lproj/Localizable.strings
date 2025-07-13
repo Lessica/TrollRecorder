@@ -74,7 +74,7 @@
 "A new version (%@) of “TrollRecorder” is available." = "巨魔录音机有新版本 %@ 可用。";
 
 /* No comment provided by engineer. */
-"A resping is required to completely apply the changes." = "退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
+"A respring is required to completely apply the changes." = "退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
 
 /* No comment provided by engineer. */
 "A widget is required for the “Launch Shield” feature." = "“启动守护” 功能需要一个小组件。";
@@ -1232,6 +1232,9 @@
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "忽略所有目录和文件的最后修改日期，并深度克隆所有录音。";
 
 /* No comment provided by engineer. */
+"Import as Ringtone" = "导入为铃声";
+
+/* No comment provided by engineer. */
 "In 1 Hour" = "1 小时内";
 
 /* No comment provided by engineer. */
@@ -2102,6 +2105,9 @@
 "Restart Render Server" = "重启渲染服务";
 
 /* No comment provided by engineer. */
+"Restart SpringBoard and “Launch Shield” widgets." = "重新启动 SpringBoard 和 “启动守护” 小组件。";
+
+/* No comment provided by engineer. */
 "Restore" = "恢复";
 
 /* No comment provided by engineer. */
@@ -2238,6 +2244,9 @@
 
 /* No comment provided by engineer. */
 "Semi-Transparent" = "半透明";
+
+/* No comment provided by engineer. */
+"Send Diagnostic" = "发送诊断信息";
 
 /* No comment provided by engineer. */
 "Sender Name" = "号卡名称";
@@ -2546,10 +2555,10 @@
 "Tap to view details" = "轻按以查看详情";
 
 /* No comment provided by engineer. */
-"Temporary error occurred, more retries might fix." = "发生了临时错误，多试几次可能会有所帮助。";
+"Temporarily Ignore" = "暂时忽略";
 
 /* No comment provided by engineer. */
-"Temporary Ignore" = "暂时忽略";
+"Temporary error occurred, more retries might fix." = "发生了临时错误，多试几次可能会有所帮助。";
 
 /* No comment provided by engineer. */
 "terminate" = "终止";
@@ -3293,7 +3302,7 @@
 "You’re now using the free version of “TrollRecorder”." = "你现在正在试用巨魔录音机。";
 
 /* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A resping is required to completely apply the changes." = "你已将此应用程序的显示语言更改为 “%@”。退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "你已将此应用程序的显示语言更改为 “%@”。退出并重新打开应用程序方可生效。如果需要在推送通知、悬浮窗等位置使用新设置的语言，轻按 “继续” 以妙手回春。";
 
 /* No comment provided by engineer. */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "你修改了 “自定义导出名称” 选项。你想重新生成 “网络存储” 中已归档的录音吗？\n此操作可能需要一段时间并消耗额外的蜂窝数据流量。在此之前，你需要在服务提供商的网页后台上手动清理名为 “TrollRecorder/ArchivedRecordings” 的目录以避免重复归档。";
@@ -3330,6 +3339,9 @@
 
 /* No comment provided by engineer. */
 "“iCloud Drive” Not Logged In" = "未登录 “iCloud 云盘”";
+
+/* No comment provided by engineer. */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“启动守护” 已启用：服务将在某些情形下被重新激活。若要使服务始终处于关闭状态，需先关闭 “高级选项” → “启动守护”，完全退出，再重新打开此应用程序，最后再次选择此选项。";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "巨魔录音机和 “TrollRecorder JB” 不能共存，请卸载它们。然后从 Sileo 重新安装 “TrollRecorder JB”，或从 TrollStore 安装巨魔录音机，你只能选取其中一个。";
