@@ -557,6 +557,9 @@
 "Contact via QQ" = "通过 QQ 联系";
 
 /* No comment provided by engineer. */
+"Contact via TikTok" = "通过抖音联系";
+
+/* No comment provided by engineer. */
 "Contacts" = "联系人";
 
 /* No comment provided by engineer. */
@@ -1206,6 +1209,9 @@
 
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud 云盘";
+
+/* No comment provided by engineer. */
+"ICP Filling Number: 苏ICP备15002715号-2" = "ICP 备案号：苏ICP备15002715号-2";
 
 /* No comment provided by engineer. */
 "Idle" = "空闲";
@@ -1958,7 +1964,7 @@
 "Reaching Daemon" = "连接守护进程";
 
 /* No comment provided by engineer. */
-"README_APP_DOCUMENTS" = "此目录为巨魔录音机录音数据备份目录，用于 “本地存储” 的 “通过 iCloud 备份” 功能。\r\n当你意外 “还原所有设置”，可以将此目录拷贝回 /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings 以恢复录音。";
+"README_APP_DOCUMENTS" = "此目录为巨魔录音机录音数据备份目录，用于 “本地存储” 的 “通过 iCloud 备份” 功能。\r\n当你意外 “还原所有设置”，可以将此目录拷贝回 /var/mobile/Media/DCIM/TrollRecorder/Recordings 以恢复录音。";
 
 /* No comment provided by engineer. */
 "README_SERVICE_ARCHIVED_RECORDINGS" = "此目录为巨魔录音机录音归档目录，用于 “网络存储” 的 “归档” 服务模式。\r\n需归档的录音文件将会被 APFS 硬连接到此目录中，它们不会被 iCloud 备份，也不会占用多份磁盘空间。\r\n请不要修改或删除此目录当中的任何文件。";
@@ -2181,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "screen" = "屏幕";
+
+/* No comment provided by engineer. */
+"SCRN: 2025SR1911573" = "软件著作权登记号：2025SR1911573";
 
 /* No comment provided by engineer. */
 "Search" = "搜索";

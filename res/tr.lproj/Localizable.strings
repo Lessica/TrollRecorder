@@ -556,6 +556,9 @@
 /* No comment provided by engineer. */
 "Contact via QQ" = "QQ üzerinden iletişim";
 
+/* TODO */
+"Contact via TikTok" = "Contact via TikTok";
+
 /* No comment provided by engineer. */
 "Contacts" = "Kişiler";
 
@@ -1206,6 +1209,9 @@
 
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud Drive";
+
+/* TODO */
+"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
 
 /* No comment provided by engineer. */
 "Idle" = "Boşta";
@@ -1958,7 +1964,7 @@
 "Reaching Daemon" = "Daemon'a Ulaşılıyor";
 
 /* TODO */
-"README_APP_DOCUMENTS" = "This directory contains the backup of the TrollRecorder recordings.\r\nYou can restore them by copying them back to the original location: /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings";
+"README_APP_DOCUMENTS" = "This directory contains the backup of the TrollRecorder recordings.\r\nYou can restore them by copying them back to the original location: /var/mobile/Media/DCIM/TrollRecorder/Recordings";
 
 /* TODO */
 "README_SERVICE_ARCHIVED_RECORDINGS" = "This directory contains hard link archives to TrollRecorder recordings.\r\nThey are not included in the iCloud backup, nor are they consumed by the storage quota.\r\nDo not delete them unless you are sure you no longer need them.";
@@ -2181,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "screen" = "ekran";
+
+/* TODO */
+"SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
 
 /* No comment provided by engineer. */
 "Search" = "Ara";

@@ -556,6 +556,9 @@
 /* No comment provided by engineer. */
 "Contact via QQ" = "Liên hệ qua QQ";
 
+/* TODO */
+"Contact via TikTok" = "Contact via TikTok";
+
 /* No comment provided by engineer. */
 "Contacts" = "Liên hệ";
 
@@ -1207,6 +1210,9 @@
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud Drive";
 
+/* TODO */
+"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
+
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
 
@@ -1230,6 +1236,9 @@
 
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Bỏ qua ngày sửa đổi cuối cùng trên tất cả các thư mục và tệp và tạo bản sao sâu của tất cả các bản ghi.";
+
+/* TODO */
+"Import as Ringtone" = "Import as Ringtone";
 
 /* No comment provided by engineer. */
 "Import as Ringtone" = "Nhập dưới dạng nhạc chuông";
@@ -1958,7 +1967,7 @@
 "Reaching Daemon" = "Tiếp cận Daemon";
 
 /* No comment provided by engineer. */
-"README_APP_DOCUMENTS" = "Thư mục này chứa bản sao lưu các bản ghi TrollRecorder.\r\nBạn có thể khôi phục chúng bằng cách sao chép chúng trở lại vị trí ban đầu: /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings";
+"README_APP_DOCUMENTS" = "Thư mục này chứa bản sao lưu các bản ghi TrollRecorder.\r\nBạn có thể khôi phục chúng bằng cách sao chép chúng trở lại vị trí ban đầu: /var/mobile/Media/DCIM/TrollRecorder/Recordings";
 
 /* No comment provided by engineer. */
 "README_SERVICE_ARCHIVED_RECORDINGS" = "Thư mục này chứa các kho lưu trữ liên kết cứng tới các bản ghi TrollRecorder.\r\nChúng không được bao gồm trong bản sao lưu iCloud và cũng không bị giới hạn dung lượng lưu trữ sử dụng.\r\nKhông xóa chúng trừ khi bạn chắc chắn rằng mình không còn cần đến chúng nữa.";
@@ -2104,6 +2113,9 @@
 /* No comment provided by engineer. */
 "Restart Render Server" = "Khởi động lại máy chủ kết xuất";
 
+/* TODO */
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+
 /* No comment provided by engineer. */
 "Restart SpringBoard and “Launch Shield” widgets." = "Làm mới SpringBoard và “Launch Shield” widgets.";
 
@@ -2181,6 +2193,9 @@
 
 /* No comment provided by engineer. */
 "screen" = "màn hình";
+
+/* TODO */
+"SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
 
 /* No comment provided by engineer. */
 "Search" = "Tìm kiếm";
