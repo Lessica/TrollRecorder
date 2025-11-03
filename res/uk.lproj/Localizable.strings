@@ -556,6 +556,9 @@
 /* No comment provided by engineer. */
 "Contact via QQ" = "QQ";
 
+/* TODO */
+"Contact via TikTok" = "Contact via TikTok";
+
 /* No comment provided by engineer. */
 "Contacts" = "Контакти";
 
@@ -1206,6 +1209,9 @@
 
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud Диск";
+
+/* TODO */
+"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
 
 /* No comment provided by engineer. */
 "Idle" = "Без дії";
@@ -1958,7 +1964,7 @@
 "Reaching Daemon" = "Підключення до демона";
 
 /* No comment provided by engineer. */
-"README_APP_DOCUMENTS" = "Ця папка містить резервні копії записів TrollRecorder.\r\nДля відновлення скопіюйте їх у /var/mobile/Library/Preferences/wiki.qaq.trapp/Recordings";
+"README_APP_DOCUMENTS" = "Ця папка містить резервні копії записів TrollRecorder.\r\nДля відновлення скопіюйте їх у /var/mobile/Media/DCIM/TrollRecorder/Recordings";
 
 /* No comment provided by engineer. */
 "README_SERVICE_ARCHIVED_RECORDINGS" = "Ця папка містить жорсткі посилання на записи TrollRecorder.\r\nНе входить до iCloud Backup і не враховується в квоті.\r\nНе видаляйте їх без потреби.";
@@ -2181,6 +2187,9 @@
 
 /* No comment provided by engineer. */
 "screen" = "екран";
+
+/* TODO */
+"SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
 
 /* No comment provided by engineer. */
 "Search" = "Пошук";
