@@ -104,6 +104,9 @@
 "Add" = "Add";
 
 /* No comment provided by engineer. */
+"Add Argument" = "Add Argument";
+
+/* No comment provided by engineer. */
 "Add Now" = "Add Now";
 
 /* No comment provided by engineer. */
@@ -263,9 +266,6 @@
 "Audio CD" = "Audio CD";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "Audio Compression";
-
-/* No comment provided by engineer. */
 "Audio File" = "Audio File";
 
 /* No comment provided by engineer. */
@@ -348,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Batch Export";
+
+/* No comment provided by engineer. */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "Before %@";
@@ -509,7 +512,7 @@
 "Compiled at %@" = "Compiled at %@";
 
 /* No comment provided by engineer. */
-"Compress Recording" = "Compress Recording";
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
@@ -624,9 +627,6 @@
 
 /* No comment provided by engineer. */
 "Could not sign out account: %@" = "Could not sign out account: %@";
-
-/* No comment provided by engineer. */
-"Create Archive" = "Create Archive";
 
 /* No comment provided by engineer. */
 "Created At" = "Created At";
@@ -884,6 +884,9 @@
 "Edit" = "Edit";
 
 /* No comment provided by engineer. */
+"Edit Argument" = "Edit Argument";
+
+/* No comment provided by engineer. */
 "Empty Trash" = "Empty Trash";
 
 /* No comment provided by engineer. */
@@ -971,6 +974,12 @@
 "Expand Recursively" = "Expand Recursively";
 
 /* No comment provided by engineer. */
+"Export as is…" = "Export as is…";
+
+/* No comment provided by engineer. */
+"Export as ZIP" = "Export as ZIP";
+
+/* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Export recordings to anywhere you want without limitations.";
 
 /* No comment provided by engineer. */
@@ -1004,6 +1013,9 @@
 "Failed to initialize speech recognizer using current locale “%@”." = "Failed to initialize speech recognizer using current locale “%@”.";
 
 /* No comment provided by engineer. */
+"Failed to open file pipe" = "Failed to open file pipe";
+
+/* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1026,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Failed to remove: %@";
+
+/* No comment provided by engineer. */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
@@ -1217,6 +1232,9 @@
 "Idle" = "Idle";
 
 /* No comment provided by engineer. */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
+
+/* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
 
 /* No comment provided by engineer. */
@@ -1278,12 +1296,6 @@
 
 /* No comment provided by engineer. */
 "Install Call History Tweak" = "Install Call History Tweak";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format.";
-
-/* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
 
 /* No comment provided by engineer. */
 "Invalid Code Signature" = "Invalid Code Signature";
@@ -1575,9 +1587,6 @@
 
 /* No comment provided by engineer. */
 "New" = "New";
-
-/* No comment provided by engineer. */
-"New Argument" = "New Argument";
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "New Matching Pattern";
@@ -1908,6 +1917,9 @@
 
 /* No comment provided by engineer. */
 "Proceed Anyway" = "Proceed Anyway";
+
+/* No comment provided by engineer. */
+"Process execution timeout" = "Process execution timeout";
 
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "Process terminated by signal %d.";

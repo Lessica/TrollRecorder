@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Add" = "Thêm";
 
+/* TODO */
+"Add Argument" = "Thêm đối số mới";
+
 /* No comment provided by engineer. */
 "Add Now" = "Thêm Ngay";
 
@@ -263,9 +266,6 @@
 "Audio CD" = "Âm thanh CD";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "Nén âm thanh";
-
-/* No comment provided by engineer. */
 "Audio File" = "Tệp âm thanh";
 
 /* No comment provided by engineer. */
@@ -348,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Xuất hàng loạt";
+
+/* TODO */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "Trước %@";
@@ -508,8 +511,8 @@
 /* No comment provided by engineer. */
 "Compiled at %@" = "Tổng hợp tại %@";
 
-/* No comment provided by engineer. */
-"Compress Recording" = "Ghi âm nén";
+/* TODO */
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Định cấu hình máy khách nhúng với địa chỉ máy chủ, tên người dùng và mật khẩu WebDAV của bạn.";
@@ -624,9 +627,6 @@
 
 /* No comment provided by engineer. */
 "Could not sign out account: %@" = "Không thể đăng xuất tài khoản: %@";
-
-/* No comment provided by engineer. */
-"Create Archive" = "Tạo tệp ZIP";
 
 /* No comment provided by engineer. */
 "Created At" = "Được tạo ra tại";
@@ -883,6 +883,9 @@
 /* No comment provided by engineer. */
 "Edit" = "Chỉnh sửa";
 
+/* TODO */
+"Edit Argument" = "Edit Argument";
+
 /* No comment provided by engineer. */
 "Empty Trash" = "Xoá thùng rác";
 
@@ -970,6 +973,12 @@
 /* No comment provided by engineer. */
 "Expand Recursively" = "Mở rộng đệ quy";
 
+/* TODO */
+"Export as is…" = "Export as is…";
+
+/* TODO */
+"Export as ZIP" = "Export as ZIP";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";
 
@@ -1003,6 +1012,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Không thể khởi tạo bộ nhận dạng giọng nói bằng cách sử dụng ngôn ngữ hiện tại “%@”.";
 
+/* TODO */
+"Failed to open file pipe" = "Failed to open file pipe";
+
 /* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "Thực hiện thao tác “%1$@” với nhà cung cấp “%2$@” thất bại.";
 
@@ -1014,6 +1026,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Không thể xóa: %@";
+
+/* TODO */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "Đã xảy ra lỗi nghiêm trọng. Bạn cần xác thực lại để tiếp tục.";
@@ -1216,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
 
+/* TODO */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
+
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "Nếu có vấn đề gì với chỉ mục tìm kiếm, bạn có thể thiết lập lại chúng tại đây.";
 
@@ -1278,12 +1296,6 @@
 
 /* No comment provided by engineer. */
 "Install Call History Tweak" = "Cài đặt Tweak Lịch Sử Cuộc Gọi";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Cài đặt hành động “Nén âm thanh” vào “Phím tắt”, sau đó chia sẻ bản ghi âm của bạn với hành động này để nén âm thanh của bạn sang định dạng AAC/AIFF.";
-
-/* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Cài đặt hành động “Tạo tệp ZIP” vào “Phím tắt”, sau đó chia sẻ bản ghi âm của bạn với hành động này để tạo kho lưu trữ ZIP.";
 
 /* No comment provided by engineer. */
 "Invalid Code Signature" = "Mã chữ ký không hợp lệ";
@@ -1575,9 +1587,6 @@
 
 /* No comment provided by engineer. */
 "New" = "Mới";
-
-/* No comment provided by engineer. */
-"New Argument" = "Thêm đối số mới";
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Mô hình kết hợp mới";
@@ -1908,6 +1917,9 @@
 
 /* No comment provided by engineer. */
 "Proceed Anyway" = "Vẫn tiếp tục";
+
+/* TODO */
+"Process execution timeout" = "Process execution timeout";
 
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "Quá trình bị chấm dứt bởi tín hiệu %d.";

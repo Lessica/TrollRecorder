@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Add" = "添加";
 
+/* TODO */
+"Add Argument" = "新參數";
+
 /* No comment provided by engineer. */
 "Add Now" = "立即添加";
 
@@ -263,9 +266,6 @@
 "Audio CD" = "音頻 CD";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "音頻壓縮";
-
-/* No comment provided by engineer. */
 "Audio File" = "音頻文件";
 
 /* No comment provided by engineer. */
@@ -348,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "批量導出";
+
+/* TODO */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "%@ 之前";
@@ -508,8 +511,8 @@
 /* No comment provided by engineer. */
 "Compiled at %@" = "編譯於 %@";
 
-/* No comment provided by engineer. */
-"Compress Recording" = "壓縮音頻";
+/* TODO */
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "使用您的WebDAV伺服器地址、使用者名稱和密碼配置嵌入式客戶端。";
@@ -624,9 +627,6 @@
 
 /* No comment provided by engineer. */
 "Could not sign out account: %@" = "無法登出帳戶：%@";
-
-/* No comment provided by engineer. */
-"Create Archive" = "製作歸檔";
 
 /* No comment provided by engineer. */
 "Created At" = "創建於";
@@ -883,6 +883,9 @@
 /* No comment provided by engineer. */
 "Edit" = "編輯";
 
+/* TODO */
+"Edit Argument" = "Edit Argument";
+
 /* No comment provided by engineer. */
 "Empty Trash" = "清空回收站";
 
@@ -970,6 +973,12 @@
 /* No comment provided by engineer. */
 "Expand Recursively" = "遞歸展開";
 
+/* TODO */
+"Export as is…" = "Export as is…";
+
+/* TODO */
+"Export as ZIP" = "Export as ZIP";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "將錄音導出並保存到任何地方。";
 
@@ -1003,6 +1012,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "無法以當前區域“%@”初始化轉錄引擎。";
 
+/* TODO */
+"Failed to open file pipe" = "Failed to open file pipe";
+
 /* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "未能對服務提供商“%@”執行“%@”操作。";
 
@@ -1014,6 +1026,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "刪除失敗：%@";
+
+/* TODO */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "發生了致命錯誤。 您可能需要重新授權才能繼續。";
@@ -1216,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Idle" = "空閒";
 
+/* TODO */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
+
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜索索引出了問題，可以在這裡重新設置。";
 
@@ -1278,12 +1296,6 @@
 
 /* No comment provided by engineer. */
 "Install Call History Tweak" = "安裝通話記錄插件";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "安裝壓縮音頻動作到快捷指令中，然後分享你的錄音到這個動作中，以將你的音頻壓縮為 AAC/AIFF 格式。";
-
-/* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "安裝製作歸檔動作到快捷指令中，然後分享你的錄音到這個動作中，以創建一個 ZIP 檔案。";
 
 /* No comment provided by engineer. */
 "Invalid Code Signature" = "無效的代碼簽名";
@@ -1575,9 +1587,6 @@
 
 /* No comment provided by engineer. */
 "New" = "新";
-
-/* No comment provided by engineer. */
-"New Argument" = "新參數";
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "新匹配條目";
@@ -1908,6 +1917,9 @@
 
 /* No comment provided by engineer. */
 "Proceed Anyway" = "仍然繼續";
+
+/* TODO */
+"Process execution timeout" = "Process execution timeout";
 
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "進程被信號 %d 終止。";

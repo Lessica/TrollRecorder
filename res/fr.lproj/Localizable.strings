@@ -104,6 +104,9 @@
 "Add" = "Add";
 
 /* TODO */
+"Add Argument" = "Add Argument";
+
+/* TODO */
 "Add Now" = "Add Now";
 
 /* TODO */
@@ -262,9 +265,6 @@
 /* TODO */
 "Audio CD" = "Audio CD";
 
-/* No comment provided by engineer. */
-"Audio Compression" = "Compression audio";
-
 /* TODO */
 "Audio File" = "Audio File";
 
@@ -348,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Exportation en lot";
+
+/* TODO */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* Translated with Microsoft Translator */
 "Before %@" = "Avant %@";
@@ -508,8 +511,8 @@
 /* TODO */
 "Compiled at %@" = "Compiled at %@";
 
-/* No comment provided by engineer. */
-"Compress Recording" = "Enregistrer la compression";
+/* TODO */
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
@@ -624,9 +627,6 @@
 
 /* TODO */
 "Could not sign out account: %@" = "Could not sign out account: %@";
-
-/* Translated with Microsoft Translator */
-"Create Archive" = "Créer une archive";
 
 /* No comment provided by engineer. */
 "Created At" = "Créé le";
@@ -883,6 +883,9 @@
 /* TODO */
 "Edit" = "Edit";
 
+/* TODO */
+"Edit Argument" = "Edit Argument";
+
 /* No comment provided by engineer. */
 "Empty Trash" = "Vider la poubelle";
 
@@ -970,6 +973,12 @@
 /* Translated with Microsoft Translator */
 "Expand Recursively" = "Développer de manière récursive";
 
+/* TODO */
+"Export as is…" = "Export as is…";
+
+/* TODO */
+"Export as ZIP" = "Export as ZIP";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Exportez les enregistrements où vous le souhaitez sans limitations.";
 
@@ -1004,6 +1013,9 @@
 "Failed to initialize speech recognizer using current locale “%@”." = "Échec de l'initialisation du reconnaissance vocale en utilisant la locale actuelle « %@ ».";
 
 /* TODO */
+"Failed to open file pipe" = "Failed to open file pipe";
+
+/* TODO */
 "Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1026,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Échec de la suppression : %@";
+
+/* TODO */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* TODO */
 "Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
@@ -1216,6 +1231,9 @@
 /* No comment provided by engineer. */
 "Idle" = "En veille";
 
+/* TODO */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
+
 /* Translated with Microsoft Translator */
 "If there is something wrong with the search indexes, you can reset them here." = "Si quelque chose ne va pas avec les index de recherche, vous pouvez les réinitialiser ici.";
 
@@ -1278,12 +1296,6 @@
 
 /* TODO */
 "Install Call History Tweak" = "Install Call History Tweak";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Installez l'action « Compress Audio » dans « Raccourcis », puis partagez vos enregistrements vers cette action pour compresser votre audio au format AAC/AIFF.";
-
-/* Translated with Microsoft Translator */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Installez l'action “Créer une archive” dans “Raccourcis”, puis partagez vos enregistrements avec cette action pour créer une archive ZIP.";
 
 /* TODO */
 "Invalid Code Signature" = "Invalid Code Signature";
@@ -1575,9 +1587,6 @@
 
 /* Translated with Microsoft Translator */
 "New" = "Nouveau";
-
-/* TODO */
-"New Argument" = "New Argument";
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Nouveau Motif de Correspondance";
@@ -1908,6 +1917,9 @@
 
 /* TODO */
 "Proceed Anyway" = "Proceed Anyway";
+
+/* TODO */
+"Process execution timeout" = "Process execution timeout";
 
 /* TODO */
 "Process terminated by signal %d." = "Process terminated by signal %d.";
