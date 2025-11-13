@@ -142,6 +142,9 @@
 /* No comment provided by engineer. */
 "alive" = "存活";
 
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+
 /* No comment provided by engineer. */
 "All Edges" = "所有邊緣";
 
@@ -298,6 +301,9 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "自動錄音";
 
+/* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "當前月份的錄音不會被歸檔。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
 
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "應用程式啟動時，自動從 GitHub 查詢最新版本。";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "自動删除早於指定日期創建的錄音，除了那些被收藏的錄音。";
@@ -998,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime 音訊";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "FaceTime 排除列表";
+"FaceTime Exclusion List" = "FaceTime 排除列表";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1203,9 +1221,6 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "顯示樣式";
-
-/* No comment provided by engineer. */
-"How would you like to call?" = "你想如何撥打電話？";
 
 /* No comment provided by engineer. */
 "hud" = "hud";
@@ -1672,6 +1687,12 @@
 /* TODO */
 "OneDrive" = "OneDrive";
 
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+
 /* No comment provided by engineer. */
 "Oops!" = "似乎出了一點小問題";
 
@@ -1769,7 +1790,7 @@
 "Phone Address" = "電話號碼";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "通話排除列表";
+"Phone Call Exclusion List" = "通話排除列表";
 
 /* TODO */
 "phone call recording" = "phone call recording";
@@ -2005,6 +2026,9 @@
 /* No comment provided by engineer. */
 "Record" = "錄製";
 
+/* TODO */
+"Record All Calls" = "Record All Calls";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "自動錄製來電和去電。";
 
@@ -2016,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "接通時錄音";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "錄音定位";
@@ -2547,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "輕觸並選中 __任一邊緣__，  \n使其進入 ___活躍狀態___。";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "再次輕觸以撥打電話。";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "再次輕觸以在地圖中打開或搜尋。";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "再次輕觸以開始 FaceTime 通話。";
 
 /* TODO */
 "Tap to add required widget." = "Tap to add required widget.";
@@ -3348,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” 不可用。";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "此頁面上的 “允許自動錄音” 已禁用：VIP 聯絡人將始終被錄音並添加到收藏中，其他聯絡人將不會被錄音。";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "此頁面上的 “允許自動錄音” 已啟用：“通話排除列表” 中的聯絡人將不會被錄音，其他聯絡人將允許被錄音。VIP 聯絡人的錄音還會被添加到收藏中。";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "“背景 App 重新整理” 被拒絕";

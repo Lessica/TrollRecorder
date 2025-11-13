@@ -142,6 +142,9 @@
 /* No comment provided by engineer. */
 "alive" = "활성 상태";
 
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+
 /* No comment provided by engineer. */
 "All Edges" = "모든 가장자리";
 
@@ -298,6 +301,9 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "자동 녹음";
 
+/* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "매달 혼합 및 결합된 기본 녹음의 복제본을 자동으로 생성하고 iCloud Drive에 저장합니다. 이번 달 녹음은 보관되지 않습니다.";
 
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "응용 프로그램이 시작되면 GitHub에서 자동으로 최신 버전을 쿼리합니다.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "즐겨찾기에 추가된 녹음을 제외하고 지정한 날짜보다 이전에 생성된 녹음을 자동으로 삭제합니다.";
@@ -998,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime 오디오";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "FaceTime 제외 목록";
+"FaceTime Exclusion List" = "FaceTime 제외 목록";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1203,9 +1221,6 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "표시 스타일";
-
-/* No comment provided by engineer. */
-"How would you like to call?" = "어떻게 전화하시겠습니까?";
 
 /* No comment provided by engineer. */
 "hud" = "HUD";
@@ -1672,6 +1687,12 @@
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+
 /* No comment provided by engineer. */
 "Oops!" = "작은 문제가 발생 했습니다.";
 
@@ -1769,7 +1790,7 @@
 "Phone Address" = "전화번호";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "전화 제외 목록";
+"Phone Call Exclusion List" = "전화 제외 목록";
 
 /* No comment provided by engineer. */
 "phone call recording" = "전화 통화 녹음";
@@ -2005,6 +2026,9 @@
 /* No comment provided by engineer. */
 "Record" = "녹음";
 
+/* TODO */
+"Record All Calls" = "Record All Calls";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "모든 수신 및 발신 통화를 자동으로 녹음합니다.";
 
@@ -2016,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "연결 시에만 녹음";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "녹음 위치";
@@ -2547,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "__아무 가장자리나__ 탭하여 \n___활성 가장자리로___ 선택하세요.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "전화를 걸려면 다시 탭하세요.";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "지도를 열거나 검색하려면 다시 탭하세요.";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "FaceTime 통화를 시작하려면 다시 탭하세요.";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "필수 위젯을 추가하려면 탭하세요.";
@@ -3348,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@”을(를) 사용할 수 없습니다.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“자동 녹음 허용“이 비활성화되었습니다. VIP 연락처는 항상 녹음되고 즐겨찾기에 추가되지만 다른 연락처는 녹음되지 않습니다.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“자동 녹음 허용“이 활성화되었습니다. “전화 제외 목록“의 연락처는 녹음되지 않지만 VIP 연락처의 다른 연락처도 즐겨찾기에 추가됩니다.";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "“백그라운드 앱 새로 고침” 권한 거부됨";

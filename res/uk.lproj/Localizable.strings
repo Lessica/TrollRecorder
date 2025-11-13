@@ -142,6 +142,9 @@
 /* No comment provided by engineer. */
 "alive" = "активний";
 
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+
 /* No comment provided by engineer. */
 "All Edges" = "Усі грані";
 
@@ -298,6 +301,9 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "Автоматичний запис";
 
+/* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Щомісяця автоматично створювати копії змішаних записів та зберігати їх у iCloud Drive. Записи поточного місяця не архівуються.";
 
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "Автоматично перевіряти нову версію на GitHub при запуску додатка.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Автоматично видаляти записи, створені раніше вказаної дати, крім позначених.";
@@ -998,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime Audio";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "Винятки FaceTime";
+"FaceTime Exclusion List" = "Винятки FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "VIP FaceTime";
@@ -1203,9 +1221,6 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "Стиль плаваючої кнопки";
-
-/* No comment provided by engineer. */
-"How would you like to call?" = "Як ви хочете подзвонити?";
 
 /* No comment provided by engineer. */
 "hud" = "інтерфейс";
@@ -1672,6 +1687,12 @@
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+
 /* No comment provided by engineer. */
 "Oops!" = "Ой!";
 
@@ -1769,7 +1790,7 @@
 "Phone Address" = "Адреса телефону";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "Список виключень для дзвінків";
+"Phone Call Exclusion List" = "Список виключень для дзвінків";
 
 /* No comment provided by engineer. */
 "phone call recording" = "запис телефонного дзвінка";
@@ -2005,6 +2026,9 @@
 /* No comment provided by engineer. */
 "Record" = "Запис";
 
+/* TODO */
+"Record All Calls" = "Record All Calls";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Автоматично записувати всі вхідні та вихідні дзвінки.";
 
@@ -2016,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Записувати лише при підключенні";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Запис із місцезнаходженням";
@@ -2547,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Торкніться __будь-якого краю__, щоб вибрати його як ___активний край___.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "Натисніть ще раз, щоб здійснити дзвінок.";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "Натисніть ще раз, щоб відкрити/знайти місце в Картах.";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "Натисніть ще раз, щоб розпочати FaceTime-дзвінок.";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "Натисніть, щоб додати віджет.";
@@ -3348,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” недоступний.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Автоматичний запис” вимкнено: дзвінки VIP завжди записуватимуться та додаватимуться до обраного, інші контакти - ні.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Автоматичний запис” увімкнено: контакти з “Списку винятків” не записуватимуться, інші - записуватимуться. Записи VIP також додаватимуться до обраного.";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "Доступ до “Фонового оновлення” заборонено";

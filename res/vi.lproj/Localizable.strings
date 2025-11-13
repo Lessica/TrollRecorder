@@ -142,6 +142,9 @@
 /* No comment provided by engineer. */
 "alive" = "tồn tại";
 
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+
 /* No comment provided by engineer. */
 "All Edges" = "Tất Cả Các Cạnh";
 
@@ -298,6 +301,9 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "Ghi Âm Tự Động";
 
+/* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Tự động tạo bản sao cho các bản ghi chính hỗn hợp & kết hợp mỗi tháng và lưu trữ chúng trong iCloud Drive. Các bản ghi từ tháng hiện tại sẽ không được lưu trữ.";
 
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "Tự động truy vấn phiên bản mới nhất từ ​​GitHub khi ứng dụng khởi động.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Tự động xóa các bản ghi được tạo sớm hơn ngày được chỉ định ngoại trừ những bản được đánh dấu.";
@@ -998,7 +1016,7 @@
 "FaceTime Audio" = "Âm thanh FaceTime";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "Danh sách loại trừ FaceTime";
+"FaceTime Exclusion List" = "Danh sách loại trừ FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1203,9 +1221,6 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "Chế Độ Sáng/Tối";
-
-/* No comment provided by engineer. */
-"How would you like to call?" = "Bạn muốn gọi như thế nào?";
 
 /* No comment provided by engineer. */
 "hud" = "hud";
@@ -1672,6 +1687,12 @@
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+
 /* No comment provided by engineer. */
 "Oops!" = "Rất tiếc!";
 
@@ -1769,7 +1790,7 @@
 "Phone Address" = "Địa chỉ điện thoại";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "Danh sách loại trừ cuộc gọi điện thoại";
+"Phone Call Exclusion List" = "Danh sách loại trừ cuộc gọi điện thoại";
 
 /* No comment provided by engineer. */
 "phone call recording" = "ghi âm cuộc gọi điện thoại";
@@ -2005,6 +2026,9 @@
 /* No comment provided by engineer. */
 "Record" = "Ghi âm";
 
+/* TODO */
+"Record All Calls" = "Record All Calls";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Tự động ghi lại tất cả các cuộc gọi đến và đi.";
 
@@ -2016,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Chỉ Ghi Âm Khi Được Kết Nối";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Ghi lại với vị trí";
@@ -2547,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Nhấn vào __bất kỳ cạnh nào__  \nđể chọn nó làm ___cạnh hoạt động___.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "Nhấn lại để thực hiện cuộc gọi.";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "Nhấn lại để mở hoặc tìm kiếm vị trí trong Bản đồ.";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "Nhấn lại để bắt đầu cuộc gọi FaceTime.";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "Nhấn để thêm tiện ích cần thiết.";
@@ -3348,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” không có sẵn.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Cho phép ghi âm tự động” đã bị vô hiệu hóa: Các liên hệ VIP sẽ luôn được ghi âm và thêm vào danh sách yêu thích, trong khi các liên hệ khác sẽ không được ghi âm.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Cho phép ghi âm tự động” đã được bật: Các liên hệ trong “Danh sách loại trừ cuộc gọi” sẽ không được ghi âm, trong khi các liên hệ khác sẽ được ghi âm. Các bản ghi của các liên hệ VIP cũng sẽ được thêm vào danh sách yêu thích.";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "“Làm mới ứng dụng nền” đã bị từ chối.";

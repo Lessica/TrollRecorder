@@ -142,6 +142,9 @@
 /* No comment provided by engineer. */
 "alive" = "ھايات";
 
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+
 /* No comment provided by engineer. */
 "All Edges" = "بارلىق گىرۋەكلەر";
 
@@ -299,6 +302,9 @@
 "Automatic Recording" = "ئاپتوماتىك ئۈنئېلىش";
 
 /* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
+/* TODO */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
 /* No comment provided by engineer. */
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "پروگرامما قوزغالغاندا، GitHub دىن ئاپتوماتىك ئەڭ يېڭى نەشرىنى سۈرۈشتۈرۈش.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "بەلگىلەنگەن ۋاقىتتىن بۇرۇن قۇرۇلغان ئۈنئالغۇلارنى، ساقلاپ قېلىنغانلىرىدىن باشقىسىنى ئاپتوماتىك ئۆچۈرۈش.";
@@ -998,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime ئاۋاز";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "FaceTime چىقىرىۋېتىش تىزىملىكى";
+"FaceTime Exclusion List" = "FaceTime چىقىرىۋېتىش تىزىملىكى";
 
 /* TODO */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1203,9 +1221,6 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "كۆرۈنۈش ئۇسلۇبى";
-
-/* No comment provided by engineer. */
-"How would you like to call?" = "قانداق چاقىرماقچى؟";
 
 /* No comment provided by engineer. */
 "hud" = "hud";
@@ -1672,6 +1687,12 @@
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+
 /* No comment provided by engineer. */
 "Oops!" = "ئاپلا!";
 
@@ -1769,7 +1790,7 @@
 "Phone Address" = "تېلېفون نومۇرى";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "چاقىرىق چەكلەش تىزىملىكى";
+"Phone Call Exclusion List" = "چاقىرىق چەكلەش تىزىملىكى";
 
 /* No comment provided by engineer. */
 "phone call recording" = "تېلېفون چاقىرىق ئۈن-خاتىرىسى";
@@ -2006,6 +2027,9 @@
 "Record" = "Record";
 
 /* TODO */
+"Record All Calls" = "Record All Calls";
+
+/* TODO */
 "Record all incoming and outgoing calls automatically." = "Record all incoming and outgoing calls automatically.";
 
 /* TODO */
@@ -2016,6 +2040,9 @@
 
 /* TODO */
 "Record Only When Connected" = "Record Only When Connected";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* TODO */
 "Record with Location" = "Record with Location";
@@ -2547,15 +2574,6 @@
 
 /* TODO */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "تېلېفون قىلىش ئۈچۈن قايتا چېكىڭ";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "خەرىتىدىن ئورۇننى ئىزدەش ياكى ئېچىش ئۈچۈن قايتا چېكىڭ";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "FaceTime چاقىرىش باشلاش ئۈچۈن قايتا چېكىڭ";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "زۆرۈر كىچىك پروگراممىنى قوشۇش ئۈچۈن چېكىڭ.";
@@ -3348,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” ئىشلەتكىلى بولمايدۇ.";
-
-/* TODO */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
-
-/* TODO */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
 
 /* TODO */
 "“Background App Refresh” Permission Denied" = "“Background App Refresh” Permission Denied";

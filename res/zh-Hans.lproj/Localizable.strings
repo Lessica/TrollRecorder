@@ -143,6 +143,9 @@
 "alive" = "存活";
 
 /* No comment provided by engineer. */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "所有的通话都将被自动录音，除了那些在 “排除列表” 中的联系人以外。与 VIP 联系人的通话还会被添加到收藏夹中。";
+
+/* No comment provided by engineer. */
 "All Edges" = "所有边缘";
 
 /* No comment provided by engineer. */
@@ -299,6 +302,9 @@
 "Automatic Recording" = "自动录音";
 
 /* No comment provided by engineer. */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "自动录音已禁用。在任何情况下，通话都不会被自动录音。";
+
+/* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "每月自动为混合和组合模式的录音创建克隆，并将其存储在 iCloud 云盘中。当前月份的录音不会被归档。";
 
 /* No comment provided by engineer. */
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "应用程序启动时，自动从 GitHub 查询最新版本。";
+
+/* No comment provided by engineer. */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "自动录制所有的 FaceTime 通话：在 “排除列表” 当中的联系人除外。";
+
+/* No comment provided by engineer. */
+"Automatically record FaceTime calls from contacts not in your address book." = "自动录制与不在通讯录中联系人的 FaceTime 通话。";
+
+/* No comment provided by engineer. */
+"Automatically record phone calls from contacts not in your address book." = "自动录制与不在通讯录中联系人的电话。";
+
+/* No comment provided by engineer. */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "自动录制所有的电话：在 “排除列表” 当中的联系人除外。";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "自动删除早于指定日期创建的录音，除了那些被收藏的录音。";
@@ -998,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime 音频";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "FaceTime 排除列表";
+"FaceTime Exclusion List" = "FaceTime 排除列表";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1203,9 +1221,6 @@
 
 /* No comment provided by engineer. */
 "Hoverball Style" = "显示样式";
-
-/* No comment provided by engineer. */
-"How would you like to call?" = "你想如何拨打电话？";
 
 /* No comment provided by engineer. */
 "hud" = "hud";
@@ -1673,6 +1688,12 @@
 "OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "只有不在通讯录当中的联系人才会被自动录音，但 VIP 联系人仍然会被自动录音并添加到收藏夹中。";
+
+/* No comment provided by engineer. */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "只有与 VIP 联系人的通话才会被自动录音并添加到收藏夹中。";
+
+/* No comment provided by engineer. */
 "Oops!" = "似乎出了一点小问题";
 
 /* No comment provided by engineer. */
@@ -1769,7 +1790,7 @@
 "Phone Address" = "电话号码";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "通话排除列表";
+"Phone Call Exclusion List" = "通话排除列表";
 
 /* No comment provided by engineer. */
 "phone call recording" = "通话录音";
@@ -2006,6 +2027,9 @@
 "Record" = "录制";
 
 /* No comment provided by engineer. */
+"Record All Calls" = "所有通话录音";
+
+/* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "自动录制所有来电和去电。";
 
 /* No comment provided by engineer. */
@@ -2016,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "接通时录音";
+
+/* No comment provided by engineer. */
+"Record Unknown Calls" = "所有陌生号码录音";
 
 /* No comment provided by engineer. */
 "Record with Location" = "录音定位";
@@ -2547,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "轻按并选中 __任一边缘__，  \n使其进入 ___活跃状态___。";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "再次轻点以拨打电话";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "再次轻点以在地图中打开或搜索";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "再次轻点开始 FaceTime 通话";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "轻按以添加所需的小组件。";
@@ -3348,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” 不可用。";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "此页面上的 “允许自动录音” 已禁用：VIP 联系人将始终被录音并添加到收藏中，其他联系人将不会被录音。";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "此页面上的 “允许自动录音” 已启用：“通话排除列表” 中的联系人将不会被录音，其他联系人将允许被录音。VIP 联系人的录音还会被添加到收藏中。";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "“后台 App 刷新” 权限被拒绝";
