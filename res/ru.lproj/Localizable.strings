@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Add" = "Добавить";
 
+/* TODO */
+"Add Argument" = "Новый аргумент";
+
 /* No comment provided by engineer. */
 "Add Now" = "Добавить сейчас";
 
@@ -138,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "alive" = "активен";
+
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
 
 /* No comment provided by engineer. */
 "All Edges" = "Все границы";
@@ -263,9 +269,6 @@
 "Audio CD" = "Audio CD";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "Сжатие аудио";
-
-/* No comment provided by engineer. */
 "Audio File" = "Аудиофайл";
 
 /* No comment provided by engineer. */
@@ -298,6 +301,9 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "Автоматическая запись";
 
+/* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Ежемесячно создавать копии смешанных записей и хранить в iCloud Drive. Записи текущего месяца не архивируются.";
 
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "Автоматически проверять новую версию на GitHub при запуске.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Автоматически удалять записи старше указанной даты, кроме помеченных.";
@@ -348,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Пакетный экспорт";
+
+/* TODO */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "До %@";
@@ -508,8 +529,8 @@
 /* No comment provided by engineer. */
 "Compiled at %@" = "Собрано %@";
 
-/* No comment provided by engineer. */
-"Compress Recording" = "Сжимать запись";
+/* TODO */
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Настройте клиент WebDAV: адрес сервера, имя пользователя и пароль.";
@@ -624,9 +645,6 @@
 
 /* No comment provided by engineer. */
 "Could not sign out account: %@" = "Не удалось выйти из аккаунта: %@";
-
-/* No comment provided by engineer. */
-"Create Archive" = "Создать архив";
 
 /* No comment provided by engineer. */
 "Created At" = "Создано";
@@ -883,6 +901,9 @@
 /* No comment provided by engineer. */
 "Edit" = "Редактировать";
 
+/* TODO */
+"Edit Argument" = "Edit Argument";
+
 /* No comment provided by engineer. */
 "Empty Trash" = "Очистить корзину";
 
@@ -970,6 +991,12 @@
 /* No comment provided by engineer. */
 "Expand Recursively" = "Развернуть рекурсивно";
 
+/* TODO */
+"Export as is…" = "Export as is…";
+
+/* TODO */
+"Export as ZIP" = "Export as ZIP";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Экспорт записей без ограничений.";
 
@@ -989,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime Audio";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "Исключения FaceTime";
+"FaceTime Exclusion List" = "Исключения FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "VIP FaceTime";
@@ -1003,6 +1030,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Не удалось инициализировать распознавание речи для локали «%@».";
 
+/* TODO */
+"Failed to open file pipe" = "Failed to open file pipe";
+
 /* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "Не удалось выполнить «%1$@» с провайдером «%2$@».";
 
@@ -1014,6 +1044,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Ошибка удаления: %@";
+
+/* TODO */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "Критическая ошибка. Может потребоваться повторная авторизация.";
@@ -1190,9 +1223,6 @@
 "Hoverball Style" = "Стиль плавающей кнопки";
 
 /* No comment provided by engineer. */
-"How would you like to call?" = "Как вы хотите позвонить?";
-
-/* No comment provided by engineer. */
 "hud" = "интерфейс";
 
 /* No comment provided by engineer. */
@@ -1211,10 +1241,13 @@
 "iCloud Drive" = "iCloud Диск";
 
 /* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
 
 /* No comment provided by engineer. */
 "Idle" = "Бездействие";
+
+/* TODO */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "Сбросить поисковые индексы при проблемах.";
@@ -1278,12 +1311,6 @@
 
 /* No comment provided by engineer. */
 "Install Call History Tweak" = "Установить твик истории звонков";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Добавьте действие «Сжать аудио» в «Команды» для сжатия в AAC/AIFF.";
-
-/* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Добавьте действие «Создать архив» в «Команды» для создания ZIP-архива.";
 
 /* No comment provided by engineer. */
 "Invalid Code Signature" = "Неверная подпись кода";
@@ -1577,9 +1604,6 @@
 "New" = "Новый";
 
 /* No comment provided by engineer. */
-"New Argument" = "Новый аргумент";
-
-/* No comment provided by engineer. */
 "New Matching Pattern" = "Новый шаблон соответствия";
 
 /* No comment provided by engineer. */
@@ -1662,6 +1686,12 @@
 
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
+
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
 
 /* No comment provided by engineer. */
 "Oops!" = "Упс!";
@@ -1760,7 +1790,7 @@
 "Phone Address" = "Адрес телефона";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "Исключения для звонков";
+"Phone Call Exclusion List" = "Исключения для звонков";
 
 /* No comment provided by engineer. */
 "phone call recording" = "запись телефонного звонка";
@@ -1909,6 +1939,9 @@
 /* No comment provided by engineer. */
 "Proceed Anyway" = "Продолжить";
 
+/* TODO */
+"Process execution timeout" = "Process execution timeout";
+
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "Процесс завершен сигналом %d.";
 
@@ -1993,6 +2026,9 @@
 /* No comment provided by engineer. */
 "Record" = "Запись";
 
+/* TODO */
+"Record All Calls" = "Record All Calls";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Автоматически записывать все входящие и исходящие звонки.";
 
@@ -2004,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Записывать только при подключении";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Запись с местоположением";
@@ -2535,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Нажмите __любую грань__, \nчтобы выбрать её как ___активную грань___.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "Нажмите ещё раз для совершения звонка.";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "Нажмите ещё раз для открытия/поиска места в Картах.";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "Нажмите ещё раз для FaceTime-звонка.";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "Нажмите для добавления виджета.";
@@ -3336,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” недоступен.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Автоматическая запись” отключена: звонки VIP всегда записываются и добавляются в избранное, остальные - нет.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Автоматическая запись” включена: контакты из “Исключений” не записываются, остальные записываются. Записи VIP добавляются в избранное.";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "Доступ к “Фоновому обновлению” запрещён";

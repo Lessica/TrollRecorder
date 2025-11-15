@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Add" = "Thêm";
 
+/* TODO */
+"Add Argument" = "Thêm đối số mới";
+
 /* No comment provided by engineer. */
 "Add Now" = "Thêm Ngay";
 
@@ -138,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "alive" = "tồn tại";
+
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
 
 /* No comment provided by engineer. */
 "All Edges" = "Tất Cả Các Cạnh";
@@ -263,9 +269,6 @@
 "Audio CD" = "Âm thanh CD";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "Nén âm thanh";
-
-/* No comment provided by engineer. */
 "Audio File" = "Tệp âm thanh";
 
 /* No comment provided by engineer. */
@@ -298,6 +301,9 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "Ghi Âm Tự Động";
 
+/* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Tự động tạo bản sao cho các bản ghi chính hỗn hợp & kết hợp mỗi tháng và lưu trữ chúng trong iCloud Drive. Các bản ghi từ tháng hiện tại sẽ không được lưu trữ.";
 
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "Tự động truy vấn phiên bản mới nhất từ ​​GitHub khi ứng dụng khởi động.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Tự động xóa các bản ghi được tạo sớm hơn ngày được chỉ định ngoại trừ những bản được đánh dấu.";
@@ -348,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Xuất hàng loạt";
+
+/* TODO */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "Trước %@";
@@ -508,8 +529,8 @@
 /* No comment provided by engineer. */
 "Compiled at %@" = "Tổng hợp tại %@";
 
-/* No comment provided by engineer. */
-"Compress Recording" = "Ghi âm nén";
+/* TODO */
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Định cấu hình máy khách nhúng với địa chỉ máy chủ, tên người dùng và mật khẩu WebDAV của bạn.";
@@ -624,9 +645,6 @@
 
 /* No comment provided by engineer. */
 "Could not sign out account: %@" = "Không thể đăng xuất tài khoản: %@";
-
-/* No comment provided by engineer. */
-"Create Archive" = "Tạo tệp ZIP";
 
 /* No comment provided by engineer. */
 "Created At" = "Được tạo ra tại";
@@ -883,6 +901,9 @@
 /* No comment provided by engineer. */
 "Edit" = "Chỉnh sửa";
 
+/* TODO */
+"Edit Argument" = "Edit Argument";
+
 /* No comment provided by engineer. */
 "Empty Trash" = "Xoá thùng rác";
 
@@ -970,6 +991,12 @@
 /* No comment provided by engineer. */
 "Expand Recursively" = "Mở rộng đệ quy";
 
+/* TODO */
+"Export as is…" = "Export as is…";
+
+/* TODO */
+"Export as ZIP" = "Export as ZIP";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";
 
@@ -989,7 +1016,7 @@
 "FaceTime Audio" = "Âm thanh FaceTime";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "Danh sách loại trừ FaceTime";
+"FaceTime Exclusion List" = "Danh sách loại trừ FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1003,6 +1030,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Không thể khởi tạo bộ nhận dạng giọng nói bằng cách sử dụng ngôn ngữ hiện tại “%@”.";
 
+/* TODO */
+"Failed to open file pipe" = "Failed to open file pipe";
+
 /* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "Thực hiện thao tác “%1$@” với nhà cung cấp “%2$@” thất bại.";
 
@@ -1014,6 +1044,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Không thể xóa: %@";
+
+/* TODO */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "Đã xảy ra lỗi nghiêm trọng. Bạn cần xác thực lại để tiếp tục.";
@@ -1190,9 +1223,6 @@
 "Hoverball Style" = "Chế Độ Sáng/Tối";
 
 /* No comment provided by engineer. */
-"How would you like to call?" = "Bạn muốn gọi như thế nào?";
-
-/* No comment provided by engineer. */
 "hud" = "hud";
 
 /* No comment provided by engineer. */
@@ -1211,10 +1241,13 @@
 "iCloud Drive" = "iCloud Drive";
 
 /* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
 
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
+
+/* TODO */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "Nếu có vấn đề gì với chỉ mục tìm kiếm, bạn có thể thiết lập lại chúng tại đây.";
@@ -1236,9 +1269,6 @@
 
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Bỏ qua ngày sửa đổi cuối cùng trên tất cả các thư mục và tệp và tạo bản sao sâu của tất cả các bản ghi.";
-
-/* No comment provided by engineer. */
-"Import as Ringtone" = "Nhập dưới dạng nhạc chuông";
 
 /* No comment provided by engineer. */
 "Import as Ringtone" = "Nhập dưới dạng nhạc chuông";
@@ -1281,12 +1311,6 @@
 
 /* No comment provided by engineer. */
 "Install Call History Tweak" = "Cài đặt Tweak Lịch Sử Cuộc Gọi";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Cài đặt hành động “Nén âm thanh” vào “Phím tắt”, sau đó chia sẻ bản ghi âm của bạn với hành động này để nén âm thanh của bạn sang định dạng AAC/AIFF.";
-
-/* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Cài đặt hành động “Tạo tệp ZIP” vào “Phím tắt”, sau đó chia sẻ bản ghi âm của bạn với hành động này để tạo kho lưu trữ ZIP.";
 
 /* No comment provided by engineer. */
 "Invalid Code Signature" = "Mã chữ ký không hợp lệ";
@@ -1580,9 +1604,6 @@
 "New" = "Mới";
 
 /* No comment provided by engineer. */
-"New Argument" = "Thêm đối số mới";
-
-/* No comment provided by engineer. */
 "New Matching Pattern" = "Mô hình kết hợp mới";
 
 /* No comment provided by engineer. */
@@ -1665,6 +1686,12 @@
 
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
+
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
 
 /* No comment provided by engineer. */
 "Oops!" = "Rất tiếc!";
@@ -1763,7 +1790,7 @@
 "Phone Address" = "Địa chỉ điện thoại";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "Danh sách loại trừ cuộc gọi điện thoại";
+"Phone Call Exclusion List" = "Danh sách loại trừ cuộc gọi điện thoại";
 
 /* No comment provided by engineer. */
 "phone call recording" = "ghi âm cuộc gọi điện thoại";
@@ -1912,6 +1939,9 @@
 /* No comment provided by engineer. */
 "Proceed Anyway" = "Vẫn tiếp tục";
 
+/* TODO */
+"Process execution timeout" = "Process execution timeout";
+
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "Quá trình bị chấm dứt bởi tín hiệu %d.";
 
@@ -1996,6 +2026,9 @@
 /* No comment provided by engineer. */
 "Record" = "Ghi âm";
 
+/* TODO */
+"Record All Calls" = "Record All Calls";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Tự động ghi lại tất cả các cuộc gọi đến và đi.";
 
@@ -2007,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Chỉ Ghi Âm Khi Được Kết Nối";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Ghi lại với vị trí";
@@ -2112,9 +2148,6 @@
 
 /* No comment provided by engineer. */
 "Restart Render Server" = "Khởi động lại máy chủ kết xuất";
-
-/* No comment provided by engineer. */
-"Restart SpringBoard and “Launch Shield” widgets." = "Làm mới SpringBoard và “Launch Shield” widgets.";
 
 /* No comment provided by engineer. */
 "Restart SpringBoard and “Launch Shield” widgets." = "Làm mới SpringBoard và “Launch Shield” widgets.";
@@ -2541,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Nhấn vào __bất kỳ cạnh nào__  \nđể chọn nó làm ___cạnh hoạt động___.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "Nhấn lại để thực hiện cuộc gọi.";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "Nhấn lại để mở hoặc tìm kiếm vị trí trong Bản đồ.";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "Nhấn lại để bắt đầu cuộc gọi FaceTime.";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "Nhấn để thêm tiện ích cần thiết.";
@@ -3248,10 +3272,10 @@
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "Khi máy chủ WebDAV được bật, có cho phép bạn truy cập từ trình duyệt web thông thường như Safari, Chrome, Edge, v.v. hay không.";
 
 /* No comment provided by engineer. */
-"Whether to force the application to use the light or the dark user interface." = "Tuỳ chỉnh ứng dụng sử dụng giao diện người dùng sáng hay tối.";
+"Whether to force the application to use the light or the dark user interface." = "Cho dù buộc ứng dụng sử dụng giao diện người dùng sáng hay tối.";
 
 /* No comment provided by engineer. */
-"Whether to force the hoverball to use the light or the dark style." = "Tuỳ chỉnh cho bong bóng sử dụng giao diện sáng hoặc tối.";
+"Whether to force the hoverball to use the light or the dark style." = "Cho dù buộc bong bóng mọi nơi sử dụng phong cách ánh sáng hay bóng tối.";
 
 /* No comment provided by engineer. */
 "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Có lặp lại vô hạn việc phát âm thanh hay không. Nếu được bật, hành động này sẽ trả về ngay lập tức sau khi bắt đầu phát.";
@@ -3342,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” không có sẵn.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Cho phép ghi âm tự động” đã bị vô hiệu hóa: Các liên hệ VIP sẽ luôn được ghi âm và thêm vào danh sách yêu thích, trong khi các liên hệ khác sẽ không được ghi âm.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Cho phép ghi âm tự động” đã được bật: Các liên hệ trong “Danh sách loại trừ cuộc gọi” sẽ không được ghi âm, trong khi các liên hệ khác sẽ được ghi âm. Các bản ghi của các liên hệ VIP cũng sẽ được thêm vào danh sách yêu thích.";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "“Làm mới ứng dụng nền” đã bị từ chối.";

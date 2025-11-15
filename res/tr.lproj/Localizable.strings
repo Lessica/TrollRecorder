@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Add" = "Ekle";
 
+/* TODO */
+"Add Argument" = "Yeni Belge";
+
 /* No comment provided by engineer. */
 "Add Now" = "Şimdi ekle";
 
@@ -138,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "alive" = "canlı";
+
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
 
 /* No comment provided by engineer. */
 "All Edges" = "Tüm Kenarlar";
@@ -263,9 +269,6 @@
 "Audio CD" = "Ses CD";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "Ses Sıkıştırma";
-
-/* No comment provided by engineer. */
 "Audio File" = "Ses dosyası";
 
 /* No comment provided by engineer. */
@@ -298,6 +301,9 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "Otomatik Kayıt";
 
+/* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Karışık ve birleştirilmiş birincil kayıtların klonlarını her ay otomatik oluştur ve iCloud Drive'a sakla. Mevcut aya ait kayıtlar arşivlenmez.";
 
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "Uygulama başladığında GitHub'dan en son sürümü otomatik sorgula.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "İşaretlenenler hariç belirtilen tarihten önce oluşturulan kayıtları otomatik kaldır.";
@@ -348,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Toplu Dışa Aktar";
+
+/* TODO */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "%@ öncesi";
@@ -508,8 +529,8 @@
 /* No comment provided by engineer. */
 "Compiled at %@" = "%@ adresinde derlenmiştir";
 
-/* No comment provided by engineer. */
-"Compress Recording" = "Kaydı Sıkıştır";
+/* TODO */
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Katıştırılmış istemciyi WebDAV sunucu adresiniz, kullanıcı adınız ve parolanızla yapılandırın.";
@@ -624,9 +645,6 @@
 
 /* No comment provided by engineer. */
 "Could not sign out account: %@" = "Hesaptan çıkış yapılamadı: %@";
-
-/* No comment provided by engineer. */
-"Create Archive" = "Arşiv Oluştur";
 
 /* No comment provided by engineer. */
 "Created At" = "Oluşturulma Tarihi";
@@ -883,6 +901,9 @@
 /* No comment provided by engineer. */
 "Edit" = "Düzenle";
 
+/* TODO */
+"Edit Argument" = "Edit Argument";
+
 /* No comment provided by engineer. */
 "Empty Trash" = "Çöpü boşalt";
 
@@ -970,6 +991,12 @@
 /* No comment provided by engineer. */
 "Expand Recursively" = "Özyinelemeli Olarak Genişlet";
 
+/* TODO */
+"Export as is…" = "Export as is…";
+
+/* TODO */
+"Export as ZIP" = "Export as ZIP";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Kayıtları sınırlama olmadan istediğiniz yere aktarın.";
 
@@ -989,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime Ses";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "FaceTime Hariç Tutma Listesi";
+"FaceTime Exclusion List" = "FaceTime Hariç Tutma Listesi";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1003,6 +1030,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "Konuşma tanıyıcıyı mevcut yerel ayar “%@” kullanarak başlatma başarısız oldu.";
 
+/* TODO */
+"Failed to open file pipe" = "Failed to open file pipe";
+
 /* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "“%1$@” işlemi “%2$@” hizmet sağlayıcısı ile gerçekleştirilemedi”.";
 
@@ -1014,6 +1044,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Kaldırma başarısız: %@";
+
+/* TODO */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "Önemli bir hata oluştu. Devam etmek için yeniden yetkilendirmeniz gerekebilir.";
@@ -1190,9 +1223,6 @@
 "Hoverball Style" = "Hoverball Stili";
 
 /* No comment provided by engineer. */
-"How would you like to call?" = "Nasıl aramak istersiniz?";
-
-/* No comment provided by engineer. */
 "hud" = "hud";
 
 /* No comment provided by engineer. */
@@ -1211,10 +1241,13 @@
 "iCloud Drive" = "iCloud Drive";
 
 /* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
 
 /* No comment provided by engineer. */
 "Idle" = "Boşta";
+
+/* TODO */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "Arama indekslerinde bir sorun varsa, bunları buradan sıfırlayabilirsiniz.";
@@ -1278,12 +1311,6 @@
 
 /* No comment provided by engineer. */
 "Install Call History Tweak" = "Arama Geçmişi İnce Ayarını Yükle";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "“Kısayollar” içine “Sesi Sıkıştır” eylemini yükleyin, ardından sesinizi AAC/AIFF formatına sıkıştırmak için kayıtlarınızı bu eylemle paylaşın.";
-
-/* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "“Kısayollar” içine “Arşiv Oluştur” eylemini yükleyin, ardından bir ZIP arşivi oluşturmak için kayıtlarınızı bu eylemle paylaşın.";
 
 /* No comment provided by engineer. */
 "Invalid Code Signature" = "Geçersiz Kod İmzası";
@@ -1577,9 +1604,6 @@
 "New" = "Yeni";
 
 /* No comment provided by engineer. */
-"New Argument" = "Yeni Belge";
-
-/* No comment provided by engineer. */
 "New Matching Pattern" = "Yeni Eşleşen Desen";
 
 /* No comment provided by engineer. */
@@ -1662,6 +1686,12 @@
 
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
+
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
 
 /* No comment provided by engineer. */
 "Oops!" = "Eyvah!";
@@ -1760,7 +1790,7 @@
 "Phone Address" = "Telefon Adresi";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "Telefon Çağrısı Hariç Tutma Listesi";
+"Phone Call Exclusion List" = "Telefon Çağrısı Hariç Tutma Listesi";
 
 /* No comment provided by engineer. */
 "phone call recording" = "Telefon görüşmesi kaydı";
@@ -1909,6 +1939,9 @@
 /* No comment provided by engineer. */
 "Proceed Anyway" = "Yine de Devam Et";
 
+/* TODO */
+"Process execution timeout" = "Process execution timeout";
+
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "İşlem %d sinyaliyle sonlandırıldı.";
 
@@ -1993,6 +2026,9 @@
 /* No comment provided by engineer. */
 "Record" = "Kaydet";
 
+/* TODO */
+"Record All Calls" = "Record All Calls";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Tüm gelen ve giden çağrıları otomatik olarak kaydet.";
 
@@ -2004,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Yalnızca Bağlıyken Kaydet";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Konumla Kaydet";
@@ -2535,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "__Herhangi bir kenara__ dokunun  \nbunu ___aktif bir kenar___ olarak seçmek için.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "Telefon araması yapmak için tekrar dokunun.";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "Konumu Haritalar'da açmak veya aramak için tekrar dokunun.";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "FaceTime araması başlatmak için tekrar dokunun.";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "Gerekli widget'ı eklemek için dokunun.";
@@ -3336,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” mevcut değil.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Otomatik Kayda İzin Ver” devre dışı bırakıldı: VIP kişiler her zaman kaydedilecek ve favorilere eklenecek, diğer kişiler kaydedilmeyecek.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Otomatik Kayda İzin Ver” etkinleştirildi: “Çağrı Hariç Tutma Listesi “ndeki kişiler kaydedilmeyecek, diğer kişiler ise kaydedilecektir. VIP kişilerin kayıtları da favorilere eklenecektir.";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "“Arka Plan Uygulama Yenileme” İzni Reddedildi";

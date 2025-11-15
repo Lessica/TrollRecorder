@@ -104,6 +104,9 @@
 "Add" = "Add";
 
 /* TODO */
+"Add Argument" = "Add Argument";
+
+/* TODO */
 "Add Now" = "Add Now";
 
 /* TODO */
@@ -138,6 +141,9 @@
 
 /* TODO */
 "alive" = "alive";
+
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
 
 /* Translated with Microsoft Translator */
 "All Edges" = "Tous les bords";
@@ -262,9 +268,6 @@
 /* TODO */
 "Audio CD" = "Audio CD";
 
-/* No comment provided by engineer. */
-"Audio Compression" = "Compression audio";
-
 /* TODO */
 "Audio File" = "Audio File";
 
@@ -298,6 +301,9 @@
 /* No comment provided by engineer. */
 "Automatic Recording" = "Enregistrement automatique";
 
+/* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
 /* Translated with Microsoft Translator */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Créez automatiquement des clones pour les enregistrements primaires mixés et combinés chaque mois, et stockez-les dans iCloud Drive. Les enregistrements du mois en cours ne seront pas archivés.";
 
@@ -315,6 +321,18 @@
 
 /* Translated with Microsoft Translator */
 "Automatically query the latest version from GitHub when the application starts." = "Demander automatiquement la dernière version de GitHub au démarrage de l'application.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Supprimer automatiquement les enregistrements créés avant la date spécifiée, à l'exception de ceux marqués.";
@@ -348,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Exportation en lot";
+
+/* TODO */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* Translated with Microsoft Translator */
 "Before %@" = "Avant %@";
@@ -508,8 +529,8 @@
 /* TODO */
 "Compiled at %@" = "Compiled at %@";
 
-/* No comment provided by engineer. */
-"Compress Recording" = "Enregistrer la compression";
+/* TODO */
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
@@ -624,9 +645,6 @@
 
 /* TODO */
 "Could not sign out account: %@" = "Could not sign out account: %@";
-
-/* Translated with Microsoft Translator */
-"Create Archive" = "Créer une archive";
 
 /* No comment provided by engineer. */
 "Created At" = "Créé le";
@@ -883,6 +901,9 @@
 /* TODO */
 "Edit" = "Edit";
 
+/* TODO */
+"Edit Argument" = "Edit Argument";
+
 /* No comment provided by engineer. */
 "Empty Trash" = "Vider la poubelle";
 
@@ -970,6 +991,12 @@
 /* Translated with Microsoft Translator */
 "Expand Recursively" = "Développer de manière récursive";
 
+/* TODO */
+"Export as is…" = "Export as is…";
+
+/* TODO */
+"Export as ZIP" = "Export as ZIP";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Exportez les enregistrements où vous le souhaitez sans limitations.";
 
@@ -989,7 +1016,7 @@
 "FaceTime Audio" = "Audio FaceTime";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "Liste d'exclusion FaceTime";
+"FaceTime Exclusion List" = "Liste d'exclusion FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "VIP FaceTime";
@@ -1004,6 +1031,9 @@
 "Failed to initialize speech recognizer using current locale “%@”." = "Échec de l'initialisation du reconnaissance vocale en utilisant la locale actuelle « %@ ».";
 
 /* TODO */
+"Failed to open file pipe" = "Failed to open file pipe";
+
+/* TODO */
 "Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1044,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Échec de la suppression : %@";
+
+/* TODO */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* TODO */
 "Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
@@ -1189,9 +1222,6 @@
 /* No comment provided by engineer. */
 "Hoverball Style" = "Style du hoverball";
 
-/* Translated with Microsoft Translator */
-"How would you like to call?" = "Comment voulez-vous appeler ?";
-
 /* No comment provided by engineer. */
 "hud" = "hud";
 
@@ -1211,10 +1241,13 @@
 "iCloud Drive" = "iCloud Drive";
 
 /* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
 
 /* No comment provided by engineer. */
 "Idle" = "En veille";
+
+/* TODO */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
 
 /* Translated with Microsoft Translator */
 "If there is something wrong with the search indexes, you can reset them here." = "Si quelque chose ne va pas avec les index de recherche, vous pouvez les réinitialiser ici.";
@@ -1278,12 +1311,6 @@
 
 /* TODO */
 "Install Call History Tweak" = "Install Call History Tweak";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Installez l'action « Compress Audio » dans « Raccourcis », puis partagez vos enregistrements vers cette action pour compresser votre audio au format AAC/AIFF.";
-
-/* Translated with Microsoft Translator */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Installez l'action “Créer une archive” dans “Raccourcis”, puis partagez vos enregistrements avec cette action pour créer une archive ZIP.";
 
 /* TODO */
 "Invalid Code Signature" = "Invalid Code Signature";
@@ -1576,9 +1603,6 @@
 /* Translated with Microsoft Translator */
 "New" = "Nouveau";
 
-/* TODO */
-"New Argument" = "New Argument";
-
 /* No comment provided by engineer. */
 "New Matching Pattern" = "Nouveau Motif de Correspondance";
 
@@ -1662,6 +1686,12 @@
 
 /* TODO */
 "OneDrive" = "OneDrive";
+
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
 
 /* No comment provided by engineer. */
 "Oops!" = "Oups !";
@@ -1760,7 +1790,7 @@
 "Phone Address" = "Adresse téléphonique";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "Liste d'exclusion des appels téléphoniques";
+"Phone Call Exclusion List" = "Liste d'exclusion des appels téléphoniques";
 
 /* TODO */
 "phone call recording" = "phone call recording";
@@ -1910,6 +1940,9 @@
 "Proceed Anyway" = "Proceed Anyway";
 
 /* TODO */
+"Process execution timeout" = "Process execution timeout";
+
+/* TODO */
 "Process terminated by signal %d." = "Process terminated by signal %d.";
 
 /* TODO */
@@ -1993,6 +2026,9 @@
 /* Translated with Microsoft Translator */
 "Record" = "Enregistrer";
 
+/* TODO */
+"Record All Calls" = "Record All Calls";
+
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Enregistrer automatiquement tous les appels entrants et sortants.";
 
@@ -2004,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Enregistrer uniquement lorsqu'il est connecté";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Enregistrer avec emplacement";
@@ -2535,15 +2574,6 @@
 
 /* Translated with Microsoft Translator */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Appuyez sur __n'importe quel bord__  \npour le sélectionner en tant que ___bord actif___.";
-
-/* Translated with Microsoft Translator */
-"Tap again to make a phone call." = "Appuyez à nouveau pour passer un appel téléphonique.";
-
-/* Translated with Microsoft Translator */
-"Tap again to open or search the location in Maps." = "Touchez à nouveau pour ouvrir ou rechercher le lieu dans Maps.";
-
-/* Translated with Microsoft Translator */
-"Tap again to start a FaceTime call." = "Appuyez à nouveau pour démarrer un appel FaceTime.";
 
 /* TODO */
 "Tap to add required widget." = "Tap to add required widget.";
@@ -3336,12 +3366,6 @@
 
 /* Translated with Microsoft Translator */
 "“%@” is not available." = "“%@” n'est pas disponible";
-
-/* TODO */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
-
-/* TODO */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
 
 /* Translated with Microsoft Translator */
 "“Background App Refresh” Permission Denied" = "Refonte de l'arrière-plan Permission refusée";

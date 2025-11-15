@@ -103,6 +103,9 @@
 /* No comment provided by engineer. */
 "Add" = "قوشۇش";
 
+/* TODO */
+"Add Argument" = "يېڭى پارامېتىر";
+
 /* No comment provided by engineer. */
 "Add Now" = "ھازىر قوشۇش";
 
@@ -138,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "alive" = "ھايات";
+
+/* TODO */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
 
 /* No comment provided by engineer. */
 "All Edges" = "بارلىق گىرۋەكلەر";
@@ -263,9 +269,6 @@
 "Audio CD" = "ئاۋاز CD";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "ئاۋاز پرېسلاش";
-
-/* No comment provided by engineer. */
 "Audio File" = "ئاۋاز ھۆججىتى";
 
 /* No comment provided by engineer. */
@@ -299,6 +302,9 @@
 "Automatic Recording" = "ئاپتوماتىك ئۈنئېلىش";
 
 /* TODO */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
+/* TODO */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
 /* No comment provided by engineer. */
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "پروگرامما قوزغالغاندا، GitHub دىن ئاپتوماتىك ئەڭ يېڭى نەشرىنى سۈرۈشتۈرۈش.";
+
+/* TODO */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* TODO */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* TODO */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "بەلگىلەنگەن ۋاقىتتىن بۇرۇن قۇرۇلغان ئۈنئالغۇلارنى، ساقلاپ قېلىنغانلىرىدىن باشقىسىنى ئاپتوماتىك ئۆچۈرۈش.";
@@ -348,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "توپلاپ چىقىرىش";
+
+/* TODO */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "%@ دىن بۇرۇن";
@@ -508,8 +529,8 @@
 /* No comment provided by engineer. */
 "Compiled at %@" = "%@ دا تەرجىمە قىلىنغان";
 
-/* No comment provided by engineer. */
-"Compress Recording" = "ئۈنگە ئالغاننى پرېسلاش";
+/* TODO */
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "سىزنىڭ WebDAV مۇلازىمېتىر ئادرېسى، ئىشلەتكۈچى ئىسمى ۋە پارولىڭىز بىلەن كىرىشتۈرۈلگەن خېرىدارنى سەپلەڭ.";
@@ -624,9 +645,6 @@
 
 /* No comment provided by engineer. */
 "Could not sign out account: %@" = "ھېساباتتىن چىقالمىدى: %@";
-
-/* No comment provided by engineer. */
-"Create Archive" = "ئارخىپ قۇرۇش";
 
 /* No comment provided by engineer. */
 "Created At" = "قۇرۇلغان ۋاقىت";
@@ -883,6 +901,9 @@
 /* No comment provided by engineer. */
 "Edit" = "تەھرىرلەش";
 
+/* TODO */
+"Edit Argument" = "Edit Argument";
+
 /* No comment provided by engineer. */
 "Empty Trash" = "ئەخلەتدان بوشىتىش";
 
@@ -970,6 +991,12 @@
 /* No comment provided by engineer. */
 "Expand Recursively" = "چوڭقۇرلۇق بويىچە كېڭەيتىش";
 
+/* TODO */
+"Export as is…" = "Export as is…";
+
+/* TODO */
+"Export as ZIP" = "Export as ZIP";
+
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "ئۈن يازمىڭىزنى خالىغان يەرگە چەكلىمىسىز ئېكسپورت قىلىش.";
 
@@ -989,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime ئاۋاز";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "FaceTime چىقىرىۋېتىش تىزىملىكى";
+"FaceTime Exclusion List" = "FaceTime چىقىرىۋېتىش تىزىملىكى";
 
 /* TODO */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1003,6 +1030,9 @@
 /* No comment provided by engineer. */
 "Failed to initialize speech recognizer using current locale “%@”." = "نۆۋەتتىكى رايون “%@” نى ئىشلىتىپ سۆزنى تونۇش سىستېمىسىنى باشلىتالمىدى.";
 
+/* TODO */
+"Failed to open file pipe" = "Failed to open file pipe";
+
 /* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "مۇلازىمەت تەمىنلىگۈچى “%2$@” بىلەن “%1$@” مەشغۇلاتىنى ئورۇندىيالمىدى.";
 
@@ -1014,6 +1044,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "ئۆچۈرەلمىدى: %@";
+
+/* TODO */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "ئېغىر خاتالىق يۈز بەردى. داۋاملاشتۇرۇش ئۈچۈن قايتا كىرىشىڭىز كېرەك بولۇشى مۇمكىن.";
@@ -1190,9 +1223,6 @@
 "Hoverball Style" = "كۆرۈنۈش ئۇسلۇبى";
 
 /* No comment provided by engineer. */
-"How would you like to call?" = "قانداق چاقىرماقچى؟";
-
-/* No comment provided by engineer. */
 "hud" = "hud";
 
 /* No comment provided by engineer. */
@@ -1211,10 +1241,13 @@
 "iCloud Drive" = "iCloud Drive";
 
 /* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
 
 /* No comment provided by engineer. */
 "Idle" = "بىكار";
+
+/* TODO */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "ئەگەر ئىزدەش ئىندېكسلىرىدا مەسىلە بولسا، بۇ يەردە قايتا تەڭشىيەلەيسىز.";
@@ -1278,12 +1311,6 @@
 
 /* No comment provided by engineer. */
 "Install Call History Tweak" = "چاقىرىش تارىخى قىستۇرمىسىنى قاچىلاش";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "\"ئاۋاز پىرېسلەش\" ھەرىكىتىنى \"تېزلەتمىلەر\" گە قاچىلاڭ، ئاندىن ئۈن يازمىلىرىڭىزنى بۇ ھەرىكەتكە ھەمبەھىرلەپ ئاۋازىڭىزنى AAC/AIFF فورماتىغا پىرېسلىيالايسىز.";
-
-/* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "\"ئارخىپ قۇرۇش\" ھەرىكىتىنى \"تېزلەتمىلەر\" گە قاچىلاڭ، ئاندىن ئۈن يازمىلىرىڭىزنى بۇ ھەرىكەتكە ھەمبەھىرلەپ ZIP ئارخىپى قۇرالايسىز.";
 
 /* No comment provided by engineer. */
 "Invalid Code Signature" = "ئىناۋەتسىز كود ئىمزاسى";
@@ -1577,9 +1604,6 @@
 "New" = "يېڭى";
 
 /* No comment provided by engineer. */
-"New Argument" = "يېڭى پارامېتىر";
-
-/* No comment provided by engineer. */
 "New Matching Pattern" = "يېڭى ماسلىشىش ئۆرنىكى";
 
 /* No comment provided by engineer. */
@@ -1662,6 +1686,12 @@
 
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
+
+/* TODO */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* TODO */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
 
 /* No comment provided by engineer. */
 "Oops!" = "ئاپلا!";
@@ -1760,7 +1790,7 @@
 "Phone Address" = "تېلېفون نومۇرى";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "چاقىرىق چەكلەش تىزىملىكى";
+"Phone Call Exclusion List" = "چاقىرىق چەكلەش تىزىملىكى";
 
 /* No comment provided by engineer. */
 "phone call recording" = "تېلېفون چاقىرىق ئۈن-خاتىرىسى";
@@ -1910,6 +1940,9 @@
 "Proceed Anyway" = "داۋاملاشتۇرۇش";
 
 /* TODO */
+"Process execution timeout" = "Process execution timeout";
+
+/* TODO */
 "Process terminated by signal %d." = "Process terminated by signal %d.";
 
 /* No comment provided by engineer. */
@@ -1994,6 +2027,9 @@
 "Record" = "Record";
 
 /* TODO */
+"Record All Calls" = "Record All Calls";
+
+/* TODO */
 "Record all incoming and outgoing calls automatically." = "Record all incoming and outgoing calls automatically.";
 
 /* TODO */
@@ -2004,6 +2040,9 @@
 
 /* TODO */
 "Record Only When Connected" = "Record Only When Connected";
+
+/* TODO */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* TODO */
 "Record with Location" = "Record with Location";
@@ -2535,15 +2574,6 @@
 
 /* TODO */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "تېلېفون قىلىش ئۈچۈن قايتا چېكىڭ";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "خەرىتىدىن ئورۇننى ئىزدەش ياكى ئېچىش ئۈچۈن قايتا چېكىڭ";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "FaceTime چاقىرىش باشلاش ئۈچۈن قايتا چېكىڭ";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "زۆرۈر كىچىك پروگراممىنى قوشۇش ئۈچۈن چېكىڭ.";
@@ -3336,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” ئىشلەتكىلى بولمايدۇ.";
-
-/* TODO */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
-
-/* TODO */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
 
 /* TODO */
 "“Background App Refresh” Permission Denied" = "“Background App Refresh” Permission Denied";

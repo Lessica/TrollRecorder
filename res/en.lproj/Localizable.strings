@@ -104,6 +104,9 @@
 "Add" = "Add";
 
 /* No comment provided by engineer. */
+"Add Argument" = "Add Argument";
+
+/* No comment provided by engineer. */
 "Add Now" = "Add Now";
 
 /* No comment provided by engineer. */
@@ -138,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "alive" = "alive";
+
+/* No comment provided by engineer. */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
 
 /* No comment provided by engineer. */
 "All Edges" = "All Edges";
@@ -263,9 +269,6 @@
 "Audio CD" = "Audio CD";
 
 /* No comment provided by engineer. */
-"Audio Compression" = "Audio Compression";
-
-/* No comment provided by engineer. */
 "Audio File" = "Audio File";
 
 /* No comment provided by engineer. */
@@ -299,6 +302,9 @@
 "Automatic Recording" = "Automatic Recording";
 
 /* No comment provided by engineer. */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+
+/* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived.";
 
 /* No comment provided by engineer. */
@@ -315,6 +321,18 @@
 
 /* No comment provided by engineer. */
 "Automatically query the latest version from GitHub when the application starts." = "Automatically query the latest version from GitHub when the application starts.";
+
+/* No comment provided by engineer. */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+
+/* No comment provided by engineer. */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+
+/* No comment provided by engineer. */
+"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+
+/* No comment provided by engineer. */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Automatically remove recordings created earlier than specified date except those marked ones.";
@@ -348,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Batch Export" = "Batch Export";
+
+/* No comment provided by engineer. */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "Before %@";
@@ -509,7 +530,7 @@
 "Compiled at %@" = "Compiled at %@";
 
 /* No comment provided by engineer. */
-"Compress Recording" = "Compress Recording";
+"Compressing" = "Compressing";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
@@ -624,9 +645,6 @@
 
 /* No comment provided by engineer. */
 "Could not sign out account: %@" = "Could not sign out account: %@";
-
-/* No comment provided by engineer. */
-"Create Archive" = "Create Archive";
 
 /* No comment provided by engineer. */
 "Created At" = "Created At";
@@ -884,6 +902,9 @@
 "Edit" = "Edit";
 
 /* No comment provided by engineer. */
+"Edit Argument" = "Edit Argument";
+
+/* No comment provided by engineer. */
 "Empty Trash" = "Empty Trash";
 
 /* No comment provided by engineer. */
@@ -971,6 +992,12 @@
 "Expand Recursively" = "Expand Recursively";
 
 /* No comment provided by engineer. */
+"Export as is…" = "Export as is…";
+
+/* No comment provided by engineer. */
+"Export as ZIP" = "Export as ZIP";
+
+/* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Export recordings to anywhere you want without limitations.";
 
 /* No comment provided by engineer. */
@@ -989,7 +1016,7 @@
 "FaceTime Audio" = "FaceTime Audio";
 
 /* No comment provided by engineer. */
-"FaceTime Exclude List" = "FaceTime Exclude List";
+"FaceTime Exclusion List" = "FaceTime Exclusion List";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1004,6 +1031,9 @@
 "Failed to initialize speech recognizer using current locale “%@”." = "Failed to initialize speech recognizer using current locale “%@”.";
 
 /* No comment provided by engineer. */
+"Failed to open file pipe" = "Failed to open file pipe";
+
+/* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1044,9 @@
 
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "Failed to remove: %@";
+
+/* No comment provided by engineer. */
+"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
@@ -1190,9 +1223,6 @@
 "Hoverball Style" = "Hoverball Style";
 
 /* No comment provided by engineer. */
-"How would you like to call?" = "How would you like to call?";
-
-/* No comment provided by engineer. */
 "hud" = "hud";
 
 /* No comment provided by engineer. */
@@ -1211,10 +1241,13 @@
 "iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
-"ICP Filling Number: 苏ICP备15002715号-2" = "ICP Filling Number: 苏ICP备15002715号-2";
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
 
 /* No comment provided by engineer. */
 "Idle" = "Idle";
+
+/* No comment provided by engineer. */
+"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "If there is something wrong with the search indexes, you can reset them here.";
@@ -1278,12 +1311,6 @@
 
 /* No comment provided by engineer. */
 "Install Call History Tweak" = "Install Call History Tweak";
-
-/* No comment provided by engineer. */
-"Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format.";
-
-/* No comment provided by engineer. */
-"Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive.";
 
 /* No comment provided by engineer. */
 "Invalid Code Signature" = "Invalid Code Signature";
@@ -1577,9 +1604,6 @@
 "New" = "New";
 
 /* No comment provided by engineer. */
-"New Argument" = "New Argument";
-
-/* No comment provided by engineer. */
 "New Matching Pattern" = "New Matching Pattern";
 
 /* No comment provided by engineer. */
@@ -1662,6 +1686,12 @@
 
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
+
+/* No comment provided by engineer. */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+
+/* No comment provided by engineer. */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
 
 /* No comment provided by engineer. */
 "Oops!" = "Oops!";
@@ -1760,7 +1790,7 @@
 "Phone Address" = "Phone Address";
 
 /* No comment provided by engineer. */
-"Phone Call Exclude List" = "Phone Call Exclude List";
+"Phone Call Exclusion List" = "Phone Call Exclusion List";
 
 /* No comment provided by engineer. */
 "phone call recording" = "phone call recording";
@@ -1910,6 +1940,9 @@
 "Proceed Anyway" = "Proceed Anyway";
 
 /* No comment provided by engineer. */
+"Process execution timeout" = "Process execution timeout";
+
+/* No comment provided by engineer. */
 "Process terminated by signal %d." = "Process terminated by signal %d.";
 
 /* No comment provided by engineer. */
@@ -1994,6 +2027,9 @@
 "Record" = "Record";
 
 /* No comment provided by engineer. */
+"Record All Calls" = "Record All Calls";
+
+/* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Record all incoming and outgoing calls automatically.";
 
 /* No comment provided by engineer. */
@@ -2004,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Record Only When Connected";
+
+/* No comment provided by engineer. */
+"Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Record with Location";
@@ -2535,15 +2574,6 @@
 
 /* No comment provided by engineer. */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Tap __any edge__  \nto select it as an ___active edge___.";
-
-/* No comment provided by engineer. */
-"Tap again to make a phone call." = "Tap again to make a phone call.";
-
-/* No comment provided by engineer. */
-"Tap again to open or search the location in Maps." = "Tap again to open or search the location in Maps.";
-
-/* No comment provided by engineer. */
-"Tap again to start a FaceTime call." = "Tap again to start a FaceTime call.";
 
 /* No comment provided by engineer. */
 "Tap to add required widget." = "Tap to add required widget.";
@@ -3336,12 +3366,6 @@
 
 /* No comment provided by engineer. */
 "“%@” is not available." = "“%@” is not available.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
-
-/* No comment provided by engineer. */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
 
 /* No comment provided by engineer. */
 "“Background App Refresh” Permission Denied" = "“Background App Refresh” Permission Denied";
