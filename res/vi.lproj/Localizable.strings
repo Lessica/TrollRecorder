@@ -143,7 +143,7 @@
 "alive" = "tồn tại";
 
 /* TODO */
-"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "Tất cả các cuộc gọi sẽ được ghi âm tự động, ngoại trừ các liên hệ trong "Danh sách loại trừ". Các liên hệ VIP cũng sẽ được thêm vào danh sách yêu thích.";
 
 /* No comment provided by engineer. */
 "All Edges" = "Tất Cả Các Cạnh";
@@ -302,7 +302,7 @@
 "Automatic Recording" = "Ghi Âm Tự Động";
 
 /* TODO */
-"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Tính năng ghi âm tự động đã bị tắt. Cuộc gọi sẽ không được ghi âm tự động trong mọi trường hợp.";
 
 /* No comment provided by engineer. */
 "Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Tự động tạo bản sao cho các bản ghi chính hỗn hợp & kết hợp mỗi tháng và lưu trữ chúng trong iCloud Drive. Các bản ghi từ tháng hiện tại sẽ không được lưu trữ.";
@@ -323,16 +323,16 @@
 "Automatically query the latest version from GitHub when the application starts." = "Tự động truy vấn phiên bản mới nhất từ ​​GitHub khi ứng dụng khởi động.";
 
 /* TODO */
-"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Tự động ghi lại tất cả các cuộc gọi FaceTime: Loại trừ các liên hệ trong “Danh sách loại trừ”.";
 
 /* TODO */
-"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+"Automatically record FaceTime calls from contacts not in your address book." = "Tự động ghi lại cuộc gọi FaceTime từ những số liên lạc không có trong Danh bạ của bạn.";
 
 /* TODO */
-"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+"Automatically record phone calls from contacts not in your address book." = "Tự động ghi âm cuộc gọi từ những số liên lạc không có trong Danh bạ của bạn.";
 
 /* TODO */
-"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Tự động ghi âm cuộc gọi điện thoại: Loại trừ các số liên lạc trong “Danh sách loại trừ”.";
 
 /* No comment provided by engineer. */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Tự động xóa các bản ghi được tạo sớm hơn ngày được chỉ định ngoại trừ những bản được đánh dấu.";
@@ -368,7 +368,7 @@
 "Batch Export" = "Xuất hàng loạt";
 
 /* TODO */
-"BatchExport_%@.zip" = "BatchExport_%@.zip";
+"BatchExport_%@.zip" = "XuấtNhiều_%@.zip";
 
 /* No comment provided by engineer. */
 "Before %@" = "Trước %@";
@@ -530,7 +530,7 @@
 "Compiled at %@" = "Tổng hợp tại %@";
 
 /* TODO */
-"Compressing" = "Compressing";
+"Compressing" = "Nén";
 
 /* No comment provided by engineer. */
 "Configure the embedded client with your WebDAV server address, username and password." = "Định cấu hình máy khách nhúng với địa chỉ máy chủ, tên người dùng và mật khẩu WebDAV của bạn.";
@@ -557,7 +557,7 @@
 "Constants" = "Hằng Số";
 
 /* No comment provided by engineer. */
-"Contact Exceptions" = "Ngoại lệ liên hệ";
+"Contact Exceptions" = "Ngoại Lệ Liên Hệ";
 
 /* No comment provided by engineer. */
 "Contact Name" = "Tên Liên Hệ";
@@ -578,7 +578,7 @@
 "Contact via QQ" = "Liên hệ qua QQ";
 
 /* TODO */
-"Contact via TikTok" = "Contact via TikTok";
+"Contact via TikTok" = "Liên hệ qua TikTok";
 
 /* No comment provided by engineer. */
 "Contacts" = "Liên hệ";
@@ -902,7 +902,7 @@
 "Edit" = "Chỉnh sửa";
 
 /* TODO */
-"Edit Argument" = "Edit Argument";
+"Edit Argument" = "Chỉnh sửa đối số";
 
 /* No comment provided by engineer. */
 "Empty Trash" = "Xoá thùng rác";
@@ -992,10 +992,10 @@
 "Expand Recursively" = "Mở rộng đệ quy";
 
 /* TODO */
-"Export as is…" = "Export as is…";
+"Export as is…" = "Xuất dưới dạng...";
 
 /* TODO */
-"Export as ZIP" = "Export as ZIP";
+"Export as ZIP" = "Xuất dưới dạng ZIP";
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";
@@ -1016,7 +1016,7 @@
 "FaceTime Audio" = "Âm thanh FaceTime";
 
 /* No comment provided by engineer. */
-"FaceTime Exclusion List" = "Danh sách loại trừ FaceTime";
+"FaceTime Exclusion List" = "Danh sách trắng FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1031,7 +1031,7 @@
 "Failed to initialize speech recognizer using current locale “%@”." = "Không thể khởi tạo bộ nhận dạng giọng nói bằng cách sử dụng ngôn ngữ hiện tại “%@”.";
 
 /* TODO */
-"Failed to open file pipe" = "Failed to open file pipe";
+"Failed to open file pipe" = "Không mở được đường dẫn tệp";
 
 /* No comment provided by engineer. */
 "Failed to perform “%@” operation with service provider “%@”." = "Thực hiện thao tác “%1$@” với nhà cung cấp “%2$@” thất bại.";
@@ -1046,7 +1046,7 @@
 "Failed to remove: %@" = "Không thể xóa: %@";
 
 /* TODO */
-"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
+"Failed to spawn process, reason: %s (%d)" = "Không thể tạo tiến trình, lý do: %s (%2$d)";
 
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "Đã xảy ra lỗi nghiêm trọng. Bạn cần xác thực lại để tiếp tục.";
@@ -1241,13 +1241,13 @@
 "iCloud Drive" = "iCloud Drive";
 
 /* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
+"ICP Filling Number: 苏ICP备15002715号-2A" = "Số Hồ Sơ ICP: 苏ICP备15002715号-2A";
 
 /* No comment provided by engineer. */
 "Idle" = "Nhàn rỗi";
 
 /* TODO */
-"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
+"If the value contains spaces, please enclose it in quotes." = "Nếu giá trị chứa khoảng trắng, vui lòng đặt trong dấu ngoặc kép.";
 
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "Nếu có vấn đề gì với chỉ mục tìm kiếm, bạn có thể thiết lập lại chúng tại đây.";
@@ -1400,7 +1400,7 @@
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
 
 /* No comment provided by engineer. */
-"List and Detail" = "Danh sách và Chi tiết";
+"List and Detail" = "D.Sách & C.Tiết";
 
 /* No comment provided by engineer. */
 "Loading…" = "Đang tải…";
@@ -1688,10 +1688,10 @@
 "OneDrive" = "OneDrive";
 
 /* TODO */
-"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Chỉ những cuộc gọi từ các liên hệ không có trong sổ Danh bạ hoặc danh sách "VIP" mới được tự động ghi âm. Các liên hệ VIP cũng sẽ được thêm vào danh sách yêu thích.";
 
 /* TODO */
-"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Chỉ những cuộc gọi từ danh bạ VIP mới được tự động ghi âm và thêm vào mục yêu thích.";
 
 /* No comment provided by engineer. */
 "Oops!" = "Rất tiếc!";
@@ -1790,13 +1790,13 @@
 "Phone Address" = "Địa chỉ điện thoại";
 
 /* No comment provided by engineer. */
-"Phone Call Exclusion List" = "Danh sách loại trừ cuộc gọi điện thoại";
+"Phone Call Exclusion List" = "Danh sách trắng Cuộc gọi";
 
 /* No comment provided by engineer. */
 "phone call recording" = "ghi âm cuộc gọi điện thoại";
 
 /* No comment provided by engineer. */
-"Phone Call VIP" = "Cuộc gọi điện thoại VIP";
+"Phone Call VIP" = "Cuộc Gọi VIP";
 
 /* No comment provided by engineer. */
 "Phone Number" = "Số điện thoại";
@@ -1940,7 +1940,7 @@
 "Proceed Anyway" = "Vẫn tiếp tục";
 
 /* TODO */
-"Process execution timeout" = "Process execution timeout";
+"Process execution timeout" = "Hết thời gian chờ cho quá trình hiện tại";
 
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "Quá trình bị chấm dứt bởi tín hiệu %d.";
@@ -2027,7 +2027,7 @@
 "Record" = "Ghi âm";
 
 /* TODO */
-"Record All Calls" = "Record All Calls";
+"Record All Calls" = "Ghi Âm Tất Cả Cuộc Gọi";
 
 /* No comment provided by engineer. */
 "Record all incoming and outgoing calls automatically." = "Tự động ghi lại tất cả các cuộc gọi đến và đi.";
@@ -2042,7 +2042,7 @@
 "Record Only When Connected" = "Chỉ Ghi Âm Khi Được Kết Nối";
 
 /* TODO */
-"Record Unknown Calls" = "Record Unknown Calls";
+"Record Unknown Calls" = "Ghi Âm Cuộc Gọi Không Xác Định";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Ghi lại với vị trí";
@@ -2567,7 +2567,7 @@
 "system audio recording" = "ghi âm hệ thống";
 
 /* No comment provided by engineer. */
-"System Language" = "Ngôn ngữ hệ thống";
+"System Language" = "Hệ Thống";
 
 /* No comment provided by engineer. */
 "System Record" = "Ghi âm hệ thống";
