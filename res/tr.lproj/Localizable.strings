@@ -16,6 +16,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ yapılandırılmamış olabilir";
 
+/* TODO */
+"%@ Reason: %@" = "%1$@ Reason: %2$@";
+
 /* No comment provided by engineer. */
 "%@ rows not loaded" = "%@ satır yüklenmedi";
 
@@ -150,6 +153,9 @@
 
 /* No comment provided by engineer. */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Tüm kayıtlar 7 gün boyunca saklanır. Eski kayıtlar otomatik olarak silinir.";
+
+/* TODO */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "Arama Geçmişine Erişime İzin Ver";
@@ -544,6 +550,9 @@
 /* No comment provided by engineer. */
 "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Havoc hesabınızı onaylayın, bu satın alma işleminin tek kanıtıdır. Unutulan hesaplar nedeniyle oluşabilecek yetki kayıplarından siz sorumlusunuz. Bir satın alma işlemi yaparken, ödemeyi tamamlamak için lütfen sayfadaki tutara tıklayın, hediye simgesine tıklamayın.";
 
+/* TODO */
+"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+
 /* No comment provided by engineer. */
 "connected" = "bağlandı";
 
@@ -617,13 +626,16 @@
 "Copied" = "Kopyalandı";
 
 /* No comment provided by engineer. */
-"Copied Transcript" = "Transkript Kopyalandı";
-
-/* No comment provided by engineer. */
 "Copy" = "Kopyala";
 
 /* No comment provided by engineer. */
 "Copy Key" = "Anahtarı Kopyala";
+
+/* TODO */
+"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+
+/* TODO */
+"Copy Password" = "Copy Password";
 
 /* No comment provided by engineer. */
 "Copy Path" = "Yolu Kopyala";
@@ -958,6 +970,12 @@
 /* No comment provided by engineer. */
 "Ensure Daemon Is Running" = "Daemon'un Çalıştığından Emin Olun";
 
+/* TODO */
+"Enter Pairing Code" = "Enter Pairing Code";
+
+/* TODO */
+"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+
 /* No comment provided by engineer. */
 "Enter your password" = "Şifrenizi girin";
 
@@ -1000,7 +1018,13 @@
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Kayıtları sınırlama olmadan istediğiniz yere aktarın.";
 
-/* No comment provided by engineer. */
+/* TODO */
+"Export Service Ready" = "Export Service Ready";
+
+/* TODO */
+"Export to Another Device" = "Export to Another Device";
+
+/* TODO */
 "Export to Anywhere" = "Her Yere Aktar";
 
 /* No comment provided by engineer. */
@@ -1273,6 +1297,18 @@
 /* TODO */
 "Import as Ringtone" = "Import as Ringtone";
 
+/* TODO */
+"Import Complete" = "Import Complete";
+
+/* TODO */
+"Import Failed" = "Import Failed";
+
+/* TODO */
+"Import From Another Device" = "Import From Another Device";
+
+/* TODO */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1 Saat İçinde";
 
@@ -1375,6 +1411,9 @@
 /* No comment provided by engineer. */
 "launch" = "başlat";
 
+/* TODO */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "Sonda Uygulamayı Başlat";
 
@@ -1399,8 +1438,14 @@
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Cihazı Havoc'a Bağla";
 
+/* TODO */
+"List" = "List";
+
 /* No comment provided by engineer. */
 "List and Detail" = "Liste ve Ayrıntı";
+
+/* TODO */
+"List view enabled" = "List view enabled";
 
 /* No comment provided by engineer. */
 "Loading…" = "Yükleniyor…";
@@ -1431,6 +1476,12 @@
 
 /* No comment provided by engineer. */
 "Logging" = "Günlük Kaydı";
+
+/* TODO */
+"Login Name: %@" = "Login Name: %@";
+
+/* TODO */
+"Login Password: " = "Login Password: ";
 
 /* No comment provided by engineer. */
 "Login Tips" = "Giriş İpuçları";
@@ -1494,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Maximum" = "Maksimum";
+
+/* TODO */
+"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
 
 /* No comment provided by engineer. */
 "Medium" = "Orta";
@@ -1627,6 +1681,9 @@
 /* No comment provided by engineer. */
 "No Recording" = "Kayıt Yok";
 
+/* TODO */
+"No Recordings to Export" = "No Recordings to Export";
+
 /* No comment provided by engineer. */
 "No speech detected." = "Konuşma algılanmadı.";
 
@@ -1684,6 +1741,9 @@
 /* No comment provided by engineer. */
 "On" = "Açık";
 
+/* TODO */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
@@ -1735,6 +1795,12 @@
 /* No comment provided by engineer. */
 "Options" = "Seçenekler";
 
+/* TODO */
+"Orbit" = "Orbit";
+
+/* TODO */
+"Orbit view enabled" = "Orbit view enabled";
+
 /* No comment provided by engineer. */
 "Outgoing" = "Giden";
 
@@ -1756,8 +1822,17 @@
 /* No comment provided by engineer. */
 "Page not found" = "Sayfa bulunamadı";
 
+/* TODO */
+"Pairing code" = "Pairing code";
+
+/* TODO */
+"Passcode: %@" = "Passcode: %@";
+
 /* No comment provided by engineer. */
 "Password (Optional)" = "Şifre (İsteğe Bağlı)";
+
+/* TODO */
+"Password Copied" = "Password Copied";
 
 /* No comment provided by engineer. */
 "path" = "yol";
@@ -1861,6 +1936,9 @@
 /* No comment provided by engineer. */
 "Please enter the server URL." = "Lütfen sunucu URL'sini girin.";
 
+/* TODO */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+
 /* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "TrollRecorder'ın yalnızca Havoc mağazası aracılığıyla satıldığını ve kullanılabileceğini lütfen unutmayın. Başka hiçbir kanal aracılığıyla satış yapmıyoruz. Mağaza sayfasını açmak üzeresiniz: Havoc mağazasını'nı ilk kez kullanıyorsanız, Google hesabınızla oturum açmanızı öneririz. Çin anakarasında bir kullanıcıysanız, Google'da oturum açmak özel bir ağ gerektirir.";
 
@@ -1872,6 +1950,12 @@
 
 /* No comment provided by engineer. */
 "Please remember to uninstall “%@” from TrollStore." = "Lütfen “%@” uygulamasını TrollStore'dan kaldırmayı unutmayın.";
+
+/* TODO */
+"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+
+/* TODO */
+"Please try again in a moment." = "Please try again in a moment.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Açılır Pencere Kontrolü";
@@ -1902,6 +1986,9 @@
 
 /* No comment provided by engineer. */
 "Preparing" = "Hazırlanıyor";
+
+/* TODO */
+"Preparing Export Service" = "Preparing Export Service";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Tüm Kanalları Koru";
@@ -1942,8 +2029,14 @@
 /* TODO */
 "Process execution timeout" = "Process execution timeout";
 
+/* TODO */
+"Process exited with status %d." = "Process exited with status %d.";
+
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "İşlem %d sinyaliyle sonlandırıldı.";
+
+/* TODO */
+"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
 
 /* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "İşlem %1$d çıkış koduyla sonlandırıldı.\n%2$@";
@@ -2016,6 +2109,9 @@
 
 /* No comment provided by engineer. */
 "Received transient error: %@" = "Geçici hata alındı: %@";
+
+/* TODO */
+"Receiving Recordings" = "Receiving Recordings";
 
 /* No comment provided by engineer. */
 "Recents Only" = "Yalnızca Son Kullanılanlar";
@@ -2137,6 +2233,9 @@
 /* No comment provided by engineer. */
 "Reset All Shortcuts" = "Tüm Kısayolları Sıfırla";
 
+/* TODO */
+"Reset Password" = "Reset Password";
+
 /* No comment provided by engineer. */
 "Reset Search Indexes" = "Arama Dizilerini Sıfırla";
 
@@ -2193,6 +2292,9 @@
 
 /* No comment provided by engineer. */
 "Root" = "Kök";
+
+/* TODO */
+"Root directory is empty." = "Root directory is empty.";
 
 /* TODO */
 "RootHide Jailbreak" = "RootHide Jailbreak";
@@ -2263,6 +2365,9 @@
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "Kısayolları Ara…";
 
+/* TODO */
+"Searching for nearby devices" = "Searching for nearby devices";
+
 /* No comment provided by engineer. */
 "Search…" = "Ara…";
 
@@ -2282,7 +2387,7 @@
 "Select" = "Seç";
 
 /* No comment provided by engineer. */
-"Select a recording to play." = "Oynatılacak bir kayıt seçin.";
+"Select a recording to view or play." = "Oynatılacak bir kayıt seçin.";
 
 /* No comment provided by engineer. */
 "Select All" = "Tümünü Seç";
@@ -2473,6 +2578,9 @@
 /* No comment provided by engineer. */
 "Start Voice Memo Recording" = "Sesli Not Kaydını Başlat";
 
+/* TODO */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+
 /* No comment provided by engineer. */
 "status" = "Durum";
 
@@ -2526,6 +2634,12 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "Önerilen Uygulamalar";
+
+/* TODO */
+"Switch to list view" = "Switch to list view";
+
+/* TODO */
+"Switch to orbit view" = "Switch to orbit view";
 
 /* No comment provided by engineer. */
 "Sync" = "Senkronize Et";
@@ -2590,6 +2704,9 @@
 /* No comment provided by engineer. */
 "Tap to open settings." = "Ayarları açmak için dokunun.";
 
+/* TODO */
+"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+
 /* No comment provided by engineer. */
 "Tap to view details" = "Detayları görüntülemek için dokunun";
 
@@ -2610,6 +2727,9 @@
 
 /* No comment provided by engineer. */
 "Test Connection" = "Test Bağlantısı";
+
+/* TODO */
+"Text Copied" = "Text Copied";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "Metinden sese";
@@ -2685,6 +2805,9 @@
 
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Saniyedeki örnek sayısı, daha yüksek örnekleme oranı daha büyük dosya boyutuyla daha iyi ses kalitesi demektir.";
+
+/* TODO */
+"the other device" = "the other device";
 
 /* No comment provided by engineer. */
 "The phone number of the contact." = "Kişinin telefon numarası.";
@@ -2779,6 +2902,9 @@
 /* No comment provided by engineer. */
 "This version of WeChat (%@) is supported." = "WeChat'in bu sürümü (%@) desteklenmektedir.";
 
+/* TODO */
+"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "Üç Haneli Milisaniye";
 
@@ -2872,8 +2998,14 @@
 /* No comment provided by engineer. */
 "Transcript" = "Transkript";
 
+/* TODO */
+"Transcript Copied" = "Transkript Kopyalandı";
+
 /* No comment provided by engineer. */
 "Transfer exceeded." = "Transfer aşıldı.";
+
+/* TODO */
+"Transfer Recordings" = "Transfer Recordings";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Boştayken Geçiş";
@@ -2886,6 +3018,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
+
+/* TODO */
+"Troll Recorder %@" = "Troll Recorder %@";
 
 /* No comment provided by engineer. */
 "tts" = "tts";
@@ -3211,11 +3346,17 @@
 /* No comment provided by engineer. */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Özel tarama modunda satın alma işleminizi doğrulayamıyoruz. Devam etmek için lütfen Safari'nin özel tarama modunda olmadığınızdan emin olun.";
 
+/* TODO */
+"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Renkli ve hareketli arka planları seviyoruz ama burada devre dışı bırakma seçeneğiniz var.";
 
 /* No comment provided by engineer. */
 "WebDAV" = "WebDAV";
+
+/* TODO */
+"WebDAV Password Actions" = "WebDAV Password Actions";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV Sunucusu";
@@ -3291,6 +3432,9 @@
 
 /* No comment provided by engineer. */
 "Why don’t you make a phone call?" = "Neden bir telefon görüşmesi yapmıyorsun?";
+
+/* TODO */
+"Wi-Fi Required" = "Wi-Fi Required";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Mevcut uygulamadaki sesli veya görüntülü aramalarda otomatik olarak kayıt başlatacak.";

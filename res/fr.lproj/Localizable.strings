@@ -16,6 +16,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ Peut ne pas être configuré.";
 
+/* TODO */
+"%@ Reason: %@" = "%1$@ Reason: %2$@";
+
 /* Translated with Microsoft Translator */
 "%@ rows not loaded" = "%@ lignes non chargées";
 
@@ -150,6 +153,9 @@
 
 /* Translated with Microsoft Translator */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Tous les journaux sont conservés pendant 7 jours. Les journaux périmés seront automatiquement supprimés.";
+
+/* TODO */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
 
 /* Translated with Microsoft Translator */
 "Allow Access to Call History" = "Autoriser l'accès à l'historique des appels";
@@ -544,6 +550,9 @@
 /* TODO */
 "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
 
+/* TODO */
+"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+
 /* Translated with Microsoft Translator */
 "connected" = "connecté";
 
@@ -616,14 +625,17 @@
 /* No comment provided by engineer. */
 "Copied" = "Copié";
 
-/* No comment provided by engineer. */
-"Copied Transcript" = "Transcription copiée";
-
 /* Translated with Microsoft Translator */
 "Copy" = "Copie";
 
 /* Translated with Microsoft Translator */
 "Copy Key" = "Touche de copie";
+
+/* TODO */
+"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+
+/* TODO */
+"Copy Password" = "Copy Password";
 
 /* No comment provided by engineer. */
 "Copy Path" = "Copier le chemin";
@@ -958,6 +970,12 @@
 /* TODO */
 "Ensure Daemon Is Running" = "Ensure Daemon Is Running";
 
+/* TODO */
+"Enter Pairing Code" = "Enter Pairing Code";
+
+/* TODO */
+"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+
 /* No comment provided by engineer. */
 "Enter your password" = "Entrez votre mot de passe";
 
@@ -1000,7 +1018,13 @@
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Exportez les enregistrements où vous le souhaitez sans limitations.";
 
-/* No comment provided by engineer. */
+/* TODO */
+"Export Service Ready" = "Export Service Ready";
+
+/* TODO */
+"Export to Another Device" = "Export to Another Device";
+
+/* TODO */
 "Export to Anywhere" = "Exporter partout";
 
 /* Translated with Microsoft Translator */
@@ -1273,6 +1297,18 @@
 /* TODO */
 "Import as Ringtone" = "Import as Ringtone";
 
+/* TODO */
+"Import Complete" = "Import Complete";
+
+/* TODO */
+"Import Failed" = "Import Failed";
+
+/* TODO */
+"Import From Another Device" = "Import From Another Device";
+
+/* TODO */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "Dans 1 heure";
 
@@ -1375,6 +1411,9 @@
 /* TODO */
 "launch" = "launch";
 
+/* TODO */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "Lancer l'application à la fin";
 
@@ -1400,7 +1439,13 @@
 "Link Device to Havoc" = "Lier l'appareil à Havoc";
 
 /* TODO */
+"List" = "List";
+
+/* TODO */
 "List and Detail" = "List and Detail";
+
+/* TODO */
+"List view enabled" = "List view enabled";
 
 /* No comment provided by engineer. */
 "Loading…" = "Chargement…";
@@ -1431,6 +1476,12 @@
 
 /* Translated with Microsoft Translator */
 "Logging" = "Enregistrement";
+
+/* TODO */
+"Login Name: %@" = "Login Name: %@";
+
+/* TODO */
+"Login Password: " = "Login Password: ";
 
 /* TODO */
 "Login Tips" = "Login Tips";
@@ -1494,6 +1545,9 @@
 
 /* Translated with Microsoft Translator */
 "Maximum" = "Maximum";
+
+/* TODO */
+"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
 
 /* No comment provided by engineer. */
 "Medium" = "Moyen";
@@ -1627,6 +1681,9 @@
 /* No comment provided by engineer. */
 "No Recording" = "Aucun enregistrement";
 
+/* TODO */
+"No Recordings to Export" = "No Recordings to Export";
+
 /* No comment provided by engineer. */
 "No speech detected." = "Aucune parole détectée.";
 
@@ -1685,6 +1742,9 @@
 "On" = "On";
 
 /* TODO */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+
+/* TODO */
 "OneDrive" = "OneDrive";
 
 /* TODO */
@@ -1735,6 +1795,12 @@
 /* TODO */
 "Options" = "Options";
 
+/* TODO */
+"Orbit" = "Orbit";
+
+/* TODO */
+"Orbit view enabled" = "Orbit view enabled";
+
 /* No comment provided by engineer. */
 "Outgoing" = "Sortant";
 
@@ -1757,7 +1823,16 @@
 "Page not found" = "Page non trouvée";
 
 /* TODO */
+"Pairing code" = "Pairing code";
+
+/* TODO */
+"Passcode: %@" = "Passcode: %@";
+
+/* TODO */
 "Password (Optional)" = "Password (Optional)";
+
+/* TODO */
+"Password Copied" = "Password Copied";
 
 /* Translated with Microsoft Translator */
 "path" = "chemin";
@@ -1862,6 +1937,9 @@
 "Please enter the server URL." = "Please enter the server URL.";
 
 /* TODO */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+
+/* TODO */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
 
 /* TODO */
@@ -1872,6 +1950,12 @@
 
 /* TODO */
 "Please remember to uninstall “%@” from TrollStore." = "Please remember to uninstall “%@” from TrollStore.";
+
+/* TODO */
+"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+
+/* TODO */
+"Please try again in a moment." = "Please try again in a moment.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Contrôle de fenêtre contextuelle";
@@ -1902,6 +1986,9 @@
 
 /* Translated with Microsoft Translator */
 "Preparing" = "Préparation";
+
+/* TODO */
+"Preparing Export Service" = "Preparing Export Service";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Préserver tous les canaux";
@@ -1943,7 +2030,13 @@
 "Process execution timeout" = "Process execution timeout";
 
 /* TODO */
+"Process exited with status %d." = "Process exited with status %d.";
+
+/* TODO */
 "Process terminated by signal %d." = "Process terminated by signal %d.";
+
+/* TODO */
+"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
 
 /* TODO */
 "Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
@@ -2016,6 +2109,9 @@
 
 /* TODO */
 "Received transient error: %@" = "Received transient error: %@";
+
+/* TODO */
+"Receiving Recordings" = "Receiving Recordings";
 
 /* TODO */
 "Recents Only" = "Recents Only";
@@ -2137,6 +2233,9 @@
 /* Translated with Microsoft Translator */
 "Reset All Shortcuts" = "Réinitialiser tous les raccourcis";
 
+/* TODO */
+"Reset Password" = "Reset Password";
+
 /* Translated with Microsoft Translator */
 "Reset Search Indexes" = "Réinitialiser les index de recherche";
 
@@ -2193,6 +2292,9 @@
 
 /* Translated with Microsoft Translator */
 "Root" = "Racine";
+
+/* TODO */
+"Root directory is empty." = "Root directory is empty.";
 
 /* TODO */
 "RootHide Jailbreak" = "RootHide Jailbreak";
@@ -2264,6 +2366,9 @@
 "Search Shortcuts…" = "Raccourcis de recherche...";
 
 /* TODO */
+"Searching for nearby devices" = "Searching for nearby devices";
+
+/* TODO */
 "Search…" = "Search…";
 
 /* Translated with Microsoft Translator */
@@ -2282,7 +2387,7 @@
 "Select" = "Sélectionner";
 
 /* No comment provided by engineer. */
-"Select a recording to play." = "Sélectionnez un enregistrement à lire.";
+"Select a recording to view or play." = "Sélectionnez un enregistrement à lire.";
 
 /* No comment provided by engineer. */
 "Select All" = "Sélectionner tout";
@@ -2473,6 +2578,9 @@
 /* TODO */
 "Start Voice Memo Recording" = "Start Voice Memo Recording";
 
+/* TODO */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+
 /* Translated with Microsoft Translator */
 "status" = "statut";
 
@@ -2526,6 +2634,12 @@
 
 /* Translated with Microsoft Translator */
 "Suggested Applications" = "Applications suggérées";
+
+/* TODO */
+"Switch to list view" = "Switch to list view";
+
+/* TODO */
+"Switch to orbit view" = "Switch to orbit view";
 
 /* Translated with Microsoft Translator */
 "Sync" = "Synchronisation";
@@ -2591,6 +2705,9 @@
 "Tap to open settings." = "Appuyez sur pour ouvrir les paramètres";
 
 /* TODO */
+"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+
+/* TODO */
 "Tap to view details" = "Tap to view details";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2727,9 @@
 
 /* TODO */
 "Test Connection" = "Test Connection";
+
+/* TODO */
+"Text Copied" = "Text Copied";
 
 /* Translated with Microsoft Translator */
 "text-to-speech" = "synthèse vocale";
@@ -2685,6 +2805,9 @@
 
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Le nombre d'échantillons par seconde, un taux d'échantillonnage plus élevé signifie une meilleure qualité audio avec une taille de fichier plus grande.";
+
+/* TODO */
+"the other device" = "the other device";
 
 /* Translated with Microsoft Translator */
 "The phone number of the contact." = "Le numéro de téléphone du contact.";
@@ -2778,6 +2901,9 @@
 
 /* TODO */
 "This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
+
+/* TODO */
+"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
 
 /* Translated with Microsoft Translator */
 "Three-digit Milliseconds" = "Millisecondes à trois chiffres";
@@ -2873,7 +2999,13 @@
 "Transcript" = "Transcription";
 
 /* TODO */
+"Transcript Copied" = "Transcription copiée";
+
+/* TODO */
 "Transfer exceeded." = "Transfer exceeded.";
+
+/* TODO */
+"Transfer Recordings" = "Transfer Recordings";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Transition en mode inactif";
@@ -2886,6 +3018,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "Enregistreur de farces";
+
+/* TODO */
+"Troll Recorder %@" = "Troll Recorder %@";
 
 /* Translated with Microsoft Translator */
 "tts" = "tts";
@@ -3211,11 +3346,17 @@
 /* TODO */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
 
+/* TODO */
+"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Nous aimons les arrière-plans colorés et animés, mais vous avez ici l'option de les désactiver.";
 
 /* TODO */
 "WebDAV" = "WebDAV";
+
+/* TODO */
+"WebDAV Password Actions" = "WebDAV Password Actions";
 
 /* Translated with Microsoft Translator */
 "WebDAV Server" = "Serveur WebDAV";
@@ -3291,6 +3432,9 @@
 
 /* Translated with Microsoft Translator */
 "Why don’t you make a phone call?" = "Pourquoi ne pas passer un coup de fil ?";
+
+/* TODO */
+"Wi-Fi Required" = "Wi-Fi Required";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Démarrera automatiquement l'enregistrement lors des appels audio ou vidéo dans l'application actuelle.";

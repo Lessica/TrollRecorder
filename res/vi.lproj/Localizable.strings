@@ -16,6 +16,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ có thể không được cấu hình";
 
+/* TODO */
+"%@ Reason: %@" = "%1$@ Reason: %2$@";
+
 /* No comment provided by engineer. */
 "%@ rows not loaded" = "%@ các hàng không tải được";
 
@@ -150,6 +153,9 @@
 
 /* No comment provided by engineer. */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Tất cả các bản ghi sẽ được giữ trong 7 ngày. Nhật ký lỗi thời sẽ tự động bị xóa.";
+
+/* TODO */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "Cho phép truy cập vào lịch sử cuộc gọi";
@@ -544,6 +550,9 @@
 /* No comment provided by engineer. */
 "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Xác nhận tài khoản Havoc của bạn, đây là bằng chứng mua hàng duy nhất. Bạn chịu trách nhiệm về bất kỳ mất mát ủy quyền nào do quên tài khoản. Khi mua hàng, vui lòng nhấp vào số tiền trên trang để hoàn tất thanh toán, không nhấp vào biểu tượng quà tặng.";
 
+/* TODO */
+"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+
 /* No comment provided by engineer. */
 "connected" = "đã kết nối";
 
@@ -617,13 +626,16 @@
 "Copied" = "Đã sao chép";
 
 /* No comment provided by engineer. */
-"Copied Transcript" = "Lời thoại đã được sao chép";
-
-/* No comment provided by engineer. */
 "Copy" = "Sao Chép";
 
 /* No comment provided by engineer. */
 "Copy Key" = "Sao chép khoá";
+
+/* TODO */
+"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+
+/* TODO */
+"Copy Password" = "Copy Password";
 
 /* No comment provided by engineer. */
 "Copy Path" = "Sao chép đường dẫn";
@@ -958,6 +970,12 @@
 /* No comment provided by engineer. */
 "Ensure Daemon Is Running" = "Đảm bảo tiến trình nền đang chạy";
 
+/* TODO */
+"Enter Pairing Code" = "Enter Pairing Code";
+
+/* TODO */
+"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+
 /* No comment provided by engineer. */
 "Enter your password" = "Nhập mật khẩu của bạn";
 
@@ -1000,7 +1018,13 @@
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";
 
-/* No comment provided by engineer. */
+/* TODO */
+"Export Service Ready" = "Export Service Ready";
+
+/* TODO */
+"Export to Another Device" = "Export to Another Device";
+
+/* TODO */
 "Export to Anywhere" = "Xuất đến mọi nơi";
 
 /* No comment provided by engineer. */
@@ -1273,6 +1297,18 @@
 /* TODO */
 "Import as Ringtone" = "Import as Ringtone";
 
+/* TODO */
+"Import Complete" = "Import Complete";
+
+/* TODO */
+"Import Failed" = "Import Failed";
+
+/* TODO */
+"Import From Another Device" = "Import From Another Device";
+
+/* TODO */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "Trong 1 Giờ";
 
@@ -1375,6 +1411,9 @@
 /* No comment provided by engineer. */
 "launch" = "Khởi chạy";
 
+/* TODO */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "Khởi chạy ứng dụng ở cuối";
 
@@ -1399,8 +1438,14 @@
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
 
+/* TODO */
+"List" = "List";
+
 /* No comment provided by engineer. */
 "List and Detail" = "Danh sách và Chi tiết";
+
+/* TODO */
+"List view enabled" = "List view enabled";
 
 /* No comment provided by engineer. */
 "Loading…" = "Đang tải…";
@@ -1431,6 +1476,12 @@
 
 /* No comment provided by engineer. */
 "Logging" = "Ghi nhật ký";
+
+/* TODO */
+"Login Name: %@" = "Login Name: %@";
+
+/* TODO */
+"Login Password: " = "Login Password: ";
 
 /* No comment provided by engineer. */
 "Login Tips" = "Mẹo đăng nhập";
@@ -1494,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Maximum" = "Tối đa";
+
+/* TODO */
+"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
 
 /* No comment provided by engineer. */
 "Medium" = "Trung bình";
@@ -1627,6 +1681,9 @@
 /* No comment provided by engineer. */
 "No Recording" = "Không ghi âm";
 
+/* TODO */
+"No Recordings to Export" = "No Recordings to Export";
+
 /* No comment provided by engineer. */
 "No speech detected." = "Không phát hiện lời nói nào.";
 
@@ -1684,6 +1741,9 @@
 /* No comment provided by engineer. */
 "On" = "Bật";
 
+/* TODO */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
@@ -1735,6 +1795,12 @@
 /* No comment provided by engineer. */
 "Options" = "Tùy chọn";
 
+/* TODO */
+"Orbit" = "Orbit";
+
+/* TODO */
+"Orbit view enabled" = "Orbit view enabled";
+
 /* No comment provided by engineer. */
 "Outgoing" = "Đi ra";
 
@@ -1756,8 +1822,17 @@
 /* No comment provided by engineer. */
 "Page not found" = "Không tìm thấy trang";
 
+/* TODO */
+"Pairing code" = "Pairing code";
+
+/* TODO */
+"Passcode: %@" = "Passcode: %@";
+
 /* No comment provided by engineer. */
 "Password (Optional)" = "Mật khẩu (Tùy chọn)";
+
+/* TODO */
+"Password Copied" = "Password Copied";
 
 /* No comment provided by engineer. */
 "path" = "đường dẫn";
@@ -1861,6 +1936,9 @@
 /* No comment provided by engineer. */
 "Please enter the server URL." = "Vui lòng nhập URL máy chủ.";
 
+/* TODO */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+
 /* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Vui lòng lưu ý rằng TrollRecorder chỉ được bán và đổi qua Havoc Marketplace. Chúng tôi không bán qua bất kỳ kênh nào khác. Bạn sắp mở trang cửa hàng: Nếu đây là lần đầu tiên bạn sử dụng Havoc Marketplace, chúng tôi khuyên bạn nên đăng nhập bằng tài khoản Google của mình. Nếu bạn là người dùng ở Trung Quốc đại lục, việc đăng nhập vào Google yêu cầu một mạng đặc biệt.";
 
@@ -1872,6 +1950,12 @@
 
 /* No comment provided by engineer. */
 "Please remember to uninstall “%@” from TrollStore." = "Hãy nhớ gỡ cài đặt “%@” khỏi TrollStore.";
+
+/* TODO */
+"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+
+/* TODO */
+"Please try again in a moment." = "Please try again in a moment.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Kiểm soát cửa sổ bật lên";
@@ -1902,6 +1986,9 @@
 
 /* No comment provided by engineer. */
 "Preparing" = "Đang chuẩn bị";
+
+/* TODO */
+"Preparing Export Service" = "Preparing Export Service";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Lưu trữ tất cả các kênh";
@@ -1942,8 +2029,14 @@
 /* TODO */
 "Process execution timeout" = "Process execution timeout";
 
+/* TODO */
+"Process exited with status %d." = "Process exited with status %d.";
+
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "Quá trình bị chấm dứt bởi tín hiệu %d.";
+
+/* TODO */
+"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
 
 /* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "Quá trình bị chấm dứt với mã thoát %1$d.\n%2$@";
@@ -2016,6 +2109,9 @@
 
 /* No comment provided by engineer. */
 "Received transient error: %@" = "Đã nhận được lỗi tạm thời: %@";
+
+/* TODO */
+"Receiving Recordings" = "Receiving Recordings";
 
 /* No comment provided by engineer. */
 "Recents Only" = "Chỉ Hiện Tại";
@@ -2137,6 +2233,9 @@
 /* No comment provided by engineer. */
 "Reset All Shortcuts" = "Đặt lại tất cả phím tắt";
 
+/* TODO */
+"Reset Password" = "Reset Password";
+
 /* No comment provided by engineer. */
 "Reset Search Indexes" = "Đặt lại chỉ mục tìm kiếm";
 
@@ -2193,6 +2292,9 @@
 
 /* No comment provided by engineer. */
 "Root" = "Root";
+
+/* TODO */
+"Root directory is empty." = "Root directory is empty.";
 
 /* No comment provided by engineer. */
 "RootHide Jailbreak" = "RootHide Jailbreak";
@@ -2263,6 +2365,9 @@
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "Tìm kiếm phím tắt…";
 
+/* TODO */
+"Searching for nearby devices" = "Searching for nearby devices";
+
 /* No comment provided by engineer. */
 "Search…" = "Tìm kiếm…";
 
@@ -2282,7 +2387,7 @@
 "Select" = "Lựa chọn";
 
 /* No comment provided by engineer. */
-"Select a recording to play." = "Chọn một bản ghi âm để phát.";
+"Select a recording to view or play." = "Chọn một bản ghi âm để phát.";
 
 /* No comment provided by engineer. */
 "Select All" = "Chọn tất cả";
@@ -2473,6 +2578,9 @@
 /* No comment provided by engineer. */
 "Start Voice Memo Recording" = "Bắt đầu ghi âm ghi chú thoại";
 
+/* TODO */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+
 /* No comment provided by engineer. */
 "status" = "trạng thái";
 
@@ -2526,6 +2634,12 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "Gợi ý Ứng dụng";
+
+/* TODO */
+"Switch to list view" = "Switch to list view";
+
+/* TODO */
+"Switch to orbit view" = "Switch to orbit view";
 
 /* No comment provided by engineer. */
 "Sync" = "Đồng bộ hóa";
@@ -2590,6 +2704,9 @@
 /* No comment provided by engineer. */
 "Tap to open settings." = "Nhấn để mở cài đặt.";
 
+/* TODO */
+"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+
 /* No comment provided by engineer. */
 "Tap to view details" = "Nhấn để xem chi tiết.";
 
@@ -2610,6 +2727,9 @@
 
 /* No comment provided by engineer. */
 "Test Connection" = "Kiểm tra kết nối";
+
+/* TODO */
+"Text Copied" = "Text Copied";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "chuyển văn bản thành giọng nói";
@@ -2685,6 +2805,9 @@
 
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Số lượng mẫu mỗi giây, tốc độ mẫu cao hơn có nghĩa là chất lượng âm thanh tốt hơn với kích thước tệp lớn hơn.";
+
+/* TODO */
+"the other device" = "the other device";
 
 /* No comment provided by engineer. */
 "The phone number of the contact." = "Số điện thoại của liên hệ.";
@@ -2779,6 +2902,9 @@
 /* No comment provided by engineer. */
 "This version of WeChat (%@) is supported." = "Phiên bản WeChat (%@) này được hỗ trợ.";
 
+/* TODO */
+"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "Ba chữ số mili giây.";
 
@@ -2872,8 +2998,14 @@
 /* No comment provided by engineer. */
 "Transcript" = "Lời thoại";
 
+/* TODO */
+"Transcript Copied" = "Lời thoại đã được sao chép";
+
 /* No comment provided by engineer. */
 "Transfer exceeded." = "Chuyển nhượng vượt quá giới hạn.";
+
+/* TODO */
+"Transfer Recordings" = "Transfer Recordings";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Chuyển đổi khi nhàn rỗi";
@@ -2886,6 +3018,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
+
+/* TODO */
+"Troll Recorder %@" = "Troll Recorder %@";
 
 /* No comment provided by engineer. */
 "tts" = "tts";
@@ -3211,11 +3346,17 @@
 /* No comment provided by engineer. */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Chúng tôi không thể xác minh giao dịch mua của bạn trong chế độ duyệt web riêng tư. Vui lòng đảm bảo rằng bạn không ở chế độ duyệt web riêng tư của Safari để tiếp tục.";
 
+/* TODO */
+"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Chúng tôi thích những hình nền đầy màu sắc và chuyển động, nhưng hãy chọn ở đây để bạn vô hiệu hóa nó.";
 
 /* No comment provided by engineer. */
 "WebDAV" = "WebDAV";
+
+/* TODO */
+"WebDAV Password Actions" = "WebDAV Password Actions";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "Máy chủ WebDAV";
@@ -3291,6 +3432,9 @@
 
 /* No comment provided by engineer. */
 "Why don’t you make a phone call?" = "Tại sao bạn không thực hiện cuộc gọi điện thoại?";
+
+/* TODO */
+"Wi-Fi Required" = "Wi-Fi Required";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video trong ứng dụng hiện tại.";

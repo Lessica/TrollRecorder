@@ -17,6 +17,9 @@
 "%@ may not be configured" = "%@ 可能未配置";
 
 /* No comment provided by engineer. */
+"%@ Reason: %@" = "%1$@ 原因：%2$@";
+
+/* No comment provided by engineer. */
 "%@ rows not loaded" = "%@ 行未加载";
 
 /* No comment provided by engineer. */
@@ -150,6 +153,9 @@
 
 /* No comment provided by engineer. */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "所有日志至多将被保留 7 天。过期日志将被自动删除。";
+
+/* No comment provided by engineer. */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "所有来自 %@ 的录音现已可在此设备上查看。你可以随时离开此界面。";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "允许访问通话记录";
@@ -545,6 +551,9 @@
 "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "请确认你的浩劫账号，这是唯一的购买凭证。因账号遗忘造成授权丢失的，用户需自行承担损失。购买时请你点击页面上的金额完成支付，不要点击礼物图标。";
 
 /* No comment provided by engineer. */
+"Connect to a Wi‑Fi network before transferring recordings." = "在传输录音之前，请连接到无线局域网。";
+
+/* No comment provided by engineer. */
 "connected" = "已连接";
 
 /* No comment provided by engineer. */
@@ -617,13 +626,16 @@
 "Copied" = "已复制";
 
 /* No comment provided by engineer. */
-"Copied Transcript" = "已复制转录";
-
-/* No comment provided by engineer. */
 "Copy" = "拷贝";
 
 /* No comment provided by engineer. */
 "Copy Key" = "拷贝键";
+
+/* No comment provided by engineer. */
+"Copy or reset the current WebDAV password." = "拷贝或重置当前的 WebDAV 密码。";
+
+/* No comment provided by engineer. */
+"Copy Password" = "拷贝密码";
 
 /* No comment provided by engineer. */
 "Copy Path" = "拷贝路径";
@@ -959,6 +971,12 @@
 "Ensure Daemon Is Running" = "检查守护进程";
 
 /* No comment provided by engineer. */
+"Enter Pairing Code" = "输入配对码";
+
+/* No comment provided by engineer. */
+"Enter the 4-digit code displayed on “%@”." = "输入显示在 “%@” 上的4位数字代码。";
+
+/* No comment provided by engineer. */
 "Enter your password" = "输入密码";
 
 /* No comment provided by engineer. */
@@ -999,6 +1017,12 @@
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "将录音导出并保存到任何地方。";
+
+/* No comment provided by engineer. */
+"Export Service Ready" = "导出服务已就绪";
+
+/* No comment provided by engineer. */
+"Export to Another Device" = "导出到其他设备";
 
 /* No comment provided by engineer. */
 "Export to Anywhere" = "任意导出";
@@ -1274,6 +1298,18 @@
 "Import as Ringtone" = "导入为铃声";
 
 /* No comment provided by engineer. */
+"Import Complete" = "导入完成";
+
+/* No comment provided by engineer. */
+"Import Failed" = "导入失败";
+
+/* No comment provided by engineer. */
+"Import From Another Device" = "从其他设备导入";
+
+/* No comment provided by engineer. */
+"Import recordings from the Troll Recorder on another device within the local area network." = "从局域网内的另一台设备上的巨魔录音机导入录音。";
+
+/* No comment provided by engineer. */
 "In 1 Hour" = "1 小时内";
 
 /* No comment provided by engineer. */
@@ -1376,6 +1412,9 @@
 "launch" = "启动";
 
 /* No comment provided by engineer. */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "在局域网内启动一个临时的 WebDAV 服务器并广播，以便另一台设备上的巨魔录音机能够发现它。";
+
+/* No comment provided by engineer. */
 "Launch App at End" = "结束时启动应用";
 
 /* No comment provided by engineer. */
@@ -1400,7 +1439,13 @@
 "Link Device to Havoc" = "连接到「浩劫」商店";
 
 /* No comment provided by engineer. */
+"List" = "列表";
+
+/* No comment provided by engineer. */
 "List and Detail" = "列表和详情";
+
+/* No comment provided by engineer. */
+"List view enabled" = "已启用列表视图";
 
 /* No comment provided by engineer. */
 "Loading…" = "载入中…";
@@ -1431,6 +1476,12 @@
 
 /* No comment provided by engineer. */
 "Logging" = "日志";
+
+/* No comment provided by engineer. */
+"Login Name: %@" = "登录名称：%@";
+
+/* No comment provided by engineer. */
+"Login Password: " = "登录密码：";
 
 /* No comment provided by engineer. */
 "Login Tips" = "登录提示";
@@ -1494,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Maximum" = "最大";
+
+/* No comment provided by engineer. */
+"Maybe you should look elsewhere — anywhere but here." = "或许你应该去别的地方看看 — 反正不是这里。";
 
 /* No comment provided by engineer. */
 "Medium" = "适中";
@@ -1628,6 +1682,9 @@
 "No Recording" = "无录音";
 
 /* No comment provided by engineer. */
+"No Recordings to Export" = "没有可导出的录音";
+
+/* No comment provided by engineer. */
 "No speech detected." = "未检测到语音。";
 
 /* No comment provided by engineer. */
@@ -1685,6 +1742,9 @@
 "On" = "启用";
 
 /* No comment provided by engineer. */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "在另一台设备选择 “从其他设备导入”，然后选择 “%@”。传输过程中请勿离开此页面。";
+
+/* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
@@ -1736,6 +1796,12 @@
 "Options" = "选项";
 
 /* No comment provided by engineer. */
+"Orbit" = "轨道";
+
+/* No comment provided by engineer. */
+"Orbit view enabled" = "已启用轨道视图";
+
+/* No comment provided by engineer. */
 "Outgoing" = "去电";
 
 /* No comment provided by engineer. */
@@ -1757,7 +1823,16 @@
 "Page not found" = "未找到页面";
 
 /* No comment provided by engineer. */
+"Pairing code" = "配对码";
+
+/* No comment provided by engineer. */
+"Passcode: %@" = "配对码：%@";
+
+/* No comment provided by engineer. */
 "Password (Optional)" = "密码（可选）";
+
+/* No comment provided by engineer. */
+"Password Copied" = "密码已复制";
 
 /* No comment provided by engineer. */
 "path" = "路径";
@@ -1862,6 +1937,9 @@
 "Please enter the server URL." = "请输入服务器 URL。";
 
 /* No comment provided by engineer. */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "请保持两台设备均处于解锁状态，以便接收来自 %@ 的录音。传输过程中请勿离开此页面。";
+
+/* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "请认准，巨魔录音机的唯一销售、兑换渠道是浩劫商店（Havoc Marketplace），我们并没有在其他任何渠道进行销售。你即将打开商店页面：如果你是首次使用浩劫商店，建议使用 Google 账号登录。如果你是中国大陆地区用户，登录 Google 需要特殊网络。";
 
 /* No comment provided by engineer. */
@@ -1872,6 +1950,12 @@
 
 /* No comment provided by engineer. */
 "Please remember to uninstall “%@” from TrollStore." = "请记得从 TrollStore 完全卸载 “%@”。";
+
+/* No comment provided by engineer. */
+"Please stay on this screen while we get everything ready." = "不要走开，请耐心等待我们完成准备工作。";
+
+/* No comment provided by engineer. */
+"Please try again in a moment." = "请稍后再试。";
 
 /* No comment provided by engineer. */
 "Popover Control" = "悬浮球";
@@ -1902,6 +1986,9 @@
 
 /* No comment provided by engineer. */
 "Preparing" = "准备中";
+
+/* No comment provided by engineer. */
+"Preparing Export Service" = "初始化导出服务";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "保留所有通道";
@@ -1943,7 +2030,13 @@
 "Process execution timeout" = "进程执行超时";
 
 /* No comment provided by engineer. */
+"Process exited with status %d." = "进程以状态 %d 退出。";
+
+/* No comment provided by engineer. */
 "Process terminated by signal %d." = "进程被信号 %d 终止。";
+
+/* No comment provided by engineer. */
+"Process terminated for unknown reasons." = "进程因未知原因终止。";
 
 /* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "进程结束，返回值为 %1$d。\n%2$@";
@@ -2016,6 +2109,9 @@
 
 /* No comment provided by engineer. */
 "Received transient error: %@" = "发生临时错误: %@";
+
+/* No comment provided by engineer. */
+"Receiving Recordings" = "正在接收录音";
 
 /* No comment provided by engineer. */
 "Recents Only" = "仅限最近的录音";
@@ -2138,6 +2234,9 @@
 "Reset All Shortcuts" = "重置所有动作";
 
 /* No comment provided by engineer. */
+"Reset Password" = "重置密码";
+
+/* No comment provided by engineer. */
 "Reset Search Indexes" = "重置搜索索引";
 
 /* No comment provided by engineer. */
@@ -2193,6 +2292,9 @@
 
 /* No comment provided by engineer. */
 "Root" = "根";
+
+/* No comment provided by engineer. */
+"Root directory is empty." = "根目录为空。";
 
 /* No comment provided by engineer. */
 "RootHide Jailbreak" = "隐根越狱";
@@ -2264,6 +2366,9 @@
 "Search Shortcuts…" = "搜索动作…";
 
 /* No comment provided by engineer. */
+"Searching for nearby devices" = "正在搜索附近的设备";
+
+/* No comment provided by engineer. */
 "Search…" = "搜索…";
 
 /* No comment provided by engineer. */
@@ -2282,7 +2387,7 @@
 "Select" = "选择";
 
 /* No comment provided by engineer. */
-"Select a recording to play." = "选择一个录音播放。";
+"Select a recording to view or play." = "选择一个录音以查看或播放。";
 
 /* No comment provided by engineer. */
 "Select All" = "全选";
@@ -2474,6 +2579,9 @@
 "Start Voice Memo Recording" = "开始录制语音备忘录";
 
 /* No comment provided by engineer. */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "启动导出服务的时间比预期的要长。请检查网络连接后重试。";
+
+/* No comment provided by engineer. */
 "status" = "状态";
 
 /* No comment provided by engineer. */
@@ -2526,6 +2634,12 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "建议应用";
+
+/* No comment provided by engineer. */
+"Switch to list view" = "切换到列表视图";
+
+/* No comment provided by engineer. */
+"Switch to orbit view" = "切换到轨道视图";
 
 /* No comment provided by engineer. */
 "Sync" = "同步";
@@ -2591,6 +2705,9 @@
 "Tap to open settings." = "轻按以打开设置。";
 
 /* No comment provided by engineer. */
+"Tap to open Wi-Fi settings." = "轻按以打开无线局域网设置。";
+
+/* No comment provided by engineer. */
 "Tap to view details" = "轻按以查看详情";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2727,9 @@
 
 /* No comment provided by engineer. */
 "Test Connection" = "测试连接";
+
+/* No comment provided by engineer. */
+"Text Copied" = "文本已复制";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "文本转语音";
@@ -2685,6 +2805,9 @@
 
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "每秒的样本数，更高的采样率意味着更好的音频质量和更大的文件大小。";
+
+/* No comment provided by engineer. */
+"the other device" = "另一台设备";
 
 /* No comment provided by engineer. */
 "The phone number of the contact." = "联系人的电话号码。";
@@ -2780,6 +2903,9 @@
 "This version of WeChat (%@) is supported." = "微信通话助理支持当前版本的微信（%@）。";
 
 /* No comment provided by engineer. */
+"This will generate a new password and restart the WebDAV server." = "这将生成一个新密码并重启 WebDAV 服务器。";
+
+/* No comment provided by engineer. */
 "Three-digit Milliseconds" = "毫秒数";
 
 /* No comment provided by engineer. */
@@ -2873,7 +2999,13 @@
 "Transcript" = "转录";
 
 /* No comment provided by engineer. */
+"Transcript Copied" = "转录已复制";
+
+/* No comment provided by engineer. */
 "Transfer exceeded." = "传输数据量超出限制。";
+
+/* No comment provided by engineer. */
+"Transfer Recordings" = "传输录音";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "闲置效果";
@@ -2886,6 +3018,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "巨魔录音机";
+
+/* No comment provided by engineer. */
+"Troll Recorder %@" = "巨魔录音机 %@";
 
 /* No comment provided by engineer. */
 "tts" = "TTS";
@@ -3212,10 +3347,16 @@
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "我们无法在无痕浏览模式下验证你的购买。请确保你不在 Safari 的无痕浏览模式下以继续。";
 
 /* No comment provided by engineer. */
+"We couldn’t finish importing recordings from %@." = "我们无法完成从 %@ 导入录音。";
+
+/* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我们喜欢移动着的、多彩的背景，但是我们依然提供了选项让你来关闭它。";
 
 /* No comment provided by engineer. */
 "WebDAV" = "WebDAV";
+
+/* No comment provided by engineer. */
+"WebDAV Password Actions" = "WebDAV 密码操作";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV 服务器";
@@ -3291,6 +3432,9 @@
 
 /* No comment provided by engineer. */
 "Why don’t you make a phone call?" = "为什么不打个电话试试呢？";
+
+/* No comment provided by engineer. */
+"Wi-Fi Required" = "需要无线局域网";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "在当前应用程序中通话时自动开始录音。";

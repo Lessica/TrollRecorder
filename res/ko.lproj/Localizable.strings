@@ -16,6 +16,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@이(가) 구성되지 않을 수 있음";
 
+/* TODO */
+"%@ Reason: %@" = "%1$@ Reason: %2$@";
+
 /* No comment provided by engineer. */
 "%@ rows not loaded" = "%@ 행이 로드되지 않음";
 
@@ -150,6 +153,9 @@
 
 /* No comment provided by engineer. */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "모든 로그는 7일 동안 보존됩니다. 만료된 로그는 자동으로 삭제됩니다.";
+
+/* TODO */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "통화 기록에 대한 접근 허용";
@@ -544,6 +550,9 @@
 /* No comment provided by engineer. */
 "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "유일한 구매 증빙 자료인 Havoc 계정을 확인해 주시기 바랍니다. 계정 분실로 인해 인증이 상실된 경우 책임은 귀하에게 있습니다. 구매 시 페이지에 표시된 금액을 클릭하여 결제를 완료한 후 선물 아이콘을 클릭하지 마세요.";
 
+/* TODO */
+"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+
 /* No comment provided by engineer. */
 "connected" = "연결됨";
 
@@ -617,13 +626,16 @@
 "Copied" = "복사됨";
 
 /* No comment provided by engineer. */
-"Copied Transcript" = "전사문 복사됨";
-
-/* No comment provided by engineer. */
 "Copy" = "복사";
 
 /* No comment provided by engineer. */
 "Copy Key" = "키 복사";
+
+/* TODO */
+"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+
+/* TODO */
+"Copy Password" = "Copy Password";
 
 /* No comment provided by engineer. */
 "Copy Path" = "경로 복사";
@@ -958,6 +970,12 @@
 /* No comment provided by engineer. */
 "Ensure Daemon Is Running" = "데몬 확인";
 
+/* TODO */
+"Enter Pairing Code" = "Enter Pairing Code";
+
+/* TODO */
+"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+
 /* No comment provided by engineer. */
 "Enter your password" = "암호 입력";
 
@@ -1000,7 +1018,13 @@
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "어디든지 녹음을 내보내고 저장할 수 있습니다.";
 
-/* No comment provided by engineer. */
+/* TODO */
+"Export Service Ready" = "Export Service Ready";
+
+/* TODO */
+"Export to Another Device" = "Export to Another Device";
+
+/* TODO */
 "Export to Anywhere" = "마음대로 내보내기";
 
 /* No comment provided by engineer. */
@@ -1273,6 +1297,18 @@
 /* TODO */
 "Import as Ringtone" = "Import as Ringtone";
 
+/* TODO */
+"Import Complete" = "Import Complete";
+
+/* TODO */
+"Import Failed" = "Import Failed";
+
+/* TODO */
+"Import From Another Device" = "Import From Another Device";
+
+/* TODO */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1시간 안에";
 
@@ -1375,6 +1411,9 @@
 /* No comment provided by engineer. */
 "launch" = "실행";
 
+/* TODO */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "종료 시 앱 실행";
 
@@ -1399,8 +1438,14 @@
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Havoc에 기기 연결";
 
+/* TODO */
+"List" = "List";
+
 /* No comment provided by engineer. */
 "List and Detail" = "목록 및 세부사항";
+
+/* TODO */
+"List view enabled" = "List view enabled";
 
 /* No comment provided by engineer. */
 "Loading…" = "로딩 중…";
@@ -1431,6 +1476,12 @@
 
 /* No comment provided by engineer. */
 "Logging" = "로깅";
+
+/* TODO */
+"Login Name: %@" = "Login Name: %@";
+
+/* TODO */
+"Login Password: " = "Login Password: ";
 
 /* No comment provided by engineer. */
 "Login Tips" = "로그인 팁";
@@ -1494,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Maximum" = "최대";
+
+/* TODO */
+"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
 
 /* No comment provided by engineer. */
 "Medium" = "보통";
@@ -1627,6 +1681,9 @@
 /* No comment provided by engineer. */
 "No Recording" = "녹음 없음";
 
+/* TODO */
+"No Recordings to Export" = "No Recordings to Export";
+
 /* No comment provided by engineer. */
 "No speech detected." = "음성이 감지되지 않습니다.";
 
@@ -1684,6 +1741,9 @@
 /* No comment provided by engineer. */
 "On" = "켜기";
 
+/* TODO */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+
 /* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
@@ -1735,6 +1795,12 @@
 /* No comment provided by engineer. */
 "Options" = "옵션";
 
+/* TODO */
+"Orbit" = "Orbit";
+
+/* TODO */
+"Orbit view enabled" = "Orbit view enabled";
+
 /* No comment provided by engineer. */
 "Outgoing" = "발신";
 
@@ -1756,8 +1822,17 @@
 /* No comment provided by engineer. */
 "Page not found" = "페이지를 찾을 수 없음";
 
+/* TODO */
+"Pairing code" = "Pairing code";
+
+/* TODO */
+"Passcode: %@" = "Passcode: %@";
+
 /* No comment provided by engineer. */
 "Password (Optional)" = "암호 (선택 사항)";
+
+/* TODO */
+"Password Copied" = "Password Copied";
 
 /* No comment provided by engineer. */
 "path" = "경로";
@@ -1861,6 +1936,9 @@
 /* No comment provided by engineer. */
 "Please enter the server URL." = "서버 URL을 입력하세요.";
 
+/* TODO */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+
 /* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "TrollRecorder는 Havoc Marketplace를 통해서만 독점적으로 판매 및 교환됩니다. 우리는 다른 채널을 통해 판매하지 않습니다. 이제 Store 페이지를 열게 됩니다. Havoc Store를 처음 사용하는 경우 Google 계정을 사용하는 것이 좋습니다. 중국 본토 사용자인 경우 Google에 로그인하려면 특별한 네트워크가 필요합니다.";
 
@@ -1872,6 +1950,12 @@
 
 /* No comment provided by engineer. */
 "Please remember to uninstall “%@” from TrollStore." = "TrollStore에서 “%@”을(를) 완전히 제거하는 것을 잊지 마세요.";
+
+/* TODO */
+"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+
+/* TODO */
+"Please try again in a moment." = "Please try again in a moment.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "팝오버 제어";
@@ -1902,6 +1986,9 @@
 
 /* No comment provided by engineer. */
 "Preparing" = "준비 중";
+
+/* TODO */
+"Preparing Export Service" = "Preparing Export Service";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "모든 채널 보존";
@@ -1942,8 +2029,14 @@
 /* TODO */
 "Process execution timeout" = "Process execution timeout";
 
+/* TODO */
+"Process exited with status %d." = "Process exited with status %d.";
+
 /* No comment provided by engineer. */
 "Process terminated by signal %d." = "프로세스가 %d 신호에 의해 종료되었습니다.";
+
+/* TODO */
+"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
 
 /* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "종료 코드 %1$d로 프로세스가 종료되었습니다.\n%2$@";
@@ -2016,6 +2109,9 @@
 
 /* No comment provided by engineer. */
 "Received transient error: %@" = "일시적인 오류 발생: %@";
+
+/* TODO */
+"Receiving Recordings" = "Receiving Recordings";
 
 /* No comment provided by engineer. */
 "Recents Only" = "최근 녹음만";
@@ -2137,6 +2233,9 @@
 /* No comment provided by engineer. */
 "Reset All Shortcuts" = "모든 동작 재설정";
 
+/* TODO */
+"Reset Password" = "Reset Password";
+
 /* No comment provided by engineer. */
 "Reset Search Indexes" = "검색 색인 재설정";
 
@@ -2193,6 +2292,9 @@
 
 /* No comment provided by engineer. */
 "Root" = "루트";
+
+/* TODO */
+"Root directory is empty." = "Root directory is empty.";
 
 /* No comment provided by engineer. */
 "RootHide Jailbreak" = "RootHide 탈옥";
@@ -2263,6 +2365,9 @@
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "동작 검색...";
 
+/* TODO */
+"Searching for nearby devices" = "Searching for nearby devices";
+
 /* No comment provided by engineer. */
 "Search…" = "검색…";
 
@@ -2282,7 +2387,7 @@
 "Select" = "선택";
 
 /* No comment provided by engineer. */
-"Select a recording to play." = "재생할 녹음을 선택하세요.";
+"Select a recording to view or play." = "재생할 녹음을 선택하세요.";
 
 /* No comment provided by engineer. */
 "Select All" = "모두 선택";
@@ -2473,6 +2578,9 @@
 /* No comment provided by engineer. */
 "Start Voice Memo Recording" = "음성 메모 녹음 시작";
 
+/* TODO */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+
 /* No comment provided by engineer. */
 "status" = "상태";
 
@@ -2526,6 +2634,12 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "추천 응용 프로그램";
+
+/* TODO */
+"Switch to list view" = "Switch to list view";
+
+/* TODO */
+"Switch to orbit view" = "Switch to orbit view";
 
 /* No comment provided by engineer. */
 "Sync" = "동기화";
@@ -2590,6 +2704,9 @@
 /* No comment provided by engineer. */
 "Tap to open settings." = "설정을 열려면 탭하세요.";
 
+/* TODO */
+"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+
 /* No comment provided by engineer. */
 "Tap to view details" = "탭하여 세부 정보 보기";
 
@@ -2610,6 +2727,9 @@
 
 /* No comment provided by engineer. */
 "Test Connection" = "테스트 연결";
+
+/* TODO */
+"Text Copied" = "Text Copied";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "텍스트 음성 변환";
@@ -2685,6 +2805,9 @@
 
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "초당 샘플 수, 샘플 속도가 높을수록 파일 크기는 커지지만 오디오 음질은 향상됩니다.";
+
+/* TODO */
+"the other device" = "the other device";
 
 /* No comment provided by engineer. */
 "The phone number of the contact." = "연락처 전화번호입니다.";
@@ -2779,6 +2902,9 @@
 /* No comment provided by engineer. */
 "This version of WeChat (%@) is supported." = "이 버전의 WeChat(%@)이 지원됩니다.";
 
+/* TODO */
+"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "세 자리 밀리초";
 
@@ -2872,8 +2998,14 @@
 /* No comment provided by engineer. */
 "Transcript" = "전사문";
 
+/* TODO */
+"Transcript Copied" = "전사문 복사됨";
+
 /* No comment provided by engineer. */
 "Transfer exceeded." = "전송이 초과되었습니다.";
+
+/* TODO */
+"Transfer Recordings" = "Transfer Recordings";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "유휴 효과";
@@ -2886,6 +3018,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "TrollRecorder";
+
+/* TODO */
+"Troll Recorder %@" = "Troll Recorder %@";
 
 /* No comment provided by engineer. */
 "tts" = "TTS";
@@ -3211,11 +3346,17 @@
 /* No comment provided by engineer. */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "개인정보 보호 브라우징 모드에서는 구매를 확인할 수 없습니다. 계속하려면 Safari의 개인정보 보호 브라우징 모드가 아닌지 확인하세요.";
 
+/* TODO */
+"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "우리는 움직이고 다채로운 배경을 좋아하지만 배경을 끌 수 있는 옵션도 제공합니다.";
 
 /* No comment provided by engineer. */
 "WebDAV" = "WebDAV";
+
+/* TODO */
+"WebDAV Password Actions" = "WebDAV Password Actions";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV 서버";
@@ -3291,6 +3432,9 @@
 
 /* No comment provided by engineer. */
 "Why don’t you make a phone call?" = "한 번 시도해 보는 것은 어떨까요?";
+
+/* TODO */
+"Wi-Fi Required" = "Wi-Fi Required";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "현재 응용프로그램에서 통화 중 자동으로 녹음이 시작됩니다.";

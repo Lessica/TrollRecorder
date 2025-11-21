@@ -17,6 +17,9 @@
 "%@ may not be configured" = "%@ may not be configured";
 
 /* No comment provided by engineer. */
+"%@ Reason: %@" = "%1$@ Reason: %2$@";
+
+/* No comment provided by engineer. */
 "%@ rows not loaded" = "%@ rows not loaded";
 
 /* No comment provided by engineer. */
@@ -150,6 +153,9 @@
 
 /* No comment provided by engineer. */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "All logs will be preserved for 7 days. Outdated logs will be removed automatically.";
+
+/* No comment provided by engineer. */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "Allow Access to Call History";
@@ -545,6 +551,9 @@
 "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
 
 /* No comment provided by engineer. */
+"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+
+/* No comment provided by engineer. */
 "connected" = "connected";
 
 /* No comment provided by engineer. */
@@ -617,13 +626,16 @@
 "Copied" = "Copied";
 
 /* No comment provided by engineer. */
-"Copied Transcript" = "Copied Transcript";
-
-/* No comment provided by engineer. */
 "Copy" = "Copy";
 
 /* No comment provided by engineer. */
 "Copy Key" = "Copy Key";
+
+/* No comment provided by engineer. */
+"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+
+/* No comment provided by engineer. */
+"Copy Password" = "Copy Password";
 
 /* No comment provided by engineer. */
 "Copy Path" = "Copy Path";
@@ -959,6 +971,12 @@
 "Ensure Daemon Is Running" = "Ensure Daemon Is Running";
 
 /* No comment provided by engineer. */
+"Enter Pairing Code" = "Enter Pairing Code";
+
+/* No comment provided by engineer. */
+"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+
+/* No comment provided by engineer. */
 "Enter your password" = "Enter your password";
 
 /* No comment provided by engineer. */
@@ -999,6 +1017,12 @@
 
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "Export recordings to anywhere you want without limitations.";
+
+/* No comment provided by engineer. */
+"Export Service Ready" = "Export Service Ready";
+
+/* No comment provided by engineer. */
+"Export to Another Device" = "Export to Another Device";
 
 /* No comment provided by engineer. */
 "Export to Anywhere" = "Export to Anywhere";
@@ -1274,6 +1298,18 @@
 "Import as Ringtone" = "Import as Ringtone";
 
 /* No comment provided by engineer. */
+"Import Complete" = "Import Complete";
+
+/* No comment provided by engineer. */
+"Import Failed" = "Import Failed";
+
+/* No comment provided by engineer. */
+"Import From Another Device" = "Import From Another Device";
+
+/* No comment provided by engineer. */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+
+/* No comment provided by engineer. */
 "In 1 Hour" = "In 1 Hour";
 
 /* No comment provided by engineer. */
@@ -1376,6 +1412,9 @@
 "launch" = "launch";
 
 /* No comment provided by engineer. */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+
+/* No comment provided by engineer. */
 "Launch App at End" = "Launch App at End";
 
 /* No comment provided by engineer. */
@@ -1400,7 +1439,13 @@
 "Link Device to Havoc" = "Link Device to Havoc";
 
 /* No comment provided by engineer. */
+"List" = "List";
+
+/* No comment provided by engineer. */
 "List and Detail" = "List and Detail";
+
+/* No comment provided by engineer. */
+"List view enabled" = "List view enabled";
 
 /* No comment provided by engineer. */
 "Loading…" = "Loading…";
@@ -1431,6 +1476,12 @@
 
 /* No comment provided by engineer. */
 "Logging" = "Logging";
+
+/* No comment provided by engineer. */
+"Login Name: %@" = "Login Name: %@";
+
+/* No comment provided by engineer. */
+"Login Password: " = "Login Password: ";
 
 /* No comment provided by engineer. */
 "Login Tips" = "Login Tips";
@@ -1494,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Maximum" = "Maximum";
+
+/* No comment provided by engineer. */
+"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
 
 /* No comment provided by engineer. */
 "Medium" = "Medium";
@@ -1628,6 +1682,9 @@
 "No Recording" = "No Recording";
 
 /* No comment provided by engineer. */
+"No Recordings to Export" = "No Recordings to Export";
+
+/* No comment provided by engineer. */
 "No speech detected." = "No speech detected.";
 
 /* No comment provided by engineer. */
@@ -1685,6 +1742,9 @@
 "On" = "On";
 
 /* No comment provided by engineer. */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+
+/* No comment provided by engineer. */
 "OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
@@ -1736,6 +1796,12 @@
 "Options" = "Options";
 
 /* No comment provided by engineer. */
+"Orbit" = "Orbit";
+
+/* No comment provided by engineer. */
+"Orbit view enabled" = "Orbit view enabled";
+
+/* No comment provided by engineer. */
 "Outgoing" = "Outgoing";
 
 /* No comment provided by engineer. */
@@ -1757,7 +1823,16 @@
 "Page not found" = "Page not found";
 
 /* No comment provided by engineer. */
+"Pairing code" = "Pairing code";
+
+/* No comment provided by engineer. */
+"Passcode: %@" = "Passcode: %@";
+
+/* No comment provided by engineer. */
 "Password (Optional)" = "Password (Optional)";
+
+/* No comment provided by engineer. */
+"Password Copied" = "Password Copied";
 
 /* No comment provided by engineer. */
 "path" = "path";
@@ -1862,6 +1937,9 @@
 "Please enter the server URL." = "Please enter the server URL.";
 
 /* No comment provided by engineer. */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+
+/* No comment provided by engineer. */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
 
 /* No comment provided by engineer. */
@@ -1872,6 +1950,12 @@
 
 /* No comment provided by engineer. */
 "Please remember to uninstall “%@” from TrollStore." = "Please remember to uninstall “%@” from TrollStore.";
+
+/* No comment provided by engineer. */
+"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+
+/* No comment provided by engineer. */
+"Please try again in a moment." = "Please try again in a moment.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "Popover Control";
@@ -1902,6 +1986,9 @@
 
 /* No comment provided by engineer. */
 "Preparing" = "Preparing";
+
+/* No comment provided by engineer. */
+"Preparing Export Service" = "Preparing Export Service";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "Preserve All Channels";
@@ -1943,7 +2030,13 @@
 "Process execution timeout" = "Process execution timeout";
 
 /* No comment provided by engineer. */
+"Process exited with status %d." = "Process exited with status %d.";
+
+/* No comment provided by engineer. */
 "Process terminated by signal %d." = "Process terminated by signal %d.";
+
+/* No comment provided by engineer. */
+"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
 
 /* No comment provided by engineer. */
 "Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
@@ -2016,6 +2109,9 @@
 
 /* No comment provided by engineer. */
 "Received transient error: %@" = "Received transient error: %@";
+
+/* No comment provided by engineer. */
+"Receiving Recordings" = "Receiving Recordings";
 
 /* No comment provided by engineer. */
 "Recents Only" = "Recents Only";
@@ -2138,6 +2234,9 @@
 "Reset All Shortcuts" = "Reset All Shortcuts";
 
 /* No comment provided by engineer. */
+"Reset Password" = "Reset Password";
+
+/* No comment provided by engineer. */
 "Reset Search Indexes" = "Reset Search Indexes";
 
 /* No comment provided by engineer. */
@@ -2193,6 +2292,9 @@
 
 /* No comment provided by engineer. */
 "Root" = "Root";
+
+/* No comment provided by engineer. */
+"Root directory is empty." = "Root directory is empty.";
 
 /* No comment provided by engineer. */
 "RootHide Jailbreak" = "RootHide Jailbreak";
@@ -2264,6 +2366,9 @@
 "Search Shortcuts…" = "Search Shortcuts…";
 
 /* No comment provided by engineer. */
+"Searching for nearby devices" = "Searching for nearby devices";
+
+/* No comment provided by engineer. */
 "Search…" = "Search…";
 
 /* No comment provided by engineer. */
@@ -2282,7 +2387,7 @@
 "Select" = "Select";
 
 /* No comment provided by engineer. */
-"Select a recording to play." = "Select a recording to play.";
+"Select a recording to view or play." = "Select a recording to view or play.";
 
 /* No comment provided by engineer. */
 "Select All" = "Select All";
@@ -2474,6 +2579,9 @@
 "Start Voice Memo Recording" = "Start Voice Memo Recording";
 
 /* No comment provided by engineer. */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+
+/* No comment provided by engineer. */
 "status" = "status";
 
 /* No comment provided by engineer. */
@@ -2526,6 +2634,12 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "Suggested Applications";
+
+/* No comment provided by engineer. */
+"Switch to list view" = "Switch to list view";
+
+/* No comment provided by engineer. */
+"Switch to orbit view" = "Switch to orbit view";
 
 /* No comment provided by engineer. */
 "Sync" = "Sync";
@@ -2591,6 +2705,9 @@
 "Tap to open settings." = "Tap to open settings.";
 
 /* No comment provided by engineer. */
+"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+
+/* No comment provided by engineer. */
 "Tap to view details" = "Tap to view details";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2727,9 @@
 
 /* No comment provided by engineer. */
 "Test Connection" = "Test Connection";
+
+/* No comment provided by engineer. */
+"Text Copied" = "Text Copied";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "text-to-speech";
@@ -2685,6 +2805,9 @@
 
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "The number of samples per second, higher sample rate means better audio quality with larger file size.";
+
+/* No comment provided by engineer. */
+"the other device" = "the other device";
 
 /* No comment provided by engineer. */
 "The phone number of the contact." = "The phone number of the contact.";
@@ -2780,6 +2903,9 @@
 "This version of WeChat (%@) is supported." = "This version of WeChat (%@) is supported.";
 
 /* No comment provided by engineer. */
+"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+
+/* No comment provided by engineer. */
 "Three-digit Milliseconds" = "Three-digit Milliseconds";
 
 /* No comment provided by engineer. */
@@ -2873,7 +2999,13 @@
 "Transcript" = "Transcript";
 
 /* No comment provided by engineer. */
+"Transcript Copied" = "Transcript Copied";
+
+/* No comment provided by engineer. */
 "Transfer exceeded." = "Transfer exceeded.";
+
+/* No comment provided by engineer. */
+"Transfer Recordings" = "Transfer Recordings";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "Transition When Idle";
@@ -2886,6 +3018,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "Troll Recorder";
+
+/* No comment provided by engineer. */
+"Troll Recorder %@" = "Troll Recorder %@";
 
 /* No comment provided by engineer. */
 "tts" = "TTS";
@@ -3212,10 +3347,16 @@
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
 
 /* No comment provided by engineer. */
+"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+
+/* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "We love colorful and moving backgrounds, but option here for you to disable it.";
 
 /* No comment provided by engineer. */
 "WebDAV" = "WebDAV";
+
+/* No comment provided by engineer. */
+"WebDAV Password Actions" = "WebDAV Password Actions";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV Server";
@@ -3291,6 +3432,9 @@
 
 /* No comment provided by engineer. */
 "Why don’t you make a phone call?" = "Why don’t you make a phone call?";
+
+/* No comment provided by engineer. */
+"Wi-Fi Required" = "Wi-Fi Required";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "Will start recording automatically on audio or video calls in the current application.";

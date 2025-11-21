@@ -16,6 +16,9 @@
 /* No comment provided by engineer. */
 "%@ may not be configured" = "%@ 可能未配置";
 
+/* TODO */
+"%@ Reason: %@" = "%1$@ Reason: %2$@";
+
 /* No comment provided by engineer. */
 "%@ rows not loaded" = "%@ 行未載入";
 
@@ -150,6 +153,9 @@
 
 /* No comment provided by engineer. */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "所有日志將被保留 7 天。過期日志將被自動刪除。";
+
+/* TODO */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
 
 /* No comment provided by engineer. */
 "Allow Access to Call History" = "允許訪問呼叫歷史記錄";
@@ -544,6 +550,9 @@
 /* TODO */
 "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
 
+/* TODO */
+"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+
 /* No comment provided by engineer. */
 "connected" = "已連線";
 
@@ -617,13 +626,16 @@
 "Copied" = "已複製";
 
 /* No comment provided by engineer. */
-"Copied Transcript" = "已複製轉錄";
-
-/* No comment provided by engineer. */
 "Copy" = "複製";
 
 /* No comment provided by engineer. */
 "Copy Key" = "複製鍵";
+
+/* TODO */
+"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+
+/* TODO */
+"Copy Password" = "Copy Password";
 
 /* No comment provided by engineer. */
 "Copy Path" = "複製路徑";
@@ -958,6 +970,12 @@
 /* No comment provided by engineer. */
 "Ensure Daemon Is Running" = "檢查守護進程";
 
+/* TODO */
+"Enter Pairing Code" = "Enter Pairing Code";
+
+/* TODO */
+"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+
 /* No comment provided by engineer. */
 "Enter your password" = "輸入密碼";
 
@@ -1000,7 +1018,13 @@
 /* No comment provided by engineer. */
 "Export recordings to anywhere you want without limitations." = "將錄音匯出並保存到任何地方。";
 
-/* No comment provided by engineer. */
+/* TODO */
+"Export Service Ready" = "Export Service Ready";
+
+/* TODO */
+"Export to Another Device" = "Export to Another Device";
+
+/* TODO */
 "Export to Anywhere" = "任意匯出";
 
 /* No comment provided by engineer. */
@@ -1273,6 +1297,18 @@
 /* TODO */
 "Import as Ringtone" = "Import as Ringtone";
 
+/* TODO */
+"Import Complete" = "Import Complete";
+
+/* TODO */
+"Import Failed" = "Import Failed";
+
+/* TODO */
+"Import From Another Device" = "Import From Another Device";
+
+/* TODO */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+
 /* No comment provided by engineer. */
 "In 1 Hour" = "1 小時内";
 
@@ -1375,6 +1411,9 @@
 /* No comment provided by engineer. */
 "launch" = "啟動";
 
+/* TODO */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+
 /* No comment provided by engineer. */
 "Launch App at End" = "結束時啟動應用程式";
 
@@ -1400,7 +1439,13 @@
 "Link Device to Havoc" = "將裝置連線到 Havoc";
 
 /* TODO */
+"List" = "List";
+
+/* TODO */
 "List and Detail" = "List and Detail";
+
+/* TODO */
+"List view enabled" = "List view enabled";
 
 /* No comment provided by engineer. */
 "Loading…" = "載入中…";
@@ -1431,6 +1476,12 @@
 
 /* No comment provided by engineer. */
 "Logging" = "日志";
+
+/* TODO */
+"Login Name: %@" = "Login Name: %@";
+
+/* TODO */
+"Login Password: " = "Login Password: ";
 
 /* TODO */
 "Login Tips" = "Login Tips";
@@ -1494,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Maximum" = "最大";
+
+/* TODO */
+"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
 
 /* No comment provided by engineer. */
 "Medium" = "適中";
@@ -1627,6 +1681,9 @@
 /* No comment provided by engineer. */
 "No Recording" = "無錄音";
 
+/* TODO */
+"No Recordings to Export" = "No Recordings to Export";
+
 /* No comment provided by engineer. */
 "No speech detected." = "未檢測到語音。";
 
@@ -1685,6 +1742,9 @@
 "On" = "On";
 
 /* TODO */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+
+/* TODO */
 "OneDrive" = "OneDrive";
 
 /* TODO */
@@ -1735,6 +1795,12 @@
 /* TODO */
 "Options" = "Options";
 
+/* TODO */
+"Orbit" = "Orbit";
+
+/* TODO */
+"Orbit view enabled" = "Orbit view enabled";
+
 /* No comment provided by engineer. */
 "Outgoing" = "去電";
 
@@ -1757,7 +1823,16 @@
 "Page not found" = "未找到頁面";
 
 /* TODO */
+"Pairing code" = "Pairing code";
+
+/* TODO */
+"Passcode: %@" = "Passcode: %@";
+
+/* TODO */
 "Password (Optional)" = "Password (Optional)";
+
+/* TODO */
+"Password Copied" = "Password Copied";
 
 /* No comment provided by engineer. */
 "path" = "路徑";
@@ -1862,6 +1937,9 @@
 "Please enter the server URL." = "Please enter the server URL.";
 
 /* TODO */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+
+/* TODO */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
 
 /* TODO */
@@ -1872,6 +1950,12 @@
 
 /* TODO */
 "Please remember to uninstall “%@” from TrollStore." = "Please remember to uninstall “%@” from TrollStore.";
+
+/* TODO */
+"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+
+/* TODO */
+"Please try again in a moment." = "Please try again in a moment.";
 
 /* No comment provided by engineer. */
 "Popover Control" = "懸浮球";
@@ -1902,6 +1986,9 @@
 
 /* No comment provided by engineer. */
 "Preparing" = "準備中";
+
+/* TODO */
+"Preparing Export Service" = "Preparing Export Service";
 
 /* No comment provided by engineer. */
 "Preserve All Channels" = "保留所有通道";
@@ -1943,7 +2030,13 @@
 "Process execution timeout" = "Process execution timeout";
 
 /* TODO */
+"Process exited with status %d." = "Process exited with status %d.";
+
+/* TODO */
 "Process terminated by signal %d." = "Process terminated by signal %d.";
+
+/* TODO */
+"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
 
 /* TODO */
 "Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
@@ -2016,6 +2109,9 @@
 
 /* TODO */
 "Received transient error: %@" = "Received transient error: %@";
+
+/* TODO */
+"Receiving Recordings" = "Receiving Recordings";
 
 /* TODO */
 "Recents Only" = "Recents Only";
@@ -2137,6 +2233,9 @@
 /* No comment provided by engineer. */
 "Reset All Shortcuts" = "重設所有動作";
 
+/* TODO */
+"Reset Password" = "Reset Password";
+
 /* No comment provided by engineer. */
 "Reset Search Indexes" = "重設搜尋索引";
 
@@ -2193,6 +2292,9 @@
 
 /* No comment provided by engineer. */
 "Root" = "根";
+
+/* TODO */
+"Root directory is empty." = "Root directory is empty.";
 
 /* TODO */
 "RootHide Jailbreak" = "RootHide Jailbreak";
@@ -2264,6 +2366,9 @@
 "Search Shortcuts…" = "搜尋動作…";
 
 /* TODO */
+"Searching for nearby devices" = "Searching for nearby devices";
+
+/* TODO */
 "Search…" = "Search…";
 
 /* No comment provided by engineer. */
@@ -2282,7 +2387,7 @@
 "Select" = "選擇";
 
 /* No comment provided by engineer. */
-"Select a recording to play." = "選擇一個錄音播放。";
+"Select a recording to view or play." = "選擇一個錄音播放。";
 
 /* No comment provided by engineer. */
 "Select All" = "全選";
@@ -2473,6 +2578,9 @@
 /* TODO */
 "Start Voice Memo Recording" = "Start Voice Memo Recording";
 
+/* TODO */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+
 /* No comment provided by engineer. */
 "status" = "狀態";
 
@@ -2526,6 +2634,12 @@
 
 /* No comment provided by engineer. */
 "Suggested Applications" = "建議應用程式";
+
+/* TODO */
+"Switch to list view" = "Switch to list view";
+
+/* TODO */
+"Switch to orbit view" = "Switch to orbit view";
 
 /* No comment provided by engineer. */
 "Sync" = "同步";
@@ -2591,6 +2705,9 @@
 "Tap to open settings." = "輕觸以打開設定。";
 
 /* TODO */
+"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+
+/* TODO */
 "Tap to view details" = "Tap to view details";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2727,9 @@
 
 /* TODO */
 "Test Connection" = "Test Connection";
+
+/* TODO */
+"Text Copied" = "Text Copied";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "文本轉語音";
@@ -2685,6 +2805,9 @@
 
 /* No comment provided by engineer. */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "每秒的樣本數，更高的取樣速率意味著更好的音訊質量和更大的檔案大小。";
+
+/* TODO */
+"the other device" = "the other device";
 
 /* No comment provided by engineer. */
 "The phone number of the contact." = "聯絡人的電話號碼。";
@@ -2778,6 +2901,9 @@
 
 /* No comment provided by engineer. */
 "This version of WeChat (%@) is supported." = "WeChat 通話助理支援當前版本的 WeChat（%@）。";
+
+/* TODO */
+"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
 
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "毫秒數";
@@ -2873,7 +2999,13 @@
 "Transcript" = "轉錄";
 
 /* TODO */
+"Transcript Copied" = "已複製轉錄";
+
+/* TODO */
 "Transfer exceeded." = "Transfer exceeded.";
+
+/* TODO */
+"Transfer Recordings" = "Transfer Recordings";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "閑置效果";
@@ -2886,6 +3018,9 @@
 
 /* No comment provided by engineer. */
 "Troll Recorder" = "巨魔錄音機";
+
+/* TODO */
+"Troll Recorder %@" = "Troll Recorder %@";
 
 /* No comment provided by engineer. */
 "tts" = "TTS";
@@ -3211,11 +3346,17 @@
 /* TODO */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
 
+/* TODO */
+"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我們喜歡移動著的、多彩的背景，但是我們依然提供了選項讓你來關閉它。";
 
 /* TODO */
 "WebDAV" = "WebDAV";
+
+/* TODO */
+"WebDAV Password Actions" = "WebDAV Password Actions";
 
 /* No comment provided by engineer. */
 "WebDAV Server" = "WebDAV 伺服器";
@@ -3291,6 +3432,9 @@
 
 /* No comment provided by engineer. */
 "Why don’t you make a phone call?" = "為什麽不打個電話試試呢？";
+
+/* TODO */
+"Wi-Fi Required" = "Wi-Fi Required";
 
 /* No comment provided by engineer. */
 "Will start recording automatically on audio or video calls in the current application." = "在當前應用程式中通話時自動開啟錄音。";
