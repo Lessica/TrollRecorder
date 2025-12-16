@@ -115,6 +115,12 @@
 /* No comment provided by engineer. */
 "Add Required Widget" = "زۆرۈر كىچىك پروگراممىنى قوشۇش";
 
+/* TODO */
+"Add Token" = "Add Token";
+
+/* TODO */
+"Add Tokens" = "Add Tokens";
+
 /* No comment provided by engineer. */
 "Additional command-line options for the Rclone synchronization tool." = "Rclone قورالىغا قوشۇمچە بۇيرۇق قۇرى تاللانمىلىرى.";
 
@@ -433,6 +439,12 @@
 /* No comment provided by engineer. */
 "call" = "تېلېفون";
 
+/* TODO */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?";
+
+/* TODO */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Call audio pipeline monitoring failed. Tap this notification to restart the recording service.";
+
 /* No comment provided by engineer. */
 "Call Direction" = "تېلېفون يۆنىلىشى";
 
@@ -513,6 +525,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "تاللانمىنى تازىلاش";
+
+/* TODO */
+"Clear Tokens" = "Clear Tokens";
 
 /* No comment provided by engineer. */
 "Clear Wave Caches" = "دولقۇن غەملەكلىرىنى تازىلاش";
@@ -2219,7 +2234,16 @@
 "Remove All Recordings Permanently" = "Remove All Recordings Permanently";
 
 /* TODO */
+"Remove Other Variants" = "Remove Other Variants";
+
+/* TODO */
 "Remove Outdated Recordings" = "Remove Outdated Recordings";
+
+/* TODO */
+"Remove Token" = "Remove Token";
+
+/* TODO */
+"Remove Tokens" = "Remove Tokens";
 
 /* No comment provided by engineer. */
 "Rename" = "قايتا ئىسىم قويۇش";
@@ -2709,6 +2733,9 @@
 
 /* No comment provided by engineer. */
 "Tap to view details" = "تەپسىلاتنى كۆرۈش ئۈچۈن چېكىڭ";
+
+/* TODO */
+"Technical Error Detected" = "Technical Error Detected";
 
 /* No comment provided by engineer. */
 "Temporarily Ignore" = "ۋاقىتلىق پەرۋا قىلماسلىق";
@@ -3462,6 +3489,9 @@
 
 /* TODO */
 "You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
+
+/* TODO */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "You are already using the latest version of “TrollRecorder” %1$@ (%2$@).";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "«تەڭشەكلەر» → «قوشۇمچە ئىقتىدارلار» → «ئاۋازلىق ئوقۇش» → «نۇتۇق» → «ئاۋاز» تىن ئاۋاز بوغچىسىنى چۈشۈرۈپ، ئاندىن بۇ يەردە بىرنى تاللاپ ئاۋازلىق ئېلان ئۈچۈن ئىشلىتەلەيسىز.";

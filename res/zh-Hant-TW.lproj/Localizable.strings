@@ -115,6 +115,12 @@
 /* No comment provided by engineer. */
 "Add Required Widget" = "添加所需的小組件";
 
+/* TODO */
+"Add Token" = "Add Token";
+
+/* TODO */
+"Add Tokens" = "Add Tokens";
+
 /* No comment provided by engineer. */
 "Additional command-line options for the Rclone synchronization tool." = "Rclone同步工具的其它命令列選項。";
 
@@ -433,6 +439,12 @@
 /* No comment provided by engineer. */
 "call" = "通話";
 
+/* TODO */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?";
+
+/* TODO */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Call audio pipeline monitoring failed. Tap this notification to restart the recording service.";
+
 /* No comment provided by engineer. */
 "Call Direction" = "通話方向";
 
@@ -513,6 +525,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "清除篩選項";
+
+/* TODO */
+"Clear Tokens" = "Clear Tokens";
 
 /* No comment provided by engineer. */
 "Clear Wave Caches" = "清理波形緩存";
@@ -2218,8 +2233,17 @@
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "永久刪除所有錄音";
 
+/* TODO */
+"Remove Other Variants" = "Remove Other Variants";
+
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "刪除過期錄音";
+
+/* TODO */
+"Remove Token" = "Remove Token";
+
+/* TODO */
+"Remove Tokens" = "Remove Tokens";
 
 /* No comment provided by engineer. */
 "Rename" = "重命名";
@@ -2709,6 +2733,9 @@
 
 /* No comment provided by engineer. */
 "Tap to view details" = "點選檢視詳細資訊";
+
+/* TODO */
+"Technical Error Detected" = "Technical Error Detected";
 
 /* No comment provided by engineer. */
 "Temporarily Ignore" = "暫時忽略";
@@ -3462,6 +3489,9 @@
 
 /* No comment provided by engineer. */
 "You are about to fix the file-system owners and permissions of all recordings and settings." = "您即將修復所有錄音和設置文件的系統所有者和權限。";
+
+/* TODO */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "You are already using the latest version of “TrollRecorder” %1$@ (%2$@).";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 「設置」 → 「輔助功能」 → 「旁白」 → 「語音」 → 「聲音」 中下載語音包，然後在這裡選擇一種，用於 「通話錄音警告」 和 「語音播報」 快捷指令。";

@@ -115,6 +115,12 @@
 /* No comment provided by engineer. */
 "Add Required Widget" = "필수 위젯 추가";
 
+/* TODO */
+"Add Token" = "Add Token";
+
+/* TODO */
+"Add Tokens" = "Add Tokens";
+
 /* No comment provided by engineer. */
 "Additional command-line options for the Rclone synchronization tool." = "Rclone 동기화 도구에 대한 추가 명령줄 옵션입니다.";
 
@@ -433,6 +439,12 @@
 /* No comment provided by engineer. */
 "call" = "통화";
 
+/* TODO */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?";
+
+/* TODO */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Call audio pipeline monitoring failed. Tap this notification to restart the recording service.";
+
 /* No comment provided by engineer. */
 "Call Direction" = "통화 방향";
 
@@ -513,6 +525,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "필터 지우기";
+
+/* TODO */
+"Clear Tokens" = "Clear Tokens";
 
 /* No comment provided by engineer. */
 "Clear Wave Caches" = "파형 캐시 지우기";
@@ -2218,8 +2233,17 @@
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "모든 녹음을 영구적으로 삭제";
 
+/* TODO */
+"Remove Other Variants" = "Remove Other Variants";
+
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "만료된 녹음 삭제";
+
+/* TODO */
+"Remove Token" = "Remove Token";
+
+/* TODO */
+"Remove Tokens" = "Remove Tokens";
 
 /* No comment provided by engineer. */
 "Rename" = "이름 바꾸기";
@@ -2709,6 +2733,9 @@
 
 /* No comment provided by engineer. */
 "Tap to view details" = "탭하여 세부 정보 보기";
+
+/* TODO */
+"Technical Error Detected" = "Technical Error Detected";
 
 /* No comment provided by engineer. */
 "Temporarily Ignore" = "당분간 무시";
@@ -3462,6 +3489,9 @@
 
 /* TODO */
 "You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
+
+/* TODO */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "You are already using the latest version of “TrollRecorder” %1$@ (%2$@).";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "“설정“ → “손쉬운 사용“ → “VoiceOver“ → “말하기“ → “음성“에서 음성 팩을 다운로드한 후 여기에서 음성 안내를 받을 음성 팩을 선택할 수 있습니다.";

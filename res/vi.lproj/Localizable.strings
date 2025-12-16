@@ -115,6 +115,12 @@
 /* No comment provided by engineer. */
 "Add Required Widget" = "Thêm tiện ích cần thiết";
 
+/* TODO */
+"Add Token" = "Add Token";
+
+/* TODO */
+"Add Tokens" = "Add Tokens";
+
 /* No comment provided by engineer. */
 "Additional command-line options for the Rclone synchronization tool." = "Các tùy chọn dòng lệnh bổ sung cho công cụ đồng bộ hóa Rclone.";
 
@@ -433,6 +439,12 @@
 /* No comment provided by engineer. */
 "call" = "gọi";
 
+/* TODO */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?";
+
+/* TODO */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Call audio pipeline monitoring failed. Tap this notification to restart the recording service.";
+
 /* No comment provided by engineer. */
 "Call Direction" = "Hướng cuộc gọi";
 
@@ -513,6 +525,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Lựa chọn rõ ràng";
+
+/* TODO */
+"Clear Tokens" = "Clear Tokens";
 
 /* No comment provided by engineer. */
 "Clear Wave Caches" = "Xóa bộ nhớ đệm sóng rõ ràng";
@@ -2218,8 +2233,17 @@
 /* No comment provided by engineer. */
 "Remove All Recordings Permanently" = "Xóa tất cả bản ghi vĩnh viễn";
 
+/* TODO */
+"Remove Other Variants" = "Remove Other Variants";
+
 /* No comment provided by engineer. */
 "Remove Outdated Recordings" = "Xóa bản ghi âm cũ";
+
+/* TODO */
+"Remove Token" = "Remove Token";
+
+/* TODO */
+"Remove Tokens" = "Remove Tokens";
 
 /* No comment provided by engineer. */
 "Rename" = "Đổi tên";
@@ -2709,6 +2733,9 @@
 
 /* No comment provided by engineer. */
 "Tap to view details" = "Nhấn để xem chi tiết.";
+
+/* TODO */
+"Technical Error Detected" = "Technical Error Detected";
 
 /* No comment provided by engineer. */
 "Temporarily Ignore" = "Tạm thời bỏ qua";
@@ -3462,6 +3489,9 @@
 
 /* No comment provided by engineer. */
 "You are about to fix the file-system owners and permissions of all recordings and settings." = "Bạn chuẩn bị sửa Chủ tệp hệ thống & Quyền của tất cả các bản ghi và cài đặt.";
+
+/* TODO */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "You are already using the latest version of “TrollRecorder” %1$@ (%2$@).";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Bạn có thể tải xuống gói giọng nói trong “Cài đặt” → “Trợ năng” → “VoiceOver” → “Giọng nói” → “Giọng nói” để tải xuống các gói giọng nói, và sau đó chọn một cái ở đây cho thông báo giọng nói.";

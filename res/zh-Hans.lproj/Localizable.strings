@@ -116,6 +116,12 @@
 "Add Required Widget" = "添加所需的小组件";
 
 /* No comment provided by engineer. */
+"Add Token" = "添加占位符";
+
+/* No comment provided by engineer. */
+"Add Tokens" = "添加占位符";
+
+/* No comment provided by engineer. */
 "Additional command-line options for the Rclone synchronization tool." = "额外透传给 Rclone 同步工具的命令行选项。";
 
 /* No comment provided by engineer. */
@@ -434,6 +440,12 @@
 "call" = "通话";
 
 /* No comment provided by engineer. */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "通话音频管线监听失败。立即重启守护进程或许可以解除此异常，是否继续？";
+
+/* No comment provided by engineer. */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "通话音频管线监听失败，轻点此通知以重启录音服务。";
+
+/* No comment provided by engineer. */
 "Call Direction" = "通话方向";
 
 /* No comment provided by engineer. */
@@ -513,6 +525,9 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "清除筛选项";
+
+/* No comment provided by engineer. */
+"Clear Tokens" = "清空占位符";
 
 /* No comment provided by engineer. */
 "Clear Wave Caches" = "清理波形缓存";
@@ -2219,7 +2234,16 @@
 "Remove All Recordings Permanently" = "永久删除所有录音";
 
 /* No comment provided by engineer. */
+"Remove Other Variants" = "移除其他变体";
+
+/* No comment provided by engineer. */
 "Remove Outdated Recordings" = "删除过期录音";
+
+/* No comment provided by engineer. */
+"Remove Token" = "移除占位符";
+
+/* No comment provided by engineer. */
+"Remove Tokens" = "移除占位符";
 
 /* No comment provided by engineer. */
 "Rename" = "重命名";
@@ -2709,6 +2733,9 @@
 
 /* No comment provided by engineer. */
 "Tap to view details" = "轻按以查看详情";
+
+/* No comment provided by engineer. */
+"Technical Error Detected" = "检测到技术错误";
 
 /* No comment provided by engineer. */
 "Temporarily Ignore" = "暂时忽略";
@@ -3462,6 +3489,9 @@
 
 /* No comment provided by engineer. */
 "You are about to fix the file-system owners and permissions of all recordings and settings." = "你即将修复所有录音和设置的文件系统所有者和权限。";
+
+/* No comment provided by engineer. */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "你已经在使用最新版本的 “巨魔录音机” %1$@ (%2$@)。";
 
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在 “设置” → “辅助功能” → “旁白” → “语音” → “声音” 中下载语音包，然后在这里选择一种，用于 “播放录音警告” 选项和 “语音播报” 快捷指令。";
