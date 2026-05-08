@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Content Type</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>one</key>
+			<string>نوع المحتوى</string>
+			<key>other</key>
+			<string>أنواع المحتوى</string>
+		</dict>
+	</dict>
+	<key>%lld content types</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>أنواع المحتوى %lld</string>
+			<key>one</key>
+			<string>نوع المحتوى %lld</string>
+			<key>other</key>
+			<string>أنواع المحتوى %lld</string>
+		</dict>
+	</dict>
+	<key>Information Field</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>one</key>
+			<string>حقل المعلومات</string>
+			<key>other</key>
+			<string>حقول المعلومات</string>
+		</dict>
+	</dict>
+	<key>%lld fields</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>‏%lld حقول</string>
+			<key>one</key>
+			<string>‏%lld حقل</string>
+			<key>other</key>
+			<string>‏%lld حقول</string>
+		</dict>
+	</dict>
+	<key>Voice Channel</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>one</key>
+			<string>القناة الصوتية</string>
+			<key>other</key>
+			<string>القنوات الصوتية</string>
+		</dict>
+	</dict>
+	<key>%lld channels</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>٪lld قناة</string>
+			<key>one</key>
+			<string>٪lld قناة</string>
+			<key>other</key>
+			<string>٪lld قناة</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

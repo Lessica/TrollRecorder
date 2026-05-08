@@ -1,0 +1,3869 @@
+/* No comment provided by engineer. */
+"%@ Hz" = "%@ Hz";
+
+/* Translated with LLM */
+"%@ is locked." = "%@ jest zablokowany.";
+
+/* Translated with LLM */
+"%@ is not available." = "%@ jest niedostępny.";
+
+/* Translated with LLM */
+"%@ is not implemented yet." = "%@ nie został jeszcze zaimplementowany.";
+
+/* Translated with LLM */
+"%@ is not set up." = "%@ nie jest skonfigurowany.";
+
+/* Translated with LLM */
+"%@ may not be configured" = "%@ może nie być skonfigurowany.";
+
+/* Translated with LLM */
+"%@ Reason: %@" = "%1$@ Powód: %2$@";
+
+/* Translated with LLM */
+"%@ rows not loaded" = "%@ wierszy nie załadowano";
+
+/* Translated with LLM */
+"%d Exclusive Features" = "%d Ekskluzywnych funkcji";
+
+/* Translated with LLM */
+"%ld Recording" = "%ld Nagranie";
+
+/* Translated with LLM */
+"%ld Recording ◇ %@" = "%ld Nagranie ◇ %@";
+
+/* Translated with LLM */
+"%ld Recordings" = "%ld Nagrań";
+
+/* Translated with LLM */
+"%ld Recordings ◇ %@" = "%ld Nagrań ◇ %@";
+
+/* Translated with LLM */
+"(%lu bytes)" = "(%lu bajtów)";
+
+/* Translated with LLM */
+"(%lu items)" = "(%lu pozycji)";
+
+/* No comment provided by engineer. */
+"(null)" = "(null)";
+
+/* No comment provided by engineer. */
+"--arg=value" = "--arg=value";
+
+/* Translated with LLM */
+"3 Seconds" = "3 sekundy";
+
+/* Translated with LLM */
+"30 Days Ago" = "30 dni temu";
+
+/* Translated with LLM */
+"4 Seconds" = "4 sekundy";
+
+/* Translated with LLM */
+"45 Days Ago" = "45 dni temu";
+
+/* Translated with LLM */
+"5 Seconds" = "5 sekund";
+
+/* Translated with LLM */
+"6 Seconds" = "6 sekund";
+
+/* Translated with LLM */
+"90 Days Ago" = "90 dni temu";
+
+/* No comment provided by engineer. */
+"<%@: %p>" = "<%@: %p>";
+
+/* Translated with LLM */
+"A new version (%@) of “TrollRecorder” is available." = "Dostępna jest nowa wersja (%@) programu „TrollRecorder”.";
+
+/* Translated with LLM */
+"A respring is required to completely apply the changes." = "Aby w pełni zastosować zmiany, wymagane jest ponowne uruchomienie aplikacji (respring).";
+
+/* Translated with LLM */
+"A widget is required for the “Launch Shield” feature." = "Widżet jest wymagany dla funkcji „Launch Shield”.";
+
+/* Translated with LLM */
+"accept" = "akceptuj";
+
+/* Translated with LLM */
+"Accept all incoming calls automatically." = "Automatycznie odbieraj wszystkie połączenia przychodzące.";
+
+/* Translated with LLM */
+"accept call" = "zaakceptuj połączenie";
+
+/* Translated with LLM */
+"Accept Incoming Calls" = "Akceptuj połączenia przychodzące";
+
+/* Translated with LLM */
+"Access From Web Browser" = "Dostęp z przeglądarki internetowej";
+
+/* Translated with LLM */
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Uzyskaj dostęp do swoich nagrań z przeglądarki WebDAV z innego urządzenia w sieci. Serwer jest aktywny tylko wtedy, gdy aplikacja jest na pierwszym planie.";
+
+/* Translated with LLM */
+"activate" = "aktywuj";
+
+/* Translated with LLM */
+"activate hoverball" = "aktywuj hoverball";
+
+/* Translated with LLM */
+"Activate the recorder hoverball." = "Aktywuj poduszkowiec nagrywarki.";
+
+/* Translated with LLM */
+"Add" = "Dodaj";
+
+/* Translated with LLM */
+"Add Argument" = "Dodaj argument";
+
+/* Translated with LLM */
+"Add Now" = "Dodaj teraz";
+
+/* Translated with LLM */
+"Add Required Widget" = "Dodaj wymagany widget";
+
+/* Translated with LLM */
+"Add Token" = "Dodaj token";
+
+/* Translated with LLM */
+"Add Tokens" = "Dodaj tokeny";
+
+/* Translated with LLM */
+"Additional command-line options for the Rclone synchronization tool." = "Dodatkowe opcje wiersza poleceń dla narzędzia synchronizacji Rclone.";
+
+/* Translated with LLM */
+"Additional Contact" = "Dodatkowy kontakt";
+
+/* Translated with LLM */
+"Adequate" = "Wystarczająca";
+
+/* Translated with LLM */
+"Advanced Audio Coding" = "Zaawansowane kodowanie dźwięku";
+
+/* Translated with LLM */
+"Advanced Options" = "Opcje zaawansowane";
+
+/* Translated with LLM */
+"Advanced Search" = "Wyszukiwanie zaawansowane";
+
+/* Translated with LLM */
+"After %@" = "Po %@";
+
+/* Translated with LLM */
+"Agree" = "Zgadzam się";
+
+/* No comment provided by engineer. */
+"Alias" = "Alias";
+
+/* Translated with LLM */
+"alive" = "żywy";
+
+/* Translated with LLM */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "Wszystkie połączenia będą nagrywane automatycznie, z wyłączeniem kontaktów z „Listy wykluczeń”. Kontakty VIP zostaną również dodane do ulubionych.";
+
+/* Translated with LLM */
+"All Edges" = "Wszystkie krawędzie";
+
+/* Translated with LLM */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Wszystkie logi będą przechowywane przez 7 dni. Nieaktualne logi zostaną usunięte automatycznie.";
+
+/* Translated with LLM */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "Wszystkie nagrania z %@ są teraz dostępne na tym urządzeniu. Możesz zamknąć ten ekran, gdy będziesz gotowy.";
+
+/* Translated with LLM */
+"Allow Access to Call History" = "Zezwalaj na dostęp do historii połączeń";
+
+/* Translated with LLM */
+"Allow Automatic Recording" = "Zezwalaj na automatyczne nagrywanie";
+
+/* Translated with LLM */
+"Allow Hoverball Wake-Ups" = "Zezwalaj na wybudzanie hoverballa";
+
+/* Translated with LLM */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Zezwalaj na odczyt listy kontaktów WeChat i historii połączeń VoIP, aby wypełnić nazwy kontaktów w nagraniach. Obsługiwane są tylko najnowsze wersje WeChat.";
+
+/* Translated with LLM */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Zezwalaj na nagrywanie połączeń telefonicznych odbieranych na urządzeniach zalogowanych do Twojego konta iCloud, gdy znajdują się one w pobliżu i są w sieci WLAN.";
+
+/* Translated with LLM */
+"Always" = "Zawsze";
+
+/* Translated with LLM */
+"Always Dark" = "Zawsze ciemny";
+
+/* Translated with LLM */
+"Always Dynamic" = "Zawsze dynamiczny";
+
+/* Translated with LLM */
+"Always Fold" = "Zawsze zwijaj";
+
+/* Translated with LLM */
+"Always keep the hoverball window visible." = "Zawsze utrzymuj widoczne okno hoverballa.";
+
+/* Translated with LLM */
+"Always Keep-Alive in Background" = "Zawsze utrzymuj aktywność w tle";
+
+/* Translated with LLM */
+"Always Light" = "Zawsze jasny";
+
+/* Translated with LLM */
+"Always On" = "Zawsze włączony";
+
+/* Translated with LLM */
+"Always schedule background processing tasks to run at the next available opportunity." = "Zawsze planuj zadania przetwarzania w tle, aby uruchomić je przy najbliższej okazji.";
+
+/* Translated with LLM */
+"AM/PM String" = "Ciąg AM/PM";
+
+/* Translated with LLM */
+"An unknown error occurred." = "Wystąpił nieznany błąd.";
+
+/* Translated with LLM */
+"Analysing Audio" = "Analizowanie dźwięku";
+
+/* Translated with LLM */
+"Another %@ is required to continue editing. Available capacity is %@." = "Do kontynuowania edycji wymagane jest dodatkowe %1$@. Dostępna pojemność to %2$@.";
+
+/* Translated with LLM */
+"answer" = "odpowiedź";
+
+/* Translated with LLM */
+"answer call" = "odbierz połączenie";
+
+/* Translated with LLM */
+"answer incoming call" = "odbierz połączenie przychodzące";
+
+/* Translated with LLM */
+"answered" = "odebrane";
+
+/* Translated with LLM */
+"answered call" = "odebrane połączenie";
+
+/* Translated with LLM */
+"Any" = "Dowolny";
+
+/* Translated with LLM */
+"App Icon" = "Ikona aplikacji";
+
+/* Translated with LLM */
+"App Language" = "Język aplikacji";
+
+/* Translated with LLM */
+"Appearance" = "Wygląd";
+
+/* Translated with LLM */
+"Apple’s Core Audio" = "Apple Core Audio";
+
+/* Translated with LLM */
+"Application" = "Aplikacja";
+
+/* Translated with LLM */
+"Application Overrides" = "Nadpisania aplikacji";
+
+/* Translated with LLM */
+"Applications" = "Aplikacje";
+
+/* Translated with LLM */
+"App Store" = "App Store";
+
+/* Translated with LLM */
+"archive" = "archiwum";
+
+/* Translated with LLM */
+"Archive" = "Archiwum";
+
+/* Translated with LLM */
+"Archive Regeneration" = "Regeneracja archiwum";
+
+/* Translated with LLM */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Archiwum: Użyj opcji „Udostępnianie zawartości” → „Niestandardowa nazwa eksportu”, aby zmienić nazwę lokalnych mieszanych i połączonych nagrań podstawowych i przesłać je na dyski w chmurze. Nieprzywracalne.";
+
+/* Translated with LLM */
+"Are you sure you want to discard the changes you made?" = "Czy na pewno chcesz odrzucić wprowadzone zmiany?";
+
+/* Translated with LLM */
+"Are you sure you want to remove all shortcut definitions?" = "Czy na pewno chcesz usunąć wszystkie definicje skrótów?";
+
+/* Translated with LLM */
+"Arguments added on this page will be passed through to the rclone command line exactly as entered." = "Argumenty dodane na tej stronie zostaną przekazane do wiersza poleceń rclone dokładnie w takiej postaci, w jakiej zostały wprowadzone.";
+
+/* Translated with LLM */
+"Associate with Call History" = "Powiąż z historią połączeń";
+
+/* Translated with LLM */
+"At the end of recording, the audio files of each channel during recording are retained." = "Po zakończeniu nagrywania pliki audio każdego kanału z okresu nagrywania są zachowywane.";
+
+/* Translated with LLM */
+"Attachable Edges" = "Przyczepne krawędzie";
+
+/* No comment provided by engineer. */
+"audio" = "audio";
+
+/* No comment provided by engineer. */
+"Audio CD" = "Audio CD";
+
+/* Translated with LLM */
+"Audio File" = "Plik audio";
+
+/* Translated with LLM */
+"Audio played to %@" = "Odtworzono dźwięk do %@";
+
+/* Translated with LLM */
+"Audio progress" = "Postęp audio";
+
+/* Translated with LLM */
+"Authenticate with %@" = "Uwierzytelnij za pomocą %@";
+
+/* Translated with LLM */
+"Authorization error: %@" = "Błąd autoryzacji: %@";
+
+/* Translated with LLM */
+"Authorization flow was manually canceled by user." = "Proces autoryzacji został ręcznie anulowany przez użytkownika.";
+
+/* Translated with LLM */
+"Authorize with Dropbox" = "Autoryzuj przez Dropbox";
+
+/* Translated with LLM */
+"Authorize with Google" = "Autoryzuj przez Google";
+
+/* Translated with LLM */
+"Authorize with Microsoft" = "Autoryzuj przez Microsoft";
+
+/* Translated with LLM */
+"Automatic" = "Automatyczny";
+
+/* Translated with LLM */
+"Automatic Recording" = "Automatyczne nagrywanie";
+
+/* Translated with LLM */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatyczne nagrywanie jest wyłączone. Połączenia nie będą nagrywane automatycznie w żadnej sytuacji.";
+
+/* Translated with LLM */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Automatycznie twórz klony dla mieszanych i łączonych nagrań głównych co miesiąc i przechowuj je w iCloud Drive. Nagrania z bieżącego miesiąca nie będą archiwizowane.";
+
+/* Translated with LLM */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Automatycznie uruchamiaj usługi działające w tle i utrzymuj je przy życiu po ponownym uruchomieniu i odblokowaniu urządzenia. Aby włączyć tę funkcję, widżet „TrollRecorder” musi zostać dodany gdzieś na ekranie blokady lub ekranie głównym.";
+
+/* Translated with LLM */
+"Automatically merge microphone and speaker into a single file after record complete." = "Automatycznie łącz mikrofon i głośnik w jeden plik po zakończeniu nagrywania.";
+
+/* Translated with LLM */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatycznie przesuwaj hoverball, aby uniknąć klawiatury w orientacji pionowej.";
+
+/* Translated with LLM */
+"Automatically purge recycle bin and remove failure caches." = "Automatycznie czyść kosz i usuwaj pamięć podręczną nieudanych nagrań.";
+
+/* Translated with LLM */
+"Automatically query the latest version from GitHub when the application starts." = "Automatycznie sprawdzaj najnowszą wersję na GitHubie przy uruchomieniu aplikacji.";
+
+/* Translated with LLM */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatycznie nagrywaj wszystkie połączenia FaceTime: z wyłączeniem kontaktów z „Listy wykluczeń”.";
+
+/* Translated with LLM */
+"Automatically record FaceTime calls from contacts not in your address book." = "Automatycznie nagrywaj połączenia FaceTime od kontaktów spoza książki adresowej.";
+
+/* Translated with LLM */
+"Automatically record phone calls from contacts not in your address book." = "Automatycznie nagrywaj połączenia telefoniczne od kontaktów spoza książki adresowej.";
+
+/* Translated with LLM */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatycznie nagrywaj rozmowy telefoniczne: z wyłączeniem kontaktów z „Listy wykluczeń”.";
+
+/* Translated with LLM */
+"Automatically remove recordings created earlier than specified date except those marked ones." = "Automatycznie usuwaj nagrania utworzone przed określoną datą, z wyjątkiem tych oznaczonych.";
+
+/* Translated with LLM */
+"Automatically stop recording when available disk space is extremely low." = "Automatycznie zatrzymaj nagrywanie, gdy dostępne miejsce na dysku jest bardzo małe.";
+
+/* Translated with LLM */
+"Automatically Suspend in Background" = "Automatycznie zawieszaj w tle";
+
+/* Translated with LLM */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Automatycznie przesuń palcem w górę do pulpitu po odblokowaniu. Jeśli odblokujesz w ciągu 10 sekund od zablokowania, ta czynność nie zostanie wykonana.";
+
+/* Translated with LLM */
+"Automation" = "Automatyzacja";
+
+/* Translated with LLM */
+"Avoid screen being locked automatically when WebDAV server is used by any client." = "Unikaj automatycznego blokowania ekranu, gdy serwer WebDAV jest używany przez dowolnego klienta.";
+
+/* Translated with LLM */
+"Background Style" = "Styl tła";
+
+/* Translated with LLM */
+"backup" = "kopia zapasowa";
+
+/* Translated with LLM */
+"Backup Synchronized" = "Kopia zapasowa zsynchronizowana";
+
+/* Translated with LLM */
+"Backup With iCloud" = "Kopia zapasowa przez iCloud";
+
+/* Translated with LLM */
+"Batch Export" = "Eksport wsadowy";
+
+/* No comment provided by engineer. */
+"BatchExport_%@.zip" = "BatchExport_%@.zip";
+
+/* Translated with LLM */
+"Before %@" = "Przed %@";
+
+/* Translated with LLM */
+"Before starting a call recording, a prompt voice is played to the opposite end." = "Przed rozpoczęciem nagrywania rozmowy do rozmówcy odtwarzany jest komunikat ostrzegawczy.";
+
+/* Translated with LLM */
+"begin recording" = "rozpocznij nagrywanie";
+
+/* Translated with LLM */
+"begin screen recording" = "rozpocznij nagrywanie ekranu";
+
+/* No comment provided by engineer. */
+"Beta" = "Beta";
+
+/* Translated with LLM */
+"Bi-sync" = "Dwukierunkowa synchronizacja";
+
+/* Translated with LLM */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "Synchronizacja dwukierunkowa: Wykonuje dwukierunkową synchronizację między dwiema ścieżkami.";
+
+/* Translated with LLM */
+"Biometric Authentication" = "Uwierzytelnianie biometryczne";
+
+/* Translated with LLM */
+"block incoming call" = "blokuj połączenie przychodzące";
+
+/* Translated with LLM */
+"Bonjour server started at: %@" = "Serwer Bonjour uruchomiony pod adresem: %@";
+
+/* Translated with LLM */
+"Boost Periodic Tasks" = "Przyspiesz zadania okresowe";
+
+/* Translated with LLM */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (tryb zgodny z TrollStore)";
+
+/* Translated with LLM */
+"Both (Microphone & Speaker)" = "Oba (mikrofon i głośnik)";
+
+/* Translated with LLM */
+"bottom edge" = "dolna krawędź";
+
+/* Translated with LLM */
+"Build and use a custom export name template for exported audio files." = "Twórz i używaj niestandardowego szablonu nazwy eksportu dla eksportowanych plików audio.";
+
+/* Translated with LLM */
+"Bundle Display Name" = "Nazwa wyświetlana pakietu";
+
+/* Translated with LLM */
+"Bundle Identifier" = "Identyfikator pakietu";
+
+/* Translated with LLM */
+"Bundle Name" = "Nazwa pakietu";
+
+/* Translated with LLM */
+"Buy TrollRecorder Pro" = "Kup TrollRecorder Pro";
+
+/* Translated with LLM */
+"Calculating…" = "Obliczanie…";
+
+/* Translated with LLM */
+"Call" = "Połączenie";
+
+/* Translated with LLM */
+"call" = "połączenie";
+
+/* Translated with LLM */
+"call audio on" = "dźwięk połączenia włączony";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Monitorowanie potoku audio połączenia nie powiodło się. Natychmiastowe ponowne uruchomienie demona może rozwiązać ten problem. Kontynuować?";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Monitorowanie potoku audio połączenia nie powiodło się. Dotknij tego powiadomienia, aby ponownie uruchomić usługę nagrywania.";
+
+/* Translated with LLM */
+"call connected" = "połączenie nawiązane";
+
+/* Translated with LLM */
+"Call Direction" = "Kierunek połączenia";
+
+/* Translated with LLM */
+"call duration" = "czas trwania połączenia";
+
+/* Translated with LLM */
+"Call Identifier" = "Identyfikator połączenia";
+
+/* Translated with LLM */
+"call information" = "informacje o połączeniu";
+
+/* Translated with LLM */
+"Call Recording" = "Nagrywanie rozmów";
+
+/* Translated with LLM */
+"Call Recording Begins" = "Rozpoczyna się nagrywanie rozmowy";
+
+/* Translated with LLM */
+"Call Recording Ends" = "Koniec nagrywania rozmów";
+
+/* Translated with LLM */
+"Call recording from “%@” and other %ld applications." = "Nagrywanie połączeń z „%@” i %ld innych aplikacji.";
+
+/* Translated with LLM */
+"Call recording from “%@”." = "Nagranie rozmowy z „%@”.";
+
+/* Translated with LLM */
+"Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Nagrywanie połączeń rozpoczyna się dopiero po odebraniu połączenia wychodzącego lub odebraniu połączenia przychodzącego.";
+
+/* Translated with LLM */
+"Call State" = "Stan połączenia";
+
+/* Translated with LLM */
+"call status" = "stan połączenia";
+
+/* Translated with LLM */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Połączenia mogą być nagrywane tylko podczas korzystania z mikrofonu tego urządzenia. Połączenia z tego urządzenia odebrane na innych urządzeniach nie będą nagrywane.";
+
+/* Translated with LLM */
+"Camcorder" = "Kamera";
+
+/* Translated with LLM */
+"Cancel" = "Anuluj";
+
+/* Translated with LLM */
+"Cannot parse text with UTF-8 encoding: “%@”." = "Nie można przeanalizować tekstu z kodowaniem UTF-8: „%@”.";
+
+/* Translated with LLM */
+"Caution" = "Uwaga";
+
+/* Translated with LLM */
+"check" = "sprawdź";
+
+/* Translated with LLM */
+"Check if the daemon is running. If not, launch it." = "Sprawdź, czy demon jest uruchomiony. Jeśli nie, uruchom go.";
+
+/* Translated with LLM */
+"check service" = "sprawdź usługę";
+
+/* Translated with LLM */
+"Check Updates" = "Sprawdź aktualizacje";
+
+/* Translated with LLM */
+"Check Updates at Launch" = "Sprawdzaj aktualizacje przy uruchomieniu";
+
+/* Translated with LLM */
+"Checking service status" = "Sprawdzanie stanu usługi";
+
+/* Translated with LLM */
+"Child Pages" = "Strony podrzędne";
+
+/* Translated with LLM */
+"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Wybierz wyjściowy format audio dla miksera. Format Wave Audio nie obsługuje zaawansowanego kodowania.";
+
+/* Translated with LLM */
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Wybierz wyjściową jakość dźwięku dla miksera. Wyższa jakość oznacza wyższą częstotliwość próbkowania i przepływność bitową, co skutkuje większym rozmiarem pliku.";
+
+/* Translated with LLM */
+"Choose the output file format for the mixer." = "Wybierz format pliku wyjściowego dla miksera.";
+
+/* Translated with LLM */
+"Choose the size preset of the hoverball." = "Wybierz predefiniowany rozmiar poduszkowca.";
+
+/* Translated with LLM */
+"Clean Caches Automatically" = "Automatycznie czyść pamięć podręczną";
+
+/* Translated with LLM */
+"Clear" = "Wyczyść";
+
+/* Translated with LLM */
+"Clear Selection" = "Wyczyść wybór";
+
+/* Translated with LLM */
+"Clear Tokens" = "Wyczyść tokeny";
+
+/* Translated with LLM */
+"Clear Wave Caches" = "Wyczyść pamięć podręczną Wave";
+
+/* Translated with LLM */
+"Close" = "Zamknij";
+
+/* Translated with LLM */
+"close hoverball" = "zamknij hoverball";
+
+/* Translated with LLM */
+"cloud archive sync" = "synchronizacja archiwum w chmurze";
+
+/* Translated with LLM */
+"Collapse Recursively" = "Zwiń rekurencyjnie";
+
+/* Translated with LLM */
+"Collecting" = "Zbieranie";
+
+/* Translated with LLM */
+"Combined" = "Połączone";
+
+/* Translated with LLM */
+"Combined Mode" = "Tryb łączony";
+
+/* Translated with LLM */
+"Compiled at %@" = "Skompilowano %@";
+
+/* Translated with LLM */
+"Compressing" = "Kompresowanie";
+
+/* Translated with LLM */
+"Configure the embedded client with your WebDAV server address, username and password." = "Skonfiguruj wbudowanego klienta, podając adres serwera WebDAV, nazwę użytkownika i hasło.";
+
+/* Translated with LLM */
+"Configure WebDAV Client" = "Konfiguruj klienta WebDAV";
+
+/* Translated with LLM */
+"Confirm" = "Potwierdź";
+
+/* Translated with LLM */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Potwierdź swoje konto Havoc – jest to jedyny dowód zakupu. Użytkownik ponosi odpowiedzialność za utratę autoryzacji z powodu zapomnienia konta. Dokonując zakupu, kliknij kwotę na stronie, aby zakończyć płatność, nie klikaj ikony prezentu.";
+
+/* Translated with LLM */
+"Connect to a Wi‑Fi network before transferring recordings." = "Połącz się z siecią Wi‑Fi przed przesyłaniem nagrań.";
+
+/* Translated with LLM */
+"connected" = "połączony";
+
+/* Translated with LLM */
+"connected call" = "połączenie nawiązane";
+
+/* Translated with LLM */
+"Connected Clients: %d" = "Połączeni klienci: %d";
+
+/* Translated with LLM */
+"Connection" = "Połączenie";
+
+/* Translated with LLM */
+"Constants" = "Stałe";
+
+/* Translated with LLM */
+"Contact Exceptions" = "Wyjątki dla kontaktów";
+
+/* Translated with LLM */
+"Contact Name" = "Nazwa kontaktu";
+
+/* Translated with LLM */
+"Contact Phone Address" = "Adres telefonu kontaktowego";
+
+/* Translated with LLM */
+"Contact Us" = "Skontaktuj się z nami";
+
+/* Translated with LLM */
+"Contact via Discord" = "Kontakt przez Discord";
+
+/* Translated with LLM */
+"Contact via Email" = "Kontakt przez e-mail";
+
+/* Translated with LLM */
+"Contact via QQ" = "Kontakt przez QQ";
+
+/* Translated with LLM */
+"Contact via TikTok" = "Kontakt przez TikTok";
+
+/* Translated with LLM */
+"Contacts" = "Kontakty";
+
+/* Translated with LLM */
+"Contacts in this list will not be recorded in any situation." = "Kontakty z tej listy nie będą nagrywane w żadnej sytuacji.";
+
+/* Translated with LLM */
+"Contacts Permission Denied" = "Odmowa dostępu do kontaktów";
+
+/* Translated with LLM */
+"Content" = "Zawartość";
+
+/* Translated with LLM */
+"Content Sharing" = "Udostępnianie treści";
+
+/* Translated with LLM */
+"Continue" = "Kontynuuj";
+
+/* Translated with LLM */
+"Continuous Playback Off" = "Odtwarzanie ciągłe wyłączone";
+
+/* Translated with LLM */
+"Continuous Playback On" = "Odtwarzanie ciągłe włączone";
+
+/* Translated with LLM */
+"Conversion Failed" = "Konwersja nie powiodła się";
+
+/* Translated with LLM */
+"Conversion Succeed" = "Konwersja zakończona sukcesem";
+
+/* Translated with LLM */
+"Convert latitude and longitude to human-readable address." = "Konwertuj szerokość i długość geograficzną na adres czytelny dla człowieka.";
+
+/* Translated with LLM */
+"Convert Now" = "Konwertuj teraz";
+
+/* Translated with LLM */
+"Converting" = "Konwertowanie";
+
+/* Translated with LLM */
+"Copied" = "Skopiowano";
+
+/* Translated with LLM */
+"Copy" = "Kopiuj";
+
+/* Translated with LLM */
+"Copy Key" = "Kopiuj klucz";
+
+/* Translated with LLM */
+"Copy or reset the current WebDAV password." = "Skopiuj lub zresetuj bieżące hasło WebDAV.";
+
+/* Translated with LLM */
+"Copy Password" = "Kopiuj hasło";
+
+/* Translated with LLM */
+"Copy Path" = "Kopiuj ścieżkę";
+
+/* Translated with LLM */
+"Copy Transcript" = "Kopiuj transkrypcję";
+
+/* Translated with LLM */
+"Copy Value" = "Kopiuj wartość";
+
+/* Translated with LLM */
+"Could not acquire token: %@" = "Nie można uzyskać tokena: %@";
+
+/* Translated with LLM */
+"Could not acquire token: No result returned." = "Nie można uzyskać tokena: nie zwrócono wyniku.";
+
+/* Translated with LLM */
+"Could not get graph result: %@" = "Nie można uzyskać wyniku wykresu: %@";
+
+/* Translated with LLM */
+"Could not sign out account: %@" = "Nie można wylogować konta: %@";
+
+/* Translated with LLM */
+"Created At" = "Utworzono";
+
+/* Translated with LLM */
+"Credentials" = "Poświadczenia";
+
+/* Translated with LLM */
+"current call" = "bieżące połączenie";
+
+/* Translated with LLM */
+"current call duration" = "bieżący czas trwania połączenia";
+
+/* Translated with LLM */
+"Custom CLI Options" = "Niestandardowe opcje CLI";
+
+/* Translated with LLM */
+"Custom Export Name" = "Niestandardowa nazwa eksportu";
+
+/* Translated with LLM */
+"Custom Key Combination…" = "Niestandardowa kombinacja klawiszy…";
+
+/* Translated with LLM */
+"Custom Layout Guide" = "Przewodnik po niestandardowym układzie";
+
+/* Translated with LLM */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Dostosuj prostokątny obszar, który pomoże Ci umieścić hoverball na ekranie.";
+
+/* Translated with LLM */
+"daemon" = "demon";
+
+/* Translated with LLM */
+"daemon running" = "uruchomiony demon";
+
+/* Translated with LLM */
+"daemon service" = "usługa demona";
+
+/* Translated with LLM */
+"Daily Arranged" = "Ułożone dziennie";
+
+/* Translated with LLM */
+"Date & Time" = "Data i godzina";
+
+/* Translated with LLM */
+"Day of Month Number" = "Numer dnia miesiąca";
+
+/* Translated with LLM */
+"Day of Week String" = "Nazwa dnia tygodnia";
+
+/* Translated with LLM */
+"deactivate" = "dezaktywuj";
+
+/* Translated with LLM */
+"Deactivate" = "Dezaktywuj";
+
+/* Translated with LLM */
+"Deactivate & Sign Out" = "Dezaktywuj i wyloguj się";
+
+/* Translated with LLM */
+"deactivate hoverball" = "dezaktywuj hoverball";
+
+/* Translated with LLM */
+"Deactivate the recorder hoverball." = "Dezaktywuj poduszkowiec nagrywarki.";
+
+/* Translated with LLM */
+"Debugging" = "Debugowanie";
+
+/* Translated with LLM */
+"decline" = "odrzuć";
+
+/* Translated with LLM */
+"decline call" = "odrzuć połączenie";
+
+/* Translated with LLM */
+"Decoding" = "Dekodowanie";
+
+/* Translated with LLM */
+"Default" = "Domyślne";
+
+/* Translated with LLM */
+"Delete" = "Usuń";
+
+/* Translated with LLM */
+"Delete Recording" = "Usuń nagranie";
+
+/* Translated with LLM */
+"Delete Selected %ld Items" = "Usuń wybrane %ld elementy";
+
+/* Translated with LLM */
+"Delete Selected Item" = "Usuń wybrany element";
+
+/* Translated with LLM */
+"Deleting" = "Usuwanie";
+
+/* Translated with LLM */
+"Deselect All" = "Odznacz wszystko";
+
+/* Translated with LLM */
+"Detail Only" = "Tylko szczegóły";
+
+/* Translated with LLM */
+"Developer Options" = "Opcje programisty";
+
+/* Translated with LLM */
+"Digital Video" = "Wideo cyfrowe";
+
+/* Translated with LLM */
+"Direction" = "Kierunek";
+
+/* Translated with LLM */
+"Direction Capitalized" = "Kierunek (z dużej litery)";
+
+/* Translated with LLM */
+"Direction Description" = "Opis kierunku";
+
+/* Translated with LLM */
+"directory" = "katalog";
+
+/* Translated with LLM */
+"Directory" = "Katalog";
+
+/* Translated with LLM */
+"Directory not found." = "Nie znaleziono katalogu.";
+
+/* Translated with LLM */
+"Disabled" = "Wyłączony";
+
+/* Translated with LLM */
+"Disallow" = "Nie zezwalaj";
+
+/* Translated with LLM */
+"Disallow Automatic Recording" = "Wyłącz automatyczne nagrywanie";
+
+/* Translated with LLM */
+"Disallow Hoverball Wake-Ups" = "Wyłącz wybudzanie hoverballa";
+
+/* Translated with LLM */
+"Discard" = "Odrzuć";
+
+/* Translated with LLM */
+"discard" = "Odrzuć";
+
+/* Translated with LLM */
+"Discard Changes" = "Odrzuć zmiany";
+
+/* Translated with LLM */
+"Discard Recording" = "Odrzuć nagranie";
+
+/* Translated with LLM */
+"discard recording" = "Odrzuć nagranie";
+
+/* Translated with LLM */
+"Discreet Mode" = "Tryb dyskretny";
+
+/* Translated with LLM */
+"Discreet Voice Memos" = "Dyskretne notatki głosowe";
+
+/* Translated with LLM */
+"Dismiss" = "Odrzuć";
+
+/* Translated with LLM */
+"Display a notification banner and play an audible notice." = "Wyświetl baner powiadomienia i odtwórz dźwiękowe powiadomienie.";
+
+/* Translated with LLM */
+"Display a notification banner and update the badge above the application icon." = "Wyświetl baner powiadomienia i zaktualizuj plakietkę nad ikoną aplikacji.";
+
+/* Translated with LLM */
+"Display a notification banner when recording ends." = "Wyświetl baner powiadomienia po zakończeniu nagrywania.";
+
+/* Translated with LLM */
+"Display a notification banner when recording starts." = "Wyświetl baner powiadomienia po rozpoczęciu nagrywania.";
+
+/* Translated with LLM */
+"Display a notification banner when the synchronization fails." = "Wyświetl baner powiadomienia, gdy synchronizacja się nie powiedzie.";
+
+/* Translated with LLM */
+"Display the detail of recordings in the notification banner." = "Wyświetl szczegóły nagrań w banerze powiadomień.";
+
+/* Translated with LLM */
+"Display the exact duration of the recorded audio." = "Wyświetla dokładny czas trwania nagranego dźwięku.";
+
+/* Translated with LLM */
+"Display the hoverball during a call in the current application." = "Wyświetlaj hoverball podczas połączenia w bieżącej aplikacji.";
+
+/* Translated with LLM */
+"Display the hoverball during a call." = "Wyświetlaj hoverball podczas połączenia.";
+
+/* Translated with LLM */
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Wyświetlaj latającą kulkę, gdy zarówno wejścia, jak i wyjścia audio są stale aktywne.";
+
+/* Translated with LLM */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Wyświetlaj hoverball podczas nagrywania notatki głosowej za pomocą tej aplikacji lub gdy nagrywanie połączenia jest inicjowane ręcznie.";
+
+/* Translated with LLM */
+"Display the name or description of each option." = "Wyświetla nazwę lub opis każdej opcji.";
+
+/* Translated with LLM */
+"Display the names of contacts in your address book instead of their phone numbers." = "Wyświetlaj nazwy kontaktów z książki adresowej zamiast ich numerów telefonów.";
+
+/* Translated with LLM */
+"Display the path extension as the format of the recording." = "Wyświetla rozszerzenie ścieżki jako format nagrania.";
+
+/* Translated with LLM */
+"Display the preview images of the audio waveform of short recordings." = "Wyświetlaj obrazy podglądu fali audio krótkich nagrań.";
+
+/* Translated with LLM */
+"Display the short name of the SIM card used for the recording if available." = "Wyświetl skróconą nazwę karty SIM użytej do nagrania, jeśli jest dostępna.";
+
+/* Translated with LLM */
+"Display the source bundle name of the recording." = "Wyświetl nazwę pakietu źródłowego nagrania.";
+
+/* Translated with LLM */
+"Displays a local notification." = "Wyświetla powiadomienie lokalne.";
+
+/* Translated with LLM */
+"Do you want to clear this log file “%@”?" = "Czy chcesz wyczyścić plik dziennika „%@”?";
+
+/* Translated with LLM */
+"Do you want to merge recordings with “%@”?" = "Czy chcesz scalić nagrania z „%@”?";
+
+/* Translated with LLM */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Czy chcesz zresetować licencję oprogramowania i przywrócić wszystkie ustawienia do wartości domyślnych? Twoje nagrania nie zostaną usunięte.";
+
+/* Translated with LLM */
+"Done" = "Gotowe";
+
+/* Translated with LLM */
+"Don’t ask again" = "Nie pytaj ponownie";
+
+/* Translated with LLM */
+"Don’t Merge" = "Nie łącz";
+
+/* Translated with LLM */
+"Double tap to restore __all edges__  \nto their default sizes." = "Stuknij dwukrotnie, aby przywrócić __wszystkie krawędzie__  \ndo ich domyślnych rozmiarów.";
+
+/* Translated with LLM */
+"Downlink (Speaker)" = "Downlink (głośnik)";
+
+/* Translated with LLM */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Przeciągnij __tutaj__, aby dostosować  \nrozmiar ___%@___.";
+
+/* Translated with LLM */
+"Drive ID" = "Identyfikator dysku";
+
+/* Translated with LLM */
+"Dropbox" = "Dropbox";
+
+/* Translated with LLM */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Ze względu na ograniczenia środowiskowe, jeśli napotkasz puste lub brakujące widżety, spróbuj ponownie uruchomić urządzenie lub odbudować pamięć podręczną ikon z TrollStore.";
+
+/* Translated with LLM */
+"Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here." = "Ze względu na ograniczenia techniczne, funkcje związane z automatyzacją muszą być zaimplementowane za pośrednictwem aplikacji „Skróty”. Możesz otworzyć aplikację „Skróty”, utworzyć nowy skrót zawierający akcję „TrollRecorder” i wybrać go tutaj.";
+
+/* Translated with LLM */
+"Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states." = "Ze względu na ograniczenia techniczne, połączenia spoza CallKit nie będą wyzwalać skrótów związanych ze stanami połączeń.";
+
+/* Translated with LLM */
+"Duration" = "Czas trwania";
+
+/* Translated with LLM */
+"duration" = "Czas trwania";
+
+/* Translated with LLM */
+"Duration Before Idle" = "Czas przed bezczynnością";
+
+/* Translated with LLM */
+"Duration Description" = "Opis czasu trwania";
+
+/* Translated with LLM */
+"Duration exceeded." = "Przekroczono czas trwania.";
+
+/* Translated with LLM */
+"Dynamic Transition" = "Przejście dynamiczne";
+
+/* No comment provided by engineer. */
+"E.U.L.A." = "E.U.L.A.";
+
+/* Translated with LLM */
+"Edit" = "Edytuj";
+
+/* Translated with LLM */
+"Edit Argument" = "Edytuj argument";
+
+/* Translated with LLM */
+"elapsed recording time" = "czas nagrywania, który upłynął";
+
+/* Translated with LLM */
+"Empty Trash" = "Opróżnij kosz";
+
+/* Translated with LLM */
+"Empty Trash (%@)" = "Opróżnij kosz (%@)";
+
+/* Translated with LLM */
+"Enable Biometric Authentication" = "Włącz uwierzytelnianie biometryczne";
+
+/* Translated with LLM */
+"Enable Face ID" = "Włącz Face ID";
+
+/* Translated with LLM */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Włącz pomiar poziomu i wyświetlaj wskaźnik, gdy hoverball jest złożony. Ta opcja jest dostępna tylko wtedy, gdy opcja „Transition When Idle” jest ustawiona na „Always Fold”.";
+
+/* Translated with LLM */
+"Enable Logging" = "Włącz rejestrowanie";
+
+/* Translated with LLM */
+"Enable Optic ID" = "Włącz Optic ID";
+
+/* Translated with LLM */
+"Enable Touch ID" = "Włącz Touch ID";
+
+/* Translated with LLM */
+"Enable WebDAV Server" = "Włącz serwer WebDAV";
+
+/* Translated with LLM */
+"Enabled" = "Włączone";
+
+/* Translated with LLM */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Umożliwia serwerowi WebDAV automatyczne zawieszenie działania, gdy aplikacja przejdzie w tło i ostatnie połączenie zostanie zamknięte, a następnie wznowienie go, gdy aplikacja wróci na pierwszy plan.";
+
+/* Translated with LLM */
+"Encoding" = "Kodowanie";
+
+/* Translated with LLM */
+"end calls" = "zakończ połączenia";
+
+/* Translated with LLM */
+"End Date" = "Data zakończenia";
+
+/* Translated with LLM */
+"End Editing" = "Zakończ edycję";
+
+/* Translated with LLM */
+"end recording" = "zakończ nagrywanie";
+
+/* Translated with LLM */
+"end screen recording" = "zakończ nagrywanie ekranu";
+
+/* Translated with LLM */
+"Enhance Recording" = "Ulepsz nagrywanie";
+
+/* Translated with LLM */
+"Enhanced Automatic Recording" = "Ulepszone automatyczne nagrywanie";
+
+/* Translated with LLM */
+"Enhanced Scene Identification" = "Ulepszona identyfikacja sceny";
+
+/* Translated with LLM */
+"Ensure Daemon Is Running" = "Upewnij się, że demon jest uruchomiony";
+
+/* Translated with LLM */
+"Enter Pairing Code" = "Wprowadź kod parowania";
+
+/* Translated with LLM */
+"Enter the 4-digit code displayed on “%@”." = "Wprowadź 4-cyfrowy kod wyświetlany na „%@”.";
+
+/* Translated with LLM */
+"Enter your password" = "Wprowadź hasło";
+
+/* Translated with LLM */
+"Erase All" = "Wymaż wszystko";
+
+/* Translated with LLM */
+"Erase all recordings, reset all settings, and clear all caches completely." = "Usuń wszystkie nagrania, zresetuj wszystkie ustawienia i całkowicie wyczyść wszystkie pamięci podręczne.";
+
+/* Translated with LLM */
+"Erase Almost Completed" = "Wymazywanie prawie ukończone";
+
+/* Translated with LLM */
+"Erasing…" = "Wymazywanie…";
+
+/* Translated with LLM */
+"Error" = "Błąd";
+
+/* Translated with LLM */
+"Error from network storage" = "Błąd pamięci sieciowej";
+
+/* Translated with LLM */
+"Error retrieving discovery document: %@" = "Błąd pobierania dokumentu discovery: %@";
+
+/* Translated with LLM */
+"exit" = "wyjście";
+
+/* Translated with LLM */
+"Exit Hoverball" = "Wyłącz poduszkowiec";
+
+/* Translated with LLM */
+"Expand Recursively" = "Rozwiń rekursywnie";
+
+/* Translated with LLM */
+"Export as is…" = "Eksportuj bez zmian…";
+
+/* Translated with LLM */
+"Export as ZIP" = "Eksportuj jako ZIP";
+
+/* Translated with LLM */
+"Export recordings to anywhere you want without limitations." = "Eksportuj nagrania w dowolne miejsce bez ograniczeń.";
+
+/* Translated with LLM */
+"Export Service Ready" = "Usługa eksportowa gotowa";
+
+/* Translated with LLM */
+"Export to Another Device" = "Eksport na inne urządzenie";
+
+/* Translated with LLM */
+"Export to Anywhere" = "Eksportuj gdziekolwiek";
+
+/* Translated with LLM */
+"Export with Metadata" = "Eksportuj z metadanymi";
+
+/* Translated with LLM */
+"Exporting" = "Eksportowanie";
+
+/* Translated with LLM */
+"FaceTime" = "FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime Audio" = "FaceTime Audio";
+
+/* Translated with LLM */
+"FaceTime Exclusion List" = "Lista wykluczeń FaceTime";
+
+/* No comment provided by engineer. */
+"FaceTime VIP" = "FaceTime VIP";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
+
+/* Translated with LLM */
+"Failed to export %d recordings" = "Nie udało się wyeksportować %d nagrań";
+
+/* Translated with LLM */
+"Failed to initialize speech recognizer using current locale “%@”." = "Nie udało się zainicjować rozpoznawania mowy dla bieżących ustawień regionalnych „%@”.";
+
+/* Translated with LLM */
+"Failed to open file pipe" = "Nie udało się otworzyć potoku plików";
+
+/* Translated with LLM */
+"Failed to perform “%@” operation with service provider “%@”." = "Nie udało się wykonać operacji „%1$@” z usługodawcą „%2$@”.";
+
+/* Translated with LLM */
+"Failed to play: %@" = "Nie udało się odtworzyć: %@";
+
+/* Translated with LLM */
+"Failed to recover: %@" = "Nie udało się odzyskać: %@";
+
+/* Translated with LLM */
+"Failed to remove: %@" = "Nie udało się usunąć: %@";
+
+/* Translated with LLM */
+"Failed to spawn process, reason: %s (%d)" = "Nie udało się uruchomić procesu, powód: %s (%2$d)";
+
+/* Translated with LLM */
+"Failed to start audio player." = "Nie udało się uruchomić odtwarzacza audio.";
+
+/* Translated with LLM */
+"Fatal error occurred. You may need to re-authorize to continue." = "Wystąpił błąd krytyczny. Może być konieczna ponowna autoryzacja, aby kontynuować.";
+
+/* Translated with LLM */
+"Features on this page are under active development, hang tight!" = "Funkcje na tej stronie są w trakcie aktywnego rozwoju, uzbrój się w cierpliwość!";
+
+/* Translated with LLM */
+"Features Unlocked" = "Odblokowane funkcje";
+
+/* Translated with LLM */
+"file" = "plik";
+
+/* Translated with LLM */
+"File Format" = "Format pliku";
+
+/* Translated with LLM */
+"File not found." = "Nie znaleziono pliku.";
+
+/* Translated with LLM */
+"File Size" = "Rozmiar pliku";
+
+/* Translated with LLM */
+"File System" = "System plików";
+
+/* Translated with LLM */
+"Filter" = "Filtr";
+
+/* Translated with LLM */
+"Finalizing" = "Finalizowanie";
+
+/* Translated with LLM */
+"finish" = "zakończ";
+
+/* Translated with LLM */
+"finish call" = "zakończ połączenie";
+
+/* Translated with LLM */
+"Fix File-System" = "Napraw system plików";
+
+/* Translated with LLM */
+"Focus" = "Skupienie";
+
+/* Translated with LLM */
+"Fold When Inactive" = "Zwiń, gdy nieaktywne";
+
+/* Translated with LLM */
+"Follow System" = "Zgodny z systemem";
+
+/* Translated with LLM */
+"Force the app to use a specific language. Reopen to apply changes." = "Wymuś używanie przez aplikację określonego języka. Otwórz ponownie, aby zastosować zmiany.";
+
+/* No comment provided by engineer. */
+"Format" = "Format";
+
+/* Translated with LLM */
+"Formatted Location" = "Sformatowana lokalizacja";
+
+/* Translated with LLM */
+"Forward 15 Seconds" = "15 sekund do przodu";
+
+/* Translated with LLM */
+"Frequently Asked Questions" = "Często zadawane pytania";
+
+/* Translated with LLM */
+"From %@" = "Od %@";
+
+/* Translated with LLM */
+"From %@ to %@" = "Od %1$@ do %2$@";
+
+/* Translated with LLM */
+"From: %@" = "Od: %@";
+
+/* Translated with LLM */
+"From…" = "Od…";
+
+/* Translated with LLM */
+"Full" = "Pełny";
+
+/* Translated with LLM */
+"full backup sync" = "pełna synchronizacja kopii zapasowej";
+
+/* Translated with LLM */
+"Full Date" = "Pełna data";
+
+/* Translated with LLM */
+"Full Month Name" = "Pełna nazwa miesiąca";
+
+/* Translated with LLM */
+"Full Time" = "Pełny czas";
+
+/* Translated with LLM */
+"Full Year" = "Pełny rok";
+
+/* Translated with LLM */
+"Get ${requestedField}" = "Pobierz ${requestedField}";
+
+/* Translated with LLM */
+"Get advanced control when recording right in your call." = "Uzyskaj zaawansowaną kontrolę podczas nagrywania bezpośrednio w trakcie rozmowy.";
+
+/* Translated with LLM */
+"Get Call Duration" = "Uzyskaj czas trwania połączenia";
+
+/* Translated with LLM */
+"Get Call Status" = "Uzyskaj stan połączenia";
+
+/* Translated with LLM */
+"Get In Touch" = "Skontaktuj się";
+
+/* Translated with LLM */
+"Get notifications after record complete." = "Otrzymuj powiadomienia po zakończeniu nagrywania.";
+
+/* Translated with LLM */
+"Get Recording Duration" = "Pobierz czas trwania nagrywania";
+
+/* Translated with LLM */
+"Get Recording Paths" = "Pobierz ścieżki nagrywania";
+
+/* Translated with LLM */
+"Get Recording Status" = "Pobierz status nagrywania";
+
+/* Translated with LLM */
+"Get the current recording duration of the Troll Recorder." = "Pobierz bieżący czas trwania nagrywania Troll Recorder.";
+
+/* Translated with LLM */
+"Get the current recording paths of the Troll Recorder." = "Pobierz bieżące ścieżki nagrywania Troll Recorder.";
+
+/* Translated with LLM */
+"Get the current recording status of the Troll Recorder." = "Pobierz bieżący status nagrywania Troll Recorder.";
+
+/* Translated with LLM */
+"Get the primary call duration of the device." = "Uzyskaj czas trwania głównego połączenia na urządzeniu.";
+
+/* Translated with LLM */
+"Get the primary call status of the device." = "Uzyskaj stan głównego połączenia na urządzeniu.";
+
+/* Translated with LLM */
+"Go Home When Unlocked" = "Przejdź do ekranu głównego po odblokowaniu";
+
+/* Translated with LLM */
+"Google Drive" = "Dysk Google";
+
+/* Translated with LLM */
+"Group Call" = "Połączenie grupowe";
+
+/* Translated with LLM */
+"hang up calls" = "rozłącz połączenia";
+
+/* Translated with LLM */
+"hang up incoming call" = "rozłącz połączenie przychodzące";
+
+/* Translated with LLM */
+"Hide Hoverball" = "Ukryj Hoverball";
+
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Ukryj aplikację „Notatki głosowe” na ekranie blokady oraz ukryj jej aktywność na „Dynamicznej wyspie”. Ta funkcja może wymagać ponownego uruchomienia, aby zadziałać.";
+
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Ukryj aplikację „Notatki głosowe” na ekranie blokady oraz ukryj jej aktywność na „Dynamicznej wyspie”. Musisz wstrzyknąć ją do aplikacji „Notatki głosowe” za pomocą TrollFools lub podobnych technologii.";
+
+/* Translated with LLM */
+"Hide When Landscape" = "Ukryj w trybie poziomym";
+
+/* Translated with LLM */
+"Hide When Snapshot" = "Ukryj podczas migawki";
+
+/* Translated with LLM */
+"Hours Minutes Seconds" = "Godziny Minuty Sekundy";
+
+/* Translated with LLM */
+"Hours, 12-hour Clock" = "Godziny, zegar 12-godzinny";
+
+/* Translated with LLM */
+"Hours, 24-hour Clock" = "Godziny, zegar 24-godzinny";
+
+/* No comment provided by engineer. */
+"Hoverball" = "Hoverball";
+
+/* No comment provided by engineer. */
+"Hoverball Plus" = "Hoverball Plus";
+
+/* Translated with LLM */
+"Hoverball Size" = "Rozmiar poduszkowca";
+
+/* Translated with LLM */
+"Hoverball Style" = "Styl poduszkowca";
+
+/* No comment provided by engineer. */
+"hud" = "hud";
+
+/* Translated with LLM */
+"HUD_CALL_RECORDING" = "Nagrywanie rozmów";
+
+/* Translated with LLM */
+"Hyphen" = "Łącznik";
+
+/* Translated with LLM */
+"I Agree to the E.U.L.A." = "Akceptuję E.U.L.A.";
+
+/* Translated with LLM */
+"icloud" = "iCloud";
+
+/* Translated with LLM */
+"icloud backup" = "kopia zapasowa iCloud";
+
+/* Translated with LLM */
+"iCloud Drive" = "iCloud Drive";
+
+/* Translated with LLM */
+"ICP Filling Number: 苏ICP备15002715号-2A" = "Numer rejestracji ICP: 苏ICP备15002715号-2A";
+
+/* Translated with LLM */
+"Idle" = "Bezczynny";
+
+/* Translated with LLM */
+"If the value contains spaces, please enclose it in quotes." = "Jeśli wartość zawiera spacje, należy ująć ją w cudzysłów.";
+
+/* Translated with LLM */
+"If there is something wrong with the search indexes, you can reset them here." = "Jeśli wystąpił problem z indeksami wyszukiwania, możesz je tutaj zresetować.";
+
+/* Translated with LLM */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "Jeśli nie ma aktywnego połączenia telefonicznego, naciśnij i przytrzymaj przycisk zasilania, aby wykonać określoną czynność.";
+
+/* Translated with LLM */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "Jeśli nie ma aktywnego połączenia telefonicznego, naciśnij oba fizyczne przyciski głośności, aby wykonać określoną czynność.";
+
+/* Translated with LLM */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "Jeśli zmodyfikowałeś nagrania za pomocą Filza lub napotkałeś problemy z uprawnieniami systemu plików, możesz je naprawić tutaj.";
+
+/* Translated with LLM */
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Jeśli Twój telefon obsługuje dwie karty SIM, w tym miejscu wyświetlany jest alias karty SIM użytej do nagranego połączenia.";
+
+/* Translated with LLM */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Jeśli włączono opcję „Backup with iCloud” i kopia zapasowa została pomyślnie zsynchronizowana, ta akcja zostanie uruchomiona.";
+
+/* Translated with LLM */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Zignoruj datę ostatniej modyfikacji wszystkich katalogów i plików i wykonaj głęboki klon wszystkich nagrań.";
+
+/* Translated with LLM */
+"Import as Ringtone" = "Importuj jako dzwonek";
+
+/* Translated with LLM */
+"Import Complete" = "Import zakończony";
+
+/* Translated with LLM */
+"Import Failed" = "Import nieudany";
+
+/* Translated with LLM */
+"Import From Another Device" = "Import z innego urządzenia";
+
+/* Translated with LLM */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Importuj nagrania z TrollRecorder na innym urządzeniu w sieci lokalnej.";
+
+/* Translated with LLM */
+"In 1 Hour" = "Za 1 godzinę";
+
+/* Translated with LLM */
+"In 15 Minutes" = "Za 15 minut";
+
+/* Translated with LLM */
+"Inaccurate Time Detected" = "Wykryto niedokładny czas";
+
+/* Translated with LLM */
+"Incoming" = "Przychodzące";
+
+/* Translated with LLM */
+"incoming" = "Przychodzące";
+
+/* Translated with LLM */
+"Incoming Call" = "Połączenie przychodzące";
+
+/* Translated with LLM */
+"incoming call" = "połączenie przychodzące";
+
+/* Translated with LLM */
+"Incoming Call Answered" = "Odebrano połączenie przychodzące";
+
+/* Translated with LLM */
+"Incoming Call Hang Up" = "Rozłączanie połączenia przychodzącego";
+
+/* Translated with LLM */
+"Incoming call recording from “%@” and other %ld applications." = "Nagrywanie połączeń przychodzących z „%@” i %ld innych aplikacji.";
+
+/* Translated with LLM */
+"Incoming call recording from “%@”." = "Nagrywanie połączenia przychodzącego z „%@”.";
+
+/* Translated with LLM */
+"Inconsistency Found" = "Znaleziono niezgodność";
+
+/* Translated with LLM */
+"Install" = "Zainstaluj";
+
+/* Translated with LLM */
+"Install Call History Tweak" = "Zainstaluj ulepszenie historii połączeń";
+
+/* Translated with LLM */
+"Invalid Code Signature" = "Nieprawidłowy podpis kodu";
+
+/* Translated with LLM */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Nieprawidłowy podpis kodu.\nZainstaluj ponownie tę aplikację z TrollStore.";
+
+/* Translated with LLM */
+"iPad" = "iPad";
+
+/* Translated with LLM */
+"iPhone" = "iPhone";
+
+/* Translated with LLM */
+"Is Favourite" = "Ulubione";
+
+/* Translated with LLM */
+"Is Finalized" = "Sfinalizowany";
+
+/* Translated with LLM */
+"Is Finalizing" = "Czy finalizuje";
+
+/* Translated with LLM */
+"Is Microphone Enabled" = "Czy mikrofon jest włączony";
+
+/* Translated with LLM */
+"Is Paused" = "Wstrzymany";
+
+/* Translated with LLM */
+"is recording" = "nagrywa";
+
+/* Translated with LLM */
+"Is Running" = "Czy działa";
+
+/* Translated with LLM */
+"Item #%lu" = "Element #%lu";
+
+/* Translated with LLM */
+"Just in case that you love it." = "Na wypadek, gdybyś to pokochał.";
+
+/* Translated with LLM */
+"Just now" = "Właśnie teraz";
+
+/* Translated with LLM */
+"Keep Screen On When Connected" = "Zachowaj włączony ekran po nawiązaniu połączenia";
+
+/* Translated with LLM */
+"Keyboard Avoidance" = "Unikanie klawiatury";
+
+/* Translated with LLM */
+"Kill all applications and restart the render server (backboardd)." = "Zamknij wszystkie aplikacje i uruchom ponownie serwer renderujący (backboardd).";
+
+/* Translated with LLM */
+"Language Changed" = "Zmieniono język";
+
+/* Translated with LLM */
+"Larger" = "Większy";
+
+/* Translated with LLM */
+"Last successful synchronization: %@" = "Ostatnia udana synchronizacja: %@";
+
+/* Translated with LLM */
+"Later" = "Później";
+
+/* Translated with LLM */
+"launch" = "uruchom";
+
+/* Translated with LLM */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Uruchom tymczasowy serwer WebDAV i rozgłaszaj go w sieci lokalnej, aby umożliwić aplikacji TrollRecorder na innym urządzeniu jego wykrycie.";
+
+/* Translated with LLM */
+"Launch App at End" = "Uruchom aplikację po zakończeniu";
+
+/* Translated with LLM */
+"Launch Shield" = "Tarcza uruchamiania";
+
+/* Translated with LLM */
+"Leading & Trailing" = "Początek i koniec";
+
+/* Translated with LLM */
+"leading edge" = "krawędź początkowa";
+
+/* Translated with LLM */
+"Legacy Jailbreak" = "Starszy jailbreak";
+
+/* Translated with LLM */
+"Less serious error occurred." = "Wystąpił mniej poważny błąd.";
+
+/* Translated with LLM */
+"Lifetime Guarantee" = "Dożywotnia gwarancja";
+
+/* Translated with LLM */
+"Link Device to Havoc" = "Połącz urządzenie z Havoc";
+
+/* Translated with LLM */
+"List" = "Lista";
+
+/* Translated with LLM */
+"List and Detail" = "Lista i szczegóły";
+
+/* Translated with LLM */
+"List view enabled" = "Widok listy włączony";
+
+/* Translated with LLM */
+"Loading…" = "Ładowanie…";
+
+/* Translated with LLM */
+"local notification" = "powiadomienie lokalne";
+
+/* Translated with LLM */
+"Local Storage" = "Pamięć lokalna";
+
+/* Translated with LLM */
+"Localized name of the provider application. That is, where this recording comes from." = "Zlokalizowana nazwa aplikacji dostawcy, czyli skąd pochodzi to nagranie.";
+
+/* Translated with LLM */
+"Locate in Maps" = "Zlokalizuj w Mapach";
+
+/* Translated with LLM */
+"Location" = "Lokalizacja";
+
+/* Translated with LLM */
+"Location Permission Denied" = "Odmowa dostępu do lokalizacji";
+
+/* Translated with LLM */
+"Location Services" = "Usługi lokalizacyjne";
+
+/* Translated with LLM */
+"Locked" = "Zablokowany";
+
+/* Translated with LLM */
+"Log Viewer" = "Przeglądarka logów";
+
+/* Translated with LLM */
+"Logging" = "Rejestrowanie";
+
+/* Translated with LLM */
+"Login Name: %@" = "Nazwa logowania: %@";
+
+/* Translated with LLM */
+"Login Password: " = "Hasło logowania: ";
+
+/* Translated with LLM */
+"Login Tips" = "Wskazówki logowania";
+
+/* Translated with LLM */
+"Long Date" = "Długa data";
+
+/* Translated with LLM */
+"Long press the hoverball to start or stop recording by convenience." = "Długie naciśnięcie hoverballa umożliwia wygodne rozpoczęcie lub zatrzymanie nagrywania.";
+
+/* Translated with LLM */
+"Long Time" = "Długi czas";
+
+/* Translated with LLM */
+"Low Disk Space" = "Mało miejsca na dysku";
+
+/* Translated with LLM */
+"Made with ♥ by OwnGoal Studio" = "Zrobione z ♥ przez OwnGoal Studio";
+
+/* Translated with LLM */
+"Mail composition failed" = "Tworzenie wiadomości e-mail nie powiodło się";
+
+/* Translated with LLM */
+"Maintenance" = "Konserwacja";
+
+/* Translated with LLM */
+"Make a ${requestedMode} recording" = "Utwórz nagranie ${requestedMode}";
+
+/* Translated with LLM */
+"Make a new recording, or stop an existing one." = "Utwórz nowe nagranie lub zatrzymaj istniejące.";
+
+/* Translated with LLM */
+"Make a new voice memo, or stop an existing one." = "Utwórz nową notatkę głosową lub zatrzymaj istniejącą.";
+
+/* Translated with LLM */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Utwórz płytkie kopie nagrań w domenie kopii zapasowej i zezwól, aby kopia zapasowa iCloud je uwzględniała.";
+
+/* Translated with LLM */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Spraw, aby powiązane nagrania połączeń były wyświetlane na stronie historii połączeń, a następnie przejdź do aplikacji TrollRecorder, aby je odtworzyć.";
+
+/* Translated with LLM */
+"Make the device ring or vibrate when recording ends." = "Spraw, aby urządzenie dzwoniło lub wibrowało po zakończeniu nagrywania.";
+
+/* Translated with LLM */
+"Make the device ring or vibrate when recording starts." = "Spraw, aby urządzenie dzwoniło lub wibrowało po rozpoczęciu nagrywania.";
+
+/* Translated with LLM */
+"Make the hoverball invisible when taking screenshots or screen recordings." = "Spraw, by hoverball był niewidoczny podczas robienia zrzutów ekranu lub nagrywania ekranu.";
+
+/* Translated with LLM */
+"Make the hoverball invisible when the device is in landscape orientation." = "Spraw, aby hoverball był niewidoczny, gdy urządzenie jest w orientacji poziomej.";
+
+/* Translated with LLM */
+"Make the hoverball semi-transparent or folded when leave it for a while." = "Spraw, aby poduszkowiec stał się półprzezroczysty lub zwinął się, gdy zostawisz go na chwilę.";
+
+/* Translated with LLM */
+"Making a phone call to begin recording." = "Wykonaj połączenie telefoniczne, aby rozpocząć nagrywanie.";
+
+/* Translated with LLM */
+"Mark" = "Oznacz";
+
+/* Translated with LLM */
+"Maximum" = "Maksimum";
+
+/* Translated with LLM */
+"Maybe you should look elsewhere — anywhere but here." = "Może powinieneś poszukać gdzie indziej — gdziekolwiek, byle nie tutaj.";
+
+/* Translated with LLM */
+"Medium" = "Średni";
+
+/* Translated with LLM */
+"Medium Date" = "Średnia data";
+
+/* Translated with LLM */
+"Medium Time" = "Średni czas";
+
+/* Translated with LLM */
+"Merge" = "Scal";
+
+/* Translated with LLM */
+"Merged File" = "Scalony plik";
+
+/* Translated with LLM */
+"Message" = "Wiadomość";
+
+/* Translated with LLM */
+"Metadata" = "Metadane";
+
+/* Translated with LLM */
+"Microphone" = "Mikrofon";
+
+/* Translated with LLM */
+"microphone" = "Mikrofon";
+
+/* Translated with LLM */
+"Microphone and speaker are recorded in different channels." = "Mikrofon i głośnik są nagrywane w osobnych kanałach.";
+
+/* Translated with LLM */
+"microphone audio" = "mikrofon audio";
+
+/* Translated with LLM */
+"microphone off" = "mikrofon wyłączony";
+
+/* Translated with LLM */
+"microphone on" = "mikrofon włączony";
+
+/* Translated with LLM */
+"microphone speech" = "mikrofon mowy";
+
+/* Translated with LLM */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
+/* Translated with LLM */
+"Minutes" = "Minuty";
+
+/* Translated with LLM */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Brak wymaganych uprawnień dostępu do Dysku Google. Ponownie autoryzuj konto Google i przyznaj wszystkie uprawnienia „Dysk Google” dla „TrollRecorder”.";
+
+/* Translated with LLM */
+"Mixed" = "Mieszane";
+
+/* Translated with LLM */
+"Mixer & Combiner" = "Mikser i łącznik";
+
+/* Translated with LLM */
+"Mixer Audio Format" = "Format audio miksera";
+
+/* Translated with LLM */
+"Mixer File Format" = "Format pliku miksera";
+
+/* Translated with LLM */
+"Mixer Quality" = "Jakość miksera";
+
+/* Translated with LLM */
+"Month Number" = "Numer miesiąca";
+
+/* Translated with LLM */
+"Monthly Arranged" = "Ułożone miesięcznie";
+
+/* Translated with LLM */
+"More icons, more innovation." = "Więcej ikon, więcej innowacji.";
+
+/* Translated with LLM */
+"More Options" = "Więcej opcji";
+
+/* Translated with LLM */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Przenieś usunięte nagrania do specjalnego folderu, który pozwoli Ci je przywrócić, jeśli zmienisz zdanie lub później stwierdzisz, że są Ci potrzebne.";
+
+/* Translated with LLM */
+"MPEG-4 Audio" = "Audio MPEG-4";
+
+/* Translated with LLM */
+"mute" = "wyciszenie";
+
+/* Translated with LLM */
+"Mute ${requestedChannel}" = "Wycisz ${requestedChannel}";
+
+/* Translated with LLM */
+"mute call" = "wycisz połączenie";
+
+/* Translated with LLM */
+"mute call audio" = "wycisz dźwięk połączenia";
+
+/* Translated with LLM */
+"Mute Existing Calls" = "Wycisz istniejące połączenia";
+
+/* Translated with LLM */
+"Mute specified channel of all existing calls." = "Wycisz określony kanał wszystkich istniejących połączeń.";
+
+/* Translated with LLM */
+"My Favourite" = "Ulubione";
+
+/* Translated with LLM */
+"My Favourites" = "Moje ulubione";
+
+/* Translated with LLM */
+"Name" = "Nazwa";
+
+/* Translated with LLM */
+"Name with Alias" = "Nazwa z aliasem";
+
+/* Translated with LLM */
+"Network Storage" = "Pamięć sieciowa";
+
+/* Translated with LLM */
+"Never" = "Nigdy";
+
+/* Translated with LLM */
+"Never Show This Again" = "Nigdy więcej nie pokazuj";
+
+/* Translated with LLM */
+"New" = "Nowy";
+
+/* Translated with LLM */
+"New Matching Pattern" = "Nowy wzorzec dopasowania";
+
+/* Translated with LLM */
+"new recording" = "nowe nagranie";
+
+/* Translated with LLM */
+"New Version Available" = "Dostępna jest nowa wersja";
+
+/* Translated with LLM */
+"New Version Installed" = "Zainstalowano nową wersję";
+
+/* Translated with LLM */
+"NO" = "NIE";
+
+/* Translated with LLM */
+"No Available Version" = "Brak dostępnej wersji";
+
+/* Translated with LLM */
+"No phone number found in selected contacts." = "Nie znaleziono numeru telefonu w wybranych kontaktach.";
+
+/* Translated with LLM */
+"No phone number or email address found in selected contacts." = "W wybranych kontaktach nie znaleziono numeru telefonu ani adresu e-mail.";
+
+/* Translated with LLM */
+"No Recording" = "Brak nagrania";
+
+/* Translated with LLM */
+"No Recordings to Export" = "Brak nagrań do wyeksportowania";
+
+/* Translated with LLM */
+"No speech detected." = "Nie wykryto mowy.";
+
+/* Translated with LLM */
+"No Transition" = "Brak przejścia";
+
+/* Translated with LLM */
+"None" = "Brak";
+
+/* Translated with LLM */
+"Not Implemented" = "Nie zaimplementowano";
+
+/* Translated with LLM */
+"Not My Favourite" = "Nie ulubione";
+
+/* Translated with LLM */
+"Not Now" = "Nie teraz";
+
+/* Translated with LLM */
+"Not Properly Configured" = "Nieprawidłowo skonfigurowane";
+
+/* Translated with LLM */
+"Nothing Imported" = "Nic nie zaimportowano";
+
+/* Translated with LLM */
+"Nothing Inside" = "Nic w środku";
+
+/* Translated with LLM */
+"notification" = "powiadomienie";
+
+/* Translated with LLM */
+"Notification Permission Denied" = "Odmowa uprawnienia do powiadomień";
+
+/* Translated with LLM */
+"Notifications" = "Powiadomienia";
+
+/* Translated with LLM */
+"notify" = "powiadom";
+
+/* Translated with LLM */
+"Notify at Begin" = "Powiadom na początku";
+
+/* Translated with LLM */
+"Notify at End" = "Powiadom na koniec";
+
+/* Translated with LLM */
+"Object Viewer" = "Przeglądarka obiektów";
+
+/* Translated with LLM */
+"Off" = "Wyłączone";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* Translated with LLM */
+"On" = "Wł.";
+
+/* Translated with LLM */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "Na innym urządzeniu wybierz opcję „Importuj z innego urządzenia”, a następnie wybierz „%@”. Nie opuszczaj tej strony podczas transmisji.";
+
+/* Translated with LLM */
+"OneDrive" = "OneDrive";
+
+/* Translated with LLM */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Tylko połączenia od kontaktów spoza książki adresowej lub z listy „VIP” będą nagrywane automatycznie. Kontakty VIP zostaną również dodane do ulubionych.";
+
+/* Translated with LLM */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Tylko połączenia od kontaktów VIP będą nagrywane automatycznie i dodawane do ulubionych.";
+
+/* Translated with LLM */
+"Oops!" = "Ups!";
+
+/* Translated with LLM */
+"Open" = "Otwórz";
+
+/* Translated with LLM */
+"open" = "Otwórz";
+
+/* Translated with LLM */
+"Open Application" = "Otwórz aplikację";
+
+/* Translated with LLM */
+"Open Hoverball" = "Otwórz poduszkowiec";
+
+/* Translated with LLM */
+"open hoverball" = "otwórz hoverball";
+
+/* Translated with LLM */
+"Open in Filza" = "Otwórz w Filza";
+
+/* Translated with LLM */
+"Open in Maps" = "Otwórz w Mapach";
+
+/* Translated with LLM */
+"Open Troll Recorder" = "Otwórz Troll Recorder";
+
+/* Translated with LLM */
+"Operation Failed" = "Operacja nie powiodła się";
+
+/* Translated with LLM */
+"Operation Succeed" = "Operacja zakończona sukcesem";
+
+/* Translated with LLM */
+"Operation succeed, but no files transferred." = "Operacja zakończona sukcesem, ale nie przesłano żadnych plików.";
+
+/* Translated with LLM */
+"Operator Name" = "Nazwa operatora";
+
+/* No comment provided by engineer. */
+"Optic ID" = "Optic ID";
+
+/* Translated with LLM */
+"Options" = "Opcje";
+
+/* Translated with LLM */
+"Orbit" = "Orbita";
+
+/* Translated with LLM */
+"Orbit view enabled" = "Widok orbity włączony";
+
+/* Translated with LLM */
+"Outgoing" = "Wychodzące";
+
+/* Translated with LLM */
+"Outgoing Call" = "Połączenie wychodzące";
+
+/* Translated with LLM */
+"Outgoing Call Answered" = "Połączenie wychodzące odebrane";
+
+/* Translated with LLM */
+"Outgoing Call Hang Up" = "Rozłączanie połączenia wychodzącego";
+
+/* Translated with LLM */
+"Outgoing call recording from “%@” and other %ld applications." = "Nagrywanie połączeń wychodzących z „%@” i %ld innych aplikacji.";
+
+/* Translated with LLM */
+"Outgoing call recording from “%@”." = "Nagrywanie połączenia wychodzącego z „%@”.";
+
+/* Translated with LLM */
+"Page not found" = "Nie znaleziono strony";
+
+/* Translated with LLM */
+"Pairing code" = "Kod parowania";
+
+/* Translated with LLM */
+"Passcode: %@" = "Kod dostępu: %@";
+
+/* Translated with LLM */
+"Password (Optional)" = "Hasło (opcjonalne)";
+
+/* Translated with LLM */
+"Password Copied" = "Hasło skopiowane";
+
+/* Translated with LLM */
+"path" = "ścieżka";
+
+/* Translated with LLM */
+"Pause" = "Pauza";
+
+/* Translated with LLM */
+"Pause Recording" = "Wstrzymaj nagrywanie";
+
+/* Translated with LLM */
+"Paused" = "Wstrzymane";
+
+/* Translated with LLM */
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Wykonaj pełną synchronizację „Backup with iCloud” i „Smart Cloud Archive”.";
+
+/* Translated with LLM */
+"Perform Full Synchronization" = "Wykonaj pełną synchronizację";
+
+/* Translated with LLM */
+"perform synchronization" = "wykonaj synchronizację";
+
+/* Translated with LLM */
+"Period" = "Kropka";
+
+/* Translated with LLM */
+"Phone" = "Telefon";
+
+/* Translated with LLM */
+"phone" = "Telefon";
+
+/* Translated with LLM */
+"Phone Address" = "Adres telefonu";
+
+/* Translated with LLM */
+"phone answer" = "odebranie telefonu";
+
+/* Translated with LLM */
+"Phone Call Exclusion List" = "Lista wykluczeń połączeń telefonicznych";
+
+/* Translated with LLM */
+"phone call recording" = "nagrywanie rozmów telefonicznych";
+
+/* Translated with LLM */
+"phone call timer" = "licznik czasu połączenia telefonicznego";
+
+/* Translated with LLM */
+"Phone Call VIP" = "Połączenie telefoniczne VIP";
+
+/* Translated with LLM */
+"Phone Number" = "Numer telefonu";
+
+/* Translated with LLM */
+"Phone Number or Email Address" = "Numer telefonu lub adres e-mail";
+
+/* Translated with LLM */
+"phone status" = "status telefonu";
+
+/* Translated with LLM */
+"Physical Key Combination" = "Fizyczna kombinacja klawiszy";
+
+/* Translated with LLM */
+"pick up call" = "odbierz połączenie";
+
+/* Translated with LLM */
+"Placemark Name" = "Nazwa miejsca";
+
+/* Translated with LLM */
+"Play" = "Odtwórz";
+
+/* Translated with LLM */
+"play" = "Odtwórz";
+
+/* Translated with LLM */
+"Play ${audioFile}" = "Odtwórz ${audioFile}";
+
+/* Translated with LLM */
+"play audio file" = "odtwórz plik audio";
+
+/* Translated with LLM */
+"Play Recording Warning" = "Ostrzeżenie o odtwarzaniu nagrania";
+
+/* Translated with LLM */
+"Play Sound" = "Odtwórz dźwięk";
+
+/* Translated with LLM */
+"Play specified audio file to the microphone." = "Odtwórz określony plik audio do mikrofonu.";
+
+/* Translated with LLM */
+"Play specified voice-over text to the microphone." = "Odtwarzaj określony tekst lektora do mikrofonu.";
+
+/* Translated with LLM */
+"Play Through Receiver" = "Odtwarzaj przez słuchawkę";
+
+/* Translated with LLM */
+"Play Through Speaker" = "Odtwarzaj przez głośnik";
+
+/* Translated with LLM */
+"Play Uplink Audio" = "Odtwórz dźwięk łącza zwrotnego";
+
+/* Translated with LLM */
+"play uplink audio" = "odtwarzanie dźwięku łącza zwrotnego";
+
+/* Translated with LLM */
+"Play Uplink Voice-Over" = "Odtwarzaj lektora łącza zwrotnego";
+
+/* Translated with LLM */
+"play voice over" = "odtwarzanie lektora";
+
+/* Translated with LLM */
+"Play/Pause" = "Odtwarzanie/Pauza";
+
+/* Translated with LLM */
+"Playback Rate" = "Szybkość odtwarzania";
+
+/* Translated with LLM */
+"Playback Rate: %@x" = "Szybkość odtwarzania: %@x";
+
+/* Translated with LLM */
+"Playback Route" = "Trasa odtwarzania";
+
+/* Translated with LLM */
+"Player Options" = "Opcje odtwarzacza";
+
+/* Translated with LLM */
+"Please check your mail configuration." = "Sprawdź konfigurację poczty.";
+
+/* Translated with LLM */
+"Please enter a valid port number between 1 and 65535." = "Wprowadź prawidłowy numer portu z zakresu od 1 do 65535.";
+
+/* Translated with LLM */
+"Please enter the server URL." = "Wprowadź adres URL serwera.";
+
+/* Translated with LLM */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Proszę pozostaw oba urządzenia odblokowane podczas odbierania nagrań z %@. Nie opuszczaj tej strony podczas transmisji.";
+
+/* Translated with LLM */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Proszę pamiętać, że TrollRecorder jest sprzedawany i realizowany wyłącznie za pośrednictwem Havoc Marketplace. Nie sprzedajemy przez żadne inne kanały. Za chwilę otworzysz stronę sklepu: Jeśli korzystasz z Havoc Marketplace po raz pierwszy, zalecamy zalogowanie się za pomocą konta Google. Jeśli jesteś użytkownikiem w Chinach kontynentalnych, logowanie do Google wymaga specjalnej sieci.";
+
+/* Translated with LLM */
+"Please reinstall this application from TrollStore." = "Proszę ponownie zainstalować tę aplikację z TrollStore.";
+
+/* Translated with LLM */
+"Please remember to uninstall “%@” from Sileo." = "Pamiętaj, aby odinstalować „%@” z Sileo.";
+
+/* Translated with LLM */
+"Please remember to uninstall “%@” from TrollStore." = "Pamiętaj, aby odinstalować „%@” z TrollStore.";
+
+/* Translated with LLM */
+"Please stay on this screen while we get everything ready." = "Proszę pozostać na tym ekranie, podczas gdy przygotowujemy wszystko.";
+
+/* Translated with LLM */
+"Please try again in a moment." = "Spróbuj ponownie za chwilę.";
+
+/* Translated with LLM */
+"Popover Control" = "Kontrolka Popover";
+
+/* Translated with LLM */
+"Populate Location When App Starts" = "Uzupełnij lokalizację po uruchomieniu aplikacji";
+
+/* Translated with LLM */
+"Popup Banner at Begin" = "Baner podręczny na początku";
+
+/* Translated with LLM */
+"Popup Banner at End" = "Baner podręczny na końcu";
+
+/* Translated with LLM */
+"Popup Banner when Fail" = "Baner wyskakujący przy niepowodzeniu";
+
+/* Translated with LLM */
+"Popup Banner with Badge" = "Baner powiadomienia z plakietką";
+
+/* Translated with LLM */
+"Popup Banner with Detail" = "Baner wyskakujący ze szczegółami";
+
+/* Translated with LLM */
+"Popup Banner with Sound" = "Baner powiadomienia z dźwiękiem";
+
+/* Translated with LLM */
+"Port (Optional)" = "Port (opcjonalny)";
+
+/* Translated with LLM */
+"post notification" = "wyślij powiadomienie";
+
+/* Translated with LLM */
+"Preparing" = "Przygotowywanie";
+
+/* Translated with LLM */
+"Preparing Export Service" = "Przygotowywanie usługi eksportu";
+
+/* Translated with LLM */
+"Preserve All Channels" = "Zachowaj wszystkie kanały";
+
+/* Translated with LLM */
+"Press & Hold Action" = "Działanie po naciśnięciu i przytrzymaniu";
+
+/* Translated with LLM */
+"Press & Hold Hoverball" = "Naciśnij i przytrzymaj Hoverball";
+
+/* Translated with LLM */
+"Press & Hold Power Button" = "Naciśnij i przytrzymaj przycisk zasilania";
+
+/* Translated with LLM */
+"Press and hold the power button to start or stop recording during a call." = "Naciśnij i przytrzymaj przycisk zasilania, aby rozpocząć lub zatrzymać nagrywanie podczas połączenia.";
+
+/* Translated with LLM */
+"Press both of the physical volume buttons to start or stop recording during a call." = "Naciśnij oba fizyczne przyciski głośności, aby rozpocząć lub zatrzymać nagrywanie podczas połączenia.";
+
+/* Translated with LLM */
+"Press Both Volume Buttons" = "Naciśnij oba przyciski głośności";
+
+/* Translated with LLM */
+"Preview Disabled" = "Podgląd wyłączony";
+
+/* Translated with LLM */
+"Privacy Policy" = "Polityka prywatności";
+
+/* Translated with LLM */
+"Privacy Policy & User Agreements" = "Polityka prywatności i umowy użytkownika";
+
+/* Translated with LLM */
+"Private Browsing Detected" = "Wykryto przeglądanie prywatne";
+
+/* Translated with LLM */
+"Proceed Anyway" = "Kontynuuj mimo to";
+
+/* Translated with LLM */
+"Process execution timeout" = "Przekroczenie limitu czasu wykonania procesu";
+
+/* Translated with LLM */
+"Process exited with status %d." = "Proces zakończył się ze statusem %d.";
+
+/* Translated with LLM */
+"Process terminated by signal %d." = "Proces zakończony sygnałem %d.";
+
+/* Translated with LLM */
+"Process terminated for unknown reasons." = "Proces zakończony z nieznanych przyczyn.";
+
+/* Translated with LLM */
+"Process terminated with exit code %d.\n%@" = "Proces zakończony z kodem wyjścia %1$d.\n%2$@";
+
+/* Translated with LLM */
+"Processing" = "Przetwarzanie";
+
+/* Translated with LLM */
+"Pulse-code modulation" = "Modulacja impulsowo-kodowa";
+
+/* Translated with LLM */
+"Purchase" = "Zakup";
+
+/* Translated with LLM */
+"Purchase Tips" = "Wskazówki dotyczące zakupu";
+
+/* Translated with LLM */
+"Pure TrollStore" = "Czysty TrollStore";
+
+/* Translated with LLM */
+"Query the latest version from GitHub." = "Sprawdź najnowszą wersję na GitHub.";
+
+/* Translated with LLM */
+"Querying" = "Zapytanie";
+
+/* Translated with LLM */
+"Quick Recording" = "Szybkie nagrywanie";
+
+/* Translated with LLM */
+"Quit and relaunch to continue using the Pro features." = "Zamknij i uruchom ponownie, aby kontynuować korzystanie z funkcji Pro.";
+
+/* Translated with LLM */
+"Quit this application and try again." = "Zamknij tę aplikację i spróbuj ponownie.";
+
+/* Translated with LLM */
+"Rclone Documentation" = "Dokumentacja Rclone";
+
+/* Translated with LLM */
+"Re-authorize with Dropbox" = "Ponownie autoryzuj przez Dropbox";
+
+/* Translated with LLM */
+"Re-authorize with Google" = "Ponownie autoryzuj przez Google";
+
+/* Translated with LLM */
+"Re-authorize with Microsoft" = "Ponownie autoryzuj przez Microsoft";
+
+/* Translated with LLM */
+"Re-enable Suggested Options" = "Ponownie włącz sugerowane opcje";
+
+/* Translated with LLM */
+"Reaching Daemon" = "Łączenie z demonem";
+
+/* Translated with LLM */
+"README_APP_DOCUMENTS" = "Ten katalog zawiera kopię zapasową nagrań TrollRecorder.\r\nMożesz je przywrócić, kopiując je z powrotem do oryginalnej lokalizacji: /var/mobile/Media/DCIM/TrollRecorder/Recordings";
+
+/* Translated with LLM */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "Ten katalog zawiera archiwa z twardymi linkami do nagrań TrollRecorder.\r\nNie są one uwzględniane w kopii zapasowej iCloud, ani nie są zużywane przez limit pamięci.\r\nNie usuwaj ich, chyba że jesteś pewien, że już ich nie potrzebujesz.";
+
+/* Translated with LLM */
+"README_SERVICE_RECORDINGS" = "Ten katalog zawiera nagrania TrollRecorder.\r\nMożesz utworzyć ich kopię zapasową, kopiując je do bezpiecznej lokalizacji.";
+
+/* Translated with LLM */
+"Ready" = "Gotowy";
+
+/* Translated with LLM */
+"Ready to record!" = "Gotowy do nagrywania!";
+
+/* Translated with LLM */
+"Received authorization error: %@" = "Otrzymano błąd autoryzacji: %@";
+
+/* Translated with LLM */
+"Received transient error: %@" = "Otrzymano błąd przejściowy: %@";
+
+/* Translated with LLM */
+"Receiving Recordings" = "Odbieranie nagrań";
+
+/* Translated with LLM */
+"Recents Only" = "Tylko ostatnie";
+
+/* Translated with LLM */
+"Recommended for Apple devices" = "Zalecane dla urządzeń Apple";
+
+/* Translated with LLM */
+"Record" = "Nagraj";
+
+/* Translated with LLM */
+"Record All Calls" = "Nagrywaj wszystkie połączenia";
+
+/* Translated with LLM */
+"Record all incoming and outgoing calls automatically." = "Automatycznie nagrywaj wszystkie połączenia przychodzące i wychodzące.";
+
+/* Translated with LLM */
+"Record Automatically" = "Nagrywaj automatycznie";
+
+/* Translated with LLM */
+"Record Calls on Other Devices" = "Nagrywaj połączenia na innych urządzeniach";
+
+/* Translated with LLM */
+"Record Only When Connected" = "Nagrywaj tylko po połączeniu";
+
+/* Translated with LLM */
+"record screen" = "nagrywaj ekran";
+
+/* Translated with LLM */
+"Record Unknown Calls" = "Nagrywaj nieznane połączenia";
+
+/* Translated with LLM */
+"Record with Location" = "Nagrywaj z lokalizacją";
+
+/* Translated with LLM */
+"recorder hoverball" = "pływająca kulka rejestratora";
+
+/* Translated with LLM */
+"Recording" = "Nagrywanie";
+
+/* Translated with LLM */
+"recording" = "Nagrywanie";
+
+/* Translated with LLM */
+"Recording (Localized)" = "Nagrywanie (zlokalizowane)";
+
+/* Translated with LLM */
+"recording directory" = "katalog nagrań";
+
+/* Translated with LLM */
+"recording duration" = "czas trwania nagrywania";
+
+/* Translated with LLM */
+"recording file" = "plik nagrania";
+
+/* Translated with LLM */
+"Recording Interrupted" = "Nagrywanie przerwane";
+
+/* Translated with LLM */
+"recording off" = "nagrywanie wyłączone";
+
+/* Translated with LLM */
+"recording on" = "nagrywanie włączone";
+
+/* Translated with LLM */
+"Recording Options" = "Opcje nagrywania";
+
+/* Translated with LLM */
+"recording path" = "ścieżka nagrywania";
+
+/* Translated with LLM */
+"Recording starts when both the audio inputs and outputs are continuously active." = "Nagrywanie rozpoczyna się, gdy zarówno wejścia, jak i wyjścia audio są stale aktywne.";
+
+/* Translated with LLM */
+"recording state" = "stan nagrywania";
+
+/* Translated with LLM */
+"recording status" = "status nagrywania";
+
+/* Translated with LLM */
+"Recording successfully started." = "Nagrywanie rozpoczęto pomyślnie.";
+
+/* Translated with LLM */
+"recording switch" = "przełącznik nagrywania";
+
+/* Translated with LLM */
+"recording timer" = "timer nagrywania";
+
+/* Translated with LLM */
+"Recording Type" = "Typ nagrania";
+
+/* Translated with LLM */
+"Recording Type Description" = "Opis typu nagrania";
+
+/* Translated with LLM */
+"Recording will begin when the call is answered." = "Nagrywanie rozpocznie się po odebraniu połączenia.";
+
+/* Translated with LLM */
+"Recording “%@” is in progress." = "Trwa nagrywanie „%@”.";
+
+/* Translated with LLM */
+"RECORDING_LOCALIZED" = "Nagrywanie";
+
+/* Translated with LLM */
+"Recordings" = "Nagrania";
+
+/* Translated with LLM */
+"Recordings here are permanently removed after 30 days." = "Nagrania tutaj są trwale usuwane po 30 dniach.";
+
+/* Translated with LLM */
+"Recycle Bin" = "Kosz";
+
+/* Translated with LLM */
+"Regenerate All" = "Regeneruj wszystko";
+
+/* Translated with LLM */
+"reject" = "odrzuć";
+
+/* Translated with LLM */
+"Reject all incoming calls automatically." = "Automatycznie odrzucaj wszystkie połączenia przychodzące.";
+
+/* Translated with LLM */
+"reject call" = "odrzuć połączenie";
+
+/* Translated with LLM */
+"Reject Incoming Calls" = "Odrzucaj połączenia przychodzące";
+
+/* Translated with LLM */
+"Relaunched" = "Ponownie uruchomiono";
+
+/* Translated with LLM */
+"Release" = "Wydanie";
+
+/* Translated with LLM */
+"Release Notes" = "Informacje o wersji";
+
+/* Translated with LLM */
+"Remove" = "Usuń";
+
+/* Translated with LLM */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Usuń wszystkie zapisane w pamięci podręcznej przebiegi i pozwól na ich odtworzenie z oryginalnych nagrań.";
+
+/* Translated with LLM */
+"Remove All Recordings Permanently" = "Trwale usuń wszystkie nagrania";
+
+/* Translated with LLM */
+"Remove Other Variants" = "Usuń inne warianty";
+
+/* Translated with LLM */
+"Remove Outdated Recordings" = "Usuń nieaktualne nagrania";
+
+/* Translated with LLM */
+"Remove Token" = "Usuń token";
+
+/* Translated with LLM */
+"Remove Tokens" = "Usuń tokeny";
+
+/* Translated with LLM */
+"Rename" = "Zmień nazwę";
+
+/* Translated with LLM */
+"Repeat Infinitely" = "Powtarzaj w nieskończoność";
+
+/* No comment provided by engineer. */
+"Reset" = "Reset";
+
+/* Translated with LLM */
+"Reset All Shortcuts" = "Resetuj wszystkie skróty";
+
+/* Translated with LLM */
+"Reset Password" = "Resetuj hasło";
+
+/* Translated with LLM */
+"Reset Search Indexes" = "Resetuj indeksy wyszukiwania";
+
+/* Translated with LLM */
+"Reset Service" = "Reset usługi";
+
+/* No comment provided by engineer. */
+"Respring" = "Respring";
+
+/* Translated with LLM */
+"Restart Render Server" = "Uruchom ponownie serwer renderowania";
+
+/* Translated with LLM */
+"Restart SpringBoard and “Launch Shield” widgets." = "Uruchom ponownie SpringBoard i widżety „Launch Shield”.";
+
+/* Translated with LLM */
+"Restore" = "Przywróć";
+
+/* Translated with LLM */
+"Restore %d Items From Recycle Bin" = "Przywróć %d elementów z kosza";
+
+/* Translated with LLM */
+"restore call audio" = "przywróć dźwięk połączenia";
+
+/* Translated with LLM */
+"Restore Selected %ld Items" = "Przywróć wybrane %ld elementy";
+
+/* Translated with LLM */
+"Restore Selected Item" = "Przywróć wybrany element";
+
+/* Translated with LLM */
+"Restoring" = "Przywracanie";
+
+/* Translated with LLM */
+"Resume Recording" = "Wznów nagrywanie";
+
+/* Translated with LLM */
+"Resume with Warning" = "Wznów z ostrzeżeniem";
+
+/* Translated with LLM */
+"Retry" = "Ponów";
+
+/* Translated with LLM */
+"Reverse Geocoding" = "Odwrotne geokodowanie";
+
+/* Translated with LLM */
+"Reverse Selection" = "Odwróć zaznaczenie";
+
+/* Translated with LLM */
+"Rewind 15 Seconds" = "Przewiń 15 sekund";
+
+/* Translated with LLM */
+"Ring" = "Dzwonek";
+
+/* Translated with LLM */
+"Ring & Vibrate" = "Dzwonek i wibracja";
+
+/* Translated with LLM */
+"Root" = "Katalog główny";
+
+/* Translated with LLM */
+"Root directory is empty." = "Katalog główny jest pusty.";
+
+/* Translated with LLM */
+"RootHide Jailbreak" = "Jailbreak RootHide";
+
+/* Translated with LLM */
+"Rootless Jailbreak" = "Jailbreak bez roota";
+
+/* Translated with LLM */
+"Runtime Environment: %@" = "Środowisko uruchomieniowe: %@";
+
+/* Translated with LLM */
+"Sample Rate" = "Częstotliwość próbkowania";
+
+/* Translated with LLM */
+"Sandbox Build" = "Wersja piaskownicy";
+
+/* Translated with LLM */
+"Save" = "Zapisz";
+
+/* Translated with LLM */
+"Save as Duplicate" = "Zapisz jako duplikat";
+
+/* Translated with LLM */
+"Save as Duplicate…" = "Zapisz jako duplikat…";
+
+/* Translated with LLM */
+"saved recording location" = "zapisana lokalizacja nagrania";
+
+/* Translated with LLM */
+"Say ${requestedText}" = "Powiedz ${requestedText}";
+
+/* Translated with LLM */
+"Scene Identification" = "Identyfikacja sceny";
+
+/* Translated with LLM */
+"screen" = "ekran";
+
+/* Translated with LLM */
+"screen capture" = "przechwytywanie ekranu";
+
+/* Translated with LLM */
+"screen capture stop" = "zatrzymanie przechwytywania ekranu";
+
+/* Translated with LLM */
+"screen recording off" = "nagrywanie ekranu wyłączone";
+
+/* Translated with LLM */
+"SCRN: 2025SR1911573" = "Numer rejestracji oprogramowania: 2025SR1911573";
+
+/* Translated with LLM */
+"Search" = "Szukaj";
+
+/* Translated with LLM */
+"Search %@ in %@…" = "Szukaj %1$@ w %2$@…";
+
+/* Translated with LLM */
+"Search %@…" = "Szukaj %@…";
+
+/* Translated with LLM */
+"Search Apps…" = "Szukaj aplikacji…";
+
+/* Translated with LLM */
+"Search Arguments…" = "Szukaj argumentów…";
+
+/* Translated with LLM */
+"Search Contacts…" = "Wyszukaj kontakty…";
+
+/* Translated with LLM */
+"Search in %@…" = "Szukaj w %@…";
+
+/* Translated with LLM */
+"Search in depth with all available information saved when recording such as contact info or locations." = "Wyszukiwanie dogłębne z wykorzystaniem wszystkich dostępnych informacji zapisanych podczas nagrywania, takich jak dane kontaktowe lub lokalizacje.";
+
+/* Translated with LLM */
+"Search in Maps" = "Szukaj w Mapach";
+
+/* Translated with LLM */
+"Search Recordings…" = "Szukaj nagrań…";
+
+/* Translated with LLM */
+"Search Shortcuts…" = "Szukaj skrótów…";
+
+/* Translated with LLM */
+"Search Transcript…" = "Szukaj transkrypcji…";
+
+/* Translated with LLM */
+"Searching for nearby devices" = "Wyszukiwanie pobliskich urządzeń";
+
+/* Translated with LLM */
+"Search…" = "Szukaj…";
+
+/* Translated with LLM */
+"Seconds" = "Sekundy";
+
+/* Translated with LLM */
+"Secure" = "Bezpieczne";
+
+/* Translated with LLM */
+"Secure Payment" = "Bezpieczna płatność";
+
+/* Translated with LLM */
+"See ya!" = "Na razie!";
+
+/* Translated with LLM */
+"Select" = "Wybierz";
+
+/* Translated with LLM */
+"Select a recording to view or play." = "Wybierz nagranie, aby je wyświetlić lub odtworzyć.";
+
+/* Translated with LLM */
+"Select All" = "Wybierz wszystko";
+
+/* Translated with LLM */
+"Select the primary cloud service provider for recording synchronization." = "Wybierz głównego dostawcę usług w chmurze do synchronizacji nagrań.";
+
+/* Translated with LLM */
+"Semi-Transparent" = "Półprzezroczysty";
+
+/* Translated with LLM */
+"Send Diagnostic" = "Wyślij diagnostykę";
+
+/* Translated with LLM */
+"Sender Name" = "Nazwa nadawcy";
+
+/* Translated with LLM */
+"Sender Phone Address" = "Adres telefonu nadawcy";
+
+/* Translated with LLM */
+"Sender Short Name" = "Krótka nazwa nadawcy";
+
+/* Translated with LLM */
+"Separated Channels" = "Oddzielne kanały";
+
+/* Translated with LLM */
+"Separators" = "Separatory";
+
+/* Translated with LLM */
+"Server" = "Serwer";
+
+/* Translated with LLM */
+"Server started at: %@" = "Serwer uruchomiony pod adresem: %@";
+
+/* Translated with LLM */
+"Server URL" = "Adres URL serwera";
+
+/* Translated with LLM */
+"service" = "usługa";
+
+/* Translated with LLM */
+"service active" = "usługa aktywna";
+
+/* Translated with LLM */
+"Service is alive" = "Usługa działa";
+
+/* Translated with LLM */
+"Service is dead" = "Usługa nie działa";
+
+/* Translated with LLM */
+"Service Status" = "Status usługi";
+
+/* Translated with LLM */
+"Set a new name for this recording, or leave blank to use default." = "Ustaw nową nazwę dla tego nagrania lub pozostaw puste, aby użyć domyślnej.";
+
+/* Translated with LLM */
+"Settings" = "Ustawienia";
+
+/* Translated with LLM */
+"Setup Failed" = "Konfiguracja nie powiodła się";
+
+/* Translated with LLM */
+"Share" = "Udostępnij";
+
+/* Translated with LLM */
+"Short Date" = "Krótka data";
+
+/* Translated with LLM */
+"Short Day of Week String" = "Krótka nazwa dnia tygodnia";
+
+/* Translated with LLM */
+"Short Month Name" = "Krótka nazwa miesiąca";
+
+/* Translated with LLM */
+"Short Time" = "Krótki czas";
+
+/* Translated with LLM */
+"Show Bundle Name" = "Pokaż nazwę pakietu";
+
+/* Translated with LLM */
+"Show Contact Names" = "Pokaż nazwy kontaktów";
+
+/* Translated with LLM */
+"Show Hoverball" = "Pokaż Hoverball";
+
+/* Translated with LLM */
+"Show Notification" = "Pokaż powiadomienie";
+
+/* Translated with LLM */
+"show notification" = "pokaż powiadomienie";
+
+/* Translated with LLM */
+"Show notification ${requestedMessage}" = "Pokaż powiadomienie ${requestedMessage}";
+
+/* Translated with LLM */
+"Show on Lock Screen" = "Pokaż na ekranie blokady";
+
+/* Translated with LLM */
+"Show Option Description" = "Pokaż opis opcji";
+
+/* Translated with LLM */
+"Show Recording Duration" = "Pokaż czas trwania nagrywania";
+
+/* Translated with LLM */
+"Show Recording Format" = "Pokaż format nagrania";
+
+/* Translated with LLM */
+"Show SIM Card Alias" = "Pokaż alias karty SIM";
+
+/* Translated with LLM */
+"Show Waveform Previews" = "Pokaż podgląd przebiegu fali";
+
+/* Translated with LLM */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "Pokaż pozycję menu „Wyświetl szczegóły” dla programistów, aby mogli sprawdzać manifesty nagrań.";
+
+/* Translated with LLM */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Zaloguj się na swoje konto Dropbox, aby autoryzować aplikację do uzyskiwania dostępu do Twojego Dropbox.";
+
+/* Translated with LLM */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Zaloguj się na swoje konto Google, aby autoryzować aplikację do uzyskiwania dostępu do Twojego Dysku Google.";
+
+/* Translated with LLM */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Zaloguj się na swoje konto Microsoft, aby autoryzować aplikację do uzyskiwania dostępu do Twojego Microsoft OneDrive.";
+
+/* Translated with LLM */
+"silence call" = "wycisz połączenie";
+
+/* Translated with LLM */
+"Silent Mode" = "Tryb cichy";
+
+/* Translated with LLM */
+"SIM Card Alias" = "Alias karty SIM";
+
+/* Translated with LLM */
+"Simulator" = "Symulator";
+
+/* Translated with LLM */
+"Simulator (Sandbox)" = "Symulator (Sandbox)";
+
+/* Translated with LLM */
+"Skip Silence" = "Pomiń ciszę";
+
+/* Translated with LLM */
+"Smaller" = "Mniejszy";
+
+/* Translated with LLM */
+"Smart Cloud Archive" = "Inteligentne archiwum w chmurze";
+
+/* Translated with LLM */
+"Software License" = "Licencja na oprogramowanie";
+
+/* Translated with LLM */
+"Some settings have been reset to default values." = "Niektóre ustawienia zostały zresetowane do wartości domyślnych.";
+
+/* Translated with LLM */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Brakuje czegoś ważnego. Zainstaluj ponownie „TrollRecorder JB” z Sileo.";
+
+/* Translated with LLM */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Coś poszło nie tak – nie możemy zweryfikować Twojej licencji. Możesz stuknąć „Wyświetl moje konto”, aby sprawdzić swoje zamówienia, zakupy lub zrealizować kod podarunkowy.";
+
+/* Translated with LLM */
+"Sound Level Meter" = "Miernik poziomu dźwięku";
+
+/* Translated with LLM */
+"Space" = "Miejsce";
+
+/* Translated with LLM */
+"Speaker" = "Głośnik";
+
+/* Translated with LLM */
+"speaker" = "Głośnik";
+
+/* Translated with LLM */
+"speaker off" = "głośnik wyłączony";
+
+/* Translated with LLM */
+"speaker on" = "głośnik włączony";
+
+/* Translated with LLM */
+"Specified range from %@ to %@ is invalid." = "Podany zakres od %1$@ do %2$@ jest nieprawidłowy.";
+
+/* Translated with LLM */
+"spoken audio" = "audio mówione";
+
+/* No comment provided by engineer. */
+"start" = "start";
+
+/* Translated with LLM */
+"Start a system screen recording just like what you do in the Control Center." = "Rozpocznij nagrywanie ekranu systemu, tak jak robisz to w Centrum sterowania.";
+
+/* Translated with LLM */
+"Start Call Recording" = "Rozpocznij nagrywanie rozmów";
+
+/* Translated with LLM */
+"start daemon" = "uruchom demona";
+
+/* Translated with LLM */
+"Start Date" = "Data rozpoczęcia";
+
+/* Translated with LLM */
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Rozpocznij lub przygotuj się do nagrywania rozmów, nagrywania dźwięku systemowego lub utwórz notatkę głosową.";
+
+/* Translated with LLM */
+"Start Recording" = "Rozpocznij nagrywanie";
+
+/* Translated with LLM */
+"start recording" = "Rozpocznij nagrywanie";
+
+/* Translated with LLM */
+"Start Screen Recording" = "Rozpocznij nagrywanie ekranu";
+
+/* Translated with LLM */
+"start screen recording" = "rozpocznij nagrywanie ekranu";
+
+/* Translated with LLM */
+"Start System Audio Recording" = "Rozpocznij nagrywanie dźwięku systemowego";
+
+/* Translated with LLM */
+"Start Voice Memo Recording" = "Rozpocznij nagrywanie notatki głosowej";
+
+/* Translated with LLM */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Uruchomienie usługi eksportu trwa dłużej niż oczekiwano. Sprawdź sieć i spróbuj ponownie.";
+
+/* No comment provided by engineer. */
+"status" = "status";
+
+/* Translated with LLM */
+"Stay tuned. We’re recording your call in the background." = "Bądź na bieżąco. Nagrywamy Twoją rozmowę w tle.";
+
+/* Translated with LLM */
+"stop" = "zatrzymaj";
+
+/* Translated with LLM */
+"Stop" = "Zatrzymaj";
+
+/* Translated with LLM */
+"Stop & Reset Service" = "Zatrzymaj i zresetuj usługę";
+
+/* Translated with LLM */
+"Stop & Save" = "Zatrzymaj i zapisz";
+
+/* Translated with LLM */
+"Stop a call recording, system audio recording or voice memo if exists." = "Zatrzymaj nagrywanie rozmowy, nagrywanie dźwięku systemowego lub notatki głosowej, jeśli istnieje.";
+
+/* Translated with LLM */
+"Stop a system screen recording if exists." = "Zatrzymaj nagrywanie ekranu systemu, jeśli istnieje.";
+
+/* Translated with LLM */
+"Stop Recording" = "Zatrzymaj nagrywanie";
+
+/* Translated with LLM */
+"stop recording" = "Zatrzymaj nagrywanie";
+
+/* Translated with LLM */
+"Stop Recording When Disk Exhausted" = "Zatrzymaj nagrywanie, gdy dysk jest pełny";
+
+/* Translated with LLM */
+"Stop Screen Recording" = "Zatrzymaj nagrywanie ekranu";
+
+/* Translated with LLM */
+"stop screen recording" = "zatrzymaj nagrywanie ekranu";
+
+/* Translated with LLM */
+"Stop Service" = "Zatrzymaj usługę";
+
+/* Translated with LLM */
+"Successfully authorized to Google and connected to Google Drive." = "Pomyślnie autoryzowano konto Google i połączono z Dyskiem Google.";
+
+/* Translated with LLM */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Pomyślnie autoryzowano konto Microsoft i połączono z OneDrive.";
+
+/* Translated with LLM */
+"Successfully connected to Dropbox." = "Pomyślnie połączono z Dropbox.";
+
+/* Translated with LLM */
+"Successfully connected to the server %@." = "Pomyślnie połączono z serwerem %@.";
+
+/* Translated with LLM */
+"Suggested" = "Sugerowane";
+
+/* Translated with LLM */
+"Suggested Applications" = "Sugerowane aplikacje";
+
+/* Translated with LLM */
+"Switch to list view" = "Przełącz na widok listy";
+
+/* Translated with LLM */
+"Switch to orbit view" = "Przełącz na widok orbity";
+
+/* Translated with LLM */
+"Sync" = "Synchronizacja";
+
+/* Translated with LLM */
+"Sync Service Mode" = "Tryb usługi synchronizacji";
+
+/* Translated with LLM */
+"Sync Service Provider" = "Dostawca usługi synchronizacji";
+
+/* Translated with LLM */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Synchronizacja: Sprawia, że nagrania lokalne i w chmurze są identyczne, modyfikując tylko dyski w chmurze.";
+
+/* Translated with LLM */
+"synchronization" = "synchronizacja";
+
+/* Translated with LLM */
+"Synchronization Failed" = "Synchronizacja nie powiodła się";
+
+/* Translated with LLM */
+"Synchronize the playback status of the recording with Control Center." = "Synchronizuj stan odtwarzania nagrania z Centrum sterowania.";
+
+/* Translated with LLM */
+"Synchronizing" = "Synchronizowanie";
+
+/* Translated with LLM */
+"Syntax or usage error occurred." = "Wystąpił błąd składni lub użycia.";
+
+/* Translated with LLM */
+"System Applications" = "Aplikacje systemowe";
+
+/* Translated with LLM */
+"System Audio" = "Dźwięk systemowy";
+
+/* Translated with LLM */
+"System Audio Recording" = "Nagrywanie dźwięku systemowego";
+
+/* Translated with LLM */
+"system audio recording" = "nagrywanie dźwięku systemowego";
+
+/* Translated with LLM */
+"System Language" = "Język systemu";
+
+/* Translated with LLM */
+"System Record" = "Nagrywanie systemowe";
+
+/* Translated with LLM */
+"Tap __any edge__  \nto select it as an ___active edge___." = "Stuknij __dowolną krawędź__  \naby wybrać ją jako ___aktywną krawędź___.";
+
+/* Translated with LLM */
+"Tap to add required widget." = "Stuknij, aby dodać wymagany widget.";
+
+/* Translated with LLM */
+"Tap to calculate the total size of all recordings." = "Stuknij, aby obliczyć całkowity rozmiar wszystkich nagrań.";
+
+/* Translated with LLM */
+"Tap to Copy" = "Stuknij, aby skopiować";
+
+/* Translated with LLM */
+"Tap to Exit" = "Stuknij, aby wyjść";
+
+/* Translated with LLM */
+"Tap to open settings." = "Stuknij, aby otworzyć ustawienia.";
+
+/* Translated with LLM */
+"Tap to open Wi-Fi settings." = "Stuknij, aby otworzyć ustawienia Wi-Fi.";
+
+/* Translated with LLM */
+"Tap to view details" = "Stuknij, aby wyświetlić szczegóły";
+
+/* Translated with LLM */
+"Technical Error Detected" = "Wykryto błąd techniczny";
+
+/* Translated with LLM */
+"Temporarily Ignore" = "Tymczasowo zignoruj";
+
+/* Translated with LLM */
+"Temporary error occurred, more retries might fix." = "Wystąpił tymczasowy błąd, więcej prób może go naprawić.";
+
+/* Translated with LLM */
+"terminate" = "zakończ";
+
+/* Translated with LLM */
+"Terminate all active calls immediately." = "Natychmiast zakończ wszystkie aktywne połączenia.";
+
+/* Translated with LLM */
+"terminate call" = "zakończ połączenie";
+
+/* Translated with LLM */
+"Terminate Calls" = "Zakończ połączenia";
+
+/* Translated with LLM */
+"Test Connection" = "Testuj połączenie";
+
+/* Translated with LLM */
+"Text Copied" = "Skopiowano tekst";
+
+/* Translated with LLM */
+"text to speech" = "zamiana tekstu na mowę";
+
+/* Translated with LLM */
+"text-to-speech" = "zamiana tekstu na mowę";
+
+/* Translated with LLM */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "Nagrywanie %@ zostało przerwane przez system. Możesz później ręcznie przekonwertować nagranie.";
+
+/* Translated with LLM */
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Podczas konfiguracji aplikacji wystąpił nieznany błąd. Launch Daemon nie odpowiedział na nasze żądania. Próbujemy ponownie nawiązać połączenie, proszę czekać. Jeśli problem będzie się powtarzał, możesz spróbować ponownie zainstalować aplikację.";
+
+/* Translated with LLM */
+"The application will launch automatically when recording ends." = "Aplikacja uruchomi się automatycznie po zakończeniu nagrywania.";
+
+/* Translated with LLM */
+"The audio file to be played to the opposite side." = "Plik audio, który ma być odtwarzany dla drugiej strony.";
+
+/* Translated with LLM */
+"The bundle identifier of the application that initiated the call." = "Identyfikator pakietu aplikacji, która zainicjowała połączenie.";
+
+/* Translated with LLM */
+"The content of text file “%@” is empty." = "Zawartość pliku tekstowego „%@” jest pusta.";
+
+/* Translated with LLM */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Bieżący stan połączenia. Możliwe wartości to: Wybieranie numeru, Połączony, Rozłączony i Nieznany.";
+
+/* Translated with LLM */
+"The date and time when the audio was created." = "Data i godzina utworzenia dźwięku.";
+
+/* Translated with LLM */
+"The device will vibrate with special haptic patterns when recording starts and ends." = "Urządzenie będzie wibrować za pomocą specjalnych wzorów haptycznych po rozpoczęciu i zakończeniu nagrywania.";
+
+/* Translated with LLM */
+"The direction of the call. May not available for all audio files." = "Kierunek połączenia. Może nie być dostępny dla wszystkich plików audio.";
+
+/* Translated with LLM */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "Kierunek połączenia. Możliwe wartości to: Przychodzące, Wychodzące i Nieznane.";
+
+/* Translated with LLM */
+"The display name of the application that initiated the call." = "Wyświetlana nazwa aplikacji, która zainicjowała połączenie.";
+
+/* Translated with LLM */
+"The field of information to get." = "Pole informacji do uzyskania.";
+
+/* Translated with LLM */
+"The file format of the selected audio file." = "Format pliku wybranego pliku audio.";
+
+/* Translated with LLM */
+"The hoverball can display even if you do not unlock your device." = "Hoverball może być wyświetlany nawet wtedy, gdy urządzenie nie jest odblokowane.";
+
+/* Translated with LLM */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Kombinacja klawiszy „Szybkie nagrywanie” i „Fizyczna kombinacja klawiszy” została zmieniona na „%@”.";
+
+/* Translated with LLM */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "Najnowsza wersja „TrollRecorder” to %1$@ (%2$@). Aktualna wersja to %3$@ (%4$@).";
+
+/* Translated with LLM */
+"The location metadata will be continuously updated while the recording is in progress." = "Metadane lokalizacji będą stale aktualizowane podczas nagrywania.";
+
+/* Translated with LLM */
+"The location where the recording was recorded." = "Lokalizacja, w której nagrano nagranie.";
+
+/* Translated with LLM */
+"The maximum seconds to wait for calls to be connected." = "Maksymalna liczba sekund oczekiwania na połączenie.";
+
+/* Translated with LLM */
+"The missing location metadata will be populated if you open the application right after the recording." = "Brakujące metadane lokalizacji zostaną uzupełnione, jeśli otworzysz aplikację zaraz po nagraniu.";
+
+/* Translated with LLM */
+"The name of the contact." = "Nazwa kontaktu.";
+
+/* Translated with LLM */
+"The name of the sender." = "Nazwa nadawcy.";
+
+/* Translated with LLM */
+"The number of samples per second, higher sample rate means better audio quality with larger file size." = "Liczba próbek na sekundę – wyższa częstotliwość próbkowania oznacza lepszą jakość dźwięku przy większym rozmiarze pliku.";
+
+/* Translated with LLM */
+"the other device" = "drugie urządzenie";
+
+/* Translated with LLM */
+"The phone number of the contact." = "Numer telefonu kontaktu.";
+
+/* Translated with LLM */
+"The phone number of the sender." = "Numer telefonu nadawcy.";
+
+/* Translated with LLM */
+"The phone number. Third party application or CallKit calls may not have this value." = "Numer telefonu. Połączenia z aplikacjami innych firm lub CallKit mogą nie mieć tej wartości.";
+
+/* Translated with LLM */
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Tryb przetwarzania końcowego, który ma zostać użyty. Tryb łączony skompresuje dźwięk stereo głośników do lewego kanału, z mikrofonem na prawym kanale. Tryb mieszany zduplikuje kanał mikrofonu do stereo i zmiksuje go z kanałami głośników.";
+
+/* Translated with LLM */
+"The primary button action at the right side of the hoverball when no call is active." = "Działanie głównego przycisku po prawej stronie poduszkowca, gdy nie ma aktywnego połączenia.";
+
+/* Translated with LLM */
+"The service is not properly configured." = "Usługa nie jest poprawnie skonfigurowana.";
+
+/* Translated with LLM */
+"The service operator name of the sender." = "Nazwa operatora usługi nadawcy.";
+
+/* Translated with LLM */
+"The size of selected audio file." = "Rozmiar wybranego pliku audio.";
+
+/* Translated with LLM */
+"The text to be played to the opposite side." = "Tekst, który ma zostać odtworzony dla drugiej strony.";
+
+/* Translated with LLM */
+"The time interval before the hoverball becomes idle." = "Interwał czasu, po którym hoverball staje się bezczynny.";
+
+/* Translated with LLM */
+"The type of content to be recorded." = "Typ nagrywanej treści.";
+
+/* Translated with LLM */
+"The unique identifier of the call." = "Unikalny identyfikator połączenia.";
+
+/* Translated with LLM */
+"The unique identifier of the provider application." = "Unikalny identyfikator aplikacji dostawcy.";
+
+/* Translated with LLM */
+"The URL is not valid." = "Adres URL jest nieprawidłowy.";
+
+/* Translated with LLM */
+"There is nothing but air." = "Tu jest tylko powietrze.";
+
+/* Translated with LLM */
+"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "Nadal istnieje ryzyko, że usługa działająca w tle nie będzie w stanie przekonwertować pliku nagrania zaraz po jego nagraniu. Na szczęście możesz teraz wykonać ten ostatni krok!";
+
+/* Translated with LLM */
+"There was a problem verifying your identity." = "Wystąpił problem z weryfikacją Twojej tożsamości.";
+
+/* Translated with LLM */
+"This feature requires a paid subscription. Please upgrade to use this feature." = "Ta funkcja wymaga płatnej subskrypcji. Proszę dokonać aktualizacji, aby z niej korzystać.";
+
+/* Translated with LLM */
+"This field accept phone number for matching contact." = "To pole akceptuje numer telefonu w celu dopasowania kontaktu.";
+
+/* Translated with LLM */
+"This field accept phone number or an email address for matching contact." = "To pole akceptuje numer telefonu lub adres e-mail w celu dopasowania kontaktu.";
+
+/* Translated with LLM */
+"This is a widget daemon for Troll Recorder." = "To jest demon widżetu dla TrollRecorder.";
+
+/* Translated with LLM */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "Ta opcja wpływa na działanie „Szybkiego nagrywania” i „Fizycznej kombinacji klawiszy”.";
+
+/* Translated with LLM */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "Ta opcja zastępuje akcję „Naciśnij i przytrzymaj” poduszkowca.";
+
+/* Translated with LLM */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "To nagranie zawiera wiele wariantów audio. Zapisanie w miejscu spowoduje usunięcie innych wariantów. Czy chcesz kontynuować, czy zapisać jako duplikat?";
+
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "To nagranie pochodzi z WeChat, a „WeChat Assistant” pomoże Ci przy następnym razie uzupełnić nazwy kontaktów i uwagi z WeChat.\nMożesz kupić „TrollRecorder Pro”, aby włączyć „WeChat Assistant”. Czy chcesz go kupić teraz?";
+
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "To nagranie pochodzi z WeChat, a „WeChat Assistant” pomoże Ci przy następnym nagraniu uzupełnić nazwy kontaktów i uwagi z WeChat.\nWygląda na to, że nie masz włączonego „WeChat Assistant”, czy chcesz go natychmiast włączyć?";
+
+/* Translated with LLM */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "Ta wersja WeChat (%@) nie jest obsługiwana. Proszę zaktualizować do najnowszej wersji.";
+
+/* Translated with LLM */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Ta wersja WeChat (%@) nie jest testowana ani oficjalnie obsługiwana. Niektóre funkcje mogą nie działać zgodnie z oczekiwaniami.";
+
+/* Translated with LLM */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "Ta wersja WeChat (%@) jest częściowo obsługiwana. Zalecana jest aktualizacja do najnowszej wersji.";
+
+/* Translated with LLM */
+"This version of WeChat (%@) is supported." = "Ta wersja WeChat (%@) jest obsługiwana.";
+
+/* Translated with LLM */
+"This will generate a new password and restart the WebDAV server." = "Spowoduje to wygenerowanie nowego hasła i ponowne uruchomienie serwera WebDAV.";
+
+/* Translated with LLM */
+"Three-digit Milliseconds" = "Milisekundy trzycyfrowe";
+
+/* Translated with LLM */
+"Time Sensitive" = "Wrażliwy na czas";
+
+/* Translated with LLM */
+"time sensitive notification" = "powiadomienie pilne";
+
+/* Translated with LLM */
+"Title" = "Tytuł";
+
+/* Translated with LLM */
+"To %@" = "Do %@";
+
+/* Translated with LLM */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Aby aktywować funkcję „Launch Shield”, musisz dodać widżet „TrollRecorder” do ekranu blokady lub ekranu głównego. Stuknij „Dodaj teraz”, aby dodać ten widżet do początkowej strony ekranu głównego. Możesz później długo nacisnąć i przeciągnąć, aby zmienić jego położenie.";
+
+/* Translated with LLM */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Aby skonfigurować iCloud Drive, przejdź do „Ustawienia” → „Sieć komórkowa” → „iCloud Drive”.";
+
+/* Translated with LLM */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "Aby skonfigurować powiadomienia związane z synchronizacją nagrań, przejdź do strony ustawień „Network Storage”.";
+
+/* Translated with LLM */
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "Aby skonfigurować akcję „Naciśnij i przytrzymaj”, musisz usunąć niestandardowy skrót z sekcji „Automatyzacja” → „Naciśnij i przytrzymaj Hoverball”.";
+
+/* Translated with LLM */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "Aby uzyskać dokładniejszą historię połączeń, musisz wstrzyknąć ją do aplikacji „WeChat” za pomocą TrollFools lub podobnych technologii.";
+
+/* Translated with LLM */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Aby utrzymać dostęp do WebDAV, musisz wybrać opcję „Zawsze” lub „Podczas korzystania z aplikacji” dla „TrollRecorder”.";
+
+/* Translated with LLM */
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Aby korzystać z „Smart Cloud Archive”, musisz włączyć „Odświeżanie aplikacji w tle” dla „Troll Recorder”.";
+
+/* Translated with LLM */
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Aby korzystać z „Smart Cloud Archive”, musisz zalogować się do iCloud Drive w „Ustawieniach”.";
+
+/* Translated with LLM */
+"To: %@" = "Do: %@";
+
+/* Translated with LLM */
+"toggle" = "przełącznik";
+
+/* Translated with LLM */
+"Toggle ${requestedMode}" = "Przełącz ${requestedMode}";
+
+/* Translated with LLM */
+"Toggle Call Recording" = "Przełącz nagrywanie rozmów";
+
+/* Translated with LLM */
+"Toggle Hoverball" = "Przełącz Hoverball";
+
+/* Translated with LLM */
+"toggle hoverball" = "przełącz hoverball";
+
+/* Translated with LLM */
+"Toggle ON/OFF the recorder hoverball." = "Włącz/wyłącz hoverball rejestratora.";
+
+/* Translated with LLM */
+"Toggle Recording" = "Przełącz nagrywanie";
+
+/* Translated with LLM */
+"toggle recording" = "przełącz nagrywanie";
+
+/* Translated with LLM */
+"Toggle Screen Recording" = "Przełącz nagrywanie ekranu";
+
+/* Translated with LLM */
+"toggle screen recording" = "przełącz nagrywanie ekranu";
+
+/* Translated with LLM */
+"Toggle System Audio Recording" = "Przełącz nagrywanie dźwięku systemu";
+
+/* Translated with LLM */
+"Toggle system screen recording just like what you do in the Control Center." = "Przełącz nagrywanie ekranu systemu, tak jak robisz to w Centrum sterowania.";
+
+/* Translated with LLM */
+"Toggle Voice Memo Recording" = "Przełącz nagrywanie notatek głosowych";
+
+/* Translated with LLM */
+"Token expired. Please re-authorize to continue." = "Token wygasł. Proszę ponownie autoryzować, aby kontynuować.";
+
+/* Translated with LLM */
+"top edge" = "górna krawędź";
+
+/* Translated with LLM */
+"Total size is %@, path is %@" = "Całkowity rozmiar to %@, ścieżka to %@";
+
+/* No comment provided by engineer. */
+"Touch ID" = "Touch ID";
+
+/* Translated with LLM */
+"To…" = "Do…";
+
+/* Translated with LLM */
+"Track Location Updates" = "Śledź aktualizacje lokalizacji";
+
+/* Translated with LLM */
+"trailing edge" = "krawędź końcowa";
+
+/* Translated with LLM */
+"Transcript" = "Transkrypcja";
+
+/* Translated with LLM */
+"Transcript Copied" = "Transkrypcja skopiowana";
+
+/* Translated with LLM */
+"Transfer exceeded." = "Przekroczono limit transferu.";
+
+/* Translated with LLM */
+"Transfer Recordings" = "Transfer nagrań";
+
+/* Translated with LLM */
+"Transition When Idle" = "Przejście w stanie bezczynności";
+
+/* Translated with LLM */
+"Translated by @AUTHOR_NAME" = "Przetłumaczone przez DeepSeek v4";
+
+/* Translated with LLM */
+"Trim" = "Przytnij";
+
+/* Translated with LLM */
+"Troll Recorder" = "Troll Recorder";
+
+/* Translated with LLM */
+"Troll Recorder %@" = "TrollRecorder %@";
+
+/* Translated with LLM */
+"tts" = "TTS";
+
+/* Translated with LLM */
+"tts playback" = "odtwarzanie TTS";
+
+/* Translated with LLM */
+"Turn this option off to make the other options on this page take effect for the current application." = "Wyłącz tę opcję, aby inne opcje na tej stronie zaczęły obowiązywać dla bieżącej aplikacji.";
+
+/* Translated with LLM */
+"Two-digit Day of Month Number" = "Dwucyfrowy numer dnia miesiąca";
+
+/* Translated with LLM */
+"Two-digit Hours, 12-hour Clock" = "Godziny dwucyfrowe, zegar 12-godzinny";
+
+/* Translated with LLM */
+"Two-digit Hours, 24-hour Clock" = "Godziny dwucyfrowe, zegar 24-godzinny";
+
+/* Translated with LLM */
+"Two-digit Minutes" = "Minuty dwucyfrowe";
+
+/* Translated with LLM */
+"Two-digit Month Number" = "Dwucyfrowy numer miesiąca";
+
+/* Translated with LLM */
+"Two-digit Seconds" = "Sekundy dwucyfrowe";
+
+/* Translated with LLM */
+"Type to search…" = "Wpisz, aby wyszukać…";
+
+/* Translated with LLM */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Nie można zlokalizować zdalnego katalogu do synchronizacji dwukierunkowej. Może być konieczne utworzenie katalogu „TrollRecorder/Recordings” w pamięci zdalnej.";
+
+/* Translated with LLM */
+"Unable to locate your personal “OneDrive”." = "Nie można zlokalizować Twojego osobistego „OneDrive”.";
+
+/* Translated with LLM */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Nie można wykonać przyrostowej synchronizacji dwukierunkowej, wymagana jest pełna resynchronizacja.";
+
+/* Translated with LLM */
+"Unauthorize" = "Cofnij autoryzację";
+
+/* Translated with LLM */
+"Uncompressed" = "Nieskompresowany";
+
+/* Translated with LLM */
+"Underscore" = "Podkreślnik";
+
+/* Translated with LLM */
+"Unknown" = "Nieznany";
+
+/* Translated with LLM */
+"Unknown Address" = "Nieznany adres";
+
+/* Translated with LLM */
+"Unknown Artist" = "Nieznany artysta";
+
+/* Translated with LLM */
+"Unknown Direction" = "Nieznany kierunek";
+
+/* Translated with LLM */
+"Unknown Duration" = "Nieznany czas trwania";
+
+/* Translated with LLM */
+"Unknown Error" = "Nieznany błąd";
+
+/* Translated with LLM */
+"Unknown error occurred." = "Wystąpił nieznany błąd.";
+
+/* Translated with LLM */
+"Unknown error occurred. Please check the log for more details." = "Wystąpił nieznany błąd. Sprawdź dziennik, aby uzyskać więcej informacji.";
+
+/* Translated with LLM */
+"Unknown File Format" = "Nieznany format pliku";
+
+/* Translated with LLM */
+"Unknown Location" = "Nieznana lokalizacja";
+
+/* Translated with LLM */
+"Unknown Operator" = "Nieznany operator";
+
+/* Translated with LLM */
+"Unknown Phone Address" = "Nieznany adres telefonu";
+
+/* Translated with LLM */
+"Unknown Place" = "Nieznane miejsce";
+
+/* Translated with LLM */
+"Unknown Provider" = "Nieznany dostawca";
+
+/* Translated with LLM */
+"Unknown Sample Rate" = "Nieznana częstotliwość próbkowania";
+
+/* Translated with LLM */
+"Unknown Sender" = "Nieznany nadawca";
+
+/* Translated with LLM */
+"Unknown Type" = "Nieznany typ";
+
+/* Translated with LLM */
+"Unknown Variant" = "Nieznany wariant";
+
+/* Translated with LLM */
+"Unlock all features?" = "Odblokować wszystkie funkcje?";
+
+/* Translated with LLM */
+"Unmark" = "Odznacz";
+
+/* Translated with LLM */
+"unmute" = "wyłącz wyciszenie";
+
+/* Translated with LLM */
+"Unmute ${requestedChannel}" = "Wyłącz wyciszenie ${requestedChannel}";
+
+/* Translated with LLM */
+"unmute call" = "wycisz połączenie";
+
+/* Translated with LLM */
+"Unmute Existing Calls" = "Wyłącz wyciszenie istniejących połączeń";
+
+/* Translated with LLM */
+"Unmute specified channel of all existing calls." = "Wyłącz wyciszenie określonego kanału wszystkich istniejących połączeń.";
+
+/* Translated with LLM */
+"Unspecified" = "Nieokreślony";
+
+/* Translated with LLM */
+"Unsupported Configuration" = "Nieobsługiwana konfiguracja";
+
+/* Translated with LLM */
+"Untitled" = "Bez tytułu";
+
+/* Translated with LLM */
+"Up to 5 Personal Devices" = "Do 5 urządzeń osobistych";
+
+/* Translated with LLM */
+"Updating…" = "Aktualizacja…";
+
+/* Translated with LLM */
+"Upgrade Now" = "Uaktualnij teraz";
+
+/* Translated with LLM */
+"Upgrade to %@" = "Aktualizacja do %@";
+
+/* Translated with LLM */
+"uplink" = "łącze w górę";
+
+/* Translated with LLM */
+"Uplink (Microphone)" = "Uplink (mikrofon)";
+
+/* Translated with LLM */
+"uplink playback" = "odtwarzanie łącza zwrotnego";
+
+/* Translated with LLM */
+"uplink voice" = "głos w górę";
+
+/* Translated with LLM */
+"Upload" = "Prześlij";
+
+/* Translated with LLM */
+"Upload, download or synchronize recordings between local and cloud drive." = "Przesyłaj, pobieraj lub synchronizuj nagrania między dyskiem lokalnym a dyskiem w chmurze.";
+
+/* Translated with LLM */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "Przesyłanie: Przesyłanie lokalnych nagrań na dyski w chmurze w niezmienionej postaci. Możliwe do przywrócenia.";
+
+/* Translated with LLM */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Użyj uwierzytelniania biometrycznego, aby odblokować aplikację. Odtwarzanie w tle nie jest dostępne, gdy ta funkcja jest włączona.";
+
+/* Translated with LLM */
+"Use Cellular Network" = "Użyj sieci komórkowej";
+
+/* Translated with LLM */
+"Use Date" = "Użyj daty";
+
+/* Translated with LLM */
+"Use Date Range" = "Użyj zakresu dat";
+
+/* Translated with LLM */
+"Use Default Settings" = "Użyj ustawień domyślnych";
+
+/* Translated with LLM */
+"Use Haptic Patterns" = "Używaj wzorów haptycznych";
+
+/* Translated with LLM */
+"Use Media Controls" = "Używaj kontrolek multimediów";
+
+/* Translated with LLM */
+"Use Recycle Bin" = "Użyj Kosza";
+
+/* Translated with LLM */
+"Use Snapshot Transition" = "Użyj przejścia migawki";
+
+/* Translated with LLM */
+"User Agreement" = "Umowa użytkownika";
+
+/* Translated with LLM */
+"User Applications" = "Aplikacje użytkownika";
+
+/* Translated with LLM */
+"User denied access to speech recognition." = "Użytkownik odmówił dostępu do rozpoznawania mowy.";
+
+/* Translated with LLM */
+"User Initiated Recording" = "Nagrywanie inicjowane przez użytkownika";
+
+/* Translated with LLM */
+"User Interface Style" = "Styl interfejsu użytkownika";
+
+/* Translated with LLM */
+"Username (Optional)" = "Nazwa użytkownika (opcjonalnie)";
+
+/* Translated with LLM */
+"Utility" = "Narzędzie";
+
+/* Translated with LLM */
+"Variant" = "Wariant";
+
+/* Translated with LLM */
+"Variant Capitalized" = "Wariant kapitalizowany";
+
+/* Translated with LLM */
+"Variant Description" = "Opis wariantu";
+
+/* Translated with LLM */
+"Verification Failed" = "Weryfikacja nie powiodła się";
+
+/* Translated with LLM */
+"Verify License" = "Zweryfikuj licencję";
+
+/* Translated with LLM */
+"Version %@ Build %@" = "Wersja %1$@ Kompilacja %2$@";
+
+/* Translated with LLM */
+"Version %@ Build %@ - New Version %@ Build %@" = "Wersja %1$@ kompilacja %2$@ - Nowa wersja %3$@ kompilacja %4$@";
+
+/* Translated with LLM */
+"Vibrate" = "Wibracja";
+
+/* Translated with LLM */
+"View" = "Widok";
+
+/* Translated with LLM */
+"View Details" = "Wyświetl szczegóły";
+
+/* Translated with LLM */
+"View Logs" = "Wyświetl dzienniki";
+
+/* Translated with LLM */
+"View Logs: Application" = "Wyświetl dzienniki: Aplikacja";
+
+/* Translated with LLM */
+"View Logs: Audio Player" = "Wyświetl dzienniki: Odtwarzacz audio";
+
+/* Translated with LLM */
+"View Logs: Call Monitor" = "Wyświetl dzienniki: Monitor połączeń";
+
+/* Translated with LLM */
+"View Logs: Call Recorder" = "Wyświetl dzienniki: Rejestrator połączeń";
+
+/* Translated with LLM */
+"View Logs: Hoverball" = "Wyświetl logi: Hoverball";
+
+/* Translated with LLM */
+"View Logs: Launch Agent" = "Wyświetl dzienniki: Agent uruchamiania";
+
+/* Translated with LLM */
+"View Logs: Network Storage" = "Wyświetl dzienniki: Pamięć sieciowa";
+
+/* Translated with LLM */
+"View Logs: Speech Utterance" = "Wyświetl dzienniki: Wypowiedź";
+
+/* Translated with LLM */
+"View Logs: System Audio" = "Wyświetl dzienniki: Dźwięk systemowy";
+
+/* Translated with LLM */
+"View Logs: Voice Memo" = "Wyświetl dzienniki: Notatka głosowa";
+
+/* Translated with LLM */
+"View My Account" = "Wyświetl moje konto";
+
+/* Translated with LLM */
+"View Recording Details" = "Wyświetl szczegóły nagrania";
+
+/* Translated with LLM */
+"VIP contacts will always be recorded and added to the favourites." = "Kontakty VIP będą zawsze nagrywane i dodawane do ulubionych.";
+
+/* Translated with LLM */
+"voice memo recording" = "nagrywanie notatki głosowej";
+
+/* Translated with LLM */
+"voice-over" = "lektor";
+
+/* Translated with LLM */
+"Voice-Over Voice" = "Głos lektora";
+
+/* Translated with LLM */
+"Voice Memo" = "Notatka głosowa";
+
+/* Translated with LLM */
+"Voice Memo Recording" = "Przełącz nagrywanie notatek głosowych";
+
+/* Translated with LLM */
+"Voice Memos" = "Notatki głosowe";
+
+/* Translated with LLM */
+"VoIP" = "VoIP";
+
+/* Translated with LLM */
+"Volume" = "Głośność";
+
+/* Translated with LLM */
+"wait" = "czekaj";
+
+/* Translated with LLM */
+"Wait for ${requestedTimeout} seconds" = "Poczekaj ${requestedTimeout} sekund";
+
+/* Translated with LLM */
+"Wait for any calls to be answered and connected." = "Poczekaj, aż wszystkie połączenia zostaną odebrane i połączone.";
+
+/* Translated with LLM */
+"wait for call" = "czekaj na połączenie";
+
+/* Translated with LLM */
+"Wait for Calls" = "Oczekiwanie na połączenia";
+
+/* Translated with LLM */
+"Wait for Connected Calls" = "Oczekiwanie na połączone połączenia";
+
+/* Translated with LLM */
+"Warning, your call is being recorded now. Warning, your call is being recorded now." = "Uwaga, Twoja rozmowa jest teraz nagrywana. Uwaga, Twoja rozmowa jest teraz nagrywana.";
+
+/* Translated with LLM */
+"Waveform Audio" = "Audio Waveform";
+
+/* Translated with LLM */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "Nie możemy zweryfikować Twojego zakupu z powodu niedokładnego czasu. Aby kontynuować, upewnij się, że czas na Twoim urządzeniu jest prawidłowy.";
+
+/* Translated with LLM */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Nie możemy zweryfikować Twojego zakupu w trybie przeglądania prywatnego. Upewnij się, że nie korzystasz z trybu przeglądania prywatnego w Safari, aby kontynuować.";
+
+/* Translated with LLM */
+"We couldn’t finish importing recordings from %@." = "Nie mogliśmy zakończyć importowania nagrań z %@.";
+
+/* Translated with LLM */
+"We love colorful and moving backgrounds, but option here for you to disable it." = "Uwielbiamy kolorowe i ruchome tła, ale tutaj możesz je wyłączyć.";
+
+/* Translated with LLM */
+"WebDAV" = "WebDAV";
+
+/* Translated with LLM */
+"WebDAV Password Actions" = "Akcje hasła WebDAV";
+
+/* Translated with LLM */
+"WebDAV Server" = "Serwer WebDAV";
+
+/* Translated with LLM */
+"WeChat" = "WeChat";
+
+/* Translated with LLM */
+"WeChat Assistant" = "Asystent WeChat";
+
+/* Translated with LLM */
+"Welcome to" = "Witamy w";
+
+/* Translated with LLM */
+"We’re recording system audio in the background." = "Nagrywamy dźwięk systemowy w tle.";
+
+/* Translated with LLM */
+"We’re recording your voice memo in the background." = "Nagrywamy notatkę głosową w tle.";
+
+/* Translated with LLM */
+"We’ve got a new phone call recording!" = "Mamy nowe nagranie rozmowy telefonicznej!";
+
+/* Translated with LLM */
+"We’ve got a new system audio recording!" = "Mamy nowe nagranie audio systemu!";
+
+/* Translated with LLM */
+"We’ve got a new voice memo!" = "Mamy nową notatkę głosową!";
+
+/* Translated with LLM */
+"We’ve got new phone call recordings!" = "Mamy nowe nagrania rozmów telefonicznych!";
+
+/* Translated with LLM */
+"What’s New" = "Co nowego";
+
+/* Translated with LLM */
+"When any of the following actions is triggered, run the shortcut without any notification." = "Gdy zostanie uruchomiona którakolwiek z poniższych akcji, wykonaj skrót bez żadnego powiadomienia.";
+
+/* Translated with LLM */
+"When Foreground" = "Gdy na pierwszym planie";
+
+/* Translated with LLM */
+"When Locked" = "Po zablokowaniu";
+
+/* Translated with LLM */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Gdy nie ma połączenia z siecią WLAN, do przesyłania nagrań używana jest sieć komórkowa. Mogą obowiązywać dodatkowe opłaty.";
+
+/* Translated with LLM */
+"When there is no call…" = "Gdy nie ma połączenia…";
+
+/* Translated with LLM */
+"When Visible" = "Gdy widoczne";
+
+/* Translated with LLM */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "Gdy serwer WebDAV jest włączony, czy zezwolić na dostęp z popularnej przeglądarki internetowej, takiej jak Safari, Chrome, Edge itp.";
+
+/* Translated with LLM */
+"Whether to force the application to use the light or the dark user interface." = "Czy wymusić na aplikacji korzystanie z jasnego lub ciemnego interfejsu użytkownika.";
+
+/* Translated with LLM */
+"Whether to force the hoverball to use the light or the dark style." = "Czy wymusić na poduszkowcu używanie stylu jasnego lub ciemnego.";
+
+/* Translated with LLM */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Określa, czy odtwarzanie dźwięku ma być powtarzane w nieskończoność. Jeśli opcja jest włączona, akcja powróci natychmiast po rozpoczęciu odtwarzania.";
+
+/* Translated with LLM */
+"Which channel to mute." = "Który kanał wyciszyć.";
+
+/* Translated with LLM */
+"Which channel to unmute." = "Który kanał wyciszyć.";
+
+/* Translated with LLM */
+"Which edges of the screen the hoverball can be attached to." = "Do których krawędzi ekranu można przymocować hoverball.";
+
+/* Translated with LLM */
+"Why don’t you make a phone call?" = "Dlaczego nie zadzwonisz?";
+
+/* Translated with LLM */
+"Wi-Fi Required" = "Wymagane Wi-Fi";
+
+/* Translated with LLM */
+"Will start recording automatically on audio or video calls in the current application." = "Automatycznie rozpocznie nagrywanie podczas połączeń audio lub wideo w bieżącej aplikacji.";
+
+/* Translated with LLM */
+"Will start recording automatically on audio or video calls." = "Rozpocznie nagrywanie automatycznie podczas połączeń audio lub wideo.";
+
+/* Translated with LLM */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Zapisz znaczniki ID3 w eksportowanych plikach audio, w tym tytuł, wykonawcę, album, gatunek, rok i okładkę.";
+
+/* Translated with LLM */
+"Write latitude and longitude to the recording metadata." = "Zapisz szerokość i długość geograficzną w metadanych nagrania.";
+
+/* Translated with LLM */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "Zapisz dzienniki wykonawcze w systemie plików. Aby zastosować zmiany, musisz ponownie uruchomić usługi.";
+
+/* Translated with LLM */
+"Year Month Day" = "Rok Miesiąc Dzień";
+
+/* Translated with LLM */
+"YES" = "TAK";
+
+/* Translated with LLM */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "Zamierzasz usunąć wszystkie nagrania, zresetować wszystkie ustawienia i całkowicie wyczyścić wszystkie pamięci podręczne.\nTEJ OPERACJI NIE MOŻNA COFNĄĆ!";
+
+/* Translated with LLM */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "Zamierzasz naprawić właścicieli i uprawnienia systemu plików dla wszystkich nagrań i ustawień.";
+
+/* Translated with LLM */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "Używasz już najnowszej wersji „TrollRecorder” %1$@ (%2$@).";
+
+/* Translated with LLM */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Możesz pobrać pakiet głosowy w „Ustawienia” → „Dostępność” → „VoiceOver” → „Mowa” → „Głos”, aby pobrać pakiety głosowe, a następnie wybrać jeden z nich tutaj dla komunikatów głosowych.";
+
+/* Translated with LLM */
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Musisz wybrać opcję „Zawsze” dla aplikacji „Troll Recorder”, aby określać swoją lokalizację w tle. Jeśli wybierzesz „Podczas korzystania z aplikacji”, lokalizacje będą aktualizowane tylko po uruchomieniu aplikacji po nagraniu.";
+
+/* Translated with LLM */
+"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Aby opcje na tej stronie zaczęły obowiązywać, może być konieczne włączenie opcji „Ulepszone automatyczne nagrywanie” lub „Ulepszone rozpoznawanie sceny”.";
+
+/* Translated with LLM */
+"You may need to reboot your device to make this application work properly." = "Może być konieczne ponowne uruchomienie urządzenia, aby aplikacja działała poprawnie.";
+
+/* Translated with LLM */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Twoje informacje na %1$@ zostaną przesłane i scalone z nagraniami przechowywanymi w „%2$@”.";
+
+/* Translated with LLM */
+"You’re now using the free version of “TrollRecorder JB”." = "Korzystasz teraz z darmowej wersji „TrollRecorder JB”.";
+
+/* Translated with LLM */
+"You’re now using the free version of “TrollRecorder”." = "Korzystasz teraz z darmowej wersji „TrollRecorder”.";
+
+/* Translated with LLM */
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Zmieniłeś język wyświetlania aplikacji na „%@”. Aby całkowicie zastosować zmiany, wymagany jest respring.";
+
+/* Translated with LLM */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Zmieniłeś „Niestandardową nazwę eksportu”. Czy chcesz ponownie wygenerować zarchiwizowane nagrania w „Network Storage”?\nTa operacja może chwilę potrwać i zużyć dodatkowy limit danych komórkowych. Możesz usunąć „TrollRecorder/ArchivedRecordings” ze swoich dysków w chmurze, aby uniknąć duplikatów.";
+
+/* Translated with LLM */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "Zdecydowałeś się kontynuować bez ważnego podpisu kodu. Nadal możesz używać aplikacji do przeglądania lub eksportowania istniejących nagrań, ale inne funkcje mogą być niedostępne.";
+
+/* Translated with LLM */
+"You’ve enabled biometric authentication so it’s required to verify your identity." = "Włączyłeś uwierzytelnianie biometryczne, więc jest ono wymagane do weryfikacji Twojej tożsamości.";
+
+/* Translated with LLM */
+"You’ve pressed cancel." = "Naciśnięto przycisk anulowania.";
+
+/* Translated with LLM */
+"You’ve pressed password." = "Wciśnięto hasło.";
+
+/* No comment provided by engineer. */
+"¼ Audio CD" = "¼ Audio CD";
+
+/* No comment provided by engineer. */
+"½ Audio CD" = "½ Audio CD";
+
+/* Translated with LLM */
+"“%@” is not available." = "„%@” jest niedostępny.";
+
+/* Translated with LLM */
+"“Background App Refresh” Permission Denied" = "Odmowa uprawnienia „Odświeżanie aplikacji w tle”";
+
+/* Translated with LLM */
+"“iCloud Drive” Not Logged In" = "„iCloud Drive” Nie zalogowano";
+
+/* Translated with LLM */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "„Launch Shield” jest włączona: usługa zostanie ponownie włączona w niektórych scenariuszach. Aby trwale zatrzymać usługę, wyłącz „Opcje zaawansowane” → „Launch Shield”, zamknij i ponownie otwórz aplikację, a następnie ponownie wybierz tę opcję.";
+
+/* Translated with LLM */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Zainstalowane są zarówno wersja „TrollRecorder JB”, jak i TrollStore. Usuń obie, a następnie zainstaluj ponownie „TrollRecorder JB” z Sileo lub „TrollRecorder” z TrollStore.";
+
+/* Translated with LLM */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "„TrollRecorder JB” nie jest kompatybilny z Bootstrap (RootHide). Usuń „TrollRecorder JB” i zainstaluj „TrollRecorder” z TrollStore.";
+
+/* Translated with LLM */
+"“TrollRecorder” is not compatible with this version of iOS." = "„TrollRecorder” nie jest kompatybilny z tą wersją iOS.";
+
+/* No comment provided by engineer. */
+"…" = "…";

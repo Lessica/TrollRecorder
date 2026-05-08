@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Content Type</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>one</key>
+			<string>コンテンツタイプ</string>
+			<key>other</key>
+			<string>コンテンツタイプ</string>
+		</dict>
+	</dict>
+	<key>%lld content types</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld コンテンツタイプ</string>
+			<key>one</key>
+			<string>%lld コンテンツタイプ</string>
+			<key>other</key>
+			<string>%lld コンテンツタイプ</string>
+		</dict>
+	</dict>
+	<key>Information Field</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>one</key>
+			<string>情報フィールド</string>
+			<key>other</key>
+			<string>情報フィールド</string>
+		</dict>
+	</dict>
+	<key>%lld fields</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld フィールド</string>
+			<key>one</key>
+			<string>%lld フィールド</string>
+			<key>other</key>
+			<string>%lld フィールド</string>
+		</dict>
+	</dict>
+	<key>Voice Channel</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>one</key>
+			<string>音声チャンネル</string>
+			<key>other</key>
+			<string>音声チャンネル</string>
+		</dict>
+	</dict>
+	<key>%lld channels</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld チャンネル</string>
+			<key>one</key>
+			<string>%lld チャンネル</string>
+			<key>other</key>
+			<string>%lld チャンネル</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -80,13 +80,16 @@
 "A respring is required to completely apply the changes." = "A respring is required to completely apply the changes.";
 
 /* No comment provided by engineer. */
-"A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
+"A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
 
 /* No comment provided by engineer. */
 "accept" = "accept";
 
 /* No comment provided by engineer. */
 "Accept all incoming calls automatically." = "Accept all incoming calls automatically.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"accept call" = "accept call";
 
 /* No comment provided by engineer. */
 "Accept Incoming Calls" = "Accept Incoming Calls";
@@ -99,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "activate" = "activate";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"activate hoverball" = "activate hoverball";
 
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "Activate the recorder hoverball.";
@@ -114,6 +120,12 @@
 
 /* No comment provided by engineer. */
 "Add Required Widget" = "Add Required Widget";
+
+/* No comment provided by engineer. */
+"Add Token" = "Add Token";
+
+/* No comment provided by engineer. */
+"Add Tokens" = "Add Tokens";
 
 /* No comment provided by engineer. */
 "Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
@@ -214,8 +226,17 @@
 /* No comment provided by engineer. */
 "answer" = "answer";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"answer call" = "answer call";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"answer incoming call" = "answer incoming call";
+
 /* No comment provided by engineer. */
 "answered" = "answered";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"answered call" = "answered call";
 
 /* No comment provided by engineer. */
 "Any" = "Any";
@@ -242,6 +263,9 @@
 "Applications" = "Applications";
 
 /* No comment provided by engineer. */
+"App Store" = "App Store";
+
+/* No comment provided by engineer. */
 "archive" = "archive";
 
 /* No comment provided by engineer. */
@@ -258,6 +282,9 @@
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "Are you sure you want to remove all shortcut definitions?";
+
+/* No comment provided by engineer. */
+"Arguments added on this page will be passed through to the rclone command line exactly as entered." = "Arguments added on this page will be passed through to the rclone command line exactly as entered.";
 
 /* No comment provided by engineer. */
 "Associate with Call History" = "Associate with Call History";
@@ -382,6 +409,12 @@
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Before starting a call recording, a prompt voice is played to the opposite end.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"begin recording" = "begin recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"begin screen recording" = "begin screen recording";
+
 /* No comment provided by engineer. */
 "Beta" = "Beta";
 
@@ -393,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "Biometric Authentication";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"block incoming call" = "block incoming call";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour server started at: %@";
@@ -433,11 +469,29 @@
 /* No comment provided by engineer. */
 "call" = "call";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call audio on" = "call audio on";
+
+/* No comment provided by engineer. */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?";
+
+/* No comment provided by engineer. */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Call audio pipeline monitoring failed. Tap this notification to restart the recording service.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call connected" = "call connected";
+
 /* No comment provided by engineer. */
 "Call Direction" = "Call Direction";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call duration" = "call duration";
+
 /* No comment provided by engineer. */
 "Call Identifier" = "Call Identifier";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call information" = "call information";
 
 /* No comment provided by engineer. */
 "Call Recording" = "Call Recording";
@@ -460,6 +514,9 @@
 /* No comment provided by engineer. */
 "Call State" = "Call State";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call status" = "call status";
+
 /* No comment provided by engineer. */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
 
@@ -480,6 +537,9 @@
 
 /* No comment provided by engineer. */
 "Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"check service" = "check service";
 
 /* No comment provided by engineer. */
 "Check Updates" = "Check Updates";
@@ -515,10 +575,19 @@
 "Clear Selection" = "Clear Selection";
 
 /* No comment provided by engineer. */
+"Clear Tokens" = "Clear Tokens";
+
+/* No comment provided by engineer. */
 "Clear Wave Caches" = "Clear Wave Caches";
 
 /* No comment provided by engineer. */
 "Close" = "Close";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"close hoverball" = "close hoverball";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"cloud archive sync" = "cloud archive sync";
 
 /* No comment provided by engineer. */
 "Collapse Recursively" = "Collapse Recursively";
@@ -555,6 +624,9 @@
 
 /* No comment provided by engineer. */
 "connected" = "connected";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"connected call" = "connected call";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "Connected Clients: %d";
@@ -606,6 +678,12 @@
 
 /* No comment provided by engineer. */
 "Continue" = "Continue";
+
+/* No comment provided by engineer. */
+"Continuous Playback Off" = "Continuous Playback Off";
+
+/* No comment provided by engineer. */
+"Continuous Playback On" = "Continuous Playback On";
 
 /* No comment provided by engineer. */
 "Conversion Failed" = "Conversion Failed";
@@ -664,6 +742,12 @@
 /* No comment provided by engineer. */
 "Credentials" = "Credentials";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"current call" = "current call";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"current call duration" = "current call duration";
+
 /* No comment provided by engineer. */
 "Custom CLI Options" = "Custom CLI Options";
 
@@ -681,6 +765,12 @@
 
 /* No comment provided by engineer. */
 "daemon" = "daemon";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"daemon running" = "daemon running";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"daemon service" = "daemon service";
 
 /* No comment provided by engineer. */
 "Daily Arranged" = "Daily Arranged";
@@ -703,6 +793,9 @@
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "Deactivate & Sign Out";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"deactivate hoverball" = "deactivate hoverball";
+
 /* No comment provided by engineer. */
 "Deactivate the recorder hoverball." = "Deactivate the recorder hoverball.";
 
@@ -711,6 +804,9 @@
 
 /* No comment provided by engineer. */
 "decline" = "decline";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"decline call" = "decline call";
 
 /* No comment provided by engineer. */
 "Decoding" = "Decoding";
@@ -787,11 +883,14 @@
 /* No comment provided by engineer. */
 "Discard Recording" = "Discard Recording";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"discard recording" = "discard recording";
+
 /* No comment provided by engineer. */
 "Discreet Mode" = "Discreet Mode";
 
 /* No comment provided by engineer. */
-"Discreet Voice Memos" = "Discreet Voice Memos";
+"Discreet Voice Memos" = "Discreet Voice Memos";
 
 /* No comment provided by engineer. */
 "Dismiss" = "Dismiss";
@@ -887,7 +986,10 @@
 "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
 
 /* No comment provided by engineer. */
-"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states.";
+"Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here." = "Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here.";
+
+/* No comment provided by engineer. */
+"Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states." = "Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states.";
 
 /* No comment provided by engineer. */
 "Duration" = "Duration";
@@ -915,6 +1017,9 @@
 
 /* No comment provided by engineer. */
 "Edit Argument" = "Edit Argument";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"elapsed recording time" = "elapsed recording time";
 
 /* No comment provided by engineer. */
 "Empty Trash" = "Empty Trash";
@@ -952,11 +1057,20 @@
 /* No comment provided by engineer. */
 "Encoding" = "Encoding";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"end calls" = "end calls";
+
 /* No comment provided by engineer. */
 "End Date" = "End Date";
 
 /* No comment provided by engineer. */
 "End Editing" = "End Editing";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"end recording" = "end recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"end screen recording" = "end screen recording";
 
 /* No comment provided by engineer. */
 "Enhance Recording" = "Enhance Recording";
@@ -1073,6 +1187,9 @@
 "Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
 /* No comment provided by engineer. */
+"Failed to start audio player." = "Failed to start audio player.";
+
+/* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
 
 /* No comment provided by engineer. */
@@ -1104,6 +1221,9 @@
 
 /* No comment provided by engineer. */
 "finish" = "finish";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"finish call" = "finish call";
 
 /* No comment provided by engineer. */
 "Fix File-System" = "Fix File-System";
@@ -1146,6 +1266,9 @@
 
 /* No comment provided by engineer. */
 "Full" = "Full";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"full backup sync" = "full backup sync";
 
 /* No comment provided by engineer. */
 "Full Date" = "Full Date";
@@ -1210,14 +1333,20 @@
 /* No comment provided by engineer. */
 "Group Call" = "Group Call";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"hang up calls" = "hang up calls";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"hang up incoming call" = "hang up incoming call";
+
 /* No comment provided by engineer. */
 "Hide Hoverball" = "Hide Hoverball";
 
 /* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect.";
 
 /* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
 
 /* No comment provided by engineer. */
 "Hide When Landscape" = "Hide When Landscape";
@@ -1260,6 +1389,9 @@
 
 /* No comment provided by engineer. */
 "icloud" = "iCloud";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"icloud backup" = "icloud backup";
 
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud Drive";
@@ -1327,6 +1459,9 @@
 /* No comment provided by engineer. */
 "Incoming Call" = "Incoming Call";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"incoming call" = "incoming call";
+
 /* No comment provided by engineer. */
 "Incoming Call Answered" = "Incoming Call Answered";
 
@@ -1375,6 +1510,9 @@
 /* No comment provided by engineer. */
 "Is Paused" = "Is Paused";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"is recording" = "is recording";
+
 /* No comment provided by engineer. */
 "Is Running" = "Is Running";
 
@@ -1418,7 +1556,7 @@
 "Launch App at End" = "Launch App at End";
 
 /* No comment provided by engineer. */
-"Launch Shield" = "Launch Shield";
+"Launch Shield" = "Launch Shield";
 
 /* No comment provided by engineer. */
 "Leading & Trailing" = "Leading & Trailing";
@@ -1449,6 +1587,9 @@
 
 /* No comment provided by engineer. */
 "Loading…" = "Loading…";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"local notification" = "local notification";
 
 /* No comment provided by engineer. */
 "Local Storage" = "Local Storage";
@@ -1517,7 +1658,7 @@
 "Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
 
 /* No comment provided by engineer. */
-"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them.";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback.";
@@ -1579,6 +1720,18 @@
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "Microphone and speaker are recorded in different channels.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"microphone audio" = "microphone audio";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"microphone off" = "microphone off";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"microphone on" = "microphone on";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"microphone speech" = "microphone speech";
+
 /* No comment provided by engineer. */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
@@ -1627,6 +1780,12 @@
 /* No comment provided by engineer. */
 "Mute ${requestedChannel}" = "Mute ${requestedChannel}";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"mute call" = "mute call";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"mute call audio" = "mute call audio";
+
 /* No comment provided by engineer. */
 "Mute Existing Calls" = "Mute Existing Calls";
 
@@ -1659,6 +1818,9 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "New Matching Pattern";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"new recording" = "new recording";
 
 /* No comment provided by engineer. */
 "New Version Available" = "New Version Available";
@@ -1768,6 +1930,9 @@
 /* No comment provided by engineer. */
 "Open Hoverball" = "Open Hoverball";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"open hoverball" = "open hoverball";
+
 /* No comment provided by engineer. */
 "Open in Filza" = "Open in Filza";
 
@@ -1852,6 +2017,9 @@
 /* No comment provided by engineer. */
 "Perform Full Synchronization" = "Perform Full Synchronization";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"perform synchronization" = "perform synchronization";
+
 /* No comment provided by engineer. */
 "Period" = "Period";
 
@@ -1864,11 +2032,17 @@
 /* No comment provided by engineer. */
 "Phone Address" = "Phone Address";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"phone answer" = "phone answer";
+
 /* No comment provided by engineer. */
 "Phone Call Exclusion List" = "Phone Call Exclusion List";
 
 /* No comment provided by engineer. */
 "phone call recording" = "phone call recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"phone call timer" = "phone call timer";
 
 /* No comment provided by engineer. */
 "Phone Call VIP" = "Phone Call VIP";
@@ -1879,8 +2053,14 @@
 /* No comment provided by engineer. */
 "Phone Number or Email Address" = "Phone Number or Email Address";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"phone status" = "phone status";
+
 /* No comment provided by engineer. */
 "Physical Key Combination" = "Physical Key Combination";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"pick up call" = "pick up call";
 
 /* No comment provided by engineer. */
 "Placemark Name" = "Placemark Name";
@@ -1893,6 +2073,9 @@
 
 /* No comment provided by engineer. */
 "Play ${audioFile}" = "Play ${audioFile}";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"play audio file" = "play audio file";
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "Play Recording Warning";
@@ -1907,10 +2090,22 @@
 "Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
 
 /* No comment provided by engineer. */
+"Play Through Receiver" = "Play Through Receiver";
+
+/* No comment provided by engineer. */
+"Play Through Speaker" = "Play Through Speaker";
+
+/* No comment provided by engineer. */
 "Play Uplink Audio" = "Play Uplink Audio";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"play uplink audio" = "play uplink audio";
 
 /* No comment provided by engineer. */
 "Play Uplink Voice-Over" = "Play Uplink Voice-Over";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"play voice over" = "play voice over";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "Play/Pause";
@@ -1922,7 +2117,7 @@
 "Playback Rate: %@x" = "Playback Rate: %@x";
 
 /* No comment provided by engineer. */
-"Playback Speed" = "Playback Speed";
+"Playback Route" = "Playback Route";
 
 /* No comment provided by engineer. */
 "Player Options" = "Player Options";
@@ -1983,6 +2178,9 @@
 
 /* No comment provided by engineer. */
 "Port (Optional)" = "Port (Optional)";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"post notification" = "post notification";
 
 /* No comment provided by engineer. */
 "Preparing" = "Preparing";
@@ -2137,11 +2335,17 @@
 /* No comment provided by engineer. */
 "Record Only When Connected" = "Record Only When Connected";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"record screen" = "record screen";
+
 /* No comment provided by engineer. */
 "Record Unknown Calls" = "Record Unknown Calls";
 
 /* No comment provided by engineer. */
 "Record with Location" = "Record with Location";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recorder hoverball" = "recorder hoverball";
 
 /* No comment provided by engineer. */
 "Recording" = "Recording";
@@ -2152,17 +2356,47 @@
 /* No comment provided by engineer. */
 "Recording (Localized)" = "Recording (Localized)";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording directory" = "recording directory";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording duration" = "recording duration";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording file" = "recording file";
+
 /* No comment provided by engineer. */
 "Recording Interrupted" = "Recording Interrupted";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording off" = "recording off";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording on" = "recording on";
 
 /* No comment provided by engineer. */
 "Recording Options" = "Recording Options";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording path" = "recording path";
+
 /* No comment provided by engineer. */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Recording starts when both the audio inputs and outputs are continuously active.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording state" = "recording state";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording status" = "recording status";
+
 /* No comment provided by engineer. */
 "Recording successfully started." = "Recording successfully started.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording switch" = "recording switch";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording timer" = "recording timer";
 
 /* No comment provided by engineer. */
 "Recording Type" = "Recording Type";
@@ -2197,6 +2431,9 @@
 /* No comment provided by engineer. */
 "Reject all incoming calls automatically." = "Reject all incoming calls automatically.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"reject call" = "reject call";
+
 /* No comment provided by engineer. */
 "Reject Incoming Calls" = "Reject Incoming Calls";
 
@@ -2219,7 +2456,16 @@
 "Remove All Recordings Permanently" = "Remove All Recordings Permanently";
 
 /* No comment provided by engineer. */
+"Remove Other Variants" = "Remove Other Variants";
+
+/* No comment provided by engineer. */
 "Remove Outdated Recordings" = "Remove Outdated Recordings";
+
+/* No comment provided by engineer. */
+"Remove Token" = "Remove Token";
+
+/* No comment provided by engineer. */
+"Remove Tokens" = "Remove Tokens";
 
 /* No comment provided by engineer. */
 "Rename" = "Rename";
@@ -2249,13 +2495,16 @@
 "Restart Render Server" = "Restart Render Server";
 
 /* No comment provided by engineer. */
-"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
 
 /* No comment provided by engineer. */
 "Restore" = "Restore";
 
 /* No comment provided by engineer. */
 "Restore %d Items From Recycle Bin" = "Restore %d Items From Recycle Bin";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"restore call audio" = "restore call audio";
 
 /* No comment provided by engineer. */
 "Restore Selected %ld Items" = "Restore Selected %ld Items";
@@ -2320,6 +2569,9 @@
 /* No comment provided by engineer. */
 "Save as Duplicate…" = "Save as Duplicate…";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"saved recording location" = "saved recording location";
+
 /* No comment provided by engineer. */
 "Say ${requestedText}" = "Say ${requestedText}";
 
@@ -2328,6 +2580,15 @@
 
 /* No comment provided by engineer. */
 "screen" = "screen";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"screen capture" = "screen capture";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"screen capture stop" = "screen capture stop";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"screen recording off" = "screen recording off";
 
 /* No comment provided by engineer. */
 "SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
@@ -2364,6 +2625,9 @@
 
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "Search Shortcuts…";
+
+/* No comment provided by engineer. */
+"Search Transcript…" = "Search Transcript…";
 
 /* No comment provided by engineer. */
 "Searching for nearby devices" = "Searching for nearby devices";
@@ -2428,6 +2692,9 @@
 /* No comment provided by engineer. */
 "service" = "service";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"service active" = "service active";
+
 /* No comment provided by engineer. */
 "Service is alive" = "Service is alive";
 
@@ -2473,6 +2740,9 @@
 /* No comment provided by engineer. */
 "Show Notification" = "Show Notification";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"show notification" = "show notification";
+
 /* No comment provided by engineer. */
 "Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
 
@@ -2506,6 +2776,9 @@
 /* No comment provided by engineer. */
 "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"silence call" = "silence call";
+
 /* No comment provided by engineer. */
 "Silent Mode" = "Silent Mode";
 
@@ -2514,6 +2787,9 @@
 
 /* No comment provided by engineer. */
 "Simulator" = "Simulator";
+
+/* No comment provided by engineer. */
+"Simulator (Sandbox)" = "Simulator (Sandbox)";
 
 /* No comment provided by engineer. */
 "Skip Silence" = "Skip Silence";
@@ -2548,17 +2824,29 @@
 /* No comment provided by engineer. */
 "speaker" = "speaker";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"speaker off" = "speaker off";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"speaker on" = "speaker on";
+
 /* No comment provided by engineer. */
 "Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"spoken audio" = "spoken audio";
 
 /* No comment provided by engineer. */
 "start" = "start";
 
 /* No comment provided by engineer. */
-"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
+"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
 "Start Call Recording" = "Start Call Recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"start daemon" = "start daemon";
 
 /* No comment provided by engineer. */
 "Start Date" = "Start Date";
@@ -2569,14 +2857,20 @@
 /* No comment provided by engineer. */
 "Start Recording" = "Start Recording";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"start recording" = "start recording";
+
 /* No comment provided by engineer. */
 "Start Screen Recording" = "Start Screen Recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"start screen recording" = "start screen recording";
 
 /* No comment provided by engineer. */
 "Start System Audio Recording" = "Start System Audio Recording";
 
 /* No comment provided by engineer. */
-"Start Voice Memo Recording" = "Start Voice Memo Recording";
+"Start Voice Memo Recording" = "Start Voice Memo Recording";
 
 /* No comment provided by engineer. */
 "Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
@@ -2608,11 +2902,17 @@
 /* No comment provided by engineer. */
 "Stop Recording" = "Stop Recording";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"stop recording" = "stop recording";
+
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "Stop Recording When Disk Exhausted";
 
 /* No comment provided by engineer. */
 "Stop Screen Recording" = "Stop Screen Recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"stop screen recording" = "stop screen recording";
 
 /* No comment provided by engineer. */
 "Stop Service" = "Stop Service";
@@ -2660,7 +2960,7 @@
 "Synchronization Failed" = "Synchronization Failed";
 
 /* No comment provided by engineer. */
-"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
+"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
 
 /* No comment provided by engineer. */
 "Synchronizing" = "Synchronizing";
@@ -2711,6 +3011,9 @@
 "Tap to view details" = "Tap to view details";
 
 /* No comment provided by engineer. */
+"Technical Error Detected" = "Technical Error Detected";
+
+/* No comment provided by engineer. */
 "Temporarily Ignore" = "Temporarily Ignore";
 
 /* No comment provided by engineer. */
@@ -2722,6 +3025,9 @@
 /* No comment provided by engineer. */
 "Terminate all active calls immediately." = "Terminate all active calls immediately.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"terminate call" = "terminate call";
+
 /* No comment provided by engineer. */
 "Terminate Calls" = "Terminate Calls";
 
@@ -2730,6 +3036,9 @@
 
 /* No comment provided by engineer. */
 "Text Copied" = "Text Copied";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"text to speech" = "text to speech";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "text-to-speech";
@@ -2870,9 +3179,6 @@
 "This field accept phone number or an email address for matching contact." = "This field accept phone number or an email address for matching contact.";
 
 /* No comment provided by engineer. */
-"This is a sandbox build, the daemon is not available." = "This is a sandbox build, the daemon is not available.";
-
-/* No comment provided by engineer. */
 "This is a widget daemon for Troll Recorder." = "This is a widget daemon for Troll Recorder.";
 
 /* No comment provided by engineer. */
@@ -2911,6 +3217,9 @@
 /* No comment provided by engineer. */
 "Time Sensitive" = "Time Sensitive";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"time sensitive notification" = "time sensitive notification";
+
 /* No comment provided by engineer. */
 "Title" = "Title";
 
@@ -2918,7 +3227,7 @@
 "To %@" = "To %@";
 
 /* No comment provided by engineer. */
-"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
 
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
@@ -2956,23 +3265,32 @@
 /* No comment provided by engineer. */
 "Toggle Hoverball" = "Toggle Hoverball";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"toggle hoverball" = "toggle hoverball";
+
 /* No comment provided by engineer. */
 "Toggle ON/OFF the recorder hoverball." = "Toggle ON/OFF the recorder hoverball.";
 
 /* No comment provided by engineer. */
 "Toggle Recording" = "Toggle Recording";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"toggle recording" = "toggle recording";
+
 /* No comment provided by engineer. */
 "Toggle Screen Recording" = "Toggle Screen Recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"toggle screen recording" = "toggle screen recording";
 
 /* No comment provided by engineer. */
 "Toggle System Audio Recording" = "Toggle System Audio Recording";
 
 /* No comment provided by engineer. */
-"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
+"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
-"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
+"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
 /* No comment provided by engineer. */
 "Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
@@ -3024,6 +3342,9 @@
 
 /* No comment provided by engineer. */
 "tts" = "TTS";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"tts playback" = "tts playback";
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Turn this option off to make the other options on this page take effect for the current application.";
@@ -3133,6 +3454,9 @@
 /* No comment provided by engineer. */
 "Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"unmute call" = "unmute call";
+
 /* No comment provided by engineer. */
 "Unmute Existing Calls" = "Unmute Existing Calls";
 
@@ -3165,6 +3489,12 @@
 
 /* No comment provided by engineer. */
 "Uplink (Microphone)" = "Uplink (Microphone)";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"uplink playback" = "uplink playback";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"uplink voice" = "uplink voice";
 
 /* No comment provided by engineer. */
 "Upload" = "Upload";
@@ -3284,7 +3614,7 @@
 "View Logs: System Audio" = "View Logs: System Audio";
 
 /* No comment provided by engineer. */
-"View Logs: Voice Memo" = "View Logs: Voice Memo";
+"View Logs: Voice Memo" = "View Logs: Voice Memo";
 
 /* No comment provided by engineer. */
 "View My Account" = "View My Account";
@@ -3296,22 +3626,22 @@
 "VIP contacts will always be recorded and added to the favourites." = "VIP contacts will always be recorded and added to the favourites.";
 
 /* No comment provided by engineer. */
-"Voice Memo" = "Voice Memo";
-
-/* No comment provided by engineer. */
-"Voice Memo Recording" = "Voice Memo Recording";
-
-/* No comment provided by engineer. */
 "voice memo recording" = "voice memo recording";
-
-/* No comment provided by engineer. */
-"Voice Memos" = "Voice Memos";
 
 /* No comment provided by engineer. */
 "voice-over" = "voice-over";
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "Voice-Over Voice";
+
+/* No comment provided by engineer. */
+"Voice Memo" = "Voice Memo";
+
+/* No comment provided by engineer. */
+"Voice Memo Recording" = "Voice Memo Recording";
+
+/* No comment provided by engineer. */
+"Voice Memos" = "Voice Memos";
 
 /* No comment provided by engineer. */
 "VoIP" = "VoIP";
@@ -3327,6 +3657,9 @@
 
 /* No comment provided by engineer. */
 "Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"wait for call" = "wait for call";
 
 /* No comment provided by engineer. */
 "Wait for Calls" = "Wait for Calls";
@@ -3464,6 +3797,9 @@
 "You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
 
 /* No comment provided by engineer. */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "You are already using the latest version of “TrollRecorder” %1$@ (%2$@).";
+
+/* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements.";
 
 /* No comment provided by engineer. */
@@ -3518,7 +3854,7 @@
 "“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
 
 /* No comment provided by engineer. */
-"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
 
 /* No comment provided by engineer. */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

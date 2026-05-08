@@ -37,23 +37,23 @@ Paid licenses are valid for lifetime, and up to 5 devices.
 
 ## Translators
 
-- French by [**DzMoha**](https://twitter.com/contact_nadhir)
-- Korean by **SUB2**
-- Spanish by [**@Deci8BelioS**](https://github.com/Deci8BelioS)
-- Traditional Chinese (Hong Kong) by [**@CaslenZ**](https://github.com/CaslenZ)
-- Traditional Chinese (Taiwan) by [**雲端戰神一刀秒**](https://github.com/mp614t)
-- Turkish by [**Altay T.**](https://x.com/yamenhuu)
-- Uyghur by **BlacЖinG**
-- Vietnamese by [**@romlayvn-0411**](https://github.com/romlayvn-0411) and [**2311WithLuv**](https://www.facebook.com/If2019)
-- Russian by [**RAYMONCE**](https://t.me/raymonce)
+Except for English and Simplified Chinese, all other localizations were generated or reviewed by DeepSeek v4. Some source text was provided by volunteer translators listed below.
+
+- Spanish source text by [**@Deci8BelioS**](https://github.com/Deci8BelioS)
+- French source text by [**DzMoha**](https://twitter.com/contact_nadhir)
+- Korean source text by **SUB2**
+- Russian source text by [**RAYMONCE**](https://t.me/raymonce)
+- Turkish source text by [**Altay T.**](https://x.com/yamenhuu)
+- Uyghur source text by **BlacЖinG**
+- Vietnamese source text by [**@romlayvn-0411**](https://github.com/romlayvn-0411) and [**2311WithLuv**](https://www.facebook.com/If2019)
+- Traditional Chinese (Hong Kong) source text by [**@CaslenZ**](https://github.com/CaslenZ)
+- Traditional Chinese (Taiwan) source text by [**雲端戰神一刀秒**](https://github.com/mp614t)
 
 ## Localization
 
-At least, you need to provide `Localizable.strings` and `InfoPlist.strings`. Example: [Localizable.strings](https://github.com/Lessica/TrollRecorder/blob/main/res/en.lproj/Localizable.strings).
+At minimum, a localization should include `Localizable.strings` and `InfoPlist.strings`. Example: [Localizable.strings](https://github.com/Lessica/TrollRecorder/blob/main/res/en.lproj/Localizable.strings).
 
-**🙇 PLEASE HELP US TRANSLATE!**
-
-![Statistics](./res/stats.png)
+**🙇 PLEASE HELP REVIEW LLM-GENERATED LOCALIZATIONS!**
 
 ## Privacy Policy
 

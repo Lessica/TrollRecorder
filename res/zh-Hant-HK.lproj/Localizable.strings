@@ -1,1045 +1,1159 @@
 /* No comment provided by engineer. */
 "%@ Hz" = "%@ Hz";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is locked." = "%@ 已鎖定。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not available." = "%@ 不可用。";
 
-/* TODO */
-"%@ is not implemented yet." = "%@ is not implemented yet.";
+/* Translated with LLM */
+"%@ is not implemented yet." = "%@ 尚未實作。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not set up." = "%@ 未設定。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ may not be configured" = "%@ 可能未配置";
 
-/* TODO */
-"%@ Reason: %@" = "%1$@ Reason: %2$@";
+/* Translated with LLM */
+"%@ Reason: %@" = "%1$@ 原因：%2$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ rows not loaded" = "%@ 行未載入";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%d Exclusive Features" = "超過 %d 個專屬功能";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recording" = "%ld 錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recording ◇ %@" = "%ld 錄音 ◇ %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recordings" = "%ld 錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recordings ◇ %@" = "%ld 錄音 ◇ %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "(%lu bytes)" = "(%lu 位元組)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "(%lu items)" = "(%lu 項)";
 
-/* No comment provided by engineer. */
-"(null)" = "(空)";
+/* Translated with LLM */
+"(null)" = "(null)";
 
-/* TODO */
+/* Translated with LLM */
 "--arg=value" = "--arg=value";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "3 Seconds" = "3 秒";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "30 Days Ago" = "30 天前";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "4 Seconds" = "4 秒";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "45 Days Ago" = "45 天前";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "5 Seconds" = "5 秒";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "6 Seconds" = "6 秒";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "90 Days Ago" = "90 天前";
 
 /* No comment provided by engineer. */
 "<%@: %p>" = "<%@: %p>";
 
-/* No comment provided by engineer. */
-"A new version (%@) of “TrollRecorder” is available." = "有新版本的應用程式 %@ 可用。";
+/* Translated with LLM */
+"A new version (%@) of “TrollRecorder” is available." = "「TrollRecorder」有新版本 %@ 可用。";
 
-/* TODO */
-"A respring is required to completely apply the changes." = "A respring is required to completely apply the changes.";
+/* Translated with LLM */
+"A respring is required to completely apply the changes." = "需要重新載入才能完全套用變更。";
 
-/* TODO */
-"A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
+/* Translated with LLM */
+"A widget is required for the “Launch Shield” feature." = "「Launch Shield」功能需要一個 Widget。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "accept" = "接聽";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Accept all incoming calls automatically." = "自動接聽所有來電。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"accept call" = "接聽來電";
+
+/* Translated with LLM */
 "Accept Incoming Calls" = "接聽來電";
 
-/* TODO */
-"Access From Web Browser" = "Access From Web Browser";
+/* Translated with LLM */
+"Access From Web Browser" = "從網頁瀏覽器存取";
 
-/* No comment provided by engineer. */
-"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺裝置的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前景時服務可用。";
+/* Translated with LLM */
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一部裝置的 WebDAV 瀏覽器中存取你的錄音。僅當應用程式處於前景時伺服器才可用。";
 
-/* No comment provided by engineer. */
-"activate" = "activate";
+/* Translated with LLM */
+"activate" = "啟動";
 
-/* No comment provided by engineer. */
-"Activate the recorder hoverball." = "啟動服務，并打開錄音懸浮球。";
+/* Translated with LLM */
+"activate hoverball" = "啟動懸浮球";
 
-/* TODO */
-"Add" = "Add";
+/* Translated with LLM */
+"Activate the recorder hoverball." = "啟動服務，並打開錄音懸浮球。";
 
-/* TODO */
-"Add Argument" = "Add Argument";
+/* Translated with LLM */
+"Add" = "新增";
 
-/* TODO */
-"Add Now" = "Add Now";
+/* Translated with LLM */
+"Add Argument" = "新增引數";
 
-/* TODO */
-"Add Required Widget" = "Add Required Widget";
+/* Translated with LLM */
+"Add Now" = "立即新增";
 
-/* TODO */
-"Additional command-line options for the Rclone synchronization tool." = "Additional command-line options for the Rclone synchronization tool.";
+/* Translated with LLM */
+"Add Required Widget" = "加入必需嘅 Widget";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Add Token" = "新增標記";
+
+/* Translated with LLM */
+"Add Tokens" = "新增標記";
+
+/* Translated with LLM */
+"Additional command-line options for the Rclone synchronization tool." = "Rclone 同步工具的附加命令列選項。";
+
+/* Translated with LLM */
 "Additional Contact" = "自定義聯絡人";
 
-/* TODO */
-"Adequate" = "Adequate";
+/* Translated with LLM */
+"Adequate" = "足夠";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Audio Coding" = "高級音訊編碼 (AAC)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Options" = "高級選項";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Search" = "高級搜尋";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "After %@" = "%@ 之後";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Agree" = "同意";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Alias" = "別稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "alive" = "存活";
 
-/* TODO */
-"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+/* Translated with LLM */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "所有通話都會自動錄音，但「排除列表」中的聯絡人除外。VIP 聯絡人亦會加入至我的最愛。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "All Edges" = "所有邊緣";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "所有日志將被保留 7 天。過期日志將被自動刪除。";
 
-/* TODO */
-"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
+/* Translated with LLM */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "來自 %@ 的所有錄音現已可在此裝置上使用。準備好後，你可以關閉此畫面。";
 
-/* No comment provided by engineer. */
-"Allow Access to Call History" = "允許訪問呼叫歷史記錄";
+/* Translated with LLM */
+"Allow Access to Call History" = "允許存取通話記錄";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Automatic Recording" = "允許自動錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Hoverball Wake-Ups" = "允許喚醒懸浮球";
 
-/* No comment provided by engineer. */
-"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "允許讀取 WeChat 連絡人清單和 VoIP 通話歷史記錄以填充錄音的連絡人姓名。 僅支援最新版本的 WeChat。";
+/* Translated with LLM */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "允許讀取 WeChat 連絡人清單和 VoIP 通話記錄，以自動填入錄音的連絡人姓名。僅支援較新版本的 WeChat。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "允許錄製已登入 iCloud、在您附近且已接入 WLAN 的裝置上的通話。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always" = "總是";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Dark" = "保持深色";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Dynamic" = "保持動態";
 
-/* TODO */
-"Always Fold" = "Always Fold";
+/* Translated with LLM */
+"Always Fold" = "總是摺疊";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always keep the hoverball window visible." = "總是保持懸浮球可見。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Keep-Alive in Background" = "始終保持背景活動";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Light" = "保持淺色";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always On" = "總是顯示";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always schedule background processing tasks to run at the next available opportunity." = "總是將背景處理任務安排在下一次合適的時機運行。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "AM/PM String" = "上午/下午";
 
-/* TODO */
-"An unknown error occurred." = "An unknown error occurred.";
+/* Translated with LLM */
+"An unknown error occurred." = "發生未知錯誤。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Analysing Audio" = "正在分析音訊";
 
-/* TODO */
-"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+/* Translated with LLM */
+"Another %@ is required to continue editing. Available capacity is %@." = "繼續編輯需要額外 %1$@ 的儲存空間。可用容量為 %2$@。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "answer" = "應答";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"answer call" = "接聽來電";
+
+/* Translated with LLM */
+"answer incoming call" = "接聽來電";
+
+/* Translated with LLM */
 "answered" = "已接聽";
 
-/* TODO */
-"Any" = "Any";
+/* Translated with LLM */
+"answered call" = "已接聽來電";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Any" = "任何";
+
+/* Translated with LLM */
 "App Icon" = "應用程式圖標";
 
-/* TODO */
-"App Language" = "App Language";
+/* Translated with LLM */
+"App Language" = "App 語言";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Appearance" = "顯示與外觀";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Apple’s Core Audio" = "Apple’s Core Audio (caf)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Application" = "應用程式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Application Overrides" = "應用程式覆蓋";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Applications" = "應用程式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"App Store" = "App Store";
+
+/* Translated with LLM */
 "archive" = "歸檔";
 
-/* TODO */
-"Archive" = "Archive";
+/* Translated with LLM */
+"Archive" = "歸檔";
 
-/* TODO */
-"Archive Regeneration" = "Archive Regeneration";
+/* Translated with LLM */
+"Archive Regeneration" = "封存重建";
 
-/* TODO */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable.";
+/* Translated with LLM */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "封存：使用「內容分享」→「自訂匯出名稱」重新命名本機混合及合併的主要錄音，並上載到雲端磁碟機。不可還原。";
 
-/* TODO */
-"Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
+/* Translated with LLM */
+"Are you sure you want to discard the changes you made?" = "你確定要捨棄所做的變更嗎？";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Are you sure you want to remove all shortcut definitions?" = "你確定要刪除所有自動化動作嗎？";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Arguments added on this page will be passed through to the rclone command line exactly as entered." = "在此頁面新增的引數將會原樣傳遞至 rclone 指令列。";
+
+/* Translated with LLM */
 "Associate with Call History" = "與通話記錄連結";
 
-/* No comment provided by engineer. */
-"At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音訊檔案。 佔用較多存儲空間，請謹慎開啟。";
+/* Translated with LLM */
+"At the end of recording, the audio files of each channel during recording are retained." = "錄音結束時，保留錄音期間每個通道的原始音訊檔案。佔用較多儲存空間，請謹慎開啟。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Attachable Edges" = "可吸附邊緣";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "audio" = "音訊";
 
-/* TODO */
-"Audio CD" = "Audio CD";
+/* Translated with LLM */
+"Audio CD" = "音頻 CD";
 
-/* TODO */
-"Audio File" = "Audio File";
+/* Translated with LLM */
+"Audio File" = "音訊檔案";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio played to %@" = "音訊播放至 %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio progress" = "音訊進度";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authenticate with %@" = "使用 %@ 進行驗證";
 
-/* TODO */
-"Authorization error: %@" = "Authorization error: %@";
+/* Translated with LLM */
+"Authorization error: %@" = "授權錯誤：%@";
 
-/* TODO */
-"Authorization flow was manually canceled by user." = "Authorization flow was manually canceled by user.";
+/* Translated with LLM */
+"Authorization flow was manually canceled by user." = "使用者已手動取消授權流程。";
 
-/* TODO */
-"Authorize with Dropbox" = "Authorize with Dropbox";
+/* Translated with LLM */
+"Authorize with Dropbox" = "使用 Dropbox 授權";
 
-/* TODO */
-"Authorize with Google" = "Authorize with Google";
+/* Translated with LLM */
+"Authorize with Google" = "使用 Google 授權";
 
-/* TODO */
-"Authorize with Microsoft" = "Authorize with Microsoft";
+/* Translated with LLM */
+"Authorize with Microsoft" = "使用 Microsoft 授權";
 
-/* TODO */
-"Automatic" = "Automatic";
+/* Translated with LLM */
+"Automatic" = "自動";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatic Recording" = "自動錄音";
 
-/* TODO */
-"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+/* Translated with LLM */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "自動錄音已停用。在任何情況下，通話都不會自動錄音。";
 
-/* No comment provided by engineer. */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "當前月份的錄音不會被歸檔。每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。";
+/* Translated with LLM */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "每月自動為混合和組合模式的錄音創建克隆，並將其存儲在 iCloud 雲碟中。當前月份的錄音不會被歸檔。";
 
-/* No comment provided by engineer. */
-"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "當裝置重新啟動並解鎖時，自動啟用背景服務。 需要將“巨魔錄音機”小工具添加到主螢幕任意位置才能使此選項生效。";
+/* Translated with LLM */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "當裝置重新啟動並解鎖時，自動啟動背景服務並保持其存活。需要將「TrollRecorder」小工具添加到鎖定螢幕或主螢幕任意位置才能使此功能生效。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將咪高風和揚聲器合併成一個檔案。";
 
-/* TODO */
-"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatically move the hoverball to avoid the keyboard in portrait orientation.";
+/* Translated with LLM */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "在直向模式下自動移動懸浮球以避開鍵盤。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically purge recycle bin and remove failure caches." = "定期自動清理回收站和錄音失敗時留下的緩存。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically query the latest version from GitHub when the application starts." = "應用程式啟動時，自動從 GitHub 查詢最新版本。";
 
-/* TODO */
-"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+/* Translated with LLM */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "自動錄製所有 FaceTime 通話：排除「排除列表」中的聯絡人。";
 
-/* TODO */
-"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+/* Translated with LLM */
+"Automatically record FaceTime calls from contacts not in your address book." = "自動錄製不在通訊錄中聯絡人的 FaceTime 通話。";
 
-/* TODO */
-"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+/* Translated with LLM */
+"Automatically record phone calls from contacts not in your address book." = "自動錄製不在通訊錄中聯絡人的電話。";
 
-/* TODO */
-"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
+/* Translated with LLM */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "自動錄製電話通話：排除「排除列表」中的聯絡人。";
 
-/* No comment provided by engineer. */
-"Automatically remove recordings created earlier than specified date except those marked ones." = "自動删除早於指定日期創建的錄音，除了那些被收藏的錄音。";
+/* Translated with LLM */
+"Automatically remove recordings created earlier than specified date except those marked ones." = "自動刪除早於指定日期創建的錄音，除了那些被收藏的錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically stop recording when available disk space is extremely low." = "當剩餘磁碟空間極低時，自動停止錄音。";
 
-/* No comment provided by engineer. */
-"Automatically Suspend in Background" = "背景程式自動停止";
+/* Translated with LLM */
+"Automatically Suspend in Background" = "背景自動暫停";
 
-/* No comment provided by engineer. */
-"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解鎖後自動上滑進入主螢幕。鎖定後 10 秒内解鎖，此動作將不會生效。";
+/* Translated with LLM */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "解鎖後自動上滑進入主螢幕。鎖定後 10 秒內解鎖，此動作將不會生效。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automation" = "自動化";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "當 WebDAV 伺服器被任何用戶端使用時，避免螢幕自動鎖定。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Background Style" = "背景樣式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "backup" = "備份";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Backup Synchronized" = "備份同步結束時";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Backup With iCloud" = "通過 iCloud 備份";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Batch Export" = "批量匯出";
 
-/* TODO */
-"BatchExport_%@.zip" = "BatchExport_%@.zip";
+/* Translated with LLM */
+"BatchExport_%@.zip" = "批量導出_%@.zip";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Before %@" = "%@ 之前";
 
-/* No comment provided by engineer. */
-"Before starting a call recording, a prompt voice is played to the opposite end." = "接通並開始通話錄音前，向對方播放一段提示語音。 請遵守你所在地的法律法規。 關閉提示音後，可能會影響通話錄音作為證據使用的法律效力。";
+/* Translated with LLM */
+"Before starting a call recording, a prompt voice is played to the opposite end." = "接通並開始通話錄音前，向對方播放一段提示語音。請遵守你所在地的法律法規。關閉提示音後，可能會影響通話錄音作為證據使用的法律效力。";
 
-/* TODO */
-"Beta" = "Beta";
+/* Translated with LLM */
+"begin recording" = "開始錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"begin screen recording" = "開始螢幕錄製";
+
+/* Translated with LLM */
+"Beta" = "Beta 版本";
+
+/* Translated with LLM */
 "Bi-sync" = "雙向同步";
 
-/* TODO */
-"Bi-sync: Perform bidirectional synchronization between two paths." = "Bi-sync: Perform bidirectional synchronization between two paths.";
+/* Translated with LLM */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "雙向同步：在兩個路徑之間執行雙向同步。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Biometric Authentication" = "生物特徵識別認證";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"block incoming call" = "封鎖來電";
+
+/* Translated with LLM */
 "Bonjour server started at: %@" = "Bonjour 服務已啟動：%@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Boost Periodic Tasks" = "加速定時任務";
 
-/* TODO */
-"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore Compatible Mode)";
+/* Translated with LLM */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap（TrollStore 相容模式）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Both (Microphone & Speaker)" = "雙向（咪高風和揚聲器）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "bottom edge" = "底部邊緣";
 
-/* No comment provided by engineer. */
-"Build and use a custom export name template for exported audio files." = "為匯出或歸檔的音頻檔案創建并使用自定義檔案名稱模板。";
+/* Translated with LLM */
+"Build and use a custom export name template for exported audio files." = "為匯出或歸檔的音頻檔案創建並使用自定義檔案名稱模板。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Display Name" = "捆綁包顯示名稱";
 
-/* No comment provided by engineer. */
-"Bundle Identifier" = "捆綁包標識符";
+/* Translated with LLM */
+"Bundle Identifier" = "套件識別碼";
 
-/* No comment provided by engineer. */
-"Bundle Name" = "捆绑包名稱";
+/* Translated with LLM */
+"Bundle Name" = "捆綁包名稱";
 
-/* No comment provided by engineer. */
-"Buy TrollRecorder Pro" = "購買高級授權";
+/* Translated with LLM */
+"Buy TrollRecorder Pro" = "購買 TrollRecorder Pro";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Calculating…" = "計算中…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call" = "通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "call" = "通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call audio on" = "開啟通話音訊";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "通話音訊管道監控失敗。立即重新啟動守護程式或可解決此異常，是否繼續？";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "通話音訊管道監控失敗。點按此通知以重新啟動錄音服務。";
+
+/* Translated with LLM */
+"call connected" = "通話已接通";
+
+/* Translated with LLM */
 "Call Direction" = "通話方向";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call duration" = "通話時長";
+
+/* Translated with LLM */
 "Call Identifier" = "通話標識符";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call information" = "通話資訊";
+
+/* Translated with LLM */
 "Call Recording" = "通話錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call Recording Begins" = "通話錄音開始時";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call Recording Ends" = "通話錄音結束時";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording from “%@” and other %ld applications." = "來自 “%@” 和其他 %ld 個應用程式的通話錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording from “%@”." = "來自 “%@” 的通話錄音";
 
-/* No comment provided by engineer. */
-"Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "打開此開關，使去電被對方接聽時才自動開始錄音。 來電總是在被接聽時才自動開始錄音。";
+/* Translated with LLM */
+"Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "通話錄音僅在去電被接聽或來電被接聽時才開始。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call State" = "通話狀態";
 
-/* No comment provided by engineer. */
-"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "僅當你使用此裝置上的咪高風進行通話時，才能够錄製通話。從其他裝置接聽來自此裝置的通話時，通話將無法被錄音。";
+/* Translated with LLM */
+"call status" = "通話狀態";
 
-/* TODO */
-"Camcorder" = "Camcorder";
+/* Translated with LLM */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "僅當你使用此裝置上的咪高風進行通話時，才能夠錄製通話。從其他裝置接聽來自此裝置的通話時，通話將無法被錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Camcorder" = "攝錄機";
+
+/* Translated with LLM */
 "Cancel" = "取消";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Cannot parse text with UTF-8 encoding: “%@”." = "無法使用 UTF-8 編碼解析文本: “%@”。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Caution" = "注意";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "check" = "檢查";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Check if the daemon is running. If not, launch it." = "檢查守護進程是否正在運行。如果沒有則啟動它。";
 
-/* TODO */
-"Check Updates" = "Check Updates";
+/* Translated with LLM */
+"check service" = "檢查服務";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Check Updates" = "檢查更新";
+
+/* Translated with LLM */
 "Check Updates at Launch" = "啟動時檢查更新";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Checking service status" = "檢查服務狀態";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Child Pages" = "子頁面";
 
-/* No comment provided by engineer. */
-"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "選擇混音器的輸出音訊格式。 波形音訊格式不支援高級編碼。";
+/* Translated with LLM */
+"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "選擇混音器的輸出音訊格式。波形音訊格式不支援進階編碼。";
 
-/* No comment provided by engineer. */
-"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size.";
+/* Translated with LLM */
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "選擇混音器的輸出音訊質素。較高的質素意味著更高的取樣率和位元率，這會導致較大的檔案大小。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the output file format for the mixer." = "選擇混音器的輸出檔案格式。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the size preset of the hoverball." = "選擇懸浮球的預設尺寸。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clean Caches Automatically" = "自動清理緩存";
 
-/* TODO */
-"Clear" = "Clear";
+/* Translated with LLM */
+"Clear" = "清除";
 
-/* No comment provided by engineer. */
-"Clear Selection" = "清楚篩選項";
+/* Translated with LLM */
+"Clear Selection" = "清除篩選項";
 
-/* TODO */
-"Clear Wave Caches" = "Clear Wave Caches";
+/* Translated with LLM */
+"Clear Tokens" = "清除標記";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Clear Wave Caches" = "清除波形快取";
+
+/* Translated with LLM */
 "Close" = "關閉";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"close hoverball" = "關閉懸浮球";
+
+/* Translated with LLM */
+"cloud archive sync" = "雲端存檔同步";
+
+/* Translated with LLM */
 "Collapse Recursively" = "遞迴摺叠";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Collecting" = "收集中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Combined" = "組合";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Combined Mode" = "組合模式";
 
-/* TODO */
-"Compiled at %@" = "Compiled at %@";
+/* Translated with LLM */
+"Compiled at %@" = "編譯於 %@";
 
-/* TODO */
-"Compressing" = "Compressing";
+/* Translated with LLM */
+"Compressing" = "壓縮中";
 
-/* No comment provided by engineer. */
-"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+/* Translated with LLM */
+"Configure the embedded client with your WebDAV server address, username and password." = "使用你的 WebDAV 伺服器地址、用戶名稱及密碼設定內嵌用戶端。";
 
-/* No comment provided by engineer. */
-"Configure WebDAV Client" = "Configure WebDAV Client";
+/* Translated with LLM */
+"Configure WebDAV Client" = "設定 WebDAV 用戶端";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Confirm" = "確認";
 
-/* TODO */
-"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
+/* Translated with LLM */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "確認你的 Havoc 帳戶，這是唯一的購買憑證。因忘記帳戶而導致的授權損失，需由你自行承擔。購買時，請點擊頁面上的金額完成付款，切勿點擊禮物圖示。";
 
-/* TODO */
-"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+/* Translated with LLM */
+"Connect to a Wi‑Fi network before transferring recordings." = "傳輸錄音前，請先連接 Wi‑Fi 網絡。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "connected" = "已連線";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"connected call" = "已接聽通話";
+
+/* Translated with LLM */
 "Connected Clients: %d" = "已連線客戶端：%d";
 
-/* TODO */
-"Connection" = "Connection";
+/* Translated with LLM */
+"Connection" = "連線";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Constants" = "常量";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Exceptions" = "聯絡人例外";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Name" = "聯絡人名稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Phone Address" = "聯絡人電話號碼";
 
-/* No comment provided by engineer. */
-"Contact Us" = "聯係我們";
+/* Translated with LLM */
+"Contact Us" = "聯絡我們";
 
-/* No comment provided by engineer. */
-"Contact via Discord" = "通過 Discord 聯係";
+/* Translated with LLM */
+"Contact via Discord" = "通過 Discord 聯絡";
 
-/* No comment provided by engineer. */
-"Contact via Email" = "通過電子郵件聯係";
+/* Translated with LLM */
+"Contact via Email" = "通過電郵聯絡";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via QQ" = "通過 QQ 聯係";
 
-/* TODO */
-"Contact via TikTok" = "Contact via TikTok";
+/* Translated with LLM */
+"Contact via TikTok" = "透過 TikTok 聯絡";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts" = "聯絡人";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts in this list will not be recorded in any situation." = "此列表中的聯絡人將不會被錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts Permission Denied" = "聯絡人被拒絕訪問";
 
-/* No comment provided by engineer. */
-"Content" = "内容";
+/* Translated with LLM */
+"Content" = "內容";
 
-/* No comment provided by engineer. */
-"Content Sharing" = "内容共享";
+/* Translated with LLM */
+"Content Sharing" = "內容共享";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Continue" = "繼續";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Continuous Playback Off" = "連續播放已關閉";
+
+/* Translated with LLM */
+"Continuous Playback On" = "連續播放已啟用";
+
+/* Translated with LLM */
 "Conversion Failed" = "轉換失敗";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Conversion Succeed" = "轉換成功";
 
-/* TODO */
-"Convert latitude and longitude to human-readable address." = "Convert latitude and longitude to human-readable address.";
+/* Translated with LLM */
+"Convert latitude and longitude to human-readable address." = "將經緯度轉換為人類可讀的地址。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Convert Now" = "立即轉換";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Converting" = "轉換中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copied" = "已複製";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy" = "複製";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Key" = "複製鍵";
 
-/* TODO */
-"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+/* Translated with LLM */
+"Copy or reset the current WebDAV password." = "複製或重設目前的 WebDAV 密碼。";
 
-/* TODO */
-"Copy Password" = "Copy Password";
+/* Translated with LLM */
+"Copy Password" = "複製密碼";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Path" = "複製路徑";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Transcript" = "複製轉錄";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Value" = "複製值";
 
-/* TODO */
-"Could not acquire token: %@" = "Could not acquire token: %@";
+/* Translated with LLM */
+"Could not acquire token: %@" = "無法取得權杖：%@";
 
-/* TODO */
-"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+/* Translated with LLM */
+"Could not acquire token: No result returned." = "無法取得權杖：未返回結果";
 
-/* TODO */
-"Could not get graph result: %@" = "Could not get graph result: %@";
+/* Translated with LLM */
+"Could not get graph result: %@" = "無法取得圖表結果：%@";
 
-/* TODO */
-"Could not sign out account: %@" = "Could not sign out account: %@";
+/* Translated with LLM */
+"Could not sign out account: %@" = "無法登出帳戶：%@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Created At" = "創建於";
 
-/* TODO */
-"Credentials" = "Credentials";
+/* Translated with LLM */
+"Credentials" = "登入憑證";
 
-/* TODO */
-"Custom CLI Options" = "Custom CLI Options";
+/* Translated with LLM */
+"current call" = "當前通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"current call duration" = "目前通話時長";
+
+/* Translated with LLM */
+"Custom CLI Options" = "自訂 CLI 選項";
+
+/* Translated with LLM */
 "Custom Export Name" = "自定義匯出名稱";
 
-/* TODO */
-"Custom Key Combination…" = "Custom Key Combination…";
+/* Translated with LLM */
+"Custom Key Combination…" = "自訂按鍵組合⋯";
 
-/* No comment provided by engineer. */
-"Custom Layout Guide" = "自定義安全區域";
+/* Translated with LLM */
+"Custom Layout Guide" = "自訂佈局指南";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "自定義一個矩形區域以幫助您在螢幕上定位懸浮球。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "daemon" = "守護進程";
 
-/* TODO */
-"Daily Arranged" = "Daily Arranged";
+/* Translated with LLM */
+"daemon running" = "守護進程運行中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"daemon service" = "守護進程服務";
+
+/* Translated with LLM */
+"Daily Arranged" = "每日整理";
+
+/* Translated with LLM */
 "Date & Time" = "日期與時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Day of Month Number" = "月份日期";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Day of Week String" = "星期幾";
 
-/* No comment provided by engineer. */
-"deactivate" = "deactivate";
+/* Translated with LLM */
+"deactivate" = "停用";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deactivate" = "反激活";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deactivate & Sign Out" = "反激活並退出登入狀態";
 
-/* No comment provided by engineer. */
-"Deactivate the recorder hoverball." = "啟動服務，并關閉錄音懸浮球。";
+/* Translated with LLM */
+"deactivate hoverball" = "停用懸浮球";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Deactivate the recorder hoverball." = "停用錄音懸浮球。";
+
+/* Translated with LLM */
 "Debugging" = "調試";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "decline" = "拒接";
 
-/* TODO */
-"Decoding" = "Decoding";
+/* Translated with LLM */
+"decline call" = "拒接來電";
 
-/* No comment provided by engineer. */
-"Default" = "缺省";
+/* Translated with LLM */
+"Decoding" = "解碼中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Default" = "預設";
+
+/* Translated with LLM */
 "Delete" = "刪除";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Recording" = "删除錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Selected %ld Items" = "刪除選中的 %ld 項";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Selected Item" = "刪除選中項";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deleting" = "刪除中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deselect All" = "取消全選";
 
-/* TODO */
-"Detail Only" = "Detail Only";
+/* Translated with LLM */
+"Detail Only" = "僅詳細";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Developer Options" = "開發者選項";
 
-/* TODO */
-"Digital Video" = "Digital Video";
+/* Translated with LLM */
+"Digital Video" = "數碼影片";
 
-/* No comment provided by engineer. */
-"Direction" = "通話類型";
+/* Translated with LLM */
+"Direction" = "通話方向";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction Capitalized" = "通話方向（首字母大寫）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction Description" = "通話方向（描述）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "directory" = "目錄";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Directory" = "目錄";
 
-/* TODO */
-"Directory not found." = "Directory not found.";
+/* Translated with LLM */
+"Directory not found." = "找不到目錄。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disabled" = "關閉";
 
-/* TODO */
-"Disallow" = "Disallow";
+/* Translated with LLM */
+"Disallow" = "不允許";
 
-/* TODO */
-"Disallow Automatic Recording" = "Disallow Automatic Recording";
+/* Translated with LLM */
+"Disallow Automatic Recording" = "不允許自動錄音";
 
-/* TODO */
-"Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
+/* Translated with LLM */
+"Disallow Hoverball Wake-Ups" = "不允許喚醒懸浮球";
 
-/* TODO */
-"Discard" = "Discard";
+/* Translated with LLM */
+"Discard" = "捨棄";
 
-/* TODO */
-"discard" = "discard";
+/* Translated with LLM */
+"discard" = "捨棄";
 
-/* TODO */
-"Discard Changes" = "Discard Changes";
+/* Translated with LLM */
+"Discard Changes" = "捨棄變更";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard Recording" = "丟棄錄音";
 
-/* TODO */
-"Discreet Mode" = "Discreet Mode";
+/* Translated with LLM */
+"discard recording" = "丟棄錄音";
 
-/* No comment provided by engineer. */
-"Discreet Voice Memos" = "隱秘語音備忘錄";
+/* Translated with LLM */
+"Discreet Mode" = "低調模式";
 
-/* No comment provided by engineer. */
-"Dismiss" = "忽略";
+/* Translated with LLM */
+"Discreet Voice Memos" = "隱秘語音備忘錄";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Dismiss" = "關閉";
+
+/* Translated with LLM */
 "Display a notification banner and play an audible notice." = "顯示通知橫幅時發出提示音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner and update the badge above the application icon." = "顯示通知橫幅時更新應用程式圖標上的角標。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when recording ends." = "錄音結束時，顯示通知橫幅。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when recording starts." = "錄音開始時，顯示通知橫幅。";
 
-/* TODO */
-"Display a notification banner when the synchronization fails." = "Display a notification banner when the synchronization fails.";
+/* Translated with LLM */
+"Display a notification banner when the synchronization fails." = "同步失敗時顯示通知橫額。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the detail of recordings in the notification banner." = "在通知橫幅中顯示錄音的詳細資訊。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the exact duration of the recorded audio." = "顯示已錄製音訊的精準時間長度。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball during a call in the current application." = "在當前應用程式中通話時顯示懸浮球。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball during a call." = "在通話中顯示懸浮球。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "當音訊輸入和輸出都處於持續活躍狀態時，顯示懸浮球。";
 
-/* TODO */
-"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Display the hoverball when record voice memo through this application, or the call recording is manually initiated.";
+/* Translated with LLM */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "當透過此應用程式錄製語音備忘錄，或手動開始通話錄音時，顯示懸浮球。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the name or description of each option." = "顯示每個選項的名稱或描述。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the names of contacts in your address book instead of their phone numbers." = "顯示通訊錄中聯絡人的姓名，而不是他們的電話號碼。";
 
-/* No comment provided by engineer. */
-"Display the path extension as the format of the recording." = "顯示錄音的檔案格式，即其路徑的擴展名。";
+/* Translated with LLM */
+"Display the path extension as the format of the recording." = "顯示錄音的檔案格式，即其路徑的副檔名。";
 
-/* No comment provided by engineer. */
-"Display the preview images of the audio waveform of short recordings." = "顯示簡短錄音的音訊波形預覽視圖。";
+/* Translated with LLM */
+"Display the preview images of the audio waveform of short recordings." = "顯示簡短錄音的音訊波形預覽圖。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the short name of the SIM card used for the recording if available." = "如果可用，顯示此錄音通話時所使用的 SIM 卡的簡稱。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the source bundle name of the recording." = "顯示錄音來源的捆綁包名稱。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Displays a local notification." = "顯示本地通知。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Do you want to clear this log file “%@”?" = "你確認要清除日志檔案 “%@” 嗎？";
 
-/* TODO */
-"Do you want to merge recordings with “%@”?" = "Do you want to merge recordings with “%@”?";
+/* Translated with LLM */
+"Do you want to merge recordings with “%@”?" = "你確定要將錄音合併到「%@」嗎？";
 
-/* No comment provided by engineer. */
-"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你確認要重設軟件授權，并將所有設定還原為原始值嗎？你的錄音檔案不會被刪除。";
+/* Translated with LLM */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "你確認要重設軟件授權，並將所有設定還原為原始值嗎？你的錄音檔案不會被刪除。";
 
-/* No comment provided by engineer. */
-"Done" = "已完成";
+/* Translated with LLM */
+"Done" = "完成";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Don’t ask again" = "不再詢問";
 
-/* TODO */
-"Don’t Merge" = "Don’t Merge";
+/* Translated with LLM */
+"Don’t Merge" = "不要合併";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Double tap to restore __all edges__  \nto their default sizes." = "輕觸兩次以恢復 __所有邊緣__ 至默認尺寸。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Downlink (Speaker)" = "下行（揚聲器）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
 
-/* TODO */
-"Drive ID" = "Drive ID";
+/* Translated with LLM */
+"Drive ID" = "磁碟機 ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dropbox" = "Dropbox";
 
-/* TODO */
-"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
+/* Translated with LLM */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "由於環境限制，如果你遇到空白或遺失的小工具，請嘗試重新啟動裝置，或從 TrollStore 重建圖示快取。";
 
-/* No comment provided by engineer. */
-"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "由於技術原因，非 CallKit 通話不會觸發與通話狀態相關的自動化動作。";
+/* Translated with LLM */
+"Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here." = "由於技術限制，自動化相關功能必須透過「捷徑」App 實現。你可以開啟「捷徑」App，建立一個包含「TrollRecorder」動作的新捷徑，然後在此處選擇它。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states." = "由於技術原因，非 CallKit 通話不會觸發與通話狀態相關的自動化動作。";
+
+/* Translated with LLM */
 "Duration" = "持續時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "duration" = "持續時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration Before Idle" = "閑置時長";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration Description" = "持續時間（描述）";
 
-/* TODO */
-"Duration exceeded." = "Duration exceeded.";
+/* Translated with LLM */
+"Duration exceeded." = "超過時限。";
 
-/* No comment provided by engineer. */
-"Dynamic Transition" = "僅轉場";
+/* Translated with LLM */
+"Dynamic Transition" = "動態轉場";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "E.U.L.A." = "最終用戶授權合約";
 
-/* TODO */
-"Edit" = "Edit";
+/* Translated with LLM */
+"Edit" = "編輯";
 
-/* TODO */
-"Edit Argument" = "Edit Argument";
+/* Translated with LLM */
+"Edit Argument" = "編輯參數";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"elapsed recording time" = "已錄製時間";
+
+/* Translated with LLM */
 "Empty Trash" = "清空回收站";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Empty Trash (%@)" = "清空回收站 (%@)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Biometric Authentication" = "啟用生物特徵識別驗證";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Face ID" = "啟用 Face ID";
 
-/* TODO */
-"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+/* Translated with LLM */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "啟用電平計量，並在懸浮球摺疊時顯示指示器。此選項僅在「閒置效果」設定為「始終摺疊」時可用。";
 
-/* No comment provided by engineer. */
-"Enable Logging" = "啟用日志";
+/* Translated with LLM */
+"Enable Logging" = "啟用記錄";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Optic ID" = "啟用 Optic ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Touch ID" = "啟用 Touch ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable WebDAV Server" = "啟用 WebDAV 伺服器";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enabled" = "啟用";
 
-/* No comment provided by engineer. */
-"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "當應用程式進入背景且最後一個連線關閉時，自動停止 WebDAV 服務。當應用程式回到前景時恢復服務。";
+/* Translated with LLM */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "當應用程式進入背景且最後一個連線關閉時，自動暫停 WebDAV 服務。當應用程式回到前景時恢復服務。";
 
-/* TODO */
-"Encoding" = "Encoding";
+/* Translated with LLM */
+"Encoding" = "編碼";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"end calls" = "結束通話";
+
+/* Translated with LLM */
 "End Date" = "結束日期";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "End Editing" = "結束編輯";
 
-/* TODO */
-"Enhance Recording" = "Enhance Recording";
+/* Translated with LLM */
+"end recording" = "結束錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"end screen recording" = "結束螢幕錄影";
+
+/* Translated with LLM */
+"Enhance Recording" = "增強錄音";
+
+/* Translated with LLM */
 "Enhanced Automatic Recording" = "增强自動錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enhanced Scene Identification" = "增强通話場景識別";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ensure Daemon Is Running" = "檢查守護進程";
 
-/* TODO */
-"Enter Pairing Code" = "Enter Pairing Code";
+/* Translated with LLM */
+"Enter Pairing Code" = "輸入配對碼";
 
-/* TODO */
-"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+/* Translated with LLM */
+"Enter the 4-digit code displayed on “%@”." = "請輸入「%@」上顯示的4位數字代碼。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enter your password" = "輸入密碼";
 
-/* TODO */
-"Erase All" = "Erase All";
+/* Translated with LLM */
+"Erase All" = "全部清除";
 
-/* TODO */
-"Erase all recordings, reset all settings, and clear all caches completely." = "Erase all recordings, reset all settings, and clear all caches completely.";
+/* Translated with LLM */
+"Erase all recordings, reset all settings, and clear all caches completely." = "徹底清除所有錄音、重設所有設定，並完全清除所有快取。";
 
-/* TODO */
-"Erase Almost Completed" = "Erase Almost Completed";
+/* Translated with LLM */
+"Erase Almost Completed" = "抹除幾乎完成";
 
-/* TODO */
-"Erasing…" = "Erasing…";
+/* Translated with LLM */
+"Erasing…" = "正在抹除…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error" = "錯誤";
 
-/* TODO */
-"Error from network storage" = "Error from network storage";
+/* Translated with LLM */
+"Error from network storage" = "網絡儲存發生錯誤";
 
-/* TODO */
-"Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
+/* Translated with LLM */
+"Error retrieving discovery document: %@" = "擷取探索文件時發生錯誤：%@";
 
-/* No comment provided by engineer. */
-"exit" = "exit";
+/* Translated with LLM */
+"exit" = "退出";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Exit Hoverball" = "關閉懸浮球";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Expand Recursively" = "遞歸展開";
 
-/* TODO */
-"Export as is…" = "Export as is…";
+/* Translated with LLM */
+"Export as is…" = "原樣匯出⋯";
 
-/* TODO */
-"Export as ZIP" = "Export as ZIP";
+/* Translated with LLM */
+"Export as ZIP" = "匯出為 ZIP";
 
-/* No comment provided by engineer. */
-"Export recordings to anywhere you want without limitations." = "將錄音匯出並保存到任何地方。";
+/* Translated with LLM */
+"Export recordings to anywhere you want without limitations." = "將錄音匯出到任何你想去的地方，無任何限制。";
 
-/* TODO */
-"Export Service Ready" = "Export Service Ready";
+/* Translated with LLM */
+"Export Service Ready" = "匯出服務已就緒";
 
-/* TODO */
-"Export to Another Device" = "Export to Another Device";
+/* Translated with LLM */
+"Export to Another Device" = "匯出至其他裝置";
 
-/* TODO */
+/* Translated with LLM */
 "Export to Anywhere" = "任意匯出";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Export with Metadata" = "匯出元數據";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Exporting" = "匯出中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime" = "FaceTime";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime Audio" = "FaceTime 音訊";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime Exclusion List" = "FaceTime 排除列表";
 
 /* No comment provided by engineer. */
@@ -1048,2486 +1162,2708 @@
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to export %d recordings" = "無法匯出 %d 條錄音";
 
-/* No comment provided by engineer. */
-"Failed to initialize speech recognizer using current locale “%@”." = "無法以當前區域 “%@” 初初始化轉錄引擎。";
+/* Translated with LLM */
+"Failed to initialize speech recognizer using current locale “%@”." = "無法以當前區域 “%@” 初始化轉錄引擎。";
 
-/* TODO */
-"Failed to open file pipe" = "Failed to open file pipe";
+/* Translated with LLM */
+"Failed to open file pipe" = "無法開啟檔案管道";
 
-/* TODO */
-"Failed to perform “%@” operation with service provider “%@”." = "Failed to perform “%1$@” operation with service provider “%2$@”.";
+/* Translated with LLM */
+"Failed to perform “%@” operation with service provider “%@”." = "無法與服務提供者「%2$@」執行「%1$@」操作。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to play: %@" = "無法播放：%@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to recover: %@" = "無法恢復：%@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to remove: %@" = "無法刪除：%@";
 
-/* TODO */
-"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
+/* Translated with LLM */
+"Failed to spawn process, reason: %s (%d)" = "無法啟動程序，原因：%s (%2$d)";
 
-/* TODO */
-"Fatal error occurred. You may need to re-authorize to continue." = "Fatal error occurred. You may need to re-authorize to continue.";
+/* Translated with LLM */
+"Failed to start audio player." = "無法啟動音訊播放器。";
 
-/* TODO */
-"Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
+/* Translated with LLM */
+"Fatal error occurred. You may need to re-authorize to continue." = "發生致命錯誤。你可能需要重新授權才能繼續。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Features on this page are under active development, hang tight!" = "此頁面上的功能正在積極開發中，請耐心等候！";
+
+/* Translated with LLM */
 "Features Unlocked" = "功能已解鎖";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "file" = "檔案";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File Format" = "檔案格式";
 
-/* TODO */
-"File not found." = "File not found.";
+/* Translated with LLM */
+"File not found." = "找不到檔案。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File Size" = "檔案大小";
 
-/* TODO */
-"File System" = "File System";
+/* Translated with LLM */
+"File System" = "檔案系統";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Filter" = "過濾器";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Finalizing" = "完成中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "finish" = "結束";
 
-/* TODO */
-"Fix File-System" = "Fix File-System";
+/* Translated with LLM */
+"finish call" = "結束通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Fix File-System" = "修復檔案系統";
+
+/* Translated with LLM */
 "Focus" = "聚焦";
 
-/* TODO */
-"Fold When Inactive" = "Fold When Inactive";
+/* Translated with LLM */
+"Fold When Inactive" = "閒置時摺疊";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Follow System" = "跟隨系統";
 
-/* TODO */
-"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+/* Translated with LLM */
+"Force the app to use a specific language. Reopen to apply changes." = "強制應用程式使用特定語言。重新開啟以套用變更。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Format" = "格式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Formatted Location" = "地理位置（格式化）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Forward 15 Seconds" = "前進 15 秒";
 
-/* No comment provided by engineer. */
-"Frequently Asked Questions" = "獲取幫助";
+/* Translated with LLM */
+"Frequently Asked Questions" = "常見問題";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From %@" = "起始於 %@";
 
-/* TODO */
-"From %@ to %@" = "From %1$@ to %2$@";
+/* Translated with LLM */
+"From %@ to %@" = "由 %1$@ 至 %2$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From: %@" = "起始於：%@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From…" = "起始於…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full" = "完整";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"full backup sync" = "完整備份同步";
+
+/* Translated with LLM */
 "Full Date" = "完整日期";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Month Name" = "月份名稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Time" = "完整時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Year" = "完整年份";
 
-/* TODO */
-"Get ${requestedField}" = "Get ${requestedField}";
+/* Translated with LLM */
+"Get ${requestedField}" = "取得 ${requestedField}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get advanced control when recording right in your call." = "在通話中打開控制面板即可控制錄製參數。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Call Duration" = "獲取通話時長";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Call Status" = "獲取通話狀態";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get In Touch" = "保持聯絡";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get notifications after record complete." = "錄音完成後可推送通知提醒。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Duration" = "獲取錄音持續時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Paths" = "獲取錄音路徑";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Status" = "獲取錄音狀態";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording duration of the Troll Recorder." = "獲取巨魔錄音機當前的錄音時長。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording paths of the Troll Recorder." = "獲取巨魔錄音機當前的錄音路徑。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording status of the Troll Recorder." = "獲取巨魔錄音機當前的錄音狀態。";
 
-/* No comment provided by engineer. */
-"Get the primary call duration of the device." = "獲取主要通話的時長。";
+/* Translated with LLM */
+"Get the primary call duration of the device." = "獲取裝置主要通話的時長。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the primary call status of the device." = "獲取主要通話的狀態。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Go Home When Unlocked" = "解鎖後回到主螢幕";
 
-/* No comment provided by engineer. */
-"Google Drive" = "Google 雲端硬碟";
+/* Translated with LLM */
+"Google Drive" = "Google 雲端硬碟";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Group Call" = "群組通話";
 
-/* TODO */
-"Hide Hoverball" = "Hide Hoverball";
+/* Translated with LLM */
+"hang up calls" = "掛斷通話";
 
-/* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏 “語音備忘錄” 在鎖屏界面上的顯示，並隱藏其 “動態島” 活動。此功能可能需要妙手回春才能完全生效。";
+/* Translated with LLM */
+"hang up incoming call" = "掛斷來電";
 
-/* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "隱藏 “錄音機” 在鎖定螢幕上的顯示，並隱藏其 “動態島” 活動。你需要通過 TrollFools 或其他類似技術將其注入到 “錄音機” 應用程式中。";
+/* Translated with LLM */
+"Hide Hoverball" = "隱藏懸浮球";
 
-/* TODO */
-"Hide When Landscape" = "Hide When Landscape";
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏「語音備忘錄」在鎖定畫面嘅顯示，並隱藏其「動態島」活動。此功能可能需要重新載入 SpringBoard 才能完全生效。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "隱藏「錄音機」在鎖定螢幕上的顯示，並隱藏其「動態島」活動。你需要透過 TrollFools 或類似技術將其注入到「錄音機」應用程式中。";
+
+/* Translated with LLM */
+"Hide When Landscape" = "橫向時隱藏";
+
+/* Translated with LLM */
 "Hide When Snapshot" = "螢幕截圖時隱藏";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours Minutes Seconds" = "小時/分鐘/秒";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours, 12-hour Clock" = "小時（12小時制）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours, 24-hour Clock" = "小時（24小時制）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball" = "懸浮球";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Plus" = "懸浮球 +";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Size" = "尺寸";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Style" = "顯示樣式";
 
 /* No comment provided by engineer. */
 "hud" = "hud";
 
-/* No comment provided by engineer. */
-"HUD_CALL_RECORDING" = "開始通話錄音";
+/* Translated with LLM */
+"HUD_CALL_RECORDING" = "通話錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hyphen" = "連字符";
 
-/* No comment provided by engineer. */
-"I Agree to the E.U.L.A." = "我已经阅读并同意《最終用戶授權合約》";
+/* Translated with LLM */
+"I Agree to the E.U.L.A." = "我同意《最終用戶授權合約》";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "icloud" = "iCloud";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"icloud backup" = "iCloud 備份";
+
+/* Translated with LLM */
 "iCloud Drive" = "iCloud 雲碟";
 
-/* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
+/* Translated with LLM */
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP 備案號：蘇ICP備15002715號-2A";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Idle" = "空閑";
 
-/* TODO */
-"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
+/* Translated with LLM */
+"If the value contains spaces, please enclose it in quotes." = "如果值包含空格，請用引號括住。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜尋索引出了問題，可以在這裡重新設定。";
 
-/* TODO */
-"If there’s no active phone call, press and hold the power button to perform specified action." = "If there’s no active phone call, press and hold the power button to perform specified action.";
+/* Translated with LLM */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "如果沒有正在進行的通話，長按電源鍵執行指定動作。";
 
-/* TODO */
-"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
+/* Translated with LLM */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "如果沒有正在進行的通話，同時按下兩個實體音量按鈕以執行指定動作。";
 
-/* TODO */
-"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here.";
+/* Translated with LLM */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "如果你使用 Filza 修改了錄音，或遇到任何檔案系統權限問題，可以在這裡修復。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果您的手機支援 2 張 SIM 卡，錄音通話時所使用的 SIM 卡別名將顯示在這裏。";
 
-/* TODO */
-"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered.";
+/* Translated with LLM */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "如果你已啟用「使用 iCloud 備份」且備份同步成功，便會觸發此動作。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "忽略所有目錄和檔案的最後修改日期，並深度克隆所有錄音。";
 
-/* TODO */
-"Import as Ringtone" = "Import as Ringtone";
+/* Translated with LLM */
+"Import as Ringtone" = "匯入為鈴聲";
 
-/* TODO */
-"Import Complete" = "Import Complete";
+/* Translated with LLM */
+"Import Complete" = "導入完成";
 
-/* TODO */
-"Import Failed" = "Import Failed";
+/* Translated with LLM */
+"Import Failed" = "匯入失敗";
 
-/* TODO */
-"Import From Another Device" = "Import From Another Device";
+/* Translated with LLM */
+"Import From Another Device" = "從其他裝置匯入";
 
-/* TODO */
-"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+/* Translated with LLM */
+"Import recordings from the Troll Recorder on another device within the local area network." = "從區域網絡內另一部裝置上的 Troll Recorder 匯入錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "In 1 Hour" = "1 小時内";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "In 15 Minutes" = "15 分鐘内";
 
-/* TODO */
-"Inaccurate Time Detected" = "Inaccurate Time Detected";
+/* Translated with LLM */
+"Inaccurate Time Detected" = "偵測到不準確時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming" = "來電";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "incoming" = "來電";
 
-/* No comment provided by engineer. */
-"Incoming Call" = "來電時";
+/* Translated with LLM */
+"Incoming Call" = "來電";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"incoming call" = "來電";
+
+/* Translated with LLM */
 "Incoming Call Answered" = "來電接通時";
 
-/* No comment provided by engineer. */
-"Incoming Call Hang Up" = "來電挂斷時";
+/* Translated with LLM */
+"Incoming Call Hang Up" = "來電掛斷時";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming call recording from “%@” and other %ld applications." = "來自 “%@” 和其他 %ld 個應用程式的來電錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming call recording from “%@”." = "來自 “%@” 的來電錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Inconsistency Found" = "配置不一致";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Install" = "安裝";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Install Call History Tweak" = "安裝通話記錄插件";
 
-/* TODO */
-"Invalid Code Signature" = "Invalid Code Signature";
+/* Translated with LLM */
+"Invalid Code Signature" = "無效的程式碼簽署";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "無效的程式碼簽名。\n請從 TrollStore 重新安裝此應用程式。";
 
-/* TODO */
+/* Translated with LLM */
 "iPad" = "iPad";
 
-/* TODO */
+/* Translated with LLM */
 "iPhone" = "iPhone";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Favourite" = "是否收藏";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Finalized" = "是否處理完成";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Finalizing" = "是否正在處理";
 
-/* TODO */
-"Is Microphone Enabled" = "Is Microphone Enabled";
+/* Translated with LLM */
+"Is Microphone Enabled" = "是否啟用麥克風";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Paused" = "是否已經暫停";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"is recording" = "正在錄製";
+
+/* Translated with LLM */
 "Is Running" = "是否正在錄製";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Item #%lu" = "項 #%lu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Just in case that you love it." = "但願你鍾意。";
 
-/* No comment provided by engineer. */
-"Just now" = "現在";
+/* Translated with LLM */
+"Just now" = "剛剛";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Keep Screen On When Connected" = "連線時保持螢幕常亮";
 
-/* TODO */
-"Keyboard Avoidance" = "Keyboard Avoidance";
+/* Translated with LLM */
+"Keyboard Avoidance" = "鍵盤避讓";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Kill all applications and restart the render server (backboardd)." = "關閉所有應用程式並重啟渲染服務（backboardd）";
 
-/* TODO */
-"Language Changed" = "Language Changed";
+/* Translated with LLM */
+"Language Changed" = "語言已更改";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Larger" = "較大";
 
-/* TODO */
-"Last successful synchronization: %@" = "Last successful synchronization: %@";
+/* Translated with LLM */
+"Last successful synchronization: %@" = "上次成功同步：%@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Later" = "稍後";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "launch" = "啟動";
 
-/* TODO */
-"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+/* Translated with LLM */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "啟動臨時 WebDAV 伺服器，並在區域網絡內廣播，讓另一部裝置上的 Troll Recorder 能夠發現它。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Launch App at End" = "結束時啟動應用程式";
 
-/* No comment provided by engineer. */
-"Launch Shield" = "啟動守護";
+/* Translated with LLM */
+"Launch Shield" = "啟動守護";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Leading & Trailing" = "左右邊緣";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "leading edge" = "左部邊緣";
 
-/* TODO */
-"Legacy Jailbreak" = "Legacy Jailbreak";
+/* Translated with LLM */
+"Legacy Jailbreak" = "傳統越獄";
 
-/* TODO */
-"Less serious error occurred." = "Less serious error occurred.";
+/* Translated with LLM */
+"Less serious error occurred." = "發生較輕微的錯誤。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Lifetime Guarantee" = "一次購買終身可用";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Link Device to Havoc" = "將裝置連線到 Havoc";
 
-/* TODO */
-"List" = "List";
+/* Translated with LLM */
+"List" = "列表";
 
-/* TODO */
-"List and Detail" = "List and Detail";
+/* Translated with LLM */
+"List and Detail" = "列表與詳細";
 
-/* TODO */
-"List view enabled" = "List view enabled";
+/* Translated with LLM */
+"List view enabled" = "已啟用列表檢視";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Loading…" = "載入中…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"local notification" = "本地通知";
+
+/* Translated with LLM */
 "Local Storage" = "本地儲存";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Localized name of the provider application. That is, where this recording comes from." = "提供方應用程式的本地化名稱，即這段錄音從何而來。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Locate in Maps" = "在地圖中定位";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location" = "地理位置";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location Permission Denied" = "地理位置被拒絕訪問";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location Services" = "位置服務";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Locked" = "已鎖定";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Log Viewer" = "日志檢視器";
 
-/* No comment provided by engineer. */
-"Logging" = "日志";
+/* Translated with LLM */
+"Logging" = "記錄";
 
-/* TODO */
-"Login Name: %@" = "Login Name: %@";
+/* Translated with LLM */
+"Login Name: %@" = "登入名稱：%@";
 
-/* TODO */
-"Login Password: " = "Login Password: ";
+/* Translated with LLM */
+"Login Password: " = "登入密碼：";
 
-/* TODO */
-"Login Tips" = "Login Tips";
+/* Translated with LLM */
+"Login Tips" = "登入提示";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long Date" = "長日期";
 
-/* No comment provided by engineer. */
-"Long press the hoverball to start or stop recording by convenience." = "長按懸浮球以方便地開始或停止錄音。";
+/* Translated with LLM */
+"Long press the hoverball to start or stop recording by convenience." = "長按懸浮球即可開始或停止錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long Time" = "長時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Low Disk Space" = "磁碟空間不足";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Made with ♥ by OwnGoal Studio" = "「烏龍工作室」製作";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mail composition failed" = "郵件發送失敗";
 
-/* TODO */
-"Maintenance" = "Maintenance";
+/* Translated with LLM */
+"Maintenance" = "維護";
 
-/* TODO */
-"Make a ${requestedMode} recording" = "Make a ${requestedMode} recording";
+/* Translated with LLM */
+"Make a ${requestedMode} recording" = "進行 ${requestedMode} 錄製";
 
-/* TODO */
-"Make a new recording, or stop an existing one." = "Make a new recording, or stop an existing one.";
+/* Translated with LLM */
+"Make a new recording, or stop an existing one." = "開始新的錄音，或停止現有的錄音。";
 
-/* TODO */
-"Make a new voice memo, or stop an existing one." = "Make a new voice memo, or stop an existing one.";
+/* Translated with LLM */
+"Make a new voice memo, or stop an existing one." = "開始新的語音備忘錄，或停止現有的錄音。";
 
-/* No comment provided by engineer. */
-"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在備份域中創建錄音的淺拷貝，並允許 iCloud 備份中包含這些副本。";
+/* Translated with LLM */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "在備份域中為錄音建立淺拷貝，並允許 iCloud 備份包含這些副本。";
 
-/* No comment provided by engineer. */
-"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "使關聯的通話錄音展示在通話記錄頁面，跳轉到巨魔錄音機進行回播。";
+/* Translated with LLM */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "使關聯的通話錄音顯示在通話記錄頁面，跳轉到 TrollRecorder 進行播放。";
 
-/* TODO */
-"Make the device ring or vibrate when recording ends." = "Make the device ring or vibrate when recording ends.";
+/* Translated with LLM */
+"Make the device ring or vibrate when recording ends." = "在錄音結束時讓裝置響鈴或震動。";
 
-/* TODO */
-"Make the device ring or vibrate when recording starts." = "Make the device ring or vibrate when recording starts.";
+/* Translated with LLM */
+"Make the device ring or vibrate when recording starts." = "在錄音開始時讓裝置響鈴或震動。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "在進行螢幕截圖或螢幕錄影時使懸浮球不可見。";
 
-/* TODO */
-"Make the hoverball invisible when the device is in landscape orientation." = "Make the hoverball invisible when the device is in landscape orientation.";
+/* Translated with LLM */
+"Make the hoverball invisible when the device is in landscape orientation." = "當裝置處於橫向方向時，讓懸浮球隱形。";
 
-/* No comment provided by engineer. */
-"Make the hoverball semi-transparent or folded when leave it for a while." = "當懸浮球閑置一段時間後，使其半透明或摺曡到螢幕邊緣。";
+/* Translated with LLM */
+"Make the hoverball semi-transparent or folded when leave it for a while." = "當懸浮球閑置一段時間後，使其半透明或摺疊到螢幕邊緣。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Making a phone call to begin recording." = "進行通話以開始錄製。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mark" = "收藏";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Maximum" = "最大";
 
-/* TODO */
-"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
+/* Translated with LLM */
+"Maybe you should look elsewhere — anywhere but here." = "或者你應該去別處看看 — 反正不是這裡。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium" = "適中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium Date" = "中等日期";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium Time" = "中等時間";
 
-/* TODO */
-"Merge" = "Merge";
+/* Translated with LLM */
+"Merge" = "合併";
 
-/* No comment provided by engineer. */
-"Merged File" = "合并檔案";
+/* Translated with LLM */
+"Merged File" = "合併檔案";
 
-/* No comment provided by engineer. */
-"Message" = "消息";
+/* Translated with LLM */
+"Message" = "訊息";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Metadata" = "元數據";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Microphone" = "咪高風";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "microphone" = "咪高風";
 
-/* No comment provided by engineer. */
-"Microphone and speaker are recorded in different channels." = "咪高風和揚聲器在不同的檔案中錄音。";
+/* Translated with LLM */
+"Microphone and speaker are recorded in different channels." = "咪高風和揚聲器在不同的聲道中錄音。";
 
-/* TODO */
+/* Translated with LLM */
+"microphone audio" = "麥克風音訊";
+
+/* Translated with LLM */
+"microphone off" = "咪高風關閉";
+
+/* Translated with LLM */
+"microphone on" = "咪高風開啟";
+
+/* Translated with LLM */
+"microphone speech" = "咪高峰語音";
+
+/* Translated with LLM */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Minutes" = "分鐘";
 
-/* TODO */
-"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”.";
+/* Translated with LLM */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "缺少存取 Google Drive 的必要權限。請重新與 Google 授權，並授予「TrollRecorder」所有「Google Drive」的權限。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixed" = "混合";
 
-/* No comment provided by engineer. */
-"Mixer & Combiner" = "混音器與合并器";
+/* Translated with LLM */
+"Mixer & Combiner" = "混音器與合併器";
 
-/* No comment provided by engineer. */
-"Mixer Audio Format" = "音訊格式";
+/* Translated with LLM */
+"Mixer Audio Format" = "混音器音訊格式";
 
-/* No comment provided by engineer. */
-"Mixer File Format" = "檔案格式";
+/* Translated with LLM */
+"Mixer File Format" = "混音器檔案格式";
 
-/* No comment provided by engineer. */
-"Mixer Quality" = "Mixer Quality";
+/* Translated with LLM */
+"Mixer Quality" = "混音器質素";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Month Number" = "月份";
 
-/* TODO */
-"Monthly Arranged" = "Monthly Arranged";
+/* Translated with LLM */
+"Monthly Arranged" = "每月整理";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "More icons, more innovation." = "多點圖標，多點新意。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "More Options" = "更多選項";
 
-/* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "將删除的錄音移動到一個特殊的資料檔案夾，允許你在改變主意或後來意識到需要它們時恢復已删除的項目。";
+/* Translated with LLM */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "將已刪除的錄音移至一個特殊資料夾，讓你在改變主意或之後發現需要它們時，可以還原這些錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "MPEG-4 Audio" = "MPEG-4 音訊 (m4a)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "mute" = "靜音";
 
-/* TODO */
-"Mute ${requestedChannel}" = "Mute ${requestedChannel}";
+/* Translated with LLM */
+"Mute ${requestedChannel}" = "將 ${requestedChannel} 靜音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"mute call" = "靜音通話";
+
+/* Translated with LLM */
+"mute call audio" = "靜音通話音訊";
+
+/* Translated with LLM */
 "Mute Existing Calls" = "靜音現有通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mute specified channel of all existing calls." = "靜音所有通話的指定通道。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "My Favourite" = "已收藏";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "My Favourites" = "我的收藏";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Name" = "名稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Name with Alias" = "帶別名的名稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Network Storage" = "網絡儲存";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Never" = "從不";
 
-/* TODO */
-"Never Show This Again" = "Never Show This Again";
+/* Translated with LLM */
+"Never Show This Again" = "不再顯示此訊息";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New" = "新";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New Matching Pattern" = "新匹配條目";
 
-/* No comment provided by engineer. */
-"New Version Available" = "有更新可用";
+/* Translated with LLM */
+"new recording" = "新錄音";
 
-/* TODO */
-"New Version Installed" = "New Version Installed";
+/* Translated with LLM */
+"New Version Available" = "有新版本可用";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"New Version Installed" = "已安裝新版本";
+
+/* Translated with LLM */
 "NO" = "否";
 
-/* TODO */
-"No Available Version" = "No Available Version";
+/* Translated with LLM */
+"No Available Version" = "無可用版本";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No phone number found in selected contacts." = "在選定的聯絡人中未找到電話號碼。";
 
-/* No comment provided by engineer. */
-"No phone number or email address found in selected contacts." = "在選定的聯絡人中未找到電話號碼或電郵地址/";
+/* Translated with LLM */
+"No phone number or email address found in selected contacts." = "在選定的聯絡人中未找到電話號碼或電郵地址。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Recording" = "無錄音";
 
-/* TODO */
-"No Recordings to Export" = "No Recordings to Export";
+/* Translated with LLM */
+"No Recordings to Export" = "沒有錄音可匯出";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No speech detected." = "未檢測到語音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Transition" = "關閉";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "None" = "無";
 
-/* TODO */
-"Not Implemented" = "Not Implemented";
+/* Translated with LLM */
+"Not Implemented" = "尚未實現";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not My Favourite" = "未收藏";
 
-/* TODO */
-"Not Now" = "Not Now";
+/* Translated with LLM */
+"Not Now" = "暫時不要";
 
-/* TODO */
-"Not Properly Configured" = "Not Properly Configured";
+/* Translated with LLM */
+"Not Properly Configured" = "未正確配置";
 
-/* No comment provided by engineer. */
-"Nothing Imported" = "未導入任何内容";
+/* Translated with LLM */
+"Nothing Imported" = "未導入任何內容";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Nothing Inside" = "這裏面空無一物";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "notification" = "通知";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notification Permission Denied" = "推送通知被拒絕訪問";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notifications" = "通知與提醒";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "notify" = "通知";
 
-/* TODO */
-"Notify at Begin" = "Notify at Begin";
+/* Translated with LLM */
+"Notify at Begin" = "開始時通知";
 
-/* TODO */
-"Notify at End" = "Notify at End";
+/* Translated with LLM */
+"Notify at End" = "結束時通知";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Object Viewer" = "對象檢視器";
 
-/* TODO */
-"Off" = "Off";
+/* Translated with LLM */
+"Off" = "關閉";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "OK" = "確認";
 
-/* TODO */
-"On" = "On";
+/* Translated with LLM */
+"On" = "開啟";
 
-/* TODO */
-"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+/* Translated with LLM */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "在另一部裝置上，選擇「從其他裝置輸入」，然後選取「%@」。傳輸期間請勿離開此頁面。";
 
-/* TODO */
+/* Translated with LLM */
 "OneDrive" = "OneDrive";
 
-/* TODO */
-"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+/* Translated with LLM */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "只有不在通訊錄或「VIP」清單中的聯絡人的通話才會被自動錄音。VIP 聯絡人亦會加入至我的最愛。";
 
-/* TODO */
-"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+/* Translated with LLM */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "只有來自 VIP 聯絡人的通話才會被自動錄音並加入至我的最愛。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Oops!" = "似乎出了一點小問題";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open" = "打開";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "open" = "打開";
 
-/* TODO */
-"Open Application" = "Open Application";
+/* Translated with LLM */
+"Open Application" = "開啟應用程式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Hoverball" = "打開懸浮球";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"open hoverball" = "打開懸浮球";
+
+/* Translated with LLM */
 "Open in Filza" = "在 Filza 中打開";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open in Maps" = "在地圖中打開";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Troll Recorder" = "打開巨魔錄音機";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation Failed" = "操作失敗";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation Succeed" = "操作成功";
 
-/* TODO */
-"Operation succeed, but no files transferred." = "Operation succeed, but no files transferred.";
+/* Translated with LLM */
+"Operation succeed, but no files transferred." = "操作成功，但未傳輸任何檔案。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operator Name" = "運營商名稱";
 
-/* No comment provided by engineer. */
-"Optic ID" = "Optic ID";
+/* Translated with LLM */
+"Optic ID" = "光學 ID";
 
-/* TODO */
-"Options" = "Options";
+/* Translated with LLM */
+"Options" = "選項";
 
-/* TODO */
-"Orbit" = "Orbit";
+/* Translated with LLM */
+"Orbit" = "軌道";
 
-/* TODO */
-"Orbit view enabled" = "Orbit view enabled";
+/* Translated with LLM */
+"Orbit view enabled" = "已啟用軌道檢視";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing" = "去電";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call" = "去電時";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call Answered" = "去電接通時";
 
-/* No comment provided by engineer. */
-"Outgoing Call Hang Up" = "去電挂斷時";
+/* Translated with LLM */
+"Outgoing Call Hang Up" = "去電掛斷時";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing call recording from “%@” and other %ld applications." = "來自 “%@” 和其他 %ld 個應用程式的去電錄音";
 
-/* No comment provided by engineer. */
-"Outgoing call recording from “%@”." = "來自 “%@” 的去電錄音";
+/* Translated with LLM */
+"Outgoing call recording from “%@”." = "來自「%@」的去電錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Page not found" = "未找到頁面";
 
-/* TODO */
-"Pairing code" = "Pairing code";
+/* Translated with LLM */
+"Pairing code" = "配對碼";
 
-/* TODO */
-"Passcode: %@" = "Passcode: %@";
+/* Translated with LLM */
+"Passcode: %@" = "密碼：%@";
 
-/* TODO */
-"Password (Optional)" = "Password (Optional)";
+/* Translated with LLM */
+"Password (Optional)" = "密碼（可選）";
 
-/* TODO */
-"Password Copied" = "Password Copied";
+/* Translated with LLM */
+"Password Copied" = "密碼已複製";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "path" = "路徑";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pause" = "暫停";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pause Recording" = "暫停錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Paused" = "暫停";
 
-/* No comment provided by engineer. */
-"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "執行 “使用 iCloud 備份” 和 “智能雲歸檔” 的完全同步。";
+/* Translated with LLM */
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "執行「使用 iCloud 備份」和「智能雲歸檔」的完全同步。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Perform Full Synchronization" = "執行完全同步";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"perform synchronization" = "執行同步";
+
+/* Translated with LLM */
 "Period" = "句點";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone" = "電話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "phone" = "電話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Address" = "電話號碼";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone answer" = "接聽電話";
+
+/* Translated with LLM */
 "Phone Call Exclusion List" = "通話排除列表";
 
-/* TODO */
-"phone call recording" = "phone call recording";
+/* Translated with LLM */
+"phone call recording" = "通話錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone call timer" = "電話通話計時器";
+
+/* Translated with LLM */
 "Phone Call VIP" = "通話 VIP";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Number" = "電話號碼";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Number or Email Address" = "電話號碼或電郵地址";
 
-/* TODO */
-"Physical Key Combination" = "Physical Key Combination";
+/* Translated with LLM */
+"phone status" = "電話狀態";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Physical Key Combination" = "實體按鍵組合";
+
+/* Translated with LLM */
+"pick up call" = "接聽電話";
+
+/* Translated with LLM */
 "Placemark Name" = "地標名稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play" = "播放";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "play" = "播放";
 
-/* TODO */
-"Play ${audioFile}" = "Play ${audioFile}";
+/* Translated with LLM */
+"Play ${audioFile}" = "播放 ${audioFile}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play audio file" = "播放音訊檔案";
+
+/* Translated with LLM */
 "Play Recording Warning" = "播放錄音提示";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play Sound" = "播放聲音";
 
-/* TODO */
-"Play specified audio file to the microphone." = "Play specified audio file to the microphone.";
+/* Translated with LLM */
+"Play specified audio file to the microphone." = "將指定的音訊檔案播放到麥克風。";
 
-/* No comment provided by engineer. */
-"Play specified voice-over text to the microphone." = "向咪高風播報指定的文本内容。";
+/* Translated with LLM */
+"Play specified voice-over text to the microphone." = "向咪高風播報指定的文本內容。";
 
-/* TODO */
-"Play Uplink Audio" = "Play Uplink Audio";
+/* Translated with LLM */
+"Play Through Receiver" = "透過聽筒播放";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Play Through Speaker" = "透過揚聲器播放";
+
+/* Translated with LLM */
+"Play Uplink Audio" = "播放上行鏈路音訊";
+
+/* Translated with LLM */
+"play uplink audio" = "播放上行鏈路音訊";
+
+/* Translated with LLM */
 "Play Uplink Voice-Over" = "通話語音播報";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play voice over" = "播放語音旁白";
+
+/* Translated with LLM */
 "Play/Pause" = "播放/暫停";
 
-/* TODO */
-"Playback Rate" = "Playback Rate";
+/* Translated with LLM */
+"Playback Rate" = "播放速率";
 
-/* TODO */
-"Playback Rate: %@x" = "Playback Rate: %@x";
+/* Translated with LLM */
+"Playback Rate: %@x" = "播放速率：%@x";
 
-/* TODO */
-"Playback Speed" = "Playback Speed";
+/* Translated with LLM */
+"Playback Route" = "播放路線";
 
-/* TODO */
-"Player Options" = "Player Options";
+/* Translated with LLM */
+"Player Options" = "播放器選項";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please check your mail configuration." = "請檢查你的郵件配置。";
 
-/* TODO */
-"Please enter a valid port number between 1 and 65535." = "Please enter a valid port number between 1 and 65535.";
+/* Translated with LLM */
+"Please enter a valid port number between 1 and 65535." = "請輸入一個介乎 1 至 65535 之間的有效連接埠號碼。";
 
-/* TODO */
-"Please enter the server URL." = "Please enter the server URL.";
+/* Translated with LLM */
+"Please enter the server URL." = "請輸入伺服器 URL。";
 
-/* TODO */
-"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+/* Translated with LLM */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "當我們接收來自 %@ 的錄音時，請保持兩部裝置均處於解鎖狀態。傳輸期間請勿離開此頁面。";
 
-/* TODO */
-"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network.";
+/* Translated with LLM */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "請注意，TrollRecorder 僅透過 Havoc Marketplace 獨家銷售和兌換。我們沒有透過任何其他渠道銷售。你即將打開商店頁面：如果你係第一次使用 Havoc Marketplace，我哋建議你用 Google 帳戶登入。如果你係中國大陸嘅用戶，登入 Google 需要使用特殊網絡。";
 
-/* TODO */
-"Please reinstall this application from TrollStore." = "Please reinstall this application from TrollStore.";
+/* Translated with LLM */
+"Please reinstall this application from TrollStore." = "請從 TrollStore 重新安裝此應用程式。";
 
-/* TODO */
-"Please remember to uninstall “%@” from Sileo." = "Please remember to uninstall “%@” from Sileo.";
+/* Translated with LLM */
+"Please remember to uninstall “%@” from Sileo." = "請記得從 Sileo 卸載「%@」。";
 
-/* TODO */
-"Please remember to uninstall “%@” from TrollStore." = "Please remember to uninstall “%@” from TrollStore.";
+/* Translated with LLM */
+"Please remember to uninstall “%@” from TrollStore." = "請記得從 TrollStore 卸載「%@」。";
 
-/* TODO */
-"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+/* Translated with LLM */
+"Please stay on this screen while we get everything ready." = "請留在這個畫面，我們正在準備一切。";
 
-/* TODO */
-"Please try again in a moment." = "Please try again in a moment.";
+/* Translated with LLM */
+"Please try again in a moment." = "請稍後再試。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popover Control" = "懸浮球";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Populate Location When App Starts" = "應用啟動時填充位置";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner at Begin" = "顯示開始通知";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner at End" = "顯示結束通知";
 
-/* TODO */
-"Popup Banner when Fail" = "Popup Banner when Fail";
+/* Translated with LLM */
+"Popup Banner when Fail" = "失敗時顯示通知橫額";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Badge" = "顯示通知角標";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Detail" = "顯示通知詳細資訊";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Sound" = "顯示有聲通知";
 
-/* TODO */
-"Port (Optional)" = "Port (Optional)";
+/* Translated with LLM */
+"Port (Optional)" = "連接埠（可選）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"post notification" = "發佈通知";
+
+/* Translated with LLM */
 "Preparing" = "準備中";
 
-/* TODO */
-"Preparing Export Service" = "Preparing Export Service";
+/* Translated with LLM */
+"Preparing Export Service" = "正在準備匯出服務";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Preserve All Channels" = "保留所有通道";
 
-/* TODO */
-"Press & Hold Action" = "Press & Hold Action";
+/* Translated with LLM */
+"Press & Hold Action" = "長按動作";
 
-/* TODO */
+/* Translated with LLM */
 "Press & Hold Hoverball" = "長按懸浮球";
 
-/* TODO */
-"Press & Hold Power Button" = "Press & Hold Power Button";
+/* Translated with LLM */
+"Press & Hold Power Button" = "按住電源按鈕";
 
-/* TODO */
-"Press and hold the power button to start or stop recording during a call." = "Press and hold the power button to start or stop recording during a call.";
+/* Translated with LLM */
+"Press and hold the power button to start or stop recording during a call." = "通話過程中，長按電源鍵以開始或停止錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press both of the physical volume buttons to start or stop recording during a call." = "通話過程中，同時按下兩個音量鍵以開始或停止錄音。";
 
-/* TODO */
-"Press Both Volume Buttons" = "Press Both Volume Buttons";
+/* Translated with LLM */
+"Press Both Volume Buttons" = "同時按下兩個音量按鈕";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Preview Disabled" = "預覽已關閉";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Privacy Policy" = "隱私政策";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Privacy Policy & User Agreements" = "隱私政策與用戶合約";
 
-/* TODO */
-"Private Browsing Detected" = "Private Browsing Detected";
+/* Translated with LLM */
+"Private Browsing Detected" = "偵測到無痕瀏覽";
 
-/* TODO */
-"Proceed Anyway" = "Proceed Anyway";
+/* Translated with LLM */
+"Proceed Anyway" = "繼續進行";
 
-/* TODO */
-"Process execution timeout" = "Process execution timeout";
+/* Translated with LLM */
+"Process execution timeout" = "程序執行超時";
 
-/* TODO */
-"Process exited with status %d." = "Process exited with status %d.";
+/* Translated with LLM */
+"Process exited with status %d." = "進程以狀態 %d 退出。";
 
-/* TODO */
-"Process terminated by signal %d." = "Process terminated by signal %d.";
+/* Translated with LLM */
+"Process terminated by signal %d." = "進程因訊號 %d 而終止。";
 
-/* TODO */
-"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
+/* Translated with LLM */
+"Process terminated for unknown reasons." = "程序因不明原因終止。";
 
-/* TODO */
-"Process terminated with exit code %d.\n%@" = "Process terminated with exit code %1$d.\n%2$@";
+/* Translated with LLM */
+"Process terminated with exit code %d.\n%@" = "處理程序已終止，結束代碼為 %1$d。\n%2$@";
 
-/* TODO */
-"Processing" = "Processing";
+/* Translated with LLM */
+"Processing" = "處理中";
 
-/* TODO */
-"Pulse-code modulation" = "Pulse-code modulation";
+/* Translated with LLM */
+"Pulse-code modulation" = "脈衝編碼調變";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Purchase" = "購買";
 
-/* TODO */
-"Purchase Tips" = "Purchase Tips";
+/* Translated with LLM */
+"Purchase Tips" = "購買提示";
 
-/* TODO */
-"Pure TrollStore" = "Pure TrollStore";
+/* Translated with LLM */
+"Pure TrollStore" = "純 TrollStore";
 
-/* TODO */
-"Query the latest version from GitHub." = "Query the latest version from GitHub.";
+/* Translated with LLM */
+"Query the latest version from GitHub." = "從 GitHub 查詢最新版本。";
 
-/* TODO */
-"Querying" = "Querying";
+/* Translated with LLM */
+"Querying" = "查詢中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quick Recording" = "快速錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quit and relaunch to continue using the Pro features." = "重啟應用程式以繼續使用專業版功能。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quit this application and try again." = "退出此應用程式並重試。";
 
-/* TODO */
-"Rclone Documentation" = "Rclone Documentation";
+/* Translated with LLM */
+"Rclone Documentation" = "Rclone 文件";
 
-/* TODO */
-"Re-authorize with Dropbox" = "Re-authorize with Dropbox";
+/* Translated with LLM */
+"Re-authorize with Dropbox" = "重新授權 Dropbox";
 
-/* TODO */
-"Re-authorize with Google" = "Re-authorize with Google";
+/* Translated with LLM */
+"Re-authorize with Google" = "重新使用 Google 授權";
 
-/* TODO */
-"Re-authorize with Microsoft" = "Re-authorize with Microsoft";
+/* Translated with LLM */
+"Re-authorize with Microsoft" = "與 Microsoft 重新授權";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-enable Suggested Options" = "重新啟用建議選項";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reaching Daemon" = "連線守護進程";
 
-/* TODO */
-"README_APP_DOCUMENTS" = "README_APP_DOCUMENTS";
+/* Translated with LLM */
+"README_APP_DOCUMENTS" = "此目錄包含 TrollRecorder 錄音嘅備份。\r\n你可以將佢哋複製返去原始位置：/var/mobile/Media/DCIM/TrollRecorder/Recordings 嚟還原錄音。";
 
-/* TODO */
-"README_SERVICE_ARCHIVED_RECORDINGS" = "README_SERVICE_ARCHIVED_RECORDINGS";
+/* Translated with LLM */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "此目錄包含巨魔錄音機錄音的硬連結存檔。\r\n這些檔案不會包含在 iCloud 備份中，亦不會計入儲存配額。\r\n除非你確定不再需要它們，否則請勿刪除。";
 
-/* TODO */
-"README_SERVICE_RECORDINGS" = "README_SERVICE_RECORDINGS";
+/* Translated with LLM */
+"README_SERVICE_RECORDINGS" = "此目錄包含 TrollRecorder 錄音嘅錄音檔案。\r\n你可以將佢哋複製到安全位置嚟備份。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ready" = "就緒";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ready to record!" = "準備錄音！";
 
-/* TODO */
-"Received authorization error: %@" = "Received authorization error: %@";
+/* Translated with LLM */
+"Received authorization error: %@" = "收到授權錯誤：%@";
 
-/* TODO */
-"Received transient error: %@" = "Received transient error: %@";
+/* Translated with LLM */
+"Received transient error: %@" = "收到暫時錯誤：%@";
 
-/* TODO */
-"Receiving Recordings" = "Receiving Recordings";
+/* Translated with LLM */
+"Receiving Recordings" = "正在接收錄音";
 
-/* TODO */
-"Recents Only" = "Recents Only";
+/* Translated with LLM */
+"Recents Only" = "僅限最近錄音";
 
-/* TODO */
-"Recommended for Apple devices" = "Recommended for Apple devices";
+/* Translated with LLM */
+"Recommended for Apple devices" = "建議在 Apple 裝置上使用";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record" = "錄製";
 
-/* TODO */
-"Record All Calls" = "Record All Calls";
+/* Translated with LLM */
+"Record All Calls" = "錄製所有通話";
 
-/* No comment provided by engineer. */
-"Record all incoming and outgoing calls automatically." = "自動錄製來電和去電。";
+/* Translated with LLM */
+"Record all incoming and outgoing calls automatically." = "自動錄製所有來電和去電。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Automatically" = "自動錄製";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Calls on Other Devices" = "錄製其他裝置上的通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Only When Connected" = "接通時錄音";
 
-/* TODO */
-"Record Unknown Calls" = "Record Unknown Calls";
+/* Translated with LLM */
+"record screen" = "錄製螢幕";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Record Unknown Calls" = "錄製未知來電";
+
+/* Translated with LLM */
 "Record with Location" = "錄音定位";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recorder hoverball" = "錄音懸浮球";
+
+/* Translated with LLM */
 "Recording" = "錄製中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "recording" = "錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording (Localized)" = "錄音";
 
-/* TODO */
-"Recording Interrupted" = "Recording Interrupted";
+/* Translated with LLM */
+"recording directory" = "錄音目錄";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording duration" = "錄音時長";
+
+/* Translated with LLM */
+"recording file" = "錄音檔案";
+
+/* Translated with LLM */
+"Recording Interrupted" = "錄音中斷";
+
+/* Translated with LLM */
+"recording off" = "關閉錄音";
+
+/* Translated with LLM */
+"recording on" = "開啟錄音";
+
+/* Translated with LLM */
 "Recording Options" = "錄音選項";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording path" = "錄音路徑";
+
+/* Translated with LLM */
 "Recording starts when both the audio inputs and outputs are continuously active." = "當音訊輸入和輸出都處於持續活躍狀態時，錄音開始。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording state" = "錄音狀態";
+
+/* Translated with LLM */
+"recording status" = "錄音狀態";
+
+/* Translated with LLM */
 "Recording successfully started." = "錄音成功開始";
 
-/* TODO */
-"Recording Type" = "Recording Type";
+/* Translated with LLM */
+"recording switch" = "錄音開關";
 
-/* TODO */
-"Recording Type Description" = "Recording Type Description";
+/* Translated with LLM */
+"recording timer" = "錄音計時器";
 
-/* No comment provided by engineer. */
-"Recording will begin when the call is answered." = "即將于通話接通後開始錄音。";
+/* Translated with LLM */
+"Recording Type" = "錄音類型";
 
-/* No comment provided by engineer. */
-"Recording “%@” is in progress." = "Recording “%@” is in progress.";
+/* Translated with LLM */
+"Recording Type Description" = "錄音類型描述";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Recording will begin when the call is answered." = "即將於通話接通後開始錄音。";
+
+/* Translated with LLM */
+"Recording “%@” is in progress." = "正在錄製「%@」。";
+
+/* Translated with LLM */
 "RECORDING_LOCALIZED" = "錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recordings" = "錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recordings here are permanently removed after 30 days." = "這裏的錄音將在 30 天後被永久刪除。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recycle Bin" = "回收站";
 
-/* TODO */
-"Regenerate All" = "Regenerate All";
+/* Translated with LLM */
+"Regenerate All" = "全部重新生成";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "reject" = "拒絕";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reject all incoming calls automatically." = "自動拒接所有來電。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"reject call" = "拒接來電";
+
+/* Translated with LLM */
 "Reject Incoming Calls" = "拒接來電";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Relaunched" = "妙手已回春";
 
-/* TODO */
-"Release" = "Release";
+/* Translated with LLM */
+"Release" = "釋放";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Release Notes" = "發行説明";
 
-/* TODO */
-"Remove" = "Remove";
+/* Translated with LLM */
+"Remove" = "移除";
 
-/* TODO */
-"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Remove all cached waveforms and allow them to be rebuilt from the original recordings.";
+/* Translated with LLM */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "移除所有快取的波形，並允許從原始錄音中重建。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove All Recordings Permanently" = "永久刪除所有錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Remove Other Variants" = "移除其他變體";
+
+/* Translated with LLM */
 "Remove Outdated Recordings" = "刪除過期錄音";
 
-/* No comment provided by engineer. */
-"Rename" = "重命名";
+/* Translated with LLM */
+"Remove Token" = "移除標記";
 
-/* TODO */
-"Repeat Infinitely" = "Repeat Infinitely";
+/* Translated with LLM */
+"Remove Tokens" = "移除標記";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Rename" = "重新命名";
+
+/* Translated with LLM */
+"Repeat Infinitely" = "無限重複";
+
+/* Translated with LLM */
 "Reset" = "重設";
 
-/* No comment provided by engineer. */
-"Reset All Shortcuts" = "重設所有動作";
+/* Translated with LLM */
+"Reset All Shortcuts" = "重設所有捷徑";
 
-/* TODO */
-"Reset Password" = "Reset Password";
+/* Translated with LLM */
+"Reset Password" = "重設密碼";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset Search Indexes" = "重設搜尋索引";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset Service" = "重設服務";
 
-/* No comment provided by engineer. */
-"Respring" = "妙手回春";
+/* Translated with LLM */
+"Respring" = "重新載入 SpringBoard";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restart Render Server" = "重啟渲染服務";
 
-/* TODO */
-"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+/* Translated with LLM */
+"Restart SpringBoard and “Launch Shield” widgets." = "重新啟動 SpringBoard 及「Launch Shield」小工具。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore" = "恢復";
 
-/* TODO */
-"Restore %d Items From Recycle Bin" = "Restore %d Items From Recycle Bin";
+/* Translated with LLM */
+"Restore %d Items From Recycle Bin" = "從垃圾桶還原 %d 個項目";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"restore call audio" = "還原通話音訊";
+
+/* Translated with LLM */
 "Restore Selected %ld Items" = "恢復選中的 %ld 項";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore Selected Item" = "恢復選中項";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restoring" = "恢復中";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Resume Recording" = "繼續錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Resume with Warning" = "繼續並警告";
 
-/* TODO */
-"Retry" = "Retry";
+/* Translated with LLM */
+"Retry" = "重試";
 
-/* TODO */
-"Reverse Geocoding" = "Reverse Geocoding";
+/* Translated with LLM */
+"Reverse Geocoding" = "反向地理編碼";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reverse Selection" = "反選";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rewind 15 Seconds" = "回退 15 秒鐘";
 
-/* TODO */
-"Ring" = "Ring";
+/* Translated with LLM */
+"Ring" = "鈴聲";
 
-/* TODO */
-"Ring & Vibrate" = "Ring & Vibrate";
+/* Translated with LLM */
+"Ring & Vibrate" = "鈴聲與震動";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Root" = "根";
 
-/* TODO */
-"Root directory is empty." = "Root directory is empty.";
+/* Translated with LLM */
+"Root directory is empty." = "根目錄為空。";
 
-/* TODO */
-"RootHide Jailbreak" = "RootHide Jailbreak";
+/* Translated with LLM */
+"RootHide Jailbreak" = "RootHide 越獄";
 
-/* TODO */
-"Rootless Jailbreak" = "Rootless Jailbreak";
+/* Translated with LLM */
+"Rootless Jailbreak" = "無根越獄";
 
-/* TODO */
-"Runtime Environment: %@" = "Runtime Environment: %@";
+/* Translated with LLM */
+"Runtime Environment: %@" = "運行環境：%@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sample Rate" = "取樣速率";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sandbox Build" = "沙盒構建";
 
-/* No comment provided by engineer. */
-"Save" = "保存";
+/* Translated with LLM */
+"Save" = "儲存";
 
-/* TODO */
-"Save as Duplicate" = "Save as Duplicate";
+/* Translated with LLM */
+"Save as Duplicate" = "另存為副本";
 
-/* TODO */
-"Save as Duplicate…" = "Save as Duplicate…";
+/* Translated with LLM */
+"Save as Duplicate…" = "另存為複本…";
 
-/* TODO */
-"Say ${requestedText}" = "Say ${requestedText}";
+/* Translated with LLM */
+"saved recording location" = "已儲存的錄音位置";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Say ${requestedText}" = "說 ${requestedText}";
+
+/* Translated with LLM */
 "Scene Identification" = "通話場景識別";
 
-/* TODO */
-"screen" = "screen";
+/* Translated with LLM */
+"screen" = "螢幕";
 
-/* TODO */
-"SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
+/* Translated with LLM */
+"screen capture" = "螢幕截圖";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"screen capture stop" = "停止螢幕截圖";
+
+/* Translated with LLM */
+"screen recording off" = "關閉螢幕錄影";
+
+/* Translated with LLM */
+"SCRN: 2025SR1911573" = "軟件著作權登記號：2025SR1911573";
+
+/* Translated with LLM */
 "Search" = "搜尋";
 
-/* TODO */
-"Search %@ in %@…" = "Search %1$@ in %2$@…";
+/* Translated with LLM */
+"Search %@ in %@…" = "在 %2$@ 中搜尋 %1$@…";
 
-/* TODO */
-"Search %@…" = "Search %@…";
+/* Translated with LLM */
+"Search %@…" = "搜尋 %@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Apps…" = "搜尋應用…";
 
-/* TODO */
-"Search Arguments…" = "Search Arguments…";
+/* Translated with LLM */
+"Search Arguments…" = "搜尋引數…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Contacts…" = "搜尋聯絡人…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in %@…" = "在 %@ 搜尋…";
 
-/* No comment provided by engineer. */
-"Search in depth with all available information saved when recording such as contact info or locations." = "在錄音時保存所有可用資訊，如聯絡資訊或位置，以便搜尋。";
+/* Translated with LLM */
+"Search in depth with all available information saved when recording such as contact info or locations." = "在錄音時保存所有可用資訊（如聯絡資訊或位置），以便深入搜尋。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in Maps" = "在地圖中搜尋";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Recordings…" = "搜尋錄音…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Shortcuts…" = "搜尋動作…";
 
-/* TODO */
-"Searching for nearby devices" = "Searching for nearby devices";
+/* Translated with LLM */
+"Search Transcript…" = "搜尋謄本…";
 
-/* TODO */
-"Search…" = "Search…";
+/* Translated with LLM */
+"Searching for nearby devices" = "正在搜尋附近的裝置";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Search…" = "搜尋…";
+
+/* Translated with LLM */
 "Seconds" = "秒數";
 
-/* TODO */
-"Secure" = "Secure";
+/* Translated with LLM */
+"Secure" = "安全連線";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Secure Payment" = "安全的支付方式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "See ya!" = "再見！";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select" = "選擇";
 
-/* No comment provided by engineer. */
-"Select a recording to view or play." = "選擇一個錄音播放。";
+/* Translated with LLM */
+"Select a recording to view or play." = "選擇一個錄音以查看或播放。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select All" = "全選";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select the primary cloud service provider for recording synchronization." = "選擇用於錄音同步的主要雲端服務供應商。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Semi-Transparent" = "半透明";
 
-/* TODO */
-"Send Diagnostic" = "Send Diagnostic";
+/* Translated with LLM */
+"Send Diagnostic" = "傳送診斷資料";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Name" = "號卡名稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Phone Address" = "號卡電話號碼";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Short Name" = "號卡別稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Separated Channels" = "分離音軌";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Separators" = "分隔符";
 
-/* TODO */
-"Server" = "Server";
+/* Translated with LLM */
+"Server" = "伺服器";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server started at: %@" = "服務已啟動：%@";
 
-/* TODO */
-"Server URL" = "Server URL";
+/* Translated with LLM */
+"Server URL" = "伺服器 URL";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "service" = "服務";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"service active" = "服務活躍";
+
+/* Translated with LLM */
 "Service is alive" = "服務正常運行";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Service is dead" = "服務已停止";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Service Status" = "服務狀態";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Set a new name for this recording, or leave blank to use default." = "為這段錄音設定一個新的名稱，或者留空使用默認名稱。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Settings" = "設定";
 
-/* No comment provided by engineer. */
-"Setup Failed" = "初始化";
+/* Translated with LLM */
+"Setup Failed" = "設定失敗";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Share" = "共享";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Date" = "簡短日期";
 
-/* No comment provided by engineer. */
-"Short Day of Week String" = "周幾";
+/* Translated with LLM */
+"Short Day of Week String" = "星期簡稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Month Name" = "月份縮寫";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Time" = "簡短時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Bundle Name" = "顯示捆綁包名稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Contact Names" = "顯示聯絡人姓名";
 
-/* TODO */
-"Show Hoverball" = "Show Hoverball";
+/* Translated with LLM */
+"Show Hoverball" = "顯示懸浮球";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Notification" = "顯示通知";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"show notification" = "顯示通知";
+
+/* Translated with LLM */
 "Show notification ${requestedMessage}" = "顯示 ${requestedMessage} 通知";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show on Lock Screen" = "在鎖定螢幕上顯示";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Option Description" = "顯示選項描述";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Recording Duration" = "顯示錄音時長";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Recording Format" = "顯示錄音格式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show SIM Card Alias" = "顯示 SIM 卡別稱";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Waveform Previews" = "顯示波形預覽";
 
-/* No comment provided by engineer. */
-"Show “View Details” menu item for developers to check the manifests of recordings." = "為開發者展示 “查看詳細資訊” 菜單項，以查看錄音的細節清單。";
+/* Translated with LLM */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "為開發者顯示「查看詳細資訊」選單項目，以檢查錄音的細節清單。";
 
-/* No comment provided by engineer. */
-"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+/* Translated with LLM */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "使用您的 Dropbox 帳戶登入，以授權此應用程式存取您的 Dropbox。";
 
-/* No comment provided by engineer. */
-"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+/* Translated with LLM */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "使用您的 Google 帳戶登入，以授權此應用程式存取您的 Google Drive。";
 
-/* No comment provided by engineer. */
-"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+/* Translated with LLM */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "使用您的 Microsoft 帳戶登入，以授權此應用程式存取您的 Microsoft OneDrive。";
 
-/* TODO */
-"Silent Mode" = "Silent Mode";
+/* Translated with LLM */
+"silence call" = "靜音通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Silent Mode" = "靜音模式";
+
+/* Translated with LLM */
 "SIM Card Alias" = "SIM 卡別稱";
 
-/* TODO */
-"Simulator" = "Simulator";
+/* Translated with LLM */
+"Simulator" = "模擬器";
 
-/* TODO */
-"Skip Silence" = "Skip Silence";
+/* Translated with LLM */
+"Simulator (Sandbox)" = "模擬器（沙盒）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Skip Silence" = "跳過靜音";
+
+/* Translated with LLM */
 "Smaller" = "較小";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Smart Cloud Archive" = "智能雲端歸檔";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Software License" = "軟件授權";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Some settings have been reset to default values." = "某些設定已重設為默認值。";
 
-/* TODO */
-"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo.";
+/* Translated with LLM */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "缺少了一些重要內容。請從 Sileo 重新安裝「TrollRecorder JB」。";
 
-/* No comment provided by engineer. */
-"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "出現了一些問題，我們無法驗證你的購買。你可以輕觸 “查看我的賬戶”，確認你的訂單狀態或兌換禮品代碼。";
+/* Translated with LLM */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "出現了一些問題，我們無法驗證你的購買。你可以輕觸「查看我的賬戶」，確認你的訂單狀態或兌換禮品代碼。";
 
-/* TODO */
-"Sound Level Meter" = "Sound Level Meter";
+/* Translated with LLM */
+"Sound Level Meter" = "聲級計";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Space" = "空格";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Speaker" = "揚聲器";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "speaker" = "揚聲器";
 
-/* TODO */
-"Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+/* Translated with LLM */
+"speaker off" = "關閉揚聲器";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"speaker on" = "開啟揚聲器";
+
+/* Translated with LLM */
+"Specified range from %@ to %@ is invalid." = "指定的範圍從 %1$@ 到 %2$@ 無效。";
+
+/* Translated with LLM */
+"spoken audio" = "語音音訊";
+
+/* Translated with LLM */
 "start" = "開始";
 
-/* TODO */
-"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
+/* Translated with LLM */
+"Start a system screen recording just like what you do in the Control Center." = "開始系統螢幕錄影，就像你在控制中心所做的一樣。";
 
-/* TODO */
-"Start Call Recording" = "Start Call Recording";
+/* Translated with LLM */
+"Start Call Recording" = "開始通話錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start daemon" = "啟動守護進程";
+
+/* Translated with LLM */
 "Start Date" = "起始日期";
 
-/* TODO */
-"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Start or prepare for a call recording, system audio recording, or create an voice memo.";
+/* Translated with LLM */
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "開始或準備通話錄音、系統音訊錄音，或建立語音備忘錄。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start Recording" = "開始錄音";
 
-/* TODO */
-"Start Screen Recording" = "Start Screen Recording";
+/* Translated with LLM */
+"start recording" = "開始錄音";
 
-/* TODO */
-"Start System Audio Recording" = "Start System Audio Recording";
+/* Translated with LLM */
+"Start Screen Recording" = "開始螢幕錄影";
 
-/* TODO */
-"Start Voice Memo Recording" = "Start Voice Memo Recording";
+/* Translated with LLM */
+"start screen recording" = "開始螢幕錄影";
 
-/* TODO */
-"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+/* Translated with LLM */
+"Start System Audio Recording" = "開始系統音訊錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Start Voice Memo Recording" = "開始語音備忘錄錄音";
+
+/* Translated with LLM */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "啟動匯出服務所需的時間比預期長。請檢查網絡連線後再試一次。";
+
+/* Translated with LLM */
 "status" = "狀態";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "請繼續。我們正在背景錄製您的通話。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "stop" = "停止";
 
-/* TODO */
-"Stop" = "Stop";
+/* Translated with LLM */
+"Stop" = "停止";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop & Reset Service" = "停止服務並還原選項";
 
-/* No comment provided by engineer. */
-"Stop & Save" = "結束并保存";
+/* Translated with LLM */
+"Stop & Save" = "結束並儲存";
 
-/* TODO */
-"Stop a call recording, system audio recording or voice memo if exists." = "Stop a call recording, system audio recording or voice memo if exists.";
+/* Translated with LLM */
+"Stop a call recording, system audio recording or voice memo if exists." = "停止通話錄音、系統音訊錄音或語音備忘錄（如存在）。";
 
-/* TODO */
-"Stop a system screen recording if exists." = "Stop a system screen recording if exists.";
+/* Translated with LLM */
+"Stop a system screen recording if exists." = "停止系統畫面錄影（如正在進行）。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop Recording" = "停止錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"stop recording" = "停止錄音";
+
+/* Translated with LLM */
 "Stop Recording When Disk Exhausted" = "磁碟空間不足時停止錄音";
 
-/* TODO */
-"Stop Screen Recording" = "Stop Screen Recording";
+/* Translated with LLM */
+"Stop Screen Recording" = "停止螢幕錄影";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"stop screen recording" = "停止螢幕錄影";
+
+/* Translated with LLM */
 "Stop Service" = "停止服務";
 
-/* TODO */
-"Successfully authorized to Google and connected to Google Drive." = "Successfully authorized to Google and connected to Google Drive.";
+/* Translated with LLM */
+"Successfully authorized to Google and connected to Google Drive." = "已成功授權 Google 帳戶並連線至 Google 雲端硬碟。";
 
-/* TODO */
-"Successfully authorized to Microsoft and connected to OneDrive." = "Successfully authorized to Microsoft and connected to OneDrive.";
+/* Translated with LLM */
+"Successfully authorized to Microsoft and connected to OneDrive." = "已成功授權 Microsoft 帳戶並連線至 OneDrive。";
 
-/* TODO */
-"Successfully connected to Dropbox." = "Successfully connected to Dropbox.";
+/* Translated with LLM */
+"Successfully connected to Dropbox." = "已成功連線至 Dropbox。";
 
-/* TODO */
-"Successfully connected to the server %@." = "Successfully connected to the server %@.";
+/* Translated with LLM */
+"Successfully connected to the server %@." = "成功連接到伺服器 %@。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Suggested" = "建議";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Suggested Applications" = "建議應用程式";
 
-/* TODO */
-"Switch to list view" = "Switch to list view";
+/* Translated with LLM */
+"Switch to list view" = "切換至列表檢視";
 
-/* TODO */
-"Switch to orbit view" = "Switch to orbit view";
+/* Translated with LLM */
+"Switch to orbit view" = "切換至軌道檢視";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync" = "同步";
 
-/* No comment provided by engineer. */
-"Sync Service Mode" = "服務模式";
+/* Translated with LLM */
+"Sync Service Mode" = "同步服務模式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync Service Provider" = "服務供應商";
 
-/* TODO */
-"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Sync: Make local and cloud recordings identical, modifying cloud drives only.";
+/* Translated with LLM */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "同步：只修改雲端磁碟機上的錄音，使之與本機的錄音保持一致。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "synchronization" = "同步";
 
-/* TODO */
-"Synchronization Failed" = "Synchronization Failed";
+/* Translated with LLM */
+"Synchronization Failed" = "同步失敗";
 
-/* TODO */
-"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
+/* Translated with LLM */
+"Synchronize the playback status of the recording with Control Center." = "與控制中心同步錄音的播放狀態。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Synchronizing" = "同步中";
 
-/* TODO */
-"Syntax or usage error occurred." = "Syntax or usage error occurred.";
+/* Translated with LLM */
+"Syntax or usage error occurred." = "發生語法或用法錯誤。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Applications" = "系統應用程式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Audio" = "系統音訊";
 
-/* TODO */
-"System Audio Recording" = "System Audio Recording";
+/* Translated with LLM */
+"System Audio Recording" = "開始/停止系統音訊錄製";
 
-/* TODO */
-"system audio recording" = "system audio recording";
+/* Translated with LLM */
+"system audio recording" = "系統音訊錄音";
 
-/* TODO */
-"System Language" = "System Language";
+/* Translated with LLM */
+"System Language" = "系統語言";
 
-/* TODO */
-"System Record" = "System Record";
+/* Translated with LLM */
+"System Record" = "系統錄製";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap __any edge__  \nto select it as an ___active edge___." = "輕觸並選中 __任一邊緣__，  \n使其進入 ___活躍狀態___。";
 
-/* TODO */
-"Tap to add required widget." = "Tap to add required widget.";
+/* Translated with LLM */
+"Tap to add required widget." = "點按以加入必需嘅 Widget。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to calculate the total size of all recordings." = "輕觸以計算所有錄音的總大小。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to Copy" = "輕觸以複製";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to Exit" = "輕觸退出";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to open settings." = "輕觸以打開設定。";
 
-/* TODO */
-"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+/* Translated with LLM */
+"Tap to open Wi-Fi settings." = "輕觸以開啟 Wi-Fi 設定。";
 
-/* TODO */
-"Tap to view details" = "Tap to view details";
+/* Translated with LLM */
+"Tap to view details" = "點按以檢視詳細資料";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Technical Error Detected" = "偵測到技術錯誤";
+
+/* Translated with LLM */
 "Temporarily Ignore" = "暫時忽略";
 
-/* TODO */
-"Temporary error occurred, more retries might fix." = "Temporary error occurred, more retries might fix.";
+/* Translated with LLM */
+"Temporary error occurred, more retries might fix." = "發生暫時性錯誤，多試幾次可能可以解決。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "terminate" = "終止";
 
-/* No comment provided by engineer. */
-"Terminate all active calls immediately." = "立即挂斷所有正在進行的通話。";
+/* Translated with LLM */
+"Terminate all active calls immediately." = "立即掛斷所有正在進行的通話。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"terminate call" = "終止通話";
+
+/* Translated with LLM */
 "Terminate Calls" = "結束通話";
 
-/* TODO */
-"Test Connection" = "Test Connection";
+/* Translated with LLM */
+"Test Connection" = "測試連線";
 
-/* TODO */
-"Text Copied" = "Text Copied";
+/* Translated with LLM */
+"Text Copied" = "文字已複製";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"text to speech" = "文字轉語音";
+
+/* Translated with LLM */
 "text-to-speech" = "文本轉語音";
 
-/* TODO */
-"The %@ has been interrupted by the system. You may convert the recording manually later." = "The %@ has been interrupted by the system. You may convert the recording manually later.";
+/* Translated with LLM */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "%@ 已被系統中斷。你可以稍後手動轉換錄音。";
 
-/* No comment provided by engineer. */
-"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "設定應用程式遇到了未知錯誤，守護進程沒有響應我們的請求。 我們正在嘗試重新連線，請稍後。 若問題持續存在，你可以嘗試重新安裝應用程式。";
+/* Translated with LLM */
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "設定應用程式時遇到未知錯誤，Launch Daemon 沒有回應我們的要求。我們正在嘗試重新連線，請稍候。如果問題持續存在，你可以嘗試重新安裝應用程式。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The application will launch automatically when recording ends." = "錄音結束時應用程式將自動啟動。";
 
-/* TODO */
-"The audio file to be played to the opposite side." = "The audio file to be played to the opposite side.";
+/* Translated with LLM */
+"The audio file to be played to the opposite side." = "要向對面播放的音訊檔案。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The bundle identifier of the application that initiated the call." = "發起通話的 App 標識符。";
 
-/* No comment provided by engineer. */
-"The content of text file “%@” is empty." = "文本檔案 “%@” 的内容為空。";
+/* Translated with LLM */
+"The content of text file “%@” is empty." = "文本檔案 “%@” 的內容為空。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "當前的通話狀態。可能的值有：Dialing/Connected/Disconnected/Unknown";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The date and time when the audio was created." = "音訊創建的日期和時間。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "裝置將在錄音開始和結束時以特殊的觸覺模式震動。";
 
-/* No comment provided by engineer. */
-"The direction of the call. May not available for all audio files." = "通話的方向。可能并非所有音訊檔案都可用。";
+/* Translated with LLM */
+"The direction of the call. May not available for all audio files." = "通話的方向。可能並非所有音訊檔案都適用。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "通話的方向。可能的值有：Incoming/Outgoing/Unknown";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The display name of the application that initiated the call." = "發起通話的 App 顯示名稱。";
 
-/* No comment provided by engineer. */
-"The field of information to get." = "需要獲取的信息字段。";
+/* Translated with LLM */
+"The field of information to get." = "需要獲取的資訊欄位。";
 
-/* No comment provided by engineer. */
-"The file format of the selected audio file." = "當前音訊文件的文件格式。";
+/* Translated with LLM */
+"The file format of the selected audio file." = "當前音訊文件的檔案格式。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The hoverball can display even if you do not unlock your device." = "即使你沒有解鎖裝置，懸浮球也可以顯示。";
 
-/* TODO */
-"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”.";
+/* Translated with LLM */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "「快速錄音」和「實體按鍵組合」的按鍵組合已更改為「%@」。";
 
-/* TODO */
-"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
+/* Translated with LLM */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "「TrollRecorder」的最新版本是 %1$@ (%2$@)。目前版本是 %3$@ (%4$@)。";
 
-/* No comment provided by engineer. */
-"The location metadata will be continuously updated while the recording is in progress." = "如果在錄音過程中地理位置發生變化，將更新同步到錄音元數據中。";
+/* Translated with LLM */
+"The location metadata will be continuously updated while the recording is in progress." = "在錄音過程中，位置元數據會持續更新。";
 
-/* No comment provided by engineer. */
-"The location where the recording was recorded." = "音訊錄製的位置。";
+/* Translated with LLM */
+"The location where the recording was recorded." = "錄製音訊的位置。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The maximum seconds to wait for calls to be connected." = "等待接通電話的最長秒數。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The missing location metadata will be populated if you open the application right after the recording." = "如果你在錄音結束後的一段時間內打開應用程式，缺失的位置元數據將被填充。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The name of the contact." = "聯絡人的名稱。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The name of the sender." = "號卡的名稱。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "每秒的樣本數，更高的取樣速率意味著更好的音訊質量和更大的檔案大小。";
 
-/* TODO */
-"the other device" = "the other device";
+/* Translated with LLM */
+"the other device" = "另一部裝置";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number of the contact." = "聯絡人的電話號碼。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number of the sender." = "號卡的電話號碼。";
 
-/* No comment provided by engineer. */
-"The phone number. Third party application or CallKit calls may not have this value." = "電話號碼。 第三方應用或 CallKit 可能沒有此值。";
+/* Translated with LLM */
+"The phone number. Third party application or CallKit calls may not have this value." = "電話號碼。第三方應用或 CallKit 可能沒有此值。";
 
-/* No comment provided by engineer. */
-"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用於通道合併的方式。 組合模式會將立體聲揚聲器音訊壓縮到左聲道，咪高風在右聲道。 關閉後為混合模式，會將咪高風通道複製到立體聲並與揚聲器通道混合輸出。";
+/* Translated with LLM */
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "用於通道合併的方式。組合模式會將立體聲揚聲器音訊壓縮到左聲道，咪高風在右聲道。關閉後為混合模式，會將咪高風通道複製到立體聲並與揚聲器通道混合輸出。";
 
-/* TODO */
-"The primary button action at the right side of the hoverball when no call is active." = "The primary button action at the right side of the hoverball when no call is active.";
+/* Translated with LLM */
+"The primary button action at the right side of the hoverball when no call is active." = "當沒有通話時，輕按懸浮球右側主按鈕所執行的操作。";
 
-/* TODO */
-"The service is not properly configured." = "The service is not properly configured.";
+/* Translated with LLM */
+"The service is not properly configured." = "服務未正確設定。";
 
-/* No comment provided by engineer. */
-"The service operator name of the sender." = "運營商的名稱。";
+/* Translated with LLM */
+"The service operator name of the sender." = "發送方的服務營運商名稱。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The size of selected audio file." = "選定音訊檔案的大小。";
 
-/* No comment provided by engineer. */
-"The text to be played to the opposite side." = "要向對面播放的文本内容。";
+/* Translated with LLM */
+"The text to be played to the opposite side." = "要向對面播放的文字內容。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The time interval before the hoverball becomes idle." = "懸浮球變為閑置狀態之前的時間。";
 
-/* TODO */
-"The type of content to be recorded." = "The type of content to be recorded.";
+/* Translated with LLM */
+"The type of content to be recorded." = "要錄製的內容類型。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The unique identifier of the call." = "通話的唯一標識符。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The unique identifier of the provider application." = "提供方應用程式的唯一標識符。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The URL is not valid." = "無效的 URL。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There is nothing but air." = "這裏只有空氣。";
 
-/* No comment provided by engineer. */
-"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "在錄製完成時，背景服務未能立即合併錄音檔案。 萬幸的是，現在你可以完成這最後一步！";
+/* Translated with LLM */
+"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "在錄製完成時，背景服務未能立即合併錄音檔案。萬幸的是，現在你可以完成這最後一步！";
 
-/* No comment provided by engineer. */
-"There was a problem verifying your identity." = "驗證你的身時出現問題。";
+/* Translated with LLM */
+"There was a problem verifying your identity." = "驗證你的身份時出現問題。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This feature requires a paid subscription. Please upgrade to use this feature." = "此功能需要付費，請升級授權以使用此功能。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This field accept phone number for matching contact." = "此字段可填寫電話號碼以匹配聯絡人。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This field accept phone number or an email address for matching contact." = "此字段可填寫電話號碼或電郵地址以匹配聯絡人。";
 
-/* No comment provided by engineer. */
-"This is a sandbox build, the daemon is not available." = "守護進程不可用。";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This is a widget daemon for Troll Recorder." = "這是巨魔錄音機的啟動守護小組件。";
 
-/* TODO */
-"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "This option affects the behavior of the “Quick Recording” and “Physical Key Combination”.";
+/* Translated with LLM */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "此選項會影響「快速錄音」及「實體按鍵組合」的行為。";
 
-/* TODO */
-"This option overrides the “Press & Hold Action” of the Hoverball." = "This option overrides the “Press & Hold Action” of the Hoverball.";
+/* Translated with LLM */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "此選項會覆寫懸浮球的「長按動作」。";
 
-/* TODO */
-"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?";
+/* Translated with LLM */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "此錄音包含多個音訊變體。原地儲存會刪除其他變體。你仍要繼續，還是另存為副本？";
 
-/* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人名稱和備注。\n你可以購買 “巨魔錄音機” 以啟用 “WeChat 通話助理” ，你想現在購買嗎？";
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "當前錄音來自 WeChat，我們的「WeChat 通話助理」可以幫助你在下次錄音時填充 WeChat 聯絡人名稱和備註。\n你可以購買「巨魔錄音機 Pro」以啟用「WeChat 通話助理」，你想現在購買嗎？";
 
-/* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "當前錄音來自 WeChat ，我們的 “WeChat 通話助理” 可以幫助你在下次錄音時填充 WeChat 聯絡人名稱和備注。\n你似乎沒有啟用 “WeChat 通話助理” ，你想立即啟用嗎？";
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "當前錄音來自 WeChat，而「WeChat 通話助理」可幫助你在下次錄音時填入 WeChat 聯絡人名稱及備註。\n你似乎尚未啟用「WeChat 通話助理」，你想立即啟用嗎？";
 
-/* No comment provided by engineer. */
-"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "WeChat 通話助理不支援當前版本的 WeChat （%@）。請升級到最新版本。";
+/* Translated with LLM */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "WeChat 通話助理不支援當前版本的 WeChat（%@）。請升級到最新版本。";
 
-/* No comment provided by engineer. */
-"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "WeChat 通話助理未經測試，可能不支援當前版本的 WeChat（%@）。";
+/* Translated with LLM */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "此版本 WeChat（%@）未經測試且未獲官方支援，部分功能可能無法如預期運作。";
 
-/* No comment provided by engineer. */
-"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "WeChat 通話助理僅提供對當前版本微信（%@）的有限支援：視訊通話會識別為上一次語音通話的聯絡人的名稱。建議升級到最新版本。";
+/* Translated with LLM */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "此版本的微信（%@）僅獲部分支援。建議升級至最新版本。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is supported." = "WeChat 通話助理支援當前版本的 WeChat（%@）。";
 
-/* TODO */
-"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+/* Translated with LLM */
+"This will generate a new password and restart the WebDAV server." = "這將會產生新密碼並重新啟動 WebDAV 伺服器。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Three-digit Milliseconds" = "毫秒數";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Time Sensitive" = "即時通知";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"time sensitive notification" = "時間敏感通知";
+
+/* Translated with LLM */
 "Title" = "標題";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To %@" = "結束於 %@";
 
-/* TODO */
-"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
+/* Translated with LLM */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "如要啟用「Launch Shield」功能，你必須將「TrollRecorder」Widget 加入鎖定畫面或主畫面。點一下「立即加入」即可將該 Widget 加入主畫面的首頁。你之後可以長按並拖曳來更改其位置。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "如需配置 iCloud 雲碟，請轉到 “設定” → “流動網絡” → “iCloud 雲碟”。";
 
-/* TODO */
-"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "To configure notifications related to recording synchronization, go to “Network Storage” settings page.";
+/* Translated with LLM */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "如要設定與錄音同步相關的通知，請前往「網絡儲存」設定頁面。";
 
-/* TODO */
-"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”.";
+/* Translated with LLM */
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "如要配置「長按動作」，你需要從「自動化」→「長按懸浮球」中移除自訂快捷指令。";
 
-/* No comment provided by engineer. */
-"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "如需獲取更准確的通話記錄，你需要通過 TrollFools 或類似技術將其注入到 “WeChat” 應用程式中。";
+/* Translated with LLM */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "如需獲取更準確的通話記錄，你需要透過 TrollFools 或類似技術將其注入到 “WeChat” 應用程式中。";
 
-/* No comment provided by engineer. */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "如需保持 WebDAV 服務的活躍狀態，你需要為巨魔錄音機選擇 “總是” 或 “使用 App 時” 。";
+/* Translated with LLM */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "如需保持 WebDAV 服務的活躍狀態，你需要為 TrollRecorder 選擇「總是」或「使用 App 時」。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "如需使用智能雲端存檔，你需要為巨魔錄音機啟用背景 App 重新整理。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "要使用智能雲端存檔，你必須在設定中登入 iCloud 雲碟。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To: %@" = "結束於：%@";
 
-/* No comment provided by engineer. */
-"toggle" = "toggle";
+/* Translated with LLM */
+"toggle" = "切換";
 
-/* TODO */
-"Toggle ${requestedMode}" = "Toggle ${requestedMode}";
+/* Translated with LLM */
+"Toggle ${requestedMode}" = "切換 ${requestedMode}";
 
-/* TODO */
-"Toggle Call Recording" = "Toggle Call Recording";
+/* Translated with LLM */
+"Toggle Call Recording" = "開始/停止通話錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle Hoverball" = "打開/關閉懸浮球";
 
-/* No comment provided by engineer. */
-"Toggle ON/OFF the recorder hoverball." = "啟動服務，并打開/關閉錄音懸浮球。";
+/* Translated with LLM */
+"toggle hoverball" = "打開/關閉懸浮球";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Toggle ON/OFF the recorder hoverball." = "打開/關閉錄音懸浮球。";
+
+/* Translated with LLM */
 "Toggle Recording" = "開始/停止錄音";
 
-/* TODO */
-"Toggle Screen Recording" = "Toggle Screen Recording";
+/* Translated with LLM */
+"toggle recording" = "開始/停止錄音";
 
-/* TODO */
-"Toggle System Audio Recording" = "Toggle System Audio Recording";
+/* Translated with LLM */
+"Toggle Screen Recording" = "切換螢幕錄影";
 
-/* TODO */
-"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
+/* Translated with LLM */
+"toggle screen recording" = "切換螢幕錄影";
 
-/* TODO */
-"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
+/* Translated with LLM */
+"Toggle System Audio Recording" = "開始/停止系統音訊錄製";
 
-/* TODO */
-"Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
+/* Translated with LLM */
+"Toggle system screen recording just like what you do in the Control Center." = "切換系統螢幕錄影，就像你在控制中心所做的一樣。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Toggle Voice Memo Recording" = "開始/停止語音備忘錄";
+
+/* Translated with LLM */
+"Token expired. Please re-authorize to continue." = "令牌已過期。請重新授權以繼續。";
+
+/* Translated with LLM */
 "top edge" = "頂部邊緣";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Total size is %@, path is %@" = "總大小為 %@，路徑為 %@";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To…" = "結束於…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Track Location Updates" = "處理位置變化";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "trailing edge" = "右部邊緣";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transcript" = "轉錄";
 
-/* TODO */
+/* Translated with LLM */
 "Transcript Copied" = "已複製轉錄";
 
-/* TODO */
-"Transfer exceeded." = "Transfer exceeded.";
+/* Translated with LLM */
+"Transfer exceeded." = "傳輸數據量超出限制。";
 
-/* TODO */
-"Transfer Recordings" = "Transfer Recordings";
+/* Translated with LLM */
+"Transfer Recordings" = "傳輸錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transition When Idle" = "閑置效果";
 
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "由 @CaslenZ 翻譯";
 
-/* TODO */
-"Trim" = "Trim";
+/* Translated with LLM */
+"Trim" = "修剪";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Troll Recorder" = "巨魔錄音機";
 
-/* TODO */
-"Troll Recorder %@" = "Troll Recorder %@";
+/* Translated with LLM */
+"Troll Recorder %@" = "巨魔錄音機 %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "tts" = "TTS";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"tts playback" = "TTS 播放";
+
+/* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "關閉此選項，使此頁面上的其他選項對當前應用程式生效。";
 
-/* No comment provided by engineer. */
-"Two-digit Day of Month Number" = "兩位數月份日期";
+/* Translated with LLM */
+"Two-digit Day of Month Number" = "月份日期兩位數";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Hours, 12-hour Clock" = "兩位數小時（12小時制）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Hours, 24-hour Clock" = "兩位數小時（24小時制）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Minutes" = "兩位數分鐘";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Month Number" = "兩位數月份";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Seconds" = "兩位秒數";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Type to search…" = "鍵入以搜尋…";
 
-/* TODO */
-"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage.";
+/* Translated with LLM */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "無法找到用於雙向同步的遠端目錄。你可能需要在遠端儲存空間建立「TrollRecorder/Recordings」目錄。";
 
-/* TODO */
-"Unable to locate your personal “OneDrive”." = "Unable to locate your personal “OneDrive”.";
+/* Translated with LLM */
+"Unable to locate your personal “OneDrive”." = "無法找到您個人的「OneDrive」。";
 
-/* TODO */
-"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Unable to perform incremental bi-directional synchronization, a full resynchronization is required.";
+/* Translated with LLM */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "無法執行增量式雙向同步，需要進行完整重新同步。";
 
-/* TODO */
-"Unauthorize" = "Unauthorize";
+/* Translated with LLM */
+"Unauthorize" = "取消授權";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Uncompressed" = "未壓縮 (PCM)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Underscore" = "下劃綫";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown" = "未知";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Address" = "未知地址";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Artist" = "未知藝術家";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Direction" = "未知方向";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Duration" = "未知持續時間";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Error" = "未知錯誤";
 
-/* TODO */
-"Unknown error occurred." = "Unknown error occurred.";
+/* Translated with LLM */
+"Unknown error occurred." = "發生未知錯誤。";
 
-/* TODO */
-"Unknown error occurred. Please check the log for more details." = "Unknown error occurred. Please check the log for more details.";
+/* Translated with LLM */
+"Unknown error occurred. Please check the log for more details." = "發生未知錯誤。請檢查記錄以取得更多詳細資料。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown File Format" = "未知檔案格式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Location" = "未知地點";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Operator" = "未知運營商";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Phone Address" = "未知電話號碼";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Place" = "未知地點";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Provider" = "未知提供方";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Sample Rate" = "未知采樣率";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Sender" = "未知號卡";
 
-/* TODO */
-"Unknown Type" = "Unknown Type";
+/* Translated with LLM */
+"Unknown Type" = "未知類型";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Variant" = "未知變體";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unlock all features?" = "解鎖全部功能？";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmark" = "取消收藏";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "unmute" = "取消靜音";
 
-/* TODO */
-"Unmute ${requestedChannel}" = "Unmute ${requestedChannel}";
+/* Translated with LLM */
+"Unmute ${requestedChannel}" = "取消 ${requestedChannel} 靜音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"unmute call" = "取消靜音通話";
+
+/* Translated with LLM */
 "Unmute Existing Calls" = "取消靜音現有通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmute specified channel of all existing calls." = "取消靜音所有通話的指定通道。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unspecified" = "未指定";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unsupported Configuration" = "不支援的配置";
 
-/* TODO */
-"Untitled" = "Untitled";
+/* Translated with LLM */
+"Untitled" = "未命名";
 
-/* TODO */
-"Up to 5 Personal Devices" = "在多達 5 臺裝置上同時使用";
+/* Translated with LLM */
+"Up to 5 Personal Devices" = "在多達 5 部個人裝置上使用";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Updating…" = "正在更新…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upgrade Now" = "立即更新";
 
-/* No comment provided by engineer. */
-"Upgrade to %@" = "升級到 %@";
+/* Translated with LLM */
+"Upgrade to %@" = "升級至 %@";
 
-/* TODO */
-"uplink" = "uplink";
+/* Translated with LLM */
+"uplink" = "上行";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Uplink (Microphone)" = "上行（咪高風）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"uplink playback" = "上行鏈路播放";
+
+/* Translated with LLM */
+"uplink voice" = "上行語音";
+
+/* Translated with LLM */
 "Upload" = "上載";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upload, download or synchronize recordings between local and cloud drive." = "在本地與雲端之間上載、下載或同步錄音。";
 
-/* TODO */
-"Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Upload local recordings to cloud drives as is. Restorable.";
+/* Translated with LLM */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "上載：將本機錄音原封不動上載到雲端磁碟機。可還原。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "使用生物特徵識別驗證來解鎖應用程式。啟用此功能時，後台播放不可用。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Cellular Network" = "使用流動網絡";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Date" = "按日期…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Date Range" = "按日期範圍…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Default Settings" = "使用默認設定";
 
-/* No comment provided by engineer. */
-"Use Haptic Patterns" = "觸感反饋";
+/* Translated with LLM */
+"Use Haptic Patterns" = "使用觸感模式";
 
-/* TODO */
-"Use Media Controls" = "Use Media Controls";
+/* Translated with LLM */
+"Use Media Controls" = "使用媒體控制";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Recycle Bin" = "使用回收站";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Snapshot Transition" = "使用快照效果";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Agreement" = "用戶合約";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Applications" = "用戶應用程式";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User denied access to speech recognition." = "用戶拒絕了對語音識別授予隱私訪問授權。";
 
-/* TODO */
-"User Initiated Recording" = "User Initiated Recording";
+/* Translated with LLM */
+"User Initiated Recording" = "使用者發起錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Interface Style" = "界面樣式";
 
-/* TODO */
-"Username (Optional)" = "Username (Optional)";
+/* Translated with LLM */
+"Username (Optional)" = "用戶名稱（可選）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Utility" = "實用工具";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant" = "變體";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant Capitalized" = "變體（首字母大寫）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant Description" = "變體（描述）";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Verification Failed" = "驗證失敗";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Verify License" = "驗證授權";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Version %@ Build %@" = "版本 %1$@ 構建 %2$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Version %@ Build %@ - New Version %@ Build %@" = "版本 %1$@ 構建 %2$@ - 新版本 %3$@ 構建 %4$@";
 
-/* TODO */
-"Vibrate" = "Vibrate";
+/* Translated with LLM */
+"Vibrate" = "震動";
 
-/* TODO */
-"View" = "View";
+/* Translated with LLM */
+"View" = "檢視";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Details" = "查看詳細資訊";
 
-/* TODO */
-"View Logs" = "View Logs";
+/* Translated with LLM */
+"View Logs" = "檢視日誌";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Application" = "應用程式";
 
-/* TODO */
-"View Logs: Audio Player" = "View Logs: Audio Player";
+/* Translated with LLM */
+"View Logs: Audio Player" = "檢視記錄：音訊播放器";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Call Monitor" = "通話監視服務";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Call Recorder" = "通話錄音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Hoverball" = "懸浮球";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Launch Agent" = "啟用代理";
 
-/* TODO */
-"View Logs: Network Storage" = "View Logs: Network Storage";
+/* Translated with LLM */
+"View Logs: Network Storage" = "檢視記錄：網絡儲存";
 
-/* TODO */
-"View Logs: Speech Utterance" = "View Logs: Speech Utterance";
+/* Translated with LLM */
+"View Logs: Speech Utterance" = "檢視記錄：語音詞組";
 
-/* TODO */
-"View Logs: System Audio" = "View Logs: System Audio";
+/* Translated with LLM */
+"View Logs: System Audio" = "檢視日誌：系統音訊";
 
-/* TODO */
-"View Logs: Voice Memo" = "View Logs: Voice Memo";
+/* Translated with LLM */
+"View Logs: Voice Memo" = "檢視記錄：語音備忘錄";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View My Account" = "查看我的賬戶";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Recording Details" = "查看錄音詳細資訊";
 
-/* No comment provided by engineer. */
-"VIP contacts will always be recorded and added to the favourites." = "VIP聯絡人將總是被錄音並添加到收藏中。";
+/* Translated with LLM */
+"VIP contacts will always be recorded and added to the favourites." = "VIP 聯絡人將始終被錄音並加入至收藏。";
 
-/* TODO */
-"Voice Memo" = "Voice Memo";
-
-/* TODO */
-"Voice Memo Recording" = "Voice Memo Recording";
-
-/* TODO */
-"voice memo recording" = "voice memo recording";
-
-/* TODO */
-"Voice Memos" = "Voice Memos";
+/* Translated with LLM */
+"voice memo recording" = "語音備忘錄錄音";
 
 /* No comment provided by engineer. */
 "voice-over" = "Voice-Over";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Voice-Over Voice" = "Voice-Over 語音";
 
-/* TODO */
+/* Translated with LLM */
+"Voice Memo" = "語音備忘錄";
+
+/* Translated with LLM */
+"Voice Memo Recording" = "開始/停止語音備忘錄錄音";
+
+/* Translated with LLM */
+"Voice Memos" = "語音備忘錄";
+
+/* Translated with LLM */
 "VoIP" = "VoIP";
 
-/* TODO */
-"Volume" = "Volume";
+/* Translated with LLM */
+"Volume" = "容量";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "wait" = "等待";
 
-/* TODO */
-"Wait for ${requestedTimeout} seconds" = "Wait for ${requestedTimeout} seconds";
+/* Translated with LLM */
+"Wait for ${requestedTimeout} seconds" = "等待 ${requestedTimeout} 秒";
 
-/* No comment provided by engineer. */
-"Wait for any calls to be answered and connected." = "等待任意通話被接聽並接通。";
+/* Translated with LLM */
+"Wait for any calls to be answered and connected." = "等待任何通話被接聽並接通。";
 
-/* TODO */
-"Wait for Calls" = "Wait for Calls";
+/* Translated with LLM */
+"wait for call" = "等待通話";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Wait for Calls" = "等待來電";
+
+/* Translated with LLM */
 "Wait for Connected Calls" = "等待接通";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "警告，您的通話正在被錄音。 警告，您的通話正在被錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Waveform Audio" = "波形音訊 (wav)";
 
-/* TODO */
-"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed.";
+/* Translated with LLM */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "由於時間不準確，我們無法驗證你的購買。請確保裝置時間準確以繼續。";
 
-/* TODO */
-"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed.";
+/* Translated with LLM */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "我們無法在無痕瀏覽模式下驗證你的購買。請確保你不在 Safari 的無痕瀏覽模式下以繼續。";
 
-/* TODO */
-"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+/* Translated with LLM */
+"We couldn’t finish importing recordings from %@." = "我們無法完成從 %@ 匯入錄音。";
 
-/* No comment provided by engineer. */
-"We love colorful and moving backgrounds, but option here for you to disable it." = "我們喜歡移動著的、多彩的背景，但是我們依然提供了選項讓你來關閉它。";
+/* Translated with LLM */
+"We love colorful and moving backgrounds, but option here for you to disable it." = "我們喜歡色彩繽紛且會動的背景，但這裡提供選項讓你關閉它。";
 
-/* TODO */
+/* Translated with LLM */
 "WebDAV" = "WebDAV";
 
-/* TODO */
-"WebDAV Password Actions" = "WebDAV Password Actions";
+/* Translated with LLM */
+"WebDAV Password Actions" = "WebDAV 密碼操作";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WebDAV Server" = "WebDAV 伺服器";
 
-/* TODO */
-"WeChat" = "WeChat";
+/* Translated with LLM */
+"WeChat" = "微信";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WeChat Assistant" = "WeChat 通話助理";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Welcome to" = "歡迎使用";
 
-/* TODO */
-"We’re recording system audio in the background." = "We’re recording system audio in the background.";
+/* Translated with LLM */
+"We’re recording system audio in the background." = "我們正在背景錄製系統音訊。";
 
-/* TODO */
-"We’re recording your voice memo in the background." = "We’re recording your voice memo in the background.";
+/* Translated with LLM */
+"We’re recording your voice memo in the background." = "我們正在背景錄製您的語音備忘錄。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new phone call recording!" = "我們生成了一份新的通話錄音！";
 
-/* TODO */
-"We’ve got a new system audio recording!" = "We’ve got a new system audio recording!";
+/* Translated with LLM */
+"We’ve got a new system audio recording!" = "我哋錄到一段新嘅系統音頻！";
 
-/* TODO */
-"We’ve got a new voice memo!" = "We’ve got a new voice memo!";
+/* Translated with LLM */
+"We’ve got a new voice memo!" = "我哋有新嘅語音備忘錄！";
 
-/* No comment provided by engineer. */
-"We’ve got new phone call recordings!" = "我們生成了一份新的通話錄音！";
+/* Translated with LLM */
+"We’ve got new phone call recordings!" = "我們有新的通話錄音！";
 
-/* TODO */
-"What’s New" = "What’s New";
+/* Translated with LLM */
+"What’s New" = "最新消息";
 
-/* TODO */
-"When any of the following actions is triggered, run the shortcut without any notification." = "When any of the following actions is triggered, run the shortcut without any notification.";
+/* Translated with LLM */
+"When any of the following actions is triggered, run the shortcut without any notification." = "當觸發以下任何操作時，無需通知即可執行捷徑。";
 
-/* TODO */
-"When Foreground" = "When Foreground";
+/* Translated with LLM */
+"When Foreground" = "在前台時";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Locked" = "僅鎖定時";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "未連接 WLAN 時，使用流動網絡傳輸錄音。可能會產生額外費用。";
 
-/* TODO */
-"When there is no call…" = "When there is no call…";
+/* Translated with LLM */
+"When there is no call…" = "當沒有通話時…";
 
-/* TODO */
-"When Visible" = "When Visible";
+/* Translated with LLM */
+"When Visible" = "可見時";
 
-/* TODO */
-"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc.";
+/* Translated with LLM */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "啟用 WebDAV 伺服器後，是否允許你從 Safari、Chrome、Edge 等常見網頁瀏覽器存取。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to force the application to use the light or the dark user interface." = "是否强制應用程式使用淺色或深色用戶界面。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to force the hoverball to use the light or the dark style." = "是否强制懸浮球使用淺色或深色樣式。";
 
-/* TODO */
-"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing.";
+/* Translated with LLM */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "是否無限重複播放音訊。如啟用，此動作會在開始播放後立即返回。";
 
-/* No comment provided by engineer. */
-"Which channel to mute." = "需要靜音的通道。";
+/* Translated with LLM */
+"Which channel to mute." = "需要靜音的頻道。";
 
-/* No comment provided by engineer. */
-"Which channel to unmute." = "需要取消靜音的通道。";
+/* Translated with LLM */
+"Which channel to unmute." = "需要取消靜音的頻道。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which edges of the screen the hoverball can be attached to." = "懸浮球可以附著在螢幕的哪些邊緣。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Why don’t you make a phone call?" = "為什麽不打個電話試試呢？";
 
-/* TODO */
-"Wi-Fi Required" = "Wi-Fi Required";
+/* Translated with LLM */
+"Wi-Fi Required" = "需要 Wi-Fi";
 
-/* No comment provided by engineer. */
-"Will start recording automatically on audio or video calls in the current application." = "在當前應用程式中通話時自動開啟錄音。";
+/* Translated with LLM */
+"Will start recording automatically on audio or video calls in the current application." = "在當前應用程式中通話時自動開始錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Will start recording automatically on audio or video calls." = "通話時自動開始錄音。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "分享或匯出音頻檔案時寫入 ID3 標簽，包括標題、藝術家、專輯、流派、年份和封面。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write latitude and longitude to the recording metadata." = "將經緯度寫入錄音元數據。";
 
-/* No comment provided by engineer. */
-"Write runtime logs into filesystem. You need to restart services to apply changes." = "將運行時日志寫入檔案系統。你需要重新啟動服務以應用更改，";
+/* Translated with LLM */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "將運行時日誌寫入檔案系統。你需要重新啟動服務以應用更改。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Year Month Day" = "年/月/日";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "YES" = "是";
 
-/* TODO */
-"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!";
+/* Translated with LLM */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "你即將徹底清除所有錄音、重設所有設定，並完全清空所有快取。\n此操作無法復原！";
 
-/* TODO */
-"You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
+/* Translated with LLM */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "你即將修復所有錄音和設定的檔案系統擁有者及權限。";
 
-/* TODO */
-"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements.";
+/* Translated with LLM */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "你已經在使用最新版本的「TrollRecorder」%1$@ (%2$@)。";
 
-/* No comment provided by engineer. */
-"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必須選擇“總是”以使巨魔錄音機能够在後台確定你的位置。 如果你選擇“使用 App 時”，你需要在錄音結束後15分鐘內啟動應用程式以更新位置。";
+/* Translated with LLM */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "你可以在「設定」→「輔助功能」→「VoiceOver」→「語音」→「聲音」中下載語音套件，然後在此選擇一種，用於語音公告。";
 
-/* No comment provided by engineer. */
-"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要啟用“增强自動錄音”或“增强通話場景識別”以使此頁面上的選項生效。";
+/* Translated with LLM */
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "你必須選擇「總是」以使 TrollRecorder 能夠在背景確定你的位置。如果你選擇「使用 App 時」，位置只會在你錄音後啟動應用程式時更新。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "你可能需要啟用「增强自動錄音」或「增强通話場景識別」以使此頁面上的選項生效。";
+
+/* Translated with LLM */
 "You may need to reboot your device to make this application work properly." = "你可能需要重新啟動你的裝置以使此應用程式正常工作。";
 
-/* TODO */
-"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Your information on this %1$@ will be uploaded and merged with the recordings stored in “%2$@”.";
+/* Translated with LLM */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "你在這個 %1$@ 上的資訊將會上載，並與儲存在「%2$@」中的錄音合併。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’re now using the free version of “TrollRecorder JB”." = "您現在正在試用巨魔錄音機越獄版。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’re now using the free version of “TrollRecorder”." = "您現在正在試用巨魔錄音機。";
 
-/* TODO */
-"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes.";
+/* Translated with LLM */
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "你已將應用程式的顯示語言變更為「%@」。需要重新載入才能完全套用變更。";
 
-/* TODO */
-"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates.";
+/* Translated with LLM */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "你已更改「自訂匯出名稱」。是否要重新產生「網絡儲存」中的已歸檔錄音？\n此操作可能需要一段時間，並消耗額外的流動數據用量。你可能需要從雲端硬碟刪除「TrollRecorder/ArchivedRecordings」以避免重複。";
 
-/* TODO */
-"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available.";
+/* Translated with LLM */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "你選擇在沒有有效代碼簽署的情況下繼續。你仍可使用此應用程式檢視或匯出現有錄音，但其他功能可能無法使用。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "你已啟用生物特徵識別驗證，因此需要驗證你的身份。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve pressed cancel." = "你已經按下取消。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve pressed password." = "你選擇了密碼驗證。";
 
-/* TODO */
-"¼ Audio CD" = "¼ Audio CD";
+/* Translated with LLM */
+"¼ Audio CD" = "¼ 音頻 CD";
 
-/* TODO */
-"½ Audio CD" = "½ Audio CD";
+/* Translated with LLM */
+"½ Audio CD" = "½ 音頻 CD";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“%@” is not available." = "“%@” 不可用。";
 
-/* No comment provided by engineer. */
-"“Background App Refresh” Permission Denied" = "“背景 App 重新整理” 被拒絕";
+/* Translated with LLM */
+"“Background App Refresh” Permission Denied" = "「背景 App 重新整理」權限被拒絕";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“iCloud Drive” Not Logged In" = "未登入 “iCloud 雲碟”";
 
-/* TODO */
-"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
+/* Translated with LLM */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "已啟用「Launch Shield」：在某些情況下，服務會被重新啟用。若要永久停止服務，請停用「進階選項」→「Launch Shield」，退出並重新開啟應用程式，然後再次選擇此選項。";
 
-/* TODO */
-"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
+/* Translated with LLM */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "「TrollRecorder JB」及 TrollStore 版本均已安裝。請移除兩者，然後從 Sileo 重新安裝「TrollRecorder JB」，或從 TrollStore 重新安裝「TrollRecorder」。";
 
-/* TODO */
-"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore.";
+/* Translated with LLM */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "「TrollRecorder JB」與 Bootstrap (RootHide) 不相容。請移除「TrollRecorder JB」，然後從 TrollStore 安裝 TrollRecorder。";
 
-/* TODO */
-"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+/* Translated with LLM */
+"“TrollRecorder” is not compatible with this version of iOS." = "「TrollRecorder」與此 iOS 版本不相容。";
 
 /* No comment provided by engineer. */
 "…" = "…";

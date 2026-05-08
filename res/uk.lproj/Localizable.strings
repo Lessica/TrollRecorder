@@ -1,1357 +1,1492 @@
 /* No comment provided by engineer. */
 "%@ Hz" = "%@ Hz";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is locked." = "%@ заблоковано.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not available." = "%@ недоступний.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not implemented yet." = "%@ ще не реалізовано.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not set up." = "%@ не налаштовано.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ may not be configured" = "%@ може бути не налаштовано";
 
-/* TODO */
-"%@ Reason: %@" = "%1$@ Reason: %2$@";
+/* Translated with LLM */
+"%@ Reason: %@" = "%1$@ Причина: %2$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ rows not loaded" = "%@ рядків не завантажено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%d Exclusive Features" = "%d ексклюзивних функцій";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recording" = "%ld запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recording ◇ %@" = "%ld запис ◇ %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recordings" = "%ld записів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recordings ◇ %@" = "%ld записів ◇ %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "(%lu bytes)" = "(%lu байт)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "(%lu items)" = "(%lu елементів)";
 
 /* No comment provided by engineer. */
 "(null)" = "(null)";
 
-/* No comment provided by engineer. */
-"--arg=value" = "--arg=значення";
+/* Translated with LLM */
+"--arg=value" = "--arg=value";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "3 Seconds" = "3 секунди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "30 Days Ago" = "30 днів тому";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "4 Seconds" = "4 секунди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "45 Days Ago" = "45 днів тому";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "5 Seconds" = "5 секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "6 Seconds" = "6 секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "90 Days Ago" = "90 днів тому";
 
 /* No comment provided by engineer. */
 "<%@: %p>" = "<%@: %p>";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "A new version (%@) of “TrollRecorder” is available." = "Доступна нова версія (%@) «TrollRecorder».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "A respring is required to completely apply the changes." = "Для застосування змін потрібен respring.";
 
-/* No comment provided by engineer. */
-"A widget is required for the “Launch Shield” feature." = "Для функції «Launch Shield» потрібен віджет.";
+/* Translated with LLM */
+"A widget is required for the “Launch Shield” feature." = "Для функції «Launch Shield» потрібен віджет.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "accept" = "прийняти";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Accept all incoming calls automatically." = "Автоматично приймати всі вхідні дзвінки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"accept call" = "прийняти дзвінок";
+
+/* Translated with LLM */
 "Accept Incoming Calls" = "Приймати вхідні дзвінки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Access From Web Browser" = "Доступ з браузера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Доступ до записів через WebDAV-браузер з іншого пристрою в мережі. Сервер активний лише коли додаток на передньому плані.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "activate" = "активувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"activate hoverball" = "активувати плаваючу кнопку";
+
+/* Translated with LLM */
 "Activate the recorder hoverball." = "Активувати плаваючу кнопку для запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add" = "Додати";
 
-/* TODO */
+/* Translated with LLM */
 "Add Argument" = "Новий аргумент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add Now" = "Додати зараз";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add Required Widget" = "Додати необхідний віджет";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Add Token" = "Додати маркер";
+
+/* Translated with LLM */
+"Add Tokens" = "Додати токени";
+
+/* Translated with LLM */
 "Additional command-line options for the Rclone synchronization tool." = "Додаткові параметри командного рядка для інструменту синхронізації Rclone.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Additional Contact" = "Додатковий контакт";
 
-/* No comment provided by engineer. */
-"Adequate" = "Adequate";
+/* Translated with LLM */
+"Adequate" = "Достатньо";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Audio Coding" = "Advanced Audio Coding (AAC)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Options" = "Додаткові налаштування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Search" = "Розширений пошук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "After %@" = "Після %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Agree" = "Погоджуюсь";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Alias" = "Псевдонім";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "alive" = "активний";
 
-/* TODO */
-"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+/* Translated with LLM */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "Усі дзвінки записуватимуться автоматично, за винятком контактів зі «Списку виключення». VIP-контакти також буде додано до обраного.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "All Edges" = "Усі грані";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Логи зберігаються 7 днів. Застарілі логи видаляються автоматично.";
 
-/* TODO */
-"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
+/* Translated with LLM */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "Усі записи з %@ тепер доступні на цьому пристрої. Ви можете закрити цей екран, коли будете готові.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Access to Call History" = "Дозволити доступ до історії дзвінків";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Automatic Recording" = "Дозволити автоматичний запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Hoverball Wake-Ups" = "Дозволити пробудження плаваючої кнопки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Дозволити читання списку контактів WeChat та історії VoIP-дзвінків для підстановки імен у записах. Підтримуються лише свіжі версії WeChat.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Дозволити запис дзвінків на пристроях з вашим iCloud, коли вони поряд і в мережі Wi-Fi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always" = "Завжди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Dark" = "Завжди темна";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Dynamic" = "Завжди динамічна";
 
-/* No comment provided by engineer. */
-"Always Fold" = "Завжди згорнуто";
+/* Translated with LLM */
+"Always Fold" = "Завжди згортати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always keep the hoverball window visible." = "Завжди тримати плаваючу кнопку видимою.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Keep-Alive in Background" = "Завжди активний у фоні";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Light" = "Завжди світла";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always On" = "Завжди увімкнено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always schedule background processing tasks to run at the next available opportunity." = "Завжди планувати фонові задачі на найближчий доступний час.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "AM/PM String" = "AM/PM строка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "An unknown error occurred." = "Сталася невідома помилка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Analysing Audio" = "Аналіз аудіо";
 
-/* No comment provided by engineer. */
-"Another %@ is required to continue editing. Available capacity is %@." = "Потрібно ще %@ для редагування. Доступно %@.";
+/* Translated with LLM */
+"Another %@ is required to continue editing. Available capacity is %@." = "Потрібно ще %1$@ для продовження редагування. Доступно %2$@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "answer" = "відповідь";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"answer call" = "відповісти на дзвінок";
+
+/* Translated with LLM */
+"answer incoming call" = "відповісти на вхідний дзвінок";
+
+/* Translated with LLM */
 "answered" = "відповіли";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"answered call" = "відповів на дзвінок";
+
+/* Translated with LLM */
 "Any" = "Будь-який";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "App Icon" = "Іконка додатка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "App Language" = "Мова додатка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Appearance" = "Зовнішній вигляд";
 
-/* No comment provided by engineer. */
-"Apple’s Core Audio" = "Apple’s Core Audio";
+/* Translated with LLM */
+"Apple’s Core Audio" = "Core Audio від Apple";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Application" = "Додаток";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Application Overrides" = "Перевизначення додатка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Applications" = "Додатки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"App Store" = "App Store";
+
+/* Translated with LLM */
 "archive" = "архів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Archive" = "Архів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Archive Regeneration" = "Відтворення архіву";
 
-/* No comment provided by engineer. */
-"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Архів: використовуйте «Спільний доступ» → «Власна назва експорту» для перейменування локальних записів та завантаження в хмару. Відновлення неможливе.";
+/* Translated with LLM */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Архів: використовуйте «Спільний доступ» → «Власна назва експорту» для перейменування локальних змішаних та комбінованих основних записів і завантаження в хмару. Відновлення неможливе.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Are you sure you want to discard the changes you made?" = "Ви впевнені, що хочете скасувати зміни?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Are you sure you want to remove all shortcut definitions?" = "Ви впевнені, що хочете видалити всі визначення ярликів?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Arguments added on this page will be passed through to the rclone command line exactly as entered." = "Аргументи, додані на цій сторінці, будуть передані в командний рядок rclone точно так, як вони введені.";
+
+/* Translated with LLM */
 "Associate with Call History" = "Пов’язати з історією дзвінків";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "At the end of recording, the audio files of each channel during recording are retained." = "Після завершення запису зберігаються аудіофайли кожного каналу.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Attachable Edges" = "Кріпильні краї";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "audio" = "аудіо";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio CD" = "Аудіо CD";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio File" = "Аудіофайл";
 
-/* No comment provided by engineer. */
-"Audio played to %@" = "Аудіо відтворено для %@";
+/* Translated with LLM */
+"Audio played to %@" = "Аудіо відтворено до %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio progress" = "Прогрес аудіо";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authenticate with %@" = "Автентифікація через %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorization error: %@" = "Помилка авторизації: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorization flow was manually canceled by user." = "Користувач вручну скасував процес авторизації.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Dropbox" = "Авторизуватися через Dropbox";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Google" = "Авторизуватися через Google";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Microsoft" = "Авторизуватися через Microsoft";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatic" = "Автоматично";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatic Recording" = "Автоматичний запис";
 
-/* TODO */
-"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+/* Translated with LLM */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Автоматичний запис вимкнено. Дзвінки не будуть записуватися автоматично в жодному разі.";
 
-/* No comment provided by engineer. */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Щомісяця автоматично створювати копії змішаних записів та зберігати їх у iCloud Drive. Записи поточного місяця не архівуються.";
+/* Translated with LLM */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Щомісяця автоматично створювати копії змішаних та комбінованих основних записів та зберігати їх у iCloud Drive. Записи поточного місяця не архівуються.";
 
-/* No comment provided by engineer. */
-"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Автоматичний запуск фонових служб після перезавантаження. Для роботи потрібен віджет «TrollRecorder» на екрані блокування або домашньому екрані.";
+/* Translated with LLM */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Автоматичний запуск фонових служб після перезавантаження та розблокування пристрою. Для роботи потрібен віджет «TrollRecorder» на екрані блокування або головному екрані.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically merge microphone and speaker into a single file after record complete." = "Автоматично об’єднувати мікрофон та динамік в один файл після запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Автоматично переміщувати плаваючу кнопку, щоб уникнути перекриття клавіатури.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically purge recycle bin and remove failure caches." = "Автоматично очищати кошик та видаляти помилкові кеші.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically query the latest version from GitHub when the application starts." = "Автоматично перевіряти нову версію на GitHub при запуску додатка.";
 
-/* TODO */
-"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+/* Translated with LLM */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Автоматично записувати всі дзвінки FaceTime: за винятком контактів зі «Списку виключення».";
 
-/* TODO */
-"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+/* Translated with LLM */
+"Automatically record FaceTime calls from contacts not in your address book." = "Автоматично записувати дзвінки FaceTime від контактів, яких немає у вашій адресній книзі.";
 
-/* TODO */
-"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+/* Translated with LLM */
+"Automatically record phone calls from contacts not in your address book." = "Автоматично записувати телефонні дзвінки від контактів, яких немає у вашій адресній книзі.";
 
-/* TODO */
-"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
+/* Translated with LLM */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Автоматично записувати телефонні дзвінки: за винятком контактів зі «Списку виключення».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Автоматично видаляти записи, створені раніше вказаної дати, крім позначених.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically stop recording when available disk space is extremely low." = "Автоматично зупиняти запис при критичному нестачанні місця.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically Suspend in Background" = "Автоматично призупиняти у фоні";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Автоматично переходити на робочий стіл при розблокуванні. Не діє, якщо розблокування відбулося протягом 10 секунд після блокування.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automation" = "Автоматизація";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Не блокувати екран автоматично під час використання WebDAV-сервера.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Background Style" = "Стиль фону";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "backup" = "резервна копія";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Backup Synchronized" = "Резервну копію синхронізовано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Backup With iCloud" = "Резервне копіювання в iCloud";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Batch Export" = "Пакетний експорт";
 
-/* TODO */
+/* No comment provided by engineer. */
 "BatchExport_%@.zip" = "BatchExport_%@.zip";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Before %@" = "До %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Перед початком запису дзвінка відтворюється голосове попередження.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"begin recording" = "почати запис";
+
+/* Translated with LLM */
+"begin screen recording" = "почати запис екрану";
+
+/* Translated with LLM */
 "Beta" = "Бета";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bi-sync" = "Двостороння синхронізація";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bi-sync: Perform bidirectional synchronization between two paths." = "Двостороння синхронізація: синхронізація в обох напрямках.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Biometric Authentication" = "Біометрична аутентифікація";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"block incoming call" = "заблокувати вхідний дзвінок";
+
+/* Translated with LLM */
 "Bonjour server started at: %@" = "Сервер Bonjour запущено: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Boost Periodic Tasks" = "Пришвидшення періодичних задач";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (режим сумісності з TrollStore)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Both (Microphone & Speaker)" = "Обидва (мікрофон та динамік)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "bottom edge" = "нижній край";
 
-/* No comment provided by engineer. */
-"Build and use a custom export name template for exported audio files." = "Створити шаблон назви для експортованих аудіофайлів.";
+/* Translated with LLM */
+"Build and use a custom export name template for exported audio files." = "Створити та використовувати власний шаблон назви для експортованих аудіофайлів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Display Name" = "Відображувана назва пакунка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Identifier" = "Ідентифікатор пакунка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Name" = "Назва пакунка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Buy TrollRecorder Pro" = "Купити TrollRecorder Pro";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Calculating…" = "Обчислення…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call" = "Дзвінок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "call" = "дзвінок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call audio on" = "увімкнути звук дзвінка";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Не вдалося відстежити аудіопотік виклику. Негайний перезапуск демона може вирішити цю проблему. Продовжити?";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Моніторинг аудіоканалу виклику не вдався. Торкніться цього сповіщення, щоб перезапустити службу запису.";
+
+/* Translated with LLM */
+"call connected" = "дзвінок з’єднано";
+
+/* Translated with LLM */
 "Call Direction" = "Напрямок дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call duration" = "тривалість дзвінка";
+
+/* Translated with LLM */
 "Call Identifier" = "Ідентифікатор дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call information" = "інформація про дзвінок";
+
+/* Translated with LLM */
 "Call Recording" = "Запис дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call Recording Begins" = "Початок запису дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call Recording Ends" = "Кінець запису дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording from “%@” and other %ld applications." = "Запис дзвінків з «%@» та %ld інших додатків.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording from “%@”." = "Запис дзвінків з «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Запис починається лише після відповіді на дзвінок.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call State" = "Стан дзвінка";
 
-/* No comment provided by engineer. */
-"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Запис можливий лише при використанні мікрофона цього пристрою.";
+/* Translated with LLM */
+"call status" = "статус дзвінка";
 
-/* No comment provided by engineer. */
-"Camcorder" = "Camcorder";
+/* Translated with LLM */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Запис можливий лише при використанні мікрофона цього пристрою. Дзвінки з цього пристрою, на які відповіли на інших пристроях, не будуть записані.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Camcorder" = "Відеокамера";
+
+/* Translated with LLM */
 "Cancel" = "Скасувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Cannot parse text with UTF-8 encoding: “%@”." = "Не вдалося розібрати текст у кодуванні UTF-8: «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Caution" = "Обережно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "check" = "перевірити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Check if the daemon is running. If not, launch it." = "Перевірити роботу демона. Запустити, якщо не працює.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"check service" = "перевірити службу";
+
+/* Translated with LLM */
 "Check Updates" = "Перевірити оновлення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Check Updates at Launch" = "Перевіряти оновлення при запуску";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Checking service status" = "Перевірка статусу служби";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Child Pages" = "Дочірні сторінки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Виберіть формат аудіо для мікшера. Wave не підтримує розширене кодування.";
 
-/* No comment provided by engineer. */
-"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Виберіть якість аудіо. Вища якість збільшує розмір файлу.";
+/* Translated with LLM */
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Виберіть якість вихідного аудіо для мікшера. Вища якість означає вищу частоту дискретизації та бітрейт, що призведе до більшого розміру файлу.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the output file format for the mixer." = "Виберіть формат файлу для мікшера.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the size preset of the hoverball." = "Виберіть розмір плаваючої кнопки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clean Caches Automatically" = "Автоматично очищати кеш";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clear" = "Очистити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clear Selection" = "Зняти виділення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Clear Tokens" = "Очистити токени";
+
+/* Translated with LLM */
 "Clear Wave Caches" = "Очистити кеш хвиль";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Close" = "Закрити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"close hoverball" = "закрити hoverball";
+
+/* Translated with LLM */
+"cloud archive sync" = "синхронізація хмарного архіву";
+
+/* Translated with LLM */
 "Collapse Recursively" = "Згорнути рекурсивно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Collecting" = "Збір";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Combined" = "Об’єднаний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Combined Mode" = "Об’єднаний режим";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Compiled at %@" = "Зібрано %@";
 
-/* TODO */
-"Compressing" = "Compressing";
+/* Translated with LLM */
+"Compressing" = "Стискання";
 
-/* No comment provided by engineer. */
-"Configure the embedded client with your WebDAV server address, username and password." = "Налаштуйте клієнт WebDAV: адреса сервера, ім'я користувача та пароль.";
+/* Translated with LLM */
+"Configure the embedded client with your WebDAV server address, username and password." = "Налаштуйте клієнт WebDAV: адреса сервера, ім’я користувача та пароль.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Configure WebDAV Client" = "Налаштувати WebDAV-клієнт";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Confirm" = "Підтвердити";
 
-/* No comment provided by engineer. */
-"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Підтвердіть обліковий запис Havoc — це єдиний доказ покупки. Не натискайте на іконку подарунка при оплаті.";
+/* Translated with LLM */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Підтвердіть обліковий запис Havoc — це єдиний доказ покупки. Ви несете відповідальність за будь-яку втрату авторизації через забуті облікові записи. При здійсненні покупки натискайте на суму на сторінці, щоб завершити оплату, не натискайте на іконку подарунка.";
 
-/* TODO */
-"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+/* Translated with LLM */
+"Connect to a Wi‑Fi network before transferring recordings." = "Підключіться до мережі Wi-Fi перед передачею записів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "connected" = "підключено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"connected call" = "з’єднаний дзвінок";
+
+/* Translated with LLM */
 "Connected Clients: %d" = "Підключені клієнти: %d";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Connection" = "Підключення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Constants" = "Константи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Exceptions" = "Винятки контактів";
 
-/* No comment provided by engineer. */
-"Contact Name" = "Ім'я контакту";
+/* Translated with LLM */
+"Contact Name" = "Ім’я контакту";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Phone Address" = "Телефон контакту";
 
-/* No comment provided by engineer. */
-"Contact Us" = "Зв'язатися з нами";
+/* Translated with LLM */
+"Contact Us" = "Зв’язатися з нами";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via Discord" = "Discord";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via Email" = "Email";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via QQ" = "QQ";
 
-/* TODO */
-"Contact via TikTok" = "Contact via TikTok";
+/* Translated with LLM */
+"Contact via TikTok" = "Зв’язок через TikTok";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts" = "Контакти";
 
-/* No comment provided by engineer. */
-"Contacts in this list will not be recorded in any situation." = "Контакти з цього списку не записуватимуться.";
+/* Translated with LLM */
+"Contacts in this list will not be recorded in any situation." = "Контакти з цього списку не записуватимуться в жодній ситуації.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts Permission Denied" = "Доступ до контактів заборонено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Content" = "Вміст";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Content Sharing" = "Спільний доступ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Continue" = "Продовжити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Continuous Playback Off" = "Безперервне відтворення вимкнено";
+
+/* Translated with LLM */
+"Continuous Playback On" = "Безперервне відтворення увімкнено";
+
+/* Translated with LLM */
 "Conversion Failed" = "Помилка перетворення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Conversion Succeed" = "Перетворення успішне";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Convert latitude and longitude to human-readable address." = "Перетворити координати на читабельну адресу.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Convert Now" = "Перетворити зараз";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Converting" = "Перетворення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copied" = "Скопійовано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy" = "Копіювати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Key" = "Копіювати ключ";
 
-/* TODO */
-"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+/* Translated with LLM */
+"Copy or reset the current WebDAV password." = "Скопіюйте або скиньте поточний пароль WebDAV.";
 
-/* TODO */
-"Copy Password" = "Copy Password";
+/* Translated with LLM */
+"Copy Password" = "Скопіювати пароль";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Path" = "Копіювати шлях";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Transcript" = "Копіювати транскрипт";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Value" = "Копіювати значення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not acquire token: %@" = "Не вдалося отримати токен: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not acquire token: No result returned." = "Не вдалося отримати токен: результат відсутній.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not get graph result: %@" = "Не вдалося отримати результат графу: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not sign out account: %@" = "Не вдалося вийти з облікового запису: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Created At" = "Створено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Credentials" = "Облікові дані";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"current call" = "поточний дзвінок";
+
+/* Translated with LLM */
+"current call duration" = "поточна тривалість дзвінка";
+
+/* Translated with LLM */
 "Custom CLI Options" = "Власні параметри CLI";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Export Name" = "Власна назва експорту";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Key Combination…" = "Власна комбінація клавіш…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Layout Guide" = "Шаблон розташування";
 
-/* No comment provided by engineer. */
-"Customize a rectangular region that helps you position the hoverball on the screen." = "Налаштуйте область для позиціювання плаваючої кнопки.";
+/* Translated with LLM */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Налаштуйте прямокутну область, яка допомагає позиціонувати плаваючу кнопку на екрані.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "daemon" = "демон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"daemon running" = "демон працює";
+
+/* Translated with LLM */
+"daemon service" = "служба демона";
+
+/* Translated with LLM */
 "Daily Arranged" = "Щодня";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Date & Time" = "Дата та час";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Day of Month Number" = "Число місяця";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Day of Week String" = "День тижня";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "deactivate" = "деактивувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deactivate" = "Деактивувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deactivate & Sign Out" = "Деактивувати та вийти";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"deactivate hoverball" = "деактивувати плаваючу кнопку";
+
+/* Translated with LLM */
 "Deactivate the recorder hoverball." = "Деактивувати плаваючу кнопку запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Debugging" = "Налагодження";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "decline" = "відхилити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"decline call" = "відхилити дзвінок";
+
+/* Translated with LLM */
 "Decoding" = "Декодування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Default" = "За замовчуванням";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete" = "Видалити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Recording" = "Видалити запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Selected %ld Items" = "Видалити обрані %ld елементів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Selected Item" = "Видалити обраний елемент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deleting" = "Видалення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deselect All" = "Зняти всі позначки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Detail Only" = "Лише деталі";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Developer Options" = "Налаштування розробника";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Digital Video" = "Цифрове відео";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction" = "Напрямок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction Capitalized" = "Напрямок (з великої літери)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction Description" = "Опис напрямку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "directory" = "директорія";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Directory" = "Директорія";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Directory not found." = "Директорію не знайдено.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disabled" = "Вимкнено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disallow" = "Заборонити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disallow Automatic Recording" = "Заборонити автоматичний запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disallow Hoverball Wake-Ups" = "Заборонити пробудження плаваючої кнопки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard" = "Скасувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "discard" = "скасувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard Changes" = "Скасувати зміни";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard Recording" = "Скасувати запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"discard recording" = "Скасувати запис";
+
+/* Translated with LLM */
 "Discreet Mode" = "Прихований режим";
 
-/* No comment provided by engineer. */
-"Discreet Voice Memos" = "Приховані голосові нотатки";
+/* Translated with LLM */
+"Discreet Voice Memos" = "Приховані голосові нотатки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dismiss" = "Закрити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner and play an audible notice." = "Показувати сповіщення та відтворювати звук.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner and update the badge above the application icon." = "Показувати сповіщення та оновлювати значок додатка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when recording ends." = "Показувати сповіщення після завершення запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when recording starts." = "Показувати сповіщення при початку запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when the synchronization fails." = "Показувати сповіщення при помилці синхронізації.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the detail of recordings in the notification banner." = "Показувати деталі запису у сповіщенні.";
 
-/* No comment provided by engineer. */
-"Display the exact duration of the recorded audio." = "Показувати точну тривалість аудіо.";
+/* Translated with LLM */
+"Display the exact duration of the recorded audio." = "Показувати точну тривалість записаного аудіо.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball during a call in the current application." = "Показувати плаваючу кнопку під час дзвінка в поточному додатку.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball during a call." = "Показувати плаваючу кнопку під час дзвінка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "Показувати плаваючу кнопку при активності аудіовходів та виходів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Показувати плаваючу кнопку під час запису голосових нотаток або ручного запуску запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the name or description of each option." = "Показувати назву або опис кожної опції.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the names of contacts in your address book instead of their phone numbers." = "Показувати імена контактів замість номерів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the path extension as the format of the recording." = "Показувати розширення файлу як формат запису.";
 
-/* No comment provided by engineer. */
-"Display the preview images of the audio waveform of short recordings." = "Показувати прев'ю аудіохвилі для коротких записів.";
+/* Translated with LLM */
+"Display the preview images of the audio waveform of short recordings." = "Показувати прев’ю аудіохвилі для коротких записів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the short name of the SIM card used for the recording if available." = "Показувати назву SIM-карти, якщо доступно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the source bundle name of the recording." = "Показувати назву вихідного пакету запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Displays a local notification." = "Показує локальне сповіщення.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Do you want to clear this log file “%@”?" = "Очистити лог-файл «%@»?";
 
-/* No comment provided by engineer. */
-"Do you want to merge recordings with “%@”?" = "Об'єднати записи з «%@»?";
+/* Translated with LLM */
+"Do you want to merge recordings with “%@”?" = "Об’єднати записи з «%@»?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Скинути ліцензію та налаштування? Записи не будуть видалені.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Done" = "Готово";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Don’t ask again" = "Більше не питати";
 
-/* No comment provided by engineer. */
-"Don’t Merge" = "Не об'єднувати";
+/* Translated with LLM */
+"Don’t Merge" = "Не об’єднувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Double tap to restore __all edges__  \nto their default sizes." = "Подвійне натискання скине __усі межі__  \nдо розмірів за замовчуванням.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Downlink (Speaker)" = "Вихідний (динамік)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Перетягніть __сюди__, щоб  \nзмінити розмір ___%@___.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Drive ID" = "ID диску";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dropbox" = "Dropbox";
 
-/* No comment provided by engineer. */
-"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Через обмеження оточення спробуйте перезавантажити пристрій або оновити кеш іконок у TrollStore.";
+/* Translated with LLM */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Через обмеження оточення, якщо ви стикаєтеся з порожніми або відсутніми віджетами, спробуйте перезавантажити пристрій або відновити кеш іконок у TrollStore.";
 
-/* No comment provided by engineer. */
-"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Дзвінки без CallKit не активують ярлики, пов’язані зі статусами.";
+/* Translated with LLM */
+"Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here." = "Через технічні обмеження можливості, пов’язані з автоматизацією, мають бути реалізовані через додаток «Ярлики». Ви можете відкрити додаток «Ярлики», створити новий ярлик із дією «TrollRecorder» і вибрати його тут.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states." = "Дзвінки без CallKit не активують ярлики, пов’язані зі статусами.";
+
+/* Translated with LLM */
 "Duration" = "Тривалість";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "duration" = "тривалість";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration Before Idle" = "Тривалість до бездіяльності";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration Description" = "Опис тривалості";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration exceeded." = "Тривалість перевищено.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dynamic Transition" = "Динамічний перехід";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "E.U.L.A." = "Ліцензійна угода";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Edit" = "Редагувати";
 
-/* TODO */
-"Edit Argument" = "Edit Argument";
+/* Translated with LLM */
+"Edit Argument" = "Редагувати аргумент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"elapsed recording time" = "час запису, що минув";
+
+/* Translated with LLM */
 "Empty Trash" = "Очистити кошик";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Empty Trash (%@)" = "Очистити кошик (%@)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Biometric Authentication" = "Увімкнути біометричну аутентифікацію";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Face ID" = "Увімкнути Face ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Увімкнути індикатор рівня при згорнутій кнопці. Доступно лише при налаштуванні «Згортати при бездіяльності».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Logging" = "Увімкнути логування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Optic ID" = "Увімкнути Optic ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Touch ID" = "Увімкнути Touch ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable WebDAV Server" = "Увімкнути WebDAV-сервер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enabled" = "Увімкнено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "WebDAV-сервер автоматично призупиняється у фоні та відновлюється при поверненні на передній план.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Encoding" = "Кодування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"end calls" = "завершити дзвінки";
+
+/* Translated with LLM */
 "End Date" = "Кінцева дата";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "End Editing" = "Завершити редагування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"end recording" = "завершити запис";
+
+/* Translated with LLM */
+"end screen recording" = "завершити запис екрану";
+
+/* Translated with LLM */
 "Enhance Recording" = "Покращити запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enhanced Automatic Recording" = "Покращений автоматичний запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enhanced Scene Identification" = "Покращене визначення сцени";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ensure Daemon Is Running" = "Переконатися, що демон працює";
 
-/* TODO */
-"Enter Pairing Code" = "Enter Pairing Code";
+/* Translated with LLM */
+"Enter Pairing Code" = "Введіть код сполучення";
 
-/* TODO */
-"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+/* Translated with LLM */
+"Enter the 4-digit code displayed on “%@”." = "Введіть 4-значний код, що відображається на “%@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enter your password" = "Введіть пароль";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erase All" = "Стерти все";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erase all recordings, reset all settings, and clear all caches completely." = "Видалити всі записи, скинути налаштування та очистити кеш.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erase Almost Completed" = "Видалення майже завершено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erasing…" = "Видалення…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error" = "Помилка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error from network storage" = "Помилка мережевого сховища";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error retrieving discovery document: %@" = "Помилка отримання документа: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "exit" = "вихід";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Exit Hoverball" = "Закрити плаваючу кнопку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Expand Recursively" = "Розгорнути рекурсивно";
 
-/* TODO */
-"Export as is…" = "Export as is…";
+/* Translated with LLM */
+"Export as is…" = "Експортувати як є…";
 
-/* TODO */
-"Export as ZIP" = "Export as ZIP";
+/* Translated with LLM */
+"Export as ZIP" = "Експортувати як ZIP";
 
-/* No comment provided by engineer. */
-"Export recordings to anywhere you want without limitations." = "Експортувати записи без обмежень.";
+/* Translated with LLM */
+"Export recordings to anywhere you want without limitations." = "Експортуйте записи куди завгодно без обмежень.";
 
-/* TODO */
-"Export Service Ready" = "Export Service Ready";
+/* Translated with LLM */
+"Export Service Ready" = "Службу експорту готово";
 
-/* TODO */
-"Export to Another Device" = "Export to Another Device";
+/* Translated with LLM */
+"Export to Another Device" = "Експорт на інший пристрій";
 
-/* TODO */
+/* Translated with LLM */
 "Export to Anywhere" = "Експорт будь-куди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Export with Metadata" = "Експорт з метаданими";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Exporting" = "Експорт";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime" = "FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime Audio" = "FaceTime Audio";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime Exclusion List" = "Винятки FaceTime";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime VIP" = "VIP FaceTime";
 
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to export %d recordings" = "Не вдалося експортувати %d записів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to initialize speech recognizer using current locale “%@”." = "Не вдалося ініціалізувати розпізнавання мови для локалі «%@».";
 
-/* TODO */
-"Failed to open file pipe" = "Failed to open file pipe";
+/* Translated with LLM */
+"Failed to open file pipe" = "Не вдалося відкрити файловий канал";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to perform “%@” operation with service provider “%@”." = "Не вдалося виконати «%1$@» з провайдером «%2$@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to play: %@" = "Помилка відтворення: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to recover: %@" = "Помилка відновлення: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to remove: %@" = "Помилка видалення: %@";
 
-/* TODO */
-"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
+/* Translated with LLM */
+"Failed to spawn process, reason: %s (%d)" = "Не вдалося запустити процес, причина: %s (%2$d)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Failed to start audio player." = "Не вдалося запустити аудіоплеєр.";
+
+/* Translated with LLM */
 "Fatal error occurred. You may need to re-authorize to continue." = "Критична помилка. Можливо, потрібна повторна авторизація.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Features on this page are under active development, hang tight!" = "Функції на цій сторінці в розробці!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Features Unlocked" = "Функції розблоковано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "file" = "файл";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File Format" = "Формат файлу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File not found." = "Файл не знайдено.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File Size" = "Розмір файлу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File System" = "Файлова система";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Filter" = "Фільтр";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Finalizing" = "Завершення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "finish" = "завершити";
 
-/* TODO */
-"Fix File-System" = "Fix File-System";
+/* Translated with LLM */
+"finish call" = "завершити дзвінок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Fix File-System" = "Виправити файлову систему";
+
+/* Translated with LLM */
 "Focus" = "Фокус";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Fold When Inactive" = "Згортати при бездіяльності";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Follow System" = "Як у системі";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Примусово встановити мову. Перезапустіть для застосування змін.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Format" = "Формат";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Formatted Location" = "Відформатоване місцезнаходження";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Forward 15 Seconds" = "Вперед на 15 секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Frequently Asked Questions" = "Часті запитання";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From %@" = "Від %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From %@ to %@" = "Від %@ до %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From: %@" = "Від: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From…" = "Від…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full" = "Повний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"full backup sync" = "повне резервне синхронізування";
+
+/* Translated with LLM */
 "Full Date" = "Повна дата";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Month Name" = "Повна назва місяця";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Time" = "Повний час";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Year" = "Повний рік";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get ${requestedField}" = "Отримати ${requestedField}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get advanced control when recording right in your call." = "Розширене керування записом під час дзвінка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Call Duration" = "Отримати тривалість дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Call Status" = "Отримати статус дзвінка";
 
-/* No comment provided by engineer. */
-"Get In Touch" = "Зв'язатися";
+/* Translated with LLM */
+"Get In Touch" = "Зв’язатися";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get notifications after record complete." = "Отримувати сповіщення після завершення запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Duration" = "Отримати тривалість запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Paths" = "Отримати шляхи запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Status" = "Отримати статус запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording duration of the Troll Recorder." = "Отримати поточну тривалість запису Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording paths of the Troll Recorder." = "Отримати поточні шляхи запису Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording status of the Troll Recorder." = "Отримати поточний статус запису Troll Recorder.";
 
-/* No comment provided by engineer. */
-"Get the primary call duration of the device." = "Отримати тривалість поточного дзвінка.";
+/* Translated with LLM */
+"Get the primary call duration of the device." = "Отримати тривалість основного дзвінка пристрою.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the primary call status of the device." = "Отримати статус поточного дзвінка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Go Home When Unlocked" = "На головний екран при розблокуванні";
 
-/* No comment provided by engineer. */
-"Google Drive" = "Google Drive";
+/* Translated with LLM */
+"Google Drive" = "Google Диск";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Group Call" = "Груповий дзвінок";
 
-/* No comment provided by engineer. */
-"Hide Hoverball" = "Приховати плаваючу кнопку";
+/* Translated with LLM */
+"hang up calls" = "завершити дзвінки";
 
-/* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Приховати «Голосові нотатки» з екрана блокування та Dynamic Island. Може знадобитися respring.";
+/* Translated with LLM */
+"hang up incoming call" = "покласти слухавку при вхідному дзвінку";
 
-/* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Приховати «Голосові нотатки» з екрана блокування. Потрібна ін'єкція через TrollFools.";
+/* Translated with LLM */
+"Hide Hoverball" = "Приховати Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Приховати «Голосові нотатки» з екрана блокування та приховати її активність у «Dynamic Island». Для застосування цієї функції може знадобитися перезавантаження (respring).";
+
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Приховати «Голосові нотатки» з екрана блокування, а також приховати її активності в «Динамічному острові». Потрібно впровадити її в застосунок «Голосові нотатки» через TrollFools або подібні технології.";
+
+/* Translated with LLM */
 "Hide When Landscape" = "Приховувати в альбомній орієнтації";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hide When Snapshot" = "Приховувати при знімку екрана";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours Minutes Seconds" = "Години Хвилини Секунди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours, 12-hour Clock" = "Години (12-годинний формат)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours, 24-hour Clock" = "Години (24-годинний формат)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball" = "Плаваюча кнопка";
 
-/* No comment provided by engineer. */
-"Hoverball Plus" = "Hoverball Plus";
+/* Translated with LLM */
+"Hoverball Plus" = "Плаваюча кнопка +";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Size" = "Розмір плаваючої кнопки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Style" = "Стиль плаваючої кнопки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "hud" = "інтерфейс";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "HUD_CALL_RECORDING" = "Запис дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hyphen" = "Дефіс";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "I Agree to the E.U.L.A." = "Я приймаю умови ліцензії";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "icloud" = "iCloud";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"icloud backup" = "резервне копіювання iCloud";
+
+/* Translated with LLM */
 "iCloud Drive" = "iCloud Диск";
 
-/* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
+/* Translated with LLM */
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filing Number: 苏ICP备15002715号-2A";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Idle" = "Без дії";
 
-/* TODO */
-"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
+/* Translated with LLM */
+"If the value contains spaces, please enclose it in quotes." = "Якщо значення містить пробіли, візьміть його в лапки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If there is something wrong with the search indexes, you can reset them here." = "Якщо є проблеми з пошуковими індексами, їх можна скинути тут.";
 
-/* No comment provided by engineer. */
-"If there’s no active phone call, press and hold the power button to perform specified action." = "Якщо немає активного дзвінка: утримання кнопки живлення для виконання дії.";
+/* Translated with LLM */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "Якщо немає активного дзвінка, утримуйте кнопку живлення, щоб виконати вказану дію.";
 
-/* No comment provided by engineer. */
-"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "Якщо немає активного дзвінка: натискання обох кнопок гучності для виконання дії.";
+/* Translated with LLM */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "Якщо немає активного дзвінка, натисніть обидві фізичні кнопки гучності, щоб виконати вказану дію.";
 
-/* TODO */
-"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here.";
+/* Translated with LLM */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "Якщо ви змінювали записи за допомогою Filza або зіткнулися з проблемами привілеїв файлової системи, ви можете виправити їх тут.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Для двох SIM-карт відображатиметься псевдонім використаної карти.";
 
-/* No comment provided by engineer. */
-"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Дія при успішній синхронізації резервної копії iCloud.";
+/* Translated with LLM */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Якщо ви ввімкнули «Резервне копіювання в iCloud» і резервну копію успішно синхронізовано, цю дію буде виконано.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Ігнорувати дати змін та створити повні копії записів.";
 
-/* TODO */
-"Import as Ringtone" = "Import as Ringtone";
+/* Translated with LLM */
+"Import as Ringtone" = "Імпортувати як рингтон";
 
-/* TODO */
-"Import Complete" = "Import Complete";
+/* Translated with LLM */
+"Import Complete" = "Імпорт завершено";
 
-/* TODO */
-"Import Failed" = "Import Failed";
+/* Translated with LLM */
+"Import Failed" = "Не вдалося імпортувати";
 
-/* TODO */
-"Import From Another Device" = "Import From Another Device";
+/* Translated with LLM */
+"Import From Another Device" = "Імпорт з іншого пристрою";
 
-/* TODO */
-"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+/* Translated with LLM */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Імпортуйте записи з TrollRecorder на іншому пристрої в локальній мережі.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "In 1 Hour" = "За 1 годину";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "In 15 Minutes" = "За 15 хвилин";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Inaccurate Time Detected" = "Виявлено неточний час";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming" = "Вхідний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "incoming" = "вхідний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming Call" = "Вхідний дзвінок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"incoming call" = "вхідний дзвінок";
+
+/* Translated with LLM */
 "Incoming Call Answered" = "Вхідний дзвінок прийнято";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming Call Hang Up" = "Вхідний дзвінок скинуто";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming call recording from “%@” and other %ld applications." = "Запис вхідного дзвінка з «%@» та %ld інших додатків.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming call recording from “%@”." = "Запис вхідного дзвінка з «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Inconsistency Found" = "Виявлено невідповідність";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Install" = "Встановити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Install Call History Tweak" = "Встановити твік історії дзвінків";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Invalid Code Signature" = "Невірний підпис коду";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Невірний підпис коду.\nПеревстановіть додаток через TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1360,2173 +1495,2374 @@
 /* No comment provided by engineer. */
 "iPhone" = "iPhone";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Favourite" = "У обраному";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Finalized" = "Завершено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Finalizing" = "Завершується";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Microphone Enabled" = "Мікрофон увімкнено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Paused" = "На паузі";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"is recording" = "записує";
+
+/* Translated with LLM */
 "Is Running" = "Працює";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Item #%lu" = "Елемент №%lu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Just in case that you love it." = "На випадок, якщо вам сподобається.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Just now" = "Щойно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Keep Screen On When Connected" = "Не вимикати екран при підключенні";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Keyboard Avoidance" = "Уникнення клавіатури";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Kill all applications and restart the render server (backboardd)." = "Закрити всі програми та перезапустити сервер рендерингу (backboardd).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Language Changed" = "Мову змінено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Larger" = "Більше";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Last successful synchronization: %@" = "Остання успішна синхронізація: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Later" = "Пізніше";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "launch" = "запуск";
 
-/* TODO */
-"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+/* Translated with LLM */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the TrollRecorder on another device to discover it.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Launch App at End" = "Запустити програму після завершення";
 
 /* No comment provided by engineer. */
-"Launch Shield" = "Launch Shield";
+"Launch Shield" = "Launch Shield";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Leading & Trailing" = "Провідний та завершальний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "leading edge" = "провідний край";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Legacy Jailbreak" = "Застарілий джейлбрейк";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Less serious error occurred." = "Сталася незначна помилка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Lifetime Guarantee" = "Пожиттєва гарантія";
 
-/* No comment provided by engineer. */
-"Link Device to Havoc" = "Прив'язати пристрій до Havoc";
+/* Translated with LLM */
+"Link Device to Havoc" = "Прив’язати пристрій до Havoc";
 
-/* TODO */
-"List" = "List";
+/* Translated with LLM */
+"List" = "Список";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "List and Detail" = "Список та деталі";
 
-/* TODO */
-"List view enabled" = "List view enabled";
+/* Translated with LLM */
+"List view enabled" = "Перегляд списку ввімкнено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Loading…" = "Завантаження…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"local notification" = "локальне сповіщення";
+
+/* Translated with LLM */
 "Local Storage" = "Локальне сховище";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Localized name of the provider application. That is, where this recording comes from." = "Локалізована назва програми-джерела запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Locate in Maps" = "Відкрити в Картах";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location" = "Місцезнаходження";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location Permission Denied" = "Доступ до місцезнаходження заборонено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location Services" = "Служби геолокації";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Locked" = "Заблоковано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Log Viewer" = "Переглядач логів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Logging" = "Логування";
 
-/* TODO */
-"Login Name: %@" = "Login Name: %@";
+/* Translated with LLM */
+"Login Name: %@" = "Ім’я для входу: %@";
 
-/* TODO */
-"Login Password: " = "Login Password: ";
+/* Translated with LLM */
+"Login Password: " = "Пароль для входу: ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Login Tips" = "Поради щодо входу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long Date" = "Довга дата";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long press the hoverball to start or stop recording by convenience." = "Долгое нажатие на плавающую кнопку для удобного управления записью.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long Time" = "Довгий час";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Low Disk Space" = "Мало місця на диску";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Made with ♥ by OwnGoal Studio" = "Зроблено з ♥ в OwnGoal Studio";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mail composition failed" = "Не вдалося створити лист";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Maintenance" = "Технічне обслуговування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make a ${requestedMode} recording" = "Зробити запис у режимі ${requestedMode}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make a new recording, or stop an existing one." = "Почати новий запис або зупинити поточний.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make a new voice memo, or stop an existing one." = "Створити новий голосовий меморандум або зупинити поточний.";
 
-/* No comment provided by engineer. */
-"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Створювати поверхневі копії записів у резервній області та дозволяти їх включення в iCloud Backup.";
+/* Translated with LLM */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Створювати поверхневі копії записів у резервній області та дозволяти їх включення в iCloud Backup.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Пов’язані записи дзвінків на сторінці історії викликів відкриватимуться в TrollRecorder для відтворення.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the device ring or vibrate when recording ends." = "Примушувати пристрій дзвонити або вібрувати після завершення запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the device ring or vibrate when recording starts." = "Примушувати пристрій дзвонити або вібрувати на початку запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "Приховувати hoverball під час створення скріншотів або запису екрану.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball invisible when the device is in landscape orientation." = "Приховувати hoverball у альбомній орієнтації пристрою.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Робити hoverball напівпрозорим або згорнутим після бездіяльності.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Making a phone call to begin recording." = "Виконання дзвінка для початку запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mark" = "Позначити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Maximum" = "Максимум";
 
-/* TODO */
-"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
+/* Translated with LLM */
+"Maybe you should look elsewhere — anywhere but here." = "Можливо, вам варто пошукати деінде — де завгодно, але не тут.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium" = "Середній";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium Date" = "Середній формат дати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium Time" = "Середній формат часу";
 
-/* No comment provided by engineer. */
-"Merge" = "Об'єднати";
+/* Translated with LLM */
+"Merge" = "Об’єднати";
 
-/* No comment provided by engineer. */
-"Merged File" = "Об'єднаний файл";
+/* Translated with LLM */
+"Merged File" = "Об’єднаний файл";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Message" = "Повідомлення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Metadata" = "Метадані";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Microphone" = "Мікрофон";
 
-/* No comment provided by engineer. */
-"microphone" = "мікрофон";
+/* Translated with LLM */
+"microphone" = "Мікрофон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Microphone and speaker are recorded in different channels." = "Мікрофон і динамік записуються на різні канали.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"microphone audio" = "аудіо мікрофона";
+
+/* Translated with LLM */
+"microphone off" = "мікрофон вимкнено";
+
+/* Translated with LLM */
+"microphone on" = "мікрофон увімкнено";
+
+/* Translated with LLM */
+"microphone speech" = "мікрофонна мова";
+
+/* Translated with LLM */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Minutes" = "Хвилини";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Бракує необхідних дозволів для доступу до Google Drive. Повторно авторизуйтесь у Google і надайте всі дозволи «Google Drive» для «TrollRecorder».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixed" = "Змішаний";
 
-/* No comment provided by engineer. */
-"Mixer & Combiner" = "Мікшер і об'єднувач";
+/* Translated with LLM */
+"Mixer & Combiner" = "Мікшер і об’єднувач";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer Audio Format" = "Формат аудіо мікшера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer File Format" = "Формат файлу мікшера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer Quality" = "Якість мікшера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Month Number" = "Номер місяця";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Monthly Arranged" = "Розташовано за місяцями";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "More icons, more innovation." = "Більше іконок — більше інновацій.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "More Options" = "Додаткові параметри";
 
-/* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Переміщати видалені записи до спеціальної папки для можливого відновлення.";
+/* Translated with LLM */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Переміщати видалені записи до спеціальної папки, що дозволяє відновити їх, якщо ви передумаєте або пізніше зрозумієте, що вони вам потрібні.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "MPEG-4 Audio" = "Аудіо MPEG-4";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "mute" = "вимкнути звук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mute ${requestedChannel}" = "Вимкнути звук ${requestedChannel}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"mute call" = "вимкнути звук дзвінка";
+
+/* Translated with LLM */
+"mute call audio" = "вимкнути звук дзвінка";
+
+/* Translated with LLM */
 "Mute Existing Calls" = "Вимкнути звук поточних дзвінків";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mute specified channel of all existing calls." = "Вимкнути звук зазначеного каналу у всіх поточних дзвінках.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "My Favourite" = "Моє обране";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "My Favourites" = "Мої обрані";
 
-/* No comment provided by engineer. */
-"Name" = "Ім'я";
+/* Translated with LLM */
+"Name" = "Ім’я";
 
-/* No comment provided by engineer. */
-"Name with Alias" = "Ім'я з псевдонімом";
+/* Translated with LLM */
+"Name with Alias" = "Ім’я з псевдонімом";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Network Storage" = "Мережеве сховище";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Never" = "Ніколи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Never Show This Again" = "Більше не показувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New" = "Новий";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New Matching Pattern" = "Новий шаблон відповідності";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"new recording" = "новий запис";
+
+/* Translated with LLM */
 "New Version Available" = "Доступна нова версія";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New Version Installed" = "Нова версія встановлена";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "NO" = "НІ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Available Version" = "Немає доступної версії";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No phone number found in selected contacts." = "У вибраних контактах не знайдено номерів телефону.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No phone number or email address found in selected contacts." = "У вибраних контактах не знайдено номерів телефону або email-адрес.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Recording" = "Немає запису";
 
-/* TODO */
-"No Recordings to Export" = "No Recordings to Export";
+/* Translated with LLM */
+"No Recordings to Export" = "Немає записів для експорту";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No speech detected." = "Мовлення не виявлено.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Transition" = "Без переходу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "None" = "Немає";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not Implemented" = "Не реалізовано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not My Favourite" = "Не в обраному";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not Now" = "Не зараз";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not Properly Configured" = "Неправильно налаштовано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Nothing Imported" = "Нічого не імпортовано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Nothing Inside" = "Порожньо";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "notification" = "сповіщення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notification Permission Denied" = "Доступ до сповіщень заборонено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notifications" = "Сповіщення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "notify" = "сповістити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notify at Begin" = "Сповіщати на початку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notify at End" = "Сповіщати в кінці";
 
-/* No comment provided by engineer. */
-"Object Viewer" = "Перегляд об'єктів";
+/* Translated with LLM */
+"Object Viewer" = "Перегляд об’єктів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Off" = "Вимк.";
 
-/* No comment provided by engineer. */
-"OK" = "OK";
+/* Translated with LLM */
+"OK" = "ГАРАЗД";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "On" = "Увімк.";
 
-/* TODO */
-"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+/* Translated with LLM */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "На іншому пристрої виберіть “Імпортувати з іншого пристрою”, а потім виберіть “%@”. Не залишайте цю сторінку під час передачі.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "OneDrive" = "OneDrive";
 
-/* TODO */
-"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+/* Translated with LLM */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Автоматично записуватимуться лише дзвінки від контактів, яких немає у вашій адресній книзі або у списку «VIP». VIP-контакти також буде додано до обраного.";
 
-/* TODO */
-"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+/* Translated with LLM */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Автоматично записуватимуться лише дзвінки від VIP-контактів, які також додаватимуться до обраного.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Oops!" = "Ой!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open" = "Відкрити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "open" = "відкрити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Application" = "Відкрити застосунок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Hoverball" = "Відкрити hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"open hoverball" = "відкрити hoverball";
+
+/* Translated with LLM */
 "Open in Filza" = "Відкрити в Filza";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open in Maps" = "Відкрити в Картах";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Troll Recorder" = "Відкрити Troll Recorder";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation Failed" = "Помилка операції";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation Succeed" = "Операція успішна";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation succeed, but no files transferred." = "Операція успішна, але файли не передано.";
 
-/* No comment provided by engineer. */
-"Operator Name" = "Ім'я оператора";
+/* Translated with LLM */
+"Operator Name" = "Ім’я оператора";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Options" = "Параметри";
 
-/* TODO */
-"Orbit" = "Orbit";
+/* Translated with LLM */
+"Orbit" = "Орбіта";
 
-/* TODO */
-"Orbit view enabled" = "Orbit view enabled";
+/* Translated with LLM */
+"Orbit view enabled" = "Перегляд орбіти ввімкнено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing" = "Вихідний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call" = "Вихідний дзвінок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call Answered" = "Вихідний дзвінок прийнято";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call Hang Up" = "Вихідний дзвінок завершено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing call recording from “%@” and other %ld applications." = "Запис вихідних дзвінків з «%@» та ще %ld застосунків.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing call recording from “%@”." = "Запис вихідних дзвінків з «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Page not found" = "Сторінку не знайдено";
 
-/* TODO */
-"Pairing code" = "Pairing code";
+/* Translated with LLM */
+"Pairing code" = "Код сполучення";
 
-/* TODO */
-"Passcode: %@" = "Passcode: %@";
+/* Translated with LLM */
+"Passcode: %@" = "Код доступу: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Password (Optional)" = "Пароль (необов’язково)";
 
-/* TODO */
-"Password Copied" = "Password Copied";
+/* Translated with LLM */
+"Password Copied" = "Пароль скопійовано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "path" = "шлях";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pause" = "Пауза";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pause Recording" = "Призупинити запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Paused" = "Призупинено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Виконати повну синхронізацію «Резервної копії через iCloud» та «Розумного хмарного архіву».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Perform Full Synchronization" = "Виконати повну синхронізацію";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"perform synchronization" = "виконати синхронізацію";
+
+/* Translated with LLM */
 "Period" = "Період";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone" = "Телефон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "phone" = "телефон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Address" = "Адреса телефону";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone answer" = "відповідь на дзвінок";
+
+/* Translated with LLM */
 "Phone Call Exclusion List" = "Список виключень для дзвінків";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "phone call recording" = "запис телефонного дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone call timer" = "таймер телефонного дзвінка";
+
+/* Translated with LLM */
 "Phone Call VIP" = "VIP-дзвінки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Number" = "Номер телефону";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Number or Email Address" = "Номер телефону або email";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone status" = "стан телефону";
+
+/* Translated with LLM */
 "Physical Key Combination" = "Комбінація фізичних клавіш";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"pick up call" = "підняти трубку";
+
+/* Translated with LLM */
 "Placemark Name" = "Назва позначки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play" = "Відтворити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "play" = "відтворити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play ${audioFile}" = "Відтворити ${audioFile}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play audio file" = "відтворити аудіофайл";
+
+/* Translated with LLM */
 "Play Recording Warning" = "Попередження при відтворенні запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play Sound" = "Відтворити звук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play specified audio file to the microphone." = "Відтворити вказаний аудіофайл через мікрофон.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play specified voice-over text to the microphone." = "Відтворити вказаний озвучений текст через мікрофон.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Play Through Receiver" = "Відтворення через приймач";
+
+/* Translated with LLM */
+"Play Through Speaker" = "Відтворення через динамік";
+
+/* Translated with LLM */
 "Play Uplink Audio" = "Відтворити аудіо uplink";
 
-/* No comment provided by engineer. */
-"Play Uplink Voice-Over" = "Відтворити озвучення uplink";
+/* Translated with LLM */
+"play uplink audio" = "відтворити аудіо uplink";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Play Uplink Voice-Over" = "Відтворити озвучення Uplink";
+
+/* Translated with LLM */
+"play voice over" = "відтворити голос за кадром";
+
+/* Translated with LLM */
 "Play/Pause" = "Відтворити/Пауза";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Playback Rate" = "Швидкість відтворення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Playback Rate: %@x" = "Швидкість відтворення: %@x";
 
-/* No comment provided by engineer. */
-"Playback Speed" = "Швидкість відтворення";
+/* Translated with LLM */
+"Playback Route" = "Маршрут відтворення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Player Options" = "Налаштування плеєра";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please check your mail configuration." = "Перевірте налаштування пошти.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please enter a valid port number between 1 and 65535." = "Введіть коректний номер порту від 1 до 65535.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please enter the server URL." = "Введіть URL сервера.";
 
-/* TODO */
-"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+/* Translated with LLM */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Будь ласка, тримайте обидва пристрої розблокованими, поки ми отримуємо записи з %@. Не залишайте цю сторінку під час передачі.";
 
-/* No comment provided by engineer. */
-"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Зверніть увагу, що TrollRecorder продається та активується виключно через Havoc Marketplace. Ми не продаємо його через інші канали. Ви збираєтеся відкрити сторінку магазину. Якщо ви використовуєте Havoc Marketplace вперше, рекомендуємо увійти через обліковий запис Google. Користувачам з материкового Китаю може знадобитися спеціальне з'єднання для входу в Google.";
+/* Translated with LLM */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Зверніть увагу, що TrollRecorder продається та активується виключно через Havoc Marketplace. Ми не продаємо його через інші канали. Ви збираєтеся відкрити сторінку магазину: Якщо ви використовуєте Havoc Marketplace вперше, рекомендуємо увійти через обліковий запис Google. Якщо ви є користувачем з материкового Китаю, для входу в Google потрібна спеціальна мережа.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please reinstall this application from TrollStore." = "Будь ласка, перевстановіть застосунок через TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please remember to uninstall “%@” from Sileo." = "Не забудьте видалити «%@» з Sileo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please remember to uninstall “%@” from TrollStore." = "Не забудьте видалити «%@» з TrollStore.";
 
-/* TODO */
-"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+/* Translated with LLM */
+"Please stay on this screen while we get everything ready." = "Будь ласка, залишайтеся на цьому екрані, поки ми все готуємо.";
 
-/* TODO */
-"Please try again in a moment." = "Please try again in a moment.";
+/* Translated with LLM */
+"Please try again in a moment." = "Будь ласка, спробуйте ще раз через деякий час.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popover Control" = "Керування спливаючим вікном";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Populate Location When App Starts" = "Визначати місцезнаходження при запуску";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner at Begin" = "Спливаючий банер на початку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner at End" = "Спливаючий банер в кінці";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner when Fail" = "Спливаючий банер при помилці";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Badge" = "Спливаючий банер з іконкою";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Detail" = "Спливаючий банер з деталями";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Sound" = "Спливаючий банер зі звуком";
 
-/* No comment provided by engineer. */
-"Port (Optional)" = "Порт (необов'язково)";
+/* Translated with LLM */
+"Port (Optional)" = "Порт (необов’язково)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"post notification" = "надіслати сповіщення";
+
+/* Translated with LLM */
 "Preparing" = "Підготовка";
 
-/* TODO */
-"Preparing Export Service" = "Preparing Export Service";
+/* Translated with LLM */
+"Preparing Export Service" = "Підготовка служби експорту";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Preserve All Channels" = "Зберігати всі канали";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press & Hold Action" = "Дія при утриманні";
 
-/* No comment provided by engineer. */
-"Press & Hold Hoverball" = "Утримувати hoverball";
+/* Translated with LLM */
+"Press & Hold Hoverball" = "Утримувати Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press & Hold Power Button" = "Утримувати кнопку живлення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press and hold the power button to start or stop recording during a call." = "Утримуйте кнопку живлення для початку/зупинки запису під час дзвінка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press both of the physical volume buttons to start or stop recording during a call." = "Натисніть обидві кнопки гучності для початку/зупинки запису під час дзвінка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press Both Volume Buttons" = "Натиснути обидві кнопки гучності";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Preview Disabled" = "Попередній перегляд вимкнено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Privacy Policy" = "Політика конфіденційності";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Privacy Policy & User Agreements" = "Політика конфіденційності та умови використання";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Private Browsing Detected" = "Виявлено приватний режим";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Proceed Anyway" = "Продовжити";
 
-/* TODO */
-"Process execution timeout" = "Process execution timeout";
+/* Translated with LLM */
+"Process execution timeout" = "Тайм-аут виконання процесу";
 
-/* TODO */
-"Process exited with status %d." = "Process exited with status %d.";
+/* Translated with LLM */
+"Process exited with status %d." = "Процес завершено зі статусом %d.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Process terminated by signal %d." = "Процес завершено сигналом %d.";
 
-/* TODO */
-"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
+/* Translated with LLM */
+"Process terminated for unknown reasons." = "Процес припинено з невідомих причин.";
 
-/* No comment provided by engineer. */
-"Process terminated with exit code %d.\n%@" = "Процес завершено з кодом %d.\n%@";
+/* Translated with LLM */
+"Process terminated with exit code %d.\n%@" = "Процес завершено з кодом %1$d.\n%2$@";
 
-/* TODO */
-"Processing" = "Processing";
+/* Translated with LLM */
+"Processing" = "Обробка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pulse-code modulation" = "Імпульсно-кодова модуляція";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Purchase" = "Купівля";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Purchase Tips" = "Поради щодо покупки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pure TrollStore" = "Лише TrollStore";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Query the latest version from GitHub." = "Перевірити останню версію на GitHub.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Querying" = "Запит";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quick Recording" = "Швидкий запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quit and relaunch to continue using the Pro features." = "Перезапустіть додаток для доступу до Pro-функцій.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quit this application and try again." = "Закрийте додаток і спробуйте знову.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rclone Documentation" = "Документація Rclone";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Dropbox" = "Повторно авторизуватися в Dropbox";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Google" = "Повторно авторизуватися в Google";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Microsoft" = "Повторно авторизуватися в Microsoft";
 
-/* No comment provided by engineer. */
-"Re-enable Suggested Options" = "Увімкнути рекомендовані опції";
+/* Translated with LLM */
+"Re-enable Suggested Options" = "Повторно ввімкнути рекомендовані опції";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reaching Daemon" = "Підключення до демона";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "README_APP_DOCUMENTS" = "Ця папка містить резервні копії записів TrollRecorder.\r\nДля відновлення скопіюйте їх у /var/mobile/Media/DCIM/TrollRecorder/Recordings";
 
-/* No comment provided by engineer. */
-"README_SERVICE_ARCHIVED_RECORDINGS" = "Ця папка містить жорсткі посилання на записи TrollRecorder.\r\nНе входить до iCloud Backup і не враховується в квоті.\r\nНе видаляйте їх без потреби.";
+/* Translated with LLM */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "Ця папка містить жорсткі посилання на записи TrollRecorder.\r\nНе входить до iCloud Backup і не враховується в квоті.\r\nНе видаляйте їх без потреби.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "README_SERVICE_RECORDINGS" = "Ця папка містить записи TrollRecorder.\r\nДля резервування скопіюйте їх у надійне місце.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ready" = "Готово";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ready to record!" = "Готово до запису!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Received authorization error: %@" = "Помилка авторизації: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Received transient error: %@" = "Тимчасова помилка: %@";
 
-/* TODO */
-"Receiving Recordings" = "Receiving Recordings";
+/* Translated with LLM */
+"Receiving Recordings" = "Отримання записів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recents Only" = "Лише нещодавні";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recommended for Apple devices" = "Рекомендовано для Apple";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record" = "Запис";
 
-/* TODO */
-"Record All Calls" = "Record All Calls";
+/* Translated with LLM */
+"Record All Calls" = "Записувати всі дзвінки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record all incoming and outgoing calls automatically." = "Автоматично записувати всі вхідні та вихідні дзвінки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Automatically" = "Автозапис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Calls on Other Devices" = "Запис дзвінків на інших пристроях";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Only When Connected" = "Записувати лише при підключенні";
 
-/* TODO */
-"Record Unknown Calls" = "Record Unknown Calls";
+/* Translated with LLM */
+"record screen" = "запис екрану";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Record Unknown Calls" = "Запис невідомих дзвінків";
+
+/* Translated with LLM */
 "Record with Location" = "Запис із місцезнаходженням";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recorder hoverball" = "hoverball";
+
+/* Translated with LLM */
 "Recording" = "Запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "recording" = "запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording (Localized)" = "Запис (локалізований)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording directory" = "каталог записів";
+
+/* Translated with LLM */
+"recording duration" = "тривалість запису";
+
+/* Translated with LLM */
+"recording file" = "файл запису";
+
+/* Translated with LLM */
 "Recording Interrupted" = "Запис перервано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording off" = "запис вимкнено";
+
+/* Translated with LLM */
+"recording on" = "запис увімкнено";
+
+/* Translated with LLM */
 "Recording Options" = "Налаштування запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording path" = "шлях запису";
+
+/* Translated with LLM */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Запис почнеться, коли аудіовходи та аудіовиходи будуть постійно активними.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording state" = "стан запису";
+
+/* Translated with LLM */
+"recording status" = "стан запису";
+
+/* Translated with LLM */
 "Recording successfully started." = "Запис успішно розпочато.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording switch" = "перемикач запису";
+
+/* Translated with LLM */
+"recording timer" = "таймер запису";
+
+/* Translated with LLM */
 "Recording Type" = "Тип запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording Type Description" = "Опис типу запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording will begin when the call is answered." = "Запис почнеться після відповіді на дзвінок.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording “%@” is in progress." = "Триває запис “%@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "RECORDING_LOCALIZED" = "Запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recordings" = "Записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recordings here are permanently removed after 30 days." = "Тут записи видаляються назавжди через 30 днів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recycle Bin" = "Кошик";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Regenerate All" = "Перегенерувати все";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "reject" = "відхилити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reject all incoming calls automatically." = "Автоматично відхиляти всі вхідні дзвінки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"reject call" = "відхилити виклик";
+
+/* Translated with LLM */
 "Reject Incoming Calls" = "Відхиляти вхідні дзвінки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Relaunched" = "Перезапущено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Release" = "Реліз";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Release Notes" = "Примітки до релізу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove" = "Видалити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Видалити всі кешовані хвильові форми та дозволити їх відновлення з оригінальних записів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove All Recordings Permanently" = "Видалити всі записи назавжди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Remove Other Variants" = "Видалити інші варіанти";
+
+/* Translated with LLM */
 "Remove Outdated Recordings" = "Видалити застарілі записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Remove Token" = "Видалити токен";
+
+/* Translated with LLM */
+"Remove Tokens" = "Видалити токени";
+
+/* Translated with LLM */
 "Rename" = "Перейменувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Repeat Infinitely" = "Повторювати безкінечно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset" = "Скинути";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset All Shortcuts" = "Скинути всі ярлики";
 
-/* TODO */
-"Reset Password" = "Reset Password";
+/* Translated with LLM */
+"Reset Password" = "Скинути пароль";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset Search Indexes" = "Скинути пошукові індекси";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset Service" = "Скинути службу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Respring" = "Перезавантаження SpringBoard";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restart Render Server" = "Перезапустити сервер рендерингу";
 
-/* TODO */
-"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+/* Translated with LLM */
+"Restart SpringBoard and “Launch Shield” widgets." = "Перезапустити SpringBoard та віджети “Launch Shield”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore" = "Відновити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore %d Items From Recycle Bin" = "Відновити %d елементів із кошика";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"restore call audio" = "відновити звук дзвінка";
+
+/* Translated with LLM */
 "Restore Selected %ld Items" = "Відновити вибрані %ld елементів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore Selected Item" = "Відновити вибраний елемент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restoring" = "Відновлення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Resume Recording" = "Продовжити запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Resume with Warning" = "Продовжити з попередженням";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Retry" = "Повторити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reverse Geocoding" = "Зворотнє геокодування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reverse Selection" = "Інвертувати виділення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rewind 15 Seconds" = "Перемотати на 15 секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ring" = "Дзвінок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ring & Vibrate" = "Дзвінок і вібрація";
 
-/* No comment provided by engineer. */
-"Root" = "Root";
+/* Translated with LLM */
+"Root" = "Корінь";
 
-/* TODO */
-"Root directory is empty." = "Root directory is empty.";
+/* Translated with LLM */
+"Root directory is empty." = "Кореневий каталог порожній.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "RootHide Jailbreak" = "RootHide джейлбрейк";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rootless Jailbreak" = "Rootless джейлбрейк";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Runtime Environment: %@" = "Середовище виконання: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sample Rate" = "Частота дискретизації";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sandbox Build" = "Збірка в пісочниці";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save" = "Зберегти";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save as Duplicate" = "Зберегти копію";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save as Duplicate…" = "Зберегти копію…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"saved recording location" = "збережене місце запису";
+
+/* Translated with LLM */
 "Say ${requestedText}" = "Скажіть ${requestedText}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Scene Identification" = "Ідентифікація сцени";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "screen" = "екран";
 
-/* TODO */
+/* Translated with LLM */
+"screen capture" = "захоплення екрану";
+
+/* Translated with LLM */
+"screen capture stop" = "зупинка захоплення екрану";
+
+/* Translated with LLM */
+"screen recording off" = "запис екрану вимкнено";
+
+/* No comment provided by engineer. */
 "SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search" = "Пошук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search %@ in %@…" = "Шукати %@ в %@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search %@…" = "Шукати %@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Apps…" = "Шукати програми…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Arguments…" = "Шукати аргументи…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Contacts…" = "Шукати контакти…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in %@…" = "Шукати в %@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Глибинний пошук із усією збереженою під час запису інформацією, такою як дані контактів чи місцезнаходження.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in Maps" = "Шукати в Картах";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Recordings…" = "Шукати записи…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Shortcuts…" = "Шукати ярлики…";
 
-/* TODO */
-"Searching for nearby devices" = "Searching for nearby devices";
+/* Translated with LLM */
+"Search Transcript…" = "Пошук стенограми…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Searching for nearby devices" = "Пошук пристроїв поблизу";
+
+/* Translated with LLM */
 "Search…" = "Пошук…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Seconds" = "Секунди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Secure" = "Безпечний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Secure Payment" = "Безпечний платіж";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "See ya!" = "Бувайте!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select" = "Вибрати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select a recording to view or play." = "Виберіть запис для відтворення.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select All" = "Вибрати все";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select the primary cloud service provider for recording synchronization." = "Виберіть основну хмарну службу для синхронізації записів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Semi-Transparent" = "Напівпрозорий";
 
-/* TODO */
-"Send Diagnostic" = "Send Diagnostic";
+/* Translated with LLM */
+"Send Diagnostic" = "Надіслати діагностику";
 
-/* No comment provided by engineer. */
-"Sender Name" = "Ім'я відправника";
+/* Translated with LLM */
+"Sender Name" = "Ім’я відправника";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Phone Address" = "Телефонна адреса відправника";
 
-/* No comment provided by engineer. */
-"Sender Short Name" = "Коротке ім'я відправника";
+/* Translated with LLM */
+"Sender Short Name" = "Коротке ім’я відправника";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Separated Channels" = "Розділені канали";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Separators" = "Роздільники";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server" = "Сервер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server started at: %@" = "Сервер запущено о: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server URL" = "URL сервера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "service" = "служба";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"service active" = "служба активна";
+
+/* Translated with LLM */
 "Service is alive" = "Служба активна";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Service is dead" = "Служба неактивна";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Service Status" = "Статус служби";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Set a new name for this recording, or leave blank to use default." = "Вкажіть нову назву для цього запису або залиште порожнім для значення за замовчуванням.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Settings" = "Налаштування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Setup Failed" = "Помилка налаштування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Share" = "Поділитися";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Date" = "Коротка дата";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Day of Week String" = "Скорочений день тижня";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Month Name" = "Скорочена назва місяця";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Time" = "Короткий час";
 
-/* No comment provided by engineer. */
-"Show Bundle Name" = "Показувати Bundle Name";
+/* Translated with LLM */
+"Show Bundle Name" = "Показувати назву пакета";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Contact Names" = "Показувати імена контактів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Hoverball" = "Показувати Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Notification" = "Показувати сповіщення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"show notification" = "показати сповіщення";
+
+/* Translated with LLM */
 "Show notification ${requestedMessage}" = "Показати сповіщення ${requestedMessage}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show on Lock Screen" = "Показувати на екрані блокування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Option Description" = "Показувати опис опції";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Recording Duration" = "Показувати тривалість запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Recording Format" = "Показувати формат запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show SIM Card Alias" = "Показувати псевдонім SIM-картки";
 
-/* No comment provided by engineer. */
-"Show Waveform Previews" = "Показувати прев'ю хвильової форми";
+/* Translated with LLM */
+"Show Waveform Previews" = "Показувати прев’ю хвильової форми";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Показувати пункт меню «Переглянути деталі» для розробників (перегляд маніфестів записів).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Увійдіть у Dropbox, щоб надати додатку доступ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sign in with your Google account to authorize the app to access your Google Drive." = "Увійдіть у Google, щоб надати додатку доступ до Google Drive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Увійдіть у Microsoft, щоб надати додатку доступ до OneDrive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"silence call" = "виклик тиші";
+
+/* Translated with LLM */
 "Silent Mode" = "Тихий режим";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "SIM Card Alias" = "Псевдонім SIM-картки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Simulator" = "Симулятор";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Simulator (Sandbox)" = "Симулятор (Пісочниця)";
+
+/* Translated with LLM */
 "Skip Silence" = "Пропускати тишу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Smaller" = "Менше";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Smart Cloud Archive" = "Розумне хмарне архівування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Software License" = "Ліцензія ПЗ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Some settings have been reset to default values." = "Деякі налаштування скинуто до значень за замовчуванням.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Відсутній важливий компонент. Перевстановіть «TrollRecorder JB» через Sileo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Помилка перевірки ліцензії. Натисніть «Мій акаунт» для перевірки замовлень, покупок або активації коду.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sound Level Meter" = "Вимірювач рівня звуку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Space" = "Пробіл";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Speaker" = "Динамік";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "speaker" = "динамік";
 
-/* No comment provided by engineer. */
-"Specified range from %@ to %@ is invalid." = "Вказаний діапазон від %@ до %@ є недійсним.";
+/* Translated with LLM */
+"speaker off" = "гучномовець вимкнено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"speaker on" = "гучномовець увімкнено";
+
+/* Translated with LLM */
+"Specified range from %@ to %@ is invalid." = "Вказаний діапазон від %1$@ до %2$@ є недійсним.";
+
+/* Translated with LLM */
+"spoken audio" = "розмовне аудіо";
+
+/* Translated with LLM */
 "start" = "старт";
 
-/* No comment provided by engineer. */
-"Start a system screen recording just like what you do in the Control Center." = "Почати запис екрану (аналогічно функції в Центрі управління).";
+/* Translated with LLM */
+"Start a system screen recording just like what you do in the Control Center." = "Почати запис екрану (аналогічно функції в Центрі управління).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start Call Recording" = "Почати запис дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start daemon" = "запустити демона";
+
+/* Translated with LLM */
 "Start Date" = "Дата початку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start or prepare for a call recording, system audio recording, or create an voice memo." = "Почати або підготувати запис дзвінка/системного звуку/голосову замітку.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start Recording" = "Почати запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start recording" = "Почати запис";
+
+/* Translated with LLM */
 "Start Screen Recording" = "Почати запис екрану";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start screen recording" = "Почати запис екрану";
+
+/* Translated with LLM */
 "Start System Audio Recording" = "Почати запис системного звуку";
 
-/* No comment provided by engineer. */
-"Start Voice Memo Recording" = "Почати голосову замітку";
+/* Translated with LLM */
+"Start Voice Memo Recording" = "Почати голосову замітку";
 
-/* TODO */
-"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+/* Translated with LLM */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Запуск служби експорту триває довше, ніж очікувалося. Перевірте мережу та повторіть спробу.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "status" = "статус";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Триває запис дзвінка у фоновому режимі.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "stop" = "стоп";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop" = "Зупинити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop & Reset Service" = "Зупинити та скинути службу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop & Save" = "Зупинити та зберегти";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop a call recording, system audio recording or voice memo if exists." = "Зупинити запис дзвінка/системного звуку/голосової замітки (якщо активний).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop a system screen recording if exists." = "Зупинити запис екрану (якщо активний).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop Recording" = "Зупинити запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"stop recording" = "Зупинити запис";
+
+/* Translated with LLM */
 "Stop Recording When Disk Exhausted" = "Зупиняти запис при нестачі місця";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop Screen Recording" = "Зупинити запис екрану";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"stop screen recording" = "зупинити запис екрану";
+
+/* Translated with LLM */
 "Stop Service" = "Зупинити службу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully authorized to Google and connected to Google Drive." = "Успішна авторизація в Google та підключення до Google Drive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully authorized to Microsoft and connected to OneDrive." = "Успішна авторизація в Microsoft та підключення до OneDrive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully connected to Dropbox." = "Успішне підключення до Dropbox.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully connected to the server %@." = "Успішне підключення до сервера %@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Suggested" = "Рекомендовані";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Suggested Applications" = "Рекомендовані програми";
 
-/* TODO */
-"Switch to list view" = "Switch to list view";
+/* Translated with LLM */
+"Switch to list view" = "Перейти до перегляду списком";
 
-/* TODO */
-"Switch to orbit view" = "Switch to orbit view";
+/* Translated with LLM */
+"Switch to orbit view" = "Перейти до перегляду орбіти";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync" = "Синхронізація";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync Service Mode" = "Режим синхронізації";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync Service Provider" = "Провайдер синхронізації";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Синхронізація: ідентичність локальних та хмарних записів (змінюються лише хмарні дані).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "synchronization" = "синхронізація";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Synchronization Failed" = "Помилка синхронізації";
 
-/* No comment provided by engineer. */
-"Synchronize the playback status of the recording with Control Center." = "Синхронізувати статус відтворення з Центром керування.";
+/* Translated with LLM */
+"Synchronize the playback status of the recording with Control Center." = "Синхронізувати статус відтворення з Центром керування.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Synchronizing" = "Синхронізація";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Syntax or usage error occurred." = "Помилка синтаксису або використання.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Applications" = "Системні програми";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Audio" = "Системний звук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Audio Recording" = "Запис системного звуку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "system audio recording" = "запис системного звуку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Language" = "Системна мова";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Record" = "Системний запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Торкніться __будь-якого краю__, щоб вибрати його як ___активний край___.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to add required widget." = "Натисніть, щоб додати віджет.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to calculate the total size of all recordings." = "Натисніть, щоб підрахувати загальний розмір записів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to Copy" = "Натисніть, щоб скопіювати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to Exit" = "Натисніть, щоб вийти";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to open settings." = "Натисніть, щоб відкрити налаштування.";
 
-/* TODO */
-"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+/* Translated with LLM */
+"Tap to open Wi-Fi settings." = "Натисніть, щоб відкрити налаштування Wi-Fi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to view details" = "Натисніть, щоб переглянути деталі";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Technical Error Detected" = "Виявлено технічну помилку";
+
+/* Translated with LLM */
 "Temporarily Ignore" = "Тимчасово ігнорувати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Temporary error occurred, more retries might fix." = "Тимчасова помилка, повторні спроби можуть допомогти.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "terminate" = "завершити";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Terminate all active calls immediately." = "Негайно завершити всі активні дзвінки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"terminate call" = "завершити виклик";
+
+/* Translated with LLM */
 "Terminate Calls" = "Завершити дзвінки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Test Connection" = "Перевірити з’єднання";
 
-/* TODO */
-"Text Copied" = "Text Copied";
+/* Translated with LLM */
+"Text Copied" = "Текст скопійовано";
 
-/* No comment provided by engineer. */
-"text-to-speech" = "текст-в-мова";
+/* Translated with LLM */
+"text to speech" = "текст у мову";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"text-to-speech" = "текст-в-мову";
+
+/* Translated with LLM */
 "The %@ has been interrupted by the system. You may convert the recording manually later." = "Система перервала %@. Ви можете конвертувати запис вручну пізніше.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Невідома помилка: демон запуску не відповідає. Відбувається повторне підключення. Якщо проблема не зникне, перевстановіть програму.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The application will launch automatically when recording ends." = "Програма запуститься автоматично після завершення запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The audio file to be played to the opposite side." = "Аудіофайл для відтворення співрозмовнику.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The bundle identifier of the application that initiated the call." = "Ідентифікатор програми, яка ініціювала дзвінок.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The content of text file “%@” is empty." = "Текстовий файл “%@” порожній.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Поточний статус дзвінка. Можливі значення: Набір, З’єднано, Завершено, Невідомо.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The date and time when the audio was created." = "Дата та час створення аудіо.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "Пристрій вібруватиме при початку/завершенні запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The direction of the call. May not available for all audio files." = "Напрямок дзвінка. Може бути недоступним для деяких аудіофайлів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "Напрямок дзвінка. Можливі значення: Вхідний, Вихідний, Невідомо.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The display name of the application that initiated the call." = "Назва програми, яка ініціювала дзвінок.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The field of information to get." = "Поле інформації для отримання.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The file format of the selected audio file." = "Формат обраного аудіофайлу.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The hoverball can display even if you do not unlock your device." = "Hoverball відображається навіть на заблокованому пристрої.";
 
-/* No comment provided by engineer. */
-"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Комбінація клавіш для «Швидкого запису» змінена на «%@».";
+/* Translated with LLM */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Комбінація клавіш для «Швидкого запису» та «Фізичної комбінації клавіш» змінена на «%@».";
 
-/* No comment provided by engineer. */
-"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "Остання версія «TrollRecorder»: %@ (%@). Поточна версія: %@ (%@).";
+/* Translated with LLM */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "Остання версія «TrollRecorder»: %1$@ (%2$@). Поточна версія: %3$@ (%4$@).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The location metadata will be continuously updated while the recording is in progress." = "Метадані місця запису оновлюються під час запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The location where the recording was recorded." = "Місце, де було зроблено запис.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The maximum seconds to wait for calls to be connected." = "Максимальний час очікування з’єднання (у секундах).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The missing location metadata will be populated if you open the application right after the recording." = "Відсутні метадані місця заповняться при відкритті додатку одразу після запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The name of the contact." = "Ім’я контакту.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The name of the sender." = "Ім’я відправника.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Частота дискретизації (чим вища — тим краща якість, але більший розмір файлу).";
 
-/* TODO */
-"the other device" = "the other device";
+/* Translated with LLM */
+"the other device" = "інший пристрій";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number of the contact." = "Номер телефону контакту.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number of the sender." = "Номер телефону відправника.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number. Third party application or CallKit calls may not have this value." = "Номер телефону. Може бути відсутнім для сторонніх додатків або CallKit.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Режим постобробки: Combine — динаміки в лівий канал, мікрофон у правий; Mixed — мікшування каналів.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The primary button action at the right side of the hoverball when no call is active." = "Дія основної кнопки hoverball (права сторона) без активного дзвінка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The service is not properly configured." = "Служба налаштована неправильно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The service operator name of the sender." = "Оператор зв’язку відправника.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The size of selected audio file." = "Розмір обраного аудіофайлу.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The text to be played to the opposite side." = "Текст для відтворення співрозмовнику.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The time interval before the hoverball becomes idle." = "Час до переходу hoverball у режим бездіяльності.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The type of content to be recorded." = "Тип контенту для запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The unique identifier of the call." = "Унікальний ідентифікатор дзвінка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The unique identifier of the provider application." = "Унікальний ідентифікатор додатку-провайдера.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The URL is not valid." = "Недійсний URL.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There is nothing but air." = "Тут пусто.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "Фонова служба може не конвертувати запис відразу. Тепер ви можете завершити цей крок вручну!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There was a problem verifying your identity." = "Помилка перевірки вашої особи.";
 
-/* No comment provided by engineer. */
-"This feature requires a paid subscription. Please upgrade to use this feature." = "Для цієї функції потрібна платна підписка.";
+/* Translated with LLM */
+"This feature requires a paid subscription. Please upgrade to use this feature." = "Для цієї функції потрібна платна підписка. Будь ласка, оновіть підписку, щоб використовувати цю функцію.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This field accept phone number for matching contact." = "Це поле приймає номер телефону для пошуку контакту.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This field accept phone number or an email address for matching contact." = "Це поле приймає номер телефону або email для пошуку контакту.";
 
-/* No comment provided by engineer. */
-"This is a sandbox build, the daemon is not available." = "Це тестова збірка — демон недоступний.";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This is a widget daemon for Troll Recorder." = "Це демон віджета для Troll Recorder.";
 
-/* No comment provided by engineer. */
-"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "Ця опція впливає на «Швидкий запис» і «Комбінацію клавіш».";
+/* Translated with LLM */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "Ця опція впливає на поведінку «Швидкого запису» та «Комбінації фізичних клавіш».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This option overrides the “Press & Hold Action” of the Hoverball." = "Ця опція замінює дію «Утримання» для Hoverball.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "Цей запис містить кілька варіантів аудіо. Збереження видалить інші версії. Продовжити чи зберегти копію?";
 
-/* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Цей запис із WeChat. Асистент WeChat збереже імена контактів.\nПридбати TrollRecorder Pro для активації асистента?";
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Цей запис із WeChat, і “Асистент WeChat” допомагає вам заповнити імена контактів WeChat та примітки наступного разу.\nВи можете придбати “TrollRecorder Pro”, щоб увімкнути “Асистент WeChat”. Бажаєте придбати зараз?";
 
-/* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Цей запис із WeChat. Асистент WeChat збереже імена контактів.\nАктивувати асистента зараз?";
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Цей запис із WeChat. Асистент WeChat допоможе вам заповнити імена та примітки контактів WeChat наступного разу.\nСхоже, у вас не ввімкнено “Асистент WeChat”. Бажаєте ввімкнути його зараз?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "Ця версія WeChat (%@) не підтримується. Оновіть додаток.";
 
-/* No comment provided by engineer. */
-"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Ця версія WeChat (%@) не тестувалася. Деякі функції можуть працювати некоректно.";
+/* Translated with LLM */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Ця версія WeChat (%@) не тестувалася та офіційно не підтримується. Деякі функції можуть працювати некоректно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "Ця версія WeChat (%@) підтримується частково. Рекомендуємо оновити.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is supported." = "Ця версія WeChat (%@) підтримується.";
 
-/* TODO */
-"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+/* Translated with LLM */
+"This will generate a new password and restart the WebDAV server." = "Це згенерує новий пароль і перезапустить сервер WebDAV.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Three-digit Milliseconds" = "Тризначні мілісекунди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Time Sensitive" = "Термінове";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"time sensitive notification" = "сповіщення з обмеженням за часом";
+
+/* Translated with LLM */
 "Title" = "Назва";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To %@" = "Для: %@";
 
-/* No comment provided by engineer. */
-"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Для активації «Launch Shield» додайте віджет TrollRecorder на екран. Натисніть «Додати», потім перемістіть його.";
+/* Translated with LLM */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Для активації функції «Launch Shield» додайте віджет TrollRecorder на екран блокування або головний екран. Натисніть «Додати зараз», щоб додати цей віджет на початкову сторінку головного екрана. Пізніше ви можете змінити його положення, утримуючи та перетягуючи.";
 
-/* No comment provided by engineer. */
-"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Для налаштування iCloud Drive перейдіть у «Налаштування» → «Стілка даних» → «iCloud Drive».";
+/* Translated with LLM */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Для налаштування iCloud Drive перейдіть у «Налаштування» → «Стільникові дані» → «iCloud Drive».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "Налаштування сповіщень синхронізації у розділі «Мережеве сховище».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "Для налаштування «Утримання» видаліть ярлик у «Автоматизація» → «Утримання Hoverball».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "Для точної історії дзвінків використайте TrollFools для інтеграції з WeChat.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Для доступу WebDAV оберіть «Завжди» або «Під час використання» для TrollRecorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Для «Розумного архіву» увімкніть фонове оновлення TrollRecorder.";
 
-/* No comment provided by engineer. */
-"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Для «Розумного архіву» увійдіть у iCloud Drive у «Налаштуваннях».";
+/* Translated with LLM */
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Для «Розумного архіву» увійдіть у iCloud Drive у «Налаштуваннях».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To: %@" = "Для: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "toggle" = "перемкнути";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle ${requestedMode}" = "Перемкнути ${requestedMode}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle Call Recording" = "Перемкнути запис дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle Hoverball" = "Перемкнути Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"toggle hoverball" = "перемкнути hoverball";
+
+/* Translated with LLM */
 "Toggle ON/OFF the recorder hoverball." = "Увімкнути/вимкнути Hoverball.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle Recording" = "Перемкнути запис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"toggle recording" = "перемкнути запис";
+
+/* Translated with LLM */
 "Toggle Screen Recording" = "Перемкнути запис екрана";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"toggle screen recording" = "перемкнути запис екрану";
+
+/* Translated with LLM */
 "Toggle System Audio Recording" = "Перемкнути запис системного звуку";
 
-/* No comment provided by engineer. */
-"Toggle system screen recording just like what you do in the Control Center." = "Перемкнути запис екрана (як у Центрі керування).";
+/* Translated with LLM */
+"Toggle system screen recording just like what you do in the Control Center." = "Перемкнути системний запис екрана, як у Центрі керування.";
 
-/* No comment provided by engineer. */
-"Toggle Voice Memo Recording" = "Перемкнути голосову нотатку";
+/* Translated with LLM */
+"Toggle Voice Memo Recording" = "Увімкнути/вимкнути запис голосових нотаток";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Token expired. Please re-authorize to continue." = "Токен застарів. Повторно авторизуйтесь.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "top edge" = "верхній край";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Total size is %@, path is %@" = "Загальний розмір: %@, шлях: %@";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To…" = "Для…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Track Location Updates" = "Відстежувати місцезнаходження";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "trailing edge" = "задній край";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transcript" = "Транскрипт";
 
-/* TODO */
+/* Translated with LLM */
 "Transcript Copied" = "Транскрипт скопійовано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transfer exceeded." = "Перевищено ліміт передачі.";
 
-/* TODO */
-"Transfer Recordings" = "Transfer Recordings";
+/* Translated with LLM */
+"Transfer Recordings" = "Передача записів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transition When Idle" = "Анімація бездіяльності";
 
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Переклад: @RAYMONCE";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Trim" = "Обрізати";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Troll Recorder" = "Troll Recorder";
 
-/* TODO */
-"Troll Recorder %@" = "Troll Recorder %@";
+/* Translated with LLM */
+"Troll Recorder %@" = "TrollRecorder %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "tts" = "TTS";
 
-/* No comment provided by engineer. */
-"Turn this option off to make the other options on this page take effect for the current application." = "Вимкніть цю опцію, щоб інші налаштування застосувались.";
+/* Translated with LLM */
+"tts playback" = "відтворення TTS";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Turn this option off to make the other options on this page take effect for the current application." = "Вимкніть цю опцію, щоб інші налаштування на цій сторінці застосовувалися до поточної програми.";
+
+/* Translated with LLM */
 "Two-digit Day of Month Number" = "Двозначний день місяця";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Hours, 12-hour Clock" = "Двозначний час (12-годинний формат)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Hours, 24-hour Clock" = "Двозначний час (24-годинний формат)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Minutes" = "Двозначні хвилини";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Month Number" = "Двозначний номер місяця";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Seconds" = "Двозначні секунди";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Type to search…" = "Пошук…";
 
-/* No comment provided by engineer. */
-"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Не вдалося знайти папку для синхронізації. Створіть «TrollRecorder/Recordings» у сховищі.";
+/* Translated with LLM */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Не вдалося знайти віддалену теку для двосторонньої синхронізації. Можливо, вам потрібно створити теку «TrollRecorder/Recordings» у віддаленому сховищі.";
 
-/* No comment provided by engineer. */
-"Unable to locate your personal “OneDrive”." = "Не вдалося знайти ваш OneDrive.";
+/* Translated with LLM */
+"Unable to locate your personal “OneDrive”." = "Не вдалося знайти ваш особистий OneDrive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Потрібна повна синхронізація (покрокова неможлива).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unauthorize" = "Відкликати доступ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Uncompressed" = "Без стиснення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Underscore" = "Підкреслення";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown" = "Невідомо";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Address" = "Невідома адреса";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Artist" = "Невідомий виконавець";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Direction" = "Невідомий напрямок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Duration" = "Невідома тривалість";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Error" = "Невідома помилка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown error occurred." = "Сталася невідома помилка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown error occurred. Please check the log for more details." = "Невідома помилка. Деталі в журналі.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown File Format" = "Невідомий формат файлу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Location" = "Невідоме місцезнаходження";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Operator" = "Невідомий оператор";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Phone Address" = "Невідомий номер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Place" = "Невідоме місце";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Provider" = "Невідомий провайдер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Sample Rate" = "Невідома частота дискретизації";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Sender" = "Невідомий відправник";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Type" = "Невідомий тип";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Variant" = "Невідомий варіант";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unlock all features?" = "Розблокувати всі функції?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmark" = "Зняти позначку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "unmute" = "увімкнути звук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmute ${requestedChannel}" = "Увімкнути звук ${requestedChannel}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"unmute call" = "увімкнути звук дзвінка";
+
+/* Translated with LLM */
 "Unmute Existing Calls" = "Увімкнути звук поточних дзвінків";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmute specified channel of all existing calls." = "Увімкнути звук вказаного каналу у всіх дзвінках.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unspecified" = "Не вказано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unsupported Configuration" = "Непідтримувана конфігурація";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Untitled" = "Без назви";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Up to 5 Personal Devices" = "До 5 особистих пристроїв";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Updating…" = "Оновлення…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upgrade Now" = "Оновити зараз";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upgrade to %@" = "Оновити до %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "uplink" = "вихідний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Uplink (Microphone)" = "Вихідний (мікрофон)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"uplink playback" = "відтворення uplink";
+
+/* Translated with LLM */
+"uplink voice" = "голос висхідного каналу";
+
+/* Translated with LLM */
 "Upload" = "Завантажити";
 
-/* No comment provided by engineer. */
-"Upload, download or synchronize recordings between local and cloud drive." = "Завантаження, вивантаження чи синхронізація записів з хмарним сховищем.";
+/* Translated with LLM */
+"Upload, download or synchronize recordings between local and cloud drive." = "Завантаження, вивантаження чи синхронізація записів між локальним і хмарним сховищем.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upload: Upload local recordings to cloud drives as is. Restorable." = "Завантаження: записи зберігаються у хмару в оригіналі. Можливе відновлення.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Використовувати біометрію для розблокування. Фонове відтворення вимкнено.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Cellular Network" = "Використовувати мобільний інтернет";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Date" = "Використовувати дату";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Date Range" = "Використовувати діапазон дат";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Default Settings" = "Використовувати типові налаштування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Haptic Patterns" = "Використовувати тактильні шаблони";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Media Controls" = "Використовувати медіакерування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Recycle Bin" = "Використовувати кошик";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Snapshot Transition" = "Використовувати перехід через знімок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Agreement" = "Угода користувача";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Applications" = "Користувацькі програми";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User denied access to speech recognition." = "Користувач заблокував доступ до розпізнавання мови";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Initiated Recording" = "Запис ініційований користувачем";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Interface Style" = "Стиль інтерфейсу";
 
-/* No comment provided by engineer. */
-"Username (Optional)" = "Ім'я користувача (необов'язково)";
+/* Translated with LLM */
+"Username (Optional)" = "Ім’я користувача (необов’язково)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Utility" = "Утиліта";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant" = "Варіант";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant Capitalized" = "Варіант (з великої літери)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant Description" = "Опис варіанту";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Verification Failed" = "Перевірку не пройдено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Verify License" = "Перевірити ліцензію";
 
-/* No comment provided by engineer. */
-"Version %@ Build %@" = "Версія %@ Збірка %@";
+/* Translated with LLM */
+"Version %@ Build %@" = "Версія %1$@ Збірка %2$@";
 
-/* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "Версія %@ Збірка %@ - Нова версія %@ Збірка %@";
+/* Translated with LLM */
+"Version %@ Build %@ - New Version %@ Build %@" = "Версія %1$@ Збірка %2$@ - Нова версія %3$@ Збірка %4$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Vibrate" = "Вібрація";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View" = "Перегляд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Details" = "Перегляд деталей";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs" = "Перегляд журналів";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Application" = "Журнали програми";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Audio Player" = "Журнали аудіоплеєра";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Call Monitor" = "Журнали монітора дзвінків";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Call Recorder" = "Журнали запису дзвінків";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Hoverball" = "Журнали Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Launch Agent" = "Журнали агента запуску";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Network Storage" = "Журнали мережевого сховища";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Speech Utterance" = "Журнали мовного виводу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: System Audio" = "Журнали системного звуку";
 
-/* No comment provided by engineer. */
-"View Logs: Voice Memo" = "Журнали голосових нотаток";
+/* Translated with LLM */
+"View Logs: Voice Memo" = "Журнали голосових нотаток";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View My Account" = "Мій акаунт";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Recording Details" = "Перегляд деталей запису";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "VIP-контакти завжди записуватимуться та додаватимуться до обраного";
 
-/* No comment provided by engineer. */
-"Voice Memo" = "Голосова нотатка";
-
-/* No comment provided by engineer. */
-"Voice Memo Recording" = "Запис голосової нотатки";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "voice memo recording" = "запис голосової нотатки";
 
-/* No comment provided by engineer. */
-"Voice Memos" = "Голосові нотатки";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "voice-over" = "закадровий голос";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Voice-Over Voice" = "Голос за кадром";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Voice Memo" = "Голосова нотатка";
+
+/* Translated with LLM */
+"Voice Memo Recording" = "Запис голосової нотатки";
+
+/* Translated with LLM */
+"Voice Memos" = "Голосові нотатки";
+
+/* Translated with LLM */
 "VoIP" = "VoIP";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Volume" = "Гучність";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "wait" = "очікування";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for ${requestedTimeout} seconds" = "Очікувати ${requestedTimeout} секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for any calls to be answered and connected." = "Очікувати відповіді та підключення дзвінка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"wait for call" = "очікувати дзвінок";
+
+/* Translated with LLM */
 "Wait for Calls" = "Очікувати дзвінки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for Connected Calls" = "Очікувати підключені дзвінки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Увага: ваш розмову записується. Увага: ваш розмову записується.";
 
-/* No comment provided by engineer. */
-"Waveform Audio" = "Waveform Audio";
+/* Translated with LLM */
+"Waveform Audio" = "Аудіо Waveform";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "Не вдалося перевірити покупку через неточний час. Переконайтеся, що час на пристрої встановлено правильно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Не вдалося перевірити покупку в приватному режимі. Вимкніть приватний режим Safari.";
 
-/* TODO */
-"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+/* Translated with LLM */
+"We couldn’t finish importing recordings from %@." = "Не вдалося завершити імпорт записів із %@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Ми любимо яскраві анімовані фони, але ви можете вимкнути їх тут.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WebDAV" = "WebDAV";
 
-/* TODO */
-"WebDAV Password Actions" = "WebDAV Password Actions";
+/* Translated with LLM */
+"WebDAV Password Actions" = "Дії з паролем WebDAV";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WebDAV Server" = "WebDAV сервер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WeChat" = "WeChat";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WeChat Assistant" = "Помічник WeChat";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Welcome to" = "Ласкаво просимо до";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’re recording system audio in the background." = "Триває запис системного звуку у фоні.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’re recording your voice memo in the background." = "Триває запис вашої голосової нотатки у фоні.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new phone call recording!" = "У нас новий запис дзвінка!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new system audio recording!" = "У нас новий запис системного звуку!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new voice memo!" = "У нас нова голосова нотатка!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got new phone call recordings!" = "У нас нові записи дзвінків!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "What’s New" = "Що нового";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When any of the following actions is triggered, run the shortcut without any notification." = "При активації будь-якої з наступних дій запускати сценарій без сповіщень.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Foreground" = "Коли на передньому плані";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Locked" = "При блокуванні";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Якщо Wi-Fi недоступний, використовувати мобільний інтернет для передачі записів. Можуть стягуватися додаткові кошти.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When there is no call…" = "Коли немає дзвінків…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Visible" = "Коли видно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "Якщо WebDAV сервер увімкнено, дозволяти доступ через звичайні браузери (Safari, Chrome, Edge тощо)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to force the application to use the light or the dark user interface." = "Примусово встановлювати світлий або темний інтерфейс програми.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to force the hoverball to use the light or the dark style." = "Примусово встановлювати світлий або темний стиль для hoverball.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Нескінченно повторювати відтворення аудіо. Якщо увімкнено, дія завершиться відразу після початку відтворення.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which channel to mute." = "Який канал вимкнути.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which channel to unmute." = "Який канал увімкнути.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which edges of the screen the hoverball can be attached to." = "До яких країв екрану можна прикріпляти hoverball.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Why don’t you make a phone call?" = "Чому б не зателефонувати?";
 
-/* TODO */
-"Wi-Fi Required" = "Wi-Fi Required";
+/* Translated with LLM */
+"Wi-Fi Required" = "Потрібен Wi-Fi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Will start recording automatically on audio or video calls in the current application." = "Автоматично записувати аудіо- та відеодзвінки в поточному додатку.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Will start recording automatically on audio or video calls." = "Автоматично записувати аудіо- та відеодзвінки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Додавати ID3-теги до експортованих аудіофайлів (назва, виконавець, альбом, жанр, рік та обкладинка).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write latitude and longitude to the recording metadata." = "Записувати координати (широту та довготу) до метаданих запису.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write runtime logs into filesystem. You need to restart services to apply changes." = "Записувати логи роботи у файлову систему. Для застосування змін потрібно перезапустити служби.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Year Month Day" = "Рік Місяць День";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "YES" = "ТАК";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "Ви збираєтеся повністю видалити всі записи, скинути налаштування та очистити кеш.\nЦЮ ДІЮ НЕМОЖЛИВО СКАСУВАТИ!";
 
-/* TODO */
-"You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
+/* Translated with LLM */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "Ви збираєтеся виправити власників файлової системи та дозволи на всі записи та налаштування.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "Ви вже використовуєте останню версію «TrollRecorder» %1$@ (%2$@).";
+
+/* Translated with LLM */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Ви можете завантажити голосовий пакет у “Налаштування” → “Спеціальні можливості” → “VoiceOver” → “Мова” → “Голоси”, а потім обрати його тут для голосових оголошень.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Для визначення місцезнаходження у фоні оберіть “Завжди” для “Troll Recorder”. Якщо обрати “Під час використання програми”, координати оновлюватимуться лише після запуску додатку.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Для застосування налаштувань на цій сторінці може знадобитися увімкнути “Розширений автоматичний запис” або “Розширене визначення сцени”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You may need to reboot your device to make this application work properly." = "Для коректної роботи програми може знадобитися перезавантаження пристрою.";
 
-/* No comment provided by engineer. */
-"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Ваші дані з %@ будуть завантажені та об'єднані із записами у “%@”.";
+/* Translated with LLM */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Ваші дані з %1$@ будуть завантажені та об’єднані із записами у «%2$@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’re now using the free version of “TrollRecorder JB”." = "Ви використовуєте безкоштовну версію “TrollRecorder JB”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’re now using the free version of “TrollRecorder”." = "Ви використовуєте безкоштовну версію “TrollRecorder”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Ви змінили мову інтерфейсу програми на “%@”. Для повного застосування змін необхідний respring.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Ви змінили “Спеціальну назву експорту”. Бажаєте перестворити архівні записи в “Мережевому сховищі”?\nЦя операція може зайняти час і витратити мобільний трафік. Рекомендуємо видалити “TrollRecorder/ArchivedRecordings” з хмарних сховищ, щоб уникнути дублювання.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "Ви продовжили без дійсного підпису коду. Ви можете переглядати та експортувати існуючі записи, але інші функції можуть бути недоступні.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "Ви ввімкнули біометричну аутентифікацію - необхідно підтвердити особу.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve pressed cancel." = "Ви натиснули “Скасувати”.";
 
-/* No comment provided by engineer. */
-"You’ve pressed password." = "Ви ввели пароль.";
+/* Translated with LLM */
+"You’ve pressed password." = "Ви натиснули “Пароль”.";
 
-/* No comment provided by engineer. */
-"¼ Audio CD" = "¼ Audio CD";
+/* Translated with LLM */
+"¼ Audio CD" = "¼ Аудіо CD";
 
-/* No comment provided by engineer. */
-"½ Audio CD" = "½ Audio CD";
+/* Translated with LLM */
+"½ Audio CD" = "½ Аудіо CD";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“%@” is not available." = "“%@” недоступний.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“Background App Refresh” Permission Denied" = "Доступ до “Фонового оновлення” заборонено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“iCloud Drive” Not Logged In" = "Не виконано вхід у “iCloud Drive”";
 
-/* TODO */
-"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
+/* Translated with LLM */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” увімкнено: служба буде повторно ввімкнена в деяких сценаріях. Щоб назавжди зупинити службу, вимкніть “Додаткові параметри” → “Launch Shield”, вийдіть і знову відкрийте програму, а потім знову виберіть цей параметр.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Встановлено обидві версії “TrollRecorder JB” та TrollStore. Видаліть їх та встановіть наново через Sileo або TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” несумісний з Bootstrap (RootHide). Видаліть його та встановіть “TrollRecorder” через TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” несумісний з цією версією iOS.";
 
 /* No comment provided by engineer. */

@@ -24,7 +24,7 @@ Thông tin cá nhân của bạn được bảo mật và chúng tôi không chi
 
 ## Tích hợp Lưu trữ Đám mây
 
-“TrollRecorder” cho phép người dùng tải bản ghi âm lên tài khoản Google Drive, Dropbox và Microsoft OneDrive của riêng họ. Tính năng này là tùy chọn và yêu cầu người dùng xác thực với dịch vụ lưu trữ đám mây tương ứng. Ứng dụng lưu trữ thông tin đăng nhập lưu trữ đám mây của bạn một cách an toàn trên thiết bị; việc xác thực được xử lý an toàn thông qua API của dịch vụ tương ứng. Bản ghi âm của bạn được tải trực tiếp từ thiết bị lên dịch vụ lưu trữ đám mây bạn đã chọn và “TrollRecorder” không có quyền truy cập vào bản ghi âm của bạn được lưu trữ trong các dịch vụ này.
+“TrollRecorder” cho phép người dùng tải bản ghi âm lên tài khoản Google Drive, Dropbox và Microsoft OneDrive của riêng họ. Tính năng này là tùy chọn và yêu cầu người dùng xác thực với dịch vụ lưu trữ đám mây tương ứng. Ứng dụng lưu trữ thông tin đăng nhập lưu trữ đám mây của bạn một cách an toàn trên thiết bị; việc xác thực được xử lý an toàn thông qua API của dịch vụ tương ứng. Bản ghi âm của bạn được tải trực tiếp từ thiết bị lên dịch vụ lưu trữ đám mây bạn đã chọn và “TrollRecorder” không có quyền truy cập vào bản ghi âm của bạn được lưu trữ trong các dịch vụ này.
 
 ## Liên kết đến các Trang web Khác
 

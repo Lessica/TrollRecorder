@@ -1,46 +1,46 @@
 /* No comment provided by engineer. */
 "%@ Hz" = "%@ Hz";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is locked." = "%@ bị khóa.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not available." = "%@ không có sẵn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not implemented yet." = "%@ Chưa được thực hiện.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not set up." = "%@ không được thiết lập.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ may not be configured" = "%@ có thể không được cấu hình";
 
-/* TODO */
-"%@ Reason: %@" = "%1$@ Reason: %2$@";
+/* Translated with LLM */
+"%@ Reason: %@" = "%1$@ Lý do: %2$@";
 
-/* No comment provided by engineer. */
-"%@ rows not loaded" = "%@ các hàng không tải được";
+/* Translated with LLM */
+"%@ rows not loaded" = "%@ hàng không được tải";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%d Exclusive Features" = "%d Các tính năng độc quyền";
 
-/* No comment provided by engineer. */
-"%ld Recording" = "%ld Ghi";
+/* Translated with LLM */
+"%ld Recording" = "%ld Bản ghi";
 
-/* No comment provided by engineer. */
-"%ld Recording ◇ %@" = "%ld Ghi ◇ %@";
+/* Translated with LLM */
+"%ld Recording ◇ %@" = "%ld Bản ghi ◇ %@";
 
-/* No comment provided by engineer. */
-"%ld Recordings" = "%ld Các bản ghi âm";
+/* Translated with LLM */
+"%ld Recordings" = "%ld Bản ghi";
 
-/* No comment provided by engineer. */
-"%ld Recordings ◇ %@" = "%ld Các bản ghi âm ◇ %@";
+/* Translated with LLM */
+"%ld Recordings ◇ %@" = "%ld Bản ghi ◇ %@";
 
-/* No comment provided by engineer. */
-"(%lu bytes)" = "(%lu bytes)";
+/* Translated with LLM */
+"(%lu bytes)" = "(%lu byte)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "(%lu items)" = "(%lu mục)";
 
 /* No comment provided by engineer. */
@@ -49,998 +49,1112 @@
 /* No comment provided by engineer. */
 "--arg=value" = "--arg=value";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "3 Seconds" = "3 Giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "30 Days Ago" = "30 Ngày Trước";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "4 Seconds" = "4 Giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "45 Days Ago" = "45 Ngày Trước";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "5 Seconds" = "5 Giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "6 Seconds" = "6 Giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "90 Days Ago" = "90 Ngày Trước";
 
 /* No comment provided by engineer. */
 "<%@: %p>" = "<%@: %p>";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "A new version (%@) of “TrollRecorder” is available." = "Phiên bản mới (%@) của “TrollRecorder” đã có sẵn.";
 
-/* No comment provided by engineer. */
-"A respring is required to completely apply the changes." = "Resping là cần thiết để áp dụng tất cả các thay đổi.";
+/* Translated with LLM */
+"A respring is required to completely apply the changes." = "Cần phải khởi động lại để hoàn tất áp dụng các thay đổi.";
 
-/* No comment provided by engineer. */
-"A widget is required for the “Launch Shield” feature." = "Cần có tiện ích cho tính năng “Launch Shield”.";
+/* Translated with LLM */
+"A widget is required for the “Launch Shield” feature." = "Cần có tiện ích cho tính năng “Launch Shield”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "accept" = "Chấp nhận";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Accept all incoming calls automatically." = "Tự động chấp nhận tất cả các cuộc gọi đến.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"accept call" = "chấp nhận cuộc gọi";
+
+/* Translated with LLM */
 "Accept Incoming Calls" = "Chấp nhận cuộc gọi đến";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Access From Web Browser" = "Truy cập từ trình duyệt web";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Truy cập các bản ghi âm của bạn từ trình duyệt WebDAV từ một thiết bị khác trong mạng. Máy chủ chỉ hoạt động khi ứng dụng ở phía trước.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "activate" = "kích hoạt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"activate hoverball" = "kích hoạt bong bóng";
+
+/* Translated with LLM */
 "Activate the recorder hoverball." = "Kích hoạt bong bóng ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add" = "Thêm";
 
-/* TODO */
-"Add Argument" = "Thêm đối số mới";
+/* Translated with LLM */
+"Add Argument" = "Thêm đối số";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add Now" = "Thêm Ngay";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add Required Widget" = "Thêm tiện ích cần thiết";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Add Token" = "Thêm Token";
+
+/* Translated with LLM */
+"Add Tokens" = "Thêm Token";
+
+/* Translated with LLM */
 "Additional command-line options for the Rclone synchronization tool." = "Các tùy chọn dòng lệnh bổ sung cho công cụ đồng bộ hóa Rclone.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Additional Contact" = "Liên hệ bổ sung";
 
-/* No comment provided by engineer. */
-"Adequate" = "Đầy Đủ";
+/* Translated with LLM */
+"Adequate" = "Đầy đủ";
 
-/* No comment provided by engineer. */
-"Advanced Audio Coding" = "Mã hóa nâng cao";
+/* Translated with LLM */
+"Advanced Audio Coding" = "Mã hóa âm thanh nâng cao";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Options" = "Các tùy chọn nâng cao";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Search" = "Tìm kiếm nâng cao";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "After %@" = "Sau %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Agree" = "Đồng ý";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Alias" = "Bí Danh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "alive" = "tồn tại";
 
-/* TODO */
+/* Translated with LLM */
 "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "Tất cả các cuộc gọi sẽ được ghi âm tự động, ngoại trừ các liên hệ trong “Danh sách loại trừ”. Các liên hệ VIP cũng sẽ được thêm vào danh sách yêu thích.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "All Edges" = "Tất Cả Các Cạnh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Tất cả các bản ghi sẽ được giữ trong 7 ngày. Nhật ký lỗi thời sẽ tự động bị xóa.";
 
-/* TODO */
-"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
+/* Translated with LLM */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "Tất cả các bản ghi từ %@ hiện đã có sẵn trên thiết bị này. Bạn có thể đóng màn hình này khi đã sẵn sàng.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Access to Call History" = "Cho phép truy cập vào lịch sử cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Automatic Recording" = "Cho phép ghi âm tự động";
 
-/* No comment provided by engineer. */
-"Allow Hoverball Wake-Ups" = "Cho phép bong bóng được bật";
+/* Translated with LLM */
+"Allow Hoverball Wake-Ups" = "Cho phép bật bong bóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Cho phép đọc danh sách liên hệ WeChat và lịch sử cuộc gọi VoIP để điền tên liên hệ của các bản ghi. Chỉ hỗ trợ các phiên bản WeChat gần đây.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Cho phép ghi âm các cuộc gọi điện thoại nhận được trên các thiết bị đã đăng nhập vào tài khoản iCloud của bạn khi chúng ở gần và trên mạng WLAN.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always" = "Luôn luôn";
 
-/* No comment provided by engineer. */
-"Always Dark" = "Chế Độ Tối";
+/* Translated with LLM */
+"Always Dark" = "Luôn Tối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Dynamic" = "Màu sắc luôn đổi";
 
-/* No comment provided by engineer. */
-"Always Fold" = "Luôn Gấp Lại";
+/* Translated with LLM */
+"Always Fold" = "Luôn Gập Lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always keep the hoverball window visible." = "Luôn giữ cho cửa sổ bong bóng được hiển thị mọi lúc";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Keep-Alive in Background" = "Luôn luôn giữ chạy trong nền.";
 
-/* No comment provided by engineer. */
-"Always Light" = "Chế độ Sáng";
+/* Translated with LLM */
+"Always Light" = "Luôn Sáng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always On" = "Luôn bật";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always schedule background processing tasks to run at the next available opportunity." = "Luôn lên lịch các tác vụ xử lý nền để chạy vào thời điểm có thể tiếp theo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "AM/PM String" = "Chuỗi AM/PM";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "An unknown error occurred." = "Đã xảy ra lỗi không xác định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Analysing Audio" = "Phân tích âm thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Another %@ is required to continue editing. Available capacity is %@." = "Cần có %1$@ khác để tiếp tục chỉnh sửa. Dung lượng khả dụng là %2$@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "answer" = "trả lời";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"answer call" = "trả lời cuộc gọi";
+
+/* Translated with LLM */
+"answer incoming call" = "trả lời cuộc gọi đến";
+
+/* Translated with LLM */
 "answered" = "đã trả lời";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"answered call" = "cuộc gọi đã trả lời";
+
+/* Translated with LLM */
 "Any" = "Bất kỳ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "App Icon" = "Biểu tượng App";
 
-/* No comment provided by engineer. */
-"App Language" = "Ngôn ngữ";
+/* Translated with LLM */
+"App Language" = "Ngôn ngữ ứng dụng";
 
-/* No comment provided by engineer. */
-"Appearance" = "Giao Diện App";
+/* Translated with LLM */
+"Appearance" = "Giao Diện";
 
-/* No comment provided by engineer. */
-"Apple’s Core Audio" = "Âm thanh hệ thống Apple";
+/* Translated with LLM */
+"Apple’s Core Audio" = "Âm thanh Core Audio của Apple";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Application" = "Ứng dụng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Application Overrides" = "Ghi đè ứng dụng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Applications" = "Các Ứng Dụng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"App Store" = "App Store";
+
+/* Translated with LLM */
 "archive" = "bản sao lưu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Archive" = "Bản sao lưu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Archive Regeneration" = "Làm mới kho lưu trữ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Lưu trữ: Sử dụng “Chia sẻ nội dung” → “Tuỳ chỉnh tên xuất” để đổi tên các bản ghi chính hỗn hợp & kết hợp cục bộ và tải lên các ổ đĩa đám mây. Không thể khôi phục.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Are you sure you want to discard the changes you made?" = "Bạn có chắc chắn muốn bỏ qua những thay đổi bạn đã thực hiện không?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Are you sure you want to remove all shortcut definitions?" = "Bạn có chắc chắn muốn xóa tất cả các định nghĩa phím tắt không?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Arguments added on this page will be passed through to the rclone command line exactly as entered." = "Các đối số được thêm vào trang này sẽ được truyền nguyên vẹn đến dòng lệnh rclone.";
+
+/* Translated with LLM */
 "Associate with Call History" = "Liên kết với Lịch sử Cuộc Gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "At the end of recording, the audio files of each channel during recording are retained." = "Vào cuối quá trình ghi âm, các tệp âm thanh của mỗi kênh trong quá trình ghi âm được giữ lại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Attachable Edges" = "Cạnh có thể gắn kết";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "audio" = "âm thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio CD" = "Âm thanh CD";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio File" = "Tệp âm thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio played to %@" = "Âm thanh được phát đến %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio progress" = "Tiến trình âm thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authenticate with %@" = "Xác thực với %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorization error: %@" = "Lỗi Uỷ Quyền: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorization flow was manually canceled by user." = "Người dùng đã hủy quy trình uỷ quyền theo cách thủ công.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Dropbox" = "Ủy quyền với Dropbox";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Google" = "Ủy quyền với Google";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Microsoft" = "Ủy quyền với Microsoft";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatic" = "Tự động";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatic Recording" = "Ghi Âm Tự Động";
 
-/* TODO */
+/* Translated with LLM */
 "Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Tính năng ghi âm tự động đã bị tắt. Cuộc gọi sẽ không được ghi âm tự động trong mọi trường hợp.";
 
-/* No comment provided by engineer. */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Tự động tạo bản sao cho các bản ghi chính hỗn hợp & kết hợp mỗi tháng và lưu trữ chúng trong iCloud Drive. Các bản ghi từ tháng hiện tại sẽ không được lưu trữ.";
+/* Translated with LLM */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Tự động tạo bản sao cho các bản ghi chính hỗn hợp & kết hợp mỗi tháng và lưu trữ chúng trong iCloud Drive. Các bản ghi từ tháng hiện tại sẽ không được lưu trữ.";
 
-/* No comment provided by engineer. */
-"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Tự động kích hoạt các dịch vụ nền khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình chính.";
+/* Translated with LLM */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Tự động kích hoạt các dịch vụ nền và duy trì hoạt động của chúng khi thiết bị được khởi động lại và mở khóa. Để kích hoạt tính năng này, tiện ích “TrollRecorder” cần được thêm vào bất kỳ đâu trên màn hình khóa hoặc màn hình chính.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically merge microphone and speaker into a single file after record complete." = "Tự động hợp nhất micrô và loa thành một tệp duy nhất sau khi ghi âm hoàn tất.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Tự động di chuyển bong bóng để tránh bàn phím theo chiều dọc.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically purge recycle bin and remove failure caches." = "Tự động xóa thùng rác và xóa bộ nhớ đệm lỗi.";
 
-/* No comment provided by engineer. */
-"Automatically query the latest version from GitHub when the application starts." = "Tự động truy vấn phiên bản mới nhất từ ​​GitHub khi ứng dụng khởi động.";
+/* Translated with LLM */
+"Automatically query the latest version from GitHub when the application starts." = "Tự động truy vấn phiên bản mới nhất từ GitHub khi ứng dụng khởi động.";
 
-/* TODO */
+/* Translated with LLM */
 "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Tự động ghi lại tất cả các cuộc gọi FaceTime: Loại trừ các liên hệ trong “Danh sách loại trừ”.";
 
-/* TODO */
-"Automatically record FaceTime calls from contacts not in your address book." = "Tự động ghi lại cuộc gọi FaceTime từ những số liên lạc không có trong Danh bạ của bạn.";
+/* Translated with LLM */
+"Automatically record FaceTime calls from contacts not in your address book." = "Tự động ghi lại cuộc gọi FaceTime từ những số liên lạc không có trong Danh bạ của bạn.";
 
-/* TODO */
-"Automatically record phone calls from contacts not in your address book." = "Tự động ghi âm cuộc gọi từ những số liên lạc không có trong Danh bạ của bạn.";
+/* Translated with LLM */
+"Automatically record phone calls from contacts not in your address book." = "Tự động ghi âm cuộc gọi từ những số liên lạc không có trong Danh bạ của bạn.";
 
-/* TODO */
+/* Translated with LLM */
 "Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Tự động ghi âm cuộc gọi điện thoại: Loại trừ các số liên lạc trong “Danh sách loại trừ”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Tự động xóa các bản ghi được tạo sớm hơn ngày được chỉ định ngoại trừ những bản được đánh dấu.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically stop recording when available disk space is extremely low." = "Tự động dừng ghi âm khi dung lượng ổ cứng trống cực kỳ thấp.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically Suspend in Background" = "Tự động tạm dừng ở chế độ nền";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Tự động vuốt lên màn hình nền khi mở khóa. Mở khóa trong vòng 10 giây sau khi khóa, hành động này sẽ không có hiệu lực.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automation" = "Tự động hóa";
 
-/* No comment provided by engineer. */
-"Avoid screen being locked automatically when WebDAV server is used by any client." = "Tránh màn hình bị khóa tự động khi máy chủ WebDAV được sử dụng bởi bất kỳ khách hàng nào.";
+/* Translated with LLM */
+"Avoid screen being locked automatically when WebDAV server is used by any client." = "Tránh màn hình bị khóa tự động khi máy chủ WebDAV được sử dụng bởi bất kỳ máy khách nào.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Background Style" = "Chọn Kiểu Nền";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "backup" = "sao lưu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Backup Synchronized" = "Đồng bộ sao lưu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Backup With iCloud" = "Sao lưu với iCloud";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Batch Export" = "Xuất hàng loạt";
 
-/* TODO */
-"BatchExport_%@.zip" = "XuấtNhiều_%@.zip";
+/* Translated with LLM */
+"BatchExport_%@.zip" = "XuấtNhiều_%@.zip";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Before %@" = "Trước %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "Trước khi bắt đầu ghi âm cuộc gọi, một giọng nói nhắc nhở được phát ở đầu đối diện.";
 
-/* No comment provided by engineer. */
-"Beta" = "Beta";
+/* Translated with LLM */
+"begin recording" = "bắt đầu ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"begin screen recording" = "bắt đầu quay màn hình";
+
+/* Translated with LLM */
+"Beta" = "Phiên bản beta";
+
+/* Translated with LLM */
 "Bi-sync" = "Đồng bộ hai chiều";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bi-sync: Perform bidirectional synchronization between two paths." = "Đồng bộ hai chiều: Thực hiện đồng bộ hai chiều giữa hai đường dẫn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Biometric Authentication" = "Xác thực sinh trắc học";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"block incoming call" = "chặn cuộc gọi đến";
+
+/* Translated with LLM */
 "Bonjour server started at: %@" = "Máy chủ Bonjour bắt đầu lúc: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Boost Periodic Tasks" = "Tăng cường nhiệm vụ định kỳ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (Chế độ tương thích với TrollStore)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Both (Microphone & Speaker)" = "Cả hai (Micro và Loa)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "bottom edge" = "cạnh dưới";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Build and use a custom export name template for exported audio files." = "Xây dựng và sử dụng mẫu tên xuất tùy chỉnh cho các tệp âm thanh đã xuất.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Display Name" = "Tên hiển thị của gói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Identifier" = "Mã định danh gói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Name" = "Tên gói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Buy TrollRecorder Pro" = "Mua TrollRecorder Pro";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Calculating…" = "Đang tính toán…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call" = "Gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "call" = "gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call audio on" = "bật âm thanh cuộc gọi";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Giám sát đường ống âm thanh cuộc gọi thất bại. Khởi động lại daemon ngay lập tức có thể giải quyết ngoại lệ này. Tiếp tục?";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Giám sát đường truyền âm thanh cuộc gọi thất bại. Nhấn vào thông báo này để khởi động lại dịch vụ ghi âm.";
+
+/* Translated with LLM */
+"call connected" = "cuộc gọi đã kết nối";
+
+/* Translated with LLM */
 "Call Direction" = "Hướng cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call duration" = "thời lượng cuộc gọi";
+
+/* Translated with LLM */
 "Call Identifier" = "Mã định danh cuộc gọi";
 
-/* No comment provided by engineer. */
-"Call Recording" = "Ghi Âm cuộc gọi";
+/* Translated with LLM */
+"call information" = "thông tin cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Call Recording" = "Ghi âm cuộc gọi";
+
+/* Translated with LLM */
 "Call Recording Begins" = "Bắt đầu ghi âm cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call Recording Ends" = "Kết thúc ghi âm cuộc gọi";
 
-/* No comment provided by engineer. */
-"Call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi từ “%@” và %ld các ứng dụng khác";
+/* Translated with LLM */
+"Call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi từ “%@” và %ld ứng dụng khác";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording from “%@”." = "Ghi âm cuộc gọi từ “%@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Ghi âm cuộc gọi chỉ bắt đầu khi một cuộc gọi đi được trả lời hoặc một cuộc gọi đến được nhận.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call State" = "Trạng thái cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call status" = "trạng thái cuộc gọi";
+
+/* Translated with LLM */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Cuộc gọi chỉ có thể được ghi âm khi sử dụng micrô trên thiết bị này. Các cuộc gọi từ thiết bị này được trả lời trên các thiết bị khác sẽ không được ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Camcorder" = "Máy quay phim";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Cancel" = "Huỷ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Cannot parse text with UTF-8 encoding: “%@”." = "Không thể phân tích văn bản với mã hóa UTF-8: “%@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Caution" = "Cảnh báo";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "check" = "kiểm tra";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Check if the daemon is running. If not, launch it." = "Kiểm tra xem daemon có đang chạy không. Nếu không, hãy khởi động nó.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"check service" = "kiểm tra dịch vụ";
+
+/* Translated with LLM */
 "Check Updates" = "Kiểm Tra Cập Nhật";
 
-/* No comment provided by engineer. */
-"Check Updates at Launch" = "Kiểm tra Cập Nhật";
+/* Translated with LLM */
+"Check Updates at Launch" = "Kiểm tra Cập Nhật khi Khởi Động";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Checking service status" = "Kiểm tra trạng thái dịch vụ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Child Pages" = "Trang phụ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Chọn định dạng âm thanh đầu ra cho bộ hoà âm. Định dạng Wave Audio không hỗ trợ mã hóa nâng cao.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Chọn chất lượng âm thanh đầu ra cho bộ trộn. Chất lượng cao hơn có nghĩa là tốc độ lấy mẫu và tốc độ bit cao hơn, điều này sẽ dẫn đến kích thước tệp lớn hơn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the output file format for the mixer." = "Chọn định dạng tệp đầu ra cho bộ hoà âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the size preset of the hoverball." = "Chọn kích thước đặt trước của quả bóng bay mọi nơi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clean Caches Automatically" = "Tự động làm sạch bộ nhớ đệm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clear" = "Xoá";
 
-/* No comment provided by engineer. */
-"Clear Selection" = "Lựa chọn rõ ràng";
+/* Translated with LLM */
+"Clear Selection" = "Xóa lựa chọn";
 
-/* No comment provided by engineer. */
-"Clear Wave Caches" = "Xóa bộ nhớ đệm sóng rõ ràng";
+/* Translated with LLM */
+"Clear Tokens" = "Xóa Token";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Clear Wave Caches" = "Xóa bộ nhớ đệm sóng";
+
+/* Translated with LLM */
 "Close" = "Đóng";
 
-/* No comment provided by engineer. */
-"Collapse Recursively" = "Thu gon đệ quy";
+/* Translated with LLM */
+"close hoverball" = "đóng bong bóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"cloud archive sync" = "đồng bộ kho lưu trữ đám mây";
+
+/* Translated with LLM */
+"Collapse Recursively" = "Thu gọn đệ quy";
+
+/* Translated with LLM */
 "Collecting" = "Thu thập";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Combined" = "Kết hợp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Combined Mode" = "Chế độ kết hợp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Compiled at %@" = "Tổng hợp tại %@";
 
-/* TODO */
+/* Translated with LLM */
 "Compressing" = "Nén";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Configure the embedded client with your WebDAV server address, username and password." = "Định cấu hình máy khách nhúng với địa chỉ máy chủ, tên người dùng và mật khẩu WebDAV của bạn.";
 
-/* No comment provided by engineer. */
-"Configure WebDAV Client" = "Cấu hình WedDAV khách hàng";
+/* Translated with LLM */
+"Configure WebDAV Client" = "Cấu hình WebDAV Client";
 
-/* No comment provided by engineer. */
-"Confirm" = "Xác Nhận";
+/* Translated with LLM */
+"Confirm" = "Xác nhận";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Xác nhận tài khoản Havoc của bạn, đây là bằng chứng mua hàng duy nhất. Bạn chịu trách nhiệm về bất kỳ mất mát ủy quyền nào do quên tài khoản. Khi mua hàng, vui lòng nhấp vào số tiền trên trang để hoàn tất thanh toán, không nhấp vào biểu tượng quà tặng.";
 
-/* TODO */
-"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+/* Translated with LLM */
+"Connect to a Wi‑Fi network before transferring recordings." = "Hãy kết nối với mạng Wi‑Fi trước khi chuyển các bản ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "connected" = "đã kết nối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"connected call" = "cuộc gọi đã kết nối";
+
+/* Translated with LLM */
 "Connected Clients: %d" = "Khách hàng được kết nối: %d";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Connection" = "Kết Nối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Constants" = "Hằng Số";
 
-/* No comment provided by engineer. */
-"Contact Exceptions" = "Ngoại Lệ Liên Hệ";
+/* Translated with LLM */
+"Contact Exceptions" = "Ngoại lệ liên hệ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Name" = "Tên Liên Hệ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Phone Address" = "Số điện thoại liên hệ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Us" = "Liên hệ với chúng tôi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via Discord" = "Liên hệ qua Discord";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via Email" = "Liên hệ qua Email";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via QQ" = "Liên hệ qua QQ";
 
-/* TODO */
-"Contact via TikTok" = "Liên hệ qua TikTok";
+/* Translated with LLM */
+"Contact via TikTok" = "Liên hệ qua TikTok";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts" = "Liên hệ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts in this list will not be recorded in any situation." = "Các liên hệ trong danh sách này sẽ không được ghi lại trong bất kỳ tình huống nào.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts Permission Denied" = "Từ chối quyền truy cập danh bạ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Content" = "Nội Dung";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Content Sharing" = "Chia Sẻ Nội Dung";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Continue" = "Tiếp tục";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Continuous Playback Off" = "Tắt phát liên tục";
+
+/* Translated with LLM */
+"Continuous Playback On" = "Bật phát liên tục";
+
+/* Translated with LLM */
 "Conversion Failed" = "Chuyển đổi thất bại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Conversion Succeed" = "Chuyển đổi thành công";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Convert latitude and longitude to human-readable address." = "Chuyển đổi vĩ độ, kinh độ thành địa chỉ dễ đọc.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Convert Now" = "Chuyển đổi ngay bây giờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Converting" = "Đang chuyển đổi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copied" = "Đã sao chép";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy" = "Sao Chép";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Key" = "Sao chép khoá";
 
-/* TODO */
-"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+/* Translated with LLM */
+"Copy or reset the current WebDAV password." = "Sao chép hoặc đặt lại mật khẩu WebDAV hiện tại.";
 
-/* TODO */
-"Copy Password" = "Copy Password";
+/* Translated with LLM */
+"Copy Password" = "Sao chép mật khẩu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Path" = "Sao chép đường dẫn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Transcript" = "Sao chép lời thoại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Value" = "Sao chép giá trị";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not acquire token: %@" = "Không lấy được mã xác thực: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not acquire token: No result returned." = "Không lấy được mã xác thực: Không có kết quả.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not get graph result: %@" = "Không lấy được kết quả đồ thị: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not sign out account: %@" = "Không thể đăng xuất tài khoản: %@";
 
-/* No comment provided by engineer. */
-"Created At" = "Được tạo ra tại";
+/* Translated with LLM */
+"Created At" = "Ngày tạo";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Credentials" = "Thông tin xác thực";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"current call" = "cuộc gọi hiện tại";
+
+/* Translated with LLM */
+"current call duration" = "thời lượng cuộc gọi hiện tại";
+
+/* Translated with LLM */
 "Custom CLI Options" = "Tùy chọn CLI tùy chỉnh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Export Name" = "Tên xuất tuỳ chỉnh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Key Combination…" = "Tổ hợp phím tùy chỉnh…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Layout Guide" = "Hướng dẫn bố cục tùy chỉnh";
 
-/* No comment provided by engineer. */
-"Customize a rectangular region that helps you position the hoverball on the screen." = "Tùy chỉnh vùng chữ nhật để định vị bong bóng.";
+/* Translated with LLM */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Tùy chỉnh vùng chữ nhật để giúp bạn định vị bong bóng trên màn hình.";
 
 /* No comment provided by engineer. */
 "daemon" = "daemon";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"daemon running" = "daemon đang chạy";
+
+/* Translated with LLM */
+"daemon service" = "dịch vụ nền";
+
+/* Translated with LLM */
 "Daily Arranged" = "Sắp xếp theo ngày";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Date & Time" = "Ngày & Giờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Day of Month Number" = "Số ngày trong tháng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Day of Week String" = "Tên ngày trong tuần";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "deactivate" = "huỷ kích hoạt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deactivate" = "Huỷ kích hoạt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deactivate & Sign Out" = "Hủy kích hoạt & Đăng xuất";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"deactivate hoverball" = "tắt bong bóng";
+
+/* Translated with LLM */
 "Deactivate the recorder hoverball." = "Vô hiệu hóa bong bóng ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Debugging" = "Gỡ Lỗi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "decline" = "từ chối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"decline call" = "từ chối cuộc gọi";
+
+/* Translated with LLM */
 "Decoding" = "Giải mã";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Default" = "Mặc định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete" = "Xoá";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Recording" = "Xóa bản ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Selected %ld Items" = "Xóa %ld Mục Đã Chọn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Selected Item" = "Xóa mục đã chọn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deleting" = "Đang xoá";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deselect All" = "Bỏ chọn tất cả";
 
-/* No comment provided by engineer. */
-"Detail Only" = "Chi tiết";
+/* Translated with LLM */
+"Detail Only" = "Chỉ chi tiết";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Developer Options" = "Tuỳ chọn Nhà phát triển";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Digital Video" = "Video Số";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction" = "Hướng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction Capitalized" = "Hướng viết hoa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction Description" = "Mô tả hướng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "directory" = "thư mục";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Directory" = "Thư mục";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Directory not found." = "Không tìm thấy thư mục.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disabled" = "Đã Tắt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disallow" = "Không cho phép";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disallow Automatic Recording" = "Không cho phép ghi âm tự động";
 
-/* No comment provided by engineer. */
-"Disallow Hoverball Wake-Ups" = "Không cho phép bật bong bóng";
+/* Translated with LLM */
+"Disallow Hoverball Wake-Ups" = "Không cho phép đánh thức bong bóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard" = "Bỏ qua";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "discard" = "bỏ qua";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard Changes" = "Bỏ thay đổi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard Recording" = "Bỏ ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"discard recording" = "Bỏ ghi âm";
+
+/* Translated with LLM */
 "Discreet Mode" = "Chế độ kín đáo";
 
-/* No comment provided by engineer. */
-"Discreet Voice Memos" = "Ghi chú giọng nói kín đáo";
+/* Translated with LLM */
+"Discreet Voice Memos" = "Ghi chú giọng nói kín đáo";
 
-/* No comment provided by engineer. */
-"Dismiss" = "Sa thải";
+/* Translated with LLM */
+"Dismiss" = "Bỏ qua";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner and play an audible notice." = "Hiển thị biểu ngữ thông báo và phát âm báo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner and update the badge above the application icon." = "Hiển thị biểu ngữ thông báo và cập nhật biểu tượng trên ứng dụng.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when recording ends." = "Hiển thị biểu ngữ thông báo khi ghi âm kết thúc.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when recording starts." = "Hiển thị biểu ngữ thông báo khi bắt đầu ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when the synchronization fails." = "Hiển thị biểu ngữ thông báo khi đồng bộ thất bại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the detail of recordings in the notification banner." = "Hiển thị chi tiết các bản ghi âm trong biểu ngữ thông báo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the exact duration of the recorded audio." = "Hiển thị thời lượng chính xác của âm thanh được ghi lại.";
 
-/* No comment provided by engineer. */
-"Display the hoverball during a call in the current application." = "Hiển thị bong bóng mọi nơi trong một cuộc gọi trong ứng dụng hiện tại.";
+/* Translated with LLM */
+"Display the hoverball during a call in the current application." = "Hiển thị bong bóng trong một cuộc gọi trong ứng dụng hiện tại.";
 
-/* No comment provided by engineer. */
-"Display the hoverball during a call." = "Hiển thị bong bóng mọi nơi trong một cuộc gọi.";
+/* Translated with LLM */
+"Display the hoverball during a call." = "Hiển thị bong bóng trong một cuộc gọi.";
 
-/* No comment provided by engineer. */
-"Display the hoverball when both the audio inputs and outputs are continuously active." = "Hiển thị bong bóng mọi nơi khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
+/* Translated with LLM */
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Hiển thị bong bóng nổi khi cả đầu vào và đầu ra âm thanh đều liên tục hoạt động.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Hiển thị bong bóng khi ghi chú giọng nói qua ứng dụng này hoặc khi ghi âm cuộc gọi được khởi tạo thủ công.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the name or description of each option." = "Hiển thị tên hoặc mô tả của từng tùy chọn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the names of contacts in your address book instead of their phone numbers." = "Hiển thị tên của các liên hệ trong sổ địa chỉ của bạn thay vì số điện thoại của họ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the path extension as the format of the recording." = "Hiển thị phần mở rộng đường dẫn dưới dạng định dạng của bản ghi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the preview images of the audio waveform of short recordings." = "Hiển thị hình ảnh xem trước của dạng sóng âm thanh của các bản ghi âm ngắn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the short name of the SIM card used for the recording if available." = "Hiển thị tên ngắn của thẻ SIM được sử dụng để ghi âm nếu có.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the source bundle name of the recording." = "Hiển thị tên gói nguồn của bản ghi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Displays a local notification." = "Hiển thị thông báo cục bộ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Do you want to clear this log file “%@”?" = "Bạn có muốn xóa tệp nhật ký “%@” không?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Do you want to merge recordings with “%@”?" = "Bạn có muốn gộp các bản ghi với “%@” không?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Bạn có muốn đặt lại giấy phép phần mềm và khôi phục tất cả cài đặt về mặc định? Các bản ghi sẽ không bị xóa.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Done" = "Hoàn tất";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Don’t ask again" = "Không hỏi lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Don’t Merge" = "Không gộp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Double tap to restore __all edges__  \nto their default sizes." = "Chạm hai lần để khôi phục __tất cả các cạnh__ về kích thước mặc định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Downlink (Speaker)" = "Âm thanh xuống (Loa)";
 
-/* No comment provided by engineer. */
-"Drag __here__ to adjust  \nthe size of the ___%@___." = "Kéo __vào đây__ để điều chỉnh kích thước của ___%@___. ";
+/* Translated with LLM */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "Kéo __vào đây__ để điều chỉnh kích thước của ___%@___.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Drive ID" = "ID Ổ Đĩa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dropbox" = "Dropbox";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Do giới hạn môi trường, nếu bạn gặp lỗi widget trống hoặc thiếu, hãy thử khởi động lại thiết bị hoặc làm mới bộ nhớ đệm biểu tượng từ TrollStore.";
 
-/* No comment provided by engineer. */
-"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Vì lý do kỹ thuật, các cuộc gọi không qua CallKit sẽ không kích hoạt phím tắt liên quan đến trạng thái cuộc gọi.";
+/* Translated with LLM */
+"Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here." = "Do những hạn chế về mặt kỹ thuật, các tính năng liên quan đến tự động hóa phải được triển khai thông qua ứng dụng “Shortcuts”. Bạn có thể mở ứng dụng “Shortcuts”, tạo một phím tắt mới chứa hành động “TrollRecorder”, rồi chọn nó tại đây.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states." = "Vì lý do kỹ thuật, các cuộc gọi không qua CallKit sẽ không kích hoạt phím tắt liên quan đến trạng thái cuộc gọi.";
+
+/* Translated with LLM */
 "Duration" = "Thời lượng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "duration" = "thời lượng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration Before Idle" = "Thời Lượng Trước Khi Nhàn Rỗi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration Description" = "Mô tả thời lượng";
 
-/* No comment provided by engineer. */
-"Duration exceeded." = "Vượt qua thời lượng.";
+/* Translated with LLM */
+"Duration exceeded." = "Vượt quá thời lượng.";
 
-/* No comment provided by engineer. */
-"Dynamic Transition" = "Màu sắc chuyển đổi";
+/* Translated with LLM */
+"Dynamic Transition" = "Chuyển tiếp động";
 
 /* No comment provided by engineer. */
 "E.U.L.A." = "E.U.L.A.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Edit" = "Chỉnh sửa";
 
-/* TODO */
-"Edit Argument" = "Chỉnh sửa đối số";
+/* Translated with LLM */
+"Edit Argument" = "Chỉnh sửa đối số";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"elapsed recording time" = "thời gian ghi đã trôi qua";
+
+/* Translated with LLM */
 "Empty Trash" = "Xoá thùng rác";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Empty Trash (%@)" = "Xoá thùng rác (%@)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Biometric Authentication" = "Bật xác thực sinh trắc học";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Face ID" = "Bật Face ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Bật đo mức âm lượng và hiển thị chỉ báo khi bong bóng được gập lại. Tùy chọn này chỉ khả dụng khi “Chuyển đổi khi nhàn rỗi” đặt là “Luôn gấp lại”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Logging" = "Bật ghi nhật ký";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Optic ID" = "Bật Optic ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Touch ID" = "Bật Touch ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable WebDAV Server" = "Bật máy chủ WebDAV";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enabled" = "Đã kích hoạt";
 
-/* No comment provided by engineer. */
-"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Cho phép máy chủ WebDAV tự động tạm dừng khi ứng dụng chuyển sang nền và kết nối cuối cùng đóng, sau đó tự động tiếp tục khi ứng dụng trở lại.";
+/* Translated with LLM */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Cho phép máy chủ WebDAV tự động tạm dừng khi ứng dụng chuyển sang nền và kết nối cuối cùng bị đóng, sau đó tự động tiếp tục khi ứng dụng trở lại nền trước.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Encoding" = "Mã hoá";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"end calls" = "kết thúc cuộc gọi";
+
+/* Translated with LLM */
 "End Date" = "Ngày kết thúc";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "End Editing" = "Kết thúc chỉnh sửa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"end recording" = "kết thúc ghi âm";
+
+/* Translated with LLM */
+"end screen recording" = "kết thúc ghi màn hình";
+
+/* Translated with LLM */
 "Enhance Recording" = "Tăng cường ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enhanced Automatic Recording" = "Ghi Âm Tự Động Nâng Cao";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enhanced Scene Identification" = "Nhận dạng cảnh nâng cao";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ensure Daemon Is Running" = "Đảm bảo tiến trình nền đang chạy";
 
-/* TODO */
-"Enter Pairing Code" = "Enter Pairing Code";
+/* Translated with LLM */
+"Enter Pairing Code" = "Nhập mã ghép nối";
 
-/* TODO */
-"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+/* Translated with LLM */
+"Enter the 4-digit code displayed on “%@”." = "Nhập mã gồm 4 chữ số hiển thị trên “%@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enter your password" = "Nhập mật khẩu của bạn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erase All" = "Xoá tất cả";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erase all recordings, reset all settings, and clear all caches completely." = "Xóa tất cả bản ghi, đặt lại mọi cài đặt và xóa sạch bộ nhớ đệm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erase Almost Completed" = "Xoá gần hoàn tất";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erasing…" = "Đang xoá...";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error" = "Lỗi";
 
-/* No comment provided by engineer. */
-"Error from network storage" = "Lỗi từ sao lưu mạng";
+/* Translated with LLM */
+"Error from network storage" = "Lỗi từ bộ nhớ mạng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error retrieving discovery document: %@" = "Lỗi lấy tài liệu khám phá: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "exit" = "thoát";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Exit Hoverball" = "Thoát bong bóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Expand Recursively" = "Mở rộng đệ quy";
 
-/* TODO */
-"Export as is…" = "Xuất dưới dạng...";
+/* Translated with LLM */
+"Export as is…" = "Xuất dưới dạng…";
 
-/* TODO */
-"Export as ZIP" = "Xuất dưới dạng ZIP";
+/* Translated with LLM */
+"Export as ZIP" = "Xuất dưới dạng ZIP";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Export recordings to anywhere you want without limitations." = "Xuất các bản ghi âm đến bất cứ nơi nào bạn muốn mà không có giới hạn.";
 
-/* TODO */
-"Export Service Ready" = "Export Service Ready";
+/* Translated with LLM */
+"Export Service Ready" = "Dịch vụ xuất khẩu đã sẵn sàng";
 
-/* TODO */
-"Export to Another Device" = "Export to Another Device";
+/* Translated with LLM */
+"Export to Another Device" = "Xuất sang thiết bị khác";
 
-/* TODO */
+/* Translated with LLM */
 "Export to Anywhere" = "Xuất đến mọi nơi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Export with Metadata" = "Xuất với Siêu dữ liệu";
 
-/* No comment provided by engineer. */
-"Exporting" = "Đang xuất..";
+/* Translated with LLM */
+"Exporting" = "Đang xuất...";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime" = "FaceTime";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime Audio" = "Âm thanh FaceTime";
 
-/* No comment provided by engineer. */
-"FaceTime Exclusion List" = "Danh sách trắng FaceTime";
+/* Translated with LLM */
+"FaceTime Exclusion List" = "Danh sách loại trừ FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime VIP" = "FaceTime VIP";
@@ -1048,2485 +1162,2707 @@
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to export %d recordings" = "Xuất %d bản ghi thất bại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to initialize speech recognizer using current locale “%@”." = "Không thể khởi tạo bộ nhận dạng giọng nói bằng cách sử dụng ngôn ngữ hiện tại “%@”.";
 
-/* TODO */
-"Failed to open file pipe" = "Không mở được đường dẫn tệp";
+/* Translated with LLM */
+"Failed to open file pipe" = "Không mở được đường dẫn tệp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to perform “%@” operation with service provider “%@”." = "Thực hiện thao tác “%1$@” với nhà cung cấp “%2$@” thất bại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to play: %@" = "Không chạy được: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to recover: %@" = "Không thể khôi phục: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to remove: %@" = "Không thể xóa: %@";
 
-/* TODO */
+/* Translated with LLM */
 "Failed to spawn process, reason: %s (%d)" = "Không thể tạo tiến trình, lý do: %s (%2$d)";
 
-/* No comment provided by engineer. */
-"Fatal error occurred. You may need to re-authorize to continue." = "Đã xảy ra lỗi nghiêm trọng. Bạn cần xác thực lại để tiếp tục.";
+/* Translated with LLM */
+"Failed to start audio player." = "Không thể khởi động trình phát âm thanh.";
 
-/* No comment provided by engineer. */
-"Features on this page are under active development, hang tight!" = "Các tính năng trên trang này đang được phát triển, vui lòng chờ!";
+/* Translated with LLM */
+"Fatal error occurred. You may need to re-authorize to continue." = "Đã xảy ra lỗi nghiêm trọng. Bạn có thể cần xác thực lại để tiếp tục.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Features on this page are under active development, hang tight!" = "Các tính năng trên trang này đang được phát triển tích cực, hãy chờ nhé!";
+
+/* Translated with LLM */
 "Features Unlocked" = "Các tính năng đã được mở khóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "file" = "tệp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File Format" = "Định dạng tệp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File not found." = "Không tìm thấy tệp.";
 
-/* No comment provided by engineer. */
-"File Size" = "Kích thước tệp.";
+/* Translated with LLM */
+"File Size" = "Kích thước tệp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File System" = "Tệp Hệ Thống";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Filter" = "Bộ lọc";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Finalizing" = "Đang hoàn thiện";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "finish" = "kết thúc";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"finish call" = "kết thúc cuộc gọi";
+
+/* Translated with LLM */
 "Fix File-System" = "Sửa lỗi File hệ thống";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Focus" = "Tập trung";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Fold When Inactive" = "Gập khi không hoạt động";
 
-/* No comment provided by engineer. */
-"Follow System" = "Hệ Thống";
+/* Translated with LLM */
+"Follow System" = "Theo Hệ Thống";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Buộc ứng dụng sử dụng ngôn ngữ cụ thể. Mở lại để áp dụng thay đổi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Format" = "Định dạng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Formatted Location" = "Vị trí đã định dạng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Forward 15 Seconds" = "Chuyển tiếp 15 giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Frequently Asked Questions" = "Những câu hỏi thường gặp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From %@" = "Từ %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From %@ to %@" = "Từ %1$@ đến %2$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From: %@" = "Từ: %@";
 
-/* No comment provided by engineer. */
-"From…" = "Từ";
+/* Translated with LLM */
+"From…" = "Từ…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full" = "Đầy đủ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"full backup sync" = "đồng bộ sao lưu đầy đủ";
+
+/* Translated with LLM */
 "Full Date" = "Ngày đầy đủ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Month Name" = "Tên tháng đầy đủ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Time" = "Giờ đầy đủ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Year" = "Năm đầy đủ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get ${requestedField}" = "Lấy ${requestedField}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get advanced control when recording right in your call." = "Nhận điều khiển nâng cao khi ghi âm ngay trong cuộc gọi của bạn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Call Duration" = "Lấy thời lượng cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Call Status" = "Lấy trạng thái cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get In Touch" = "Liên lạc";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get notifications after record complete." = "Nhận thông báo sau khi hoàn thành bản ghi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Duration" = "Lấy thời lượng ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Paths" = "Lấy đường dẫn ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Status" = "Lấy trạng thái ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording duration of the Troll Recorder." = "Lấy thời lượng ghi âm hiện tại của Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording paths of the Troll Recorder." = "Lấy đường dẫn ghi âm hiện tại của Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording status of the Troll Recorder." = "Lấy trạng thái ghi âm hiện tại của Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the primary call duration of the device." = "Lấy thời lượng cuộc gọi chính của thiết bị.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the primary call status of the device." = "Lấy trạng thái cuộc gọi chính của thiết bị.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Go Home When Unlocked" = "Về màn hình chính khi mở khóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Google Drive" = "Google Drive";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Group Call" = "Cuộc gọi nhóm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"hang up calls" = "ngắt cuộc gọi";
+
+/* Translated with LLM */
+"hang up incoming call" = "tắt cuộc gọi đến";
+
+/* Translated with LLM */
 "Hide Hoverball" = "Ẩn bong bóng";
 
-/* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Ẩn ứng dụng “Ghi chú giọng nói” khỏi màn hình khóa và ẩn hoạt động “Dynamic Island”. Có thể cần khởi động lại để áp dụng.";
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Ẩn ứng dụng “Ghi chú giọng nói” khỏi màn hình khóa và ẩn hoạt động “Dynamic Island”. Có thể cần khởi động lại để áp dụng.";
 
-/* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Ẩn ứng dụng “Ghi chú giọng nói” khỏi màn hình khóa và ẩn hoạt động “Dynamic Island”. Bạn cần chèn vào ứng dụng qua TrollFools hoặc công nghệ tương tự.";
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Ẩn ứng dụng “Ghi chú giọng nói” khỏi màn hình khóa và ẩn hoạt động “Dynamic Island”. Bạn cần chèn nó vào ứng dụng “Ghi chú giọng nói” qua TrollFools hoặc công nghệ tương tự.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hide When Landscape" = "Ẩn khi xoay ngang";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hide When Snapshot" = "Ẩn khi chụp ảnh màn hình";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours Minutes Seconds" = "Giờ Phút Giây";
 
-/* No comment provided by engineer. */
-"Hours, 12-hour Clock" = "Giờ, Đồng hồ 12H";
+/* Translated with LLM */
+"Hours, 12-hour Clock" = "Giờ, Đồng hồ 12 giờ";
 
-/* No comment provided by engineer. */
-"Hours, 24-hour Clock" = "Giờ, Đông hồ 24H";
+/* Translated with LLM */
+"Hours, 24-hour Clock" = "Giờ, Đồng hồ 24 giờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball" = "Bong Bóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Plus" = "Bong Bóng +";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Size" = "Kích Thước Bong Bóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Style" = "Chế Độ Sáng/Tối";
 
 /* No comment provided by engineer. */
 "hud" = "hud";
 
-/* No comment provided by engineer. */
-"HUD_CALL_RECORDING" = "Bắt đầu G.Âm C.Gọi";
+/* Translated with LLM */
+"HUD_CALL_RECORDING" = "Ghi Âm cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hyphen" = "Dấu gạch nối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "I Agree to the E.U.L.A." = "Tôi đồng ý với E.U.L.A.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "icloud" = "iCloud";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"icloud backup" = "sao lưu iCloud";
+
+/* Translated with LLM */
 "iCloud Drive" = "iCloud Drive";
 
-/* TODO */
+/* Translated with LLM */
 "ICP Filling Number: 苏ICP备15002715号-2A" = "Số Hồ Sơ ICP: 苏ICP备15002715号-2A";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Idle" = "Nhàn rỗi";
 
-/* TODO */
+/* Translated with LLM */
 "If the value contains spaces, please enclose it in quotes." = "Nếu giá trị chứa khoảng trắng, vui lòng đặt trong dấu ngoặc kép.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If there is something wrong with the search indexes, you can reset them here." = "Nếu có vấn đề gì với chỉ mục tìm kiếm, bạn có thể thiết lập lại chúng tại đây.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If there’s no active phone call, press and hold the power button to perform specified action." = "Nếu không có cuộc gọi nào đang diễn ra, hãy nhấn và giữ nút nguồn để thực hiện hành động đã chỉ định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "Nếu không có cuộc gọi nào đang diễn ra, hãy nhấn cả hai nút âm lượng vật lý để thực hiện hành động đã chỉ định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "Nếu bạn đã sửa đổi bản ghi bằng Filza hoặc gặp phải bất kỳ sự cố nào về đặc quyền hệ thống tệp, bạn có thể khắc phục chúng tại đây.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Nếu điện thoại của bạn hỗ trợ thẻ SIM kép, bí danh thẻ SIM được sử dụng cho cuộc gọi được ghi lại sẽ được hiển thị ở đây.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Nếu bạn đã bật “Sao lưu bằng iCloud” và bản sao lưu được đồng bộ hóa thành công, hành động này sẽ được kích hoạt.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Bỏ qua ngày sửa đổi cuối cùng trên tất cả các thư mục và tệp và tạo bản sao sâu của tất cả các bản ghi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Import as Ringtone" = "Nhập dưới dạng nhạc chuông";
 
-/* TODO */
-"Import Complete" = "Import Complete";
+/* Translated with LLM */
+"Import Complete" = "Nhập hoàn tất";
 
-/* TODO */
-"Import Failed" = "Import Failed";
+/* Translated with LLM */
+"Import Failed" = "Nhập thất bại";
 
-/* TODO */
-"Import From Another Device" = "Import From Another Device";
+/* Translated with LLM */
+"Import From Another Device" = "Nhập từ thiết bị khác";
 
-/* TODO */
-"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+/* Translated with LLM */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Nhập các bản ghi âm từ Troll Recorder trên một thiết bị khác trong mạng nội bộ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "In 1 Hour" = "Trong 1 Giờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "In 15 Minutes" = "Trong 15 Phút";
 
-/* No comment provided by engineer. */
-"Inaccurate Time Detected" = "Thời gian không chính xác được phát hiện";
+/* Translated with LLM */
+"Inaccurate Time Detected" = "Phát hiện thời gian không chính xác";
 
-/* No comment provided by engineer. */
-"Incoming" = "Đến";
+/* Translated with LLM */
+"Incoming" = "Cuộc gọi đến";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "incoming" = "đang đến";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming Call" = "Cuộc gọi đến";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"incoming call" = "cuộc gọi đến";
+
+/* Translated with LLM */
 "Incoming Call Answered" = "Cuộc gọi đến đã trả lời";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming Call Hang Up" = "Cuộc gọi đến cúp máy";
 
-/* No comment provided by engineer. */
-"Incoming call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đến từ “%@” và các ứng dụng %ld khác.";
+/* Translated with LLM */
+"Incoming call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đến từ “%@” và %ld ứng dụng khác.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming call recording from “%@”." = "Ghi âm cuộc gọi đến từ “%@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Inconsistency Found" = "Tìm thấy sự không nhất quán";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Install" = "Cài đặt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Install Call History Tweak" = "Cài đặt Tweak Lịch Sử Cuộc Gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Invalid Code Signature" = "Mã chữ ký không hợp lệ";
 
-/* No comment provided by engineer. */
-"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Chữ ký mã không hợp lệ.\Vui lòng cài đặt ứng dụng này từ TrollStore.";
+/* Translated with LLM */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Chữ ký mã không hợp lệ.\nVui lòng cài đặt lại ứng dụng này từ TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPad" = "iPad";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPhone" = "iPhone";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Favourite" = "Được yêu thích";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Finalized" = "Đã hoàn thành";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Finalizing" = "Đang hoàn thiện";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Microphone Enabled" = "Micrô có được bật không";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Paused" = "Đã tạm dừng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"is recording" = "đang ghi âm";
+
+/* Translated with LLM */
 "Is Running" = "Đang chạy";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Item #%lu" = "Mục #%lu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Just in case that you love it." = "Trong trường hợp bạn thích nó.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Just now" = "Vừa rồi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Keep Screen On When Connected" = "Giữ Màn Hình Bật Khi Kết Nối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Keyboard Avoidance" = "Tránh bàn phím";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Kill all applications and restart the render server (backboardd)." = "Tắt tất cả các ứng dụng và khởi động lại máy chủ kết xuất (backboardd).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Language Changed" = "Ngôn ngữ đã thay đổi";
 
-/* No comment provided by engineer. */
-"Larger" = "Lớn";
+/* Translated with LLM */
+"Larger" = "Lớn hơn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Last successful synchronization: %@" = "Đồng bộ hóa thành công cuối cùng: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Later" = "Sau";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "launch" = "Khởi chạy";
 
-/* TODO */
-"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+/* Translated with LLM */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Khởi chạy một máy chủ WebDAV tạm thời và phát sóng nó trong mạng nội bộ để cho phép TrollRecorder trên một thiết bị khác phát hiện được nó.";
 
-/* No comment provided by engineer. */
-"Launch App at End" = "Khởi chạy ứng dụng ở cuối";
+/* Translated with LLM */
+"Launch App at End" = "Khởi chạy ứng dụng khi kết thúc";
 
-/* No comment provided by engineer. */
-"Launch Shield" = "Kích hoạt nhanh TrollRecorder";
+/* Translated with LLM */
+"Launch Shield" = "Kích hoạt nhanh TrollRecorder";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Leading & Trailing" = "Dẫn đầu & Theo sau";
 
-/* No comment provided by engineer. */
-"leading edge" = "cạnh hàng đầu";
+/* Translated with LLM */
+"leading edge" = "cạnh dẫn đầu";
 
-/* No comment provided by engineer. */
-"Legacy Jailbreak" = "Legacy Jailbreak";
+/* Translated with LLM */
+"Legacy Jailbreak" = "Jailbreak phiên bản cũ";
 
-/* No comment provided by engineer. */
-"Less serious error occurred." = "Đã ít xảy ra lỗi nghiêm trọng hơn.";
+/* Translated with LLM */
+"Less serious error occurred." = "Đã xảy ra lỗi ít nghiêm trọng hơn.";
 
-/* No comment provided by engineer. */
-"Lifetime Guarantee" = "Có sẵn vĩnh viễn";
+/* Translated with LLM */
+"Lifetime Guarantee" = "Bảo hành trọn đời";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
 
-/* TODO */
-"List" = "List";
+/* Translated with LLM */
+"List" = "Danh sách";
 
-/* No comment provided by engineer. */
-"List and Detail" = "D.Sách & C.Tiết";
+/* Translated with LLM */
+"List and Detail" = "Danh sách và Chi tiết";
 
-/* TODO */
-"List view enabled" = "List view enabled";
+/* Translated with LLM */
+"List view enabled" = "Đã bật chế độ xem danh sách";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Loading…" = "Đang tải…";
 
-/* No comment provided by engineer. */
-"Local Storage" = "Sao Lưu Nội Bộ";
+/* Translated with LLM */
+"local notification" = "thông báo cục bộ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Local Storage" = "Bộ nhớ trong";
+
+/* Translated with LLM */
 "Localized name of the provider application. That is, where this recording comes from." = "Tên bản địa hóa của ứng dụng nhà cung cấp. Đó là, bản ghi âm này đến từ đâu.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Locate in Maps" = "Xác định vị trí trong Bản đồ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location" = "Vị trí";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location Permission Denied" = "Quyền vị trí bị từ chối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location Services" = "Dịch vụ định vị";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Locked" = "Đã khoá";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Log Viewer" = "Trình xem nhật ký";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Logging" = "Ghi nhật ký";
 
-/* TODO */
-"Login Name: %@" = "Login Name: %@";
+/* Translated with LLM */
+"Login Name: %@" = "Tên đăng nhập: %@";
 
-/* TODO */
-"Login Password: " = "Login Password: ";
+/* Translated with LLM */
+"Login Password: " = "Mật khẩu đăng nhập: ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Login Tips" = "Mẹo đăng nhập";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long Date" = "Ngày dài";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long press the hoverball to start or stop recording by convenience." = "Nhấn và giữ bong bóng để bắt đầu hoặc dừng ghi âm một cách thuận tiện.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long Time" = "Thời gian dài";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Low Disk Space" = "Dung lượng không đủ";
 
-/* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "Được tạo bởi ♥ OwnGoal Studio";
+/* Translated with LLM */
+"Made with ♥ by OwnGoal Studio" = "Được tạo bởi ♥ OwnGoal Studio";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mail composition failed" = "Soạn thư không thành công";
 
-/* No comment provided by engineer. */
-"Maintenance" = "BẢO TRÌ";
+/* Translated with LLM */
+"Maintenance" = "Bảo trì";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make a ${requestedMode} recording" = "Thực hiện ghi âm ${requestedMode}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make a new recording, or stop an existing one." = "Tạo bản ghi âm mới hoặc dừng bản ghi âm hiện tại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make a new voice memo, or stop an existing one." = "Tạo một bản ghi nhớ giọng nói mới hoặc dừng bản ghi nhớ giọng nói hiện tại.";
 
-/* No comment provided by engineer. */
-"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Tạo các bản sao nông của bản ghi âm trong miền sao lưu và cho phép iCloud Backup đưa chúng vào.";
+/* Translated with LLM */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Tạo các bản sao nông của bản ghi âm trong miền sao lưu và cho phép iCloud Backup đưa chúng vào.";
 
-/* No comment provided by engineer. */
-"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Thực hiện ghi âm cuộc gọi liên quan được hiển thị trên trang lịch sử cuộc gọi, chuyển đến TrollRecorder để phát lại.";
+/* Translated with LLM */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Thực hiện hiển thị các bản ghi âm cuộc gọi liên quan trên trang lịch sử cuộc gọi, chuyển đến TrollRecorder để phát lại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the device ring or vibrate when recording ends." = "Làm cho thiết bị đổ chuông hoặc rung khi quá trình ghi âm kết thúc.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the device ring or vibrate when recording starts." = "Làm cho thiết bị đổ chuông hoặc rung khi bắt đầu ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "Làm cho bong bóng mọi nơi trở nên vô hình khi chụp ảnh màn hình hoặc ghi lại màn hình.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball invisible when the device is in landscape orientation." = "Làm cho bong bóng trở nên vô hình khi thiết bị ở chế độ ngang.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Làm cho bong bóng trong suốt hoặc gấp lại khi để nó trong một thời gian.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Making a phone call to begin recording." = "Gọi điện thoại để bắt đầu ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mark" = "Đánh dấu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Maximum" = "Tối đa";
 
-/* TODO */
-"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
+/* Translated with LLM */
+"Maybe you should look elsewhere — anywhere but here." = "Có lẽ bạn nên tìm ở nơi khác — bất cứ nơi nào, miễn là không phải ở đây.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium" = "Trung bình";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium Date" = "Ngày trung bình";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium Time" = "Thời gian trung bình";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Merge" = "Hợp nhất";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Merged File" = "Tệp đã hợp nhất";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Message" = "Tin nhắn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Metadata" = "Siêu dữ liệu";
 
-/* No comment provided by engineer. */
-"Microphone" = "Microphone";
+/* Translated with LLM */
+"Microphone" = "Micrô";
 
-/* No comment provided by engineer. */
-"microphone" = "microphone";
+/* Translated with LLM */
+"microphone" = "Micrô";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Microphone and speaker are recorded in different channels." = "Micrô và loa được ghi lại ở các kênh khác nhau.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"microphone audio" = "âm thanh micro";
+
+/* Translated with LLM */
+"microphone off" = "tắt micrô";
+
+/* Translated with LLM */
+"microphone on" = "bật micrô";
+
+/* Translated with LLM */
+"microphone speech" = "giọng nói micro";
+
+/* Translated with LLM */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Minutes" = "Phút";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Thiếu quyền cần thiết để truy cập Google Drive. Vui lòng cấp lại quyền với Google và cấp tất cả quyền “Google Drive” cho “TrollRecorder”.";
 
-/* No comment provided by engineer. */
-"Mixed" = "Được phối lại";
+/* Translated with LLM */
+"Mixed" = "Hỗn hợp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer & Combiner" = "Phối & Kết hợp";
 
-/* No comment provided by engineer. */
-"Mixer Audio Format" = "Phối định dạng âm thanh";
+/* Translated with LLM */
+"Mixer Audio Format" = "Định dạng âm thanh bộ hoà âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer File Format" = "Định dạng tập tin bản phối lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer Quality" = "Chất lượng Phối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Month Number" = "Số tháng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Monthly Arranged" = "Sắp xếp hàng tháng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "More icons, more innovation." = "Nhiều biểu tượng hơn, nhiều sáng tạo hơn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "More Options" = "Thêm tùy chọn";
 
-/* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Di chuyển các bản ghi âm đã xóa vào một thư mục đặc biệt cho phép bạn khôi phục các mục đã xóa nếu bạn đổi ý hoặc nhận ra rằng bạn cần chúng sau này.";
+/* Translated with LLM */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Di chuyển các bản ghi âm đã xóa vào một thư mục đặc biệt cho phép bạn khôi phục chúng nếu bạn đổi ý hoặc nhận ra rằng bạn cần chúng sau này.";
 
-/* No comment provided by engineer. */
-"MPEG-4 Audio" = "MPEG-4 Audio";
+/* Translated with LLM */
+"MPEG-4 Audio" = "Âm thanh MPEG-4";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "mute" = "tắt tiếng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mute ${requestedChannel}" = "Tắt tiếng ${requestedChannel}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"mute call" = "tắt tiếng cuộc gọi";
+
+/* Translated with LLM */
+"mute call audio" = "tắt âm thanh cuộc gọi";
+
+/* Translated with LLM */
 "Mute Existing Calls" = "Tắt tiếng cuộc gọi hiện tại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mute specified channel of all existing calls." = "Tắt tiếng kênh đã chỉ định của tất cả các cuộc gọi hiện có.";
 
-/* No comment provided by engineer. */
-"My Favourite" = "Yêu thích của Tôi";
+/* Translated with LLM */
+"My Favourite" = "Yêu thích của tôi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "My Favourites" = "Mục yêu thích của tôi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Name" = "Tên";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Name with Alias" = "Tên có Biệt danh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Network Storage" = "Sao Lưu Đám Mây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Never" = "Không bao giờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Never Show This Again" = "Không bao giờ hiển thị điều này nữa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New" = "Mới";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New Matching Pattern" = "Mô hình kết hợp mới";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"new recording" = "bản ghi âm mới";
+
+/* Translated with LLM */
 "New Version Available" = "Phiên bản mới có sẵn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New Version Installed" = "Đã cài đặt phiên bản mới";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "NO" = "KHÔNG";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Available Version" = "Không có phiên bản nào khả dụng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No phone number found in selected contacts." = "Không tìm thấy số điện thoại trong các liên hệ đã chọn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No phone number or email address found in selected contacts." = "Không tìm thấy số điện thoại hoặc địa chỉ email trong các liên hệ được chọn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Recording" = "Không ghi âm";
 
-/* TODO */
-"No Recordings to Export" = "No Recordings to Export";
+/* Translated with LLM */
+"No Recordings to Export" = "Không có bản ghi nào để xuất";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No speech detected." = "Không phát hiện lời nói nào.";
 
-/* No comment provided by engineer. */
-"No Transition" = "Không có sự chuyển đổi";
+/* Translated with LLM */
+"No Transition" = "Không chuyển đổi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "None" = "Không";
 
-/* No comment provided by engineer. */
-"Not Implemented" = "Không được thực hiện";
+/* Translated with LLM */
+"Not Implemented" = "Chưa được triển khai";
 
-/* No comment provided by engineer. */
-"Not My Favourite" = "Không phải là sở thích của tôi";
+/* Translated with LLM */
+"Not My Favourite" = "Không phải yêu thích của tôi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not Now" = "Không phải bây giờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not Properly Configured" = "Không cấu hình đúng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Nothing Imported" = "Không có gì được nhập vào";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Nothing Inside" = "Không có gì bên trong";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "notification" = "thông báo";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notification Permission Denied" = "Quyền thông báo bị từ chối";
 
-/* No comment provided by engineer. */
-"Notifications" = "Thông Báo";
+/* Translated with LLM */
+"Notifications" = "Thông báo";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "notify" = "thông báo";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notify at Begin" = "Thông báo khi bắt đầu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notify at End" = "Thông báo khi kết thúc";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Object Viewer" = "Trình xem đối tượng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Off" = "Tắt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "OK" = "Được rồi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "On" = "Bật";
 
-/* TODO */
-"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+/* Translated with LLM */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "Trên thiết bị khác, chọn “Nhập từ thiết bị khác”, sau đó chọn “%@”. Không rời khỏi trang này trong quá trình truyền.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "OneDrive" = "OneDrive";
 
-/* TODO */
+/* Translated with LLM */
 "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Chỉ những cuộc gọi từ các liên hệ không có trong sổ Danh bạ hoặc danh sách “VIP” mới được tự động ghi âm. Các liên hệ VIP cũng sẽ được thêm vào danh sách yêu thích.";
 
-/* TODO */
+/* Translated with LLM */
 "Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Chỉ những cuộc gọi từ danh bạ VIP mới được tự động ghi âm và thêm vào mục yêu thích.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Oops!" = "Rất tiếc!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open" = "Mở";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "open" = "mở";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Application" = "Mở ứng dụng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Hoverball" = "Mở bong bóng";
 
-/* No comment provided by engineer. */
-"Open in Filza" = "Mở Trong Filza";
+/* Translated with LLM */
+"open hoverball" = "mở bong bóng";
 
-/* No comment provided by engineer. */
-"Open in Maps" = "Mở Trong Bản đồ";
+/* Translated with LLM */
+"Open in Filza" = "Mở trong Filza";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Open in Maps" = "Mở trong Bản đồ";
+
+/* Translated with LLM */
 "Open Troll Recorder" = "Mở Troll Recorder";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation Failed" = "Thao tác thất bại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation Succeed" = "Thao tác thành công";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation succeed, but no files transferred." = "Thao tác thành công nhưng không có tập tin nào được chuyển.";
 
-/* No comment provided by engineer. */
-"Operator Name" = "Tên người điều khiển";
+/* Translated with LLM */
+"Operator Name" = "Tên nhà mạng";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Options" = "Tùy chọn";
 
-/* TODO */
-"Orbit" = "Orbit";
+/* Translated with LLM */
+"Orbit" = "Quỹ đạo";
 
-/* TODO */
-"Orbit view enabled" = "Orbit view enabled";
+/* Translated with LLM */
+"Orbit view enabled" = "Đã bật chế độ xem quỹ đạo";
 
-/* No comment provided by engineer. */
-"Outgoing" = "Đi ra";
+/* Translated with LLM */
+"Outgoing" = "Cuộc gọi đi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call" = "Cuộc gọi đi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call Answered" = "Cuộc gọi đi đã trả lời";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call Hang Up" = "Cuộc gọi đi đã cúp máy";
 
-/* No comment provided by engineer. */
-"Outgoing call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đi từ “%@” và các ứng dụng %ld khác.";
+/* Translated with LLM */
+"Outgoing call recording from “%@” and other %ld applications." = "Ghi âm cuộc gọi đi từ “%@” và %ld ứng dụng khác.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing call recording from “%@”." = "Ghi âm cuộc gọi đi từ “%@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Page not found" = "Không tìm thấy trang";
 
-/* TODO */
-"Pairing code" = "Pairing code";
+/* Translated with LLM */
+"Pairing code" = "Mã ghép đôi";
 
-/* TODO */
-"Passcode: %@" = "Passcode: %@";
+/* Translated with LLM */
+"Passcode: %@" = "Mật mã: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Password (Optional)" = "Mật khẩu (Tùy chọn)";
 
-/* TODO */
-"Password Copied" = "Password Copied";
+/* Translated with LLM */
+"Password Copied" = "Đã sao chép mật khẩu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "path" = "đường dẫn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pause" = "Tạm dừng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pause Recording" = "Tạm dừng ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Paused" = "Tạm dừng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Thực hiện đồng bộ hóa đầy đủ “Sao lưu bằng iCloud” và “Lưu trữ đám mây thông minh”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Perform Full Synchronization" = "Thực hiện đồng bộ hóa đầy đủ";
 
-/* No comment provided by engineer. */
-"Period" = "Giai đoạn";
+/* Translated with LLM */
+"perform synchronization" = "thực hiện đồng bộ hóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Period" = "Dấu chấm";
+
+/* Translated with LLM */
 "Phone" = "Điện thoại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "phone" = "điện thoại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Address" = "Địa chỉ điện thoại";
 
-/* No comment provided by engineer. */
-"Phone Call Exclusion List" = "Danh sách trắng Cuộc gọi";
+/* Translated with LLM */
+"phone answer" = "trả lời điện thoại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Phone Call Exclusion List" = "Danh sách loại trừ cuộc gọi";
+
+/* Translated with LLM */
 "phone call recording" = "ghi âm cuộc gọi điện thoại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone call timer" = "đồng hồ đếm giờ cuộc gọi";
+
+/* Translated with LLM */
 "Phone Call VIP" = "Cuộc Gọi VIP";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Number" = "Số điện thoại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Number or Email Address" = "Số điện thoại hoặc địa chỉ email";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone status" = "trạng thái điện thoại";
+
+/* Translated with LLM */
 "Physical Key Combination" = "Tổ hợp phím vật lý";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"pick up call" = "nhấc máy";
+
+/* Translated with LLM */
 "Placemark Name" = "Tên điểm đánh dấu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play" = "Phát";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "play" = "phát";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play ${audioFile}" = "Phát ${audioFile}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play audio file" = "phát tệp âm thanh";
+
+/* Translated with LLM */
 "Play Recording Warning" = "Phát Cảnh Báo Ghi Âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play Sound" = "Phát Âm Thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play specified audio file to the microphone." = "Phát tệp âm thanh đã chỉ định vào micrô.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play specified voice-over text to the microphone." = "Phát văn bản lồng ghép đã chỉ định vào micrô.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Play Through Receiver" = "Phát qua loa thoại";
+
+/* Translated with LLM */
+"Play Through Speaker" = "Phát qua loa";
+
+/* Translated with LLM */
 "Play Uplink Audio" = "Phát âm thanh Uplink";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play uplink audio" = "phát âm thanh uplink";
+
+/* Translated with LLM */
 "Play Uplink Voice-Over" = "Phát văn bản lồng ghép Uplink";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play voice over" = "phát giọng lồng tiếng";
+
+/* Translated with LLM */
 "Play/Pause" = "Phát/Tạm dừng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Playback Rate" = "Tốc độ phát lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Playback Rate: %@x" = "Tốc độ phát lại: %@x";
 
-/* No comment provided by engineer. */
-"Playback Speed" = "Tốc độ phát";
+/* Translated with LLM */
+"Playback Route" = "Lộ trình phát lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Player Options" = "Tùy chọn của người chơi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please check your mail configuration." = "Vui lòng kiểm tra cấu hình email của bạn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please enter a valid port number between 1 and 65535." = "Vui lòng nhập một số cổng hợp lệ từ 1 đến 65535.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please enter the server URL." = "Vui lòng nhập URL máy chủ.";
 
-/* TODO */
-"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+/* Translated with LLM */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Vui lòng giữ cả hai thiết bị ở trạng thái mở khóa trong khi chúng tôi nhận bản ghi từ %@. Không rời khỏi trang này trong quá trình truyền.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "Vui lòng lưu ý rằng TrollRecorder chỉ được bán và đổi qua Havoc Marketplace. Chúng tôi không bán qua bất kỳ kênh nào khác. Bạn sắp mở trang cửa hàng: Nếu đây là lần đầu tiên bạn sử dụng Havoc Marketplace, chúng tôi khuyên bạn nên đăng nhập bằng tài khoản Google của mình. Nếu bạn là người dùng ở Trung Quốc đại lục, việc đăng nhập vào Google yêu cầu một mạng đặc biệt.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please reinstall this application from TrollStore." = "Vui lòng cài đặt lại ứng dụng này từ TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please remember to uninstall “%@” from Sileo." = "Hãy nhớ gỡ cài đặt “%@” khỏi Sileo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please remember to uninstall “%@” from TrollStore." = "Hãy nhớ gỡ cài đặt “%@” khỏi TrollStore.";
 
-/* TODO */
-"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+/* Translated with LLM */
+"Please stay on this screen while we get everything ready." = "Vui lòng ở lại màn hình này trong khi chúng tôi chuẩn bị mọi thứ.";
 
-/* TODO */
-"Please try again in a moment." = "Please try again in a moment.";
+/* Translated with LLM */
+"Please try again in a moment." = "Vui lòng thử lại sau một lát.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popover Control" = "Kiểm soát cửa sổ bật lên";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Populate Location When App Starts" = "Điền vị trí khi ứng dụng bắt đầu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner at Begin" = "Biểu ngữ bật lên ở đầu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner at End" = "Biểu ngữ bật lên ở cuối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner when Fail" = "Biểu ngữ bật lên khi thất bại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Badge" = "Biểu ngữ bật lên với biểu tượng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Detail" = "Biểu ngữ bật lên với chi tiết";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Sound" = "Biểu ngữ bật lên với âm thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Port (Optional)" = "Cổng (Tùy chọn)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"post notification" = "đăng thông báo";
+
+/* Translated with LLM */
 "Preparing" = "Đang chuẩn bị";
 
-/* TODO */
-"Preparing Export Service" = "Preparing Export Service";
+/* Translated with LLM */
+"Preparing Export Service" = "Đang chuẩn bị dịch vụ xuất khẩu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Preserve All Channels" = "Lưu trữ tất cả các kênh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press & Hold Action" = "Hành Động Nhấn & Giữ";
 
-/* No comment provided by engineer. */
-"Press & Hold Hoverball" = "Nhấn & Giữ Bong Bóng";
+/* Translated with LLM */
+"Press & Hold Hoverball" = "Nhấn & Giữ Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press & Hold Power Button" = "Nhấn & Giữ Nút Nguồn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press and hold the power button to start or stop recording during a call." = "Nhấn và giữ nút nguồn để bắt đầu hoặc dừng ghi âm trong cuộc gọi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press both of the physical volume buttons to start or stop recording during a call." = "Nhấn cả hai nút âm lượng vật lý để bắt đầu hoặc dừng ghi âm trong cuộc gọi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press Both Volume Buttons" = "Nhấn Cả Hai Nút Âm Lượng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Preview Disabled" = "Xem trước bị vô hiệu hóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Privacy Policy" = "Chính sách bảo mật";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Privacy Policy & User Agreements" = "Chính sách bảo mật & Thỏa thuận người dùng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Private Browsing Detected" = "Phát hiện chế độ duyệt web riêng tư";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Proceed Anyway" = "Vẫn tiếp tục";
 
-/* TODO */
-"Process execution timeout" = "Hết thời gian chờ cho quá trình hiện tại";
+/* Translated with LLM */
+"Process execution timeout" = "Hết thời gian chờ thực thi tiến trình";
 
-/* TODO */
-"Process exited with status %d." = "Process exited with status %d.";
+/* Translated with LLM */
+"Process exited with status %d." = "Quá trình đã thoát với trạng thái %d.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Process terminated by signal %d." = "Quá trình bị chấm dứt bởi tín hiệu %d.";
 
-/* TODO */
-"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
+/* Translated with LLM */
+"Process terminated for unknown reasons." = "Quá trình đã bị chấm dứt vì lý do không rõ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Process terminated with exit code %d.\n%@" = "Quá trình bị chấm dứt với mã thoát %1$d.\n%2$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Processing" = "Xử Lý";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pulse-code modulation" = "Điều chế xung mã (PCM)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Purchase" = "Mua";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Purchase Tips" = "Mẹo mua hàng";
 
-/* No comment provided by engineer. */
-"Pure TrollStore" = "Pure TrollStore";
+/* Translated with LLM */
+"Pure TrollStore" = "TrollStore Thuần túy";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Query the latest version from GitHub." = "Truy vấn phiên bản mới nhất từ GitHub.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Querying" = "Đang truy vấn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quick Recording" = "Ghi Âm Nhanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quit and relaunch to continue using the Pro features." = "Thoát và khởi động lại để tiếp tục sử dụng các tính năng Pro.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quit this application and try again." = "Thoát ứng dụng này và thử lại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rclone Documentation" = "Tài liệu Rclone";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Dropbox" = "Xác thực lại với Dropbox";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Google" = "Xác thực lại với Google";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Microsoft" = "Xác thực lại với Microsoft";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-enable Suggested Options" = "Kích hoạt lại các tùy chọn gợi ý";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reaching Daemon" = "Tiếp cận Daemon";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "README_APP_DOCUMENTS" = "Thư mục này chứa bản sao lưu các bản ghi TrollRecorder.\r\nBạn có thể khôi phục chúng bằng cách sao chép chúng trở lại vị trí ban đầu: /var/mobile/Media/DCIM/TrollRecorder/Recordings";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "README_SERVICE_ARCHIVED_RECORDINGS" = "Thư mục này chứa các kho lưu trữ liên kết cứng tới các bản ghi TrollRecorder.\r\nChúng không được bao gồm trong bản sao lưu iCloud và cũng không bị giới hạn dung lượng lưu trữ sử dụng.\r\nKhông xóa chúng trừ khi bạn chắc chắn rằng mình không còn cần đến chúng nữa.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "README_SERVICE_RECORDINGS" = "Thư mục này chứa các bản ghi TrollRecorder.\r\nBạn có thể sao lưu chúng bằng cách sao chép chúng vào một vị trí an toàn.";
 
-/* No comment provided by engineer. */
-"Ready" = "Sẵn Sàng";
+/* Translated with LLM */
+"Ready" = "Sẵn sàng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ready to record!" = "Sẵn sàng để ghi âm!";
 
-/* No comment provided by engineer. */
-"Received authorization error: %@" = " Đã nhận được lỗi ủy quyền: %@";
+/* Translated with LLM */
+"Received authorization error: %@" = "Đã nhận được lỗi ủy quyền: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Received transient error: %@" = "Đã nhận được lỗi tạm thời: %@";
 
-/* TODO */
-"Receiving Recordings" = "Receiving Recordings";
+/* Translated with LLM */
+"Receiving Recordings" = "Đang nhận bản ghi âm";
 
-/* No comment provided by engineer. */
-"Recents Only" = "Chỉ Hiện Tại";
+/* Translated with LLM */
+"Recents Only" = "Chỉ Bản Ghi Gần Đây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recommended for Apple devices" = "Dành cho thiết bị Apple";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record" = "Ghi âm";
 
-/* TODO */
+/* Translated with LLM */
 "Record All Calls" = "Ghi Âm Tất Cả Cuộc Gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record all incoming and outgoing calls automatically." = "Tự động ghi lại tất cả các cuộc gọi đến và đi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Automatically" = "Ghi lại tự động";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Calls on Other Devices" = "Ghi âm cuộc gọi trên thiết bị khác";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Only When Connected" = "Chỉ Ghi Âm Khi Được Kết Nối";
 
-/* TODO */
+/* Translated with LLM */
+"record screen" = "quay màn hình";
+
+/* Translated with LLM */
 "Record Unknown Calls" = "Ghi Âm Cuộc Gọi Không Xác Định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record with Location" = "Ghi lại với vị trí";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recorder hoverball" = "bong bóng máy ghi âm";
+
+/* Translated with LLM */
 "recording" = "ghi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording" = "Đang ghi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording (Localized)" = "Ghi âm (Địa phương hóa)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording directory" = "thư mục ghi âm";
+
+/* Translated with LLM */
+"recording duration" = "thời lượng ghi âm";
+
+/* Translated with LLM */
+"recording file" = "tệp ghi âm";
+
+/* Translated with LLM */
 "Recording Interrupted" = "Ghi âm bị gián đoạn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording off" = "tắt ghi âm";
+
+/* Translated with LLM */
+"recording on" = "bật ghi âm";
+
+/* Translated with LLM */
 "Recording Options" = "Tùy chọn ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording path" = "đường dẫn ghi âm";
+
+/* Translated with LLM */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Ghi âm bắt đầu khi cả đầu vào và đầu ra âm thanh liên tục hoạt động.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording state" = "trạng thái ghi âm";
+
+/* Translated with LLM */
+"recording status" = "trạng thái ghi âm";
+
+/* Translated with LLM */
 "Recording successfully started." = "Ghi âm đã bắt đầu thành công.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording switch" = "công tắc ghi âm";
+
+/* Translated with LLM */
+"recording timer" = "đồng hồ bấm giờ ghi âm";
+
+/* Translated with LLM */
 "Recording Type" = "Loại ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording Type Description" = "Mô tả loại ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording will begin when the call is answered." = "Ghi âm sẽ bắt đầu khi cuộc gọi được trả lời.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording “%@” is in progress." = "Ghi âm “%@” đang diễn ra.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "RECORDING_LOCALIZED" = "Ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recordings" = "Bản ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recordings here are permanently removed after 30 days." = "Bản ghi âm ở đây sẽ bị xóa vĩnh viễn sau 30 ngày.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recycle Bin" = "Thùng rác";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Regenerate All" = "Tái tạo tất cả";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "reject" = "từ chối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reject all incoming calls automatically." = "Từ chối tất cả các cuộc gọi đến tự động.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"reject call" = "từ chối cuộc gọi";
+
+/* Translated with LLM */
 "Reject Incoming Calls" = "Từ chối cuộc gọi đến";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Relaunched" = "Đã khởi động lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Release" = "Phát hành";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Release Notes" = "Ghi chú phát hành";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove" = "Xóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Xóa tất cả các dạng sóng đã lưu và cho phép chúng được xây dựng lại từ các bản ghi gốc.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove All Recordings Permanently" = "Xóa tất cả bản ghi vĩnh viễn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Remove Other Variants" = "Loại bỏ các biến thể khác";
+
+/* Translated with LLM */
 "Remove Outdated Recordings" = "Xóa bản ghi âm cũ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Remove Token" = "Xóa Token";
+
+/* Translated with LLM */
+"Remove Tokens" = "Xóa Token";
+
+/* Translated with LLM */
 "Rename" = "Đổi tên";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Repeat Infinitely" = "Lặp lại vô hạn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset" = "Đặt lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset All Shortcuts" = "Đặt lại tất cả phím tắt";
 
-/* TODO */
-"Reset Password" = "Reset Password";
+/* Translated with LLM */
+"Reset Password" = "Đặt lại mật khẩu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset Search Indexes" = "Đặt lại chỉ mục tìm kiếm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset Service" = "Đặt lại dịch vụ";
 
-/* No comment provided by engineer. */
-"Respring" = "Respring";
+/* Translated with LLM */
+"Respring" = "Khởi động lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restart Render Server" = "Khởi động lại máy chủ kết xuất";
 
-/* No comment provided by engineer. */
-"Restart SpringBoard and “Launch Shield” widgets." = "Làm mới SpringBoard và “Launch Shield” widgets.";
+/* Translated with LLM */
+"Restart SpringBoard and “Launch Shield” widgets." = "Khởi động lại SpringBoard và widget “Launch Shield”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore" = "Khôi phục";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore %d Items From Recycle Bin" = "Khôi phục %d mục từ thùng rác";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"restore call audio" = "khôi phục âm thanh cuộc gọi";
+
+/* Translated with LLM */
 "Restore Selected %ld Items" = "Khôi phục %ld mục đã chọn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore Selected Item" = "Khôi phục mục đã chọn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restoring" = "Đang khôi phục";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Resume Recording" = "Tiếp tục ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Resume with Warning" = "Tiếp tục với cảnh báo";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Retry" = "Thử lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reverse Geocoding" = "Chuyển đổi địa lý";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reverse Selection" = "Lựa chọn ngược";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rewind 15 Seconds" = "Tua lại 15 giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ring" = "Chuông";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ring & Vibrate" = "Chuông & Rung";
 
-/* No comment provided by engineer. */
-"Root" = "Root";
+/* Translated with LLM */
+"Root" = "Gốc";
 
-/* TODO */
-"Root directory is empty." = "Root directory is empty.";
+/* Translated with LLM */
+"Root directory is empty." = "Thư mục gốc trống.";
 
-/* No comment provided by engineer. */
-"RootHide Jailbreak" = "RootHide Jailbreak";
+/* Translated with LLM */
+"RootHide Jailbreak" = "Jailbreak RootHide";
 
-/* No comment provided by engineer. */
-"Rootless Jailbreak" = "Rootless Jailbreak";
+/* Translated with LLM */
+"Rootless Jailbreak" = "Jailbreak không cần root";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Runtime Environment: %@" = "Môi trường thực thi: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sample Rate" = "Tỷ lệ mẫu";
 
-/* No comment provided by engineer. */
-"Sandbox Build" = "Xây dựng SandBox";
+/* Translated with LLM */
+"Sandbox Build" = "Xây dựng Sandbox";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save" = "Lưu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save as Duplicate" = "Lưu dưới dạng bản sao";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save as Duplicate…" = "Lưu dưới dạng bản sao…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"saved recording location" = "vị trí lưu bản ghi đã lưu";
+
+/* Translated with LLM */
 "Say ${requestedText}" = "Nói ${requestedText}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Scene Identification" = "Nhận dạng cảnh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "screen" = "màn hình";
 
-/* TODO */
+/* Translated with LLM */
+"screen capture" = "chụp màn hình";
+
+/* Translated with LLM */
+"screen capture stop" = "dừng chụp màn hình";
+
+/* Translated with LLM */
+"screen recording off" = "tắt ghi màn hình";
+
+/* No comment provided by engineer. */
 "SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search" = "Tìm kiếm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search %@ in %@…" = "Tìm kiếm %1$@ trong %2$@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search %@…" = "Tìm kiếm %@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Apps…" = "Tìm kiếm ứng dụng…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Arguments…" = "Tìm kiếm đối số…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Contacts…" = "Tìm kiếm danh bạ…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in %@…" = "Tìm kiếm trong %@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Tìm kiếm chuyên sâu với tất cả thông tin có sẵn được lưu khi ghi lại như thông tin liên hệ hoặc vị trí.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in Maps" = "Tìm kiếm trong Bản đồ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Recordings…" = "Tìm kiếm các bản ghi âm…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Shortcuts…" = "Tìm kiếm phím tắt…";
 
-/* TODO */
-"Searching for nearby devices" = "Searching for nearby devices";
+/* Translated with LLM */
+"Search Transcript…" = "Tìm kiếm bản ghi…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Searching for nearby devices" = "Đang tìm kiếm thiết bị ở gần";
+
+/* Translated with LLM */
 "Search…" = "Tìm kiếm…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Seconds" = "Giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Secure" = "Bảo mật";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Secure Payment" = "Thanh toán an toàn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "See ya!" = "Hẹn gặp lại!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select" = "Lựa chọn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select a recording to view or play." = "Chọn một bản ghi âm để phát.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select All" = "Chọn tất cả";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select the primary cloud service provider for recording synchronization." = "Chọn nhà cung cấp dịch vụ đám mây chính để đồng bộ hóa ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Semi-Transparent" = "Bán trong suốt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Send Diagnostic" = "Gửi Chẩn Đoán";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Name" = "Tên người gửi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Phone Address" = "Địa chỉ điện thoại người gửi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Short Name" = "Tên ngắn gọn người gửi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Separated Channels" = "Các kênh riêng biệt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Separators" = "Các ký tự phân cách";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server" = "Máy chủ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server started at: %@" = "Máy chủ bắt đầu lúc: %@";
 
-/* No comment provided by engineer. */
-"Server URL" = "Máy chủ URL";
+/* Translated with LLM */
+"Server URL" = "URL máy chủ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "service" = "dịch vụ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"service active" = "dịch vụ đang hoạt động";
+
+/* Translated with LLM */
 "Service is alive" = "Dịch vụ đang hoạt động";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Service is dead" = "Dịch vụ đã ngừng hoạt động";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Service Status" = "Trạng thái dịch vụ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Set a new name for this recording, or leave blank to use default." = "Đặt tên mới cho bản ghi này hoặc để trống để sử dụng mặc định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Settings" = "Cài đặt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Setup Failed" = "Thiết lập không thành công";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Share" = "Chia sẻ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Date" = "Ngày ngắn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Day of Week String" = "Chuỗi ngày trong tuần ngắn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Month Name" = "Tên tháng ngắn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Time" = "Thời gian ngắn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Bundle Name" = "Hiển thị tên gói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Contact Names" = "Hiển thị tên liên hệ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Hoverball" = "Hiển thị Bong Bóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Notification" = "Hiển thị thông báo";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"show notification" = "hiển thị thông báo";
+
+/* Translated with LLM */
 "Show notification ${requestedMessage}" = "Hiển thị thông báo ${requestedMessage}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show on Lock Screen" = "Hiển thị trên màn hình khóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Option Description" = "Hiển thị mô tả tùy chọn";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Recording Duration" = "Hiển thị thời lượng ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Recording Format" = "Hiển thị định dạng ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show SIM Card Alias" = "Hiển thị tên thẻ SIM";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Waveform Previews" = "Hiển thị bản xem trước dạng sóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Hiển thị mục menu “Xem chi tiết” để nhà phát triển kiểm tra bản kê khai của bản ghi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Đăng nhập bằng tài khoản Dropbox của bạn để ủy quyền cho ứng dụng truy cập Dropbox của bạn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sign in with your Google account to authorize the app to access your Google Drive." = "Đăng nhập bằng tài khoản Google của bạn để ủy quyền cho ứng dụng truy cập Google Drive của bạn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Đăng nhập bằng tài khoản Microsoft của bạn để ủy quyền cho ứng dụng truy cập OneDrive của bạn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"silence call" = "tắt cuộc gọi";
+
+/* Translated with LLM */
 "Silent Mode" = "Chế độ im lặng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "SIM Card Alias" = "Tên thẻ SIM";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Simulator" = "Trình giả lập";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Simulator (Sandbox)" = "Trình mô phỏng (Sandbox)";
+
+/* Translated with LLM */
 "Skip Silence" = "Bỏ qua im lặng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Smaller" = "Nhỏ";
 
-/* No comment provided by engineer. */
-"Smart Cloud Archive" = "Lưu trữ  Smart Cloud";
+/* Translated with LLM */
+"Smart Cloud Archive" = "Lưu trữ đám mây thông minh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Software License" = "Giấy phép phần mềm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Some settings have been reset to default values." = "Một số cài đặt đã được đặt lại về giá trị mặc định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Một cái gì đó quan trọng đang thiếu. Vui lòng cài đặt lại “TrollRecorder JB” từ Sileo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Có điều gì đó không ổn, chúng tôi không thể xác minh giấy phép của bạn. Bạn có thể nhấn “Xem tài khoản của tôi” để kiểm tra đơn hàng, mua sắm hoặc đổi mã quà tặng.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sound Level Meter" = "Đồng hồ đo mức âm thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Space" = "Không gian";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Speaker" = "Người nói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "speaker" = "người nói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"speaker off" = "tắt loa";
+
+/* Translated with LLM */
+"speaker on" = "bật loa";
+
+/* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Khoảng đã chỉ định từ %1$@ đến %2$@ là không hợp lệ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"spoken audio" = "âm thanh lời nói";
+
+/* Translated with LLM */
 "start" = "bắt đầu";
 
-/* No comment provided by engineer. */
-"Start a system screen recording just like what you do in the Control Center." = "Bắt đầu ghi màn hình hệ thống giống như những gì bạn làm trong Trung tâm điều khiển.";
+/* Translated with LLM */
+"Start a system screen recording just like what you do in the Control Center." = "Bắt đầu ghi màn hình hệ thống giống như những gì bạn làm trong Trung tâm điều khiển.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start Call Recording" = "Bắt đầu ghi âm cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start daemon" = "khởi động daemon";
+
+/* Translated with LLM */
 "Start Date" = "Ngày bắt đầu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start or prepare for a call recording, system audio recording, or create an voice memo." = "Bắt đầu hoặc chuẩn bị cho một cuộc gọi ghi âm, ghi âm âm thanh hệ thống hoặc tạo một ghi chú âm thanh.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start Recording" = "Bắt đầu ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start recording" = "bắt đầu ghi âm";
+
+/* Translated with LLM */
 "Start Screen Recording" = "Bắt đầu ghi màn hình";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start screen recording" = "bắt đầu ghi màn hình";
+
+/* Translated with LLM */
 "Start System Audio Recording" = "Bắt đầu ghi âm hệ thống";
 
-/* No comment provided by engineer. */
-"Start Voice Memo Recording" = "Bắt đầu ghi âm ghi chú thoại";
+/* Translated with LLM */
+"Start Voice Memo Recording" = "Bắt đầu ghi âm ghi chú thoại";
 
-/* TODO */
-"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+/* Translated with LLM */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Quá trình khởi động dịch vụ xuất dữ liệu đang mất nhiều thời gian hơn dự kiến. Vui lòng kiểm tra kết nối mạng và thử lại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "status" = "trạng thái";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Hãy giữ nguyên. Chúng tôi đang ghi âm cuộc gọi của bạn ở chế độ nền.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "stop" = "dừng lại";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop" = "Dừng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop & Reset Service" = "Dừng & Đặt lại Dịch vụ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop & Save" = "Dừng lại & Lưu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop a call recording, system audio recording or voice memo if exists." = "Dừng ghi âm cuộc gọi, ghi âm âm thanh hệ thống hoặc ghi chú thoại nếu có.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop a system screen recording if exists." = "Dừng ghi màn hình hệ thống nếu có.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop Recording" = "Dừng Ghi Âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"stop recording" = "dừng ghi âm";
+
+/* Translated with LLM */
 "Stop Recording When Disk Exhausted" = "Dừng ghi âm khi hết dung lượng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop Screen Recording" = "Dừng Ghi Màn Hình";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"stop screen recording" = "dừng ghi màn hình";
+
+/* Translated with LLM */
 "Stop Service" = "Dừng dịch vụ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully authorized to Google and connected to Google Drive." = "Đã được ủy quyền thành công với Google và kết nối với Google Drive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully authorized to Microsoft and connected to OneDrive." = "Đã được ủy quyền thành công với Microsoft và kết nối với OneDrive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully connected to Dropbox." = "Đã kết nối thành công với Dropbox.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully connected to the server %@." = "Đã kết nối thành công với máy chủ %@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Suggested" = "Gợi ý";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Suggested Applications" = "Gợi ý Ứng dụng";
 
-/* TODO */
-"Switch to list view" = "Switch to list view";
+/* Translated with LLM */
+"Switch to list view" = "Chuyển sang chế độ xem danh sách";
 
-/* TODO */
-"Switch to orbit view" = "Switch to orbit view";
+/* Translated with LLM */
+"Switch to orbit view" = "Chuyển sang chế độ xem quỹ đạo";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync" = "Đồng bộ hóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync Service Mode" = "Chế độ dịch vụ đồng bộ hóa";
 
-/* No comment provided by engineer. */
-"Sync Service Provider" = "Máy chủ dịch vụ đồng bộ hóa";
+/* Translated with LLM */
+"Sync Service Provider" = "Nhà cung cấp dịch vụ đồng bộ hóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Đồng bộ hóa: Làm cho các bản ghi âm cục bộ và đám mây giống hệt nhau, chỉ thay đổi các ổ đĩa đám mây.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "synchronization" = "đồng bộ hóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Synchronization Failed" = "Đồng bộ hóa không thành công";
 
-/* No comment provided by engineer. */
-"Synchronize the playback status of the recording with Control Center." = "Đồng bộ hóa trạng thái phát lại của bản ghi với Trung tâm điều khiển.";
+/* Translated with LLM */
+"Synchronize the playback status of the recording with Control Center." = "Đồng bộ hóa trạng thái phát lại của bản ghi với Trung tâm điều khiển.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Synchronizing" = "Đang đồng bộ hóa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Syntax or usage error occurred." = "Đã xảy ra lỗi cú pháp hoặc cách sử dụng.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Applications" = "Ứng dụng hệ thống";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Audio" = "Hệ thống âm thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Audio Recording" = "Ghi âm hệ thống";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "system audio recording" = "ghi âm hệ thống";
 
-/* No comment provided by engineer. */
-"System Language" = "Hệ Thống";
+/* Translated with LLM */
+"System Language" = "Ngôn ngữ hệ thống";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Record" = "Ghi âm hệ thống";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Nhấn vào __bất kỳ cạnh nào__  \nđể chọn nó làm ___cạnh hoạt động___.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to add required widget." = "Nhấn để thêm tiện ích cần thiết.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to calculate the total size of all recordings." = "Nhấn để tính toán tổng kích thước của tất cả các bản ghi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to Copy" = "Nhấn để sao chép";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to Exit" = "Nhấn để thoát";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to open settings." = "Nhấn để mở cài đặt.";
 
-/* TODO */
-"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+/* Translated with LLM */
+"Tap to open Wi-Fi settings." = "Nhấn để mở cài đặt Wi-Fi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to view details" = "Nhấn để xem chi tiết.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Technical Error Detected" = "Phát hiện lỗi kỹ thuật";
+
+/* Translated with LLM */
 "Temporarily Ignore" = "Tạm thời bỏ qua";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Temporary error occurred, more retries might fix." = "Đã xảy ra lỗi tạm thời, thử lại có thể khắc phục.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "terminate" = "kết thúc";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Terminate all active calls immediately." = "Kết thúc tất cả các cuộc gọi đang hoạt động ngay lập tức.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"terminate call" = "kết thúc cuộc gọi";
+
+/* Translated with LLM */
 "Terminate Calls" = "Kết thúc cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Test Connection" = "Kiểm tra kết nối";
 
-/* TODO */
-"Text Copied" = "Text Copied";
+/* Translated with LLM */
+"Text Copied" = "Đã sao chép văn bản";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"text to speech" = "chuyển văn bản thành giọng nói";
+
+/* Translated with LLM */
 "text-to-speech" = "chuyển văn bản thành giọng nói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The %@ has been interrupted by the system. You may convert the recording manually later." = "Bản ghi %@ đã bị hệ thống ngắt quãng. Bạn có thể chuyển đổi bản ghi này một cách thủ công sau.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Thiết lập ứng dụng đã gặp lỗi không xác định, Launch Daemon không phản hồi yêu cầu của chúng tôi. Chúng tôi đang cố gắng kết nối lại, vui lòng đợi. Nếu sự cố vẫn tiếp diễn, bạn có thể thử cài đặt lại ứng dụng.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The application will launch automatically when recording ends." = "Ứng dụng sẽ tự động khởi chạy khi ghi âm kết thúc.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The audio file to be played to the opposite side." = "Tệp âm thanh sẽ được phát cho bên đối diện.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The bundle identifier of the application that initiated the call." = "Định danh gói của ứng dụng đã khởi tạo cuộc gọi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The content of text file “%@” is empty." = "Nội dung của tệp văn bản “%@” là trống.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Trạng thái hiện tại của cuộc gọi. Các giá trị có thể là: Đang gọi, Đã kết nối, Đã ngắt kết nối và Không xác định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The date and time when the audio was created." = "Ngày và giờ khi âm thanh được tạo ra.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "Thiết bị sẽ rung với các mẫu xúc giác đặc biệt khi bắt đầu và kết thúc ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The direction of the call. May not available for all audio files." = "Hướng của cuộc gọi. Có thể không có sẵn cho tất cả các tệp âm thanh.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "Hướng của cuộc gọi. Các giá trị có thể là: Đến, Đi và Không xác định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The display name of the application that initiated the call." = "Tên hiển thị của ứng dụng đã khởi tạo cuộc gọi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The field of information to get." = "Trường thông tin cần lấy.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The file format of the selected audio file." = "Định dạng tệp của tệp âm thanh đã chọn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The hoverball can display even if you do not unlock your device." = "Bong bóng có thể hiển thị ngay cả khi bạn không mở khóa thiết bị của mình.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Tổ hợp phím của “Ghi âm nhanh” và “Tổ hợp phím vật lý” đã được thay đổi thành “%@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "Phiên bản mới nhất của “TrollRecorder” là %1$@ (%2$@). Phiên bản hiện tại là %3$@ (%4$@).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The location metadata will be continuously updated while the recording is in progress." = "Vị trí Siêu dữ liệu sẽ được cập nhật liên tục trong khi quá trình ghi đang diễn ra.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The location where the recording was recorded." = "Vị trí nơi ghi âm được ghi lại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The maximum seconds to wait for calls to be connected." = "Thời gian tối đa để chờ các cuộc gọi được kết nối.";
 
-/* No comment provided by engineer. */
-"The missing location metadata will be populated if you open the application right after the recording." = "Vị trí Siêu dữ liệu bị thiếu sẽ được điền nếu bạn mở ứng dụng ngay sau khi ghi.";
+/* Translated with LLM */
+"The missing location metadata will be populated if you open the application right after the recording." = "Siêu dữ liệu vị trí bị thiếu sẽ được điền nếu bạn mở ứng dụng ngay sau khi ghi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The name of the contact." = "Tên của liên hệ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The name of the sender." = "Tên của người gửi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Số lượng mẫu mỗi giây, tốc độ mẫu cao hơn có nghĩa là chất lượng âm thanh tốt hơn với kích thước tệp lớn hơn.";
 
-/* TODO */
-"the other device" = "the other device";
+/* Translated with LLM */
+"the other device" = "thiết bị kia";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number of the contact." = "Số điện thoại của liên hệ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number of the sender." = "Số điện thoại của người gửi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number. Third party application or CallKit calls may not have this value." = "Số điện thoại. Ứng dụng của bên thứ ba hoặc các cuộc gọi CallKit có thể không có giá trị này.";
 
-/* No comment provided by engineer. */
-"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Chế độ xử lý bài đăng sẽ được sử dụng. Chế độ kết hợp sẽ nhét âm thanh loa âm thanh nổi vào kênh bên trái, với micrô ở kênh bên phải. Chế độ hỗn hợp sẽ sao chép kênh micrô sang âm thanh nổi và trộn nó với các kênh loa.";
+/* Translated with LLM */
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Chế độ xử lý hậu kỳ sẽ được sử dụng. Chế độ kết hợp sẽ nén âm thanh loa nổi vào kênh trái, với micrô ở kênh phải. Chế độ hỗn hợp sẽ sao chép kênh micrô thành âm thanh nổi và trộn với các kênh loa.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The primary button action at the right side of the hoverball when no call is active." = "Hành động nút chính ở bên phải của bong bóng khi không có cuộc gọi nào đang hoạt động.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The service is not properly configured." = "Dịch vụ không được cấu hình đúng cách.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The service operator name of the sender." = "Tên nhà cung cấp dịch vụ của người gửi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The size of selected audio file." = "Kích thước của tệp âm thanh đã chọn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The text to be played to the opposite side." = "Văn bản sẽ được phát cho bên đối diện.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The time interval before the hoverball becomes idle." = "Khoảng thời gian trước khi bong bóng mọi nơi trở nên nhàn rỗi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The type of content to be recorded." = "Loại nội dung sẽ được ghi lại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The unique identifier of the call." = "Mã định danh duy nhất của cuộc gọi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The unique identifier of the provider application." = "Mã định danh duy nhất của ứng dụng nhà cung cấp.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The URL is not valid." = "URL không hợp lệ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There is nothing but air." = "Không có gì ngoài không khí.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "Vẫn có nguy cơ dịch vụ nền sẽ không thể chuyển đổi tệp ghi ngay sau khi nó đã được ghi lại. May mắn thay, bây giờ bạn có thể hoàn thành bước cuối cùng này!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There was a problem verifying your identity." = "Đã xảy ra sự cố khi xác minh danh tính của bạn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This feature requires a paid subscription. Please upgrade to use this feature." = "Tính năng này yêu cầu đăng ký trả phí. Vui lòng nâng cấp để sử dụng tính năng này.";
 
-/* No comment provided by engineer. */
-"This field accept phone number for matching contact." = "Trường này chấp nhận số điện thoại để liên hệ phù hợp.";
+/* Translated with LLM */
+"This field accept phone number for matching contact." = "Trường này chấp nhận số điện thoại để khớp liên hệ.";
 
-/* No comment provided by engineer. */
-"This field accept phone number or an email address for matching contact." = "Trường này chấp nhận số điện thoại hoặc địa chỉ email để liên hệ phù hợp.";
+/* Translated with LLM */
+"This field accept phone number or an email address for matching contact." = "Trường này chấp nhận số điện thoại hoặc địa chỉ email để khớp liên hệ.";
 
-/* No comment provided by engineer. */
-"This is a sandbox build, the daemon is not available." = "Đây là bản dựng sandbox, không có daemon.";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This is a widget daemon for Troll Recorder." = "Đây là daemon widget cho Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "Tùy chọn này ảnh hưởng đến hành vi của “Ghi âm nhanh” và “Tổ hợp phím vật lý”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This option overrides the “Press & Hold Action” of the Hoverball." = "Tùy chọn này ghi đè lên “Hành động Nhấn & Giữ” của Hoverball.";
 
-/* No comment provided by engineer. */
-"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "Ghi âm này chứa nhiều biến thể âm thanh. Lưu tại chỗ sẽ xóa các biến thể khác. Bạn có muốn tiếp tục không, hoặc lưu dưới dạng bản sao?";
+/* Translated with LLM */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "Bản ghi âm này chứa nhiều biến thể âm thanh. Lưu tại chỗ sẽ xóa các biến thể khác. Bạn vẫn muốn tiếp tục hay lưu dưới dạng bản sao?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Ghi âm này đến từ WeChat, và “WeChat Assistant” giúp bạn điền tên và ghi chú liên hệ WeChat lần sau.\nBạn có thể mua “TrollRecorder Pro” để kích hoạt “WeChat Assistant”, bạn có muốn mua ngay bây giờ không?";
 
-/* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Ghi âm này đến từ WeChat, và “WeChat Assistant” giúp bạn điền tên và ghi chú liên hệ WeChat lần sau.\nBạn dường như chưa kích hoạt “WeChat Assistant”, bạn có muốn kích hoạt ngay bây giờ không?";
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Ghi âm này đến từ WeChat, và “WeChat Assistant” giúp bạn điền tên và ghi chú liên hệ WeChat lần sau.\nBạn dường như chưa kích hoạt “WeChat Assistant”, bạn có muốn kích hoạt ngay bây giờ không?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "Phiên bản WeChat (%@) này không được hỗ trợ. Vui lòng nâng cấp lên phiên bản mới nhất.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Phiên bản WeChat (%@) này chưa được kiểm tra và không được hỗ trợ chính thức. Một số tính năng có thể không hoạt động như mong đợi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "Phiên bản WeChat (%@) này được hỗ trợ một phần. Nên nâng cấp lên phiên bản mới nhất.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is supported." = "Phiên bản WeChat (%@) này được hỗ trợ.";
 
-/* TODO */
-"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+/* Translated with LLM */
+"This will generate a new password and restart the WebDAV server." = "Thao tác này sẽ tạo mật khẩu mới và khởi động lại máy chủ WebDAV.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Three-digit Milliseconds" = "Ba chữ số mili giây.";
 
-/* No comment provided by engineer. */
-"Time Sensitive" = "Nhạy cảm với thời gian.";
+/* Translated with LLM */
+"Time Sensitive" = "Nhạy cảm với thời gian";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"time sensitive notification" = "thông báo khẩn cấp";
+
+/* Translated with LLM */
 "Title" = "Tiêu đề";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To %@" = "Đến %@";
 
-/* No comment provided by engineer. */
-"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Để kích hoạt tính năng “Launch Shield”, bạn phải thêm widget “Troll Recorder” vào màn hình khóa hoặc màn hình chính. Nhấn “Thêm ngay” để thêm widget đó vào trang đầu tiên của màn hình chính. Bạn có thể nhấn và giữ để thay đổi vị trí của nó sau.";
+/* Translated with LLM */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Để kích hoạt tính năng “Launch Shield”, bạn phải thêm widget “Troll Recorder” vào màn hình khóa hoặc màn hình chính. Nhấn “Thêm ngay” để thêm widget đó vào trang đầu tiên của màn hình chính. Bạn có thể nhấn và giữ để thay đổi vị trí của nó sau.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Để cấu hình iCloud Drive, hãy vào “Cài đặt” → “Di động” → “iCloud Drive”.";
 
-/* No comment provided by engineer. */
-"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "Để cấu hình thông báo liên quan đến đồng bộ hóa ghi âm, hãy vào trang cài đặt “Sao lưu Đám Mây”.";
+/* Translated with LLM */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "Để cấu hình thông báo liên quan đến đồng bộ hóa ghi âm, hãy vào trang cài đặt “Network Storage”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "Để cấu hình “Hành động Nhấn & Giữ”, bạn phải xóa phím tắt tùy chỉnh từ “Tự động hóa” → “Nhấn & Giữ Hoverball”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "Để có được lịch sử cuộc gọi chính xác hơn, bạn phải tiêm nó vào ứng dụng “WeChat” thông qua TrollFools hoặc các công nghệ tương tự.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Để giữ cho WebDAV luôn hoạt động, bạn phải chọn “Luôn” hoặc “Trong khi Sử dụng Ứng dụng” cho “Troll Recorder”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Để sử dụng “Smart Cloud Archive”, bạn phải bật “Background App Refresh” cho “Troll Recorder”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Để sử dụng “Smart Cloud Archive”, bạn phải đăng nhập vào iCloud Drive trong “Cài đặt”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To: %@" = "Đến: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "toggle" = "bật/tắt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle ${requestedMode}" = "Bật/Tắt ${requestedMode}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle Call Recording" = "Bật/Tắt ghi âm cuộc gọi";
 
-/* No comment provided by engineer. */
-"Toggle Hoverball" = "Bật/Tắt bong bóng";
+/* Translated with LLM */
+"Toggle Hoverball" = "Bật/Tắt Bong bóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"toggle hoverball" = "bật/tắt bong bóng";
+
+/* Translated with LLM */
 "Toggle ON/OFF the recorder hoverball." = "Bật/Tắt bong bóng của máy ghi âm.";
 
-/* No comment provided by engineer. */
-"Toggle Recording" = "Bật tắt ghi âm";
+/* Translated with LLM */
+"Toggle Recording" = "Bật/Tắt Ghi âm";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"toggle recording" = "bật/tắt ghi âm";
+
+/* Translated with LLM */
 "Toggle Screen Recording" = "Bật/Tắt ghi màn hình";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"toggle screen recording" = "bật/tắt ghi màn hình";
+
+/* Translated with LLM */
 "Toggle System Audio Recording" = "Bật/Tắt ghi âm hệ thống";
 
-/* No comment provided by engineer. */
-"Toggle system screen recording just like what you do in the Control Center." = "Bật/Tắt ghi màn hình hệ thống giống như những gì bạn làm trong Trung tâm Điều khiển.";
+/* Translated with LLM */
+"Toggle system screen recording just like what you do in the Control Center." = "Bật/Tắt ghi màn hình hệ thống giống như những gì bạn làm trong Trung tâm Điều khiển.";
 
-/* No comment provided by engineer. */
-"Toggle Voice Memo Recording" = "Bật/Tắt ghi âm ghi chú giọng nói";
+/* Translated with LLM */
+"Toggle Voice Memo Recording" = "Bật/Tắt ghi âm ghi chú giọng nói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Token expired. Please re-authorize to continue." = "Mã thông báo đã hết hạn. Vui lòng cấp lại quyền để tiếp tục.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "top edge" = "đỉnh trên";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Total size is %@, path is %@" = "Tổng kích thước là %@, đường dẫn là %@";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To…" = "Đến";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Track Location Updates" = "Theo dõi cập nhật vị trí";
 
-/* No comment provided by engineer. */
-"trailing edge" = "đỉnh dưới";
+/* Translated with LLM */
+"trailing edge" = "cạnh sau";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transcript" = "Lời thoại";
 
-/* TODO */
+/* Translated with LLM */
 "Transcript Copied" = "Lời thoại đã được sao chép";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transfer exceeded." = "Chuyển nhượng vượt quá giới hạn.";
 
-/* TODO */
-"Transfer Recordings" = "Transfer Recordings";
+/* Translated with LLM */
+"Transfer Recordings" = "Chuyển bản ghi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transition When Idle" = "Chuyển đổi khi nhàn rỗi";
 
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Được dịch bởi @romLayvn-0411";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Trim" = "Cắt bớt";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Troll Recorder" = "Troll Recorder";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Troll Recorder %@" = "Troll Recorder %@";
 
-/* No comment provided by engineer. */
-"tts" = "tts";
+/* Translated with LLM */
+"tts" = "TTS";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"tts playback" = "phát lại TTS";
+
+/* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Tắt tùy chọn này để làm cho các tùy chọn khác trên trang này có hiệu lực đối với ứng dụng hiện tại.";
 
-/* No comment provided by engineer. */
-"Two-digit Day of Month Number" = "Hai chữ số Ngày trong Tháng";
+/* Translated with LLM */
+"Two-digit Day of Month Number" = "Số Ngày trong Tháng (hai chữ số)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Hours, 12-hour Clock" = "Hai chữ số Giờ, Đồng hồ 12 giờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Hours, 24-hour Clock" = "Hai chữ số Giờ, Đồng hồ 24 giờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Minutes" = "Hai chữ số Phút";
 
-/* No comment provided by engineer. */
-"Two-digit Month Number" = "Hai chữ số Tháng";
+/* Translated with LLM */
+"Two-digit Month Number" = "Số tháng hai chữ số";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Seconds" = "Hai chữ số Giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Type to search…" = "Gõ để tìm…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Không thể xác định thư mục từ xa cho đồng bộ hóa hai chiều. Bạn có thể cần tạo thư mục “TrollRecorder/Recordings” trên bộ nhớ từ xa.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unable to locate your personal “OneDrive”." = "Không thể xác định “OneDrive” cá nhân của bạn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Không thể thực hiện đồng bộ hóa hai chiều gia tăng, cần phải đồng bộ hóa lại hoàn toàn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unauthorize" = "Bỏ ủy quyền";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Uncompressed" = "Không nén";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Underscore" = "Gạch dưới";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown" = "Không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Address" = "Địa chỉ không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Artist" = "Nghệ sĩ không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Direction" = "Hướng không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Duration" = "Thời gian không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Error" = "Lỗi không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown error occurred." = "Đã xảy ra lỗi không xác định.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown error occurred. Please check the log for more details." = "Đã xảy ra lỗi không xác định. Vui lòng kiểm tra nhật ký để biết thêm chi tiết.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown File Format" = "Định dạng tệp không xác định.";
 
-/* No comment provided by engineer. */
-"Unknown Location" = "Vị trí không xác định.";
+/* Translated with LLM */
+"Unknown Location" = "Vị trí không xác định";
 
-/* No comment provided by engineer. */
-"Unknown Operator" = "Toán tử không xác định.";
+/* Translated with LLM */
+"Unknown Operator" = "Toán tử không xác định";
 
-/* No comment provided by engineer. */
-"Unknown Phone Address" = "Địa chỉ điện thoại không xác định.";
+/* Translated with LLM */
+"Unknown Phone Address" = "Địa chỉ điện thoại không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Place" = "Địa điểm không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Provider" = "Nhà cung cấp không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Sample Rate" = "Tỷ lệ mẫu không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Sender" = "Người gửi không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Type" = "Loại không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Variant" = "Biến thể không xác định";
 
-/* No comment provided by engineer. */
-"Unlock all features?" = "Cần tất cả các tính năng?";
+/* Translated with LLM */
+"Unlock all features?" = "Mở khóa tất cả tính năng?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmark" = "Bỏ đánh dấu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "unmute" = "Bỏ tắt tiếng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmute ${requestedChannel}" = "Bỏ tắt tiếng ${requestedChannel}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"unmute call" = "bỏ tắt tiếng cuộc gọi";
+
+/* Translated with LLM */
 "Unmute Existing Calls" = "Bỏ tắt tiếng các cuộc gọi hiện có";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmute specified channel of all existing calls." = "Bỏ tắt tiếng kênh đã chỉ định của tất cả các cuộc gọi hiện có.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unspecified" = "Không xác định";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unsupported Configuration" = "Cấu hình không được hỗ trợ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Untitled" = "Không có tiêu đề";
 
-/* No comment provided by engineer. */
-"Up to 5 Personal Devices" = "Nhiều thiết bị";
+/* Translated with LLM */
+"Up to 5 Personal Devices" = "Lên đến 5 Thiết bị Cá nhân";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Updating…" = "Đang cập nhật…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upgrade Now" = "Nâng cấp ngay";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upgrade to %@" = "Nâng cấp lên %@";
 
-/* No comment provided by engineer. */
-"uplink" = "uplink";
+/* Translated with LLM */
+"uplink" = "kênh truyền lên";
 
-/* TODO */
-"Uplink (Microphone)" = "Uplink (Microphone)";
+/* Translated with LLM */
+"Uplink (Microphone)" = "Kênh truyền lên (Micro)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"uplink playback" = "phát lại uplink";
+
+/* Translated with LLM */
+"uplink voice" = "giọng nói đường lên";
+
+/* Translated with LLM */
 "Upload" = "Tải lên";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upload, download or synchronize recordings between local and cloud drive." = "Tải lên, tải xuống hoặc đồng bộ hóa bản ghi giữa ổ đĩa cục bộ và ổ đĩa đám mây.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upload: Upload local recordings to cloud drives as is. Restorable." = "Upload: Tải lên bản ghi cục bộ lên ổ đĩa đám mây như hiện tại. Có thể khôi phục.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Sử dụng xác thực sinh trắc học để mở khóa ứng dụng. Phát lại nền không khả dụng khi tính năng này được bật.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Cellular Network" = "Sử dụng Mạng Di động";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Date" = "Ngày sử dụng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Date Range" = "Sử dụng phạm vi ngày";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Default Settings" = "Sử dụng cài đặt mặc định";
 
-/* No comment provided by engineer. */
-"Use Haptic Patterns" = "Sử dụng mô hình xúc giác";
+/* Translated with LLM */
+"Use Haptic Patterns" = "Sử dụng mẫu xúc giác";
 
-/* No comment provided by engineer. */
-"Use Media Controls" = "Sử dụng Trình phát phương tiện";
+/* Translated with LLM */
+"Use Media Controls" = "Sử dụng Trình điều khiển phương tiện";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Recycle Bin" = "Sử dụng Thùng rác";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Snapshot Transition" = "Sử dụng Chuyển tiếp Ảnh chụp";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Agreement" = "Thỏa thuận người dùng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Applications" = "Ứng dụng người dùng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User denied access to speech recognition." = "Người dùng bị từ chối quyền truy cập vào nhận dạng giọng nói.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Initiated Recording" = "Ghi âm do người dùng khởi xướng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Interface Style" = "Giao diện người dùng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Username (Optional)" = "Tên người dùng (Tùy chọn)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Utility" = "Tiện ích";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant" = "Biến thể";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant Capitalized" = "Biến thể Viết hoa";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant Description" = "Mô tả Biến thể";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Verification Failed" = "Xác minh không thành công";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Verify License" = "Xác minh giấy phép";
 
-/* No comment provided by engineer. */
-"Version %@ Build %@" = "Phiên bản %1$@ Xây dựng %2$@";
+/* Translated with LLM */
+"Version %@ Build %@" = "Phiên bản %1$@ Xây dựng %2$@";
 
-/* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "Phiên bản %1$@ Xây dựng %2$@ - Phiên bản mới %3$@ Xây dựng %4$@";
+/* Translated with LLM */
+"Version %@ Build %@ - New Version %@ Build %@" = "Phiên bản %1$@ Xây dựng %2$@ - Phiên bản mới %3$@ Xây dựng %4$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Vibrate" = "Rung";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View" = "Xem";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Details" = "Xem Chi tiết";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs" = "Xem Nhật ký";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Application" = "Xem Nhật ký: Ứng dụng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Audio Player" = "Xem Nhật ký: Trình phát âm thanh";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Call Monitor" = "Xem Nhật ký: Giám sát cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Call Recorder" = "Xem Nhật ký: Ghi âm cuộc gọi";
 
-/* No comment provided by engineer. */
-"View Logs: Hoverball" = "Xem Nhật ký: Bong Bóng";
+/* Translated with LLM */
+"View Logs: Hoverball" = "Xem Nhật ký: Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Launch Agent" = "Xem Nhật ký: Launch Agent";
 
-/* No comment provided by engineer. */
-"View Logs: Network Storage" = "Xem Nhật ký: Sao lưu Đám Mây";
+/* Translated with LLM */
+"View Logs: Network Storage" = "Xem Nhật ký: Bộ nhớ Mạng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Speech Utterance" = "Xem Nhật ký: Phát biểu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: System Audio" = "Xem Nhật ký: Âm thanh hệ thống";
 
-/* No comment provided by engineer. */
-"View Logs: Voice Memo" = "Xem Nhật ký: Ghi âm giọng nói";
+/* Translated with LLM */
+"View Logs: Voice Memo" = "Xem Nhật ký: Ghi âm giọng nói";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View My Account" = "Xem Tài khoản của tôi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Recording Details" = "Xem Chi tiết Bản ghi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "Các liên hệ VIP sẽ luôn được ghi lại và thêm vào các mục yêu thích.";
 
-/* No comment provided by engineer. */
-"Voice Memo" = "Ghi âm giọng nói";
-
-/* No comment provided by engineer. */
-"Voice Memo Recording" = "Ghi âm giọng nói";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "voice memo recording" = "ghi âm giọng nói";
 
-/* No comment provided by engineer. */
-"Voice Memos" = "Ghi âm giọng nói";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "voice-over" = "lời nói qua";
 
-/* No comment provided by engineer. */
-"Voice-Over Voice" = "Lồng Tiếng Giọng Nói";
+/* Translated with LLM */
+"Voice-Over Voice" = "Giọng VoiceOver";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Voice Memo" = "Ghi âm giọng nói";
+
+/* Translated with LLM */
+"Voice Memo Recording" = "Ghi âm ghi chú giọng nói";
+
+/* Translated with LLM */
+"Voice Memos" = "Ghi âm giọng nói";
+
+/* Translated with LLM */
 "VoIP" = "VoIP";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Volume" = "Âm lượng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "wait" = "chờ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for ${requestedTimeout} seconds" = "Chờ ${requestedTimeout} giây";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for any calls to be answered and connected." = "Chờ bất kỳ cuộc gọi nào được trả lời và kết nối.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"wait for call" = "chờ cuộc gọi";
+
+/* Translated with LLM */
 "Wait for Calls" = "Chờ cuộc gọi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for Connected Calls" = "Chờ cuộc gọi đã kết nối";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ. Cảnh báo, cuộc gọi của bạn đang được ghi lại ngay bây giờ.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Waveform Audio" = "Âm thanh dạng sóng";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "Chúng tôi không thể xác minh giao dịch mua của bạn do thời gian không chính xác. Vui lòng đảm bảo thời gian trên thiết bị của bạn là chính xác để tiếp tục.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Chúng tôi không thể xác minh giao dịch mua của bạn trong chế độ duyệt web riêng tư. Vui lòng đảm bảo rằng bạn không ở chế độ duyệt web riêng tư của Safari để tiếp tục.";
 
-/* TODO */
-"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+/* Translated with LLM */
+"We couldn’t finish importing recordings from %@." = "Chúng tôi không thể hoàn tất việc nhập các bản ghi âm từ %@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Chúng tôi thích những hình nền đầy màu sắc và chuyển động, nhưng hãy chọn ở đây để bạn vô hiệu hóa nó.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WebDAV" = "WebDAV";
 
-/* TODO */
-"WebDAV Password Actions" = "WebDAV Password Actions";
+/* Translated with LLM */
+"WebDAV Password Actions" = "Thao tác mật khẩu WebDAV";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WebDAV Server" = "Máy chủ WebDAV";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WeChat" = "WeChat";
 
-/* No comment provided by engineer. */
-"WeChat Assistant" = "WeChat Assistant";
+/* Translated with LLM */
+"WeChat Assistant" = "Trợ lý WeChat";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Welcome to" = "Chào mừng đến với";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’re recording system audio in the background." = "Chúng tôi đang ghi âm hệ thống ở chế độ nền.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’re recording your voice memo in the background." = "Chúng tôi đang ghi âm ghi chú giọng nói của bạn ở chế độ nền.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new phone call recording!" = "Chúng tôi có một bản ghi âm cuộc gọi điện thoại mới!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new system audio recording!" = "Chúng tôi có một bản ghi âm hệ thống mới!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new voice memo!" = "Chúng tôi có một ghi chú giọng nói mới!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got new phone call recordings!" = "Chúng tôi có bản ghi âm cuộc gọi điện thoại mới!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "What’s New" = "Có gì mới";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When any of the following actions is triggered, run the shortcut without any notification." = "Khi bất kỳ hành động nào sau đây được kích hoạt, hãy chạy phím tắt mà không có thông báo.";
 
-/* No comment provided by engineer. */
-"When Foreground" = "Khi ở chế độ nền";
+/* Translated with LLM */
+"When Foreground" = "Khi ở chế độ nền trước";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Locked" = "Khi bị khóa";
 
-/* No comment provided by engineer. */
-"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Khi không kết nối với WLAN, hãy sử dụng mạng di động để chuyển giao bản ghi. Có thể phát sinh thêm phí.";
+/* Translated with LLM */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Khi không kết nối với WLAN, hãy sử dụng mạng di động để chuyển bản ghi. Có thể phát sinh thêm phí.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When there is no call…" = "Khi không có cuộc gọi…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Visible" = "Khi hiển thị";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "Khi máy chủ WebDAV được bật, có cho phép bạn truy cập từ trình duyệt web thông thường như Safari, Chrome, Edge, v.v. hay không.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to force the application to use the light or the dark user interface." = "Cho dù buộc ứng dụng sử dụng giao diện người dùng sáng hay tối.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to force the hoverball to use the light or the dark style." = "Cho dù buộc bong bóng mọi nơi sử dụng phong cách ánh sáng hay bóng tối.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Có lặp lại vô hạn việc phát âm thanh hay không. Nếu được bật, hành động này sẽ trả về ngay lập tức sau khi bắt đầu phát.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which channel to mute." = "Kênh nào để tắt tiếng.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which channel to unmute." = "Kênh nào để bật tiếng.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which edges of the screen the hoverball can be attached to." = "Các cạnh nào của màn hình mà bong bóng nổi có thể được gắn vào.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Why don’t you make a phone call?" = "Tại sao bạn không thực hiện cuộc gọi điện thoại?";
 
-/* TODO */
-"Wi-Fi Required" = "Wi-Fi Required";
+/* Translated with LLM */
+"Wi-Fi Required" = "Yêu cầu Wi-Fi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Will start recording automatically on audio or video calls in the current application." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video trong ứng dụng hiện tại.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Will start recording automatically on audio or video calls." = "Sẽ bắt đầu ghi âm tự động trên các cuộc gọi âm thanh hoặc video.";
 
-/* No comment provided by engineer. */
-"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Viết thẻ ID3 vào các tệp âm thanh xuất khẩu, bao gồm tiêu đề, nghệ sĩ, album, thể loại, năm và hình ảnh bìa.";
+/* Translated with LLM */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Viết thẻ ID3 vào các tệp âm thanh đã xuất, bao gồm tiêu đề, nghệ sĩ, album, thể loại, năm và ảnh bìa.";
 
-/* No comment provided by engineer. */
-"Write latitude and longitude to the recording metadata." = "Viết vĩ độ và kinh độ vào siêu dữ liệu ghi.";
+/* Translated with LLM */
+"Write latitude and longitude to the recording metadata." = "Viết vĩ độ và kinh độ vào siêu dữ liệu ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write runtime logs into filesystem. You need to restart services to apply changes." = "Viết nhật ký thời gian chạy vào hệ thống tệp. Bạn cần khởi động lại các dịch vụ để áp dụng thay đổi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Year Month Day" = "Năm Tháng Ngày";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "YES" = "CÓ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "Bạn sắp xóa tất cả các bản ghi, đặt lại tất cả các cài đặt và xóa tất cả các bộ nhớ cache hoàn toàn.\nHÀNH ĐỘNG NÀY KHÔNG THỂ KHÔI PHỤC!";
 
-/* No comment provided by engineer. */
-"You are about to fix the file-system owners and permissions of all recordings and settings." = "Bạn chuẩn bị sửa Chủ tệp hệ thống & Quyền của tất cả các bản ghi và cài đặt.";
+/* Translated with LLM */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "Bạn sắp sửa chủ sở hữu và quyền của hệ thống tệp cho tất cả các bản ghi và cài đặt.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "Bạn hiện đang sử dụng phiên bản mới nhất của “TrollRecorder” %1$@ (%2$@).";
+
+/* Translated with LLM */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Bạn có thể tải xuống gói giọng nói trong “Cài đặt” → “Trợ năng” → “VoiceOver” → “Giọng nói” → “Giọng nói” để tải xuống các gói giọng nói, và sau đó chọn một cái ở đây cho thông báo giọng nói.";
 
-/* No comment provided by engineer. */
-"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Bạn phải chọn “Luôn luôn” cho TrollRecorder để xác định vị trí của bạn trong nền. Nếu bạn chọn “Trong khi sử dụng ứng dụng”, các địa điểm sẽ chỉ được cập nhật khi bạn khởi chạy ứng dụng sau khi ghi âm.";
+/* Translated with LLM */
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Bạn phải chọn “Luôn luôn” cho “TrollRecorder” để xác định vị trí của bạn trong nền. Nếu bạn chọn “Trong khi sử dụng ứng dụng”, các địa điểm sẽ chỉ được cập nhật khi bạn khởi chạy ứng dụng sau khi ghi âm.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Bạn có thể cần phải bật “Ghi âm tự động nâng cao” hoặc “Nhận diện cảnh nâng cao” để các tùy chọn trên trang này có hiệu lực.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You may need to reboot your device to make this application work properly." = "Bạn có thể cần khởi động lại thiết bị của mình để ứng dụng này hoạt động đúng cách.";
 
-/* No comment provided by engineer. */
-"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Thông tin của bạn trên %@ sẽ được tải lên và hợp nhất với các bản ghi được lưu trữ trong “%@”.";
+/* Translated with LLM */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Thông tin của bạn trên %1$@ sẽ được tải lên và hợp nhất với các bản ghi được lưu trữ trong “%2$@”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’re now using the free version of “TrollRecorder JB”." = "Bạn đang sử dụng phiên bản miễn phí của “TrollRecorder JB”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’re now using the free version of “TrollRecorder”." = "Bạn đang sử dụng phiên bản miễn phí của “TrollRecorder”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Bạn đã thay đổi ngôn ngữ hiển thị của ứng dụng thành “%@”. Cần phải khởi động lại để hoàn tất áp dụng các thay đổi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Bạn đã thay đổi “Tên xuất tùy chỉnh”. Bạn có muốn tái tạo các bản ghi đã lưu trữ trong “Sao lưu Đám Mây” không?\nHành động này có thể mất một thời gian và tiêu tốn thêm hạn mức dữ liệu di động. Bạn có thể muốn xóa “TrollRecorder/ArchivedRecordings” khỏi các ổ đĩa đám mây của mình để tránh trùng lặp.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "Bạn đã chọn tiếp tục mà không có chữ ký mã hợp lệ. Bạn vẫn có thể sử dụng ứng dụng để xem hoặc xuất các bản ghi hiện có, nhưng các tính năng khác có thể không khả dụng.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve enabled biometric authentication so it’s required to verify your identity." = "Bạn đã bật xác thực sinh trắc học nên cần phải xác minh danh tính của bạn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve pressed cancel." = "Bạn đã nhấn hủy.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve pressed password." = "Bạn đã nhấn mật khẩu.";
 
-/* No comment provided by engineer. */
-"¼ Audio CD" = "¼ Audio CD";
+/* Translated with LLM */
+"¼ Audio CD" = "¼ Âm thanh CD";
 
-/* No comment provided by engineer. */
-"½ Audio CD" = "½ Audio CD";
+/* Translated with LLM */
+"½ Audio CD" = "½ Âm thanh CD";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“%@” is not available." = "“%@” không có sẵn.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“Background App Refresh” Permission Denied" = "“Làm mới ứng dụng nền” đã bị từ chối.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“iCloud Drive” Not Logged In" = "“iCloud Drive” chưa đăng nhập.";
 
-/* No comment provided by engineer. */
-"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” được bật: dịch vụ sẽ được bật lại trong một số trường hợp. Để dừng dịch vụ vĩnh viễn, hãy tắt “Các Tuỳ Chọn Nâng Cao” → “Launch Shield”, thoát và mở lại ứng dụng, sau đó kích hoạt lại một lần nữa.";
+/* Translated with LLM */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” được bật: dịch vụ sẽ được bật lại trong một số trường hợp. Để dừng dịch vụ vĩnh viễn, hãy tắt “Các Tuỳ Chọn Nâng Cao” → “Launch Shield”, thoát và mở lại ứng dụng, sau đó chọn lại tùy chọn này.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” và phiên bản TrollStore đều đã được cài đặt. Vui lòng gỡ bỏ cả hai, cài đặt lại “TrollRecorder JB” từ Sileo, hoặc “TrollRecorder” từ TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” không tương thích với Bootstrap (RootHide). Vui lòng gỡ bỏ “TrollRecorder JB”, và cài đặt “TrollRecorder” từ TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” không tương thích với phiên bản iOS này.";
 
 /* No comment provided by engineer. */

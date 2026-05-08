@@ -80,13 +80,16 @@
 "A respring is required to completely apply the changes." = "ئۆزگەرتىشلەرنى ئىشقا ئاشۇرۇش ئۈچۈن قايتا ئېچىش كېرەك. ئەگەر ئۇقتۇرۇش، لەيلىمە كۆزنەك قاتارلىق جايلاردا يېڭى تەڭشەلگەن تىل ئىشلىتىشنى ئىستىسىڭىز، «داۋاملاشتۇرۇش»نى چېكىڭ.";
 
 /* No comment provided by engineer. */
-"A widget is required for the “Launch Shield” feature." = "«قوزغىتىش قوغدىغۇچى» ئىقتىدارى ئۈچۈن كىچىك پروگرامما زۆرۈر.";
+"A widget is required for the “Launch Shield” feature." = "«قوزغىتىش قوغدىغۇچى» ئىقتىدارى ئۈچۈن كىچىك پروگرامما زۆرۈر.";
 
 /* No comment provided by engineer. */
 "accept" = "جاۋاب بېرىش";
 
 /* No comment provided by engineer. */
 "Accept all incoming calls automatically." = "بارلىق كىرگەن تېلېفونلارغا ئاپتوماتىك جاۋاب بېرىش.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"accept call" = "accept call";
 
 /* No comment provided by engineer. */
 "Accept Incoming Calls" = "كىرگەن تېلېفونلارغا جاۋاب بېرىش";
@@ -99,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "activate" = "ئاكتىپلاش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"activate hoverball" = "activate hoverball";
 
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "مۇلازىمەتنى قوزغىتىپ، ئۈنئالغۇ لەيلىمە توپنى ئېچىڭ.";
@@ -114,6 +120,12 @@
 
 /* No comment provided by engineer. */
 "Add Required Widget" = "زۆرۈر كىچىك پروگراممىنى قوشۇش";
+
+/* TODO */
+"Add Token" = "Add Token";
+
+/* TODO */
+"Add Tokens" = "Add Tokens";
 
 /* No comment provided by engineer. */
 "Additional command-line options for the Rclone synchronization tool." = "Rclone قورالىغا قوشۇمچە بۇيرۇق قۇرى تاللانمىلىرى.";
@@ -214,8 +226,17 @@
 /* No comment provided by engineer. */
 "answer" = "جاۋاب";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"answer call" = "answer call";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"answer incoming call" = "answer incoming call";
+
 /* No comment provided by engineer. */
 "answered" = "جاۋاب بېرىلدى";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"answered call" = "answered call";
 
 /* No comment provided by engineer. */
 "Any" = "چەكلىمە يوق";
@@ -241,6 +262,9 @@
 /* No comment provided by engineer. */
 "Applications" = "پروگراممىلار";
 
+/* TODO */
+"App Store" = "App Store";
+
 /* No comment provided by engineer. */
 "archive" = "ئارخىپ";
 
@@ -258,6 +282,9 @@
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "بارلىق ئاپتوماتىك ھەرىكەتلەرنى ئۆچۈرۈشنى جەزملەشتۈرەمسىز؟";
+
+/* TODO */
+"Arguments added on this page will be passed through to the rclone command line exactly as entered." = "Arguments added on this page will be passed through to the rclone command line exactly as entered.";
 
 /* No comment provided by engineer. */
 "Associate with Call History" = "چاقىرىش خاتىرىسى بىلەن باغلاش";
@@ -382,6 +409,12 @@
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "سۆزلىشىشنى ئۈنگە ئېلىشتىن بۇرۇن، قارشى تەرەپكە بىر ئەسكەرتىش ئاۋازى قويۇلىدۇ. رايونىڭىزدىكى قانۇن-نىزاملارغا رىئايە قىلىڭ. ئەسكەرتىش ئاۋازىنى تاقىسىڭىز، ئۈنگە ئېلىشنىڭ دەلىل-ئىسپات سۈپىتىدىكى قانۇنىي كۈچىگە تەسىر يېتىشى مۇمكىن.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"begin recording" = "begin recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"begin screen recording" = "begin screen recording";
+
 /* No comment provided by engineer. */
 "Beta" = "سىناق نەشرى";
 
@@ -393,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Biometric Authentication" = "بىئولوگىيەلىك دەلىللەش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"block incoming call" = "block incoming call";
 
 /* No comment provided by engineer. */
 "Bonjour server started at: %@" = "Bonjour مۇلازىمېتىرى قوزغىتىلدى: %@";
@@ -433,11 +469,29 @@
 /* No comment provided by engineer. */
 "call" = "تېلېفون";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call audio on" = "call audio on";
+
+/* TODO */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?";
+
+/* TODO */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Call audio pipeline monitoring failed. Tap this notification to restart the recording service.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call connected" = "call connected";
+
 /* No comment provided by engineer. */
 "Call Direction" = "تېلېفون يۆنىلىشى";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call duration" = "call duration";
+
 /* No comment provided by engineer. */
 "Call Identifier" = "تېلېفون كىملىكى";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call information" = "call information";
 
 /* No comment provided by engineer. */
 "Call Recording" = "تېلېفوننى ئۈنگە ئېلىش";
@@ -460,6 +514,9 @@
 /* No comment provided by engineer. */
 "Call State" = "تېلېفون ھالىتى";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"call status" = "call status";
+
 /* No comment provided by engineer. */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "پەقەت بۇ ئۈسكۈنىدىكى مىكروفوننى ئىشلەتكەندىلا تېلېفوننى ئۈنگە ئالالايسىز. بۇ ئۈسكۈنىدىن كەلگەن تېلېفون باشقا ئۈسكۈنىدە جاۋاب بېرىلسە، ئۈنگە ئالغىلى بولمايدۇ.";
 
@@ -480,6 +537,9 @@
 
 /* No comment provided by engineer. */
 "Check if the daemon is running. If not, launch it." = "نازارەتچى پروگراممىنىڭ ئىجرا بولۇۋاتقانلىقىنى تەكشۈرۈش. ئىجرا بولمىسا، قوزغىتىش.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"check service" = "check service";
 
 /* No comment provided by engineer. */
 "Check Updates" = "يېڭىلانمىلارنى تەكشۈرۈش";
@@ -514,11 +574,20 @@
 /* No comment provided by engineer. */
 "Clear Selection" = "تاللانمىنى تازىلاش";
 
+/* TODO */
+"Clear Tokens" = "Clear Tokens";
+
 /* No comment provided by engineer. */
 "Clear Wave Caches" = "دولقۇن غەملەكلىرىنى تازىلاش";
 
 /* No comment provided by engineer. */
 "Close" = "يېپىش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"close hoverball" = "close hoverball";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"cloud archive sync" = "cloud archive sync";
 
 /* No comment provided by engineer. */
 "Collapse Recursively" = "بىر تەرەپ قىلىش";
@@ -555,6 +624,9 @@
 
 /* No comment provided by engineer. */
 "connected" = "ئۇلاندى";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"connected call" = "connected call";
 
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "ئۇلانغان خېرىدارلار: %d";
@@ -606,6 +678,12 @@
 
 /* No comment provided by engineer. */
 "Continue" = "داۋاملاشتۇرۇش";
+
+/* TODO */
+"Continuous Playback Off" = "Continuous Playback Off";
+
+/* TODO */
+"Continuous Playback On" = "Continuous Playback On";
 
 /* No comment provided by engineer. */
 "Conversion Failed" = "ئايلاندۇرۇش مەغلۇپ بولدى";
@@ -664,6 +742,12 @@
 /* No comment provided by engineer. */
 "Credentials" = "كىملىك دەلىللىرى";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"current call" = "current call";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"current call duration" = "current call duration";
+
 /* No comment provided by engineer. */
 "Custom CLI Options" = "ئىختىيارىي CLI تاللانمىلار";
 
@@ -681,6 +765,12 @@
 
 /* No comment provided by engineer. */
 "daemon" = "نازارەتچى";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"daemon running" = "daemon running";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"daemon service" = "daemon service";
 
 /* No comment provided by engineer. */
 "Daily Arranged" = "كۈنلۈك تەرتىپلەنگەن";
@@ -703,6 +793,9 @@
 /* No comment provided by engineer. */
 "Deactivate & Sign Out" = "چەكلەش ۋە چېكىنىش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"deactivate hoverball" = "deactivate hoverball";
+
 /* No comment provided by engineer. */
 "Deactivate the recorder hoverball." = "مۇلازىمەتنى قوزغىتىپ، ئۈنگە ئېلىش لەيلىمە توپىنى تاقاش.";
 
@@ -711,6 +804,9 @@
 
 /* No comment provided by engineer. */
 "decline" = "رەت قىلىش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"decline call" = "decline call";
 
 /* No comment provided by engineer. */
 "Decoding" = "كود يەشمەكتە";
@@ -787,11 +883,14 @@
 /* No comment provided by engineer. */
 "Discard Recording" = "ئۈن خاتىرىسىنى تاشلىۋېتىش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"discard recording" = "discard recording";
+
 /* No comment provided by engineer. */
 "Discreet Mode" = "يوشۇرۇن ھالەت";
 
 /* No comment provided by engineer. */
-"Discreet Voice Memos" = "يوشۇرۇن ئاۋاز خاتىرىسى";
+"Discreet Voice Memos" = "يوشۇرۇن ئاۋاز خاتىرىسى";
 
 /* No comment provided by engineer. */
 "Dismiss" = "يوپۇش";
@@ -886,8 +985,11 @@
 /* No comment provided by engineer. */
 "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "مۇھىت چەكلىمىسى سەۋەبىدىن، ئەگەر كىچىك پروگراممىلار بوش ياكى كۆرۈنمەي قالسا، ئۈسكۈنىڭىزنى قايتا قوزغىتىڭ ياكى TrollStore دا سىنبەلگە غەملىكىنى قايتا قۇرۇڭ.";
 
+/* TODO */
+"Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here." = "Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here.";
+
 /* No comment provided by engineer. */
-"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "تېخنىكىلىق سەۋەبلەر تۈپەيلى، CallKit بولمىغان چاقىرىشلار تېلېفون ھالىتىگە مۇناسىۋەتلىك تېزلەتمىلەرنى قوزغىتالمايدۇ.";
+"Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states." = "تېخنىكىلىق سەۋەبلەر تۈپەيلى، CallKit بولمىغان چاقىرىشلار تېلېفون ھالىتىگە مۇناسىۋەتلىك تېزلەتمىلەرنى قوزغىتالمايدۇ.";
 
 /* No comment provided by engineer. */
 "Duration" = "داۋاملىشىش ۋاقتى";
@@ -915,6 +1017,9 @@
 
 /* TODO */
 "Edit Argument" = "Edit Argument";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"elapsed recording time" = "elapsed recording time";
 
 /* No comment provided by engineer. */
 "Empty Trash" = "ئەخلەتدان بوشىتىش";
@@ -952,11 +1057,20 @@
 /* No comment provided by engineer. */
 "Encoding" = "كودلاۋاتىدۇ";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"end calls" = "end calls";
+
 /* No comment provided by engineer. */
 "End Date" = "ئاخىرلىشىش چېسلاسى";
 
 /* No comment provided by engineer. */
 "End Editing" = "تەھرىرلەشنى ئاخىرلاشتۇرۇش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"end recording" = "end recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"end screen recording" = "end screen recording";
 
 /* No comment provided by engineer. */
 "Enhance Recording" = "ئۈن يازمىنى كۈچەيتىش";
@@ -1072,6 +1186,9 @@
 /* TODO */
 "Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
 
+/* TODO */
+"Failed to start audio player." = "Failed to start audio player.";
+
 /* No comment provided by engineer. */
 "Fatal error occurred. You may need to re-authorize to continue." = "ئېغىر خاتالىق يۈز بەردى. داۋاملاشتۇرۇش ئۈچۈن قايتا كىرىشىڭىز كېرەك بولۇشى مۇمكىن.";
 
@@ -1104,6 +1221,9 @@
 
 /* No comment provided by engineer. */
 "finish" = "تامام";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"finish call" = "finish call";
 
 /* TODO */
 "Fix File-System" = "Fix File-System";
@@ -1146,6 +1266,9 @@
 
 /* No comment provided by engineer. */
 "Full" = "تولۇق";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"full backup sync" = "full backup sync";
 
 /* No comment provided by engineer. */
 "Full Date" = "تولۇق چېسلا";
@@ -1210,14 +1333,20 @@
 /* No comment provided by engineer. */
 "Group Call" = "گۇرۇپپا چاقىرىش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"hang up calls" = "hang up calls";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"hang up incoming call" = "hang up incoming call";
+
 /* No comment provided by engineer. */
 "Hide Hoverball" = "لەيلىمە توپنى يوشۇرۇش";
 
 /* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "\"ئاۋاز خاتىرىسى\" پروگراممىسىنى قۇلۇپلۇق ئېكراندا كۆرسەتمەسلىك ۋە \"ھەرىكەتچان ئارال\" پائالىيەتلىرىنى يوشۇرۇش. بۇ ئىقتىدارنىڭ تولۇق ئۈنۈم بېرىشى ئۈچۈن قايتا قوزغىتىش كېرەك بولۇشى مۇمكىن.";
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "\"ئاۋاز خاتىرىسى\" پروگراممىسىنى قۇلۇپلۇق ئېكراندا كۆرسەتمەسلىك ۋە \"ھەرىكەتچان ئارال\" پائالىيەتلىرىنى يوشۇرۇش. بۇ ئىقتىدارنىڭ تولۇق ئۈنۈم بېرىشى ئۈچۈن قايتا قوزغىتىش كېرەك بولۇشى مۇمكىن.";
 
 /* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "\"ئاۋاز خاتىرىسى\" پروگراممىسىنى قۇلۇپلۇق ئېكراندا كۆرسەتمەسلىك ۋە \"ھەرىكەتچان ئارال\" پائالىيەتلىرىنى يوشۇرۇش. بۇنى TrollFools ياكى ئوخشاش تېخنىكىلار ئارقىلىق \"ئاۋاز خاتىرىسى\" پروگراممىسىغا قىستۇرۇشىڭىز كېرەك.";
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "\"ئاۋاز خاتىرىسى\" پروگراممىسىنى قۇلۇپلۇق ئېكراندا كۆرسەتمەسلىك ۋە \"ھەرىكەتچان ئارال\" پائالىيەتلىرىنى يوشۇرۇش. بۇنى TrollFools ياكى ئوخشاش تېخنىكىلار ئارقىلىق \"ئاۋاز خاتىرىسى\" پروگراممىسىغا قىستۇرۇشىڭىز كېرەك.";
 
 /* No comment provided by engineer. */
 "Hide When Landscape" = "توغرىسىغا ھالەتتە يوشۇرۇش";
@@ -1260,6 +1389,9 @@
 
 /* No comment provided by engineer. */
 "icloud" = "iCloud";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"icloud backup" = "icloud backup";
 
 /* TODO */
 "iCloud Drive" = "iCloud Drive";
@@ -1327,6 +1459,9 @@
 /* No comment provided by engineer. */
 "Incoming Call" = "كىرىش چاقىرىش ۋاقتىدا";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"incoming call" = "incoming call";
+
 /* No comment provided by engineer. */
 "Incoming Call Answered" = "كىرىش چاقىرىش جاۋاب بېرىلگەندە";
 
@@ -1375,6 +1510,9 @@
 /* No comment provided by engineer. */
 "Is Paused" = "توختىتىلغانمۇ";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"is recording" = "is recording";
+
 /* No comment provided by engineer. */
 "Is Running" = "خاتىرىلىنىۋاتامدۇ";
 
@@ -1418,7 +1556,7 @@
 "Launch App at End" = "ئاخىرىدا پروگراممىنى قوزغىتىش";
 
 /* No comment provided by engineer. */
-"Launch Shield" = "قوغدىغۇچى قوزغىتىش";
+"Launch Shield" = "قوغدىغۇچى قوزغىتىش";
 
 /* No comment provided by engineer. */
 "Leading & Trailing" = "سول ۋە ئوڭ گىرۋەك";
@@ -1449,6 +1587,9 @@
 
 /* No comment provided by engineer. */
 "Loading…" = "يۈكلەۋاتىدۇ…";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"local notification" = "local notification";
 
 /* No comment provided by engineer. */
 "Local Storage" = "يەرلىك ساقلىغۇچ";
@@ -1517,7 +1658,7 @@
 "Make a new voice memo, or stop an existing one." = "يېڭى ئاۋاز خاتىرىسى باشلاش ياكى مەۋجۇت بىرنى توختىتىش.";
 
 /* No comment provided by engineer. */
-"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "زاپاسلاش دائىرىسىدە ئۈن يازمىلارنىڭ يۈزەكى نۇسخىسىنى قۇرۇش ۋە iCloud زاپاسلاشتا بۇلارنى ئۆز ئىچىگە ئېلىشقا يول قويۇش.";
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "زاپاسلاش دائىرىسىدە ئۈن يازمىلارنىڭ يۈزەكى نۇسخىسىنى قۇرۇش ۋە iCloud زاپاسلاشتا بۇلارنى ئۆز ئىچىگە ئېلىشقا يول قويۇش.";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "مۇناسىۋەتلىك چاقىرىش ئۈن يازمىلىرىنى چاقىرىش خاتىرىسى بېتىدە كۆرسىتىش، قايتا قويۇش ئۈچۈن تىرول ئۈن خاتىرىلىگۈچكە ئاتلاش.";
@@ -1579,6 +1720,18 @@
 /* No comment provided by engineer. */
 "Microphone and speaker are recorded in different channels." = "مىكروفون ۋە ياڭراتقۇ ئوخشىمىغان قاناللاردا خاتىرىلىنىدۇ.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"microphone audio" = "microphone audio";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"microphone off" = "microphone off";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"microphone on" = "microphone on";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"microphone speech" = "microphone speech";
+
 /* No comment provided by engineer. */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
@@ -1627,6 +1780,12 @@
 /* No comment provided by engineer. */
 "Mute ${requestedChannel}" = "${requestedChannel} نى ئۈنسىز قىلىش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"mute call" = "mute call";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"mute call audio" = "mute call audio";
+
 /* No comment provided by engineer. */
 "Mute Existing Calls" = "مەۋجۇت چاقىرىشلارنى ئۈنسىز قىلىش";
 
@@ -1659,6 +1818,9 @@
 
 /* No comment provided by engineer. */
 "New Matching Pattern" = "يېڭى ماسلىشىش ئۆرنىكى";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"new recording" = "new recording";
 
 /* No comment provided by engineer. */
 "New Version Available" = "يېڭى نەشرى بار";
@@ -1768,6 +1930,9 @@
 /* No comment provided by engineer. */
 "Open Hoverball" = "لەيلىمە توپنى ئېچىش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"open hoverball" = "open hoverball";
+
 /* No comment provided by engineer. */
 "Open in Filza" = "Filza دا ئېچىش";
 
@@ -1852,6 +2017,9 @@
 /* No comment provided by engineer. */
 "Perform Full Synchronization" = "تولۇق قەدەمداشلاش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"perform synchronization" = "perform synchronization";
+
 /* No comment provided by engineer. */
 "Period" = "چېكىت";
 
@@ -1864,11 +2032,17 @@
 /* No comment provided by engineer. */
 "Phone Address" = "تېلېفون نومۇرى";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"phone answer" = "phone answer";
+
 /* No comment provided by engineer. */
 "Phone Call Exclusion List" = "چاقىرىق چەكلەش تىزىملىكى";
 
 /* No comment provided by engineer. */
 "phone call recording" = "تېلېفون چاقىرىق ئۈن-خاتىرىسى";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"phone call timer" = "phone call timer";
 
 /* No comment provided by engineer. */
 "Phone Call VIP" = "چاقىرىق VIP";
@@ -1879,8 +2053,14 @@
 /* No comment provided by engineer. */
 "Phone Number or Email Address" = "تېلېفون نومۇرى ياكى ئېلخەت ئادرېسى";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"phone status" = "phone status";
+
 /* No comment provided by engineer. */
 "Physical Key Combination" = "فىزىكىلىق كۇنۇپكا بىرىكمىسى";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"pick up call" = "pick up call";
 
 /* No comment provided by engineer. */
 "Placemark Name" = "ئورۇن بەلگىسى ئىسمى";
@@ -1893,6 +2073,9 @@
 
 /* No comment provided by engineer. */
 "Play ${audioFile}" = "${audioFile} نى قويۇش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"play audio file" = "play audio file";
 
 /* No comment provided by engineer. */
 "Play Recording Warning" = "ئۈن-خاتىرە ئاگاھلاندۇرۇشى قويۇش";
@@ -1907,10 +2090,22 @@
 "Play specified voice-over text to the microphone." = "Play specified voice-over text to the microphone.";
 
 /* TODO */
+"Play Through Receiver" = "Play Through Receiver";
+
+/* TODO */
+"Play Through Speaker" = "Play Through Speaker";
+
+/* TODO */
 "Play Uplink Audio" = "Play Uplink Audio";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"play uplink audio" = "play uplink audio";
 
 /* TODO */
 "Play Uplink Voice-Over" = "Play Uplink Voice-Over";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"play voice over" = "play voice over";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "قويۇش/توختىتىش";
@@ -1922,7 +2117,7 @@
 "Playback Rate: %@x" = "%@ ھەسسە سۈرئەت";
 
 /* No comment provided by engineer. */
-"Playback Speed" = "قويۇش سۈرئىتى";
+"Playback Route" = "Playback Route";
 
 /* No comment provided by engineer. */
 "Player Options" = "قويغۇچ تاللانمىسى";
@@ -1983,6 +2178,9 @@
 
 /* No comment provided by engineer. */
 "Port (Optional)" = "ئېغىز (ئىختىيارى)";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"post notification" = "post notification";
 
 /* No comment provided by engineer. */
 "Preparing" = "تەييارلىنىۋاتىدۇ";
@@ -2137,11 +2335,17 @@
 /* TODO */
 "Record Only When Connected" = "Record Only When Connected";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"record screen" = "record screen";
+
 /* TODO */
 "Record Unknown Calls" = "Record Unknown Calls";
 
 /* TODO */
 "Record with Location" = "Record with Location";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recorder hoverball" = "recorder hoverball";
 
 /* TODO */
 "Recording" = "Recording";
@@ -2152,17 +2356,47 @@
 /* TODO */
 "Recording (Localized)" = "Recording (Localized)";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording directory" = "recording directory";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording duration" = "recording duration";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording file" = "recording file";
+
 /* TODO */
 "Recording Interrupted" = "Recording Interrupted";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording off" = "recording off";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording on" = "recording on";
 
 /* TODO */
 "Recording Options" = "Recording Options";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording path" = "recording path";
+
 /* TODO */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Recording starts when both the audio inputs and outputs are continuously active.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording state" = "recording state";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording status" = "recording status";
+
 /* TODO */
 "Recording successfully started." = "Recording successfully started.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording switch" = "recording switch";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"recording timer" = "recording timer";
 
 /* TODO */
 "Recording Type" = "Recording Type";
@@ -2197,6 +2431,9 @@
 /* TODO */
 "Reject all incoming calls automatically." = "Reject all incoming calls automatically.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"reject call" = "reject call";
+
 /* No comment provided by engineer. */
 "Reject Incoming Calls" = "كىرىش چاقىرىقىنى رەت قىلىش";
 
@@ -2219,7 +2456,16 @@
 "Remove All Recordings Permanently" = "Remove All Recordings Permanently";
 
 /* TODO */
+"Remove Other Variants" = "Remove Other Variants";
+
+/* TODO */
 "Remove Outdated Recordings" = "Remove Outdated Recordings";
+
+/* TODO */
+"Remove Token" = "Remove Token";
+
+/* TODO */
+"Remove Tokens" = "Remove Tokens";
 
 /* No comment provided by engineer. */
 "Rename" = "قايتا ئىسىم قويۇش";
@@ -2249,13 +2495,16 @@
 "Restart Render Server" = "رېندېر مۇلازىمېتىرىنى قايتا قوزغىتىش";
 
 /* TODO */
-"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
 
 /* No comment provided by engineer. */
 "Restore" = "ئەسلىگە كەلتۈرۈش";
 
 /* No comment provided by engineer. */
 "Restore %d Items From Recycle Bin" = "ئەخلەتخانىدىن %d تۈرنى ئەسلىگە كەلتۈرۈش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"restore call audio" = "restore call audio";
 
 /* No comment provided by engineer. */
 "Restore Selected %ld Items" = "تاللانغان %ld تۈرنى ئەسلىگە كەلتۈرۈش";
@@ -2320,6 +2569,9 @@
 /* No comment provided by engineer. */
 "Save as Duplicate…" = "نۇسخىسىنى ساقلاش…";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"saved recording location" = "saved recording location";
+
 /* No comment provided by engineer. */
 "Say ${requestedText}" = "${requestedText} دېيىش";
 
@@ -2328,6 +2580,15 @@
 
 /* No comment provided by engineer. */
 "screen" = "ئېكران";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"screen capture" = "screen capture";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"screen capture stop" = "screen capture stop";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"screen recording off" = "screen recording off";
 
 /* TODO */
 "SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
@@ -2364,6 +2625,9 @@
 
 /* No comment provided by engineer. */
 "Search Shortcuts…" = "قىسقا يوللارنى ئىزدەش…";
+
+/* TODO */
+"Search Transcript…" = "Search Transcript…";
 
 /* TODO */
 "Searching for nearby devices" = "Searching for nearby devices";
@@ -2428,6 +2692,9 @@
 /* No comment provided by engineer. */
 "service" = "مۇلازىمەت";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"service active" = "service active";
+
 /* No comment provided by engineer. */
 "Service is alive" = "مۇلازىمەت نورمال ئىشلەۋاتىدۇ";
 
@@ -2473,6 +2740,9 @@
 /* No comment provided by engineer. */
 "Show Notification" = "ئۇقتۇرۇشنى كۆرسىتىش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"show notification" = "show notification";
+
 /* No comment provided by engineer. */
 "Show notification ${requestedMessage}" = "${requestedMessage} ئۇقتۇرۇشىنى كۆرسىتىش";
 
@@ -2506,6 +2776,9 @@
 /* TODO */
 "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"silence call" = "silence call";
+
 /* No comment provided by engineer. */
 "Silent Mode" = "ئۈنسىز ھالەت";
 
@@ -2514,6 +2787,9 @@
 
 /* No comment provided by engineer. */
 "Simulator" = "تەقلىدلىگۈچ";
+
+/* TODO */
+"Simulator (Sandbox)" = "Simulator (Sandbox)";
 
 /* No comment provided by engineer. */
 "Skip Silence" = "جىمجىتلىقنى ئاتلاش";
@@ -2548,17 +2824,29 @@
 /* No comment provided by engineer. */
 "speaker" = "ياڭراتقۇ";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"speaker off" = "speaker off";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"speaker on" = "speaker on";
+
 /* No comment provided by engineer. */
 "Specified range from %@ to %@ is invalid." = "%1$@ دىن %2$@ گىچە بەلگىلەنگەن دائىرە ئىناۋەتسىز.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"spoken audio" = "spoken audio";
 
 /* No comment provided by engineer. */
 "start" = "باشلاش";
 
 /* TODO */
-"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
+"Start a system screen recording just like what you do in the Control Center." = "Start a system screen recording just like what you do in the Control Center.";
 
 /* No comment provided by engineer. */
 "Start Call Recording" = "چاقىرىش ئۈنئالغۇسىنى باشلاش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"start daemon" = "start daemon";
 
 /* No comment provided by engineer. */
 "Start Date" = "باشلىنىش ۋاقتى";
@@ -2569,14 +2857,20 @@
 /* No comment provided by engineer. */
 "Start Recording" = "ئۈنئالغۇنى باشلاش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"start recording" = "start recording";
+
 /* No comment provided by engineer. */
 "Start Screen Recording" = "ئېكران ئۈنئالغۇسىنى باشلاش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"start screen recording" = "start screen recording";
 
 /* No comment provided by engineer. */
 "Start System Audio Recording" = "سىستېما ئاۋاز ئۈنئالغۇسىنى باشلاش";
 
 /* No comment provided by engineer. */
-"Start Voice Memo Recording" = "ئاۋاز خاتىرىسى ئۈنئالغۇسىنى باشلاش";
+"Start Voice Memo Recording" = "ئاۋاز خاتىرىسى ئۈنئالغۇسىنى باشلاش";
 
 /* TODO */
 "Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
@@ -2608,11 +2902,17 @@
 /* No comment provided by engineer. */
 "Stop Recording" = "ئۈنئالغۇنى توختىتىش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"stop recording" = "stop recording";
+
 /* No comment provided by engineer. */
 "Stop Recording When Disk Exhausted" = "دىسكا سىغىمى تولغاندا ئۈنئالغۇنى توختىتىش";
 
 /* No comment provided by engineer. */
 "Stop Screen Recording" = "ئېكران ئۈنئالغۇسىنى توختىتىش";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"stop screen recording" = "stop screen recording";
 
 /* No comment provided by engineer. */
 "Stop Service" = "مۇلازىمەتنى توختىتىش";
@@ -2660,7 +2960,7 @@
 "Synchronization Failed" = "ماسلاشتۇرۇش مەغلۇپ بولدى";
 
 /* TODO */
-"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
+"Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
 
 /* No comment provided by engineer. */
 "Synchronizing" = "ماسلاشتۇرۇۋاتىدۇ";
@@ -2710,6 +3010,9 @@
 /* No comment provided by engineer. */
 "Tap to view details" = "تەپسىلاتنى كۆرۈش ئۈچۈن چېكىڭ";
 
+/* TODO */
+"Technical Error Detected" = "Technical Error Detected";
+
 /* No comment provided by engineer. */
 "Temporarily Ignore" = "ۋاقىتلىق پەرۋا قىلماسلىق";
 
@@ -2722,6 +3025,9 @@
 /* No comment provided by engineer. */
 "Terminate all active calls immediately." = "بارلىق ئاكتىپ چاقىرىشلارنى دەرھال ئاخىرلاشتۇرۇش.";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"terminate call" = "terminate call";
+
 /* No comment provided by engineer. */
 "Terminate Calls" = "چاقىرىشلارنى ئاخىرلاشتۇرۇش";
 
@@ -2730,6 +3036,9 @@
 
 /* TODO */
 "Text Copied" = "Text Copied";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"text to speech" = "text to speech";
 
 /* No comment provided by engineer. */
 "text-to-speech" = "تېكىستنى ئاۋازغا ئايلاندۇرۇش";
@@ -2870,9 +3179,6 @@
 "This field accept phone number or an email address for matching contact." = "This field accept phone number or an email address for matching contact.";
 
 /* No comment provided by engineer. */
-"This is a sandbox build, the daemon is not available." = "ئارقا سۇپا مۇلازىمىتى ئىشلىتىلىشكە تەييار ئەمەس";
-
-/* No comment provided by engineer. */
 "This is a widget daemon for Troll Recorder." = "بۇ تىرول ئۈنئالغۇنىڭ كىچىك پروگرامما ئارقا سۇپىسى.";
 
 /* TODO */
@@ -2911,6 +3217,9 @@
 /* No comment provided by engineer. */
 "Time Sensitive" = "ۋاقىت سەزگۈرلۈكى";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"time sensitive notification" = "time sensitive notification";
+
 /* No comment provided by engineer. */
 "Title" = "ماۋزۇ";
 
@@ -2918,7 +3227,7 @@
 "To %@" = "%@ غىچە";
 
 /* TODO */
-"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later.";
 
 /* TODO */
 "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”.";
@@ -2956,23 +3265,32 @@
 /* TODO */
 "Toggle Hoverball" = "Toggle Hoverball";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"toggle hoverball" = "toggle hoverball";
+
 /* TODO */
 "Toggle ON/OFF the recorder hoverball." = "Toggle ON/OFF the recorder hoverball.";
 
 /* TODO */
 "Toggle Recording" = "Toggle Recording";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"toggle recording" = "toggle recording";
+
 /* TODO */
 "Toggle Screen Recording" = "Toggle Screen Recording";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"toggle screen recording" = "toggle screen recording";
 
 /* TODO */
 "Toggle System Audio Recording" = "Toggle System Audio Recording";
 
 /* TODO */
-"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
+"Toggle system screen recording just like what you do in the Control Center." = "Toggle system screen recording just like what you do in the Control Center.";
 
 /* TODO */
-"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
+"Toggle Voice Memo Recording" = "Toggle Voice Memo Recording";
 
 /* TODO */
 "Token expired. Please re-authorize to continue." = "Token expired. Please re-authorize to continue.";
@@ -3011,7 +3329,7 @@
 "Transition When Idle" = "بىكار ۋاقىتتىكى ئۆزگىرىش";
 
 /* To translators: Replace @AUTHOR_NAME with your name. */
-"Translated by @AUTHOR_NAME" = "@AUTHOR_NAME تەرجىمە قىلدى";
+"Translated by @AUTHOR_NAME" = "DeepSeek v4 تەرجىمە قىلدى";
 
 /* No comment provided by engineer. */
 "Trim" = "كېسىش";
@@ -3024,6 +3342,9 @@
 
 /* No comment provided by engineer. */
 "tts" = "TTS";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"tts playback" = "tts playback";
 
 /* TODO */
 "Turn this option off to make the other options on this page take effect for the current application." = "Turn this option off to make the other options on this page take effect for the current application.";
@@ -3133,6 +3454,9 @@
 /* No comment provided by engineer. */
 "Unmute ${requestedChannel}" = "${requestedChannel} نىڭ ئۈنسىزلىكىنى بىكار قىلىش";
 
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"unmute call" = "unmute call";
+
 /* No comment provided by engineer. */
 "Unmute Existing Calls" = "مەۋجۇت چاقىرىشنىڭ ئۈنسىزلىكىنى بىكار قىلىش";
 
@@ -3165,6 +3489,12 @@
 
 /* No comment provided by engineer. */
 "Uplink (Microphone)" = "يۇقىرىغا ئۇلىنىش (مىكروفون)";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"uplink playback" = "uplink playback";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"uplink voice" = "uplink voice";
 
 /* No comment provided by engineer. */
 "Upload" = "يۈكلەش";
@@ -3284,7 +3614,7 @@
 "View Logs: System Audio" = "سىستېما ئاۋاز ئۈنئالغۇ";
 
 /* No comment provided by engineer. */
-"View Logs: Voice Memo" = "ئاۋاز خاتىرىسى";
+"View Logs: Voice Memo" = "ئاۋاز خاتىرىسى";
 
 /* No comment provided by engineer. */
 "View My Account" = "ھېساباتىمنى كۆرۈش";
@@ -3296,22 +3626,22 @@
 "VIP contacts will always be recorded and added to the favourites." = "VIP ئالاقىداشلار ھەمىشە ئۈنگە ئېلىنىپ ساقلانغانلارغا قوشۇلىدۇ.";
 
 /* No comment provided by engineer. */
-"Voice Memo" = "ئاۋاز خاتىرىسى";
-
-/* No comment provided by engineer. */
-"Voice Memo Recording" = "ئاۋاز خاتىرىسى ئۈنئالغۇ";
-
-/* No comment provided by engineer. */
 "voice memo recording" = "ئاۋاز خاتىرىسى";
-
-/* No comment provided by engineer. */
-"Voice Memos" = "ئاۋاز خاتىرىلىرى";
 
 /* No comment provided by engineer. */
 "voice-over" = "Voice-Over";
 
 /* No comment provided by engineer. */
 "Voice-Over Voice" = "Voice-Over ئاۋازى";
+
+/* No comment provided by engineer. */
+"Voice Memo" = "ئاۋاز خاتىرىسى";
+
+/* No comment provided by engineer. */
+"Voice Memo Recording" = "ئاۋاز خاتىرىسى ئۈنئالغۇ";
+
+/* No comment provided by engineer. */
+"Voice Memos" = "ئاۋاز خاتىرىلىرى";
 
 /* No comment provided by engineer. */
 "VoIP" = "VoIP";
@@ -3327,6 +3657,9 @@
 
 /* TODO */
 "Wait for any calls to be answered and connected." = "Wait for any calls to be answered and connected.";
+
+/* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
+"wait for call" = "wait for call";
 
 /* No comment provided by engineer. */
 "Wait for Calls" = "چاقىرىشنى كۈتۈش";
@@ -3463,6 +3796,9 @@
 /* TODO */
 "You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
 
+/* TODO */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "You are already using the latest version of “TrollRecorder” %1$@ (%2$@).";
+
 /* No comment provided by engineer. */
 "You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "«تەڭشەكلەر» → «قوشۇمچە ئىقتىدارلار» → «ئاۋازلىق ئوقۇش» → «نۇتۇق» → «ئاۋاز» تىن ئاۋاز بوغچىسىنى چۈشۈرۈپ، ئاندىن بۇ يەردە بىرنى تاللاپ ئاۋازلىق ئېلان ئۈچۈن ئىشلىتەلەيسىز.";
 
@@ -3518,7 +3854,7 @@
 "“iCloud Drive” Not Logged In" = "“iCloud Drive” Not Logged In";
 
 /* TODO */
-"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
 
 /* TODO */
 "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";

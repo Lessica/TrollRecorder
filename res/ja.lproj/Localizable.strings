@@ -1,0 +1,3869 @@
+/* No comment provided by engineer. */
+"%@ Hz" = "%@ Hz";
+
+/* Translated with LLM */
+"%@ is locked." = "%@はロックされています。";
+
+/* Translated with LLM */
+"%@ is not available." = "%@は使用できません。";
+
+/* Translated with LLM */
+"%@ is not implemented yet." = "%@ はまだ実装されていません。";
+
+/* Translated with LLM */
+"%@ is not set up." = "%@は設定されていません。";
+
+/* Translated with LLM */
+"%@ may not be configured" = "%@は設定されていない可能性があります。";
+
+/* Translated with LLM */
+"%@ Reason: %@" = "%1$@ 理由：%2$@";
+
+/* Translated with LLM */
+"%@ rows not loaded" = "%@ 行が読み込まれていません";
+
+/* Translated with LLM */
+"%d Exclusive Features" = "%d個の専用機能";
+
+/* Translated with LLM */
+"%ld Recording" = "%ld 件の録音";
+
+/* Translated with LLM */
+"%ld Recording ◇ %@" = "%ld 件の録音 ◇ %@";
+
+/* Translated with LLM */
+"%ld Recordings" = "%ld 件の録音";
+
+/* Translated with LLM */
+"%ld Recordings ◇ %@" = "%ld 件の録音 ◇ %@";
+
+/* Translated with LLM */
+"(%lu bytes)" = "(%lu バイト)";
+
+/* Translated with LLM */
+"(%lu items)" = "(%lu 項目)";
+
+/* No comment provided by engineer. */
+"(null)" = "(null)";
+
+/* No comment provided by engineer. */
+"--arg=value" = "--arg=value";
+
+/* Translated with LLM */
+"3 Seconds" = "3秒";
+
+/* Translated with LLM */
+"30 Days Ago" = "30日前";
+
+/* Translated with LLM */
+"4 Seconds" = "4秒";
+
+/* Translated with LLM */
+"45 Days Ago" = "45日前";
+
+/* Translated with LLM */
+"5 Seconds" = "5秒";
+
+/* Translated with LLM */
+"6 Seconds" = "6秒";
+
+/* Translated with LLM */
+"90 Days Ago" = "90日前";
+
+/* No comment provided by engineer. */
+"<%@: %p>" = "<%@: %p>";
+
+/* Translated with LLM */
+"A new version (%@) of “TrollRecorder” is available." = "TrollRecorderの新しいバージョン（%@）が利用可能です。";
+
+/* Translated with LLM */
+"A respring is required to completely apply the changes." = "変更を完全に適用するにはリスプリングが必要です。";
+
+/* Translated with LLM */
+"A widget is required for the “Launch Shield” feature." = "「Launch Shield」機能にはウィジェットが必要です。";
+
+/* Translated with LLM */
+"accept" = "応答";
+
+/* Translated with LLM */
+"Accept all incoming calls automatically." = "すべての着信を自動的に受け入れる。";
+
+/* Translated with LLM */
+"accept call" = "電話を受ける";
+
+/* Translated with LLM */
+"Accept Incoming Calls" = "着信を受ける";
+
+/* Translated with LLM */
+"Access From Web Browser" = "ウェブブラウザからのアクセス";
+
+/* Translated with LLM */
+"Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "ネットワーク内の別のデバイスからWebDAVブラウザで録音にアクセスできます。サーバーはアプリケーションがフォアグラウンドの時のみアクティブになります。";
+
+/* Translated with LLM */
+"activate" = "アクティベート";
+
+/* Translated with LLM */
+"activate hoverball" = "ホバーボールを起動";
+
+/* Translated with LLM */
+"Activate the recorder hoverball." = "レコーダーのホバーボールを起動します。";
+
+/* Translated with LLM */
+"Add" = "追加";
+
+/* Translated with LLM */
+"Add Argument" = "引数を追加";
+
+/* Translated with LLM */
+"Add Now" = "今すぐ追加";
+
+/* Translated with LLM */
+"Add Required Widget" = "必須ウィジェットを追加";
+
+/* Translated with LLM */
+"Add Token" = "トークンを追加";
+
+/* Translated with LLM */
+"Add Tokens" = "トークンを追加";
+
+/* Translated with LLM */
+"Additional command-line options for the Rclone synchronization tool." = "Rclone同期ツールの追加コマンドラインオプション。";
+
+/* Translated with LLM */
+"Additional Contact" = "追加連絡先";
+
+/* Translated with LLM */
+"Adequate" = "最低限";
+
+/* No comment provided by engineer. */
+"Advanced Audio Coding" = "Advanced Audio Coding";
+
+/* Translated with LLM */
+"Advanced Options" = "高度なオプション";
+
+/* Translated with LLM */
+"Advanced Search" = "高度な検索";
+
+/* Translated with LLM */
+"After %@" = "%@ 以降";
+
+/* Translated with LLM */
+"Agree" = "同意する";
+
+/* Translated with LLM */
+"Alias" = "別名";
+
+/* Translated with LLM */
+"alive" = "アクティブ";
+
+/* Translated with LLM */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "「除外リスト」の連絡先を除き、すべての通話が自動的に録音されます。VIP連絡先もお気に入りに追加されます。";
+
+/* Translated with LLM */
+"All Edges" = "すべてのエッジ";
+
+/* Translated with LLM */
+"All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "すべてのログは7日間保存されます。古いログは自動的に削除されます。";
+
+/* Translated with LLM */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "%@からのすべての録音がこのデバイスで利用可能になりました。準備ができたら、この画面を閉じてください。";
+
+/* Translated with LLM */
+"Allow Access to Call History" = "通話履歴へのアクセスを許可";
+
+/* Translated with LLM */
+"Allow Automatic Recording" = "自動録音を許可";
+
+/* Translated with LLM */
+"Allow Hoverball Wake-Ups" = "ホバーボールのウェイクアップを許可";
+
+/* Translated with LLM */
+"Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "WeChatの連絡先リストとVoIP通話履歴を読み取り、録音の連絡先名を自動入力できるようにします。対応しているのは最近のWeChatバージョンのみです。";
+
+/* Translated with LLM */
+"Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "iCloudアカウントにサインインしているデバイスが近くにあり、無線LANに接続している場合に、そのデバイスで受信した電話を録音できるようにします。";
+
+/* Translated with LLM */
+"Always" = "常に";
+
+/* Translated with LLM */
+"Always Dark" = "常にダーク";
+
+/* Translated with LLM */
+"Always Dynamic" = "常にダイナミック";
+
+/* Translated with LLM */
+"Always Fold" = "常に折りたたむ";
+
+/* Translated with LLM */
+"Always keep the hoverball window visible." = "ホバーボールのウインドウを常に表示する。";
+
+/* Translated with LLM */
+"Always Keep-Alive in Background" = "バックグラウンドで常にキープアライブ";
+
+/* Translated with LLM */
+"Always Light" = "常にライト";
+
+/* Translated with LLM */
+"Always On" = "常にオン";
+
+/* Translated with LLM */
+"Always schedule background processing tasks to run at the next available opportunity." = "バックグラウンド処理タスクは、常に次の利用可能な機会に実行されるようにスケジュールします。";
+
+/* Translated with LLM */
+"AM/PM String" = "AM/PM文字列";
+
+/* Translated with LLM */
+"An unknown error occurred." = "不明なエラーが発生しました。";
+
+/* Translated with LLM */
+"Analysing Audio" = "オーディオを分析中";
+
+/* Translated with LLM */
+"Another %@ is required to continue editing. Available capacity is %@." = "編集を続けるには、さらに %1$@ が必要です。使用可能な容量は %2$@ です。";
+
+/* Translated with LLM */
+"answer" = "応答";
+
+/* Translated with LLM */
+"answer call" = "着信応答";
+
+/* Translated with LLM */
+"answer incoming call" = "着信に応答";
+
+/* Translated with LLM */
+"answered" = "応答済み";
+
+/* Translated with LLM */
+"answered call" = "応答済み通話";
+
+/* Translated with LLM */
+"Any" = "すべて";
+
+/* Translated with LLM */
+"App Icon" = "アプリアイコン";
+
+/* Translated with LLM */
+"App Language" = "アプリの言語";
+
+/* Translated with LLM */
+"Appearance" = "外観";
+
+/* Translated with LLM */
+"Apple’s Core Audio" = "Apple Core Audio";
+
+/* Translated with LLM */
+"Application" = "アプリケーション";
+
+/* Translated with LLM */
+"Application Overrides" = "アプリケーションのオーバーライド";
+
+/* Translated with LLM */
+"Applications" = "アプリケーション";
+
+/* Translated with LLM */
+"App Store" = "App Store";
+
+/* Translated with LLM */
+"archive" = "アーカイブ";
+
+/* Translated with LLM */
+"Archive" = "アーカイブ";
+
+/* Translated with LLM */
+"Archive Regeneration" = "アーカイブ再生成";
+
+/* Translated with LLM */
+"Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "アーカイブ：「コンテンツ共有」→「カスタムエクスポート名」を使用して、ローカルのミックスおよび結合プライマリー録音の名前を変更し、クラウドドライブにアップロードします。復元不可。";
+
+/* Translated with LLM */
+"Are you sure you want to discard the changes you made?" = "行った変更を破棄してもよろしいですか？";
+
+/* Translated with LLM */
+"Are you sure you want to remove all shortcut definitions?" = "本当にすべてのショートカット定義を削除しますか？";
+
+/* Translated with LLM */
+"Arguments added on this page will be passed through to the rclone command line exactly as entered." = "このページで追加された引数は、入力されたとおりにrcloneコマンドラインに渡されます。";
+
+/* Translated with LLM */
+"Associate with Call History" = "通話履歴と関連付ける";
+
+/* Translated with LLM */
+"At the end of recording, the audio files of each channel during recording are retained." = "録音終了時、録音中の各チャンネルのオーディオファイルが保持されます。";
+
+/* Translated with LLM */
+"Attachable Edges" = "取り付け可能なエッジ";
+
+/* Translated with LLM */
+"audio" = "オーディオ";
+
+/* Translated with LLM */
+"Audio CD" = "オーディオCD";
+
+/* Translated with LLM */
+"Audio File" = "音声ファイル";
+
+/* Translated with LLM */
+"Audio played to %@" = "%@に再生されたオーディオ";
+
+/* Translated with LLM */
+"Audio progress" = "オーディオの進行状況";
+
+/* Translated with LLM */
+"Authenticate with %@" = "%@で認証";
+
+/* Translated with LLM */
+"Authorization error: %@" = "認証エラー: %@";
+
+/* Translated with LLM */
+"Authorization flow was manually canceled by user." = "認証フローがユーザーによって手動でキャンセルされました。";
+
+/* Translated with LLM */
+"Authorize with Dropbox" = "Dropboxで認証";
+
+/* Translated with LLM */
+"Authorize with Google" = "Googleで認証";
+
+/* Translated with LLM */
+"Authorize with Microsoft" = "Microsoft で認証";
+
+/* Translated with LLM */
+"Automatic" = "自動";
+
+/* Translated with LLM */
+"Automatic Recording" = "自動録音";
+
+/* Translated with LLM */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "自動録音は無効です。どのような状況でも通話は自動的に録音されません。";
+
+/* Translated with LLM */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "ミックス＆コンバインされたプライマリーレコーディングのクローンを毎月自動的に作成し、iCloud Driveに保存します。当月の録音はアーカイブされません。";
+
+/* Translated with LLM */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "デバイスの再起動とロック解除時に、バックグラウンドサービスを自動的に起動し、維持します。この機能を有効にするには、ロック画面またはホーム画面のどこかに「TrollRecorder」ウィジェットを追加する必要があります。";
+
+/* Translated with LLM */
+"Automatically merge microphone and speaker into a single file after record complete." = "録音完了後、マイクとスピーカーを自動的に1つのファイルに統合します。";
+
+/* Translated with LLM */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "縦向きでキーボードを避けるようにホバーボールを自動的に移動します。";
+
+/* Translated with LLM */
+"Automatically purge recycle bin and remove failure caches." = "自動的にゴミ箱を空にし、録音失敗時のキャッシュを削除します。";
+
+/* Translated with LLM */
+"Automatically query the latest version from GitHub when the application starts." = "アプリケーション起動時に、GitHubから最新バージョンを自動的に確認します。";
+
+/* Translated with LLM */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "すべてのFaceTime通話を自動録音：「除外リスト」内の連絡先を除く。";
+
+/* Translated with LLM */
+"Automatically record FaceTime calls from contacts not in your address book." = "アドレス帳に登録されていない連絡先からのFaceTime通話を自動的に録音します。";
+
+/* Translated with LLM */
+"Automatically record phone calls from contacts not in your address book." = "アドレス帳に登録されていない連絡先からの電話を自動的に録音します。";
+
+/* Translated with LLM */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "電話を自動録音：「除外リスト」内の連絡先を除く。";
+
+/* Translated with LLM */
+"Automatically remove recordings created earlier than specified date except those marked ones." = "指定された日付より前に作成された録音を、マークされたものを除いて自動的に削除します。";
+
+/* Translated with LLM */
+"Automatically stop recording when available disk space is extremely low." = "使用可能なディスク容量が極端に少なくなった場合、自動的に録音を停止します。";
+
+/* Translated with LLM */
+"Automatically Suspend in Background" = "バックグラウンドで自動的に一時停止";
+
+/* Translated with LLM */
+"Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "ロック解除時に自動的にデスクトップにスワイプします。ロックから10秒以内に解除された場合、この動作は有効になりません。";
+
+/* Translated with LLM */
+"Automation" = "オートメーション";
+
+/* Translated with LLM */
+"Avoid screen being locked automatically when WebDAV server is used by any client." = "WebDAVサーバーがクライアントによって使用されている間、画面が自動的にロックされるのを防ぎます。";
+
+/* Translated with LLM */
+"Background Style" = "背景スタイル";
+
+/* Translated with LLM */
+"backup" = "バックアップ";
+
+/* Translated with LLM */
+"Backup Synchronized" = "バックアップ同期完了";
+
+/* Translated with LLM */
+"Backup With iCloud" = "iCloudでバックアップ";
+
+/* Translated with LLM */
+"Batch Export" = "一括エクスポート";
+
+/* Translated with LLM */
+"BatchExport_%@.zip" = "バッチエクスポート_%@.zip";
+
+/* Translated with LLM */
+"Before %@" = "%@ の前";
+
+/* Translated with LLM */
+"Before starting a call recording, a prompt voice is played to the opposite end." = "通話録音を開始する前に、相手側にプロンプト音声が再生されます。";
+
+/* Translated with LLM */
+"begin recording" = "録音開始";
+
+/* Translated with LLM */
+"begin screen recording" = "画面収録を開始";
+
+/* Translated with LLM */
+"Beta" = "ベータ";
+
+/* Translated with LLM */
+"Bi-sync" = "双方向同期";
+
+/* Translated with LLM */
+"Bi-sync: Perform bidirectional synchronization between two paths." = "双方向同期：2つのパス間で双方向同期を実行します。";
+
+/* Translated with LLM */
+"Biometric Authentication" = "生体認証";
+
+/* Translated with LLM */
+"block incoming call" = "着信拒否";
+
+/* Translated with LLM */
+"Bonjour server started at: %@" = "Bonjour サーバーが起動しました: %@";
+
+/* Translated with LLM */
+"Boost Periodic Tasks" = "定期タスクのブースト";
+
+/* Translated with LLM */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap（TrollStore互換モード）";
+
+/* Translated with LLM */
+"Both (Microphone & Speaker)" = "両方（マイクとスピーカー）";
+
+/* Translated with LLM */
+"bottom edge" = "下端";
+
+/* Translated with LLM */
+"Build and use a custom export name template for exported audio files." = "エクスポートされたオーディオファイルのカスタムエクスポート名テンプレートを作成して使用します。";
+
+/* Translated with LLM */
+"Bundle Display Name" = "バンドル表示名";
+
+/* Translated with LLM */
+"Bundle Identifier" = "バンドル識別子";
+
+/* Translated with LLM */
+"Bundle Name" = "バンドル名";
+
+/* Translated with LLM */
+"Buy TrollRecorder Pro" = "TrollRecorder Proを購入";
+
+/* Translated with LLM */
+"Calculating…" = "計算中…";
+
+/* Translated with LLM */
+"Call" = "通話";
+
+/* Translated with LLM */
+"call" = "通話";
+
+/* Translated with LLM */
+"call audio on" = "通話オーディオオン";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "通話オーディオパイプラインの監視に失敗しました。デーモンを直ちに再起動すると、この例外が解決する可能性があります。続行しますか？";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "通話音声パイプラインの監視に失敗しました。この通知をタップして録音サービスを再起動してください。";
+
+/* Translated with LLM */
+"call connected" = "通話接続";
+
+/* Translated with LLM */
+"Call Direction" = "通話方向";
+
+/* Translated with LLM */
+"call duration" = "通話時間";
+
+/* Translated with LLM */
+"Call Identifier" = "通話識別子";
+
+/* Translated with LLM */
+"call information" = "通話情報";
+
+/* Translated with LLM */
+"Call Recording" = "通話録音";
+
+/* Translated with LLM */
+"Call Recording Begins" = "通話録音開始";
+
+/* Translated with LLM */
+"Call Recording Ends" = "通話録音終了";
+
+/* Translated with LLM */
+"Call recording from “%@” and other %ld applications." = "「%@」およびその他 %ld 個のアプリケーションからの通話録音";
+
+/* Translated with LLM */
+"Call recording from “%@”." = "“%@”からの通話録音。";
+
+/* Translated with LLM */
+"Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "通話録音は、発信通話が応答されたとき、または着信通話が応答されたときにのみ開始されます。";
+
+/* Translated with LLM */
+"Call State" = "通話状態";
+
+/* Translated with LLM */
+"call status" = "通話ステータス";
+
+/* Translated with LLM */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "通話を録音できるのは、このデバイスのマイクを使用している場合のみです。このデバイスからの通話を他のデバイスで応答した場合、録音されません。";
+
+/* Translated with LLM */
+"Camcorder" = "ビデオカメラ";
+
+/* Translated with LLM */
+"Cancel" = "キャンセル";
+
+/* Translated with LLM */
+"Cannot parse text with UTF-8 encoding: “%@”." = "UTF-8 エンコーディングのテキストを解析できません：「%@」。";
+
+/* Translated with LLM */
+"Caution" = "注意";
+
+/* Translated with LLM */
+"check" = "チェック";
+
+/* Translated with LLM */
+"Check if the daemon is running. If not, launch it." = "デーモンが実行中か確認します。実行されていない場合は起動します。";
+
+/* Translated with LLM */
+"check service" = "サービスを確認";
+
+/* Translated with LLM */
+"Check Updates" = "アップデートを確認";
+
+/* Translated with LLM */
+"Check Updates at Launch" = "起動時にアップデートを確認";
+
+/* Translated with LLM */
+"Checking service status" = "サービス状況を確認中";
+
+/* Translated with LLM */
+"Child Pages" = "子ページ";
+
+/* Translated with LLM */
+"Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "ミキサーの出力オーディオフォーマットを選択してください。Wave Audioフォーマットは高度なエンコーディングをサポートしていません。";
+
+/* Translated with LLM */
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "ミキサーの出力オーディオ品質を選択してください。品質が高いほどサンプルレートとビットレートが高くなり、ファイルサイズが大きくなります。";
+
+/* Translated with LLM */
+"Choose the output file format for the mixer." = "ミキサーの出力ファイル形式を選択してください。";
+
+/* Translated with LLM */
+"Choose the size preset of the hoverball." = "ホバーボールのサイズプリセットを選択してください。";
+
+/* Translated with LLM */
+"Clean Caches Automatically" = "キャッシュを自動的にクリーンアップ";
+
+/* Translated with LLM */
+"Clear" = "クリア";
+
+/* Translated with LLM */
+"Clear Selection" = "選択をクリア";
+
+/* Translated with LLM */
+"Clear Tokens" = "トークンをクリア";
+
+/* Translated with LLM */
+"Clear Wave Caches" = "波形キャッシュをクリア";
+
+/* Translated with LLM */
+"Close" = "閉じる";
+
+/* Translated with LLM */
+"close hoverball" = "ホバーボールを閉じる";
+
+/* Translated with LLM */
+"cloud archive sync" = "クラウドアーカイブ同期";
+
+/* Translated with LLM */
+"Collapse Recursively" = "再帰的に折りたたむ";
+
+/* Translated with LLM */
+"Collecting" = "収集中";
+
+/* Translated with LLM */
+"Combined" = "複合";
+
+/* Translated with LLM */
+"Combined Mode" = "複合モード";
+
+/* Translated with LLM */
+"Compiled at %@" = "%@ にコンパイル";
+
+/* Translated with LLM */
+"Compressing" = "圧縮中";
+
+/* Translated with LLM */
+"Configure the embedded client with your WebDAV server address, username and password." = "組み込みクライアントをWebDAVサーバーのアドレス、ユーザー名、パスワードで設定します。";
+
+/* Translated with LLM */
+"Configure WebDAV Client" = "WebDAVクライアントの設定";
+
+/* Translated with LLM */
+"Confirm" = "確認";
+
+/* Translated with LLM */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Havocアカウントを確認してください。これが唯一の購入証明となります。アカウントを忘れたことによる認証の喪失については、お客様が責任を負うものとします。購入時は、ギフトアイコンをクリックせず、ページ上の金額をクリックして支払いを完了してください。";
+
+/* Translated with LLM */
+"Connect to a Wi‑Fi network before transferring recordings." = "録音を転送する前にWi‑Fiネットワークに接続してください。";
+
+/* Translated with LLM */
+"connected" = "接続済み";
+
+/* Translated with LLM */
+"connected call" = "接続済み通話";
+
+/* Translated with LLM */
+"Connected Clients: %d" = "接続クライアント: %d";
+
+/* Translated with LLM */
+"Connection" = "接続";
+
+/* Translated with LLM */
+"Constants" = "定数";
+
+/* Translated with LLM */
+"Contact Exceptions" = "連絡先の例外";
+
+/* Translated with LLM */
+"Contact Name" = "連絡先名";
+
+/* Translated with LLM */
+"Contact Phone Address" = "連絡先の電話番号";
+
+/* Translated with LLM */
+"Contact Us" = "お問い合わせ";
+
+/* Translated with LLM */
+"Contact via Discord" = "Discordで連絡";
+
+/* Translated with LLM */
+"Contact via Email" = "メールで連絡";
+
+/* Translated with LLM */
+"Contact via QQ" = "QQで連絡";
+
+/* Translated with LLM */
+"Contact via TikTok" = "TikTokで連絡";
+
+/* Translated with LLM */
+"Contacts" = "連絡先";
+
+/* Translated with LLM */
+"Contacts in this list will not be recorded in any situation." = "このリストの連絡先は、いかなる状況でも録音されません。";
+
+/* Translated with LLM */
+"Contacts Permission Denied" = "連絡先へのアクセス許可が拒否されました";
+
+/* Translated with LLM */
+"Content" = "内容";
+
+/* Translated with LLM */
+"Content Sharing" = "コンテンツ共有";
+
+/* Translated with LLM */
+"Continue" = "続ける";
+
+/* Translated with LLM */
+"Continuous Playback Off" = "連続再生オフ";
+
+/* Translated with LLM */
+"Continuous Playback On" = "連続再生オン";
+
+/* Translated with LLM */
+"Conversion Failed" = "変換に失敗しました";
+
+/* Translated with LLM */
+"Conversion Succeed" = "変換成功";
+
+/* Translated with LLM */
+"Convert latitude and longitude to human-readable address." = "緯度と経度を人間が読める住所に変換します。";
+
+/* Translated with LLM */
+"Convert Now" = "今すぐ変換";
+
+/* Translated with LLM */
+"Converting" = "変換中";
+
+/* Translated with LLM */
+"Copied" = "コピーしました";
+
+/* Translated with LLM */
+"Copy" = "コピー";
+
+/* Translated with LLM */
+"Copy Key" = "キーをコピー";
+
+/* Translated with LLM */
+"Copy or reset the current WebDAV password." = "現在のWebDAVパスワードをコピーまたはリセットします。";
+
+/* Translated with LLM */
+"Copy Password" = "パスワードをコピー";
+
+/* Translated with LLM */
+"Copy Path" = "パスをコピー";
+
+/* Translated with LLM */
+"Copy Transcript" = "トランスクリプトをコピー";
+
+/* Translated with LLM */
+"Copy Value" = "値をコピー";
+
+/* Translated with LLM */
+"Could not acquire token: %@" = "トークンを取得できませんでした: %@";
+
+/* Translated with LLM */
+"Could not acquire token: No result returned." = "トークンを取得できませんでした：結果が返されませんでした。";
+
+/* Translated with LLM */
+"Could not get graph result: %@" = "グラフの結果を取得できませんでした: %@";
+
+/* Translated with LLM */
+"Could not sign out account: %@" = "アカウントからサインアウトできませんでした：%@";
+
+/* Translated with LLM */
+"Created At" = "作成日時";
+
+/* Translated with LLM */
+"Credentials" = "認証情報";
+
+/* Translated with LLM */
+"current call" = "現在の通話";
+
+/* Translated with LLM */
+"current call duration" = "現在の通話時間";
+
+/* Translated with LLM */
+"Custom CLI Options" = "カスタムCLIオプション";
+
+/* Translated with LLM */
+"Custom Export Name" = "カスタムエクスポート名";
+
+/* Translated with LLM */
+"Custom Key Combination…" = "カスタムキーの組み合わせ…";
+
+/* Translated with LLM */
+"Custom Layout Guide" = "カスタムレイアウトガイド";
+
+/* Translated with LLM */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "ホバーボールを画面上に配置するのに役立つ長方形の領域をカスタマイズします。";
+
+/* Translated with LLM */
+"daemon" = "デーモン";
+
+/* Translated with LLM */
+"daemon running" = "デーモン実行中";
+
+/* Translated with LLM */
+"daemon service" = "デーモンサービス";
+
+/* Translated with LLM */
+"Daily Arranged" = "日別整理";
+
+/* Translated with LLM */
+"Date & Time" = "日時";
+
+/* Translated with LLM */
+"Day of Month Number" = "月の日番号";
+
+/* Translated with LLM */
+"Day of Week String" = "曜日文字列";
+
+/* Translated with LLM */
+"deactivate" = "非アクティブ化";
+
+/* Translated with LLM */
+"Deactivate" = "非アクティブ化";
+
+/* Translated with LLM */
+"Deactivate & Sign Out" = "無効化してサインアウト";
+
+/* Translated with LLM */
+"deactivate hoverball" = "ホバーボールを無効化";
+
+/* Translated with LLM */
+"Deactivate the recorder hoverball." = "レコーダーのホバーボールを解除します。";
+
+/* Translated with LLM */
+"Debugging" = "デバッグ";
+
+/* Translated with LLM */
+"decline" = "拒否";
+
+/* Translated with LLM */
+"decline call" = "着信拒否";
+
+/* Translated with LLM */
+"Decoding" = "デコード中";
+
+/* Translated with LLM */
+"Default" = "デフォルト";
+
+/* Translated with LLM */
+"Delete" = "削除";
+
+/* Translated with LLM */
+"Delete Recording" = "録音を削除";
+
+/* Translated with LLM */
+"Delete Selected %ld Items" = "選択した %ld 個の項目を削除";
+
+/* Translated with LLM */
+"Delete Selected Item" = "選択した項目を削除";
+
+/* Translated with LLM */
+"Deleting" = "削除中";
+
+/* Translated with LLM */
+"Deselect All" = "すべて選択解除";
+
+/* Translated with LLM */
+"Detail Only" = "詳細のみ";
+
+/* Translated with LLM */
+"Developer Options" = "開発者オプション";
+
+/* Translated with LLM */
+"Digital Video" = "デジタルビデオ";
+
+/* Translated with LLM */
+"Direction" = "方向";
+
+/* Translated with LLM */
+"Direction Capitalized" = "方向（大文字）";
+
+/* Translated with LLM */
+"Direction Description" = "通話方向（説明）";
+
+/* Translated with LLM */
+"directory" = "ディレクトリ";
+
+/* Translated with LLM */
+"Directory" = "ディレクトリ";
+
+/* Translated with LLM */
+"Directory not found." = "ディレクトリが見つかりません。";
+
+/* Translated with LLM */
+"Disabled" = "無効";
+
+/* Translated with LLM */
+"Disallow" = "許可しない";
+
+/* Translated with LLM */
+"Disallow Automatic Recording" = "自動録音を禁止";
+
+/* Translated with LLM */
+"Disallow Hoverball Wake-Ups" = "ホバーボールのウェイクアップを禁止";
+
+/* Translated with LLM */
+"Discard" = "破棄";
+
+/* Translated with LLM */
+"discard" = "破棄";
+
+/* Translated with LLM */
+"Discard Changes" = "変更を破棄";
+
+/* Translated with LLM */
+"Discard Recording" = "録音を破棄";
+
+/* Translated with LLM */
+"discard recording" = "録音を破棄";
+
+/* Translated with LLM */
+"Discreet Mode" = "控えめモード";
+
+/* Translated with LLM */
+"Discreet Voice Memos" = "控えめなボイスメモ";
+
+/* Translated with LLM */
+"Dismiss" = "閉じる";
+
+/* Translated with LLM */
+"Display a notification banner and play an audible notice." = "通知バナーを表示し、通知音を再生する。";
+
+/* Translated with LLM */
+"Display a notification banner and update the badge above the application icon." = "通知バナーを表示し、アプリケーションアイコンの上のバッジを更新します。";
+
+/* Translated with LLM */
+"Display a notification banner when recording ends." = "録音終了時に通知バナーを表示する。";
+
+/* Translated with LLM */
+"Display a notification banner when recording starts." = "録音開始時に通知バナーを表示する。";
+
+/* Translated with LLM */
+"Display a notification banner when the synchronization fails." = "同期に失敗したときに通知バナーを表示する。";
+
+/* Translated with LLM */
+"Display the detail of recordings in the notification banner." = "通知バナーに録音の詳細を表示する。";
+
+/* Translated with LLM */
+"Display the exact duration of the recorded audio." = "録音された音声の正確な長さを表示します。";
+
+/* Translated with LLM */
+"Display the hoverball during a call in the current application." = "現在のアプリケーションで通話中にホバーボールを表示";
+
+/* Translated with LLM */
+"Display the hoverball during a call." = "通話中にホバーボールを表示する。";
+
+/* Translated with LLM */
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "オーディオ入力と出力の両方が継続的にアクティブな場合、ホバーボールを表示します。";
+
+/* Translated with LLM */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "このアプリケーションでボイスメモを録音する場合、または手動で通話録音を開始する場合は、ホバーボールを表示します。";
+
+/* Translated with LLM */
+"Display the name or description of each option." = "各オプションの名前または説明を表示します。";
+
+/* Translated with LLM */
+"Display the names of contacts in your address book instead of their phone numbers." = "アドレス帳の連絡先の電話番号の代わりに名前を表示します。";
+
+/* Translated with LLM */
+"Display the path extension as the format of the recording." = "録音のフォーマットとしてパス拡張子を表示します。";
+
+/* Translated with LLM */
+"Display the preview images of the audio waveform of short recordings." = "ショートレコーディングの音声波形のプレビュー画像を表示します。";
+
+/* Translated with LLM */
+"Display the short name of the SIM card used for the recording if available." = "利用可能な場合、録音に使用したSIMカードのショートネームを表示します。";
+
+/* Translated with LLM */
+"Display the source bundle name of the recording." = "録音のソースバンドル名を表示します。";
+
+/* Translated with LLM */
+"Displays a local notification." = "ローカル通知を表示します。";
+
+/* Translated with LLM */
+"Do you want to clear this log file “%@”?" = "このログファイル「%@」を消去しますか？";
+
+/* Translated with LLM */
+"Do you want to merge recordings with “%@”?" = "録音を“%@”にマージしますか？";
+
+/* Translated with LLM */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "ソフトウェアライセンスをリセットし、すべての設定をデフォルト値に戻しますか？録音は削除されません。";
+
+/* Translated with LLM */
+"Done" = "完了";
+
+/* Translated with LLM */
+"Don’t ask again" = "今後は表示しない";
+
+/* Translated with LLM */
+"Don’t Merge" = "マージしない";
+
+/* Translated with LLM */
+"Double tap to restore __all edges__  \nto their default sizes." = "ダブルタップで __すべてのエッジ__ をデフォルトのサイズに戻します。";
+
+/* Translated with LLM */
+"Downlink (Speaker)" = "ダウンリンク（スピーカー）";
+
+/* Translated with LLM */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "ここをドラッグして\n___%@___ のサイズを調整します。";
+
+/* Translated with LLM */
+"Drive ID" = "ドライブID";
+
+/* Translated with LLM */
+"Dropbox" = "Dropbox";
+
+/* Translated with LLM */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "環境の制限により、ウィジェットが空白または表示されない場合は、デバイスを再起動するか、TrollStoreからアイコンキャッシュを再構築してください。";
+
+/* Translated with LLM */
+"Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here." = "技術的な制限により、自動化関連の機能は「Shortcuts」アプリを介して実装する必要があります。「Shortcuts」アプリを開き、「TrollRecorder」アクションを含む新しいショートカットを作成し、ここでそれを選択できます。";
+
+/* Translated with LLM */
+"Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states." = "技術的な制限により、CallKit以外の通話では、通話状態に関連するショートカットはトリガーされません。";
+
+/* Translated with LLM */
+"Duration" = "期間";
+
+/* Translated with LLM */
+"duration" = "期間";
+
+/* Translated with LLM */
+"Duration Before Idle" = "アイドル前の持続時間";
+
+/* Translated with LLM */
+"Duration Description" = "期間（説明）";
+
+/* Translated with LLM */
+"Duration exceeded." = "期間を超過しました。";
+
+/* Translated with LLM */
+"Dynamic Transition" = "ダイナミックトランジション";
+
+/* Translated with LLM */
+"E.U.L.A." = "使用許諾契約";
+
+/* Translated with LLM */
+"Edit" = "編集";
+
+/* Translated with LLM */
+"Edit Argument" = "引数を編集";
+
+/* Translated with LLM */
+"elapsed recording time" = "経過録音時間";
+
+/* Translated with LLM */
+"Empty Trash" = "ゴミ箱を空にする";
+
+/* Translated with LLM */
+"Empty Trash (%@)" = "ゴミ箱を空にする (%@)";
+
+/* Translated with LLM */
+"Enable Biometric Authentication" = "生体認証を有効にする";
+
+/* Translated with LLM */
+"Enable Face ID" = "Face IDを有効にする";
+
+/* Translated with LLM */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "レベルメータリングを有効にし、ホバーボールが折りたたまれているときにインジケーターを表示します。このオプションは、「アイドル時の動作」が「常に折りたたむ」に設定されている場合にのみ使用できます。";
+
+/* Translated with LLM */
+"Enable Logging" = "ログを有効にする";
+
+/* Translated with LLM */
+"Enable Optic ID" = "Optic IDを有効にする";
+
+/* Translated with LLM */
+"Enable Touch ID" = "Touch IDを有効にする";
+
+/* Translated with LLM */
+"Enable WebDAV Server" = "WebDAVサーバーを有効にする";
+
+/* Translated with LLM */
+"Enabled" = "有効";
+
+/* Translated with LLM */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "アプリケーションがバックグラウンドに移行し、最後の接続が閉じられたときにWebDAVサーバーが自動的に一時停止し、アプリケーションがフォアグラウンドに戻ったときに再開するようにします。";
+
+/* Translated with LLM */
+"Encoding" = "エンコード中";
+
+/* Translated with LLM */
+"end calls" = "通話終了";
+
+/* Translated with LLM */
+"End Date" = "終了日";
+
+/* Translated with LLM */
+"End Editing" = "編集終了";
+
+/* Translated with LLM */
+"end recording" = "録音終了";
+
+/* Translated with LLM */
+"end screen recording" = "画面収録を終了";
+
+/* Translated with LLM */
+"Enhance Recording" = "録音の強化";
+
+/* Translated with LLM */
+"Enhanced Automatic Recording" = "拡張自動録音";
+
+/* Translated with LLM */
+"Enhanced Scene Identification" = "拡張シーン識別";
+
+/* Translated with LLM */
+"Ensure Daemon Is Running" = "デーモンが実行中であることを確認";
+
+/* Translated with LLM */
+"Enter Pairing Code" = "ペアリングコードを入力";
+
+/* Translated with LLM */
+"Enter the 4-digit code displayed on “%@”." = "“%@”に表示されている4桁のコードを入力してください。";
+
+/* Translated with LLM */
+"Enter your password" = "パスワードを入力";
+
+/* Translated with LLM */
+"Erase All" = "すべて消去";
+
+/* Translated with LLM */
+"Erase all recordings, reset all settings, and clear all caches completely." = "すべての録音を消去し、すべての設定をリセットし、すべてのキャッシュを完全にクリアします。";
+
+/* Translated with LLM */
+"Erase Almost Completed" = "消去ほぼ完了";
+
+/* Translated with LLM */
+"Erasing…" = "消去中…";
+
+/* Translated with LLM */
+"Error" = "エラー";
+
+/* Translated with LLM */
+"Error from network storage" = "ネットワークストレージからのエラー";
+
+/* Translated with LLM */
+"Error retrieving discovery document: %@" = "ディスカバリドキュメントの取得エラー：%@";
+
+/* Translated with LLM */
+"exit" = "終了";
+
+/* Translated with LLM */
+"Exit Hoverball" = "ホバーボールを終了";
+
+/* Translated with LLM */
+"Expand Recursively" = "再帰的に展開";
+
+/* Translated with LLM */
+"Export as is…" = "そのままエクスポート…";
+
+/* Translated with LLM */
+"Export as ZIP" = "ZIP形式でエクスポート";
+
+/* Translated with LLM */
+"Export recordings to anywhere you want without limitations." = "録音を制限なく好きな場所にエクスポートできます。";
+
+/* Translated with LLM */
+"Export Service Ready" = "エクスポートサービスの準備完了";
+
+/* Translated with LLM */
+"Export to Another Device" = "他のデバイスにエクスポート";
+
+/* Translated with LLM */
+"Export to Anywhere" = "どこへでもエクスポート";
+
+/* Translated with LLM */
+"Export with Metadata" = "メタデータ付きでエクスポート";
+
+/* Translated with LLM */
+"Exporting" = "エクスポート中";
+
+/* Translated with LLM */
+"FaceTime" = "FaceTime";
+
+/* Translated with LLM */
+"FaceTime Audio" = "FaceTime オーディオ";
+
+/* Translated with LLM */
+"FaceTime Exclusion List" = "FaceTime除外リスト";
+
+/* No comment provided by engineer. */
+"FaceTime VIP" = "FaceTime VIP";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
+
+/* Translated with LLM */
+"Failed to export %d recordings" = "%d件の録音のエクスポートに失敗しました";
+
+/* Translated with LLM */
+"Failed to initialize speech recognizer using current locale “%@”." = "現在のロケール “%@” を使用して音声認識を初期化できませんでした。";
+
+/* Translated with LLM */
+"Failed to open file pipe" = "ファイルパイプのオープンに失敗しました";
+
+/* Translated with LLM */
+"Failed to perform “%@” operation with service provider “%@”." = "サービスプロバイダ「%2$@」で「%1$@」操作を実行できませんでした。";
+
+/* Translated with LLM */
+"Failed to play: %@" = "再生に失敗しました：%@";
+
+/* Translated with LLM */
+"Failed to recover: %@" = "復旧に失敗しました: %@";
+
+/* Translated with LLM */
+"Failed to remove: %@" = "削除に失敗しました: %@";
+
+/* Translated with LLM */
+"Failed to spawn process, reason: %s (%d)" = "プロセスの起動に失敗しました。理由: %s (%2$d)";
+
+/* Translated with LLM */
+"Failed to start audio player." = "オーディオプレーヤーの起動に失敗しました。";
+
+/* Translated with LLM */
+"Fatal error occurred. You may need to re-authorize to continue." = "致命的なエラーが発生しました。続行するには再認証が必要です。";
+
+/* Translated with LLM */
+"Features on this page are under active development, hang tight!" = "このページの機能は現在開発中です。お待ちください！";
+
+/* Translated with LLM */
+"Features Unlocked" = "機能がアンロックされました";
+
+/* Translated with LLM */
+"file" = "ファイル";
+
+/* Translated with LLM */
+"File Format" = "ファイル形式";
+
+/* Translated with LLM */
+"File not found." = "ファイルが見つかりません。";
+
+/* Translated with LLM */
+"File Size" = "ファイルサイズ";
+
+/* Translated with LLM */
+"File System" = "ファイルシステム";
+
+/* Translated with LLM */
+"Filter" = "フィルター";
+
+/* Translated with LLM */
+"Finalizing" = "最終処理中";
+
+/* Translated with LLM */
+"finish" = "終了";
+
+/* Translated with LLM */
+"finish call" = "通話終了";
+
+/* Translated with LLM */
+"Fix File-System" = "ファイルシステムの修復";
+
+/* Translated with LLM */
+"Focus" = "フォーカス";
+
+/* Translated with LLM */
+"Fold When Inactive" = "非アクティブ時に折りたたむ";
+
+/* Translated with LLM */
+"Follow System" = "システムに従う";
+
+/* Translated with LLM */
+"Force the app to use a specific language. Reopen to apply changes." = "アプリに特定の言語を強制的に使用させます。変更を適用するには、アプリを再起動してください。";
+
+/* Translated with LLM */
+"Format" = "フォーマット";
+
+/* Translated with LLM */
+"Formatted Location" = "フォーマットされた場所";
+
+/* Translated with LLM */
+"Forward 15 Seconds" = "15秒進む";
+
+/* Translated with LLM */
+"Frequently Asked Questions" = "よくある質問";
+
+/* Translated with LLM */
+"From %@" = "%@ から";
+
+/* Translated with LLM */
+"From %@ to %@" = "%1$@から%2$@へ";
+
+/* Translated with LLM */
+"From: %@" = "%@ から";
+
+/* Translated with LLM */
+"From…" = "開始…";
+
+/* Translated with LLM */
+"Full" = "フル";
+
+/* Translated with LLM */
+"full backup sync" = "フルバックアップ同期";
+
+/* Translated with LLM */
+"Full Date" = "完全な日付";
+
+/* Translated with LLM */
+"Full Month Name" = "完全な月名";
+
+/* Translated with LLM */
+"Full Time" = "フルタイム";
+
+/* Translated with LLM */
+"Full Year" = "通年";
+
+/* Translated with LLM */
+"Get ${requestedField}" = "${requestedField} を取得";
+
+/* Translated with LLM */
+"Get advanced control when recording right in your call." = "通話中の録音を高度にコントロールできます。";
+
+/* Translated with LLM */
+"Get Call Duration" = "通話時間の取得";
+
+/* Translated with LLM */
+"Get Call Status" = "通話ステータスの取得";
+
+/* Translated with LLM */
+"Get In Touch" = "お問い合わせ";
+
+/* Translated with LLM */
+"Get notifications after record complete." = "録音完了後に通知を受け取る";
+
+/* Translated with LLM */
+"Get Recording Duration" = "録音時間の取得";
+
+/* Translated with LLM */
+"Get Recording Paths" = "録音パスを取得";
+
+/* Translated with LLM */
+"Get Recording Status" = "録音ステータスを取得";
+
+/* Translated with LLM */
+"Get the current recording duration of the Troll Recorder." = "TrollRecorderの現在の録音時間を取得します。";
+
+/* Translated with LLM */
+"Get the current recording paths of the Troll Recorder." = "TrollRecorderの現在の録音パスを取得します。";
+
+/* Translated with LLM */
+"Get the current recording status of the Troll Recorder." = "TrollRecorderの現在の録音ステータスを取得します。";
+
+/* Translated with LLM */
+"Get the primary call duration of the device." = "デバイスの主な通話時間を取得します。";
+
+/* Translated with LLM */
+"Get the primary call status of the device." = "デバイスのプライマリ通話ステータスを取得します。";
+
+/* Translated with LLM */
+"Go Home When Unlocked" = "ロック解除時にホームに戻る";
+
+/* Translated with LLM */
+"Google Drive" = "Google ドライブ";
+
+/* Translated with LLM */
+"Group Call" = "グループ通話";
+
+/* Translated with LLM */
+"hang up calls" = "通話を切断";
+
+/* Translated with LLM */
+"hang up incoming call" = "着信を切る";
+
+/* Translated with LLM */
+"Hide Hoverball" = "ホバーボールを隠す";
+
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "ロック画面から「ボイスメモ」アプリを非表示にし、その「ダイナミックアイランド」アクティビティも非表示にします。この機能を有効にするには、再スプリングが必要な場合があります。";
+
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "ロック画面から「Voice Memos」アプリを非表示にし、その「Dynamic Island」アクティビティも非表示にします。TrollFools または類似の技術を使用して、「Voice Memos」アプリに注入する必要があります。";
+
+/* Translated with LLM */
+"Hide When Landscape" = "横向き時に非表示";
+
+/* Translated with LLM */
+"Hide When Snapshot" = "スナップショット時に非表示";
+
+/* Translated with LLM */
+"Hours Minutes Seconds" = "時 分 秒";
+
+/* Translated with LLM */
+"Hours, 12-hour Clock" = "時間（12時間制）";
+
+/* Translated with LLM */
+"Hours, 24-hour Clock" = "時間（24時間制）";
+
+/* Translated with LLM */
+"Hoverball" = "ホバーボール";
+
+/* Translated with LLM */
+"Hoverball Plus" = "ホバーボール プラス";
+
+/* Translated with LLM */
+"Hoverball Size" = "ホバーボールのサイズ";
+
+/* Translated with LLM */
+"Hoverball Style" = "ホバーボールスタイル";
+
+/* No comment provided by engineer. */
+"hud" = "hud";
+
+/* Translated with LLM */
+"HUD_CALL_RECORDING" = "通話録音";
+
+/* Translated with LLM */
+"Hyphen" = "ハイフン";
+
+/* Translated with LLM */
+"I Agree to the E.U.L.A." = "E.U.L.A.に同意します";
+
+/* Translated with LLM */
+"icloud" = "iCloud";
+
+/* Translated with LLM */
+"icloud backup" = "iCloudバックアップ";
+
+/* Translated with LLM */
+"iCloud Drive" = "iCloud Drive";
+
+/* Translated with LLM */
+"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP 登録番号：苏ICP备15002715号-2A";
+
+/* Translated with LLM */
+"Idle" = "アイドル";
+
+/* Translated with LLM */
+"If the value contains spaces, please enclose it in quotes." = "値にスペースが含まれる場合は、引用符で囲んでください。";
+
+/* Translated with LLM */
+"If there is something wrong with the search indexes, you can reset them here." = "検索インデックスに問題がある場合は、ここでリセットできます。";
+
+/* Translated with LLM */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "アクティブな通話がない場合、電源ボタンを長押しして指定のアクションを実行します。";
+
+/* Translated with LLM */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "アクティブな通話がない場合、物理的な音量ボタンの両方を押して指定のアクションを実行します。";
+
+/* Translated with LLM */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "Filza で録音を変更した場合、またはファイルシステムの権限に関する問題が発生した場合は、ここで修正できます。";
+
+/* Translated with LLM */
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "お使いの携帯電話がデュアルSIMカードに対応している場合、録音された通話に使用されたSIMカードのエイリアスがここに表示されます。";
+
+/* Translated with LLM */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "「iCloudでバックアップ」を有効にし、バックアップが正常に同期された場合、このアクションがトリガーされます。";
+
+/* Translated with LLM */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "すべてのディレクトリとファイルの最終更新日を無視し、すべての録音のディープクローンを作成します。";
+
+/* Translated with LLM */
+"Import as Ringtone" = "着信音としてインポート";
+
+/* Translated with LLM */
+"Import Complete" = "インポート完了";
+
+/* Translated with LLM */
+"Import Failed" = "インポート失敗";
+
+/* Translated with LLM */
+"Import From Another Device" = "他のデバイスからインポート";
+
+/* Translated with LLM */
+"Import recordings from the Troll Recorder on another device within the local area network." = "ローカルエリアネットワーク内の別のデバイスにあるTrollRecorderから録音をインポートします。";
+
+/* Translated with LLM */
+"In 1 Hour" = "1時間後";
+
+/* Translated with LLM */
+"In 15 Minutes" = "15分後";
+
+/* Translated with LLM */
+"Inaccurate Time Detected" = "不正確な時刻を検出";
+
+/* Translated with LLM */
+"Incoming" = "着信";
+
+/* Translated with LLM */
+"incoming" = "着信";
+
+/* Translated with LLM */
+"Incoming Call" = "着信";
+
+/* Translated with LLM */
+"incoming call" = "着信";
+
+/* Translated with LLM */
+"Incoming Call Answered" = "着信応答";
+
+/* Translated with LLM */
+"Incoming Call Hang Up" = "着信通話の切断";
+
+/* Translated with LLM */
+"Incoming call recording from “%@” and other %ld applications." = "「%@」およびその他 %ld 個のアプリケーションからの着信通話録音";
+
+/* Translated with LLM */
+"Incoming call recording from “%@”." = "“%@”からの着信通話録音。";
+
+/* Translated with LLM */
+"Inconsistency Found" = "矛盾が見つかりました";
+
+/* Translated with LLM */
+"Install" = "インストール";
+
+/* Translated with LLM */
+"Install Call History Tweak" = "通話履歴の調整をインストール";
+
+/* Translated with LLM */
+"Invalid Code Signature" = "無効なコード署名";
+
+/* Translated with LLM */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "無効なコード署名です。\nこのアプリケーションをTrollStoreから再インストールしてください。";
+
+/* Translated with LLM */
+"iPad" = "iPad";
+
+/* Translated with LLM */
+"iPhone" = "iPhone";
+
+/* Translated with LLM */
+"Is Favourite" = "お気に入り";
+
+/* Translated with LLM */
+"Is Finalized" = "最終決定済み";
+
+/* Translated with LLM */
+"Is Finalizing" = "最終処理中";
+
+/* Translated with LLM */
+"Is Microphone Enabled" = "マイクが有効か";
+
+/* Translated with LLM */
+"Is Paused" = "一時停止中";
+
+/* Translated with LLM */
+"is recording" = "録音中";
+
+/* Translated with LLM */
+"Is Running" = "実行中";
+
+/* Translated with LLM */
+"Item #%lu" = "項目 #%lu";
+
+/* Translated with LLM */
+"Just in case that you love it." = "万が一、気に入っていただけたら。";
+
+/* Translated with LLM */
+"Just now" = "たった今";
+
+/* Translated with LLM */
+"Keep Screen On When Connected" = "接続時に画面をオンのままにする";
+
+/* Translated with LLM */
+"Keyboard Avoidance" = "キーボード回避";
+
+/* Translated with LLM */
+"Kill all applications and restart the render server (backboardd)." = "すべてのアプリケーションを終了し、レンダーサーバー（backboardd）を再起動します。";
+
+/* Translated with LLM */
+"Language Changed" = "言語が変更されました";
+
+/* Translated with LLM */
+"Larger" = "より大きい";
+
+/* Translated with LLM */
+"Last successful synchronization: %@" = "最後に同期に成功したのは %@ です。";
+
+/* Translated with LLM */
+"Later" = "後で";
+
+/* Translated with LLM */
+"launch" = "起動";
+
+/* Translated with LLM */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "一時的なWebDAVサーバーを起動し、ローカルエリアネットワーク内にブロードキャストして、他のデバイス上のTrollRecorderがそれを検出できるようにします。";
+
+/* Translated with LLM */
+"Launch App at End" = "最後にアプリを起動";
+
+/* Translated with LLM */
+"Launch Shield" = "起動シールド";
+
+/* Translated with LLM */
+"Leading & Trailing" = "先頭と末尾";
+
+/* Translated with LLM */
+"leading edge" = "先端";
+
+/* Translated with LLM */
+"Legacy Jailbreak" = "レガシージェイルブレイク";
+
+/* Translated with LLM */
+"Less serious error occurred." = "軽度のエラーが発生しました。";
+
+/* Translated with LLM */
+"Lifetime Guarantee" = "生涯保証";
+
+/* Translated with LLM */
+"Link Device to Havoc" = "デバイスをHavocにリンク";
+
+/* Translated with LLM */
+"List" = "リスト";
+
+/* Translated with LLM */
+"List and Detail" = "リストと詳細";
+
+/* Translated with LLM */
+"List view enabled" = "リスト表示が有効";
+
+/* Translated with LLM */
+"Loading…" = "読み込み中…";
+
+/* Translated with LLM */
+"local notification" = "ローカル通知";
+
+/* Translated with LLM */
+"Local Storage" = "ローカルストレージ";
+
+/* Translated with LLM */
+"Localized name of the provider application. That is, where this recording comes from." = "プロバイダーアプリケーションのローカライズされた名前。つまり、この録音の提供元です。";
+
+/* Translated with LLM */
+"Locate in Maps" = "マップで位置を確認";
+
+/* Translated with LLM */
+"Location" = "位置情報";
+
+/* Translated with LLM */
+"Location Permission Denied" = "位置情報の許可が拒否されました";
+
+/* Translated with LLM */
+"Location Services" = "位置情報サービス";
+
+/* Translated with LLM */
+"Locked" = "ロック中";
+
+/* Translated with LLM */
+"Log Viewer" = "ログビューア";
+
+/* Translated with LLM */
+"Logging" = "ログ記録";
+
+/* Translated with LLM */
+"Login Name: %@" = "ログイン名：%@";
+
+/* Translated with LLM */
+"Login Password: " = "ログインパスワード：";
+
+/* Translated with LLM */
+"Login Tips" = "ログインヒント";
+
+/* Translated with LLM */
+"Long Date" = "長い日付";
+
+/* Translated with LLM */
+"Long press the hoverball to start or stop recording by convenience." = "ホバーボールを長押しして、録音の開始・停止を便利に行えます。";
+
+/* Translated with LLM */
+"Long Time" = "長時間";
+
+/* Translated with LLM */
+"Low Disk Space" = "ディスク容量不足";
+
+/* Translated with LLM */
+"Made with ♥ by OwnGoal Studio" = "OwnGoal Studio が ♥ を込めて制作";
+
+/* Translated with LLM */
+"Mail composition failed" = "メール作成に失敗しました";
+
+/* Translated with LLM */
+"Maintenance" = "メンテナンス";
+
+/* Translated with LLM */
+"Make a ${requestedMode} recording" = "${requestedMode}の録音を作成";
+
+/* Translated with LLM */
+"Make a new recording, or stop an existing one." = "新しい録音を開始するか、既存の録音を停止します。";
+
+/* Translated with LLM */
+"Make a new voice memo, or stop an existing one." = "新しいボイスメモを作成するか、既存のボイスメモを停止します。";
+
+/* Translated with LLM */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "バックアップドメイン内の録音のシャローコピーを作成し、iCloud Backupがそれらを含めることを許可します。";
+
+/* Translated with LLM */
+"Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "関連する通話録音を通話履歴ページに表示し、TrollRecorderにジャンプして再生します。";
+
+/* Translated with LLM */
+"Make the device ring or vibrate when recording ends." = "録音終了時にデバイスを鳴らすか振動させます。";
+
+/* Translated with LLM */
+"Make the device ring or vibrate when recording starts." = "録音開始時にデバイスを鳴らすか振動させます。";
+
+/* Translated with LLM */
+"Make the hoverball invisible when taking screenshots or screen recordings." = "スクリーンショットや画面収録時にホバーボールを非表示にする。";
+
+/* Translated with LLM */
+"Make the hoverball invisible when the device is in landscape orientation." = "デバイスが横向きのときにホバーボールを見えなくする。";
+
+/* Translated with LLM */
+"Make the hoverball semi-transparent or folded when leave it for a while." = "しばらく操作がない場合、ホバーボールを半透明にするか折りたたみます。";
+
+/* Translated with LLM */
+"Making a phone call to begin recording." = "録音を開始するために電話をかけてください。";
+
+/* Translated with LLM */
+"Mark" = "マーク";
+
+/* Translated with LLM */
+"Maximum" = "最大";
+
+/* Translated with LLM */
+"Maybe you should look elsewhere — anywhere but here." = "別の場所を探したほうがいいかもしれません — ここ以外のどこかで。";
+
+/* Translated with LLM */
+"Medium" = "ミディアム";
+
+/* Translated with LLM */
+"Medium Date" = "中程度の日付";
+
+/* Translated with LLM */
+"Medium Time" = "ミディアムタイム";
+
+/* Translated with LLM */
+"Merge" = "マージ";
+
+/* Translated with LLM */
+"Merged File" = "マージファイル";
+
+/* Translated with LLM */
+"Message" = "メッセージ";
+
+/* Translated with LLM */
+"Metadata" = "メタデータ";
+
+/* Translated with LLM */
+"Microphone" = "マイク";
+
+/* Translated with LLM */
+"microphone" = "マイク";
+
+/* Translated with LLM */
+"Microphone and speaker are recorded in different channels." = "マイクとスピーカーは異なるチャンネルで録音されます。";
+
+/* Translated with LLM */
+"microphone audio" = "マイクオーディオ";
+
+/* Translated with LLM */
+"microphone off" = "マイクオフ";
+
+/* Translated with LLM */
+"microphone on" = "マイクオン";
+
+/* Translated with LLM */
+"microphone speech" = "マイク音声";
+
+/* Translated with LLM */
+"Microsoft OneDrive" = "Microsoft OneDrive";
+
+/* Translated with LLM */
+"Minutes" = "分";
+
+/* Translated with LLM */
+"Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Googleドライブへのアクセスに必要な権限が不足しています。Googleで再認証し、「TrollRecorder」にすべての「Googleドライブ」権限を付与してください。";
+
+/* Translated with LLM */
+"Mixed" = "ミックス";
+
+/* Translated with LLM */
+"Mixer & Combiner" = "ミキサー＆コンバイナー";
+
+/* Translated with LLM */
+"Mixer Audio Format" = "ミキサーオーディオフォーマット";
+
+/* Translated with LLM */
+"Mixer File Format" = "ミキサーファイル形式";
+
+/* Translated with LLM */
+"Mixer Quality" = "ミキサー品質";
+
+/* Translated with LLM */
+"Month Number" = "月番号";
+
+/* Translated with LLM */
+"Monthly Arranged" = "月別整理";
+
+/* Translated with LLM */
+"More icons, more innovation." = "より多くのアイコン、より多くの革新。";
+
+/* Translated with LLM */
+"More Options" = "その他のオプション";
+
+/* Translated with LLM */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "削除した録音を特別なフォルダに移動します。後で気が変わったり、必要になったりした場合に復元できます。";
+
+/* Translated with LLM */
+"MPEG-4 Audio" = "MPEG-4 オーディオ";
+
+/* Translated with LLM */
+"mute" = "ミュート";
+
+/* Translated with LLM */
+"Mute ${requestedChannel}" = "ミュート ${requestedChannel}";
+
+/* Translated with LLM */
+"mute call" = "通話をミュート";
+
+/* Translated with LLM */
+"mute call audio" = "通話音声をミュート";
+
+/* Translated with LLM */
+"Mute Existing Calls" = "既存の通話をミュート";
+
+/* Translated with LLM */
+"Mute specified channel of all existing calls." = "既存のすべての通話の指定チャンネルをミュート";
+
+/* Translated with LLM */
+"My Favourite" = "お気に入り";
+
+/* Translated with LLM */
+"My Favourites" = "お気に入り";
+
+/* Translated with LLM */
+"Name" = "名前";
+
+/* Translated with LLM */
+"Name with Alias" = "エイリアス付きの名前";
+
+/* Translated with LLM */
+"Network Storage" = "ネットワークストレージ";
+
+/* Translated with LLM */
+"Never" = "なし";
+
+/* Translated with LLM */
+"Never Show This Again" = "今後表示しない";
+
+/* Translated with LLM */
+"New" = "新規";
+
+/* Translated with LLM */
+"New Matching Pattern" = "新しいマッチングパターン";
+
+/* Translated with LLM */
+"new recording" = "新規録音";
+
+/* Translated with LLM */
+"New Version Available" = "新しいバージョンが利用可能です";
+
+/* Translated with LLM */
+"New Version Installed" = "新しいバージョンがインストールされました";
+
+/* Translated with LLM */
+"NO" = "いいえ";
+
+/* Translated with LLM */
+"No Available Version" = "利用可能なバージョンはありません";
+
+/* Translated with LLM */
+"No phone number found in selected contacts." = "選択した連絡先に電話番号が見つかりません。";
+
+/* Translated with LLM */
+"No phone number or email address found in selected contacts." = "選択した連絡先に電話番号または電子メールアドレスが見つかりません。";
+
+/* Translated with LLM */
+"No Recording" = "録音なし";
+
+/* Translated with LLM */
+"No Recordings to Export" = "エクスポートする録音がありません";
+
+/* Translated with LLM */
+"No speech detected." = "音声が検出されませんでした。";
+
+/* Translated with LLM */
+"No Transition" = "トランジションなし";
+
+/* Translated with LLM */
+"None" = "なし";
+
+/* Translated with LLM */
+"Not Implemented" = "未実装";
+
+/* Translated with LLM */
+"Not My Favourite" = "お気に入りではない";
+
+/* Translated with LLM */
+"Not Now" = "今はしない";
+
+/* Translated with LLM */
+"Not Properly Configured" = "正しく設定されていません";
+
+/* Translated with LLM */
+"Nothing Imported" = "インポートされたものはありません";
+
+/* Translated with LLM */
+"Nothing Inside" = "何もありません";
+
+/* Translated with LLM */
+"notification" = "通知";
+
+/* Translated with LLM */
+"Notification Permission Denied" = "通知の許可が拒否されました";
+
+/* Translated with LLM */
+"Notifications" = "通知";
+
+/* Translated with LLM */
+"notify" = "通知";
+
+/* Translated with LLM */
+"Notify at Begin" = "開始時に通知";
+
+/* Translated with LLM */
+"Notify at End" = "終了時に通知";
+
+/* Translated with LLM */
+"Object Viewer" = "オブジェクトビューア";
+
+/* Translated with LLM */
+"Off" = "オフ";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* Translated with LLM */
+"On" = "オン";
+
+/* Translated with LLM */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "別のデバイスで「別のデバイスからインポート」を選択し、「%@」を選択してください。転送中はこのページを離れないでください。";
+
+/* Translated with LLM */
+"OneDrive" = "OneDrive";
+
+/* Translated with LLM */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "アドレス帳にも「VIP」リストにも登録されていない連絡先からの通話のみが自動的に録音されます。VIP連絡先もお気に入りに追加されます。";
+
+/* Translated with LLM */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "VIP連絡先からの通話のみが自動的に録音され、お気に入りに追加されます。";
+
+/* Translated with LLM */
+"Oops!" = "おっと！";
+
+/* Translated with LLM */
+"Open" = "開く";
+
+/* Translated with LLM */
+"open" = "開く";
+
+/* Translated with LLM */
+"Open Application" = "アプリを開く";
+
+/* Translated with LLM */
+"Open Hoverball" = "ホバーボールを開く";
+
+/* Translated with LLM */
+"open hoverball" = "ホバーボールを開く";
+
+/* Translated with LLM */
+"Open in Filza" = "Filzaで開く";
+
+/* Translated with LLM */
+"Open in Maps" = "マップで開く";
+
+/* Translated with LLM */
+"Open Troll Recorder" = "TrollRecorderを開く";
+
+/* Translated with LLM */
+"Operation Failed" = "操作に失敗しました";
+
+/* Translated with LLM */
+"Operation Succeed" = "操作成功";
+
+/* Translated with LLM */
+"Operation succeed, but no files transferred." = "操作は成功しましたが、ファイルは転送されませんでした。";
+
+/* Translated with LLM */
+"Operator Name" = "オペレーター名";
+
+/* No comment provided by engineer. */
+"Optic ID" = "Optic ID";
+
+/* Translated with LLM */
+"Options" = "オプション";
+
+/* Translated with LLM */
+"Orbit" = "軌道";
+
+/* Translated with LLM */
+"Orbit view enabled" = "軌道ビューが有効";
+
+/* Translated with LLM */
+"Outgoing" = "発信";
+
+/* Translated with LLM */
+"Outgoing Call" = "発信";
+
+/* Translated with LLM */
+"Outgoing Call Answered" = "発信通話応答";
+
+/* Translated with LLM */
+"Outgoing Call Hang Up" = "発信通話の切断";
+
+/* Translated with LLM */
+"Outgoing call recording from “%@” and other %ld applications." = "「%@」およびその他 %ld 個のアプリケーションからの発信通話録音";
+
+/* Translated with LLM */
+"Outgoing call recording from “%@”." = "“%@”からの発信通話録音。";
+
+/* Translated with LLM */
+"Page not found" = "ページが見つかりません";
+
+/* Translated with LLM */
+"Pairing code" = "ペアリングコード";
+
+/* Translated with LLM */
+"Passcode: %@" = "パスコード：%@";
+
+/* Translated with LLM */
+"Password (Optional)" = "パスワード（オプション）";
+
+/* Translated with LLM */
+"Password Copied" = "パスワードをコピーしました";
+
+/* Translated with LLM */
+"path" = "パス";
+
+/* Translated with LLM */
+"Pause" = "一時停止";
+
+/* Translated with LLM */
+"Pause Recording" = "録音を一時停止";
+
+/* Translated with LLM */
+"Paused" = "一時停止";
+
+/* Translated with LLM */
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "「iCloudでバックアップ」と「スマートクラウドアーカイブ」の完全同期を実行します。";
+
+/* Translated with LLM */
+"Perform Full Synchronization" = "完全同期を実行";
+
+/* Translated with LLM */
+"perform synchronization" = "同期を実行";
+
+/* Translated with LLM */
+"Period" = "ピリオド";
+
+/* Translated with LLM */
+"Phone" = "電話";
+
+/* Translated with LLM */
+"phone" = "電話";
+
+/* Translated with LLM */
+"Phone Address" = "電話番号";
+
+/* Translated with LLM */
+"phone answer" = "電話応答";
+
+/* Translated with LLM */
+"Phone Call Exclusion List" = "電話通話除外リスト";
+
+/* Translated with LLM */
+"phone call recording" = "通話録音";
+
+/* Translated with LLM */
+"phone call timer" = "電話通話タイマー";
+
+/* Translated with LLM */
+"Phone Call VIP" = "電話VIP";
+
+/* Translated with LLM */
+"Phone Number" = "電話番号";
+
+/* Translated with LLM */
+"Phone Number or Email Address" = "電話番号またはメールアドレス";
+
+/* Translated with LLM */
+"phone status" = "電話ステータス";
+
+/* Translated with LLM */
+"Physical Key Combination" = "物理キーの組み合わせ";
+
+/* Translated with LLM */
+"pick up call" = "電話に出る";
+
+/* Translated with LLM */
+"Placemark Name" = "プレースマーク名";
+
+/* Translated with LLM */
+"Play" = "再生";
+
+/* Translated with LLM */
+"play" = "再生";
+
+/* Translated with LLM */
+"Play ${audioFile}" = "${audioFile} を再生";
+
+/* Translated with LLM */
+"play audio file" = "オーディオファイルを再生";
+
+/* Translated with LLM */
+"Play Recording Warning" = "録音再生警告";
+
+/* Translated with LLM */
+"Play Sound" = "サウンドを再生";
+
+/* Translated with LLM */
+"Play specified audio file to the microphone." = "指定された音声ファイルをマイクに再生します。";
+
+/* Translated with LLM */
+"Play specified voice-over text to the microphone." = "指定したナレーションテキストをマイクに再生します。";
+
+/* Translated with LLM */
+"Play Through Receiver" = "レシーバーで再生";
+
+/* Translated with LLM */
+"Play Through Speaker" = "スピーカーで再生";
+
+/* Translated with LLM */
+"Play Uplink Audio" = "アップリンクオーディオを再生";
+
+/* Translated with LLM */
+"play uplink audio" = "アップリンクオーディオを再生";
+
+/* Translated with LLM */
+"Play Uplink Voice-Over" = "アップリンク音声再生";
+
+/* Translated with LLM */
+"play voice over" = "ナレーション再生";
+
+/* Translated with LLM */
+"Play/Pause" = "再生/一時停止";
+
+/* Translated with LLM */
+"Playback Rate" = "再生速度";
+
+/* Translated with LLM */
+"Playback Rate: %@x" = "再生速度：%@x";
+
+/* Translated with LLM */
+"Playback Route" = "再生ルート";
+
+/* Translated with LLM */
+"Player Options" = "プレイヤーオプション";
+
+/* Translated with LLM */
+"Please check your mail configuration." = "メールの設定を確認してください。";
+
+/* Translated with LLM */
+"Please enter a valid port number between 1 and 65535." = "1～65535の有効なポート番号を入力してください。";
+
+/* Translated with LLM */
+"Please enter the server URL." = "サーバーのURLを入力してください。";
+
+/* Translated with LLM */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "両方のデバイスのロックを解除したまま、%@からの録音を受信してください。送信中はこのページから離れないでください。";
+
+/* Translated with LLM */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "TrollRecorderはHavocマーケットプレイスでのみ販売・引き換えが可能です。他のチャネルでは販売しておりません。ストアページを開こうとしています：Havocマーケットプレイスを初めてご利用になる場合は、Googleアカウントでのログインをお勧めします。中国本土のユーザーの場合、Googleへのログインには特別なネットワークが必要です。";
+
+/* Translated with LLM */
+"Please reinstall this application from TrollStore." = "TrollStoreからこのアプリケーションを再インストールしてください。";
+
+/* Translated with LLM */
+"Please remember to uninstall “%@” from Sileo." = "Sileoから「%@」をアンインストールするのを忘れないでください。";
+
+/* Translated with LLM */
+"Please remember to uninstall “%@” from TrollStore." = "TrollStoreから「%@」をアンインストールするのを忘れないでください。";
+
+/* Translated with LLM */
+"Please stay on this screen while we get everything ready." = "準備が整うまでこの画面でお待ちください。";
+
+/* Translated with LLM */
+"Please try again in a moment." = "しばらくしてからもう一度お試しください。";
+
+/* Translated with LLM */
+"Popover Control" = "ポップオーバーコントロール";
+
+/* Translated with LLM */
+"Populate Location When App Starts" = "アプリ起動時に位置情報を設定";
+
+/* Translated with LLM */
+"Popup Banner at Begin" = "開始時にポップアップバナーを表示";
+
+/* Translated with LLM */
+"Popup Banner at End" = "終了時にポップアップバナーを表示";
+
+/* Translated with LLM */
+"Popup Banner when Fail" = "失敗時にポップアップバナーを表示";
+
+/* Translated with LLM */
+"Popup Banner with Badge" = "バッジ付きポップアップバナー";
+
+/* Translated with LLM */
+"Popup Banner with Detail" = "詳細付きポップアップバナー";
+
+/* Translated with LLM */
+"Popup Banner with Sound" = "サウンド付きポップアップバナー";
+
+/* Translated with LLM */
+"Port (Optional)" = "ポート（オプション）";
+
+/* Translated with LLM */
+"post notification" = "通知を投稿";
+
+/* Translated with LLM */
+"Preparing" = "準備中";
+
+/* Translated with LLM */
+"Preparing Export Service" = "エクスポートサービスの準備中";
+
+/* Translated with LLM */
+"Preserve All Channels" = "すべてのチャンネルを保持";
+
+/* Translated with LLM */
+"Press & Hold Action" = "長押しアクション";
+
+/* Translated with LLM */
+"Press & Hold Hoverball" = "ホバーボールのプレス＆ホールド";
+
+/* Translated with LLM */
+"Press & Hold Power Button" = "電源ボタンを長押し";
+
+/* Translated with LLM */
+"Press and hold the power button to start or stop recording during a call." = "通話中に録音を開始または停止するには、電源ボタンを長押しします。";
+
+/* Translated with LLM */
+"Press both of the physical volume buttons to start or stop recording during a call." = "通話中に録音を開始または停止するには、物理的な音量ボタンの両方を押します。";
+
+/* Translated with LLM */
+"Press Both Volume Buttons" = "両方の音量ボタンを押す";
+
+/* Translated with LLM */
+"Preview Disabled" = "プレビュー無効";
+
+/* Translated with LLM */
+"Privacy Policy" = "プライバシーポリシー";
+
+/* Translated with LLM */
+"Privacy Policy & User Agreements" = "プライバシーポリシーと利用規約";
+
+/* Translated with LLM */
+"Private Browsing Detected" = "プライベートブラウジングが検出されました";
+
+/* Translated with LLM */
+"Proceed Anyway" = "とにかく進む";
+
+/* Translated with LLM */
+"Process execution timeout" = "プロセス実行タイムアウト";
+
+/* Translated with LLM */
+"Process exited with status %d." = "プロセスがステータス %d で終了しました。";
+
+/* Translated with LLM */
+"Process terminated by signal %d." = "シグナル %d によってプロセスが終了しました。";
+
+/* Translated with LLM */
+"Process terminated for unknown reasons." = "プロセスが原因不明で終了しました。";
+
+/* Translated with LLM */
+"Process terminated with exit code %d.\n%@" = "プロセスは終了コード %1$d で終了しました。\n%2$@";
+
+/* Translated with LLM */
+"Processing" = "処理中";
+
+/* Translated with LLM */
+"Pulse-code modulation" = "パルス符号変調";
+
+/* Translated with LLM */
+"Purchase" = "購入";
+
+/* Translated with LLM */
+"Purchase Tips" = "購入のヒント";
+
+/* No comment provided by engineer. */
+"Pure TrollStore" = "Pure TrollStore";
+
+/* Translated with LLM */
+"Query the latest version from GitHub." = "GitHubから最新バージョンを確認する。";
+
+/* Translated with LLM */
+"Querying" = "クエリ中";
+
+/* Translated with LLM */
+"Quick Recording" = "クイックレコーディング";
+
+/* Translated with LLM */
+"Quit and relaunch to continue using the Pro features." = "Pro機能を引き続き使用するには、アプリケーションを終了して再起動してください。";
+
+/* Translated with LLM */
+"Quit this application and try again." = "このアプリケーションを終了して、もう一度お試しください。";
+
+/* Translated with LLM */
+"Rclone Documentation" = "Rcloneドキュメント";
+
+/* Translated with LLM */
+"Re-authorize with Dropbox" = "Dropboxで再認証";
+
+/* Translated with LLM */
+"Re-authorize with Google" = "Googleで再認証";
+
+/* Translated with LLM */
+"Re-authorize with Microsoft" = "Microsoft で再認証";
+
+/* Translated with LLM */
+"Re-enable Suggested Options" = "推奨オプションを再度有効にする";
+
+/* Translated with LLM */
+"Reaching Daemon" = "デーモンに接続中";
+
+/* Translated with LLM */
+"README_APP_DOCUMENTS" = "このディレクトリにはTrollRecorderの録音のバックアップが含まれています。\r\n元の場所にコピーすることで復元できます：/var/mobile/Media/DCIM/TrollRecorder/Recordings";
+
+/* Translated with LLM */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "このディレクトリにはTrollRecorderの録音へのハードリンクアーカイブが含まれます。\r\nこれらはiCloudバックアップには含まれず、ストレージクォータにも消費されません。\r\n不要になったことを確認しない限り、削除しないでください。";
+
+/* Translated with LLM */
+"README_SERVICE_RECORDINGS" = "このディレクトリにはTrollRecorderの録音が保存されています。\r\n安全な場所にコピーしてバックアップしてください。";
+
+/* Translated with LLM */
+"Ready" = "準備完了";
+
+/* Translated with LLM */
+"Ready to record!" = "録音準備完了！";
+
+/* Translated with LLM */
+"Received authorization error: %@" = "認証エラーを受信しました: %@";
+
+/* Translated with LLM */
+"Received transient error: %@" = "一時的なエラーを受信しました: %@";
+
+/* Translated with LLM */
+"Receiving Recordings" = "録音を受信中";
+
+/* Translated with LLM */
+"Recents Only" = "最近のみ";
+
+/* Translated with LLM */
+"Recommended for Apple devices" = "Appleデバイス推奨";
+
+/* Translated with LLM */
+"Record" = "録音";
+
+/* Translated with LLM */
+"Record All Calls" = "すべての通話を録音";
+
+/* Translated with LLM */
+"Record all incoming and outgoing calls automatically." = "すべての発着信を自動的に録音します。";
+
+/* Translated with LLM */
+"Record Automatically" = "自動録音";
+
+/* Translated with LLM */
+"Record Calls on Other Devices" = "他のデバイスの通話を録音";
+
+/* Translated with LLM */
+"Record Only When Connected" = "接続時のみ録音";
+
+/* Translated with LLM */
+"record screen" = "画面収録";
+
+/* Translated with LLM */
+"Record Unknown Calls" = "不明な通話を録音";
+
+/* Translated with LLM */
+"Record with Location" = "位置情報と一緒に録音";
+
+/* Translated with LLM */
+"recorder hoverball" = "レコーダーホバーボール";
+
+/* Translated with LLM */
+"Recording" = "録音中";
+
+/* Translated with LLM */
+"recording" = "録音中";
+
+/* Translated with LLM */
+"Recording (Localized)" = "録音（ローカライズ）";
+
+/* Translated with LLM */
+"recording directory" = "録音ディレクトリ";
+
+/* Translated with LLM */
+"recording duration" = "録音時間";
+
+/* Translated with LLM */
+"recording file" = "録音ファイル";
+
+/* Translated with LLM */
+"Recording Interrupted" = "録音中断";
+
+/* Translated with LLM */
+"recording off" = "録音オフ";
+
+/* Translated with LLM */
+"recording on" = "録音オン";
+
+/* Translated with LLM */
+"Recording Options" = "録音オプション";
+
+/* Translated with LLM */
+"recording path" = "録音パス";
+
+/* Translated with LLM */
+"Recording starts when both the audio inputs and outputs are continuously active." = "録音は、オーディオ入力と出力の両方が継続的にアクティブなときに開始されます。";
+
+/* Translated with LLM */
+"recording state" = "録音状態";
+
+/* Translated with LLM */
+"recording status" = "録音ステータス";
+
+/* Translated with LLM */
+"Recording successfully started." = "録音を正常に開始しました。";
+
+/* Translated with LLM */
+"recording switch" = "録音スイッチ";
+
+/* Translated with LLM */
+"recording timer" = "録音タイマー";
+
+/* Translated with LLM */
+"Recording Type" = "録音タイプ";
+
+/* Translated with LLM */
+"Recording Type Description" = "録音タイプの説明";
+
+/* Translated with LLM */
+"Recording will begin when the call is answered." = "通話に応答すると録音が開始されます。";
+
+/* Translated with LLM */
+"Recording “%@” is in progress." = "「%@」の録音が進行中です。";
+
+/* Translated with LLM */
+"RECORDING_LOCALIZED" = "録音";
+
+/* Translated with LLM */
+"Recordings" = "録音";
+
+/* Translated with LLM */
+"Recordings here are permanently removed after 30 days." = "ここでの録音は30日後に完全に削除されます。";
+
+/* Translated with LLM */
+"Recycle Bin" = "ゴミ箱";
+
+/* Translated with LLM */
+"Regenerate All" = "すべてを再生成";
+
+/* Translated with LLM */
+"reject" = "拒否";
+
+/* Translated with LLM */
+"Reject all incoming calls automatically." = "すべての着信を自動的に拒否する。";
+
+/* Translated with LLM */
+"reject call" = "着信拒否";
+
+/* Translated with LLM */
+"Reject Incoming Calls" = "着信拒否";
+
+/* Translated with LLM */
+"Relaunched" = "再始動しました";
+
+/* Translated with LLM */
+"Release" = "リリース";
+
+/* Translated with LLM */
+"Release Notes" = "リリースノート";
+
+/* Translated with LLM */
+"Remove" = "削除";
+
+/* Translated with LLM */
+"Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "キャッシュされた波形をすべて削除し、元の録音から再構築できるようにします。";
+
+/* Translated with LLM */
+"Remove All Recordings Permanently" = "すべての録音を完全に削除";
+
+/* Translated with LLM */
+"Remove Other Variants" = "他のバリアントを削除";
+
+/* Translated with LLM */
+"Remove Outdated Recordings" = "古い録音を削除";
+
+/* Translated with LLM */
+"Remove Token" = "トークンを削除";
+
+/* Translated with LLM */
+"Remove Tokens" = "トークンを削除";
+
+/* Translated with LLM */
+"Rename" = "名前を変更";
+
+/* Translated with LLM */
+"Repeat Infinitely" = "無限に繰り返す";
+
+/* Translated with LLM */
+"Reset" = "リセット";
+
+/* Translated with LLM */
+"Reset All Shortcuts" = "すべてのショートカットをリセット";
+
+/* Translated with LLM */
+"Reset Password" = "パスワードをリセット";
+
+/* Translated with LLM */
+"Reset Search Indexes" = "検索インデックスをリセット";
+
+/* Translated with LLM */
+"Reset Service" = "サービスをリセット";
+
+/* Translated with LLM */
+"Respring" = "リスプリング";
+
+/* Translated with LLM */
+"Restart Render Server" = "レンダーサーバーを再起動";
+
+/* Translated with LLM */
+"Restart SpringBoard and “Launch Shield” widgets." = "SpringBoardを再起動し、「Launch Shield」ウィジェットを起動します。";
+
+/* Translated with LLM */
+"Restore" = "復元";
+
+/* Translated with LLM */
+"Restore %d Items From Recycle Bin" = "ごみ箱から %d 個の項目を復元";
+
+/* Translated with LLM */
+"restore call audio" = "通話音声を復元";
+
+/* Translated with LLM */
+"Restore Selected %ld Items" = "選択した %ld 個の項目を復元";
+
+/* Translated with LLM */
+"Restore Selected Item" = "選択した項目を復元";
+
+/* Translated with LLM */
+"Restoring" = "復元中";
+
+/* Translated with LLM */
+"Resume Recording" = "録音を再開";
+
+/* Translated with LLM */
+"Resume with Warning" = "警告付きで再開";
+
+/* Translated with LLM */
+"Retry" = "リトライ";
+
+/* Translated with LLM */
+"Reverse Geocoding" = "逆ジオコーディング";
+
+/* Translated with LLM */
+"Reverse Selection" = "選択を反転";
+
+/* Translated with LLM */
+"Rewind 15 Seconds" = "15秒巻き戻し";
+
+/* Translated with LLM */
+"Ring" = "着信音";
+
+/* Translated with LLM */
+"Ring & Vibrate" = "着信音とバイブレーション";
+
+/* Translated with LLM */
+"Root" = "ルート";
+
+/* Translated with LLM */
+"Root directory is empty." = "ルートディレクトリが空です。";
+
+/* Translated with LLM */
+"RootHide Jailbreak" = "RootHide脱獄";
+
+/* Translated with LLM */
+"Rootless Jailbreak" = "ルートレス脱獄";
+
+/* Translated with LLM */
+"Runtime Environment: %@" = "ランタイム環境: %@";
+
+/* Translated with LLM */
+"Sample Rate" = "サンプルレート";
+
+/* Translated with LLM */
+"Sandbox Build" = "サンドボックスビルド";
+
+/* Translated with LLM */
+"Save" = "保存";
+
+/* Translated with LLM */
+"Save as Duplicate" = "複製として保存";
+
+/* Translated with LLM */
+"Save as Duplicate…" = "複製として保存…";
+
+/* Translated with LLM */
+"saved recording location" = "保存された録音場所";
+
+/* Translated with LLM */
+"Say ${requestedText}" = "${requestedText}と言う";
+
+/* Translated with LLM */
+"Scene Identification" = "シーン識別";
+
+/* Translated with LLM */
+"screen" = "画面収録";
+
+/* Translated with LLM */
+"screen capture" = "スクリーンキャプチャ";
+
+/* Translated with LLM */
+"screen capture stop" = "スクリーンキャプチャ停止";
+
+/* Translated with LLM */
+"screen recording off" = "スクリーン録画オフ";
+
+/* Translated with LLM */
+"SCRN: 2025SR1911573" = "ソフトウェア著作権登録番号：2025SR1911573";
+
+/* Translated with LLM */
+"Search" = "検索";
+
+/* Translated with LLM */
+"Search %@ in %@…" = "%1$@を%2$@で検索…";
+
+/* Translated with LLM */
+"Search %@…" = "%@を検索…";
+
+/* Translated with LLM */
+"Search Apps…" = "アプリを検索…";
+
+/* Translated with LLM */
+"Search Arguments…" = "引数を検索…";
+
+/* Translated with LLM */
+"Search Contacts…" = "連絡先を検索…";
+
+/* Translated with LLM */
+"Search in %@…" = "%@を検索…";
+
+/* Translated with LLM */
+"Search in depth with all available information saved when recording such as contact info or locations." = "連絡先や位置情報など、録音時に保存されたすべての利用可能な情報を使用して、詳細に検索できます。";
+
+/* Translated with LLM */
+"Search in Maps" = "マップで検索";
+
+/* Translated with LLM */
+"Search Recordings…" = "録音を検索…";
+
+/* Translated with LLM */
+"Search Shortcuts…" = "ショートカットを検索…";
+
+/* Translated with LLM */
+"Search Transcript…" = "文字起こしを検索…";
+
+/* Translated with LLM */
+"Searching for nearby devices" = "近くのデバイスを検索中";
+
+/* Translated with LLM */
+"Search…" = "検索…";
+
+/* Translated with LLM */
+"Seconds" = "秒";
+
+/* Translated with LLM */
+"Secure" = "セキュア";
+
+/* Translated with LLM */
+"Secure Payment" = "安全な支払い";
+
+/* Translated with LLM */
+"See ya!" = "じゃあね！";
+
+/* Translated with LLM */
+"Select" = "選択";
+
+/* Translated with LLM */
+"Select a recording to view or play." = "表示または再生する録音を選択してください。";
+
+/* Translated with LLM */
+"Select All" = "すべて選択";
+
+/* Translated with LLM */
+"Select the primary cloud service provider for recording synchronization." = "録音同期のプライマリクラウドサービスプロバイダを選択してください。";
+
+/* Translated with LLM */
+"Semi-Transparent" = "半透明";
+
+/* Translated with LLM */
+"Send Diagnostic" = "診断を送信";
+
+/* Translated with LLM */
+"Sender Name" = "送信者名";
+
+/* Translated with LLM */
+"Sender Phone Address" = "送信元電話番号";
+
+/* Translated with LLM */
+"Sender Short Name" = "送信者ショートネーム";
+
+/* Translated with LLM */
+"Separated Channels" = "分離チャンネル";
+
+/* Translated with LLM */
+"Separators" = "セパレータ";
+
+/* Translated with LLM */
+"Server" = "サーバー";
+
+/* Translated with LLM */
+"Server started at: %@" = "サーバーが起動しました: %@";
+
+/* Translated with LLM */
+"Server URL" = "サーバーURL";
+
+/* Translated with LLM */
+"service" = "サービス";
+
+/* Translated with LLM */
+"service active" = "サービスアクティブ";
+
+/* Translated with LLM */
+"Service is alive" = "サービスは動作中";
+
+/* Translated with LLM */
+"Service is dead" = "サービスが停止しています";
+
+/* Translated with LLM */
+"Service Status" = "サービスステータス";
+
+/* Translated with LLM */
+"Set a new name for this recording, or leave blank to use default." = "この録音の新しい名前を設定するか、空白のままにするとデフォルトの名前が使用されます。";
+
+/* Translated with LLM */
+"Settings" = "設定";
+
+/* Translated with LLM */
+"Setup Failed" = "セットアップ失敗";
+
+/* Translated with LLM */
+"Share" = "共有";
+
+/* Translated with LLM */
+"Short Date" = "短い日付";
+
+/* Translated with LLM */
+"Short Day of Week String" = "短い曜日文字列";
+
+/* Translated with LLM */
+"Short Month Name" = "短い月名";
+
+/* Translated with LLM */
+"Short Time" = "短時間";
+
+/* Translated with LLM */
+"Show Bundle Name" = "バンドル名を表示";
+
+/* Translated with LLM */
+"Show Contact Names" = "連絡先の名前を表示";
+
+/* Translated with LLM */
+"Show Hoverball" = "ホバーボールを表示";
+
+/* Translated with LLM */
+"Show Notification" = "通知を表示";
+
+/* Translated with LLM */
+"show notification" = "通知を表示";
+
+/* Translated with LLM */
+"Show notification ${requestedMessage}" = "通知 ${requestedMessage} を表示";
+
+/* Translated with LLM */
+"Show on Lock Screen" = "ロック画面に表示";
+
+/* Translated with LLM */
+"Show Option Description" = "オプションの説明を表示";
+
+/* Translated with LLM */
+"Show Recording Duration" = "録音時間を表示";
+
+/* Translated with LLM */
+"Show Recording Format" = "録音フォーマットを表示";
+
+/* Translated with LLM */
+"Show SIM Card Alias" = "SIMカードのエイリアスを表示";
+
+/* Translated with LLM */
+"Show Waveform Previews" = "波形プレビューを表示";
+
+/* Translated with LLM */
+"Show “View Details” menu item for developers to check the manifests of recordings." = "開発者が録音のマニフェストを確認できるように、「詳細を表示」メニュー項目を表示する。";
+
+/* Translated with LLM */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Dropboxアカウントでサインインして、アプリがDropboxにアクセスすることを承認してください。";
+
+/* Translated with LLM */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "Googleアカウントでサインインして、アプリがGoogleドライブにアクセスすることを承認してください。";
+
+/* Translated with LLM */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Microsoftアカウントでサインインして、アプリがMicrosoft OneDriveにアクセスすることを承認してください。";
+
+/* Translated with LLM */
+"silence call" = "サイレントコール";
+
+/* Translated with LLM */
+"Silent Mode" = "サイレントモード";
+
+/* Translated with LLM */
+"SIM Card Alias" = "SIMカードのエイリアス";
+
+/* Translated with LLM */
+"Simulator" = "シミュレーター";
+
+/* Translated with LLM */
+"Simulator (Sandbox)" = "シミュレーター（サンドボックス）";
+
+/* Translated with LLM */
+"Skip Silence" = "無音をスキップ";
+
+/* Translated with LLM */
+"Smaller" = "小";
+
+/* Translated with LLM */
+"Smart Cloud Archive" = "スマートクラウドアーカイブ";
+
+/* Translated with LLM */
+"Software License" = "ソフトウェアライセンス";
+
+/* Translated with LLM */
+"Some settings have been reset to default values." = "一部の設定がデフォルト値にリセットされました。";
+
+/* Translated with LLM */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "重要なものが不足しています。Sileo から「TrollRecorder JB」を再インストールしてください。";
+
+/* Translated with LLM */
+"Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "問題が発生しました。ライセンスを確認できません。「アカウントを表示」をタップして、ご注文、ご購入、またはギフトコードの引き換えをご確認ください。";
+
+/* Translated with LLM */
+"Sound Level Meter" = "騒音計";
+
+/* Translated with LLM */
+"Space" = "スペース";
+
+/* Translated with LLM */
+"Speaker" = "スピーカー";
+
+/* Translated with LLM */
+"speaker" = "スピーカー";
+
+/* Translated with LLM */
+"speaker off" = "スピーカーオフ";
+
+/* Translated with LLM */
+"speaker on" = "スピーカーオン";
+
+/* Translated with LLM */
+"Specified range from %@ to %@ is invalid." = "指定された範囲 %1$@ から %2$@ は無効です。";
+
+/* Translated with LLM */
+"spoken audio" = "音声";
+
+/* Translated with LLM */
+"start" = "開始";
+
+/* Translated with LLM */
+"Start a system screen recording just like what you do in the Control Center." = "コントロールセンターで行うのと同じように、システム画面の録画を開始します。";
+
+/* Translated with LLM */
+"Start Call Recording" = "通話録音を開始";
+
+/* Translated with LLM */
+"start daemon" = "デーモン起動";
+
+/* Translated with LLM */
+"Start Date" = "開始日";
+
+/* Translated with LLM */
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "通話録音、システムオーディオ録音、またはボイスメモの作成を開始または準備します。";
+
+/* Translated with LLM */
+"Start Recording" = "録音開始";
+
+/* Translated with LLM */
+"start recording" = "録音開始";
+
+/* Translated with LLM */
+"Start Screen Recording" = "画面収録を開始";
+
+/* Translated with LLM */
+"start screen recording" = "画面収録を開始";
+
+/* Translated with LLM */
+"Start System Audio Recording" = "システムオーディオ録音開始";
+
+/* Translated with LLM */
+"Start Voice Memo Recording" = "ボイスメモ録音開始";
+
+/* Translated with LLM */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "エクスポートサービスの開始に予想以上に時間がかかっています。ネットワークを確認して、もう一度お試しください。";
+
+/* Translated with LLM */
+"status" = "ステータス";
+
+/* Translated with LLM */
+"Stay tuned. We’re recording your call in the background." = "しばらくお待ちください。バックグラウンドで通話を録音しています。";
+
+/* Translated with LLM */
+"stop" = "停止";
+
+/* Translated with LLM */
+"Stop" = "停止";
+
+/* Translated with LLM */
+"Stop & Reset Service" = "サービスを停止してリセット";
+
+/* Translated with LLM */
+"Stop & Save" = "停止して保存";
+
+/* Translated with LLM */
+"Stop a call recording, system audio recording or voice memo if exists." = "通話録音、システム音声録音、またはボイスメモがある場合は停止します。";
+
+/* Translated with LLM */
+"Stop a system screen recording if exists." = "システム画面録画が存在する場合は停止します。";
+
+/* Translated with LLM */
+"Stop Recording" = "録音停止";
+
+/* Translated with LLM */
+"stop recording" = "録音停止";
+
+/* Translated with LLM */
+"Stop Recording When Disk Exhausted" = "ディスク不足時に録音を停止";
+
+/* Translated with LLM */
+"Stop Screen Recording" = "画面収録を停止";
+
+/* Translated with LLM */
+"stop screen recording" = "画面収録を停止";
+
+/* Translated with LLM */
+"Stop Service" = "サービス停止";
+
+/* Translated with LLM */
+"Successfully authorized to Google and connected to Google Drive." = "Google への認証に成功し、Google Drive に接続しました。";
+
+/* Translated with LLM */
+"Successfully authorized to Microsoft and connected to OneDrive." = "Microsoft への認証に成功し、OneDrive に接続しました。";
+
+/* Translated with LLM */
+"Successfully connected to Dropbox." = "Dropboxへの接続に成功しました。";
+
+/* Translated with LLM */
+"Successfully connected to the server %@." = "サーバ %@ への接続に成功しました。";
+
+/* Translated with LLM */
+"Suggested" = "推奨";
+
+/* Translated with LLM */
+"Suggested Applications" = "推奨アプリケーション";
+
+/* Translated with LLM */
+"Switch to list view" = "リスト表示に切り替える";
+
+/* Translated with LLM */
+"Switch to orbit view" = "軌道ビューに切り替える";
+
+/* Translated with LLM */
+"Sync" = "同期";
+
+/* Translated with LLM */
+"Sync Service Mode" = "同期サービスモード";
+
+/* Translated with LLM */
+"Sync Service Provider" = "同期サービスプロバイダ";
+
+/* Translated with LLM */
+"Sync: Make local and cloud recordings identical, modifying cloud drives only." = "同期：ローカルとクラウドの録音を同一にし、クラウドドライブのみを変更します。";
+
+/* Translated with LLM */
+"synchronization" = "同期";
+
+/* Translated with LLM */
+"Synchronization Failed" = "同期に失敗しました";
+
+/* Translated with LLM */
+"Synchronize the playback status of the recording with Control Center." = "録音の再生状態をコントロールセンターと同期します。";
+
+/* Translated with LLM */
+"Synchronizing" = "同期中";
+
+/* Translated with LLM */
+"Syntax or usage error occurred." = "構文エラーまたは使用法のエラーが発生しました。";
+
+/* Translated with LLM */
+"System Applications" = "システムアプリケーション";
+
+/* Translated with LLM */
+"System Audio" = "システムオーディオ";
+
+/* Translated with LLM */
+"System Audio Recording" = "システムオーディオ録音";
+
+/* Translated with LLM */
+"system audio recording" = "システムオーディオ録音";
+
+/* Translated with LLM */
+"System Language" = "システム言語";
+
+/* Translated with LLM */
+"System Record" = "システム録画";
+
+/* Translated with LLM */
+"Tap __any edge__  \nto select it as an ___active edge___." = "任意の __エッジ__ をタップして、  \n___アクティブエッジ___ として選択します。";
+
+/* Translated with LLM */
+"Tap to add required widget." = "タップして必要なウィジェットを追加";
+
+/* Translated with LLM */
+"Tap to calculate the total size of all recordings." = "タップして、すべての録音の合計サイズを計算します。";
+
+/* Translated with LLM */
+"Tap to Copy" = "タップしてコピー";
+
+/* Translated with LLM */
+"Tap to Exit" = "タップして終了";
+
+/* Translated with LLM */
+"Tap to open settings." = "タップして設定を開く。";
+
+/* Translated with LLM */
+"Tap to open Wi-Fi settings." = "タップしてWi-Fi設定を開く。";
+
+/* Translated with LLM */
+"Tap to view details" = "タップして詳細を表示";
+
+/* Translated with LLM */
+"Technical Error Detected" = "技術的エラーが検出されました";
+
+/* Translated with LLM */
+"Temporarily Ignore" = "一時的に無視";
+
+/* Translated with LLM */
+"Temporary error occurred, more retries might fix." = "一時的なエラーが発生しました。再試行すると解決する可能性があります。";
+
+/* Translated with LLM */
+"terminate" = "終了";
+
+/* Translated with LLM */
+"Terminate all active calls immediately." = "アクティブなすべての通話を直ちに終了します。";
+
+/* Translated with LLM */
+"terminate call" = "通話終了";
+
+/* Translated with LLM */
+"Terminate Calls" = "通話を終了";
+
+/* Translated with LLM */
+"Test Connection" = "接続テスト";
+
+/* Translated with LLM */
+"Text Copied" = "テキストをコピーしました";
+
+/* Translated with LLM */
+"text to speech" = "テキスト読み上げ";
+
+/* Translated with LLM */
+"text-to-speech" = "テキスト読み上げ";
+
+/* Translated with LLM */
+"The %@ has been interrupted by the system. You may convert the recording manually later." = "%@ はシステムによって中断されました。後で手動で録音を変換できます。";
+
+/* Translated with LLM */
+"The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "アプリケーションのセットアップで不明なエラーが発生しました。Launch Daemon がリクエストに応答していません。再接続を試みていますので、しばらくお待ちください。問題が解決しない場合は、アプリケーションを再インストールしてみてください。";
+
+/* Translated with LLM */
+"The application will launch automatically when recording ends." = "録音終了時にアプリケーションが自動的に起動します。";
+
+/* Translated with LLM */
+"The audio file to be played to the opposite side." = "相手側に再生するオーディオファイル。";
+
+/* Translated with LLM */
+"The bundle identifier of the application that initiated the call." = "通話を開始したアプリケーションのバンドル識別子。";
+
+/* Translated with LLM */
+"The content of text file “%@” is empty." = "テキストファイル“%@”の内容は空です。";
+
+/* Translated with LLM */
+"The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "現在の通話状態。指定できる値は以下のとおり：ダイヤル中、接続中、切断中、および不明。";
+
+/* Translated with LLM */
+"The date and time when the audio was created." = "オーディオが作成された日時。";
+
+/* Translated with LLM */
+"The device will vibrate with special haptic patterns when recording starts and ends." = "録音の開始時と終了時に、特別な触覚パターンでデバイスが振動します。";
+
+/* Translated with LLM */
+"The direction of the call. May not available for all audio files." = "通話の方向。すべての音声ファイルで利用できるとは限りません。";
+
+/* Translated with LLM */
+"The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "通話の方向。指定可能な値は以下のとおり：着信、発信、不明。";
+
+/* Translated with LLM */
+"The display name of the application that initiated the call." = "通話を開始したアプリケーションの表示名。";
+
+/* Translated with LLM */
+"The field of information to get." = "取得する情報フィールド。";
+
+/* Translated with LLM */
+"The file format of the selected audio file." = "選択したオーディオファイルのファイル形式。";
+
+/* Translated with LLM */
+"The hoverball can display even if you do not unlock your device." = "ホバーボールは、デバイスのロックを解除していなくても表示されます。";
+
+/* Translated with LLM */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "「クイック録音」と「物理キーの組み合わせ」のキーの組み合わせが「%@」に変更されました。";
+
+/* Translated with LLM */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "「TrollRecorder」の最新バージョンは %1$@ (%2$@) です。現在のバージョンは %3$@ (%4$@) です。";
+
+/* Translated with LLM */
+"The location metadata will be continuously updated while the recording is in progress." = "録音中、位置情報メタデータは継続的に更新されます。";
+
+/* Translated with LLM */
+"The location where the recording was recorded." = "録音が記録された場所。";
+
+/* Translated with LLM */
+"The maximum seconds to wait for calls to be connected." = "通話が接続されるまでの最大待機秒数。";
+
+/* Translated with LLM */
+"The missing location metadata will be populated if you open the application right after the recording." = "録画直後にアプリケーションを開くと、欠落していた位置情報のメタデータが入力されます。";
+
+/* Translated with LLM */
+"The name of the contact." = "連絡先の名前。";
+
+/* Translated with LLM */
+"The name of the sender." = "送信者の名前。";
+
+/* Translated with LLM */
+"The number of samples per second, higher sample rate means better audio quality with larger file size." = "1秒あたりのサンプル数。サンプルレートが高いほど、ファイルサイズが大きくなりますが、音質が向上します。";
+
+/* Translated with LLM */
+"the other device" = "もう一方のデバイス";
+
+/* Translated with LLM */
+"The phone number of the contact." = "連絡先の電話番号。";
+
+/* Translated with LLM */
+"The phone number of the sender." = "送信者の電話番号。";
+
+/* Translated with LLM */
+"The phone number. Third party application or CallKit calls may not have this value." = "電話番号。サードパーティアプリケーションまたはCallKitコールはこの値を持たない場合があります。";
+
+/* Translated with LLM */
+"The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "使用するポストプロセスモード。Combineモードは、ステレオスピーカーオーディオを左チャンネルに圧縮し、マイクを右チャンネルに配置します。Mixedモードは、マイクチャンネルをステレオに複製し、スピーカーチャンネルとミックスします。";
+
+/* Translated with LLM */
+"The primary button action at the right side of the hoverball when no call is active." = "通話がアクティブでない場合、ホバーボールの右側にあるプライマリボタンのアクション。";
+
+/* Translated with LLM */
+"The service is not properly configured." = "サービスが正しく設定されていません。";
+
+/* Translated with LLM */
+"The service operator name of the sender." = "送信者のサービス事業者名。";
+
+/* Translated with LLM */
+"The size of selected audio file." = "選択したオーディオファイルのサイズ。";
+
+/* Translated with LLM */
+"The text to be played to the opposite side." = "相手側に再生するテキスト。";
+
+/* Translated with LLM */
+"The time interval before the hoverball becomes idle." = "ホバーボールがアイドル状態になるまでの時間間隔。";
+
+/* Translated with LLM */
+"The type of content to be recorded." = "録画するコンテンツの種類。";
+
+/* Translated with LLM */
+"The unique identifier of the call." = "通話の一意の識別子。";
+
+/* Translated with LLM */
+"The unique identifier of the provider application." = "プロバイダアプリケーションの一意の識別子。";
+
+/* Translated with LLM */
+"The URL is not valid." = "URLは無効です。";
+
+/* Translated with LLM */
+"There is nothing but air." = "空気しかない。";
+
+/* Translated with LLM */
+"There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "録音直後にバックグラウンドサービスが録音ファイルを変換できないリスクが依然としてあります。幸いなことに、これで最後のステップを完了できます！";
+
+/* Translated with LLM */
+"There was a problem verifying your identity." = "本人確認に問題が発生しました。";
+
+/* Translated with LLM */
+"This feature requires a paid subscription. Please upgrade to use this feature." = "この機能をご利用いただくには有料サブスクリプションが必要です。アップグレードしてご利用ください。";
+
+/* Translated with LLM */
+"This field accept phone number for matching contact." = "このフィールドは、連絡先を照合するための電話番号を受け入れます。";
+
+/* Translated with LLM */
+"This field accept phone number or an email address for matching contact." = "このフィールドは、連絡先を照合するための電話番号またはメールアドレスを受け入れます。";
+
+/* Translated with LLM */
+"This is a widget daemon for Troll Recorder." = "これはTrollRecorderのウィジェットデーモンです。";
+
+/* Translated with LLM */
+"This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "このオプションは「クイック録音」と「物理キーの組み合わせ」の動作に影響します。";
+
+/* Translated with LLM */
+"This option overrides the “Press & Hold Action” of the Hoverball." = "このオプションは、ホバーボールの「プレス＆ホールドアクション」を上書きします。";
+
+/* Translated with LLM */
+"This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "この録音には複数のオーディオバリアントが含まれています。そのまま保存すると他のバリアントは削除されます。続行しますか、それとも複製として保存しますか？";
+
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "この録音はWeChatからのものです。「WeChatアシスタント」は、次回WeChatの連絡先名や備考を自動入力するのに役立ちます。\n「TrollRecorder Pro」を購入すると「WeChatアシスタント」を有効にできます。今すぐ購入しますか？";
+
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "この録音はWeChatからのものです。「WeChatアシスタント」は、次回WeChatの連絡先名と備考を入力する際に役立ちます。\n「WeChatアシスタント」が有効になっていないようです。すぐに有効にしますか？";
+
+/* Translated with LLM */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "このバージョンのWeChat（%@）はサポートされていません。最新バージョンにアップグレードしてください。";
+
+/* Translated with LLM */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "このバージョンのWeChat（%@）はテストされておらず、正式にサポートされていません。一部の機能が期待通りに動作しない可能性があります。";
+
+/* Translated with LLM */
+"This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "このバージョンのWeChat（%@）は部分的にサポートされています。最新バージョンにアップグレードすることをお勧めします。";
+
+/* Translated with LLM */
+"This version of WeChat (%@) is supported." = "このバージョンのWeChat（%@）はサポートされています。";
+
+/* Translated with LLM */
+"This will generate a new password and restart the WebDAV server." = "これにより、新しいパスワードが生成され、WebDAVサーバーが再起動します。";
+
+/* Translated with LLM */
+"Three-digit Milliseconds" = "3桁ミリ秒";
+
+/* Translated with LLM */
+"Time Sensitive" = "タイムセンシティブ";
+
+/* Translated with LLM */
+"time sensitive notification" = "タイムセンシティブ通知";
+
+/* Translated with LLM */
+"Title" = "タイトル";
+
+/* Translated with LLM */
+"To %@" = "～%@";
+
+/* Translated with LLM */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "「起動シールド」機能を有効にするには、「TrollRecorder」ウィジェットをロック画面またはホーム画面に追加する必要があります。「今すぐ追加」をタップすると、そのウィジェットがホーム画面の最初のページに追加されます。後で長押ししてドラッグすることで位置を変更できます。";
+
+/* Translated with LLM */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "iCloud Driveを設定するには、「設定」→「モバイル通信」→「iCloud Drive」に移動してください。";
+
+/* Translated with LLM */
+"To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "録音同期に関する通知を設定するには、「ネットワークストレージ」の設定ページに移動してください。";
+
+/* Translated with LLM */
+"To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "「長押しアクション」を設定するには、「オートメーション」→「ホバーボール長押し」からカスタムショートカットを削除する必要があります。";
+
+/* Translated with LLM */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "より正確な通話履歴を取得するには、TrollFools または類似の技術を使用して「WeChat」アプリにそれを注入する必要があります。";
+
+/* Translated with LLM */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "WebDAVアクセスを維持するには、「Troll Recorder」に対して「常に」または「Appの使用中」を選択する必要があります。";
+
+/* Translated with LLM */
+"To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "「Smart Cloud Archive」を使用するには、「TrollRecorder」の「Background App Refresh」を有効にする必要があります。";
+
+/* Translated with LLM */
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "「スマートクラウドアーカイブ」を使用するには、「設定」でiCloud Driveにサインインする必要があります。";
+
+/* Translated with LLM */
+"To: %@" = "宛先: %@";
+
+/* Translated with LLM */
+"toggle" = "トグル";
+
+/* Translated with LLM */
+"Toggle ${requestedMode}" = "${requestedMode}を切り替え";
+
+/* Translated with LLM */
+"Toggle Call Recording" = "通話録音の切り替え";
+
+/* Translated with LLM */
+"Toggle Hoverball" = "ホバーボールの切り替え";
+
+/* Translated with LLM */
+"toggle hoverball" = "ホバーボールの切り替え";
+
+/* Translated with LLM */
+"Toggle ON/OFF the recorder hoverball." = "レコーダーのホバーボールのON/OFFを切り替えます。";
+
+/* Translated with LLM */
+"Toggle Recording" = "録音の切り替え";
+
+/* Translated with LLM */
+"toggle recording" = "録音の切り替え";
+
+/* Translated with LLM */
+"Toggle Screen Recording" = "画面収録の切り替え";
+
+/* Translated with LLM */
+"toggle screen recording" = "画面収録の切り替え";
+
+/* Translated with LLM */
+"Toggle System Audio Recording" = "システムオーディオ録音の切り替え";
+
+/* Translated with LLM */
+"Toggle system screen recording just like what you do in the Control Center." = "システム画面録画のオン/オフを切り替えます。コントロールセンターで行うのと同じ操作です。";
+
+/* Translated with LLM */
+"Toggle Voice Memo Recording" = "ボイスメモ録音の切り替え";
+
+/* Translated with LLM */
+"Token expired. Please re-authorize to continue." = "トークンの有効期限が切れました。続行するには再認証してください。";
+
+/* Translated with LLM */
+"top edge" = "上端";
+
+/* Translated with LLM */
+"Total size is %@, path is %@" = "合計サイズは %@、パスは %@";
+
+/* No comment provided by engineer. */
+"Touch ID" = "Touch ID";
+
+/* Translated with LLM */
+"To…" = "まで…";
+
+/* Translated with LLM */
+"Track Location Updates" = "位置情報の更新を追跡";
+
+/* Translated with LLM */
+"trailing edge" = "後端";
+
+/* Translated with LLM */
+"Transcript" = "トランスクリプト";
+
+/* Translated with LLM */
+"Transcript Copied" = "トランスクリプトをコピーしました";
+
+/* Translated with LLM */
+"Transfer exceeded." = "転送制限を超えました。";
+
+/* Translated with LLM */
+"Transfer Recordings" = "録音を転送";
+
+/* Translated with LLM */
+"Transition When Idle" = "アイドル時のトランジション";
+
+/* Translated with LLM */
+"Translated by @AUTHOR_NAME" = "DeepSeek v4 による翻訳";
+
+/* Translated with LLM */
+"Trim" = "トリム";
+
+/* Translated with LLM */
+"Troll Recorder" = "TrollRecorder";
+
+/* Translated with LLM */
+"Troll Recorder %@" = "TrollRecorder %@";
+
+/* Translated with LLM */
+"tts" = "TTS";
+
+/* Translated with LLM */
+"tts playback" = "TTS再生";
+
+/* Translated with LLM */
+"Turn this option off to make the other options on this page take effect for the current application." = "このオプションをオフにすると、このページの他のオプションが現在のアプリケーションに適用されるようになります。";
+
+/* Translated with LLM */
+"Two-digit Day of Month Number" = "月の2桁の日付";
+
+/* Translated with LLM */
+"Two-digit Hours, 12-hour Clock" = "2桁時間（12時間制）";
+
+/* Translated with LLM */
+"Two-digit Hours, 24-hour Clock" = "2桁時間（24時間制）";
+
+/* Translated with LLM */
+"Two-digit Minutes" = "2桁の分";
+
+/* Translated with LLM */
+"Two-digit Month Number" = "2桁の月番号";
+
+/* Translated with LLM */
+"Two-digit Seconds" = "2桁の秒";
+
+/* Translated with LLM */
+"Type to search…" = "検索文字列を入力…";
+
+/* Translated with LLM */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "双方向同期用のリモートディレクトリが見つかりません。リモートストレージに「TrollRecorder/Recordings」ディレクトリを作成する必要があります。";
+
+/* Translated with LLM */
+"Unable to locate your personal “OneDrive”." = "個人の「OneDrive」が見つかりません。";
+
+/* Translated with LLM */
+"Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "増分双方向同期を実行できません。完全な再同期が必要です。";
+
+/* Translated with LLM */
+"Unauthorize" = "認証解除";
+
+/* Translated with LLM */
+"Uncompressed" = "非圧縮";
+
+/* Translated with LLM */
+"Underscore" = "アンダースコア";
+
+/* Translated with LLM */
+"Unknown" = "不明";
+
+/* Translated with LLM */
+"Unknown Address" = "不明な住所";
+
+/* Translated with LLM */
+"Unknown Artist" = "アーティスト不明";
+
+/* Translated with LLM */
+"Unknown Direction" = "不明な方向";
+
+/* Translated with LLM */
+"Unknown Duration" = "不明な期間";
+
+/* Translated with LLM */
+"Unknown Error" = "不明なエラー";
+
+/* Translated with LLM */
+"Unknown error occurred." = "不明なエラーが発生しました。";
+
+/* Translated with LLM */
+"Unknown error occurred. Please check the log for more details." = "不明なエラーが発生しました。詳細はログを確認してください。";
+
+/* Translated with LLM */
+"Unknown File Format" = "不明なファイル形式";
+
+/* Translated with LLM */
+"Unknown Location" = "不明な場所";
+
+/* Translated with LLM */
+"Unknown Operator" = "不明なオペレーター";
+
+/* Translated with LLM */
+"Unknown Phone Address" = "不明な電話番号";
+
+/* Translated with LLM */
+"Unknown Place" = "不明な場所";
+
+/* Translated with LLM */
+"Unknown Provider" = "不明なプロバイダ";
+
+/* Translated with LLM */
+"Unknown Sample Rate" = "不明なサンプルレート";
+
+/* Translated with LLM */
+"Unknown Sender" = "送信者不明";
+
+/* Translated with LLM */
+"Unknown Type" = "不明なタイプ";
+
+/* Translated with LLM */
+"Unknown Variant" = "不明なバリアント";
+
+/* Translated with LLM */
+"Unlock all features?" = "すべての機能をアンロックしますか？";
+
+/* Translated with LLM */
+"Unmark" = "マーク解除";
+
+/* Translated with LLM */
+"unmute" = "ミュート解除";
+
+/* Translated with LLM */
+"Unmute ${requestedChannel}" = "ミュート解除 ${requestedChannel}";
+
+/* Translated with LLM */
+"unmute call" = "通話ミュート解除";
+
+/* Translated with LLM */
+"Unmute Existing Calls" = "既存の通話のミュートを解除";
+
+/* Translated with LLM */
+"Unmute specified channel of all existing calls." = "既存のすべての通話の指定チャンネルのミュートを解除";
+
+/* Translated with LLM */
+"Unspecified" = "未指定";
+
+/* Translated with LLM */
+"Unsupported Configuration" = "サポートされていない構成";
+
+/* Translated with LLM */
+"Untitled" = "無題";
+
+/* Translated with LLM */
+"Up to 5 Personal Devices" = "最大5台の個人デバイス";
+
+/* Translated with LLM */
+"Updating…" = "更新中…";
+
+/* Translated with LLM */
+"Upgrade Now" = "今すぐアップグレード";
+
+/* Translated with LLM */
+"Upgrade to %@" = "%@ にアップグレード";
+
+/* Translated with LLM */
+"uplink" = "アップリンク";
+
+/* Translated with LLM */
+"Uplink (Microphone)" = "アップリンク（マイク）";
+
+/* Translated with LLM */
+"uplink playback" = "アップリンク再生";
+
+/* Translated with LLM */
+"uplink voice" = "アップリンク音声";
+
+/* Translated with LLM */
+"Upload" = "アップロード";
+
+/* Translated with LLM */
+"Upload, download or synchronize recordings between local and cloud drive." = "ローカルとクラウドドライブ間で録音をアップロード、ダウンロード、または同期します。";
+
+/* Translated with LLM */
+"Upload: Upload local recordings to cloud drives as is. Restorable." = "アップロード：ローカルの録音をそのままクラウドドライブにアップロードします。復元可能。";
+
+/* Translated with LLM */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "生体認証を使用してアプリケーションのロックを解除します。この機能が有効な場合、バックグラウンド再生は利用できません。";
+
+/* Translated with LLM */
+"Use Cellular Network" = "携帯電話ネットワークを使用";
+
+/* Translated with LLM */
+"Use Date" = "日付を使用";
+
+/* Translated with LLM */
+"Use Date Range" = "日付範囲を使用";
+
+/* Translated with LLM */
+"Use Default Settings" = "デフォルト設定を使用";
+
+/* Translated with LLM */
+"Use Haptic Patterns" = "触覚パターンを使用";
+
+/* Translated with LLM */
+"Use Media Controls" = "メディアコントロールを使用";
+
+/* Translated with LLM */
+"Use Recycle Bin" = "ゴミ箱を使用";
+
+/* Translated with LLM */
+"Use Snapshot Transition" = "スナップショットトランジションを使用";
+
+/* Translated with LLM */
+"User Agreement" = "利用規約";
+
+/* Translated with LLM */
+"User Applications" = "ユーザーアプリケーション";
+
+/* Translated with LLM */
+"User denied access to speech recognition." = "ユーザーが音声認識へのアクセスを拒否しました。";
+
+/* Translated with LLM */
+"User Initiated Recording" = "ユーザー開始録音";
+
+/* Translated with LLM */
+"User Interface Style" = "ユーザインターフェーススタイル";
+
+/* Translated with LLM */
+"Username (Optional)" = "ユーザー名（オプション）";
+
+/* Translated with LLM */
+"Utility" = "ユーティリティ";
+
+/* Translated with LLM */
+"Variant" = "バリアント";
+
+/* Translated with LLM */
+"Variant Capitalized" = "バリアント（先頭大文字）";
+
+/* Translated with LLM */
+"Variant Description" = "バリアントの説明";
+
+/* Translated with LLM */
+"Verification Failed" = "検証失敗";
+
+/* Translated with LLM */
+"Verify License" = "ライセンスの確認";
+
+/* Translated with LLM */
+"Version %@ Build %@" = "バージョン %1$@ ビルド %2$@";
+
+/* Translated with LLM */
+"Version %@ Build %@ - New Version %@ Build %@" = "バージョン %1$@ ビルド %2$@ - 新バージョン %3$@ ビルド %4$@";
+
+/* Translated with LLM */
+"Vibrate" = "バイブレーション";
+
+/* Translated with LLM */
+"View" = "表示";
+
+/* Translated with LLM */
+"View Details" = "詳細を表示";
+
+/* Translated with LLM */
+"View Logs" = "ログを表示";
+
+/* Translated with LLM */
+"View Logs: Application" = "ログを表示：アプリケーション";
+
+/* Translated with LLM */
+"View Logs: Audio Player" = "ログを表示: オーディオプレーヤー";
+
+/* Translated with LLM */
+"View Logs: Call Monitor" = "ログ表示: コールモニター";
+
+/* Translated with LLM */
+"View Logs: Call Recorder" = "ログを表示：コールレコーダー";
+
+/* Translated with LLM */
+"View Logs: Hoverball" = "ログを表示: ホバーボール";
+
+/* Translated with LLM */
+"View Logs: Launch Agent" = "ログを表示: Launch Agent";
+
+/* Translated with LLM */
+"View Logs: Network Storage" = "ログを表示：ネットワークストレージ";
+
+/* Translated with LLM */
+"View Logs: Speech Utterance" = "ログを表示: 発話発声";
+
+/* Translated with LLM */
+"View Logs: System Audio" = "ログを表示: システムオーディオ";
+
+/* Translated with LLM */
+"View Logs: Voice Memo" = "ログを表示: ボイスメモ";
+
+/* Translated with LLM */
+"View My Account" = "アカウントを表示";
+
+/* Translated with LLM */
+"View Recording Details" = "録音の詳細を表示";
+
+/* Translated with LLM */
+"VIP contacts will always be recorded and added to the favourites." = "VIP連絡先は常に録音され、お気に入りに追加されます。";
+
+/* Translated with LLM */
+"voice memo recording" = "ボイスメモ録音";
+
+/* Translated with LLM */
+"voice-over" = "ナレーション";
+
+/* Translated with LLM */
+"Voice-Over Voice" = "VoiceOver 音声";
+
+/* Translated with LLM */
+"Voice Memo" = "ボイスメモ";
+
+/* Translated with LLM */
+"Voice Memo Recording" = "ボイスメモ録音の切り替え";
+
+/* Translated with LLM */
+"Voice Memos" = "ボイスメモ";
+
+/* Translated with LLM */
+"VoIP" = "VoIP";
+
+/* Translated with LLM */
+"Volume" = "ボリューム";
+
+/* Translated with LLM */
+"wait" = "待機";
+
+/* Translated with LLM */
+"Wait for ${requestedTimeout} seconds" = "${requestedTimeout}秒待機";
+
+/* Translated with LLM */
+"Wait for any calls to be answered and connected." = "応答され接続されるまで通話を待機します。";
+
+/* Translated with LLM */
+"wait for call" = "通話を待機";
+
+/* Translated with LLM */
+"Wait for Calls" = "通話を待機";
+
+/* Translated with LLM */
+"Wait for Connected Calls" = "接続された通話を待機";
+
+/* Translated with LLM */
+"Warning, your call is being recorded now. Warning, your call is being recorded now." = "警告、あなたの通話は現在録音されています。警告、あなたの通話は現在録音されています。";
+
+/* Translated with LLM */
+"Waveform Audio" = "波形オーディオ";
+
+/* Translated with LLM */
+"We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "時刻が正確でないため、購入を確認できません。デバイスの時刻が正確であることを確認してから続行してください。";
+
+/* Translated with LLM */
+"We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "プライベートブラウジングモードでは、購入を確認できません。Safariのプライベートブラウジングモードでないことを確認してからお進みください。";
+
+/* Translated with LLM */
+"We couldn’t finish importing recordings from %@." = "%@からの録音のインポートを完了できませんでした。";
+
+/* Translated with LLM */
+"We love colorful and moving backgrounds, but option here for you to disable it." = "私たちはカラフルで動きのある背景が大好きですが、無効にするオプションも用意しています。";
+
+/* Translated with LLM */
+"WebDAV" = "WebDAV";
+
+/* Translated with LLM */
+"WebDAV Password Actions" = "WebDAVパスワードアクション";
+
+/* Translated with LLM */
+"WebDAV Server" = "WebDAVサーバー";
+
+/* Translated with LLM */
+"WeChat" = "WeChat";
+
+/* Translated with LLM */
+"WeChat Assistant" = "WeChatアシスタント";
+
+/* Translated with LLM */
+"Welcome to" = "ようこそ";
+
+/* Translated with LLM */
+"We’re recording system audio in the background." = "バックグラウンドでシステムオーディオを録音しています。";
+
+/* Translated with LLM */
+"We’re recording your voice memo in the background." = "バックグラウンドでボイスメモを録音しています。";
+
+/* Translated with LLM */
+"We’ve got a new phone call recording!" = "新しい電話の通話録音ができました！";
+
+/* Translated with LLM */
+"We’ve got a new system audio recording!" = "新しいシステムオーディオの録音ができました！";
+
+/* Translated with LLM */
+"We’ve got a new voice memo!" = "新しいボイスメモが届きました！";
+
+/* Translated with LLM */
+"We’ve got new phone call recordings!" = "新しい電話の通話録音ができました！";
+
+/* Translated with LLM */
+"What’s New" = "新着情報";
+
+/* Translated with LLM */
+"When any of the following actions is triggered, run the shortcut without any notification." = "以下のアクションのいずれかがトリガーされた場合、通知なしでショートカットを実行します。";
+
+/* Translated with LLM */
+"When Foreground" = "フォアグラウンド時";
+
+/* Translated with LLM */
+"When Locked" = "ロック時";
+
+/* Translated with LLM */
+"When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "WLANに接続されていない場合、携帯電話ネットワークを使用して録音を転送します。追加料金がかかる場合があります。";
+
+/* Translated with LLM */
+"When there is no call…" = "通話がないときは…";
+
+/* Translated with LLM */
+"When Visible" = "可視時";
+
+/* Translated with LLM */
+"When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "WebDAVサーバーが有効な場合、Safari、Chrome、Edgeなどの一般的なウェブブラウザからのアクセスを許可するかどうか。";
+
+/* Translated with LLM */
+"Whether to force the application to use the light or the dark user interface." = "アプリケーションにライトまたはダークのユーザインターフェースを強制的に使用させるかどうか。";
+
+/* Translated with LLM */
+"Whether to force the hoverball to use the light or the dark style." = "ホバーボールをライトスタイルまたはダークスタイルのどちらかに強制するかどうか。";
+
+/* Translated with LLM */
+"Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "オーディオの再生を無限に繰り返すかどうか。有効にすると、このアクションは再生を開始した直後に戻ります。";
+
+/* Translated with LLM */
+"Which channel to mute." = "ミュートするチャンネル。";
+
+/* Translated with LLM */
+"Which channel to unmute." = "ミュートを解除するチャンネル。";
+
+/* Translated with LLM */
+"Which edges of the screen the hoverball can be attached to." = "ホバーボールを画面のどの端に取り付けることができるか。";
+
+/* Translated with LLM */
+"Why don’t you make a phone call?" = "電話してみませんか？";
+
+/* Translated with LLM */
+"Wi-Fi Required" = "Wi-Fi必須";
+
+/* Translated with LLM */
+"Will start recording automatically on audio or video calls in the current application." = "現在のアプリケーションでのオーディオまたはビデオ通話時に自動的に録音を開始します。";
+
+/* Translated with LLM */
+"Will start recording automatically on audio or video calls." = "音声通話またはビデオ通話時に自動的に録音を開始します。";
+
+/* Translated with LLM */
+"Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "エクスポートされたオーディオファイルにID3タグ（タイトル、アーティスト、アルバム、ジャンル、年、アートワークを含む）を書き込みます。";
+
+/* Translated with LLM */
+"Write latitude and longitude to the recording metadata." = "録音メタデータに緯度と経度を書き込みます。";
+
+/* Translated with LLM */
+"Write runtime logs into filesystem. You need to restart services to apply changes." = "ランタイムログをファイルシステムに書き込みます。変更を適用するには、サービスを再起動する必要があります。";
+
+/* Translated with LLM */
+"Year Month Day" = "年月日";
+
+/* Translated with LLM */
+"YES" = "はい";
+
+/* Translated with LLM */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "すべての録音を消去し、すべての設定をリセットし、すべてのキャッシュを完全にクリアしようとしています。\nこの操作は元に戻せません！";
+
+/* Translated with LLM */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "すべての録音と設定のファイルシステムの所有者とパーミッションを修正しようとしています。";
+
+/* Translated with LLM */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "「TrollRecorder」%1$@ (%2$@) の最新バージョンを既に使用しています。";
+
+/* Translated with LLM */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "「設定」→「アクセシビリティ」→「VoiceOver」→「スピーチ」→「声」でボイスパックをダウンロードし、ここで音声通知用に選択できます。";
+
+/* Translated with LLM */
+"You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "TrollRecorder がバックグラウンドで位置情報を特定するには、「常に」を選択する必要があります。「Appの使用中」を選択した場合、位置情報は録音後にアプリケーションを起動したときのみ更新されます。";
+
+/* Translated with LLM */
+"You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "このページのオプションを有効にするには、「拡張自動録音」または「拡張シーン識別」を有効にする必要があります。";
+
+/* Translated with LLM */
+"You may need to reboot your device to make this application work properly." = "このアプリケーションを正しく動作させるには、デバイスの再起動が必要な場合があります。";
+
+/* Translated with LLM */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "この%1$@のあなたの情報はアップロードされ、「%2$@」に保存されている録音と統合されます。";
+
+/* Translated with LLM */
+"You’re now using the free version of “TrollRecorder JB”." = "「TrollRecorder JB」の無料版をご利用中です。";
+
+/* Translated with LLM */
+"You’re now using the free version of “TrollRecorder”." = "「TrollRecorder」の無料版をご利用中です。";
+
+/* Translated with LLM */
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "アプリケーションの表示言語を「%@」に変更しました。変更を完全に適用するには、再起動が必要です。";
+
+/* Translated with LLM */
+"You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "「カスタムエクスポート名」を変更しました。「ネットワークストレージ」内のアーカイブ済み録音を再生成しますか？\nこの操作には時間がかかり、追加のモバイルデータ通信量を消費する可能性があります。重複を避けるため、クラウドドライブから「TrollRecorder/ArchivedRecordings」を削除することをお勧めします。";
+
+/* Translated with LLM */
+"You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "有効なコード署名なしで続行することを選択しました。アプリケーションを使用して既存の録音を表示またはエクスポートすることはできますが、その他の機能は利用できない場合があります。";
+
+/* Translated with LLM */
+"You’ve enabled biometric authentication so it’s required to verify your identity." = "生体認証を有効にしているため、本人確認が必要です。";
+
+/* Translated with LLM */
+"You’ve pressed cancel." = "キャンセルを押しました。";
+
+/* Translated with LLM */
+"You’ve pressed password." = "パスワードを押しました。";
+
+/* Translated with LLM */
+"¼ Audio CD" = "¼ オーディオCD";
+
+/* Translated with LLM */
+"½ Audio CD" = "½ オーディオCD";
+
+/* Translated with LLM */
+"“%@” is not available." = "“%@”は使用できません。";
+
+/* Translated with LLM */
+"“Background App Refresh” Permission Denied" = "「バックグラウンド App リフレッシュ」の許可が拒否されました";
+
+/* Translated with LLM */
+"“iCloud Drive” Not Logged In" = "“iCloud Drive”にログインしていません";
+
+/* Translated with LLM */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "「Launch Shield」が有効です：一部のシナリオではサービスが再度有効になります。サービスを完全に停止するには、「詳細オプション」→「Launch Shield」を無効にし、アプリケーションを終了して再度開き、このオプションを再度選択してください。";
+
+/* Translated with LLM */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "「TrollRecorder JB」とTrollStoreの両方のバージョンがインストールされています。両方を削除し、Sileoから「TrollRecorder JB」、またはTrollStoreから「TrollRecorder」を再インストールしてください。";
+
+/* Translated with LLM */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "「TrollRecorder JB」は Bootstrap (RootHide) と互換性がありません。「TrollRecorder JB」を削除し、TrollStore から「TrollRecorder」をインストールしてください。";
+
+/* Translated with LLM */
+"“TrollRecorder” is not compatible with this version of iOS." = "「TrollRecorder」はこのバージョンのiOSと互換性がありません。";
+
+/* No comment provided by engineer. */
+"…" = "…";

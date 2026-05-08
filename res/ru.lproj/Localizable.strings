@@ -1,1357 +1,1492 @@
 /* No comment provided by engineer. */
 "%@ Hz" = "%@ Hz";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is locked." = "%@ заблокирован.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not available." = "%@ недоступен.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not implemented yet." = "%@ ещё не реализовано.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ is not set up." = "%@ не настроен.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ may not be configured" = "%@ может быть не настроен";
 
-/* TODO */
-"%@ Reason: %@" = "%1$@ Reason: %2$@";
+/* Translated with LLM */
+"%@ Reason: %@" = "%1$@ Причина: %2$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%@ rows not loaded" = "%@ строк не загружено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%d Exclusive Features" = "%d эксклюзивных функций";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recording" = "%ld запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recording ◇ %@" = "%ld запись ◇ %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recordings" = "%ld записей";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "%ld Recordings ◇ %@" = "%ld записей ◇ %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "(%lu bytes)" = "(%lu байт)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "(%lu items)" = "(%lu элементов)";
 
 /* No comment provided by engineer. */
 "(null)" = "(null)";
 
-/* No comment provided by engineer. */
-"--arg=value" = "--arg=значение";
+/* Translated with LLM */
+"--arg=value" = "--arg=value";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "3 Seconds" = "3 секунды";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "30 Days Ago" = "30 дней назад";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "4 Seconds" = "4 секунды";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "45 Days Ago" = "45 дней назад";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "5 Seconds" = "5 секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "6 Seconds" = "6 секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "90 Days Ago" = "90 дней назад";
 
 /* No comment provided by engineer. */
 "<%@: %p>" = "<%@: %p>";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "A new version (%@) of “TrollRecorder” is available." = "Доступна новая версия (%@) «TrollRecorder».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "A respring is required to completely apply the changes." = "Для применения изменений требуется respring.";
 
-/* No comment provided by engineer. */
-"A widget is required for the “Launch Shield” feature." = "Для функции «Launch Shield» требуется виджет.";
+/* Translated with LLM */
+"A widget is required for the “Launch Shield” feature." = "Для функции «Launch Shield» требуется виджет.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "accept" = "принять";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Accept all incoming calls automatically." = "Автоматически принимать все входящие звонки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"accept call" = "принять вызов";
+
+/* Translated with LLM */
 "Accept Incoming Calls" = "Принимать входящие звонки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Access From Web Browser" = "Доступ из браузера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "Доступ к записям через WebDAV-браузер с другого устройства в сети. Сервер активен только когда приложение на переднем плане.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "activate" = "активировать";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"activate hoverball" = "активировать плавающую кнопку";
+
+/* Translated with LLM */
 "Activate the recorder hoverball." = "Активировать плавающую кнопку записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add" = "Добавить";
 
-/* TODO */
-"Add Argument" = "Новый аргумент";
+/* Translated with LLM */
+"Add Argument" = "Добавить аргумент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add Now" = "Добавить сейчас";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Add Required Widget" = "Добавить необходимый виджет";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Add Token" = "Добавить токен";
+
+/* Translated with LLM */
+"Add Tokens" = "Добавить токены";
+
+/* Translated with LLM */
 "Additional command-line options for the Rclone synchronization tool." = "Дополнительные параметры командной строки для инструмента синхронизации Rclone.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Additional Contact" = "Дополнительный контакт";
 
-/* TODO */
-"Adequate" = "Adequate";
+/* Translated with LLM */
+"Adequate" = "Адекватное";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Audio Coding" = "Advanced Audio Coding (AAC)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Options" = "Дополнительные настройки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Advanced Search" = "Расширенный поиск";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "After %@" = "После %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Agree" = "Согласен";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Alias" = "Псевдоним";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "alive" = "активен";
 
-/* TODO */
-"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites.";
+/* Translated with LLM */
+"All calls will be recorded automatically, excluding contacts in the “Exclusion List”. VIP contacts will also be added to the favourites." = "Все звонки будут записываться автоматически, за исключением контактов из «Списка исключений». VIP-контакты также будут добавлены в избранное.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "All Edges" = "Все границы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "All logs will be preserved for 7 days. Outdated logs will be removed automatically." = "Логи хранятся 7 дней. Устаревшие логи удаляются автоматически.";
 
-/* TODO */
-"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "All recordings from %@ are now available on this device. You can close this screen when you’re ready.";
+/* Translated with LLM */
+"All recordings from %@ are now available on this device. You can close this screen when you’re ready." = "Все записи из %@ теперь доступны на этом устройстве. Вы можете закрыть этот экран, когда будете готовы.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Access to Call History" = "Разрешить доступ к истории звонков";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Automatic Recording" = "Разрешить автоматическую запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow Hoverball Wake-Ups" = "Разрешить пробуждение плавающей кнопки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Разрешить чтение списка контактов WeChat и истории VoIP-звонков для подстановки имён в записях. Поддерживаются только свежие версии WeChat.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Allow to record phone calls received on devices signed into your iCloud account when they are nearby and on WLAN." = "Разрешить запись звонков на устройствах с вашим iCloud, когда они рядом и в сети Wi-Fi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always" = "Всегда";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Dark" = "Всегда тёмная";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Dynamic" = "Всегда динамическая";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Fold" = "Всегда свёрнуто";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always keep the hoverball window visible." = "Всегда держать плавающую кнопку видимой.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Keep-Alive in Background" = "Всегда активен в фоне";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always Light" = "Всегда светлая";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always On" = "Всегда включён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Always schedule background processing tasks to run at the next available opportunity." = "Всегда планировать фоновые задачи на ближайшее доступное время.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "AM/PM String" = "AM/PM строка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "An unknown error occurred." = "Произошла неизвестная ошибка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Analysing Audio" = "Анализ аудио";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Another %@ is required to continue editing. Available capacity is %@." = "Требуется ещё %1$@ для редактирования. Доступно %2$@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "answer" = "ответить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"answer call" = "ответить на вызов";
+
+/* Translated with LLM */
+"answer incoming call" = "ответить на входящий вызов";
+
+/* Translated with LLM */
 "answered" = "отвечен";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"answered call" = "принятый вызов";
+
+/* Translated with LLM */
 "Any" = "Любой";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "App Icon" = "Иконка приложения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "App Language" = "Язык приложения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Appearance" = "Внешний вид";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Apple’s Core Audio" = "Apple Core Audio";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Application" = "Приложение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Application Overrides" = "Переопределения приложения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Applications" = "Приложения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"App Store" = "App Store";
+
+/* Translated with LLM */
 "archive" = "архив";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Archive" = "Архив";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Archive Regeneration" = "Пересоздание архива";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Archive: Use “Content Sharing” → “Custom Export Name” to rename local mixed & combined primary recordings and upload to cloud drives. Unrestorable." = "Архив: используйте «Общий доступ» → «Своё имя экспорта» для переименования локальных записей и загрузки в облако. Восстановление невозможно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Are you sure you want to discard the changes you made?" = "Вы уверены, что хотите отменить изменения?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Are you sure you want to remove all shortcut definitions?" = "Вы уверены, что хотите удалить все определения ярлыков?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Arguments added on this page will be passed through to the rclone command line exactly as entered." = "Аргументы, добавленные на этой странице, будут переданы в командную строку rclone в точности так, как они введены.";
+
+/* Translated with LLM */
 "Associate with Call History" = "Связать с историей звонков";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "At the end of recording, the audio files of each channel during recording are retained." = "После записи сохраняются аудиофайлы каждого канала.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Attachable Edges" = "Прикрепляемые границы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "audio" = "аудио";
 
-/* TODO */
-"Audio CD" = "Audio CD";
+/* Translated with LLM */
+"Audio CD" = "Аудио-CD";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio File" = "Аудиофайл";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio played to %@" = "Аудио воспроизведено для %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Audio progress" = "Прогресс аудио";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authenticate with %@" = "Аутентификация через %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorization error: %@" = "Ошибка авторизации: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorization flow was manually canceled by user." = "Пользователь отменил процесс авторизации.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Dropbox" = "Авторизоваться через Dropbox";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Google" = "Авторизоваться через Google";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Authorize with Microsoft" = "Авторизоваться через Microsoft";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatic" = "Автоматически";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatic Recording" = "Автоматическая запись";
 
-/* TODO */
-"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Automatic recording is disabled. Calls will not be recorded automatically in any situation.";
+/* Translated with LLM */
+"Automatic recording is disabled. Calls will not be recorded automatically in any situation." = "Автоматическая запись отключена. Звонки не будут записываться автоматически ни в какой ситуации.";
 
-/* No comment provided by engineer. */
-"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Ежемесячно создавать копии смешанных записей и хранить в iCloud Drive. Записи текущего месяца не архивируются.";
+/* Translated with LLM */
+"Automatically create clones for mixed & combined primary recordings every month, and store them in iCloud Drive. Recordings from the current month will not be archived." = "Ежемесячно создавать копии смешанных и комбинированных первичных записей и хранить их в iCloud Drive. Записи текущего месяца не архивируются.";
 
-/* No comment provided by engineer. */
-"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Автозапуск фоновых служб после перезагрузки. Для работы требуется виджет «TrollRecorder» на экране блокировки или главном.";
+/* Translated with LLM */
+"Automatically launch background services and keep it alive when the device is rebooted and unlocked. To enable this feature, the “TrollRecorder” widget needs to be added somewhere on the lock or home screen." = "Автозапуск фоновых служб после перезагрузки и разблокировки устройства. Для работы требуется виджет «TrollRecorder» на экране блокировки или главном экране.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically merge microphone and speaker into a single file after record complete." = "Автоматически объединять микрофон и динамик в один файл после записи.";
 
-/* No comment provided by engineer. */
-"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Автоматически перемещать плавающую кнопку, чтобы избежать клавиатуры.";
+/* Translated with LLM */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Автоматически перемещать плавающую кнопку, чтобы избежать клавиатуры в портретной ориентации.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically purge recycle bin and remove failure caches." = "Автоматически очищать корзину и удалять ошибочные кеши.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically query the latest version from GitHub when the application starts." = "Автоматически проверять новую версию на GitHub при запуске.";
 
-/* TODO */
-"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”.";
+/* Translated with LLM */
+"Automatically record all FaceTime calls: Excluding contacts in the “Exclusion List”." = "Автоматически записывать все звонки FaceTime: за исключением контактов из «Списка исключений».";
 
-/* TODO */
-"Automatically record FaceTime calls from contacts not in your address book." = "Automatically record FaceTime calls from contacts not in your address book.";
+/* Translated with LLM */
+"Automatically record FaceTime calls from contacts not in your address book." = "Автоматически записывать звонки FaceTime от контактов, отсутствующих в вашей адресной книге.";
 
-/* TODO */
-"Automatically record phone calls from contacts not in your address book." = "Automatically record phone calls from contacts not in your address book.";
+/* Translated with LLM */
+"Automatically record phone calls from contacts not in your address book." = "Автоматически записывать телефонные звонки от контактов, отсутствующих в вашей адресной книге.";
 
-/* TODO */
-"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Automatically record phone calls: Excluding contacts in the “Exclusion List”.";
+/* Translated with LLM */
+"Automatically record phone calls: Excluding contacts in the “Exclusion List”." = "Автоматически записывать телефонные звонки: за исключением контактов из «Списка исключений».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically remove recordings created earlier than specified date except those marked ones." = "Автоматически удалять записи старше указанной даты, кроме помеченных.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically stop recording when available disk space is extremely low." = "Автоматически останавливать запись при нехватке места.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically Suspend in Background" = "Автоматически приостанавливать в фоне";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automatically swipe up to desktop when unlocked. Unlocked within 10 seconds of locking, this action will not take effect." = "Автоматически переходить на рабочий стол при разблокировке. Не срабатывает, если разблокировано в течение 10 секунд после блокировки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Automation" = "Автоматизация";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Avoid screen being locked automatically when WebDAV server is used by any client." = "Не блокировать экран при использовании WebDAV-сервера.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Background Style" = "Стиль фона";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "backup" = "резервная копия";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Backup Synchronized" = "Резервная копия синхронизирована";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Backup With iCloud" = "Резервная копия в iCloud";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Batch Export" = "Пакетный экспорт";
 
-/* TODO */
+/* No comment provided by engineer. */
 "BatchExport_%@.zip" = "BatchExport_%@.zip";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Before %@" = "До %@";
 
-/* No comment provided by engineer. */
-"Before starting a call recording, a prompt voice is played to the opposite end." = "Перед записью воспроизводится предупреждающее сообщение.";
+/* Translated with LLM */
+"Before starting a call recording, a prompt voice is played to the opposite end." = "Перед началом записи разговора другой стороне воспроизводится предупреждающее сообщение.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"begin recording" = "начать запись";
+
+/* Translated with LLM */
+"begin screen recording" = "начать запись экрана";
+
+/* Translated with LLM */
 "Beta" = "Бета";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bi-sync" = "Двусторонняя синхронизация";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bi-sync: Perform bidirectional synchronization between two paths." = "Двусторонняя синхронизация: синхронизация в обоих направлениях.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Biometric Authentication" = "Биометрическая аутентификация";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"block incoming call" = "блокировать входящий вызов";
+
+/* Translated with LLM */
 "Bonjour server started at: %@" = "Bonjour-сервер запущен: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Boost Periodic Tasks" = "Ускорение периодических задач";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (режим совместимости TrollStore)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Both (Microphone & Speaker)" = "Оба (микрофон и динамик)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "bottom edge" = "нижняя граница";
 
-/* No comment provided by engineer. */
-"Build and use a custom export name template for exported audio files." = "Создать шаблон имени для экспортируемых аудиофайлов.";
+/* Translated with LLM */
+"Build and use a custom export name template for exported audio files." = "Создайте и используйте собственный шаблон имени для экспортируемых аудиофайлов.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Display Name" = "Отображаемое имя пакета";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Identifier" = "Идентификатор пакета";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Bundle Name" = "Имя пакета";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Buy TrollRecorder Pro" = "Купить TrollRecorder Pro";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Calculating…" = "Вычисление…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call" = "Звонок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "call" = "звонок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call audio on" = "включить звук вызова";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Restarting the daemon immediately may resolve this exception. Proceed?" = "Сбой мониторинга аудиоканала вызова. Немедленный перезапуск демона может устранить эту ошибку. Продолжить?";
+
+/* Translated with LLM */
+"Call audio pipeline monitoring failed. Tap this notification to restart the recording service." = "Мониторинг аудиоканала вызова не удался. Нажмите на это уведомление, чтобы перезапустить службу записи.";
+
+/* Translated with LLM */
+"call connected" = "вызов соединён";
+
+/* Translated with LLM */
 "Call Direction" = "Направление звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call duration" = "длительность звонка";
+
+/* Translated with LLM */
 "Call Identifier" = "Идентификатор звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"call information" = "информация о звонке";
+
+/* Translated with LLM */
 "Call Recording" = "Запись звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call Recording Begins" = "Начало записи звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call Recording Ends" = "Конец записи звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording from “%@” and other %ld applications." = "Запись звонков из «%@» и %ld других приложений.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording from “%@”." = "Запись звонков из «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Запись начинается только после ответа на звонок.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Call State" = "Состояние звонка";
 
-/* No comment provided by engineer. */
-"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Запись возможна только при использовании микрофона этого устройства.";
+/* Translated with LLM */
+"call status" = "статус звонка";
 
-/* TODO */
-"Camcorder" = "Camcorder";
+/* Translated with LLM */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Запись возможна только при использовании микрофона этого устройства. Вызовы с этого устройства, на которые отвечают на других устройствах, записаны не будут.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Camcorder" = "Видеокамера";
+
+/* Translated with LLM */
 "Cancel" = "Отмена";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Cannot parse text with UTF-8 encoding: “%@”." = "Не удалось разобрать текст в UTF-8: «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Caution" = "Осторожно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "check" = "проверить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Check if the daemon is running. If not, launch it." = "Проверить работу демона. Запустить, если не работает.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"check service" = "проверить службу";
+
+/* Translated with LLM */
 "Check Updates" = "Проверить обновления";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Check Updates at Launch" = "Проверять обновления при запуске";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Checking service status" = "Проверка статуса службы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Child Pages" = "Дочерние страницы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Выберите формат аудио для микшера. Wave не поддерживает продвинутое кодирование.";
 
-/* No comment provided by engineer. */
-"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Выберите качество аудио. Высокое качество увеличивает размер файла.";
+/* Translated with LLM */
+"Choose the output audio quality for the mixer. Higher quality means higher sample rate and bit rate, which will result in larger file size." = "Выберите качество выходного аудио для микшера. Более высокое качество означает более высокую частоту дискретизации и битрейт, что приведет к увеличению размера файла.";
 
-/* No comment provided by engineer. */
-"Choose the output file format for the mixer." = "Выберите формат файла для микшера.";
+/* Translated with LLM */
+"Choose the output file format for the mixer." = "Выберите формат выходного файла для микшера.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Choose the size preset of the hoverball." = "Выберите размер плавающей кнопки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clean Caches Automatically" = "Автоматически очищать кеш";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clear" = "Очистить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Clear Selection" = "Снять выделение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Clear Tokens" = "Очистить токены";
+
+/* Translated with LLM */
 "Clear Wave Caches" = "Очистить кеш волн";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Close" = "Закрыть";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"close hoverball" = "Закрыть hoverball";
+
+/* Translated with LLM */
+"cloud archive sync" = "синхронизация облачного архива";
+
+/* Translated with LLM */
 "Collapse Recursively" = "Свернуть рекурсивно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Collecting" = "Сбор";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Combined" = "Объединённый";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Combined Mode" = "Объединённый режим";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Compiled at %@" = "Собрано %@";
 
-/* TODO */
-"Compressing" = "Compressing";
+/* Translated with LLM */
+"Compressing" = "Сжатие";
 
-/* No comment provided by engineer. */
-"Configure the embedded client with your WebDAV server address, username and password." = "Настройте клиент WebDAV: адрес сервера, имя пользователя и пароль.";
+/* Translated with LLM */
+"Configure the embedded client with your WebDAV server address, username and password." = "Настройте встроенный клиент, указав адрес сервера WebDAV, имя пользователя и пароль.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Configure WebDAV Client" = "Настроить WebDAV-клиент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Confirm" = "Подтвердить";
 
-/* No comment provided by engineer. */
-"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Подтвердите аккаунт Havoc — это единственное доказательство покупки. Не нажимайте на иконку подарка при оплате.";
+/* Translated with LLM */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Подтвердите аккаунт Havoc — это единственное доказательство покупки. Вы несете ответственность за любую потерю авторизации из-за забытого аккаунта. При совершении покупки нажмите на сумму на странице, чтобы завершить оплату, не нажимайте на иконку подарка.";
 
-/* TODO */
-"Connect to a Wi‑Fi network before transferring recordings." = "Connect to a Wi‑Fi network before transferring recordings.";
+/* Translated with LLM */
+"Connect to a Wi‑Fi network before transferring recordings." = "Подключитесь к сети Wi‑Fi перед передачей записей.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "connected" = "подключён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"connected call" = "соединённый вызов";
+
+/* Translated with LLM */
 "Connected Clients: %d" = "Подключённые клиенты: %d";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Connection" = "Подключение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Constants" = "Константы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Exceptions" = "Исключения контактов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Name" = "Имя контакта";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Phone Address" = "Телефон контакта";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact Us" = "Связаться с нами";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via Discord" = "Discord";
 
-/* No comment provided by engineer. */
-"Contact via Email" = "Email";
+/* Translated with LLM */
+"Contact via Email" = "Связаться по электронной почте";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contact via QQ" = "QQ";
 
-/* TODO */
-"Contact via TikTok" = "Contact via TikTok";
+/* Translated with LLM */
+"Contact via TikTok" = "Связаться через TikTok";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts" = "Контакты";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts in this list will not be recorded in any situation." = "Контакты из этого списка не будут записываться.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Contacts Permission Denied" = "Доступ к контактам запрещён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Content" = "Содержание";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Content Sharing" = "Общий доступ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Continue" = "Продолжить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Continuous Playback Off" = "Непрерывное воспроизведение выкл.";
+
+/* Translated with LLM */
+"Continuous Playback On" = "Непрерывное воспроизведение вкл.";
+
+/* Translated with LLM */
 "Conversion Failed" = "Ошибка преобразования";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Conversion Succeed" = "Преобразование успешно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Convert latitude and longitude to human-readable address." = "Преобразовать координаты в читаемый адрес.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Convert Now" = "Преобразовать сейчас";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Converting" = "Преобразование";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copied" = "Скопировано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy" = "Копировать";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Key" = "Копировать ключ";
 
-/* TODO */
-"Copy or reset the current WebDAV password." = "Copy or reset the current WebDAV password.";
+/* Translated with LLM */
+"Copy or reset the current WebDAV password." = "Скопировать или сбросить текущий пароль WebDAV.";
 
-/* TODO */
-"Copy Password" = "Copy Password";
+/* Translated with LLM */
+"Copy Password" = "Копировать пароль";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Path" = "Копировать путь";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Transcript" = "Копировать транскрипт";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Copy Value" = "Копировать значение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not acquire token: %@" = "Не удалось получить токен: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not acquire token: No result returned." = "Не удалось получить токен: нет результата.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not get graph result: %@" = "Не удалось получить результат графа: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Could not sign out account: %@" = "Не удалось выйти из аккаунта: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Created At" = "Создано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Credentials" = "Учётные данные";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"current call" = "текущий звонок";
+
+/* Translated with LLM */
+"current call duration" = "текущая длительность звонка";
+
+/* Translated with LLM */
 "Custom CLI Options" = "Свои параметры CLI";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Export Name" = "Своё имя экспорта";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Key Combination…" = "Своя комбинация клавиш…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Custom Layout Guide" = "Настроить направляющие";
 
-/* No comment provided by engineer. */
-"Customize a rectangular region that helps you position the hoverball on the screen." = "Настройте область для позиционирования плавающей кнопки.";
+/* Translated with LLM */
+"Customize a rectangular region that helps you position the hoverball on the screen." = "Настройте прямоугольную область, которая поможет вам позиционировать плавающую кнопку на экране.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "daemon" = "демон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"daemon running" = "демон работает";
+
+/* Translated with LLM */
+"daemon service" = "служба демона";
+
+/* Translated with LLM */
 "Daily Arranged" = "Ежедневно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Date & Time" = "Дата и время";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Day of Month Number" = "Число месяца";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Day of Week String" = "День недели";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "deactivate" = "деактивировать";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deactivate" = "Деактивировать";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deactivate & Sign Out" = "Деактивировать и выйти";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"deactivate hoverball" = "деактивировать плавающую кнопку";
+
+/* Translated with LLM */
 "Deactivate the recorder hoverball." = "Деактивировать плавающую кнопку записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Debugging" = "Отладка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "decline" = "отклонить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"decline call" = "отклонить вызов";
+
+/* Translated with LLM */
 "Decoding" = "Декодирование";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Default" = "По умолчанию";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete" = "Удалить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Recording" = "Удалить запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Selected %ld Items" = "Удалить выбранные %ld элементов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Delete Selected Item" = "Удалить выбранный элемент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deleting" = "Удаление";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Deselect All" = "Снять все выделения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Detail Only" = "Только детали";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Developer Options" = "Настройки разработчика";
 
-/* TODO */
-"Digital Video" = "Digital Video";
+/* Translated with LLM */
+"Digital Video" = "Цифровое видео";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction" = "Направление";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction Capitalized" = "Направление (с заглавной)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Direction Description" = "Описание направления";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "directory" = "директория";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Directory" = "Директория";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Directory not found." = "Директория не найдена.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disabled" = "Отключено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disallow" = "Запретить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disallow Automatic Recording" = "Запретить автоматическую запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Disallow Hoverball Wake-Ups" = "Запретить пробуждение плавающей кнопки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard" = "Отменить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "discard" = "отменить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard Changes" = "Отменить изменения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Discard Recording" = "Отменить запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"discard recording" = "Отменить запись";
+
+/* Translated with LLM */
 "Discreet Mode" = "Скрытый режим";
 
-/* No comment provided by engineer. */
-"Discreet Voice Memos" = "Скрытые голосовые заметки";
+/* Translated with LLM */
+"Discreet Voice Memos" = "Конфиденциальные голосовые заметки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dismiss" = "Закрыть";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner and play an audible notice." = "Показывать уведомление и воспроизводить звук.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner and update the badge above the application icon." = "Показывать уведомление и обновлять значок приложения.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when recording ends." = "Показывать уведомление при окончании записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when recording starts." = "Показывать уведомление при начале записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display a notification banner when the synchronization fails." = "Показывать уведомление при ошибке синхронизации.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the detail of recordings in the notification banner." = "Показывать детали записи в уведомлении.";
 
-/* No comment provided by engineer. */
-"Display the exact duration of the recorded audio." = "Показывать точную длительность аудио.";
+/* Translated with LLM */
+"Display the exact duration of the recorded audio." = "Показывать точную длительность записанного аудио.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball during a call in the current application." = "Показывать плавающую кнопку во время звонка в текущем приложении.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball during a call." = "Показывать плавающую кнопку во время звонка.";
 
-/* No comment provided by engineer. */
-"Display the hoverball when both the audio inputs and outputs are continuously active." = "Показывать плавающую кнопку при активности аудиовходов и выходов.";
+/* Translated with LLM */
+"Display the hoverball when both the audio inputs and outputs are continuously active." = "Показывать плавающую кнопку при непрерывной активности аудиовходов и выходов.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Показывать плавающую кнопку при записи голосовой заметки или ручном запуске записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the name or description of each option." = "Показывать название или описание каждой опции.";
 
-/* No comment provided by engineer. */
-"Display the names of contacts in your address book instead of their phone numbers." = "Показывать имена контактов вместо номеров.";
+/* Translated with LLM */
+"Display the names of contacts in your address book instead of their phone numbers." = "Показывать имена контактов из адресной книги вместо их номеров телефонов.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the path extension as the format of the recording." = "Показывать расширение файла как формат записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the preview images of the audio waveform of short recordings." = "Показывать превью волновой формы для коротких записей.";
 
-/* No comment provided by engineer. */
-"Display the short name of the SIM card used for the recording if available." = "Показывать название SIM-карты, если доступно.";
+/* Translated with LLM */
+"Display the short name of the SIM card used for the recording if available." = "Показывать краткое название SIM-карты, использованной для записи, если доступно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Display the source bundle name of the recording." = "Показывать название исходного пакета записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Displays a local notification." = "Показывает локальное уведомление.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Do you want to clear this log file “%@”?" = "Очистить лог-файл «%@»?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Do you want to merge recordings with “%@”?" = "Объединить записи с «%@»?";
 
-/* No comment provided by engineer. */
-"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Сбросить лицензию и настройки? Записи не будут удалены.";
+/* Translated with LLM */
+"Do you want to reset the software license and restore all the settings to their default values? Your recordings will not be removed." = "Вы хотите сбросить лицензию программного обеспечения и восстановить все настройки по умолчанию? Ваши записи не будут удалены.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Done" = "Готово";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Don’t ask again" = "Не спрашивать снова";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Don’t Merge" = "Не объединять";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Double tap to restore __all edges__  \nto their default sizes." = "Двойное нажатие сбросит __все границы__  \nк размерам по умолчанию.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Downlink (Speaker)" = "Исходящий (динамик)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Перетащите __сюда__, чтобы  \nизменить размер ___%@___.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Drive ID" = "ID диска";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dropbox" = "Dropbox";
 
-/* No comment provided by engineer. */
-"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Из-за ограничений среды попробуйте перезагрузку или сброс кеша иконок в TrollStore.";
+/* Translated with LLM */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Из-за ограничений среды, если вы столкнулись с пустыми или отсутствующими виджетами, попробуйте перезагрузить устройство или перестроить кеш иконок в TrollStore.";
 
-/* No comment provided by engineer. */
-"Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "Звонки без CallKit не активируют ярлыки, связанные со статусами.";
+/* Translated with LLM */
+"Due to technical limitations, automation-related capabilities must be implemented via the “Shortcuts” app. You can open the “Shortcuts” app, create a new shortcut containing a “TrollRecorder” action, and select it here." = "Из-за технических ограничений возможности автоматизации должны быть реализованы через приложение «Shortcuts». Вы можете открыть приложение «Shortcuts», создать новую команду, содержащую действие «TrollRecorder», и выбрать её здесь.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Due to technical limitations, non-CallKit calls will not trigger shortcuts related to call states." = "Из-за технических ограничений вызовы, не использующие CallKit, не будут запускать ярлыки, связанные с состояниями вызова.";
+
+/* Translated with LLM */
 "Duration" = "Длительность";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "duration" = "длительность";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration Before Idle" = "Длительность до бездействия";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration Description" = "Описание длительности";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Duration exceeded." = "Длительность превышена.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dynamic Transition" = "Динамический переход";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "E.U.L.A." = "Лицензионное соглашение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Edit" = "Редактировать";
 
-/* TODO */
-"Edit Argument" = "Edit Argument";
+/* Translated with LLM */
+"Edit Argument" = "Редактировать аргумент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"elapsed recording time" = "прошедшее время записи";
+
+/* Translated with LLM */
 "Empty Trash" = "Очистить корзину";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Empty Trash (%@)" = "Очистить корзину (%@)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Biometric Authentication" = "Включить биометрическую аутентификацию";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Face ID" = "Включить Face ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Включить индикатор уровня при свёрнутой кнопке. Доступно только при настройке «Сворачивать при бездействии».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Logging" = "Включить логирование";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Optic ID" = "Включить Optic ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable Touch ID" = "Включить Touch ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enable WebDAV Server" = "Включить WebDAV-сервер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enabled" = "Включено";
 
-/* No comment provided by engineer. */
-"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "WebDAV-сервер автоматически приостанавливается в фоне и возобновляется при возврате на передний план.";
+/* Translated with LLM */
+"Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "Позволяет WebDAV-серверу автоматически приостанавливать работу, когда приложение переходит в фоновый режим и последнее соединение закрыто, а затем возобновлять работу, когда приложение возвращается на передний план.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Encoding" = "Кодирование";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"end calls" = "завершить звонки";
+
+/* Translated with LLM */
 "End Date" = "Конечная дата";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "End Editing" = "Завершить редактирование";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"end recording" = "завершить запись";
+
+/* Translated with LLM */
+"end screen recording" = "завершить запись экрана";
+
+/* Translated with LLM */
 "Enhance Recording" = "Улучшить запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enhanced Automatic Recording" = "Улучшенная автоматическая запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enhanced Scene Identification" = "Улучшенное определение сцены";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ensure Daemon Is Running" = "Убедиться, что демон работает";
 
-/* TODO */
-"Enter Pairing Code" = "Enter Pairing Code";
+/* Translated with LLM */
+"Enter Pairing Code" = "Введите код сопряжения";
 
-/* TODO */
-"Enter the 4-digit code displayed on “%@”." = "Enter the 4-digit code displayed on “%@”.";
+/* Translated with LLM */
+"Enter the 4-digit code displayed on “%@”." = "Введите 4-значный код, отображаемый на «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Enter your password" = "Введите пароль";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erase All" = "Стереть всё";
 
-/* No comment provided by engineer. */
-"Erase all recordings, reset all settings, and clear all caches completely." = "Удалить все записи, сбросить настройки и очистить кеш.";
+/* Translated with LLM */
+"Erase all recordings, reset all settings, and clear all caches completely." = "Удалить все записи, сбросить все настройки и полностью очистить весь кеш.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erase Almost Completed" = "Стирание почти завершено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Erasing…" = "Стирание…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error" = "Ошибка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error from network storage" = "Ошибка сетевого хранилища";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Error retrieving discovery document: %@" = "Ошибка получения документа: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "exit" = "выход";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Exit Hoverball" = "Закрыть плавающую кнопку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Expand Recursively" = "Развернуть рекурсивно";
 
-/* TODO */
-"Export as is…" = "Export as is…";
+/* Translated with LLM */
+"Export as is…" = "Экспортировать как есть…";
 
-/* TODO */
-"Export as ZIP" = "Export as ZIP";
+/* Translated with LLM */
+"Export as ZIP" = "Экспортировать как ZIP";
 
-/* No comment provided by engineer. */
-"Export recordings to anywhere you want without limitations." = "Экспорт записей без ограничений.";
+/* Translated with LLM */
+"Export recordings to anywhere you want without limitations." = "Экспорт записей куда угодно без ограничений.";
 
-/* TODO */
-"Export Service Ready" = "Export Service Ready";
+/* Translated with LLM */
+"Export Service Ready" = "Служба экспорта готова";
 
-/* TODO */
-"Export to Another Device" = "Export to Another Device";
+/* Translated with LLM */
+"Export to Another Device" = "Экспорт на другое устройство";
 
-/* TODO */
+/* Translated with LLM */
 "Export to Anywhere" = "Экспорт куда угодно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Export with Metadata" = "Экспорт с метаданными";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Exporting" = "Экспорт";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime" = "FaceTime";
 
 /* No comment provided by engineer. */
 "FaceTime Audio" = "FaceTime Audio";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime Exclusion List" = "Исключения FaceTime";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "FaceTime VIP" = "VIP FaceTime";
 
 /* No comment provided by engineer. */
 "Face ID" = "Face ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to export %d recordings" = "Не удалось экспортировать %d записей";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to initialize speech recognizer using current locale “%@”." = "Не удалось инициализировать распознавание речи для локали «%@».";
 
-/* TODO */
-"Failed to open file pipe" = "Failed to open file pipe";
+/* Translated with LLM */
+"Failed to open file pipe" = "Не удалось открыть файловый канал";
 
-/* No comment provided by engineer. */
-"Failed to perform “%@” operation with service provider “%@”." = "Не удалось выполнить «%1$@» с провайдером «%2$@».";
+/* Translated with LLM */
+"Failed to perform “%@” operation with service provider “%@”." = "Не удалось выполнить операцию «%1$@» с провайдером «%2$@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to play: %@" = "Ошибка воспроизведения: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to recover: %@" = "Ошибка восстановления: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Failed to remove: %@" = "Ошибка удаления: %@";
 
-/* TODO */
-"Failed to spawn process, reason: %s (%d)" = "Failed to spawn process, reason: %s (%2$d)";
+/* Translated with LLM */
+"Failed to spawn process, reason: %s (%d)" = "Не удалось запустить процесс: %s (%2$d)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Failed to start audio player." = "Не удалось запустить аудиоплеер.";
+
+/* Translated with LLM */
 "Fatal error occurred. You may need to re-authorize to continue." = "Критическая ошибка. Может потребоваться повторная авторизация.";
 
-/* No comment provided by engineer. */
-"Features on this page are under active development, hang tight!" = "Функции на этой странице в разработке!";
+/* Translated with LLM */
+"Features on this page are under active development, hang tight!" = "Функции на этой странице находятся в активной разработке, наберитесь терпения!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Features Unlocked" = "Функции разблокированы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "file" = "файл";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File Format" = "Формат файла";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File not found." = "Файл не найден.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File Size" = "Размер файла";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "File System" = "Файловая система";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Filter" = "Фильтр";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Finalizing" = "Завершение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "finish" = "завершить";
 
-/* TODO */
-"Fix File-System" = "Fix File-System";
+/* Translated with LLM */
+"finish call" = "завершить вызов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Fix File-System" = "Исправить файловую систему";
+
+/* Translated with LLM */
 "Focus" = "Фокус";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Fold When Inactive" = "Сворачивать при бездействии";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Follow System" = "Как в системе";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Принудительно установить язык. Перезапустите для применения.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Format" = "Формат";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Formatted Location" = "Форматированное местоположение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Forward 15 Seconds" = "Вперёд на 15 секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Frequently Asked Questions" = "Частые вопросы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From %@" = "От %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From %@ to %@" = "От %1$@ до %2$@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From: %@" = "От: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "From…" = "От…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full" = "Полный";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"full backup sync" = "полная синхронизация резервной копии";
+
+/* Translated with LLM */
 "Full Date" = "Полная дата";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Month Name" = "Полное название месяца";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Time" = "Полное время";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Full Year" = "Полный год";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get ${requestedField}" = "Получить ${requestedField}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get advanced control when recording right in your call." = "Расширенное управление записью во время звонка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Call Duration" = "Получить длительность звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Call Status" = "Получить статус звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get In Touch" = "Связаться";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get notifications after record complete." = "Получать уведомления после записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Duration" = "Получить длительность записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Paths" = "Получить пути записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get Recording Status" = "Получить статус записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording duration of the Troll Recorder." = "Получить текущую длительность записи Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording paths of the Troll Recorder." = "Получить текущие пути записи Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Get the current recording status of the Troll Recorder." = "Получить текущий статус записи Troll Recorder.";
 
-/* No comment provided by engineer. */
-"Get the primary call duration of the device." = "Получить длительность текущего звонка.";
+/* Translated with LLM */
+"Get the primary call duration of the device." = "Получить длительность основного звонка устройства.";
 
-/* No comment provided by engineer. */
-"Get the primary call status of the device." = "Получить статус текущего звонка.";
+/* Translated with LLM */
+"Get the primary call status of the device." = "Получить статус основного звонка устройства.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Go Home When Unlocked" = "На главный экран при разблокировке";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Google Drive" = "Google Диск";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Group Call" = "Групповой звонок";
 
-/* No comment provided by engineer. */
-"Hide Hoverball" = "Скрыть плавающую кнопку";
+/* Translated with LLM */
+"hang up calls" = "завершить звонки";
 
-/* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Скрыть «Голосовые заметки» с экрана блокировки и Dynamic Island. Может потребоваться respring.";
+/* Translated with LLM */
+"hang up incoming call" = "завершить входящий вызов";
 
-/* No comment provided by engineer. */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Скрыть «Голосовые заметки» с экрана блокировки. Требуется инъекция через TrollFools.";
+/* Translated with LLM */
+"Hide Hoverball" = "Скрыть Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "Скрыть приложение «Voice Memos» с экрана блокировки и скрыть его активность на «Dynamic Island». Для применения этой функции может потребоваться перезагрузка SpringBoard.";
+
+/* Translated with LLM */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Скрыть приложение «Voice Memos» с экрана блокировки и скрыть его активность в «Dynamic Island». Вам необходимо внедрить его в приложение «Voice Memos» с помощью TrollFools или аналогичных технологий.";
+
+/* Translated with LLM */
 "Hide When Landscape" = "Скрывать в альбомной ориентации";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hide When Snapshot" = "Скрывать при скриншоте";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours Minutes Seconds" = "Часы Минуты Секунды";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours, 12-hour Clock" = "Часы (12-часовой формат)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hours, 24-hour Clock" = "Часы (24-часовой формат)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball" = "Плавающая кнопка";
 
-/* TODO */
-"Hoverball Plus" = "Hoverball Plus";
+/* Translated with LLM */
+"Hoverball Plus" = "Плавающая кнопка +";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Size" = "Размер плавающей кнопки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hoverball Style" = "Стиль плавающей кнопки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "hud" = "интерфейс";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "HUD_CALL_RECORDING" = "Запись звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Hyphen" = "Дефис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "I Agree to the E.U.L.A." = "Я принимаю условия лицензии";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "icloud" = "iCloud";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"icloud backup" = "резервное копирование iCloud";
+
+/* Translated with LLM */
 "iCloud Drive" = "iCloud Диск";
 
-/* TODO */
-"ICP Filling Number: 苏ICP备15002715号-2A" = "ICP Filling Number: 苏ICP备15002715号-2A";
+/* Translated with LLM */
+"ICP Filling Number: 苏ICP备15002715号-2A" = "Номер лицензии ICP: 苏ICP备15002715号-2A";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Idle" = "Бездействие";
 
-/* TODO */
-"If the value contains spaces, please enclose it in quotes." = "If the value contains spaces, please enclose it in quotes.";
+/* Translated with LLM */
+"If the value contains spaces, please enclose it in quotes." = "Если значение содержит пробелы, заключите его в кавычки.";
 
-/* No comment provided by engineer. */
-"If there is something wrong with the search indexes, you can reset them here." = "Сбросить поисковые индексы при проблемах.";
+/* Translated with LLM */
+"If there is something wrong with the search indexes, you can reset them here." = "Если с поисковыми индексами что-то не так, вы можете сбросить их здесь.";
 
-/* No comment provided by engineer. */
-"If there’s no active phone call, press and hold the power button to perform specified action." = "При отсутствии звонка: удержание кнопки питания для действия.";
+/* Translated with LLM */
+"If there’s no active phone call, press and hold the power button to perform specified action." = "При отсутствии активного звонка удерживайте кнопку питания для выполнения указанного действия.";
 
-/* No comment provided by engineer. */
-"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "При отсутствии звонка: нажатие обеих кнопок громкости для действия.";
+/* Translated with LLM */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "При отсутствии активного звонка нажмите обе физические кнопки громкости, чтобы выполнить указанное действие.";
 
-/* TODO */
-"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here.";
+/* Translated with LLM */
+"If you modified recordings with Filza or encountered any file-system privilege issues, you can fix them here." = "Если вы изменяли записи с помощью Filza или столкнулись с какими-либо проблемами с правами доступа к файловой системе, вы можете исправить их здесь.";
 
-/* No comment provided by engineer. */
-"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Для двух SIM-карт отображается псевдоним используемой карты.";
+/* Translated with LLM */
+"If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "Если ваш телефон поддерживает две SIM-карты, здесь отображается псевдоним SIM-карты, использованной для записи звонка.";
 
-/* No comment provided by engineer. */
-"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Действие при успешной синхронизации резервной копии iCloud.";
+/* Translated with LLM */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "Если вы включили «Резервное копирование iCloud» и резервная копия успешно синхронизирована, это действие будет запущено.";
 
-/* No comment provided by engineer. */
-"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Игнорировать даты изменений и создать полные копии записей.";
+/* Translated with LLM */
+"Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "Игнорировать дату последнего изменения всех каталогов и файлов и создать глубокую копию всех записей.";
 
-/* TODO */
-"Import as Ringtone" = "Import as Ringtone";
+/* Translated with LLM */
+"Import as Ringtone" = "Импортировать как рингтон";
 
-/* TODO */
-"Import Complete" = "Import Complete";
+/* Translated with LLM */
+"Import Complete" = "Импорт завершён";
 
-/* TODO */
-"Import Failed" = "Import Failed";
+/* Translated with LLM */
+"Import Failed" = "Импорт не удался";
 
-/* TODO */
-"Import From Another Device" = "Import From Another Device";
+/* Translated with LLM */
+"Import From Another Device" = "Импорт с другого устройства";
 
-/* TODO */
-"Import recordings from the Troll Recorder on another device within the local area network." = "Import recordings from the Troll Recorder on another device within the local area network.";
+/* Translated with LLM */
+"Import recordings from the Troll Recorder on another device within the local area network." = "Импорт записей с TrollRecorder на другом устройстве в локальной сети.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "In 1 Hour" = "Через 1 час";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "In 15 Minutes" = "Через 15 минут";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Inaccurate Time Detected" = "Обнаружено неточное время";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming" = "Входящий";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "incoming" = "входящий";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming Call" = "Входящий звонок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"incoming call" = "Входящий звонок";
+
+/* Translated with LLM */
 "Incoming Call Answered" = "Входящий звонок принят";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming Call Hang Up" = "Входящий звонок сброшен";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming call recording from “%@” and other %ld applications." = "Запись входящего звонка из «%@» и %ld других приложений.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Incoming call recording from “%@”." = "Запись входящего звонка из «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Inconsistency Found" = "Обнаружено несоответствие";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Install" = "Установить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Install Call History Tweak" = "Установить твик истории звонков";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Invalid Code Signature" = "Неверная подпись кода";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Неверная подпись кода.\nПереустановите приложение через TrollStore.";
 
 /* No comment provided by engineer. */
@@ -1360,2173 +1495,2374 @@
 /* No comment provided by engineer. */
 "iPhone" = "iPhone";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Favourite" = "В избранном";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Finalized" = "Завершено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Finalizing" = "Завершается";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Microphone Enabled" = "Микрофон включён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Is Paused" = "На паузе";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"is recording" = "идет запись";
+
+/* Translated with LLM */
 "Is Running" = "Запущено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Item #%lu" = "Элемент №%lu";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Just in case that you love it." = "На случай, если вам понравится.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Just now" = "Только что";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Keep Screen On When Connected" = "Не выключать экран при подключении";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Keyboard Avoidance" = "Избегание клавиатуры";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Kill all applications and restart the render server (backboardd)." = "Закрыть все приложения и перезапустить сервер рендеринга (backboardd).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Language Changed" = "Язык изменён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Larger" = "Больше";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Last successful synchronization: %@" = "Последняя успешная синхронизация: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Later" = "Позже";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "launch" = "запуск";
 
-/* TODO */
-"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it.";
+/* Translated with LLM */
+"Launch a temporary WebDAV server and broadcast it within the local area network to allow the Troll Recorder on another device to discover it." = "Запустить временный сервер WebDAV и транслировать его в локальной сети, чтобы TrollRecorder на другом устройстве мог его обнаружить.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Launch App at End" = "Запустить приложение по завершении";
 
-/* TODO */
-"Launch Shield" = "Launch Shield";
+/* Translated with LLM */
+"Launch Shield" = "Защита запуска";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Leading & Trailing" = "Ведущий и завершающий";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "leading edge" = "ведущая грань";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Legacy Jailbreak" = "Старый джейлбрейк";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Less serious error occurred." = "Произошла незначительная ошибка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Lifetime Guarantee" = "Пожизненная гарантия";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Link Device to Havoc" = "Привязать устройство к Havoc";
 
-/* TODO */
-"List" = "List";
+/* Translated with LLM */
+"List" = "Список";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "List and Detail" = "Список и детали";
 
-/* TODO */
-"List view enabled" = "List view enabled";
+/* Translated with LLM */
+"List view enabled" = "Режим списка включён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Loading…" = "Загрузка…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"local notification" = "локальное уведомление";
+
+/* Translated with LLM */
 "Local Storage" = "Локальное хранилище";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Localized name of the provider application. That is, where this recording comes from." = "Локализованное название приложения-источника записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Locate in Maps" = "Открыть в Картах";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location" = "Местоположение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location Permission Denied" = "Доступ к местоположению запрещён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Location Services" = "Службы геолокации";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Locked" = "Заблокировано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Log Viewer" = "Просмотр логов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Logging" = "Логирование";
 
-/* TODO */
-"Login Name: %@" = "Login Name: %@";
+/* Translated with LLM */
+"Login Name: %@" = "Имя для входа: %@";
 
-/* TODO */
-"Login Password: " = "Login Password: ";
+/* Translated with LLM */
+"Login Password: " = "Пароль для входа: ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Login Tips" = "Советы по входу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long Date" = "Длинная дата";
 
-/* No comment provided by engineer. */
-"Long press the hoverball to start or stop recording by convenience." = "Долгое нажатие на плавающую кнопку для удобного управления записью.";
+/* Translated with LLM */
+"Long press the hoverball to start or stop recording by convenience." = "Долгое нажатие на плавающую кнопку для удобного начала или остановки записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Long Time" = "Долгое время";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Low Disk Space" = "Мало места на диске";
 
-/* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "Сделано с ♥ в OwnGoal Studio";
+/* Translated with LLM */
+"Made with ♥ by OwnGoal Studio" = "Сделано с ♥ в OwnGoal Studio";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mail composition failed" = "Не удалось создать письмо";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Maintenance" = "Обслуживание";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make a ${requestedMode} recording" = "Сделать запись в режиме ${requestedMode}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make a new recording, or stop an existing one." = "Начать новую запись или остановить текущую.";
 
-/* No comment provided by engineer. */
-"Make a new voice memo, or stop an existing one." = "Создать новый голосовой меморандум или остановить текущий.";
+/* Translated with LLM */
+"Make a new voice memo, or stop an existing one." = "Создать новую голосовую заметку или остановить текущую.";
 
-/* No comment provided by engineer. */
-"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Создавать поверхностные копии записей в резервной области и разрешать их включение в iCloud Backup.";
+/* Translated with LLM */
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "Создавать поверхностные копии записей в резервной области и разрешать их включение в iCloud Backup.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "Связанные записи звонков на странице истории вызовов будут открываться в TrollRecorder для воспроизведения.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the device ring or vibrate when recording ends." = "Заставлять устройство звонить или вибрировать при окончании записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the device ring or vibrate when recording starts." = "Заставлять устройство звонить или вибрировать при начале записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball invisible when taking screenshots or screen recordings." = "Скрывать hoverball при создании скриншотов или записи экрана.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball invisible when the device is in landscape orientation." = "Скрывать hoverball в альбомной ориентации устройства.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Делать hoverball полупрозрачным или свернутым после бездействия.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Making a phone call to begin recording." = "Совершение звонка для начала записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mark" = "Пометить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Maximum" = "Максимум";
 
-/* TODO */
-"Maybe you should look elsewhere — anywhere but here." = "Maybe you should look elsewhere — anywhere but here.";
+/* Translated with LLM */
+"Maybe you should look elsewhere — anywhere but here." = "Возможно, вам стоит поискать в другом месте — где угодно, только не здесь.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium" = "Средний";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium Date" = "Средний формат даты";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Medium Time" = "Средний формат времени";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Merge" = "Объединить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Merged File" = "Объединенный файл";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Message" = "Сообщение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Metadata" = "Метаданные";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Microphone" = "Микрофон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "microphone" = "микрофон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Microphone and speaker are recorded in different channels." = "Микрофон и динамик записываются на разные каналы.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"microphone audio" = "аудио микрофона";
+
+/* Translated with LLM */
+"microphone off" = "микрофон выключен";
+
+/* Translated with LLM */
+"microphone on" = "микрофон включён";
+
+/* Translated with LLM */
+"microphone speech" = "микрофонная речь";
+
+/* Translated with LLM */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Minutes" = "Минуты";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Missing required permissions to access Google Drive. Please re-authorize with Google and grant all “Google Drive” permissions to “TrollRecorder”." = "Недостаточно прав для доступа к Google Drive. Повторно авторизуйтесь в Google и предоставьте все права «Google Drive» для «TrollRecorder».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixed" = "Смешанный";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer & Combiner" = "Микшер и объединитель";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer Audio Format" = "Формат аудио микшера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer File Format" = "Формат файла микшера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mixer Quality" = "Качество микшера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Month Number" = "Номер месяца";
 
-/* No comment provided by engineer. */
-"Monthly Arranged" = "Размещено по месяцам";
+/* Translated with LLM */
+"Monthly Arranged" = "Ежемесячно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "More icons, more innovation." = "Больше иконок — больше инноваций.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "More Options" = "Дополнительные опции";
 
-/* No comment provided by engineer. */
-"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Перемещать удаленные записи в специальную папку для возможного восстановления.";
+/* Translated with LLM */
+"Move deleted recordings to a special folder that allows you to restore them if you change your mind or realize you need them later." = "Перемещать удаленные записи в специальную папку, позволяющую восстановить их, если вы передумаете или поймете, что они вам понадобятся позже.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "MPEG-4 Audio" = "Аудио MPEG-4";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "mute" = "отключить звук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mute ${requestedChannel}" = "Отключить звук ${requestedChannel}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"mute call" = "отключить звук звонка";
+
+/* Translated with LLM */
+"mute call audio" = "отключить звук аудиозвонка";
+
+/* Translated with LLM */
 "Mute Existing Calls" = "Отключить звук текущих звонков";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Mute specified channel of all existing calls." = "Отключить звук указанного канала во всех текущих звонках.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "My Favourite" = "Мое избранное";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "My Favourites" = "Мои избранные";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Name" = "Имя";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Name with Alias" = "Имя с псевдонимом";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Network Storage" = "Сетевое хранилище";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Never" = "Никогда";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Never Show This Again" = "Больше не показывать";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New" = "Новый";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New Matching Pattern" = "Новый шаблон соответствия";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"new recording" = "новая запись";
+
+/* Translated with LLM */
 "New Version Available" = "Доступна новая версия";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "New Version Installed" = "Новая версия установлена";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "NO" = "НЕТ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Available Version" = "Нет доступной версии";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No phone number found in selected contacts." = "В выбранных контактах не найдено номеров телефона.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No phone number or email address found in selected contacts." = "В выбранных контактах не найдено номеров телефона или email-адресов.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Recording" = "Нет записи";
 
-/* TODO */
-"No Recordings to Export" = "No Recordings to Export";
+/* Translated with LLM */
+"No Recordings to Export" = "Нет записей для экспорта";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No speech detected." = "Речь не обнаружена.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "No Transition" = "Без перехода";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "None" = "Нет";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not Implemented" = "Не реализовано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not My Favourite" = "Не в избранном";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not Now" = "Не сейчас";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Not Properly Configured" = "Неправильно настроено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Nothing Imported" = "Ничего не импортировано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Nothing Inside" = "Пусто";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "notification" = "уведомление";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notification Permission Denied" = "Доступ к уведомлениям запрещен";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notifications" = "Уведомления";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "notify" = "уведомить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notify at Begin" = "Уведомлять в начале";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Notify at End" = "Уведомлять в конце";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Object Viewer" = "Просмотр объектов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Off" = "Выкл.";
 
-/* No comment provided by engineer. */
-"OK" = "OK";
+/* Translated with LLM */
+"OK" = "ОК";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "On" = "Вкл.";
 
-/* TODO */
-"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission.";
+/* Translated with LLM */
+"On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "На другом устройстве выберите «Импорт с другого устройства», затем выберите «%@». Не покидайте эту страницу во время передачи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "OneDrive" = "OneDrive";
 
-/* TODO */
-"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites.";
+/* Translated with LLM */
+"Only calls from contacts not in your address book or in the “VIP” list will be recorded automatically. VIP contacts will also be added to the favourites." = "Автоматически будут записываться только звонки от контактов, которых нет в вашей адресной книге или в списке «VIP». VIP-контакты также будут добавлены в избранное.";
 
-/* TODO */
-"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Only calls from VIP contacts will be recorded automatically and added to the favourites.";
+/* Translated with LLM */
+"Only calls from VIP contacts will be recorded automatically and added to the favourites." = "Автоматически будут записываться только звонки от VIP-контактов, и они будут добавляться в избранное.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Oops!" = "Упс!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open" = "Открыть";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "open" = "открыть";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Application" = "Открыть приложение";
 
-/* No comment provided by engineer. */
-"Open Hoverball" = "Открыть hoverball";
+/* Translated with LLM */
+"Open Hoverball" = "Открыть плавающую кнопку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"open hoverball" = "Открыть плавающую кнопку";
+
+/* Translated with LLM */
 "Open in Filza" = "Открыть в Filza";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open in Maps" = "Открыть в Картах";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Open Troll Recorder" = "Открыть Troll Recorder";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation Failed" = "Ошибка операции";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation Succeed" = "Операция успешна";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operation succeed, but no files transferred." = "Операция успешна, но файлы не переданы.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Operator Name" = "Имя оператора";
 
 /* No comment provided by engineer. */
 "Optic ID" = "Optic ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Options" = "Опции";
 
-/* TODO */
-"Orbit" = "Orbit";
+/* Translated with LLM */
+"Orbit" = "Орбита";
 
-/* TODO */
-"Orbit view enabled" = "Orbit view enabled";
+/* Translated with LLM */
+"Orbit view enabled" = "Режим орбиты включён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing" = "Исходящий";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call" = "Исходящий звонок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call Answered" = "Исходящий звонок принят";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing Call Hang Up" = "Исходящий звонок завершен";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing call recording from “%@” and other %ld applications." = "Запись исходящих звонков из «%@» и %ld других приложений.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Outgoing call recording from “%@”." = "Запись исходящих звонков из «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Page not found" = "Страница не найдена";
 
-/* TODO */
-"Pairing code" = "Pairing code";
+/* Translated with LLM */
+"Pairing code" = "Код сопряжения";
 
-/* TODO */
-"Passcode: %@" = "Passcode: %@";
+/* Translated with LLM */
+"Passcode: %@" = "Код-пароль: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Password (Optional)" = "Пароль (необязательно)";
 
-/* TODO */
-"Password Copied" = "Password Copied";
+/* Translated with LLM */
+"Password Copied" = "Пароль скопирован";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "path" = "путь";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pause" = "Пауза";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pause Recording" = "Приостановить запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Paused" = "На паузе";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "Выполнить полную синхронизацию «Резервной копии с iCloud» и «Умного облачного архива».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Perform Full Synchronization" = "Выполнить полную синхронизацию";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"perform synchronization" = "выполнить синхронизацию";
+
+/* Translated with LLM */
 "Period" = "Период";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone" = "Телефон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "phone" = "телефон";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Address" = "Адрес телефона";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone answer" = "ответ на вызов";
+
+/* Translated with LLM */
 "Phone Call Exclusion List" = "Исключения для звонков";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "phone call recording" = "запись телефонного звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone call timer" = "таймер звонка";
+
+/* Translated with LLM */
 "Phone Call VIP" = "VIP-звонки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Number" = "Номер телефона";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Phone Number or Email Address" = "Номер телефона или email";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"phone status" = "статус телефона";
+
+/* Translated with LLM */
 "Physical Key Combination" = "Комбинация физических клавиш";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"pick up call" = "принять вызов";
+
+/* Translated with LLM */
 "Placemark Name" = "Название метки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play" = "Воспроизвести";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "play" = "воспроизвести";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play ${audioFile}" = "Воспроизвести ${audioFile}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play audio file" = "воспроизвести аудиофайл";
+
+/* Translated with LLM */
 "Play Recording Warning" = "Предупреждение при воспроизведении";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play Sound" = "Проиграть звук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Play specified audio file to the microphone." = "Воспроизвести указанный аудиофайл через микрофон.";
 
-/* No comment provided by engineer. */
-"Play specified voice-over text to the microphone." = "Воспроизвести указанный текст через микрофон.";
+/* Translated with LLM */
+"Play specified voice-over text to the microphone." = "Воспроизвести указанный голосовой комментарий в микрофон.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Play Through Receiver" = "Воспроизведение через наушник";
+
+/* Translated with LLM */
+"Play Through Speaker" = "Воспроизведение через динамик";
+
+/* Translated with LLM */
 "Play Uplink Audio" = "Воспроизвести аудио uplink";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play uplink audio" = "воспроизвести аудио uplink";
+
+/* Translated with LLM */
 "Play Uplink Voice-Over" = "Воспроизвести голосовой комментарий uplink";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"play voice over" = "воспроизведение голоса за кадром";
+
+/* Translated with LLM */
 "Play/Pause" = "Воспроизвести/Пауза";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Playback Rate" = "Скорость воспроизведения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Playback Rate: %@x" = "Скорость воспроизведения: %@x";
 
-/* No comment provided by engineer. */
-"Playback Speed" = "Скорость воспроизведения";
+/* Translated with LLM */
+"Playback Route" = "Маршрут воспроизведения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Player Options" = "Настройки плеера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please check your mail configuration." = "Проверьте настройки почты.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please enter a valid port number between 1 and 65535." = "Введите корректный номер порта (1–65535).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please enter the server URL." = "Введите URL сервера.";
 
-/* TODO */
-"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission.";
+/* Translated with LLM */
+"Please keep both devices unlocked while we receive recordings from %@. Do not leave this page during transmission." = "Пожалуйста, держите оба устройства разблокированными, пока мы получаем записи из %@. Не покидайте эту страницу во время передачи.";
 
-/* No comment provided by engineer. */
-"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "TrollRecorder продается и активируется исключительно через Havoc Marketplace. Вы переходите в магазин: при первом входе рекомендуется авторизация через Google. Пользователям из материкового Китая может потребоваться VPN.";
+/* Translated with LLM */
+"Please note that TrollRecorder is exclusively sold and redeemed through the Havoc Marketplace. We do not sell through any other channels. You are about to open the store page: If this is your first time using the Havoc Marketplace, we recommend logging in with your Google account. If you are a user in mainland China, logging into Google requires a special network." = "TrollRecorder продается и активируется исключительно через Havoc Marketplace. Мы не продаем через другие каналы. Вы переходите в магазин: при первом входе рекомендуется авторизация через Google. Пользователям из материкового Китая может потребоваться специальная сеть.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please reinstall this application from TrollStore." = "Переустановите приложение через TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please remember to uninstall “%@” from Sileo." = "Не забудьте удалить «%@» из Sileo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Please remember to uninstall “%@” from TrollStore." = "Не забудьте удалить «%@» из TrollStore.";
 
-/* TODO */
-"Please stay on this screen while we get everything ready." = "Please stay on this screen while we get everything ready.";
+/* Translated with LLM */
+"Please stay on this screen while we get everything ready." = "Пожалуйста, оставайтесь на этом экране, пока мы всё подготовим.";
 
-/* TODO */
-"Please try again in a moment." = "Please try again in a moment.";
+/* Translated with LLM */
+"Please try again in a moment." = "Пожалуйста, повторите попытку через мгновение.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popover Control" = "Управление всплывающим окном";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Populate Location When App Starts" = "Определять местоположение при запуске";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner at Begin" = "Всплывающий баннер в начале";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner at End" = "Всплывающий баннер в конце";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner when Fail" = "Всплывающий баннер при ошибке";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Badge" = "Всплывающий баннер с иконкой";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Detail" = "Всплывающий баннер с деталями";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Popup Banner with Sound" = "Всплывающий баннер со звуком";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Port (Optional)" = "Порт (необязательно)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"post notification" = "опубликовать уведомление";
+
+/* Translated with LLM */
 "Preparing" = "Подготовка";
 
-/* TODO */
-"Preparing Export Service" = "Preparing Export Service";
+/* Translated with LLM */
+"Preparing Export Service" = "Подготовка службы экспорта";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Preserve All Channels" = "Сохранять все каналы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press & Hold Action" = "Действие при удержании";
 
-/* No comment provided by engineer. */
-"Press & Hold Hoverball" = "Удерживать hoverball";
+/* Translated with LLM */
+"Press & Hold Hoverball" = "Удерживать Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press & Hold Power Button" = "Удерживать кнопку питания";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press and hold the power button to start or stop recording during a call." = "Удерживайте кнопку питания для начала/остановки записи во время звонка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press both of the physical volume buttons to start or stop recording during a call." = "Нажмите обе кнопки громкости для начала/остановки записи во время звонка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Press Both Volume Buttons" = "Нажать обе кнопки громкости";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Preview Disabled" = "Предпросмотр отключен";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Privacy Policy" = "Политика конфиденциальности";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Privacy Policy & User Agreements" = "Политика конфиденциальности и условия использования";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Private Browsing Detected" = "Обнаружен приватный режим";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Proceed Anyway" = "Продолжить";
 
-/* TODO */
-"Process execution timeout" = "Process execution timeout";
+/* Translated with LLM */
+"Process execution timeout" = "Тайм-аут выполнения процесса";
 
-/* TODO */
-"Process exited with status %d." = "Process exited with status %d.";
+/* Translated with LLM */
+"Process exited with status %d." = "Процесс завершился с кодом %d.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Process terminated by signal %d." = "Процесс завершен сигналом %d.";
 
-/* TODO */
-"Process terminated for unknown reasons." = "Process terminated for unknown reasons.";
+/* Translated with LLM */
+"Process terminated for unknown reasons." = "Процесс завершен по неизвестной причине.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Process terminated with exit code %d.\n%@" = "Процесс завершен с кодом %1$d.\n%2$@";
 
-/* TODO */
-"Processing" = "Processing";
+/* Translated with LLM */
+"Processing" = "Обработка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pulse-code modulation" = "Импульсно-кодовая модуляция";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Purchase" = "Покупка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Purchase Tips" = "Подсказки по покупке";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pure TrollStore" = "Только TrollStore";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Query the latest version from GitHub." = "Проверить последнюю версию на GitHub.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Querying" = "Запрос";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quick Recording" = "Быстрая запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quit and relaunch to continue using the Pro features." = "Перезапустите приложение для доступа к Pro-функциям.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Quit this application and try again." = "Закройте приложение и попробуйте снова.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rclone Documentation" = "Документация Rclone";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Dropbox" = "Переавторизоваться в Dropbox";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Google" = "Переавторизоваться в Google";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-authorize with Microsoft" = "Переавторизоваться в Microsoft";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Re-enable Suggested Options" = "Включить рекомендуемые опции";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reaching Daemon" = "Подключение к демону";
 
-/* No comment provided by engineer. */
-"README_APP_DOCUMENTS" = "Эта папка содержит резервные копии записей TrollRecorder recordings.\r\nYou для восстановления скопируйте их в /var/mobile/Media/DCIM/TrollRecorder/Recordings";
+/* Translated with LLM */
+"README_APP_DOCUMENTS" = "Эта папка содержит резервные копии записей TrollRecorder.\r\nДля восстановления скопируйте их обратно в исходное расположение: /var/mobile/Media/DCIM/TrollRecorder/Recordings";
 
-/* No comment provided by engineer. */
-"README_SERVICE_ARCHIVED_RECORDINGS" = "Эта папка содержит жесткие ссылки на записи TrollRecorder recordings.\r\nYou не входят в iCloud Backup и не учитываются в quota.\r\nDo не удаляйте их без необходимости.";
+/* Translated with LLM */
+"README_SERVICE_ARCHIVED_RECORDINGS" = "Эта папка содержит жесткие ссылки на записи TrollRecorder.\r\nОни не входят в резервную копию iCloud и не учитываются в квоте хранилища.\r\nНе удаляйте их, если вы не уверены, что они вам больше не нужны.";
 
-/* No comment provided by engineer. */
-"README_SERVICE_RECORDINGS" = "Эта папка содержит записи TrollRecorder recordings.\r\nYou для резервирования скопируйте их в надежное место.";
+/* Translated with LLM */
+"README_SERVICE_RECORDINGS" = "Эта папка содержит записи TrollRecorder.\r\nВы можете создать их резервную копию, скопировав в надежное место.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ready" = "Готово";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ready to record!" = "Готово к записи!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Received authorization error: %@" = "Ошибка авторизации: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Received transient error: %@" = "Временная ошибка: %@";
 
-/* TODO */
-"Receiving Recordings" = "Receiving Recordings";
+/* Translated with LLM */
+"Receiving Recordings" = "Получение записей";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recents Only" = "Только недавние";
 
-/* No comment provided by engineer. */
-"Recommended for Apple devices" = "Рекомендуется для Apple";
+/* Translated with LLM */
+"Recommended for Apple devices" = "Рекомендуется для устройств Apple";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record" = "Запись";
 
-/* TODO */
-"Record All Calls" = "Record All Calls";
+/* Translated with LLM */
+"Record All Calls" = "Записывать все звонки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record all incoming and outgoing calls automatically." = "Автоматически записывать все входящие и исходящие звонки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Automatically" = "Автозапись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Calls on Other Devices" = "Запись звонков на других устройствах";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Record Only When Connected" = "Записывать только при подключении";
 
-/* TODO */
-"Record Unknown Calls" = "Record Unknown Calls";
+/* Translated with LLM */
+"record screen" = "запись экрана";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Record Unknown Calls" = "Запись неизвестных звонков";
+
+/* Translated with LLM */
 "Record with Location" = "Запись с местоположением";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recorder hoverball" = "плавающая кнопка рекордера";
+
+/* Translated with LLM */
 "Recording" = "Запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "recording" = "запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording (Localized)" = "Запись (локализованная)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording directory" = "каталог записи";
+
+/* Translated with LLM */
+"recording duration" = "длительность записи";
+
+/* Translated with LLM */
+"recording file" = "файл записи";
+
+/* Translated with LLM */
 "Recording Interrupted" = "Запись прервана";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording off" = "запись выключена";
+
+/* Translated with LLM */
+"recording on" = "запись включена";
+
+/* Translated with LLM */
 "Recording Options" = "Настройки записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording path" = "путь записи";
+
+/* Translated with LLM */
 "Recording starts when both the audio inputs and outputs are continuously active." = "Запись начнется, когда аудиовходы и аудиовыходы будут непрерывно активны.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording state" = "состояние записи";
+
+/* Translated with LLM */
+"recording status" = "статус записи";
+
+/* Translated with LLM */
 "Recording successfully started." = "Запись успешно начата.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"recording switch" = "переключатель записи";
+
+/* Translated with LLM */
+"recording timer" = "таймер записи";
+
+/* Translated with LLM */
 "Recording Type" = "Тип записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording Type Description" = "Описание типа записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording will begin when the call is answered." = "Запись начнется при ответе на звонок.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recording “%@” is in progress." = "Идет запись «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "RECORDING_LOCALIZED" = "Запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recordings" = "Записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recordings here are permanently removed after 30 days." = "Записи здесь удаляются безвозвратно через 30 дней.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Recycle Bin" = "Корзина";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Regenerate All" = "Перегенерировать все";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "reject" = "отклонить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reject all incoming calls automatically." = "Автоматически отклонять все входящие звонки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"reject call" = "отклонить вызов";
+
+/* Translated with LLM */
 "Reject Incoming Calls" = "Отклонять входящие звонки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Relaunched" = "Перезапущено";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Release" = "Релиз";
 
-/* TODO */
-"Release Notes" = "Release Notes";
+/* Translated with LLM */
+"Release Notes" = "Примечания к выпуску";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove" = "Удалить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove all cached waveforms and allow them to be rebuilt from the original recordings." = "Удалить все кэшированные волновые формы и разрешить их перестроение из оригинальных записей.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Remove All Recordings Permanently" = "Безвозвратно удалить все записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Remove Other Variants" = "Удалить другие варианты";
+
+/* Translated with LLM */
 "Remove Outdated Recordings" = "Удалить устаревшие записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Remove Token" = "Удалить токен";
+
+/* Translated with LLM */
+"Remove Tokens" = "Удалить токены";
+
+/* Translated with LLM */
 "Rename" = "Переименовать";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Repeat Infinitely" = "Повторять бесконечно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset" = "Сбросить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset All Shortcuts" = "Сбросить все ярлыки";
 
-/* TODO */
-"Reset Password" = "Reset Password";
+/* Translated with LLM */
+"Reset Password" = "Сбросить пароль";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset Search Indexes" = "Сбросить поисковые индексы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reset Service" = "Сбросить службу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Respring" = "Перезапуск SpringBoard";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restart Render Server" = "Перезапустить сервер рендеринга";
 
-/* TODO */
-"Restart SpringBoard and “Launch Shield” widgets." = "Restart SpringBoard and “Launch Shield” widgets.";
+/* Translated with LLM */
+"Restart SpringBoard and “Launch Shield” widgets." = "Перезапустить SpringBoard и виджеты «Launch Shield».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore" = "Восстановить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore %d Items From Recycle Bin" = "Восстановить %d элементов из корзины";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"restore call audio" = "восстановить звук вызова";
+
+/* Translated with LLM */
 "Restore Selected %ld Items" = "Восстановить выбранные %ld элементов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restore Selected Item" = "Восстановить выбранный элемент";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Restoring" = "Восстановление";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Resume Recording" = "Продолжить запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Resume with Warning" = "Продолжить с предупреждением";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Retry" = "Повторить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reverse Geocoding" = "Обратное геокодирование";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Reverse Selection" = "Инвертировать выделение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rewind 15 Seconds" = "Перемотать на 15 секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ring" = "Звонок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Ring & Vibrate" = "Звонок и вибрация";
 
-/* TODO */
-"Root" = "Root";
+/* Translated with LLM */
+"Root" = "Корень";
 
-/* TODO */
-"Root directory is empty." = "Root directory is empty.";
+/* Translated with LLM */
+"Root directory is empty." = "Корневой каталог пуст.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "RootHide Jailbreak" = "RootHide джейлбрейк";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Rootless Jailbreak" = "Rootless джейлбрейк";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Runtime Environment: %@" = "Среда выполнения: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sample Rate" = "Частота дискретизации";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sandbox Build" = "Сборка в песочнице";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save" = "Сохранить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save as Duplicate" = "Сохранить копию";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Save as Duplicate…" = "Сохранить копию…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"saved recording location" = "сохранённое расположение записи";
+
+/* Translated with LLM */
 "Say ${requestedText}" = "Скажите ${requestedText}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Scene Identification" = "Идентификация сцены";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "screen" = "экран";
 
-/* TODO */
+/* Translated with LLM */
+"screen capture" = "захват экрана";
+
+/* Translated with LLM */
+"screen capture stop" = "остановить захват экрана";
+
+/* Translated with LLM */
+"screen recording off" = "запись экрана выключена";
+
+/* No comment provided by engineer. */
 "SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search" = "Поиск";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search %@ in %@…" = "Искать %1$@ в %2$@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search %@…" = "Искать %@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Apps…" = "Искать приложения…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Arguments…" = "Искать аргументы…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Contacts…" = "Искать контакты…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in %@…" = "Искать в %@…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in depth with all available information saved when recording such as contact info or locations." = "Глубокий поиск со всей сохранённой при записи информацией, такой как данные контактов или местоположения.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search in Maps" = "Искать в Картах";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Recordings…" = "Искать записи…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Search Shortcuts…" = "Искать ярлыки…";
 
-/* TODO */
-"Searching for nearby devices" = "Searching for nearby devices";
+/* Translated with LLM */
+"Search Transcript…" = "Поиск по транскрипции…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Searching for nearby devices" = "Поиск ближайших устройств";
+
+/* Translated with LLM */
 "Search…" = "Поиск…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Seconds" = "Секунды";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Secure" = "Безопасный";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Secure Payment" = "Безопасный платёж";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "See ya!" = "До встречи!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select" = "Выбрать";
 
-/* No comment provided by engineer. */
-"Select a recording to view or play." = "Выберите запись для воспроизведения.";
+/* Translated with LLM */
+"Select a recording to view or play." = "Выберите запись для просмотра или воспроизведения.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select All" = "Выбрать все";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Select the primary cloud service provider for recording synchronization." = "Выберите основной облачный сервис для синхронизации записей.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Semi-Transparent" = "Полупрозрачный";
 
-/* TODO */
-"Send Diagnostic" = "Send Diagnostic";
+/* Translated with LLM */
+"Send Diagnostic" = "Отправить диагностику";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Name" = "Имя отправителя";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Phone Address" = "Телефонный адрес отправителя";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sender Short Name" = "Короткое имя отправителя";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Separated Channels" = "Разделенные каналы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Separators" = "Разделители";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server" = "Сервер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server started at: %@" = "Сервер запущен в: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Server URL" = "URL сервера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "service" = "сервис";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"service active" = "служба активна";
+
+/* Translated with LLM */
 "Service is alive" = "Сервис активен";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Service is dead" = "Сервис неактивен";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Service Status" = "Статус сервиса";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Set a new name for this recording, or leave blank to use default." = "Задайте новое имя для этой записи или оставьте пустым для значения по умолчанию.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Settings" = "Настройки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Setup Failed" = "Ошибка настройки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Share" = "Поделиться";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Date" = "Краткая дата";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Day of Week String" = "Сокращенный день недели";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Month Name" = "Сокращенное название месяца";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Short Time" = "Краткое время";
 
-/* No comment provided by engineer. */
-"Show Bundle Name" = "Показывать Bundle Name";
+/* Translated with LLM */
+"Show Bundle Name" = "Показывать имя пакета";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Contact Names" = "Показывать имена контактов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Hoverball" = "Показывать Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Notification" = "Показывать уведомление";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"show notification" = "показать уведомление";
+
+/* Translated with LLM */
 "Show notification ${requestedMessage}" = "Показать уведомление ${requestedMessage}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show on Lock Screen" = "Показывать на экране блокировки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Option Description" = "Показывать описание опции";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Recording Duration" = "Показывать длительность записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Recording Format" = "Показывать формат записи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show SIM Card Alias" = "Показывать псевдоним SIM-карты";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show Waveform Previews" = "Показывать превью волновой формы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "Показывать пункт меню «Просмотр деталей» для разработчиков (просмотр манифестов записей).";
 
-/* No comment provided by engineer. */
-"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Войдите в Dropbox, чтобы предоставить приложению доступ.";
+/* Translated with LLM */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Войдите в свою учетную запись Dropbox, чтобы авторизовать приложение для доступа к вашему Dropbox.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sign in with your Google account to authorize the app to access your Google Drive." = "Войдите в Google, чтобы предоставить приложению доступ к Google Drive.";
 
-/* No comment provided by engineer. */
-"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Войдите в Microsoft, чтобы предоставить приложению доступ к OneDrive.";
+/* Translated with LLM */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Войдите в свою учетную запись Microsoft, чтобы авторизовать приложение для доступа к вашему Microsoft OneDrive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"silence call" = "отключить звук вызова";
+
+/* Translated with LLM */
 "Silent Mode" = "Тихий режим";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "SIM Card Alias" = "Псевдоним SIM-карты";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Simulator" = "Симулятор";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Simulator (Sandbox)" = "Симулятор (Песочница)";
+
+/* Translated with LLM */
 "Skip Silence" = "Пропускать тишину";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Smaller" = "Меньше";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Smart Cloud Archive" = "Умное облачное архивирование";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Software License" = "Лицензия ПО";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Some settings have been reset to default values." = "Некоторые настройки сброшены до значений по умолчанию.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Отсутствует важный компонент. Переустановите «TrollRecorder JB» через Sileo.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "Ошибка проверки лицензии. Нажмите «Мой аккаунт» для проверки заказов, покупок или активации кода.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sound Level Meter" = "Измеритель уровня звука";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Space" = "Пробел";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Speaker" = "Динамик";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "speaker" = "динамик";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"speaker off" = "громкоговоритель выключен";
+
+/* Translated with LLM */
+"speaker on" = "громкоговоритель включён";
+
+/* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Указанный диапазон от %1$@ до %2$@ недействителен.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"spoken audio" = "аудио речи";
+
+/* Translated with LLM */
 "start" = "старт";
 
-/* No comment provided by engineer. */
-"Start a system screen recording just like what you do in the Control Center." = "Начать запись экрана (аналогично функции в Пункте управления).";
+/* Translated with LLM */
+"Start a system screen recording just like what you do in the Control Center." = "Начните системную запись экрана так же, как вы это делаете в Пункте управления.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start Call Recording" = "Начать запись звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start daemon" = "запустить демон";
+
+/* Translated with LLM */
 "Start Date" = "Дата начала";
 
-/* No comment provided by engineer. */
-"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Начать или подготовить запись звонка/системного звука/голосовую заметку.";
+/* Translated with LLM */
+"Start or prepare for a call recording, system audio recording, or create an voice memo." = "Начать или подготовить запись звонка, системного звука или создать голосовую заметку.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Start Recording" = "Начать запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start recording" = "Начать запись";
+
+/* Translated with LLM */
 "Start Screen Recording" = "Начать запись экрана";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"start screen recording" = "начать запись экрана";
+
+/* Translated with LLM */
 "Start System Audio Recording" = "Начать запись системного звука";
 
-/* No comment provided by engineer. */
-"Start Voice Memo Recording" = "Начать голосовую заметку";
+/* Translated with LLM */
+"Start Voice Memo Recording" = "Начать запись голосовой заметки";
 
-/* TODO */
-"Starting the export service is taking longer than expected. Please check the network and try again." = "Starting the export service is taking longer than expected. Please check the network and try again.";
+/* Translated with LLM */
+"Starting the export service is taking longer than expected. Please check the network and try again." = "Запуск службы экспорта занимает больше времени, чем ожидалось. Пожалуйста, проверьте сетевое подключение и повторите попытку.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "status" = "статус";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Идёт запись звонка в фоновом режиме.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "stop" = "стоп";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop" = "Остановить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop & Reset Service" = "Остановить и сбросить службу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop & Save" = "Остановить и сохранить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop a call recording, system audio recording or voice memo if exists." = "Остановить запись звонка/системного звука/голосовой заметки (если активна).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop a system screen recording if exists." = "Остановить запись экрана (если активна).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop Recording" = "Остановить запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"stop recording" = "Остановить запись";
+
+/* Translated with LLM */
 "Stop Recording When Disk Exhausted" = "Останавливать запись при нехватке места";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Stop Screen Recording" = "Остановить запись экрана";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"stop screen recording" = "остановить запись экрана";
+
+/* Translated with LLM */
 "Stop Service" = "Остановить службу";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully authorized to Google and connected to Google Drive." = "Успешная авторизация в Google и подключение к Google Drive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully authorized to Microsoft and connected to OneDrive." = "Успешная авторизация в Microsoft и подключение к OneDrive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully connected to Dropbox." = "Успешное подключение к Dropbox.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Successfully connected to the server %@." = "Успешное подключение к серверу %@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Suggested" = "Рекомендуемые";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Suggested Applications" = "Рекомендуемые приложения";
 
-/* TODO */
-"Switch to list view" = "Switch to list view";
+/* Translated with LLM */
+"Switch to list view" = "Переключиться на список";
 
-/* TODO */
-"Switch to orbit view" = "Switch to orbit view";
+/* Translated with LLM */
+"Switch to orbit view" = "Переключиться на орбитальный вид";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync" = "Синхронизация";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync Service Mode" = "Режим синхронизации";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync Service Provider" = "Провайдер синхронизации";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Sync: Make local and cloud recordings identical, modifying cloud drives only." = "Синхронизация: идентичность локальных и облачных записей (изменяются только облачные данные).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "synchronization" = "синхронизация";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Synchronization Failed" = "Ошибка синхронизации";
 
-/* No comment provided by engineer. */
-"Synchronize the playback status of the recording with Control Center." = "Синхронизировать статус воспроизведения с Пунктом управления.";
+/* Translated with LLM */
+"Synchronize the playback status of the recording with Control Center." = "Синхронизировать статус воспроизведения записи с Пунктом управления.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Synchronizing" = "Синхронизация";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Syntax or usage error occurred." = "Ошибка синтаксиса или использования.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Applications" = "Системные приложения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Audio" = "Системный звук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Audio Recording" = "Запись системного звука";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "system audio recording" = "запись системного звука";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Language" = "Системный язык";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "System Record" = "Системная запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap __any edge__  \nto select it as an ___active edge___." = "Нажмите __любую грань__, \nчтобы выбрать её как ___активную грань___.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to add required widget." = "Нажмите для добавления виджета.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to calculate the total size of all recordings." = "Нажмите для подсчёта общего размера записей.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to Copy" = "Нажмите для копирования";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to Exit" = "Нажмите для выхода";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to open settings." = "Нажмите для открытия настроек.";
 
-/* TODO */
-"Tap to open Wi-Fi settings." = "Tap to open Wi-Fi settings.";
+/* Translated with LLM */
+"Tap to open Wi-Fi settings." = "Нажмите, чтобы открыть настройки Wi‑Fi.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Tap to view details" = "Нажмите для просмотра деталей";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Technical Error Detected" = "Обнаружена техническая ошибка";
+
+/* Translated with LLM */
 "Temporarily Ignore" = "Временно игнорировать";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Temporary error occurred, more retries might fix." = "Временная ошибка, повторные попытки могут помочь.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "terminate" = "завершить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Terminate all active calls immediately." = "Немедленно завершить все активные звонки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"terminate call" = "завершить вызов";
+
+/* Translated with LLM */
 "Terminate Calls" = "Завершить звонки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Test Connection" = "Проверить соединение";
 
-/* TODO */
-"Text Copied" = "Text Copied";
+/* Translated with LLM */
+"Text Copied" = "Текст скопирован";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"text to speech" = "текст в речь";
+
+/* Translated with LLM */
 "text-to-speech" = "текст-в-речь";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The %@ has been interrupted by the system. You may convert the recording manually later." = "Система прервала %@. Вы можете конвертировать запись вручную позже.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The application setup has encountered an unknown error, the Launch Daemon has not responded to our requests. We are attempting to reconnect, please wait. If the issue persists, you may try reinstalling the application." = "Неизвестная ошибка: демон запуска не отвечает. Идёт повторное подключение. Если проблема остаётся, переустановите приложение.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The application will launch automatically when recording ends." = "Приложение запустится автоматически после записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The audio file to be played to the opposite side." = "Аудиофайл для воспроизведения собеседнику.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The bundle identifier of the application that initiated the call." = "Идентификатор приложения, инициировавшего звонок.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The content of text file “%@” is empty." = "Текстовый файл «%@» пуст.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The current state of the call. Possible values are: Dialing, Connected, Disconnected, and Unknown." = "Текущий статус звонка. Варианты: Набор, Соединён, Завершён, Неизвестно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The date and time when the audio was created." = "Дата и время создания аудио.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The device will vibrate with special haptic patterns when recording starts and ends." = "Устройство будет вибрировать при начале/окончании записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The direction of the call. May not available for all audio files." = "Направление звонка. Доступно не для всех аудиофайлов.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The direction of the call. Possible values are: Incoming, Outgoing, and Unknown." = "Направление звонка. Варианты: Входящий, Исходящий, Неизвестно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The display name of the application that initiated the call." = "Название приложения, инициировавшего звонок.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The field of information to get." = "Поле информации для получения.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The file format of the selected audio file." = "Формат выбранного аудиофайла.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The hoverball can display even if you do not unlock your device." = "Hoverball отображается даже на заблокированном устройстве.";
 
-/* No comment provided by engineer. */
-"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Комбинация клавиш для «Быстрой записи» изменена на «%@».";
+/* Translated with LLM */
+"The key combination of “Quick Recording” and “Physical Key Combination” has been changed to “%@”." = "Комбинация клавиш для «Быстрой записи» и «Физической комбинации клавиш» изменена на «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "Последняя версия «TrollRecorder»: %1$@ (%2$@). Текущая версия: %3$@ (%4$@).";
 
-/* No comment provided by engineer. */
-"The location metadata will be continuously updated while the recording is in progress." = "Метаданные местоположения обновляются во время записи.";
+/* Translated with LLM */
+"The location metadata will be continuously updated while the recording is in progress." = "Метаданные местоположения будут непрерывно обновляться во время записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The location where the recording was recorded." = "Местоположение, где была сделана запись.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The maximum seconds to wait for calls to be connected." = "Максимальное время ожидания соединения (в секундах).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The missing location metadata will be populated if you open the application right after the recording." = "Отсутствующие метаданные местоположения добавятся при открытии приложения сразу после записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The name of the contact." = "Имя контакта.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The name of the sender." = "Имя отправителя.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Частота дискретизации (чем выше — лучше качество, но больше размер файла).";
 
-/* TODO */
-"the other device" = "the other device";
+/* Translated with LLM */
+"the other device" = "другое устройство";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number of the contact." = "Номер телефона контакта.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number of the sender." = "Номер телефона отправителя.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The phone number. Third party application or CallKit calls may not have this value." = "Номер телефона. Может отсутствовать для сторонних приложений или CallKit.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The post process mode to be used. Combine mode will squash stereo speaker audio into left channel, with microphone on right channel. Mixed mode will duplicate microphone channel to stereo and mix it with speaker channels." = "Режим постобработки: Combine — динамики в левый канал, микрофон в правый; Mixed — микширование каналов.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The primary button action at the right side of the hoverball when no call is active." = "Действие основной кнопки hoverball (правая сторона) без активного звонка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The service is not properly configured." = "Служба настроена неправильно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The service operator name of the sender." = "Оператор связи отправителя.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The size of selected audio file." = "Размер выбранного аудиофайла.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The text to be played to the opposite side." = "Текст для воспроизведения собеседнику.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The time interval before the hoverball becomes idle." = "Время до перехода hoverball в режим бездействия.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The type of content to be recorded." = "Тип контента для записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The unique identifier of the call." = "Уникальный идентификатор звонка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The unique identifier of the provider application." = "Уникальный идентификатор приложения-провайдера.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "The URL is not valid." = "Некорректный URL.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There is nothing but air." = "Здесь пусто.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There is still a risk that the background service will not be able to convert the recording file right after it has been recorded. Fortunately, you can now complete this final step!" = "Фоновая служба может не конвертировать запись сразу. Теперь вы можете завершить этот шаг вручную!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "There was a problem verifying your identity." = "Ошибка проверки вашей личности.";
 
-/* No comment provided by engineer. */
-"This feature requires a paid subscription. Please upgrade to use this feature." = "Для этой функции нужна платная подписка.";
+/* Translated with LLM */
+"This feature requires a paid subscription. Please upgrade to use this feature." = "Для этой функции нужна платная подписка. Пожалуйста, оформите подписку, чтобы использовать эту функцию.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This field accept phone number for matching contact." = "Это поле принимает номер телефона для поиска контакта.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This field accept phone number or an email address for matching contact." = "Это поле принимает номер телефона или email для поиска контакта.";
 
-/* No comment provided by engineer. */
-"This is a sandbox build, the daemon is not available." = "Это тестовая сборка — демон недоступен.";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This is a widget daemon for Troll Recorder." = "Это демон виджета для Troll Recorder.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This option affects the behavior of the “Quick Recording” and “Physical Key Combination”." = "Эта опция влияет на «Быструю запись» и «Комбинацию клавиш».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This option overrides the “Press & Hold Action” of the Hoverball." = "Эта опция переопределяет действие «Удержание» для Hoverball.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This recording contains multiple audio variants. Saving in-place will delete other variants. Do you still want to continue, or save as duplicate?" = "Эта запись содержит несколько вариантов аудио. Сохранение удалит другие варианты. Продолжить или сохранить копию?";
 
-/* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Это запись из WeChat. Ассистент WeChat сохранит имена контактов.\nКупить TrollRecorder Pro для активации ассистента?";
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou can buy “TrollRecorder Pro” to enable “WeChat Assistant”, do you want to buy it now?" = "Это запись из WeChat. Ассистент WeChat сохранит имена контактов и заметки при следующей записи.\nВы можете купить TrollRecorder Pro, чтобы включить ассистента WeChat. Хотите купить сейчас?";
 
-/* No comment provided by engineer. */
-"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Это запись из WeChat. Ассистент WeChat сохранит имена контактов.\nАктивировать ассистент сейчас?";
+/* Translated with LLM */
+"This recording is from WeChat, and “WeChat Assistant” helps you populate WeChat contact names and remarks next time.\nYou don’t seem to have “WeChat Assistant” enabled, do you want to enable it immediately?" = "Это запись из WeChat. «Ассистент WeChat» поможет вам в следующий раз заполнить имена и заметки контактов WeChat.\nПохоже, у вас не включен «Ассистент WeChat». Хотите включить его сейчас?";
 
-/* No comment provided by engineer. */
-"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "Эта версия WeChat (%@) не поддерживается. Обновите приложение.";
+/* Translated with LLM */
+"This version of WeChat (%@) is not supported. Please upgrade to the latest version." = "Эта версия WeChat (%@) не поддерживается. Пожалуйста, обновите приложение до последней версии.";
 
-/* No comment provided by engineer. */
-"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Эта версия WeChat (%@) не тестировалась. Некоторые функции могут не работать.";
+/* Translated with LLM */
+"This version of WeChat (%@) is not tested nor officially supported. Some features may not work as expected." = "Эта версия WeChat (%@) не тестировалась и официально не поддерживается. Некоторые функции могут работать некорректно.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is partially supported. It is recommended to upgrade to the latest version." = "Эта версия WeChat (%@) поддерживается частично. Рекомендуем обновление.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "This version of WeChat (%@) is supported." = "Эта версия WeChat (%@) поддерживается.";
 
-/* TODO */
-"This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+/* Translated with LLM */
+"This will generate a new password and restart the WebDAV server." = "Это приведет к генерации нового пароля и перезапуску сервера WebDAV.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Three-digit Milliseconds" = "Трехзначные миллисекунды";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Time Sensitive" = "Срочное";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"time sensitive notification" = "срочное уведомление";
+
+/* Translated with LLM */
 "Title" = "Название";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To %@" = "Кому: %@";
 
-/* No comment provided by engineer. */
-"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Для активации «Launch Shield» добавьте виджет TrollRecorder на экран. Нажмите «Добавить», затем переместите его.";
+/* Translated with LLM */
+"To activate the “Launch Shield” feature, you have to add the “Troll Recorder” widget to the lock or home screen. Tap “Add Now” to add that widget to the initial page of the home screen. You can long press and drag to change its position later." = "Чтобы активировать функцию «Launch Shield», необходимо добавить виджет «Troll Recorder» на экран блокировки или главный экран. Нажмите «Добавить сейчас», чтобы добавить этот виджет на начальную страницу главного экрана. Позже вы можете изменить его положение, нажав и удерживая, а затем перетащив.";
 
-/* No comment provided by engineer. */
-"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Для настройки iCloud Drive перейдите в «Настройки» → «Сотовая связь» → «iCloud Drive».";
+/* Translated with LLM */
+"To configure iCloud Drive, go to “Settings” → “Cellular” → “iCloud Drive”." = "Для настройки iCloud Drive перейдите в «Настройки» → «Сотовая связь» → «iCloud Drive».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To configure notifications related to recording synchronization, go to “Network Storage” settings page." = "Настройки уведомлений синхронизации в разделе «Сетевое хранилище».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To configure “Press & Hold Action”, you have to remove custom shortcut from “Automation” → “Press & Hold Hoverball”." = "Для настройки «Удержания» удалите кастомный ярлык в «Автоматизация» → «Удержание Hoverball».";
 
-/* No comment provided by engineer. */
-"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "Для точной истории звонков используйте TrollFools для интеграции с WeChat.";
+/* Translated with LLM */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "Для более точной истории звонков необходимо внедрить его в приложение «WeChat» с помощью TrollFools или аналогичных технологий.";
 
-/* No comment provided by engineer. */
-"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Для доступа WebDAV выберите «Всегда» или «При использовании» для TrollRecorder.";
+/* Translated with LLM */
+"To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for “Troll Recorder”." = "Для поддержания активности доступа WebDAV необходимо выбрать «Всегда» или «При использовании приложения» для «TrollRecorder».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To use “Smart Cloud Archive”, you have to enable “Background App Refresh” for “Troll Recorder”." = "Для «Умного архива» включите фоновое обновление TrollRecorder.";
 
-/* No comment provided by engineer. */
-"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Для «Умного архива» войдите в iCloud Drive в «Настройках».";
+/* Translated with LLM */
+"To use “Smart Cloud Archive”, you have to sign in to iCloud Drive in “Settings”." = "Для «Умного архива» войдите в iCloud Drive в «Настройках».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To: %@" = "Кому: %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "toggle" = "переключить";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle ${requestedMode}" = "Переключить ${requestedMode}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle Call Recording" = "Переключить запись звонка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Toggle Hoverball" = "Переключить Hoverball";
 
-/* No comment provided by engineer. */
-"Toggle ON/OFF the recorder hoverball." = "Включить/выключить Hoverball.";
+/* Translated with LLM */
+"toggle hoverball" = "переключить плавающую кнопку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Toggle ON/OFF the recorder hoverball." = "Включить/выключить плавающую кнопку рекордера.";
+
+/* Translated with LLM */
 "Toggle Recording" = "Переключить запись";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"toggle recording" = "переключить запись";
+
+/* Translated with LLM */
 "Toggle Screen Recording" = "Переключить запись экрана";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"toggle screen recording" = "переключить запись экрана";
+
+/* Translated with LLM */
 "Toggle System Audio Recording" = "Переключить запись системного звука";
 
-/* No comment provided by engineer. */
-"Toggle system screen recording just like what you do in the Control Center." = "Переключить запись экрана (как в Пункте управления).";
+/* Translated with LLM */
+"Toggle system screen recording just like what you do in the Control Center." = "Переключайте системную запись экрана так же, как вы это делаете в Пункте управления.";
 
-/* No comment provided by engineer. */
-"Toggle Voice Memo Recording" = "Переключить голосовую заметку";
+/* Translated with LLM */
+"Toggle Voice Memo Recording" = "Переключить запись голосовой заметки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Token expired. Please re-authorize to continue." = "Токен устарел. Повторно авторизуйтесь.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "top edge" = "верхняя грань";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Total size is %@, path is %@" = "Общий размер: %@, путь: %@";
 
 /* No comment provided by engineer. */
 "Touch ID" = "Touch ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "To…" = "Кому…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Track Location Updates" = "Отслеживать местоположение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "trailing edge" = "задняя грань";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transcript" = "Транскрипт";
 
-/* TODO */
+/* Translated with LLM */
 "Transcript Copied" = "Транскрипт скопирован";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transfer exceeded." = "Превышен лимит передачи.";
 
-/* TODO */
-"Transfer Recordings" = "Transfer Recordings";
+/* Translated with LLM */
+"Transfer Recordings" = "Перенос записей";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Transition When Idle" = "Анимация бездействия";
 
 /* To translators: Replace @AUTHOR_NAME with your name. */
 "Translated by @AUTHOR_NAME" = "Перевод: RAYMONCE";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Trim" = "Обрезать";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Troll Recorder" = "Troll Recorder";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Troll Recorder %@" = "Troll Recorder %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "tts" = "TTS";
 
-/* No comment provided by engineer. */
-"Turn this option off to make the other options on this page take effect for the current application." = "Отключите эту опцию, чтобы другие настройки применились.";
+/* Translated with LLM */
+"tts playback" = "воспроизведение TTS";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Turn this option off to make the other options on this page take effect for the current application." = "Отключите эту опцию, чтобы другие настройки на этой странице вступили в силу для текущего приложения.";
+
+/* Translated with LLM */
 "Two-digit Day of Month Number" = "Двузначный день месяца";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Hours, 12-hour Clock" = "Двузначные часы (12-часовой формат)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Hours, 24-hour Clock" = "Двузначные часы (24-часовой формат)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Minutes" = "Двузначные минуты";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Month Number" = "Двузначный номер месяца";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Two-digit Seconds" = "Двузначные секунды";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Type to search…" = "Поиск…";
 
-/* No comment provided by engineer. */
-"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Не удалось найти папку для синхронизации. Создайте «TrollRecorder/Recordings» в хранилище.";
+/* Translated with LLM */
+"Unable to locate remote directory for bi-directional synchronization. You may need to create “TrollRecorder/Recordings” directory on the remote storage." = "Не удалось найти удаленную папку для двусторонней синхронизации. Возможно, вам нужно создать папку «TrollRecorder/Recordings» в удаленном хранилище.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unable to locate your personal “OneDrive”." = "Не удалось найти ваш OneDrive.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unable to perform incremental bi-directional synchronization, a full resynchronization is required." = "Требуется полная синхронизация (инкрементная невозможна).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unauthorize" = "Отозвать доступ";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Uncompressed" = "Без сжатия";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Underscore" = "Подчеркивание";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown" = "Неизвестно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Address" = "Неизвестный адрес";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Artist" = "Неизвестный исполнитель";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Direction" = "Неизвестное направление";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Duration" = "Неизвестная длительность";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Error" = "Неизвестная ошибка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown error occurred." = "Произошла неизвестная ошибка.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown error occurred. Please check the log for more details." = "Неизвестная ошибка. Подробности в логах.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown File Format" = "Неизвестный формат файла";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Location" = "Неизвестное местоположение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Operator" = "Неизвестный оператор";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Phone Address" = "Неизвестный номер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Place" = "Неизвестное место";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Provider" = "Неизвестный провайдер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Sample Rate" = "Неизвестная частота дискретизации";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Sender" = "Неизвестный отправитель";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Type" = "Неизвестный тип";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unknown Variant" = "Неизвестный вариант";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unlock all features?" = "Разблокировать все функции?";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmark" = "Снять отметку";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "unmute" = "включить звук";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmute ${requestedChannel}" = "Включить звук ${requestedChannel}";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"unmute call" = "включить звук звонка";
+
+/* Translated with LLM */
 "Unmute Existing Calls" = "Включить звук текущих звонков";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unmute specified channel of all existing calls." = "Включить звук указанного канала во всех звонках.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unspecified" = "Не указано";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Unsupported Configuration" = "Неподдерживаемая конфигурация";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Untitled" = "Без названия";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Up to 5 Personal Devices" = "До 5 личных устройств";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Updating…" = "Обновление…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upgrade Now" = "Обновить сейчас";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upgrade to %@" = "Обновить до %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "uplink" = "исходящий";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Uplink (Microphone)" = "Исходящий (микрофон)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"uplink playback" = "воспроизведение uplink";
+
+/* Translated with LLM */
+"uplink voice" = "голосовой канал вверх";
+
+/* Translated with LLM */
 "Upload" = "Загрузить";
 
-/* No comment provided by engineer. */
-"Upload, download or synchronize recordings between local and cloud drive." = "Загрузка, выгрузка или синхронизация записей с облаком.";
+/* Translated with LLM */
+"Upload, download or synchronize recordings between local and cloud drive." = "Загрузка, выгрузка или синхронизация записей между локальным и облачным хранилищем.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Upload: Upload local recordings to cloud drives as is. Restorable." = "Загрузка: записи сохраняются в облако в оригинале. Восстановимо.";
 
-/* No comment provided by engineer. */
-"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Использовать биометрию для разблокировки. Фоновое воспроизведение отключено.";
+/* Translated with LLM */
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "Использовать биометрию для разблокировки приложения. Фоновое воспроизведение недоступно при включении этой функции.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Cellular Network" = "Использовать мобильную сеть";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Date" = "Использовать дату";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Date Range" = "Использовать диапазон дат";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Default Settings" = "Использовать настройки по умолчанию";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Haptic Patterns" = "Использовать тактильные паттерны";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Media Controls" = "Использовать медиа-управление";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Recycle Bin" = "Использовать корзину";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Use Snapshot Transition" = "Использовать переход через снимок";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Agreement" = "Пользовательское соглашение";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Applications" = "Пользовательские приложения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User denied access to speech recognition." = "Пользователь запретил доступ к распознаванию речи";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Initiated Recording" = "Запись, инициированная пользователем";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "User Interface Style" = "Стиль интерфейса";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Username (Optional)" = "Имя пользователя (опционально)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Utility" = "Утилита";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant" = "Вариант";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant Capitalized" = "Вариант (с заглавной)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Variant Description" = "Описание варианта";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Verification Failed" = "Проверка не пройдена";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Verify License" = "Проверить лицензию";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Version %@ Build %@" = "Версия %@ Сборка %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Version %@ Build %@ - New Version %@ Build %@" = "Версия %@ Сборка %@ - Новая версия %@ Сборка %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Vibrate" = "Вибрация";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View" = "Просмотр";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Details" = "Просмотр деталей";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs" = "Просмотр логов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Application" = "Логи приложения";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Audio Player" = "Логи аудиоплеера";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Call Monitor" = "Логи монитора вызовов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Call Recorder" = "Логи записи вызовов";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Hoverball" = "Логи Hoverball";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Launch Agent" = "Логи агента запуска";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Network Storage" = "Логи сетевого хранилища";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: Speech Utterance" = "Логи речевого вывода";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Logs: System Audio" = "Логи системного звука";
 
-/* No comment provided by engineer. */
-"View Logs: Voice Memo" = "Логи голосовых заметок";
+/* Translated with LLM */
+"View Logs: Voice Memo" = "Просмотр журналов: Голосовая заметка";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View My Account" = "Мой аккаунт";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "View Recording Details" = "Просмотр деталей записи";
 
-/* No comment provided by engineer. */
-"VIP contacts will always be recorded and added to the favourites." = "Контакты VIP всегда записываются и добавляются в избранное";
+/* Translated with LLM */
+"VIP contacts will always be recorded and added to the favourites." = "Контакты VIP всегда записываются и добавляются в избранное.";
 
-/* No comment provided by engineer. */
-"Voice Memo" = "Голосовая заметка";
-
-/* No comment provided by engineer. */
-"Voice Memo Recording" = "Запись голосовой заметки";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "voice memo recording" = "запись голосовой заметки";
 
-/* No comment provided by engineer. */
-"Voice Memos" = "Голосовые заметки";
-
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "voice-over" = "голос за кадром";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Voice-Over Voice" = "Голос озвучки";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"Voice Memo" = "Голосовая заметка";
+
+/* Translated with LLM */
+"Voice Memo Recording" = "Переключить запись голосовой заметки";
+
+/* Translated with LLM */
+"Voice Memos" = "Голосовые заметки";
+
+/* Translated with LLM */
 "VoIP" = "VoIP";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Volume" = "Громкость";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "wait" = "ожидание";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for ${requestedTimeout} seconds" = "Ожидать ${requestedTimeout} секунд";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for any calls to be answered and connected." = "Ожидать ответа и соединения вызова";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"wait for call" = "ожидать вызов";
+
+/* Translated with LLM */
 "Wait for Calls" = "Ожидать вызовы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Wait for Connected Calls" = "Ожидать соединённые вызовы";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Warning, your call is being recorded now. Warning, your call is being recorded now." = "Внимание: ваш разговор записывается. Внимание: ваш разговор записывается.";
 
-/* TODO */
-"Waveform Audio" = "Waveform Audio";
+/* Translated with LLM */
+"Waveform Audio" = "Аудио WAV";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We are unable to verify your purchase due to inaccurate time. Please ensure that your device’s time is accurate to proceed." = "Не удалось проверить покупку из-за неверного времени. Убедитесь, что время на устройстве точное.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We are unable to verify your purchase in private browsing mode. Please ensure that you are not in private browsing mode of Safari to proceed." = "Не удалось проверить покупку в приватном режиме. Отключите приватный режим Safari.";
 
-/* TODO */
-"We couldn’t finish importing recordings from %@." = "We couldn’t finish importing recordings from %@.";
+/* Translated with LLM */
+"We couldn’t finish importing recordings from %@." = "Не удалось завершить импорт записей из %@.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "Мы любим красочные анимированные фоны, но вы можете отключить их здесь.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WebDAV" = "WebDAV";
 
-/* TODO */
-"WebDAV Password Actions" = "WebDAV Password Actions";
+/* Translated with LLM */
+"WebDAV Password Actions" = "Действия с паролем WebDAV";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WebDAV Server" = "WebDAV сервер";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WeChat" = "WeChat";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WeChat Assistant" = "Ассистент WeChat";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Welcome to" = "Добро пожаловать в";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’re recording system audio in the background." = "Идёт запись системного звука в фоне.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’re recording your voice memo in the background." = "Идёт запись вашей голосовой заметки в фоне.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new phone call recording!" = "У нас новая запись звонка!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new system audio recording!" = "У нас новая запись системного звука!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got a new voice memo!" = "У нас новая голосовая заметка!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "We’ve got new phone call recordings!" = "У нас новые записи звонков!";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "What’s New" = "Что нового";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When any of the following actions is triggered, run the shortcut without any notification." = "При срабатывании любого из следующих действий запускать сценарий без уведомлений.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Foreground" = "Когда на переднем плане";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Locked" = "При блокировке";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "При отсутствии Wi-Fi использовать мобильную сеть для передачи записей. Могут взиматься дополнительные платежи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When there is no call…" = "Когда нет звонков…";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When Visible" = "Когда видно";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "When WebDAV server is enabled, whether to allow you to visit from a common web browser like Safari, Chrome, Edge, etc." = "При включении WebDAV сервера разрешать доступ через браузеры (Safari, Chrome, Edge и др.)";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to force the application to use the light or the dark user interface." = "Принудительно устанавливать светлую или тёмную тему интерфейса.";
 
-/* No comment provided by engineer. */
-"Whether to force the hoverball to use the light or the dark style." = "Принудительно устанавливать светлый или тёмный стиль для hoverball.";
+/* Translated with LLM */
+"Whether to force the hoverball to use the light or the dark style." = "Принудительно устанавливать светлый или тёмный стиль для плавающей кнопки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Whether to infinitely repeat playing the audio. If enabled, this action will return immediately after it starts playing." = "Бесконечно повторять воспроизведение аудио. При включении действие завершится сразу после начала воспроизведения.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which channel to mute." = "Какой канал отключить.";
 
-/* No comment provided by engineer. */
-"Which channel to unmute." = "Какой канал включить.";
+/* Translated with LLM */
+"Which channel to unmute." = "Какой канал отключить.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Which edges of the screen the hoverball can be attached to." = "К каким краям экрана можно прикреплять hoverball.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Why don’t you make a phone call?" = "Почему бы не сделать звонок?";
 
-/* TODO */
-"Wi-Fi Required" = "Wi-Fi Required";
+/* Translated with LLM */
+"Wi-Fi Required" = "Требуется Wi‑Fi";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Will start recording automatically on audio or video calls in the current application." = "Автоматически записывать аудио и видеозвонки в текущем приложении.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Will start recording automatically on audio or video calls." = "Автоматически записывать аудио и видеозвонки.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write ID3 tags to the exported audio files, including title, artist, album, genre, year, and artwork." = "Добавлять ID3-теги в экспортируемые аудиофайлы (название, исполнитель, альбом, жанр, год и обложку).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write latitude and longitude to the recording metadata." = "Записывать широту и долготу в метаданные записи.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Write runtime logs into filesystem. You need to restart services to apply changes." = "Записывать логи работы в файловую систему. Для применения изменений требуется перезапуск служб.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Year Month Day" = "Год Месяц День";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "YES" = "ДА";
 
-/* No comment provided by engineer. */
-"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "Вы собираетесь удалить все записи, сбросить настройки и очистить кеш.\nTHIS ЭТО ДЕЙСТВИЕ НЕЛЬЗЯ ОТМЕНИТЬ!";
+/* Translated with LLM */
+"You are about to erase all recordings, reset all settings, and clear all caches completely.\nTHIS OPERATION CANNOT BE UNDONE!" = "Вы собираетесь удалить все записи, сбросить все настройки и полностью очистить весь кеш.\nЭТО ДЕЙСТВИЕ НЕЛЬЗЯ ОТМЕНИТЬ!";
 
-/* TODO */
-"You are about to fix the file-system owners and permissions of all recordings and settings." = "You are about to fix the file-system owners and permissions of all recordings and settings.";
+/* Translated with LLM */
+"You are about to fix the file-system owners and permissions of all recordings and settings." = "Вы собираетесь исправить владельцев и разрешения файловой системы для всех записей и настроек.";
 
-/* No comment provided by engineer. */
-"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Вы можете загрузить голос в “Настройки” → “Универсальный доступ” → “VoiceOver” → “Речь” → “Голоса”, затем выбрать его здесь для голосовых объявлений.";
+/* Translated with LLM */
+"You are already using the latest version of “TrollRecorder” %@ (%@)." = "Вы уже используете последнюю версию «TrollRecorder» %1$@ (%2$@).";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
+"You can download a voice pack in “Settings” → “Accessibility” → “VoiceOver” → “Speech” → “Voice” to download voice packs, and then choose one here for voice announcements." = "Вы можете загрузить голосовой пакет в «Настройки» → «Универсальный доступ» → «VoiceOver» → «Речь» → «Голоса», а затем выбрать его здесь для голосовых объявлений.";
+
+/* Translated with LLM */
 "You have to select “Always” for “Troll Recorder” to determine your location in background. If you select “While Using the App”, locations will be updated only when you launch the application after recording." = "Для определения местоположения в фоне выберите “Всегда” для “Troll Recorder”. При выборе “При использовании” местоположение будет обновляться только после запуска приложения.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You may need to enable “Enhanced Automatic Recording” or “Enhanced Scene Identification” in order to make options on this page to take effect." = "Для работы настроек на этой странице может потребоваться включить “Расширенную авто-запись” или “Расширенное определение сцены”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You may need to reboot your device to make this application work properly." = "Для корректной работы приложения может потребоваться перезагрузка устройства.";
 
-/* No comment provided by engineer. */
-"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Ваши данные с %@ будут загружены и объединены с записями в “%@”.";
+/* Translated with LLM */
+"Your information on this %@ will be uploaded and merged with the recordings stored in “%@”." = "Ваши данные с %@ будут загружены и объединены с записями в «%@».";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’re now using the free version of “TrollRecorder JB”." = "Вы используете бесплатную версию “TrollRecorder JB”.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’re now using the free version of “TrollRecorder”." = "Вы используете бесплатную версию “TrollRecorder”.";
 
-/* No comment provided by engineer. */
-"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Вы изменили язык приложения на “%@”. Для полного применения изменений требуется respring.";
+/* Translated with LLM */
+"You’ve changed the display language of the application to “%@”. A respring is required to completely apply the changes." = "Вы изменили язык приложения на «%@». Для полного применения изменений требуется respring.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve changed “Custom Export Name”. Do you want to regenerate the archived recordings in “Network Storage”?\nThis operation may take a while and consume extra cellular data traffic quota. You may want to delete “TrollRecorder/ArchivedRecordings” from your cloud drives to avoid duplicates." = "Вы изменили “Пользовательское имя экспорта”. Пересоздать архивные записи в “Сетевом хранилище”?\nОперация может занять время и расходовать мобильный трафик. Рекомендуется удалить “TrollRecorder/ArchivedRecordings” из облака во избежание дублирования.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "You’ve chosen to proceed without valid code signature. You can still use the application to view or export existing recordings, but other features may not be available." = "Вы продолжили без валидной подписи. Доступны просмотр и экспорт записей, другие функции могут не работать.";
 
-/* No comment provided by engineer. */
-"You’ve enabled biometric authentication so it’s required to verify your identity." = "Вы включили биометрическую аутентификацию - требуется подтверждение личности.";
+/* Translated with LLM */
+"You’ve enabled biometric authentication so it’s required to verify your identity." = "Вы включили биометрическую аутентификацию, поэтому требуется подтверждение личности.";
 
-/* No comment provided by engineer. */
-"You’ve pressed cancel." = "Вы нажали “Отмена”.";
+/* Translated with LLM */
+"You’ve pressed cancel." = "Вы нажали «Отмена».";
 
-/* No comment provided by engineer. */
-"You’ve pressed password." = "Вы ввели пароль.";
+/* Translated with LLM */
+"You’ve pressed password." = "Вы нажали «Пароль».";
 
-/* TODO */
-"¼ Audio CD" = "¼ Audio CD";
+/* Translated with LLM */
+"¼ Audio CD" = "¼ Аудио-CD";
 
-/* TODO */
-"½ Audio CD" = "½ Audio CD";
+/* Translated with LLM */
+"½ Audio CD" = "½ Аудио-CD";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“%@” is not available." = "“%@” недоступен.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“Background App Refresh” Permission Denied" = "Доступ к “Фоновому обновлению” запрещён";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“iCloud Drive” Not Logged In" = "Нет входа в “iCloud Drive”";
 
-/* TODO */
-"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again.";
+/* Translated with LLM */
+"“Launch Shield” is enabled: the service will be re-enabled in some scenarios. To permanently stop the service, disable “Advanced Options” → “Launch Shield”, quit and reopen the application, then select this option again." = "«Launch Shield» включен: в некоторых сценариях служба будет повторно активирована. Чтобы навсегда остановить службу, отключите «Advanced Options» → «Launch Shield», закройте и снова откройте приложение, затем снова выберите этот параметр.";
 
-/* No comment provided by engineer. */
-"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Установлены обе версии “TrollRecorder JB” и TrollStore. Удалите их и установите заново через Sileo или TrollStore.";
+/* Translated with LLM */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "Установлены обе версии “TrollRecorder JB” и TrollStore. Удалите их и установите заново “TrollRecorder JB” через Sileo или “TrollRecorder” через TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” несовместим с Bootstrap (RootHide). Удалите его и установите “TrollRecorder” через TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” несовместим с этой версией iOS.";
 
 /* No comment provided by engineer. */
