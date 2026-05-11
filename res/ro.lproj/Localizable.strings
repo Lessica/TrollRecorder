@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 secunde";
+
+/* Translated with LLM */
 "3 Seconds" = "3 secunde";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Înregistrarea apelurilor începe numai atunci când se răspunde la un apel efectuat sau când este preluat un apel primit.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Înregistrarea apelurilor: Partea mea";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Înregistrarea apelurilor: Cealaltă parte";
+
+/* Translated with LLM */
 "Call State" = "Stare apel";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Pagini Copil";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Alegeți câte linii de subtitrare pot fi afișate simultan.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Alegeți formatul audio de ieșire pentru mixer. Formatul Wave Audio nu acceptă codificare avansată.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Alegeți presetarea dimensiunii hoverball-ului.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Alegeți dimensiunea textului utilizată de fereastra de subtitrare live.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Alegeți dacă subtitrările dispar după o scurtă perioadă de inactivitate sau rămân până când sunt înlocuite sau șterse.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Curăță automat cache-urile";
@@ -839,6 +857,9 @@
 "Developer Options" = "Opțiuni pentru dezvoltatori";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Dictare dezactivată";
+
+/* Translated with LLM */
 "Digital Video" = "Video digital";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Activează Optic ID";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Activați subtitrările în timp real în timpul înregistrării. Activarea opțiunilor are efect de la următoarea înregistrare. Dezactivarea opțiunilor ascunde imediat fereastra de subtitrări, dar transcrierea în fundal continuă până la sfârșitul înregistrării curente.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Activează Touch ID";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Urmarește sistemul";
 
 /* Translated with LLM */
+"Font Size" = "Dimensiune font";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Forțați aplicația să utilizeze o anumită limbă. Redeschideți pentru a aplica modificările.";
 
 /* No comment provided by engineer. */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Anul complet";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Generați și afișați subtitrări live în timpul înregistrării audio a sistemului.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Generați și afișați subtitrări live în timp ce înregistrați memo-uri vocale.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Generați subtitrări live pentru cealaltă parte a înregistrărilor apelurilor.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Generați subtitrări live pentru propria dvs. parte a înregistrărilor apelurilor.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Obțineți ${requestedField}";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Garanție pe viață";
 
 /* Translated with LLM */
+"Line Count" = "Număr de linii";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Conectează dispozitivul la Havoc";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Vizualizare listă activată";
+
+/* Translated with LLM */
+"Live Captions" = "Subtitrări live";
 
 /* Translated with LLM */
 "Loading…" = "Se încarcă…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Faceți hoverball-ul semitransparent sau pliat atunci când îl lăsați pentru o vreme.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Faceți fereastra subtitrărilor live invizibilă atunci când faceți capturi de ecran sau înregistrări ale ecranului.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Efectuarea unui apel telefonic pentru a începe înregistrarea.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Simulator (Sandbox)";
 
 /* Translated with LLM */
+"Single Line" = "Linie unică";
+
+/* Translated with LLM */
 "Skip Silence" = "Ignoră tăcerea";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Intervalul specificat de la %1$@ la %2$@ este invalid.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Permisiunea de recunoaștere a vorbirii refuzată";
 
 /* Translated with LLM */
 "spoken audio" = "audio vorbit";
@@ -2877,6 +2931,9 @@
 
 /* Translated with LLM */
 "status" = "stare";
+
+/* Translated with LLM */
+"Stay Duration" = "Durata șederii";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Rămâneți pe recepție. Înregistrăm apelul dvs. în fundal.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Sincronizarea a eșuat";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Sincronizare blocată";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Sincronizează starea de redare a înregistrării cu Centrul de Control.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Numărul de eșantioane pe secundă, o rată de eșantionare mai mare înseamnă o calitate audio mai bună, dar și o dimensiune mai mare a fișierului.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "Opțiunile de pe această pagină necesită „Dictare” și recunoașterea vorbirii pe dispozitiv pentru limba curentă. Activați „Dictare” în „Setări” → „General” → „Tastatură” → „Activare dictare”.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "Opțiunile de pe această pagină necesită permisiunea „Recunoașterea vorbirii”. Activați „TrollRecorder” în „Setări” → „Confidențialitate și securitate” → „Recunoașterea vorbirii”. Sunetul poate fi trimis la Apple pentru procesare.";
+
+/* Translated with LLM */
 "the other device" = "celălalt dispozitiv";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Aceasta va genera o parolă nouă și va reporni serverul WebDAV.";
+
+/* Translated with LLM */
+"Three Lines" = "Trei linii";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Milisecunde cu trei cifre";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Dezactivați această opțiune pentru ca celelalte opțiuni de pe această pagină să aibă efect pentru aplicația curentă.";
+
+/* Translated with LLM */
+"Two Lines" = "Două linii";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Numărul zilei din lună (două cifre)";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "Contactele VIP vor fi întotdeauna înregistrate și adăugate la favorite.";
+
+/* Translated with LLM */
+"Voice Memo" = "Memo vocal";
 
 /* Translated with LLM */
 "voice memo recording" = "înregistrare Voice Memo";

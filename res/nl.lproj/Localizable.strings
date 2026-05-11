@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 seconden";
+
+/* Translated with LLM */
 "3 Seconds" = "3 seconden";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "De gespreksopname start alleen wanneer een uitgaand gesprek wordt beantwoord of een inkomend gesprek wordt aangenomen.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Gespreksopname: Mijn kant";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Gespreksopname: Andere kant";
+
+/* Translated with LLM */
 "Call State" = "Belstatus";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Kindpagina’s";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Kies hoeveel bijschriftregels tegelijk kunnen worden weergegeven.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Kies de audio-uitvoerindeling voor de mixer. Wave Audio-indeling ondersteunt geen geavanceerde codering.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Kies de vooraf ingestelde grootte van de hoverball.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Kies de tekstgrootte die wordt gebruikt door het live bijschriftenvenster.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Kies of bijschriften verdwijnen na een korte inactieve periode of blijven staan totdat ze worden vervangen of gewist.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Caches automatisch opschonen";
@@ -839,6 +857,9 @@
 "Developer Options" = "Opties voor ontwikkelaars";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Dicteren uitgeschakeld";
+
+/* Translated with LLM */
 "Digital Video" = "Digitale video";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Optic ID inschakelen";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Schakel realtime bijschriften in tijdens het opnemen. Het inschakelen van opties wordt van kracht vanaf de volgende opname. Het uitschakelen van opties verbergt het bijschriftenvenster onmiddellijk, maar de achtergrondtranscriptie gaat door tot de huidige opname eindigt.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Touch ID inschakelen";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Systeem volgen";
 
 /* Translated with LLM */
+"Font Size" = "Lettergrootte";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Forceer de app om een specifieke taal te gebruiken. Heropen de app om de wijzigingen toe te passen.";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Volledig jaar";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Live-ondertitels genereren en weergeven tijdens het opnemen van systeemaudio.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Live-ondertitels genereren en weergeven tijdens het opnemen van spraakmemo’s.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Genereer live ondertiteling voor de andere kant van gespreksopnames.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Genereer live ondertiteling voor je eigen kant van gespreksopnames.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Haal ${requestedField}";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Levenslange garantie";
 
 /* Translated with LLM */
+"Line Count" = "Aantal regels";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Apparaat koppelen aan Havoc";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Lijstweergave ingeschakeld";
+
+/* Translated with LLM */
+"Live Captions" = "Live-ondertiteling";
 
 /* Translated with LLM */
 "Loading…" = "Laden…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Maak de hoverbal semi-transparant of ingeklapt wanneer je deze een tijdje niet gebruikt.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Maak het live bijschriftvenster onzichtbaar bij het maken van schermafbeeldingen of schermopnamen.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Een telefoongesprek voeren om de opname te starten.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Simulator (Sandbox)";
 
 /* Translated with LLM */
+"Single Line" = "Enkele regel";
+
+/* Translated with LLM */
 "Skip Silence" = "Stilte overslaan";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Het opgegeven bereik van %1$@ tot %2$@ is ongeldig.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Spraakherkenningstoestemming geweigerd";
 
 /* Translated with LLM */
 "spoken audio" = "gesproken audio";
@@ -2877,6 +2931,9 @@
 
 /* No comment provided by engineer. */
 "status" = "status";
+
+/* Translated with LLM */
+"Stay Duration" = "Verblijfsduur";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Blijf op de hoogte. We nemen uw gesprek op de achtergrond op.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Synchronisatie mislukt";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Synchronisatie vergrendeld";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Synchroniseer de afspeelstatus van de opname met het bedieningspaneel.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Het aantal samples per seconde. Een hogere sample rate betekent een betere geluidskwaliteit, maar ook een grotere bestandsgrootte.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "De opties op deze pagina vereisen ‘Dicteren’ en spraakherkenning op het apparaat voor de huidige taal. Schakel ‘Dicteren’ in bij ‘Instellingen’ → ‘Algemeen’ → ‘Toetsenbord’ → ‘Dicteren inschakelen’.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "De opties op deze pagina vereisen de machtiging “Spraakherkenning”. Schakel “TrollRecorder” in bij “Instellingen” → “Privacy en beveiliging” → “Spraakherkenning”. Audio wordt mogelijk naar Apple verzonden voor verwerking.";
+
+/* Translated with LLM */
 "the other device" = "het andere apparaat";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Dit genereert een nieuw wachtwoord en herstart de WebDAV-server.";
+
+/* Translated with LLM */
+"Three Lines" = "Drie regels";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Milliseconden van drie cijfers";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Schakel deze optie uit om de andere opties op deze pagina van kracht te laten worden voor de huidige toepassing.";
+
+/* Translated with LLM */
+"Two Lines" = "Twee regels";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Tweecijferig dagnummer van de maand";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "VIP-contacten worden altijd opgenomen en toegevoegd aan de favorieten.";
+
+/* Translated with LLM */
+"Voice Memo" = "Spraakmemo";
 
 /* Translated with LLM */
 "voice memo recording" = "spraakmemo-opname";

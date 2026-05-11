@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* No comment provided by engineer. */
+"15 Seconds" = "15 秒";
+
+/* No comment provided by engineer. */
 "3 Seconds" = "3 秒";
 
 /* No comment provided by engineer. */
@@ -262,7 +265,7 @@
 /* No comment provided by engineer. */
 "Applications" = "应用程序";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "App Store" = "App Store";
 
 /* No comment provided by engineer. */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "打开此开关，使去电被对方接听时才自动开始录音。来电总是在被接听时才自动开始录音。";
 
 /* No comment provided by engineer. */
+"Call Recording: My Side" = "通话录音：己方字幕";
+
+/* No comment provided by engineer. */
+"Call Recording: Other Side" = "通话录音：对方字幕";
+
+/* No comment provided by engineer. */
 "Call State" = "通话状态";
 
 /* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
@@ -554,6 +563,9 @@
 "Child Pages" = "子页面";
 
 /* No comment provided by engineer. */
+"Choose how many caption lines can be displayed at once." = "选择字幕悬浮窗最多同时显示的行数。";
+
+/* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "选择混音器的输出音频格式。波形音频格式不支持高级编码。";
 
 /* No comment provided by engineer. */
@@ -564,6 +576,12 @@
 
 /* No comment provided by engineer. */
 "Choose the size preset of the hoverball." = "选择悬浮球的预设尺寸。";
+
+/* No comment provided by engineer. */
+"Choose the text size used by the live caption window." = "选择实时字幕悬浮窗使用的文字大小。";
+
+/* No comment provided by engineer. */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "选择字幕在短暂空闲后自动隐藏，还是一直停留直到被替换或清空。";
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "自动清理缓存";
@@ -607,11 +625,11 @@
 /* No comment provided by engineer. */
 "Compressing" = "压缩中";
 
-/* No comment provided by engineer. */
-"Configure the embedded client with your WebDAV server address, username and password." = "Configure the embedded client with your WebDAV server address, username and password.";
+/* Translated with LLM */
+"Configure the embedded client with your WebDAV server address, username and password." = "使用 WebDAV 服务器地址、用户名和密码配置嵌入式客户端。";
 
-/* No comment provided by engineer. */
-"Configure WebDAV Client" = "Configure WebDAV Client";
+/* Translated with LLM */
+"Configure WebDAV Client" = "配置 WebDAV 客户端";
 
 /* No comment provided by engineer. */
 "Confirm" = "确认";
@@ -839,6 +857,9 @@
 "Developer Options" = "开发者选项";
 
 /* No comment provided by engineer. */
+"Dictation Disabled" = "听写已关闭";
+
+/* No comment provided by engineer. */
 "Digital Video" = "数字视频";
 
 /* No comment provided by engineer. */
@@ -976,10 +997,10 @@
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此处__ 以调节 ___%@___ 的尺寸。";
 
-/* No comment provided by engineer. */
-"Drive ID" = "Drive ID";
+/* Translated with LLM */
+"Drive ID" = "驱动器 ID";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
@@ -1041,6 +1062,9 @@
 
 /* No comment provided by engineer. */
 "Enable Optic ID" = "启用视控 ID";
+
+/* No comment provided by engineer. */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "录制时启用实时字幕。打开选项将在下次录制时生效；关闭选项会立即隐藏当前字幕悬浮窗，但后台转写会继续到本次录制结束。";
 
 /* No comment provided by engineer. */
 "Enable Touch ID" = "启用触控 ID";
@@ -1114,8 +1138,8 @@
 /* No comment provided by engineer. */
 "Error retrieving discovery document: %@" = "检索接口目录时发生错误：%@";
 
-/* No comment provided by engineer. */
-"exit" = "exit";
+/* Translated with LLM */
+"exit" = "退出";
 
 /* No comment provided by engineer. */
 "Exit Hoverball" = "关闭悬浮球";
@@ -1238,6 +1262,9 @@
 "Follow System" = "跟随系统";
 
 /* No comment provided by engineer. */
+"Font Size" = "字体尺寸";
+
+/* No comment provided by engineer. */
 "Force the app to use a specific language. Reopen to apply changes." = "强制应用程序使用指定的语言。退出并重新打开应用程序后方可生效。";
 
 /* No comment provided by engineer. */
@@ -1281,6 +1308,18 @@
 
 /* No comment provided by engineer. */
 "Full Year" = "完整年份";
+
+/* No comment provided by engineer. */
+"Generate and display live captions while recording system audio." = "录制系统音频时生成并显示实时字幕。";
+
+/* No comment provided by engineer. */
+"Generate and display live captions while recording voice memos." = "录制语音备忘录时生成并显示实时字幕。";
+
+/* No comment provided by engineer. */
+"Generate live captions for the other side of call recordings." = "为通话录音中的对方音频生成实时字幕。";
+
+/* No comment provided by engineer. */
+"Generate live captions for your own side of call recordings." = "为通话录音中的己方音频生成实时字幕。";
 
 /* No comment provided by engineer. */
 "Get ${requestedField}" = "获取 ${requestedField}";
@@ -1387,7 +1426,7 @@
 /* No comment provided by engineer. */
 "I Agree to the E.U.L.A." = "我已经阅读并同意《最终用户许可协议》";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "icloud" = "iCloud";
 
 /* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
@@ -1489,10 +1528,10 @@
 /* No comment provided by engineer. */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "无效的代码签名。\n请从 TrollStore 重新安装此应用程序。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPad" = "iPad";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "一次购买终身可用";
 
 /* No comment provided by engineer. */
+"Line Count" = "显示行数";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "连接到「浩劫」商店";
 
 /* No comment provided by engineer. */
@@ -1584,6 +1626,9 @@
 
 /* No comment provided by engineer. */
 "List view enabled" = "已启用列表视图";
+
+/* No comment provided by engineer. */
+"Live Captions" = "实时字幕";
 
 /* No comment provided by engineer. */
 "Loading…" = "载入中…";
@@ -1679,6 +1724,9 @@
 "Make the hoverball semi-transparent or folded when leave it for a while." = "当悬浮球闲置一段时间后，使其半透明或折叠到屏幕边缘。";
 
 /* No comment provided by engineer. */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "在进行截屏或屏幕录制时使实时字幕悬浮窗不可见。";
+
+/* No comment provided by engineer. */
 "Making a phone call to begin recording." = "进行通话以开始录制。";
 
 /* No comment provided by engineer. */
@@ -1732,7 +1780,7 @@
 /* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
 "microphone speech" = "麦克风语音";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Microsoft OneDrive" = "Microsoft OneDrive";
 
 /* No comment provided by engineer. */
@@ -1906,7 +1954,7 @@
 /* No comment provided by engineer. */
 "On another device, choose “Import From Another Device”, then pick “%@”. Do not leave this page during transmission." = "在另一台设备选择 “从其他设备导入”，然后选择 “%@”。传输过程中请勿离开此页面。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "OneDrive" = "OneDrive";
 
 /* No comment provided by engineer. */
@@ -2767,14 +2815,14 @@
 /* No comment provided by engineer. */
 "Show “View Details” menu item for developers to check the manifests of recordings." = "为开发者显示 “查看详情” 菜单项，以查看录音的细节清单。";
 
-/* No comment provided by engineer. */
-"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "Sign in with your Dropbox account to authorize the app to access your Dropbox.";
+/* Translated with LLM */
+"Sign in with your Dropbox account to authorize the app to access your Dropbox." = "使用您的 Dropbox 账号登录，以授权应用访问您的 Dropbox。";
 
-/* No comment provided by engineer. */
-"Sign in with your Google account to authorize the app to access your Google Drive." = "Sign in with your Google account to authorize the app to access your Google Drive.";
+/* Translated with LLM */
+"Sign in with your Google account to authorize the app to access your Google Drive." = "使用您的 Google 账号登录，以授权应用访问您的 Google Drive。";
 
-/* No comment provided by engineer. */
-"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive.";
+/* Translated with LLM */
+"Sign in with your Microsoft account to authorize the app to access your Microsoft OneDrive." = "使用您的 Microsoft 账号登录，以授权应用访问您的 Microsoft OneDrive。";
 
 /* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
 "silence call" = "静音通话";
@@ -2790,6 +2838,9 @@
 
 /* No comment provided by engineer. */
 "Simulator (Sandbox)" = "模拟器（沙盒）";
+
+/* No comment provided by engineer. */
+"Single Line" = "单行";
 
 /* No comment provided by engineer. */
 "Skip Silence" = "跳过静音";
@@ -2832,6 +2883,9 @@
 
 /* No comment provided by engineer. */
 "Specified range from %@ to %@ is invalid." = "指定的范围从 %1$@ 到 %2$@ 是无效的。";
+
+/* No comment provided by engineer. */
+"Speech Recognition Permission Denied" = "语音识别被拒绝访问";
 
 /* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
 "spoken audio" = "语音音频";
@@ -2877,6 +2931,9 @@
 
 /* No comment provided by engineer. */
 "status" = "状态";
+
+/* No comment provided by engineer. */
+"Stay Duration" = "停留时长";
 
 /* No comment provided by engineer. */
 "Stay tuned. We’re recording your call in the background." = "巨魔录音机正在后台录制此次通话。";
@@ -2958,6 +3015,9 @@
 
 /* No comment provided by engineer. */
 "Synchronization Failed" = "同步失败";
+
+/* No comment provided by engineer. */
+"Synchronization Locked" = "同步锁定中";
 
 /* No comment provided by engineer. */
 "Synchronize the playback status of the recording with Control Center." = "与控制中心同步录音的播放状态。";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "每秒的样本数，更高的采样率意味着更好的音频质量和更大的文件大小。";
 
 /* No comment provided by engineer. */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "此页面上的选项需要 “听写” 和当前语言的设备端语音识别。请在 “设置” → “通用” → “键盘” → “启用听写” 中启用 “听写”。";
+
+/* No comment provided by engineer. */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "此页面上的选项需要 “语音识别” 权限。请在 “设置” → “隐私与安全” → “语音识别” 中为 “巨魔录音机” 启用该权限。音频可能会发送到 Apple 进行处理。";
+
+/* No comment provided by engineer. */
 "the other device" = "另一台设备";
 
 /* No comment provided by engineer. */
@@ -3212,6 +3278,9 @@
 "This will generate a new password and restart the WebDAV server." = "这将生成一个新密码并重启 WebDAV 服务器。";
 
 /* No comment provided by engineer. */
+"Three Lines" = "三行";
+
+/* No comment provided by engineer. */
 "Three-digit Milliseconds" = "毫秒数";
 
 /* No comment provided by engineer. */
@@ -3253,8 +3322,8 @@
 /* No comment provided by engineer. */
 "To: %@" = "结束于：%@";
 
-/* No comment provided by engineer. */
-"toggle" = "toggle";
+/* Translated with LLM */
+"toggle" = "切换";
 
 /* No comment provided by engineer. */
 "Toggle ${requestedMode}" = "启停 ${requestedMode}";
@@ -3340,7 +3409,7 @@
 /* No comment provided by engineer. */
 "Troll Recorder %@" = "巨魔录音机 %@";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "tts" = "TTS";
 
 /* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
@@ -3348,6 +3417,9 @@
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "关闭此选项，使此页面上的其他选项对当前应用程序生效。";
+
+/* No comment provided by engineer. */
+"Two Lines" = "双行";
 
 /* No comment provided by engineer. */
 "Two-digit Day of Month Number" = "两位数月份日期";
@@ -3626,6 +3698,9 @@
 "VIP contacts will always be recorded and added to the favourites." = "VIP 联系人将始终被录音并添加到收藏中。";
 
 /* No comment provided by engineer. */
+"Voice Memo" = "语音备忘录";
+
+/* No comment provided by engineer. */
 "voice memo recording" = "语音备忘录";
 
 /* No comment provided by engineer. */
@@ -3643,8 +3718,8 @@
 /* No comment provided by engineer. */
 "Voice Memos" = "语音备忘录";
 
-/* No comment provided by engineer. */
-"VoIP" = "VoIP";
+/* Translated with LLM */
+"VoIP" = "网络电话";
 
 /* No comment provided by engineer. */
 "Volume" = "音量";
@@ -3685,7 +3760,7 @@
 /* No comment provided by engineer. */
 "We love colorful and moving backgrounds, but option here for you to disable it." = "我们喜欢移动着的、多彩的背景，但是我们依然提供了选项让你来关闭它。";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "WebDAV" = "WebDAV";
 
 /* No comment provided by engineer. */

@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 секунд";
+
+/* Translated with LLM */
 "3 Seconds" = "3 секунды";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Запись начинается только после ответа на звонок.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Запись разговора: моя сторона";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Запись разговора: другая сторона";
+
+/* Translated with LLM */
 "Call State" = "Состояние звонка";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Дочерние страницы";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Выберите, сколько строк субтитров может отображаться одновременно.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Выберите формат аудио для микшера. Wave не поддерживает продвинутое кодирование.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Выберите размер плавающей кнопки.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Выберите размер текста, используемый в окне живых субтитров.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Выберите, будут ли субтитры исчезать после короткого периода бездействия или оставаться до тех пор, пока их не заменят или не очистят.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Автоматически очищать кеш";
@@ -839,6 +857,9 @@
 "Developer Options" = "Настройки разработчика";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Диктовка отключена";
+
+/* Translated with LLM */
 "Digital Video" = "Цифровое видео";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Включить Optic ID";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Включить субтитры в реальном времени во время записи. Включение параметров вступает в силу со следующей записи. Отключение параметров немедленно скрывает окно субтитров, но фоновая транскрипция продолжается до окончания текущей записи.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Включить Touch ID";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Как в системе";
 
 /* Translated with LLM */
+"Font Size" = "Размер шрифта";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Принудительно установить язык. Перезапустите для применения.";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Полный год";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Генерируйте и отображайте субтитры в реальном времени во время записи системного звука.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Генерируйте и отображайте субтитры в реальном времени во время записи голосовых заметок.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Генерировать живые субтитры для другой стороны записи разговора.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Генерировать живые субтитры для своей стороны записи разговора.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Получить ${requestedField}";
@@ -1489,10 +1528,10 @@
 /* Translated with LLM */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Неверная подпись кода.\nПереустановите приложение через TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPad" = "iPad";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPhone" = "iPhone";
 
 /* Translated with LLM */
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Пожизненная гарантия";
 
 /* Translated with LLM */
+"Line Count" = "Количество строк";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Привязать устройство к Havoc";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Режим списка включён";
+
+/* Translated with LLM */
+"Live Captions" = "Субтитры в реальном времени";
 
 /* Translated with LLM */
 "Loading…" = "Загрузка…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Делать hoverball полупрозрачным или свернутым после бездействия.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Сделайте окно живых титров невидимым при создании скриншотов или записи экрана.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Совершение звонка для начала записи.";
@@ -2590,8 +2638,8 @@
 /* Translated with LLM */
 "screen recording off" = "запись экрана выключена";
 
-/* No comment provided by engineer. */
-"SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
+/* Translated with LLM */
+"SCRN: 2025SR1911573" = "Регистрационный номер ПО: 2025SR1911573";
 
 /* Translated with LLM */
 "Search" = "Поиск";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Симулятор (Песочница)";
 
 /* Translated with LLM */
+"Single Line" = "Одна строка";
+
+/* Translated with LLM */
 "Skip Silence" = "Пропускать тишину";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Указанный диапазон от %1$@ до %2$@ недействителен.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Отказано в разрешении на распознавание речи";
 
 /* Translated with LLM */
 "spoken audio" = "аудио речи";
@@ -2877,6 +2931,9 @@
 
 /* Translated with LLM */
 "status" = "статус";
+
+/* Translated with LLM */
+"Stay Duration" = "Продолжительность отображения";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Идёт запись звонка в фоновом режиме.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Ошибка синхронизации";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Синхронизация заблокирована";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Синхронизировать статус воспроизведения записи с Пунктом управления.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Частота дискретизации (чем выше — лучше качество, но больше размер файла).";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "Опции на этой странице требуют «Диктовки» и распознавания речи на устройстве для текущего языка. Включите «Диктовку» в «Настройки» → «Основные» → «Клавиатура» → «Включить диктовку».";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "Для работы параметров на этой странице требуется разрешение «Распознавание речи». Включите «TrollRecorder» в «Настройки» → «Конфиденциальность и безопасность» → «Распознавание речи». Аудио может быть отправлено Apple для обработки.";
+
+/* Translated with LLM */
 "the other device" = "другое устройство";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Это приведет к генерации нового пароля и перезапуску сервера WebDAV.";
+
+/* Translated with LLM */
+"Three Lines" = "Три строки";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Трехзначные миллисекунды";
@@ -3337,8 +3406,8 @@
 /* Translated with LLM */
 "Troll Recorder" = "Troll Recorder";
 
-/* No comment provided by engineer. */
-"Troll Recorder %@" = "Troll Recorder %@";
+/* Translated with LLM */
+"Troll Recorder %@" = "TrollRecorder %@";
 
 /* Translated with LLM */
 "tts" = "TTS";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Отключите эту опцию, чтобы другие настройки на этой странице вступили в силу для текущего приложения.";
+
+/* Translated with LLM */
+"Two Lines" = "Две строки";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Двузначный день месяца";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "Контакты VIP всегда записываются и добавляются в избранное.";
+
+/* Translated with LLM */
+"Voice Memo" = "Голосовая заметка";
 
 /* Translated with LLM */
 "voice memo recording" = "запись голосовой заметки";

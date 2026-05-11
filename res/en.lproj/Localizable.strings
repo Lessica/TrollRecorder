@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* No comment provided by engineer. */
+"15 Seconds" = "15 Seconds";
+
+/* No comment provided by engineer. */
 "3 Seconds" = "3 Seconds";
 
 /* No comment provided by engineer. */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Call recording starts only when an outgoing call is answered or an incoming call is picked up.";
 
 /* No comment provided by engineer. */
+"Call Recording: My Side" = "Call Recording: My Side";
+
+/* No comment provided by engineer. */
+"Call Recording: Other Side" = "Call Recording: Other Side";
+
+/* No comment provided by engineer. */
 "Call State" = "Call State";
 
 /* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
@@ -554,6 +563,9 @@
 "Child Pages" = "Child Pages";
 
 /* No comment provided by engineer. */
+"Choose how many caption lines can be displayed at once." = "Choose how many caption lines can be displayed at once.";
+
+/* No comment provided by engineer. */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding.";
 
 /* No comment provided by engineer. */
@@ -564,6 +576,12 @@
 
 /* No comment provided by engineer. */
 "Choose the size preset of the hoverball." = "Choose the size preset of the hoverball.";
+
+/* No comment provided by engineer. */
+"Choose the text size used by the live caption window." = "Choose the text size used by the live caption window.";
+
+/* No comment provided by engineer. */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Choose whether captions disappear after a short idle period or stay until they are replaced or cleared.";
 
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "Clean Caches Automatically";
@@ -839,6 +857,9 @@
 "Developer Options" = "Developer Options";
 
 /* No comment provided by engineer. */
+"Dictation Disabled" = "Dictation Disabled";
+
+/* No comment provided by engineer. */
 "Digital Video" = "Digital Video";
 
 /* No comment provided by engineer. */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Enable Optic ID";
 
 /* No comment provided by engineer. */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends.";
+
+/* No comment provided by engineer. */
 "Enable Touch ID" = "Enable Touch ID";
 
 /* No comment provided by engineer. */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Follow System";
 
 /* No comment provided by engineer. */
+"Font Size" = "Font Size";
+
+/* No comment provided by engineer. */
 "Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
 
 /* No comment provided by engineer. */
@@ -1281,6 +1308,18 @@
 
 /* No comment provided by engineer. */
 "Full Year" = "Full Year";
+
+/* No comment provided by engineer. */
+"Generate and display live captions while recording system audio." = "Generate and display live captions while recording system audio.";
+
+/* No comment provided by engineer. */
+"Generate and display live captions while recording voice memos." = "Generate and display live captions while recording voice memos.";
+
+/* No comment provided by engineer. */
+"Generate live captions for the other side of call recordings." = "Generate live captions for the other side of call recordings.";
+
+/* No comment provided by engineer. */
+"Generate live captions for your own side of call recordings." = "Generate live captions for your own side of call recordings.";
 
 /* No comment provided by engineer. */
 "Get ${requestedField}" = "Get ${requestedField}";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Lifetime Guarantee";
 
 /* No comment provided by engineer. */
+"Line Count" = "Line Count";
+
+/* No comment provided by engineer. */
 "Link Device to Havoc" = "Link Device to Havoc";
 
 /* No comment provided by engineer. */
@@ -1584,6 +1626,9 @@
 
 /* No comment provided by engineer. */
 "List view enabled" = "List view enabled";
+
+/* No comment provided by engineer. */
+"Live Captions" = "Live Captions";
 
 /* No comment provided by engineer. */
 "Loading…" = "Loading…";
@@ -1677,6 +1722,9 @@
 
 /* No comment provided by engineer. */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Make the hoverball semi-transparent or folded when leave it for a while.";
+
+/* No comment provided by engineer. */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Make the live caption window invisible when taking screenshots or screen recordings.";
 
 /* No comment provided by engineer. */
 "Making a phone call to begin recording." = "Making a phone call to begin recording.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Simulator (Sandbox)";
 
 /* No comment provided by engineer. */
+"Single Line" = "Single Line";
+
+/* No comment provided by engineer. */
 "Skip Silence" = "Skip Silence";
 
 /* No comment provided by engineer. */
@@ -2832,6 +2883,9 @@
 
 /* No comment provided by engineer. */
 "Specified range from %@ to %@ is invalid." = "Specified range from %1$@ to %2$@ is invalid.";
+
+/* No comment provided by engineer. */
+"Speech Recognition Permission Denied" = "Speech Recognition Permission Denied";
 
 /* Shortcut search keyword, not user-visible. Prefer searchable phrasing over literal translation. */
 "spoken audio" = "spoken audio";
@@ -2877,6 +2931,9 @@
 
 /* No comment provided by engineer. */
 "status" = "status";
+
+/* No comment provided by engineer. */
+"Stay Duration" = "Stay Duration";
 
 /* No comment provided by engineer. */
 "Stay tuned. We’re recording your call in the background." = "Stay tuned. We’re recording your call in the background.";
@@ -2958,6 +3015,9 @@
 
 /* No comment provided by engineer. */
 "Synchronization Failed" = "Synchronization Failed";
+
+/* No comment provided by engineer. */
+"Synchronization Locked" = "Synchronization Locked";
 
 /* No comment provided by engineer. */
 "Synchronize the playback status of the recording with Control Center." = "Synchronize the playback status of the recording with Control Center.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "The number of samples per second, higher sample rate means better audio quality with larger file size.";
 
 /* No comment provided by engineer. */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”.";
+
+/* No comment provided by engineer. */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing.";
+
+/* No comment provided by engineer. */
 "the other device" = "the other device";
 
 /* No comment provided by engineer. */
@@ -3210,6 +3276,9 @@
 
 /* No comment provided by engineer. */
 "This will generate a new password and restart the WebDAV server." = "This will generate a new password and restart the WebDAV server.";
+
+/* No comment provided by engineer. */
+"Three Lines" = "Three Lines";
 
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "Three-digit Milliseconds";
@@ -3348,6 +3417,9 @@
 
 /* No comment provided by engineer. */
 "Turn this option off to make the other options on this page take effect for the current application." = "Turn this option off to make the other options on this page take effect for the current application.";
+
+/* No comment provided by engineer. */
+"Two Lines" = "Two Lines";
 
 /* No comment provided by engineer. */
 "Two-digit Day of Month Number" = "Two-digit Day of Month Number";
@@ -3624,6 +3696,9 @@
 
 /* No comment provided by engineer. */
 "VIP contacts will always be recorded and added to the favourites." = "VIP contacts will always be recorded and added to the favourites.";
+
+/* No comment provided by engineer. */
+"Voice Memo" = "Voice Memo";
 
 /* No comment provided by engineer. */
 "voice memo recording" = "voice memo recording";

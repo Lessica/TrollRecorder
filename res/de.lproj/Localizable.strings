@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 Sekunden";
+
+/* Translated with LLM */
 "3 Seconds" = "3 Sekunden";
 
 /* Translated with LLM */
@@ -136,8 +139,8 @@
 /* Translated with LLM */
 "Adequate" = "Angemessen";
 
-/* No comment provided by engineer. */
-"Advanced Audio Coding" = "Advanced Audio Coding";
+/* Translated with LLM */
+"Advanced Audio Coding" = "Erweiterte Audiocodierung";
 
 /* Translated with LLM */
 "Advanced Options" = "Erweiterte Optionen";
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Die Anrufaufzeichnung beginnt erst, wenn ein ausgehender Anruf angenommen oder ein eingehender Anruf entgegengenommen wird.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Gesprächsaufzeichnung: Meine Seite";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Gesprächsaufzeichnung: Andere Seite";
+
+/* Translated with LLM */
 "Call State" = "Anrufstatus";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Kinderseiten";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Wählen Sie, wie viele Untertitelzeilen gleichzeitig angezeigt werden können.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Wählen Sie das Ausgabe-Audioformat für den Mixer. Das Wave-Audioformat unterstützt keine erweiterte Kodierung.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Wähle die Größen-Voreinstellung des Hoverballs.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Wählen Sie die Schriftgröße, die für das Live-Untertitel-Fenster verwendet wird.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Legen Sie fest, ob Untertitel nach einer kurzen Leerlaufzeit ausgeblendet werden oder so lange angezeigt bleiben, bis sie ersetzt oder gelöscht werden.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Caches automatisch bereinigen";
@@ -799,8 +817,8 @@
 /* Translated with LLM */
 "Deactivate the recorder hoverball." = "Deaktiviere den Aufnahme-Schwebeball.";
 
-/* No comment provided by engineer. */
-"Debugging" = "Debugging";
+/* Translated with LLM */
+"Debugging" = "Debuggen";
 
 /* Translated with LLM */
 "decline" = "Ablehnen";
@@ -837,6 +855,9 @@
 
 /* Translated with LLM */
 "Developer Options" = "Entwickleroptionen";
+
+/* Translated with LLM */
+"Dictation Disabled" = "Diktat deaktiviert";
 
 /* Translated with LLM */
 "Digital Video" = "Digitales Video";
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Optische ID aktivieren";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Aktivieren Sie Echtzeit-Untertitel während der Aufnahme. Das Einschalten von Optionen wird ab der nächsten Aufnahme wirksam. Das Ausschalten von Optionen blendet das Untertitel-Fenster sofort aus, aber die Hintergrundtranskription läuft bis zum Ende der aktuellen Aufnahme weiter.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Touch ID aktivieren";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "System folgen";
 
 /* Translated with LLM */
+"Font Size" = "Schriftgröße";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Erzwinge, dass die App eine bestimmte Sprache verwendet. Öffne die App erneut, um die Änderungen zu übernehmen.";
 
 /* No comment provided by engineer. */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Ganzes Jahr";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Live-Untertitel während der Aufzeichnung von Systemaudio erzeugen und anzeigen.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Live-Untertitel während der Aufnahme von Sprachnotizen erzeugen und anzeigen.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Generieren Sie Live-Untertitel für die andere Seite von Gesprächsaufzeichnungen.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Generieren Sie Live-Untertitel für Ihre eigene Seite von Gesprächsaufzeichnungen.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Hole ${requestedField}";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Lebenslange Garantie";
 
 /* Translated with LLM */
+"Line Count" = "Zeilenzahl";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Gerät mit Havoc verbinden";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Listenansicht aktiviert";
+
+/* Translated with LLM */
+"Live Captions" = "Live-Untertitel";
 
 /* Translated with LLM */
 "Loading…" = "Laden…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Machen Sie den Hoverball halbtransparent oder falten Sie ihn, wenn Sie ihn eine Weile nicht verwenden.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Machen Sie das Live-Untertitel-Fenster unsichtbar, wenn Sie Screenshots oder Bildschirmaufnahmen machen.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Tätigen Sie einen Anruf, um die Aufnahme zu starten.";
@@ -2590,8 +2638,8 @@
 /* Translated with LLM */
 "screen recording off" = "Bildschirmaufzeichnung aus";
 
-/* No comment provided by engineer. */
-"SCRN: 2025SR1911573" = "SCRN: 2025SR1911573";
+/* Translated with LLM */
+"SCRN: 2025SR1911573" = "Software-Urheberrechtsregistrierungsnummer: 2025SR1911573";
 
 /* Translated with LLM */
 "Search" = "Suche";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Simulator (Sandbox)";
 
 /* Translated with LLM */
+"Single Line" = "Einzelne Zeile";
+
+/* Translated with LLM */
 "Skip Silence" = "Stille überspringen";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Der angegebene Bereich von %1$@ bis %2$@ ist ungültig.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Spracherkennungsberechtigung verweigert";
 
 /* Translated with LLM */
 "spoken audio" = "gesprochenes Audio";
@@ -2877,6 +2931,9 @@
 
 /* No comment provided by engineer. */
 "status" = "status";
+
+/* Translated with LLM */
+"Stay Duration" = "Aufenthaltsdauer";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Bleiben Sie dran. Wir zeichnen Ihr Gespräch im Hintergrund auf.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Synchronisierung fehlgeschlagen";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Synchronisierung gesperrt";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Synchronisiere den Wiedergabestatus der Aufnahme mit dem Control Center.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Die Anzahl der Samples pro Sekunde. Eine höhere Abtastrate bedeutet bessere Audioqualität bei größerer Dateigröße.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "Die Optionen auf dieser Seite erfordern „Diktat“ und die geräteeigene Spracherkennung für die aktuelle Sprache. Aktivieren Sie „Diktat“ unter „Einstellungen“ → „Allgemein“ → „Tastatur“ → „Diktat aktivieren“.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "Die Optionen auf dieser Seite erfordern die Berechtigung „Spracherkennung“. Aktivieren Sie „TrollRecorder“ in „Einstellungen“ → „Datenschutz & Sicherheit“ → „Spracherkennung“. Audio kann zur Verarbeitung an Apple gesendet werden.";
+
+/* Translated with LLM */
 "the other device" = "das andere Gerät";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Dadurch wird ein neues Passwort generiert und der WebDAV-Server neu gestartet.";
+
+/* Translated with LLM */
+"Three Lines" = "Drei Zeilen";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Dreistellige Millisekunden";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Deaktivieren Sie diese Option, damit die anderen Optionen auf dieser Seite für die aktuelle Anwendung wirksam werden.";
+
+/* Translated with LLM */
+"Two Lines" = "Zwei Zeilen";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Zweistellige Tageszahl des Monats";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "VIP-Kontakte werden immer aufgezeichnet und zu den Favoriten hinzugefügt.";
+
+/* Translated with LLM */
+"Voice Memo" = "Sprachmemo";
 
 /* Translated with LLM */
 "voice memo recording" = "Sprachmemo-Aufnahme";

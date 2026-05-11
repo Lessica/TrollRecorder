@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 Detik";
+
+/* Translated with LLM */
 "3 Seconds" = "3 Detik";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Perekaman panggilan hanya dimulai saat panggilan keluar dijawab atau panggilan masuk diangkat.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Rekaman Panggilan: Sisi Saya";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Rekaman Panggilan: Sisi Lain";
+
+/* Translated with LLM */
 "Call State" = "Status Panggilan";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Halaman Anak";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Pilih berapa banyak baris teks yang dapat ditampilkan sekaligus.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Pilih format audio output untuk mixer. Format Audio Wave tidak mendukung pengkodean lanjutan.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Pilih prasetel ukuran hoverball.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Pilih ukuran teks yang digunakan oleh jendela teks langsung.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Pilih apakah teks akan hilang setelah periode diam singkat atau tetap ada sampai teks diganti atau dihapus.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Bersihkan Cache Secara Otomatis";
@@ -839,6 +857,9 @@
 "Developer Options" = "Opsi Pengembang";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Dikte Dinonaktifkan";
+
+/* Translated with LLM */
 "Digital Video" = "Video Digital";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Aktifkan Optic ID";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Aktifkan teks waktu nyata saat merekam. Mengaktifkan opsi akan berlaku mulai dari perekaman berikutnya. Menonaktifkan opsi akan segera menyembunyikan jendela teks, tetapi transkripsi latar belakang akan terus berlanjut hingga perekaman saat ini berakhir.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Aktifkan Touch ID";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Ikuti Sistem";
 
 /* Translated with LLM */
+"Font Size" = "Ukuran Font";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Memaksa aplikasi untuk menggunakan bahasa tertentu. Buka kembali untuk menerapkan perubahan.";
 
 /* No comment provided by engineer. */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Tahun Penuh";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Hasilkan dan tampilkan teks langsung saat merekam audio sistem.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Hasilkan dan tampilkan teks langsung saat merekam memo suara.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Hasilkan teks langsung untuk sisi lain dari rekaman panggilan.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Hasilkan teks langsung untuk sisi Anda sendiri dari rekaman panggilan.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Dapatkan ${requestedField}";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Garansi Seumur Hidup";
 
 /* Translated with LLM */
+"Line Count" = "Jumlah Baris";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Tautkan Perangkat ke Havoc";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Tampilan daftar diaktifkan";
+
+/* Translated with LLM */
+"Live Captions" = "Teks Langsung";
 
 /* Translated with LLM */
 "Loading…" = "Memuat…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Buat hoverball menjadi semi-transparan atau terlipat saat ditinggalkan sebentar.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Buat jendela keterangan langsung tidak terlihat saat mengambil tangkapan layar atau merekam layar.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Melakukan panggilan telepon untuk mulai merekam.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Simulator (Sandbox)";
 
 /* Translated with LLM */
+"Single Line" = "Satu Baris";
+
+/* Translated with LLM */
 "Skip Silence" = "Lewati Hening";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Rentang yang ditentukan dari %1$@ hingga %2$@ tidak valid.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Izin Pengenalan Suara Ditolak";
 
 /* Translated with LLM */
 "spoken audio" = "audio ucapan";
@@ -2877,6 +2931,9 @@
 
 /* No comment provided by engineer. */
 "status" = "status";
+
+/* Translated with LLM */
+"Stay Duration" = "Durasi Tampil";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Tetap disini. Kami merekam panggilan Anda di latar belakang.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Sinkronisasi Gagal";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Sinkronisasi Terkunci";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Sinkronkan status pemutaran rekaman dengan Control Center.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Jumlah sampel per detik, laju sampel yang lebih tinggi berarti kualitas audio yang lebih baik dengan ukuran file yang lebih besar.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "Opsi pada halaman ini memerlukan “Dikte” dan pengenalan ucapan di perangkat untuk bahasa saat ini. Aktifkan “Dikte” di “Pengaturan” → “Umum” → “Papan Ketik” → “Aktifkan Dikte”.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "Opsi pada halaman ini memerlukan izin “Pengenalan Ucapan”. Aktifkan “TrollRecorder” di “Pengaturan” → “Privasi & Keamanan” → “Pengenalan Ucapan”. Audio dapat dikirim ke Apple untuk diproses.";
+
+/* Translated with LLM */
 "the other device" = "perangkat lain";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Ini akan menghasilkan kata sandi baru dan memulai ulang server WebDAV.";
+
+/* Translated with LLM */
+"Three Lines" = "Tiga Baris";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Milidetik Tiga Digit";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Matikan opsi ini agar opsi lain di halaman ini berlaku untuk aplikasi saat ini.";
+
+/* Translated with LLM */
+"Two Lines" = "Dua Baris";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Angka Dua Digit Hari dalam Bulan";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "Kontak VIP akan selalu direkam dan ditambahkan ke favorit.";
+
+/* Translated with LLM */
+"Voice Memo" = "Memo Suara";
 
 /* Translated with LLM */
 "voice memo recording" = "perekaman memo suara";

@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 segundos";
+
+/* Translated with LLM */
 "3 Seconds" = "3 segundos";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "A gravação de chamadas começa apenas quando uma chamada de saída é atendida ou uma chamada de entrada é recebida.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Gravação de Chamada: Meu Lado";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Gravação de Chamada: Outro Lado";
+
+/* Translated with LLM */
 "Call State" = "Estado da Chamada";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Páginas Filhas";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Escolha quantas linhas de legenda podem ser exibidas de uma vez.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Escolha o formato de áudio de saída para o mixer. O formato Wave Audio não é compatível com codificação avançada.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Escolha a predefinição de tamanho do hoverball.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Escolha o tamanho do texto usado pela janela de legendas ao vivo.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Escolha se as legendas desaparecem após um curto período de inatividade ou permanecem até serem substituídas ou limpas.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Limpar caches automaticamente";
@@ -839,6 +857,9 @@
 "Developer Options" = "Opções do desenvolvedor";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Ditado desativado";
+
+/* Translated with LLM */
 "Digital Video" = "Vídeo Digital";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Ativar o Optic ID";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Ative as legendas em tempo real durante a gravação. Ativar opções entra em vigor a partir da próxima gravação. Desativar opções oculta a janela de legendas imediatamente, mas a transcrição em segundo plano continua até o fim da gravação atual.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Ativar o Touch ID";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Seguir o sistema";
 
 /* Translated with LLM */
+"Font Size" = "Tamanho da Fonte";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Forçar o aplicativo a usar um idioma específico. Reabra para aplicar as alterações.";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Ano Completo";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Gerar e exibir legendas ao vivo durante a gravação do áudio do sistema.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Gerar e exibir legendas ao vivo durante a gravação de memorandos de voz.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Gerar legendas ao vivo para o outro lado das gravações de chamadas.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Gerar legendas ao vivo para seu próprio lado das gravações de chamadas.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Obter ${requestedField}";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Garantia Vitalícia";
 
 /* Translated with LLM */
+"Line Count" = "Contagem de Linhas";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Vincular Dispositivo ao Havoc";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Exibição de lista ativada";
+
+/* Translated with LLM */
+"Live Captions" = "Legendas ao Vivo";
 
 /* Translated with LLM */
 "Loading…" = "Carregando…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Deixe o hoverball semitransparente ou recolhido quando ficar inativo por um tempo.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Torne a janela de legenda ao vivo invisível ao fazer capturas de tela ou gravações de tela.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Fazendo uma chamada telefônica para iniciar a gravação.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Simulador (Sandbox)";
 
 /* Translated with LLM */
+"Single Line" = "Linha única";
+
+/* Translated with LLM */
 "Skip Silence" = "Ignorar Silêncio";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "O intervalo especificado de %1$@ a %2$@ é inválido.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Permissão de reconhecimento de fala negada";
 
 /* Translated with LLM */
 "spoken audio" = "áudio falado";
@@ -2877,6 +2931,9 @@
 
 /* No comment provided by engineer. */
 "status" = "status";
+
+/* Translated with LLM */
+"Stay Duration" = "Duração da Permanência";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Fique atento. Estamos gravando sua chamada em segundo plano.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Falha na Sincronização";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Sincronização Bloqueada";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Sincronize o status de reprodução da gravação com a Central de Controle.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "O número de amostras por segundo, uma taxa de amostragem mais alta significa melhor qualidade de áudio com um tamanho de arquivo maior.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "As opções nesta página exigem “Dictation” e reconhecimento de fala no dispositivo para o idioma atual. Ative “Dictation” em “Ajustes” → “Geral” → “Teclado” → “Ativar Dictation”.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "As opções nesta página exigem a permissão de “Reconhecimento de Fala”. Ative o “TrollRecorder” em “Ajustes” → “Privacidade e Segurança” → “Reconhecimento de Fala”. O áudio pode ser enviado à Apple para processamento.";
+
+/* Translated with LLM */
 "the other device" = "o outro dispositivo";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Isso gerará uma nova senha e reiniciará o servidor WebDAV.";
+
+/* Translated with LLM */
+"Three Lines" = "Três linhas";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Milissegundos de três dígitos";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Desative esta opção para que as outras opções nesta página entrem em vigor para o aplicativo atual.";
+
+/* Translated with LLM */
+"Two Lines" = "Duas linhas";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Número do dia do mês com dois dígitos";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "Contatos VIP sempre serão gravados e adicionados aos favoritos.";
+
+/* Translated with LLM */
+"Voice Memo" = "Nota de Voz";
 
 /* Translated with LLM */
 "voice memo recording" = "gravação de nota de voz";

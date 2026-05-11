@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 Saniye";
+
+/* Translated with LLM */
 "3 Seconds" = "3 Saniye";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Arama kaydı yalnızca giden bir arama cevaplandığında veya gelen bir arama alındığında başlar.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Çağrı Kaydı: Benim Tarafım";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Çağrı Kaydı: Diğer Taraf";
+
+/* Translated with LLM */
 "Call State" = "Arama Durumu";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Alt Sayfalar";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Aynı anda kaç altyazı satırının görüntülenebileceğini seçin.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Karıştırıcı için çıkış ses formatını seçin. Wave formatı gelişmiş kodlamayı desteklemez.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Hoverball’ın boyut ön ayarını seçin.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Canlı resim yazısı penceresi tarafından kullanılan metin boyutunu seçin.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Altyazıların kısa bir boşta kalma süresinden sonra kaybolmasını veya değiştirilene ya da temizlenene kadar kalmasını seçin.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Önbellekleri Otomatik Temizle";
@@ -839,6 +857,9 @@
 "Developer Options" = "Geliştirici Seçenekleri";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Dikte Devre Dışı";
+
+/* Translated with LLM */
 "Digital Video" = "Dijital Video";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Optik Kimliği Etkinleştir";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Kayıt sırasında gerçek zamanlı altyazıları etkinleştirin. Seçeneklerin açılması bir sonraki kayıttan itibaren etkili olur. Seçenekler kapatıldığında altyazı penceresi hemen gizlenir, ancak arka planda transkripsiyon geçerli kayıt sona erene kadar devam eder.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Touch ID’yi Etkinleştir";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Sistemi Takip Et";
 
 /* Translated with LLM */
+"Font Size" = "Yazı Tipi Boyutu";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Uygulamayı belirli bir dili kullanmaya zorlayın. Değişiklikleri uygulamak için yeniden açın.";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Tam Yıl";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Sistem sesini kaydederken canlı altyazılar oluşturun ve görüntüleyin.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Sesli notları kaydederken canlı altyazılar oluşturun ve görüntüleyin.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Çağrı kayıtlarının diğer tarafı için canlı altyazılar oluşturun.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Çağrı kayıtlarının kendi tarafınız için canlı altyazılar oluşturun.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "${requestedField} Al";
@@ -1393,7 +1432,7 @@
 /* Translated with LLM */
 "icloud backup" = "icloud yedekleme";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iCloud Drive" = "iCloud Drive";
 
 /* Translated with LLM */
@@ -1489,10 +1528,10 @@
 /* Translated with LLM */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Geçersiz kod imzası.\nLütfen bu uygulamayı TrollStore’dan yeniden yükleyin.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPad" = "iPad";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPhone" = "iPhone";
 
 /* Translated with LLM */
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Ömür Boyu Garanti";
 
 /* Translated with LLM */
+"Line Count" = "Satır Sayısı";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Cihazı Havoc’a Bağla";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Liste görünümü etkin";
+
+/* Translated with LLM */
+"Live Captions" = "Canlı Altyazılar";
 
 /* Translated with LLM */
 "Loading…" = "Yükleniyor…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Hoverball’u bir süre bıraktığınızda yarı saydam veya katlanmış hale getirin.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Ekran görüntüsü veya ekran kaydı alırken canlı altyazı penceresini görünmez yapın.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Kaydı başlatmak için telefon görüşmesi yapılıyor.";
@@ -2251,7 +2299,7 @@
 /* Translated with LLM */
 "Purchase Tips" = "Satın Alma İpuçları";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "Pure TrollStore" = "Güncel TrollStore";
 
 /* Translated with LLM */
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Simülatör (Sandbox)";
 
 /* Translated with LLM */
+"Single Line" = "Tek Satır";
+
+/* Translated with LLM */
 "Skip Silence" = "Sessizliği Atla";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "%@ ile %@ arasında belirtilen aralık geçersiz.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Konuşma Tanıma İzni Reddedildi";
 
 /* Translated with LLM */
 "spoken audio" = "konuşulan ses";
@@ -2877,6 +2931,9 @@
 
 /* Translated with LLM */
 "status" = "Durum";
+
+/* Translated with LLM */
+"Stay Duration" = "Kalma Süresi";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Bizi izlemeye devam edin. Aramanızı arka planda kaydediyoruz.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Senkronizasyon Başarısız Oldu";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Senkronizasyon Kilitli";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Kaydın oynatma durumunu Kontrol Merkezi ile senkronize edin.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Saniyedeki örnek sayısı, daha yüksek örnekleme oranı daha büyük dosya boyutuyla daha iyi ses kalitesi demektir.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "Bu sayfadaki seçenekler, geçerli dil için “Dikte” ve cihaz üzerinde konuşma tanıma özelliğini gerektirir. “Ayarlar” → “Genel” → “Klavye” → “Dikteyi Etkinleştir” bölümünden “Dikte”yi etkinleştirin.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "Bu sayfadaki seçenekler “Konuşma Tanıma” izni gerektirir. “Ayarlar” → “Gizlilik ve Güvenlik” → “Konuşma Tanıma” bölümünde “TrollRecorder”ı etkinleştirin. Ses, işlenmek üzere Apple’a gönderilebilir.";
+
+/* Translated with LLM */
 "the other device" = "diğer cihaz";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Bu işlem yeni bir parola oluşturacak ve WebDAV sunucusunu yeniden başlatacaktır.";
+
+/* Translated with LLM */
+"Three Lines" = "Üç Satır";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Üç Haneli Milisaniye";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Bu sayfadaki diğer seçeneklerin geçerli uygulama için etkili olmasını istiyorsanız bu seçeneği kapatın.";
+
+/* Translated with LLM */
+"Two Lines" = "İki Satır";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "İki Haneli Gün Numarası";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "VIP kişiler her zaman kaydedilecek ve favorilere eklenecektir.";
+
+/* Translated with LLM */
+"Voice Memo" = "Sesli Not";
 
 /* Translated with LLM */
 "voice memo recording" = "Sesli not kaydı";

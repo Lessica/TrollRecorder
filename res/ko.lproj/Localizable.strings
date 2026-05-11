@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15초";
+
+/* Translated with LLM */
 "3 Seconds" = "3초";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "통화 녹음은 발신 통화가 응답되거나 수신 통화가 수신될 때만 시작됩니다.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "통화 녹음: 내 쪽";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "통화 녹음: 상대방";
+
+/* Translated with LLM */
 "Call State" = "통화 상태";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "하위 페이지";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "한 번에 표시할 캡션 줄 수를 선택하십시오.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "믹서의 출력 오디오 포맷을 선택합니다. 파형 오디오 포맷은 고급 인코딩을 지원하지 않습니다.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "호버볼의 기본 크기를 선택합니다.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "라이브 캡션 창에서 사용할 텍스트 크기를 선택하십시오.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "짧은 유휴 시간 후에 캡션이 사라질지, 교체되거나 지워질 때까지 유지될지 선택합니다.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "자동으로 캐시 지우기";
@@ -839,6 +857,9 @@
 "Developer Options" = "개발자 옵션";
 
 /* Translated with LLM */
+"Dictation Disabled" = "받아쓰기 비활성화됨";
+
+/* Translated with LLM */
 "Digital Video" = "디지털 동영상";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Optic ID 활성화";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "녹화 중 실시간 캡션을 활성화합니다. 옵션을 켜면 다음 녹화부터 적용됩니다. 옵션을 끄면 캡션 창이 즉시 숨겨지지만, 백그라운드 전사는 현재 녹화가 끝날 때까지 계속됩니다.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Touch ID 활성화";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "시스템 따르기";
 
 /* Translated with LLM */
+"Font Size" = "글꼴 크기";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "앱이 특정 언어를 사용하도록 강제합니다. 변경사항을 적용하려면 앱을 다시 여십시오.";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "전체 연도";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "시스템 오디오를 녹음하는 동안 라이브 캡션을 생성하고 표시합니다.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "음성 메모를 녹음하는 동안 라이브 캡션을 생성하고 표시합니다.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "통화 녹음의 상대방에 대한 실시간 자막을 생성합니다.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "통화 녹음에서 내 쪽에 대한 실시간 자막을 생성합니다.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "${requestedField} 가져오기";
@@ -1393,7 +1432,7 @@
 /* Translated with LLM */
 "icloud backup" = "iCloud 백업";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iCloud Drive" = "iCloud Drive";
 
 /* Translated with LLM */
@@ -1492,7 +1531,7 @@
 /* Translated with LLM */
 "iPad" = "아이패드";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPhone" = "iPhone";
 
 /* Translated with LLM */
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "1회 구매, 평생 보증";
 
 /* Translated with LLM */
+"Line Count" = "줄 수";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Havoc에 기기 연결";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "목록 보기 활성화됨";
+
+/* Translated with LLM */
+"Live Captions" = "실시간 캡션";
 
 /* Translated with LLM */
 "Loading…" = "로딩 중…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "호버볼이 일정 시간 동안 유휴 상태일 때 반투명하게 만들거나 화면의 가장자리까지 축소되게 만듭니다.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "스크린샷을 찍거나 화면을 녹화할 때 실시간 캡션 창을 보이지 않게 만듭니다.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "녹음을 시작하려면 전화를 걸어보세요.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "시뮬레이터 (샌드박스)";
 
 /* Translated with LLM */
+"Single Line" = "한 줄";
+
+/* Translated with LLM */
 "Skip Silence" = "무음 건너뛰기";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "지정된 %1$@ ~ %2$@ 범위가 잘못되었습니다.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "음성 인식 권한 거부됨";
 
 /* Translated with LLM */
 "spoken audio" = "음성 오디오";
@@ -2877,6 +2931,9 @@
 
 /* Translated with LLM */
 "status" = "상태";
+
+/* Translated with LLM */
+"Stay Duration" = "유지 시간";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "잠시만 기다려 주세요. 백그라운드에서 통화를 녹음하고 있습니다.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "동기화 실패";
+
+/* Translated with LLM */
+"Synchronization Locked" = "동기화 잠김";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "녹음의 재생 상태를 제어 센터와 동기화합니다.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "초당 샘플 수, 샘플 속도가 높을수록 파일 크기는 커지지만 오디오 음질은 향상됩니다.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "이 페이지의 옵션을 사용하려면 현재 언어에 대해 “받아쓰기” 및 기기 내 음성 인식이 필요합니다. “설정” → “일반” → “키보드” → “받아쓰기 활성화”에서 “받아쓰기”를 활성화하십시오.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "이 페이지의 옵션을 사용하려면 “음성 인식” 권한이 필요합니다. “설정” → “개인정보 및 보안” → “음성 인식”에서 “TrollRecorder”를 활성화하세요. 오디오가 처리 목적으로 Apple로 전송될 수 있습니다.";
+
+/* Translated with LLM */
 "the other device" = "다른 기기";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "이 작업은 새 비밀번호를 생성하고 WebDAV 서버를 다시 시작합니다.";
+
+/* Translated with LLM */
+"Three Lines" = "세 줄";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "세 자리 밀리초";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "이 옵션을 끄면 현재 응용 프로그램에 이 페이지의 다른 옵션이 적용됩니다.";
+
+/* Translated with LLM */
+"Two Lines" = "두 줄";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "두 자리 월의 일";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "VIP 연락처는 항상 녹음되고 즐겨찾기에 추가됩니다.";
+
+/* Translated with LLM */
+"Voice Memo" = "음성 메모";
 
 /* Translated with LLM */
 "voice memo recording" = "음성 메모 녹음";

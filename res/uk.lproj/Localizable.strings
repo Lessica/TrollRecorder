@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 секунд";
+
+/* Translated with LLM */
 "3 Seconds" = "3 секунди";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Запис починається лише після відповіді на дзвінок.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Запис дзвінків: мій бік";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Запис дзвінків: інша сторона";
+
+/* Translated with LLM */
 "Call State" = "Стан дзвінка";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Дочірні сторінки";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Виберіть, скільки рядків субтитрів може відображатися одночасно.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Виберіть формат аудіо для мікшера. Wave не підтримує розширене кодування.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Виберіть розмір плаваючої кнопки.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Виберіть розмір тексту, який використовується у вікні живих субтитрів.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Виберіть, чи зникатимуть субтитри після короткого періоду бездіяльності, чи залишатимуться до заміни або очищення.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Автоматично очищати кеш";
@@ -839,6 +857,9 @@
 "Developer Options" = "Налаштування розробника";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Диктування вимкнено";
+
+/* Translated with LLM */
 "Digital Video" = "Цифрове відео";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Увімкнути Optic ID";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Увімкнути субтитри в реальному часі під час запису. Увімкнення параметрів набуває чинності з наступного запису. Вимкнення параметрів негайно приховує вікно субтитрів, але фонова транскрипція триває до завершення поточного запису.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Увімкнути Touch ID";
 
 /* Translated with LLM */
@@ -1150,8 +1174,8 @@
 /* Translated with LLM */
 "FaceTime" = "FaceTime";
 
-/* No comment provided by engineer. */
-"FaceTime Audio" = "FaceTime Audio";
+/* Translated with LLM */
+"FaceTime Audio" = "Аудіо FaceTime";
 
 /* Translated with LLM */
 "FaceTime Exclusion List" = "Винятки FaceTime";
@@ -1238,6 +1262,9 @@
 "Follow System" = "Як у системі";
 
 /* Translated with LLM */
+"Font Size" = "Розмір шрифту";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Примусово встановити мову. Перезапустіть для застосування змін.";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Повний рік";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Створюйте та відображайте живі субтитри під час запису системного звуку.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Створюйте та відображайте живі субтитри під час запису голосових нотаток.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Створюйте субтитри в реальному часі для іншої сторони запису дзвінків.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Створюйте субтитри в реальному часі для власної сторони записів дзвінків.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Отримати ${requestedField}";
@@ -1489,10 +1528,10 @@
 /* Translated with LLM */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "Невірний підпис коду.\nПеревстановіть додаток через TrollStore.";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPad" = "iPad";
 
-/* No comment provided by engineer. */
+/* Translated with LLM */
 "iPhone" = "iPhone";
 
 /* Translated with LLM */
@@ -1555,8 +1594,8 @@
 /* Translated with LLM */
 "Launch App at End" = "Запустити програму після завершення";
 
-/* No comment provided by engineer. */
-"Launch Shield" = "Launch Shield";
+/* Translated with LLM */
+"Launch Shield" = "Захисний щит";
 
 /* Translated with LLM */
 "Leading & Trailing" = "Провідний та завершальний";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Пожиттєва гарантія";
 
 /* Translated with LLM */
+"Line Count" = "Кількість рядків";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Прив’язати пристрій до Havoc";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Перегляд списку ввімкнено";
+
+/* Translated with LLM */
+"Live Captions" = "Субтитри в реальному часі";
 
 /* Translated with LLM */
 "Loading…" = "Завантаження…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Робити hoverball напівпрозорим або згорнутим після бездіяльності.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Зробіть вікно живих субтитрів невидимим під час створення скріншотів або запису екрана.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Виконання дзвінка для початку запису.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Симулятор (Пісочниця)";
 
 /* Translated with LLM */
+"Single Line" = "Один рядок";
+
+/* Translated with LLM */
 "Skip Silence" = "Пропускати тишу";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Вказаний діапазон від %1$@ до %2$@ є недійсним.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Відмовлено в дозволі на розпізнавання мови";
 
 /* Translated with LLM */
 "spoken audio" = "розмовне аудіо";
@@ -2877,6 +2931,9 @@
 
 /* Translated with LLM */
 "status" = "статус";
+
+/* Translated with LLM */
+"Stay Duration" = "Тривалість перебування";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Триває запис дзвінка у фоновому режимі.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Помилка синхронізації";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Синхронізацію заблоковано";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Синхронізувати статус відтворення з Центром керування.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Частота дискретизації (чим вища — тим краща якість, але більший розмір файлу).";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "Параметри на цій сторінці вимагають функцію “Dictation” і розпізнавання мови на пристрої для поточної мови. Увімкніть “Dictation” у “Settings” → “General” → “Keyboard” → “Enable Dictation”.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "Опції на цій сторінці вимагають дозволу «Розпізнавання мови». Увімкніть «TrollRecorder» у «Налаштування» → «Конфіденційність і безпека» → «Розпізнавання мови». Аудіо може бути надіслано до Apple для обробки.";
+
+/* Translated with LLM */
 "the other device" = "інший пристрій";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Це згенерує новий пароль і перезапустить сервер WebDAV.";
+
+/* Translated with LLM */
+"Three Lines" = "Три рядки";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Тризначні мілісекунди";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Вимкніть цю опцію, щоб інші налаштування на цій сторінці застосовувалися до поточної програми.";
+
+/* Translated with LLM */
+"Two Lines" = "Два рядки";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Двозначний день місяця";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "VIP-контакти завжди записуватимуться та додаватимуться до обраного";
+
+/* Translated with LLM */
+"Voice Memo" = "Голосова нотатка";
 
 /* Translated with LLM */
 "voice memo recording" = "запис голосової нотатки";

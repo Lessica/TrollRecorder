@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 sekund";
+
+/* Translated with LLM */
 "3 Seconds" = "3 sekundy";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Nahrávání hovoru se spouští pouze po přijetí odchozího hovoru nebo zvednutí příchozího hovoru.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Nahrávání hovorů: Moje strana";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Nahrávání hovorů: Druhá strana";
+
+/* Translated with LLM */
 "Call State" = "Stav hovoru";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Podstránky";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Zvolte, kolik řádků titulků lze zobrazit najednou.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Zvolte výstupní formát zvuku pro směšovač. Formát Wave Audio nepodporuje pokročilé kódování.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Vyberte předvolbu velikosti vznášedla.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Zvolte velikost textu používaného v okně živých titulků.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Zvolte, zda titulky po krátké době nečinnosti zmizí, nebo zůstanou, dokud nejsou nahrazeny nebo vymazány.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Automaticky čistit mezipaměti";
@@ -839,6 +857,9 @@
 "Developer Options" = "Možnosti pro vývojáře";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Diktování zakázáno";
+
+/* Translated with LLM */
 "Digital Video" = "Digitální video";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Povolit Optic ID";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Povolit živé titulky při nahrávání. Zapnutí možností se projeví od příštího nahrávání. Vypnutím možností se okno s titulky okamžitě skryje, ale přepis na pozadí pokračuje až do ukončení aktuálního nahrávání.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Povolit Touch ID";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Sledovat systém";
 
 /* Translated with LLM */
+"Font Size" = "Velikost písma";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Vynutit aplikaci používání konkrétního jazyka. Znovu otevřete aplikaci pro uplatnění změn.";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Celý rok";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Generovat a zobrazovat živé titulky při nahrávání systémového zvuku.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Generovat a zobrazovat živé titulky při nahrávání hlasových poznámek.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Generovat živé titulky pro druhou stranu nahrávek hovorů.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Generovat živé titulky pro vlastní stranu nahrávek hovorů.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Získat ${requestedField}";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Doživotní záruka";
 
 /* Translated with LLM */
+"Line Count" = "Počet řádků";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Propojit zařízení s Havoc";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Zobrazení seznamu povoleno";
+
+/* Translated with LLM */
+"Live Captions" = "Živé titulky";
 
 /* Translated with LLM */
 "Loading…" = "Načítání…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Nechte hoverball po chvíli nečinnosti zprůhlednit nebo sbalit.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Zneviditelněte okno s živými titulky při pořizování snímků obrazovky nebo záznamů obrazovky.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Provedení telefonního hovoru pro zahájení nahrávání.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Simulátor (Sandbox)";
 
 /* Translated with LLM */
+"Single Line" = "Jeden řádek";
+
+/* Translated with LLM */
 "Skip Silence" = "Přeskočit ticho";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Zadaný rozsah od %1$@ do %2$@ je neplatný.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Oprávnění k rozpoznávání řeči zamítnuto";
 
 /* Translated with LLM */
 "spoken audio" = "mluvený zvuk";
@@ -2877,6 +2931,9 @@
 
 /* Translated with LLM */
 "status" = "stav";
+
+/* Translated with LLM */
+"Stay Duration" = "Délka pobytu";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Zůstaňte naladěni. Na pozadí nahráváme váš hovor.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Synchronizace se nezdařila";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Synchronizace uzamčena";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Synchronizujte stav přehrávání záznamu s Ovládacím centrem.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Počet vzorků za sekundu, vyšší vzorkovací frekvence znamená lepší kvalitu zvuku při větší velikosti souboru.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "Možnosti na této stránce vyžadují „Diktování“ a rozpoznávání řeči v zařízení pro aktuální jazyk. Povolte „Diktování“ v „Nastavení“ → „Obecné“ → „Klávesnice“ → „Povolit diktování“.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "Možnosti na této stránce vyžadují oprávnění „Rozpoznávání řeči“. Povolte „TrollRecorder“ v „Nastavení“ → „Soukromí a zabezpečení“ → „Rozpoznávání řeči“. Zvuk může být odeslán společnosti Apple ke zpracování.";
+
+/* Translated with LLM */
 "the other device" = "druhé zařízení";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Tím se vygeneruje nové heslo a restartuje server WebDAV.";
+
+/* Translated with LLM */
+"Three Lines" = "Tři řádky";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Třímístné milisekundy";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Vypnutím této možnosti zajistíte, že ostatní možnosti na této stránce budou platit pro aktuální aplikaci.";
+
+/* Translated with LLM */
+"Two Lines" = "Dva řádky";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Dvoumístné číslo dne v měsíci";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "VIP kontakty budou vždy nahrávány a přidány do oblíbených.";
+
+/* Translated with LLM */
+"Voice Memo" = "Hlasová poznámka";
 
 /* Translated with LLM */
 "voice memo recording" = "nahrávání hlasových poznámek";

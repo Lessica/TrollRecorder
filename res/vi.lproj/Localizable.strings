@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15 Giây";
+
+/* Translated with LLM */
 "3 Seconds" = "3 Giây";
 
 /* Translated with LLM */
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "Ghi âm cuộc gọi chỉ bắt đầu khi một cuộc gọi đi được trả lời hoặc một cuộc gọi đến được nhận.";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "Ghi âm cuộc gọi: Phía của tôi";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "Ghi âm cuộc gọi: Đầu dây bên kia";
+
+/* Translated with LLM */
 "Call State" = "Trạng thái cuộc gọi";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "Trang phụ";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "Chọn số dòng phụ đề có thể hiển thị cùng lúc.";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "Chọn định dạng âm thanh đầu ra cho bộ hoà âm. Định dạng Wave Audio không hỗ trợ mã hóa nâng cao.";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "Chọn kích thước đặt trước của quả bóng bay mọi nơi.";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "Chọn kích thước chữ được sử dụng bởi cửa sổ phụ đề trực tiếp.";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "Chọn xem phụ đề biến mất sau một khoảng thời gian ngắn không hoạt động hay giữ nguyên cho đến khi được thay thế hoặc xóa.";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "Tự động làm sạch bộ nhớ đệm";
@@ -839,6 +857,9 @@
 "Developer Options" = "Tuỳ chọn Nhà phát triển";
 
 /* Translated with LLM */
+"Dictation Disabled" = "Tính năng ghi âm bị tắt";
+
+/* Translated with LLM */
 "Digital Video" = "Video Số";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Bật Optic ID";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "Bật phụ đề thời gian thực khi đang ghi âm. Bật tùy chọn sẽ có hiệu lực từ lần ghi âm tiếp theo. Tắt tùy chọn sẽ ẩn cửa sổ phụ đề ngay lập tức, nhưng quá trình chuyển đổi giọng nói thành văn bản nền vẫn tiếp tục cho đến khi bản ghi âm hiện tại kết thúc.";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Bật Touch ID";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "Theo Hệ Thống";
 
 /* Translated with LLM */
+"Font Size" = "Cỡ chữ";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "Buộc ứng dụng sử dụng ngôn ngữ cụ thể. Mở lại để áp dụng thay đổi.";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "Năm đầy đủ";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "Tạo và hiển thị phụ đề trực tiếp trong khi ghi âm thanh hệ thống.";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "Tạo và hiển thị phụ đề trực tiếp trong khi ghi âm ghi chú giọng nói.";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "Tạo phụ đề trực tiếp cho đầu dây bên kia của bản ghi cuộc gọi.";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "Tạo phụ đề trực tiếp cho phía của bạn trong bản ghi cuộc gọi.";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "Lấy ${requestedField}";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "Bảo hành trọn đời";
 
 /* Translated with LLM */
+"Line Count" = "Số dòng";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "Liên kết thiết bị với Havoc";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "Đã bật chế độ xem danh sách";
+
+/* Translated with LLM */
+"Live Captions" = "Phụ đề trực tiếp";
 
 /* Translated with LLM */
 "Loading…" = "Đang tải…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "Làm cho bong bóng trong suốt hoặc gấp lại khi để nó trong một thời gian.";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "Làm cho cửa sổ phụ đề trực tiếp trở nên vô hình khi chụp ảnh màn hình hoặc quay video màn hình.";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "Gọi điện thoại để bắt đầu ghi âm.";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "Trình mô phỏng (Sandbox)";
 
 /* Translated with LLM */
+"Single Line" = "Một dòng";
+
+/* Translated with LLM */
 "Skip Silence" = "Bỏ qua im lặng";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "Khoảng đã chỉ định từ %1$@ đến %2$@ là không hợp lệ.";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "Quyền nhận dạng giọng nói bị từ chối";
 
 /* Translated with LLM */
 "spoken audio" = "âm thanh lời nói";
@@ -2877,6 +2931,9 @@
 
 /* Translated with LLM */
 "status" = "trạng thái";
+
+/* Translated with LLM */
+"Stay Duration" = "Thời gian lưu trú";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "Hãy giữ nguyên. Chúng tôi đang ghi âm cuộc gọi của bạn ở chế độ nền.";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "Đồng bộ hóa không thành công";
+
+/* Translated with LLM */
+"Synchronization Locked" = "Đã khóa đồng bộ hóa";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "Đồng bộ hóa trạng thái phát lại của bản ghi với Trung tâm điều khiển.";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "Số lượng mẫu mỗi giây, tốc độ mẫu cao hơn có nghĩa là chất lượng âm thanh tốt hơn với kích thước tệp lớn hơn.";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "Các tùy chọn trên trang này yêu cầu tính năng “Dictation” và nhận dạng giọng nói trên thiết bị cho ngôn ngữ hiện tại. Hãy bật “Dictation” trong “Cài đặt” → “Cài đặt chung” → “Bàn phím” → “Bật Dictation”.";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "Các tùy chọn trên trang này yêu cầu quyền “Nhận dạng giọng nói”. Hãy bật “TrollRecorder” trong “Cài đặt” → “Quyền riêng tư & Bảo mật” → “Nhận dạng giọng nói”. Âm thanh có thể được gửi đến Apple để xử lý.";
+
+/* Translated with LLM */
 "the other device" = "thiết bị kia";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "Thao tác này sẽ tạo mật khẩu mới và khởi động lại máy chủ WebDAV.";
+
+/* Translated with LLM */
+"Three Lines" = "Ba dòng";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "Ba chữ số mili giây.";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "Tắt tùy chọn này để làm cho các tùy chọn khác trên trang này có hiệu lực đối với ứng dụng hiện tại.";
+
+/* Translated with LLM */
+"Two Lines" = "Hai dòng";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "Số Ngày trong Tháng (hai chữ số)";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "Các liên hệ VIP sẽ luôn được ghi lại và thêm vào các mục yêu thích.";
+
+/* Translated with LLM */
+"Voice Memo" = "Ghi âm giọng nói";
 
 /* Translated with LLM */
 "voice memo recording" = "ghi âm giọng nói";

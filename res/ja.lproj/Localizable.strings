@@ -50,6 +50,9 @@
 "--arg=value" = "--arg=value";
 
 /* Translated with LLM */
+"15 Seconds" = "15秒";
+
+/* Translated with LLM */
 "3 Seconds" = "3秒";
 
 /* Translated with LLM */
@@ -136,8 +139,8 @@
 /* Translated with LLM */
 "Adequate" = "最低限";
 
-/* No comment provided by engineer. */
-"Advanced Audio Coding" = "Advanced Audio Coding";
+/* Translated with LLM */
+"Advanced Audio Coding" = "Advanced Audio Coding（AAC）";
 
 /* Translated with LLM */
 "Advanced Options" = "高度なオプション";
@@ -512,6 +515,12 @@
 "Call recording starts only when an outgoing call is answered or an incoming call is picked up." = "通話録音は、発信通話が応答されたとき、または着信通話が応答されたときにのみ開始されます。";
 
 /* Translated with LLM */
+"Call Recording: My Side" = "通話録音：自分の音声";
+
+/* Translated with LLM */
+"Call Recording: Other Side" = "通話録音：相手側";
+
+/* Translated with LLM */
 "Call State" = "通話状態";
 
 /* Translated with LLM */
@@ -554,6 +563,9 @@
 "Child Pages" = "子ページ";
 
 /* Translated with LLM */
+"Choose how many caption lines can be displayed at once." = "一度に表示できるキャプション行数を選択してください。";
+
+/* Translated with LLM */
 "Choose the output audio format for the mixer. Wave Audio format does not support advanced encoding." = "ミキサーの出力オーディオフォーマットを選択してください。Wave Audioフォーマットは高度なエンコーディングをサポートしていません。";
 
 /* Translated with LLM */
@@ -564,6 +576,12 @@
 
 /* Translated with LLM */
 "Choose the size preset of the hoverball." = "ホバーボールのサイズプリセットを選択してください。";
+
+/* Translated with LLM */
+"Choose the text size used by the live caption window." = "ライブキャプションウィンドウで使用するテキストサイズを選択してください。";
+
+/* Translated with LLM */
+"Choose whether captions disappear after a short idle period or stay until they are replaced or cleared." = "キャプションが短時間のアイドル後に消えるか、置き換えられるかクリアされるまで表示されたままにするかを選択します。";
 
 /* Translated with LLM */
 "Clean Caches Automatically" = "キャッシュを自動的にクリーンアップ";
@@ -839,6 +857,9 @@
 "Developer Options" = "開発者オプション";
 
 /* Translated with LLM */
+"Dictation Disabled" = "ディクテーション無効";
+
+/* Translated with LLM */
 "Digital Video" = "デジタルビデオ";
 
 /* Translated with LLM */
@@ -1043,6 +1064,9 @@
 "Enable Optic ID" = "Optic IDを有効にする";
 
 /* Translated with LLM */
+"Enable real-time captions while recording. Turning options on takes effect from the next recording. Turning options off hides the caption window immediately, but background transcription continues until the current recording ends." = "録音中にリアルタイムキャプションを有効にします。オプションをオンにすると、次の録音から有効になります。オプションをオフにすると、キャプションウィンドウはすぐに非表示になりますが、バックグラウンドでの文字起こしは現在の録音が終了するまで継続されます。";
+
+/* Translated with LLM */
 "Enable Touch ID" = "Touch IDを有効にする";
 
 /* Translated with LLM */
@@ -1238,6 +1262,9 @@
 "Follow System" = "システムに従う";
 
 /* Translated with LLM */
+"Font Size" = "フォントサイズ";
+
+/* Translated with LLM */
 "Force the app to use a specific language. Reopen to apply changes." = "アプリに特定の言語を強制的に使用させます。変更を適用するには、アプリを再起動してください。";
 
 /* Translated with LLM */
@@ -1281,6 +1308,18 @@
 
 /* Translated with LLM */
 "Full Year" = "通年";
+
+/* Translated with LLM */
+"Generate and display live captions while recording system audio." = "システムオーディオを録音中にライブキャプションを生成して表示します。";
+
+/* Translated with LLM */
+"Generate and display live captions while recording voice memos." = "ボイスメモの録音中にライブキャプションを生成して表示します。";
+
+/* Translated with LLM */
+"Generate live captions for the other side of call recordings." = "通話録音の相手側にリアルタイム字幕を生成します。";
+
+/* Translated with LLM */
+"Generate live captions for your own side of call recordings." = "通話録音の自分の音声にリアルタイム字幕を生成します。";
 
 /* Translated with LLM */
 "Get ${requestedField}" = "${requestedField} を取得";
@@ -1574,6 +1613,9 @@
 "Lifetime Guarantee" = "生涯保証";
 
 /* Translated with LLM */
+"Line Count" = "行数";
+
+/* Translated with LLM */
 "Link Device to Havoc" = "デバイスをHavocにリンク";
 
 /* Translated with LLM */
@@ -1584,6 +1626,9 @@
 
 /* Translated with LLM */
 "List view enabled" = "リスト表示が有効";
+
+/* Translated with LLM */
+"Live Captions" = "ライブキャプション";
 
 /* Translated with LLM */
 "Loading…" = "読み込み中…";
@@ -1677,6 +1722,9 @@
 
 /* Translated with LLM */
 "Make the hoverball semi-transparent or folded when leave it for a while." = "しばらく操作がない場合、ホバーボールを半透明にするか折りたたみます。";
+
+/* Translated with LLM */
+"Make the live caption window invisible when taking screenshots or screen recordings." = "スクリーンショットや画面収録時にライブキャプションウィンドウを非表示にする。";
 
 /* Translated with LLM */
 "Making a phone call to begin recording." = "録音を開始するために電話をかけてください。";
@@ -2792,6 +2840,9 @@
 "Simulator (Sandbox)" = "シミュレーター（サンドボックス）";
 
 /* Translated with LLM */
+"Single Line" = "1行";
+
+/* Translated with LLM */
 "Skip Silence" = "無音をスキップ";
 
 /* Translated with LLM */
@@ -2832,6 +2883,9 @@
 
 /* Translated with LLM */
 "Specified range from %@ to %@ is invalid." = "指定された範囲 %1$@ から %2$@ は無効です。";
+
+/* Translated with LLM */
+"Speech Recognition Permission Denied" = "音声認識の許可が拒否されました";
 
 /* Translated with LLM */
 "spoken audio" = "音声";
@@ -2877,6 +2931,9 @@
 
 /* Translated with LLM */
 "status" = "ステータス";
+
+/* Translated with LLM */
+"Stay Duration" = "滞在期間";
 
 /* Translated with LLM */
 "Stay tuned. We’re recording your call in the background." = "しばらくお待ちください。バックグラウンドで通話を録音しています。";
@@ -2958,6 +3015,9 @@
 
 /* Translated with LLM */
 "Synchronization Failed" = "同期に失敗しました";
+
+/* Translated with LLM */
+"Synchronization Locked" = "同期ロック中";
 
 /* Translated with LLM */
 "Synchronize the playback status of the recording with Control Center." = "録音の再生状態をコントロールセンターと同期します。";
@@ -3116,6 +3176,12 @@
 "The number of samples per second, higher sample rate means better audio quality with larger file size." = "1秒あたりのサンプル数。サンプルレートが高いほど、ファイルサイズが大きくなりますが、音質が向上します。";
 
 /* Translated with LLM */
+"The options on this page require “Dictation” and on-device speech recognition for the current language. Enable “Dictation” in “Settings” → “General” → “Keyboard” → “Enable Dictation”." = "このページのオプションを使用するには、現在の言語の「ディクテーション」とデバイス上の音声認識が必要です。「設定」→「一般」→「キーボード」→「ディクテーションを有効にする」で「ディクテーション」を有効にしてください。";
+
+/* Translated with LLM */
+"The options on this page require “Speech Recognition” permission. Enable “TrollRecorder” in “Settings” → “Privacy & Security” → “Speech Recognition”. Audio may be sent to Apple for processing." = "このページのオプションを使用するには「音声認識」の許可が必要です。「設定」→「プライバシーとセキュリティ」→「音声認識」で「TrollRecorder」を有効にしてください。音声は処理のためAppleに送信される場合があります。";
+
+/* Translated with LLM */
 "the other device" = "もう一方のデバイス";
 
 /* Translated with LLM */
@@ -3210,6 +3276,9 @@
 
 /* Translated with LLM */
 "This will generate a new password and restart the WebDAV server." = "これにより、新しいパスワードが生成され、WebDAVサーバーが再起動します。";
+
+/* Translated with LLM */
+"Three Lines" = "3行";
 
 /* Translated with LLM */
 "Three-digit Milliseconds" = "3桁ミリ秒";
@@ -3348,6 +3417,9 @@
 
 /* Translated with LLM */
 "Turn this option off to make the other options on this page take effect for the current application." = "このオプションをオフにすると、このページの他のオプションが現在のアプリケーションに適用されるようになります。";
+
+/* Translated with LLM */
+"Two Lines" = "2行";
 
 /* Translated with LLM */
 "Two-digit Day of Month Number" = "月の2桁の日付";
@@ -3624,6 +3696,9 @@
 
 /* Translated with LLM */
 "VIP contacts will always be recorded and added to the favourites." = "VIP連絡先は常に録音され、お気に入りに追加されます。";
+
+/* Translated with LLM */
+"Voice Memo" = "ボイスメモ";
 
 /* Translated with LLM */
 "voice memo recording" = "ボイスメモ録音";
