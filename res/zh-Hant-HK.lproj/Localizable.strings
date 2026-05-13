@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "允許喚醒懸浮球";
 
 /* Translated with LLM */
+"Allow Live Captions" = "允許即時字幕";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "允許讀取 WeChat 連絡人清單和 VoIP 通話記錄，以自動填入錄音的連絡人姓名。僅支援較新版本的 WeChat。";
 
 /* Translated with LLM */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "不允許喚醒懸浮球";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "不允許即時字幕";
+
+/* Translated with LLM */
 "Discard" = "捨棄";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "錄製語音備忘錄時，產生並顯示即時字幕。";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "為目前應用程式中的通話錄音產生即時字幕。";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "為通話錄音的對方音訊生成即時字幕。";

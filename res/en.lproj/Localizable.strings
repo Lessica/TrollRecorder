@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "Allow Hoverball Wake-Ups";
 
 /* No comment provided by engineer. */
+"Allow Live Captions" = "Allow Live Captions";
+
+/* No comment provided by engineer. */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported.";
 
 /* No comment provided by engineer. */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
 
 /* No comment provided by engineer. */
+"Disallow Live Captions" = "Disallow Live Captions";
+
+/* No comment provided by engineer. */
 "Discard" = "Discard";
 
 /* No comment provided by engineer. */
@@ -1314,6 +1320,9 @@
 
 /* No comment provided by engineer. */
 "Generate and display live captions while recording voice memos." = "Generate and display live captions while recording voice memos.";
+
+/* No comment provided by engineer. */
+"Generate live captions for call recordings in the current application." = "Generate live captions for call recordings in the current application.";
 
 /* No comment provided by engineer. */
 "Generate live captions for the other side of call recordings." = "Generate live captions for the other side of call recordings.";

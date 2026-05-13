@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "Разрешить пробуждение плавающей кнопки";
 
 /* Translated with LLM */
+"Allow Live Captions" = "Разрешить живые субтитры";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Разрешить чтение списка контактов WeChat и истории VoIP-звонков для подстановки имён в записях. Поддерживаются только свежие версии WeChat.";
 
 /* Translated with LLM */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "Запретить пробуждение плавающей кнопки";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "Запретить живые субтитры";
+
+/* Translated with LLM */
 "Discard" = "Отменить";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "Генерируйте и отображайте субтитры в реальном времени во время записи голосовых заметок.";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "Генерировать живые субтитры для записей звонков в текущем приложении.";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "Генерировать живые субтитры для другой стороны записи разговора.";

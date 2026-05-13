@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "لەيلىمە توپ ئويغىتىشقا رۇخسەت";
 
 /* Translated with LLM */
+"Allow Live Captions" = "نەق مەيدان تارماقچىلارغا رۇخسەت";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "ۋېيچات ئالاقەداشلار تىزىملىكى ۋە VoIP چاقىرىش خاتىرىسىنى ئوقۇشقا رۇخسەت بېرىپ، ئۈنئالغۇدىكى ئالاقەداشلارنىڭ ئىسمىنى تولدۇرۇش. پەقەت يېڭى نەشرىدىكى رەسمىي ۋېيچاتلارلا قوللىنىدۇ.";
 
 /* Translated with LLM */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "لەيلىمە توپنى ئويغىتىشقا يول قويماسلىق";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "نەق مەيدان تارماقچىلارغا يول قويماسلىق";
+
+/* Translated with LLM */
 "Discard" = "تاشلىۋېتىش";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "ئۈن خاتىرىسىنى ئۈنگە ئېلىۋاتقاندا رېئال ۋاقىتتىكى تارما يېزىقنى ھاسىل قىلىپ كۆرسەت.";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "نۆۋەتتىكى پروگراممىدىكى تېلېفون خاتىرىلىرى ئۈچۈن نەق مەيدان تارماقچىلارنى ھاسىل قىلىڭ.";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "تېلېفون خاتىرىسىدىكى باشقا تەرەپ ئۈچۈن ھەقىقىي ۋاقىتلىق تارما تېكىست ھاسىل قىلىڭ.";
@@ -2008,8 +2017,8 @@
 /* Translated with LLM */
 "Options" = "تاللانما";
 
-/* TODO */
-"Orbit" = "Orbit";
+/* Translated with LLM */
+"Orbit" = "ئوربىت";
 
 /* Translated with LLM */
 "Orbit view enabled" = "ئوربىتا كۆرۈنۈشى قوزغىتىلدى";

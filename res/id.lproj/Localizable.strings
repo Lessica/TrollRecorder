@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "Izinkan Bangunkan Hoverball";
 
 /* Translated with LLM */
+"Allow Live Captions" = "Izinkan Teks Langsung";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Izinkan membaca daftar kontak WeChat dan riwayat panggilan VoIP untuk mengisi nama kontak rekaman. Hanya versi WeChat terbaru yang didukung.";
 
 /* Translated with LLM */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "Larang Bangunkan Hoverball";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "Larang Teks Langsung";
+
+/* Translated with LLM */
 "Discard" = "Buang";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "Hasilkan dan tampilkan teks langsung saat merekam memo suara.";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "Hasilkan teks langsung untuk rekaman panggilan di aplikasi saat ini.";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "Hasilkan teks langsung untuk sisi lain dari rekaman panggilan.";

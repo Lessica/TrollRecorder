@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "Consenti risveglio Hoverball";
 
 /* Translated with LLM */
+"Allow Live Captions" = "Consenti didascalie in tempo reale";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Consente di leggere l’elenco dei contatti WeChat e la cronologia delle chiamate VoIP per popolare i nomi dei contatti delle registrazioni. Sono supportate solo le versioni recenti di WeChat.";
 
 /* Translated with LLM */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "Disabilita risveglio Hoverball";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "Disabilita didascalie in tempo reale";
+
+/* Translated with LLM */
 "Discard" = "Scarta";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "Genera e mostra didascalie in tempo reale durante la registrazione di memo vocali.";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "Genera didascalie in tempo reale per le registrazioni delle chiamate nell’applicazione corrente.";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "Genera didascalie in tempo reale per l’altra parte delle registrazioni delle chiamate.";

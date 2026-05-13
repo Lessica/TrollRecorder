@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "Zezwalaj na wybudzanie hoverballa";
 
 /* Translated with LLM */
+"Allow Live Captions" = "Zezwalaj na napisy na żywo";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Zezwalaj na odczyt listy kontaktów WeChat i historii połączeń VoIP, aby wypełnić nazwy kontaktów w nagraniach. Obsługiwane są tylko najnowsze wersje WeChat.";
 
 /* Translated with LLM */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "Wyłącz wybudzanie hoverballa";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "Wyłącz napisy na żywo";
+
+/* Translated with LLM */
 "Discard" = "Odrzuć";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "Generuj i wyświetlaj napisy na żywo podczas nagrywania notatek głosowych.";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "Generuj napisy na żywo dla nagrań rozmów w bieżącej aplikacji.";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "Generuj napisy na żywo dla drugiej strony nagrań rozmów.";

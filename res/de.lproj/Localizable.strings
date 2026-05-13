@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "Hoverball Wake-Ups zulassen";
 
 /* Translated with LLM */
+"Allow Live Captions" = "Live-Untertitel zulassen";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Ermöglicht das Lesen der WeChat-Kontaktliste und der VoIP-Anrufliste, um die Kontaktnamen der Aufnahmen zu füllen. Es werden nur aktuelle WeChat-Versionen unterstützt.";
 
 /* Translated with LLM */
@@ -403,8 +406,8 @@
 /* Translated with LLM */
 "Batch Export" = "Batch-Export";
 
-/* No comment provided by engineer. */
-"BatchExport_%@.zip" = "BatchExport_%@.zip";
+/* Translated with LLM */
+"BatchExport_%@.zip" = "StapelExport_%@.zip";
 
 /* Translated with LLM */
 "Before %@" = "Vor %@";
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "Hoverball Wake-Ups deaktivieren";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "Live-Untertitel deaktivieren";
+
+/* Translated with LLM */
 "Discard" = "Verwerfen";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "Live-Untertitel während der Aufnahme von Sprachnotizen erzeugen und anzeigen.";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "Generieren Sie Live-Untertitel für Anrufaufzeichnungen in der aktuellen App.";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "Generieren Sie Live-Untertitel für die andere Seite von Gesprächsaufzeichnungen.";
@@ -2593,11 +2602,11 @@
 /* Translated with LLM */
 "Root directory is empty." = "Das Wurzelverzeichnis ist leer.";
 
-/* No comment provided by engineer. */
-"RootHide Jailbreak" = "RootHide Jailbreak";
+/* Translated with LLM */
+"RootHide Jailbreak" = "RootHide-Jailbreak";
 
-/* No comment provided by engineer. */
-"Rootless Jailbreak" = "Rootless Jailbreak";
+/* Translated with LLM */
+"Rootless Jailbreak" = "Rootless-Jailbreak";
 
 /* Translated with LLM */
 "Runtime Environment: %@" = "Laufzeitumgebung: %@";
@@ -2890,8 +2899,8 @@
 /* Translated with LLM */
 "spoken audio" = "gesprochenes Audio";
 
-/* No comment provided by engineer. */
-"start" = "start";
+/* Translated with LLM */
+"start" = "Starten";
 
 /* Translated with LLM */
 "Start a system screen recording just like what you do in the Control Center." = "Starten Sie eine System-Bildschirmaufnahme, genau wie Sie es im Kontrollzentrum tun.";
@@ -3031,8 +3040,8 @@
 /* Translated with LLM */
 "System Applications" = "System-Apps";
 
-/* No comment provided by engineer. */
-"System Audio" = "System Audio";
+/* Translated with LLM */
+"System Audio" = "Systemaudio";
 
 /* Translated with LLM */
 "System Audio Recording" = "System-Audioaufzeichnung";

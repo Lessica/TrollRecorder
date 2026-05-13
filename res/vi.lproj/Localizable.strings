@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "Cho phép bật bong bóng";
 
 /* Translated with LLM */
+"Allow Live Captions" = "Cho phép phụ đề trực tiếp";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "Cho phép đọc danh sách liên hệ WeChat và lịch sử cuộc gọi VoIP để điền tên liên hệ của các bản ghi. Chỉ hỗ trợ các phiên bản WeChat gần đây.";
 
 /* Translated with LLM */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "Không cho phép đánh thức bong bóng";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "Không cho phép phụ đề trực tiếp";
+
+/* Translated with LLM */
 "Discard" = "Bỏ qua";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "Tạo và hiển thị phụ đề trực tiếp trong khi ghi âm ghi chú giọng nói.";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "Tạo phụ đề trực tiếp cho các bản ghi âm cuộc gọi trong ứng dụng hiện tại.";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "Tạo phụ đề trực tiếp cho đầu dây bên kia của bản ghi cuộc gọi.";

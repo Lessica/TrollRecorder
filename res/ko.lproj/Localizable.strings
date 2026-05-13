@@ -182,6 +182,9 @@
 "Allow Hoverball Wake-Ups" = "호버볼 깨우기 허용";
 
 /* Translated with LLM */
+"Allow Live Captions" = "라이브 캡션 허용";
+
+/* Translated with LLM */
 "Allow to read WeChat contact list and VoIP call history to populate contact names of recordings. Only recent WeChat versions are supported." = "WeChat 연락처 목록 및 VoIP 통화 기록을 읽고 녹음의 연락처 이름을 자동으로 채울 수 있습니다. 최신 WeChat 버전만 지원됩니다.";
 
 /* Translated with LLM */
@@ -893,6 +896,9 @@
 "Disallow Hoverball Wake-Ups" = "호버볼 깨우기 금지";
 
 /* Translated with LLM */
+"Disallow Live Captions" = "라이브 캡션 금지";
+
+/* Translated with LLM */
 "Discard" = "폐기";
 
 /* Translated with LLM */
@@ -1314,6 +1320,9 @@
 
 /* Translated with LLM */
 "Generate and display live captions while recording voice memos." = "음성 메모를 녹음하는 동안 라이브 캡션을 생성하고 표시합니다.";
+
+/* Translated with LLM */
+"Generate live captions for call recordings in the current application." = "현재 앱에서 통화 녹음에 대한 라이브 캡션을 생성합니다.";
 
 /* Translated with LLM */
 "Generate live captions for the other side of call recordings." = "통화 녹음의 상대방에 대한 실시간 자막을 생성합니다.";
@@ -2002,8 +2011,8 @@
 /* Translated with LLM */
 "Operator Name" = "이동통신사 이름";
 
-/* No comment provided by engineer. */
-"Optic ID" = "Optic ID";
+/* Translated with LLM */
+"Optic ID" = "광학 ID";
 
 /* Translated with LLM */
 "Options" = "옵션";
