@@ -140,6 +140,9 @@
 "Adequate" = "كافٍ";
 
 /* Translated with LLM */
+"Adjust Style" = "ضبط النمط";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "ترميز الصوت المتقدم (AAC)";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "الوضع السري";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "الوضع السري معطل";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "الوضع السري مفعّل";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "مذكرات صوتية سرية";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "اسحب __هنا__ لضبط  \nحجم ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "اسحب __التعليق العائم__ لضبط الارتفاع\nانقر نقرًا مزدوجًا لتبديل __عدد الأسطر__، واسحب جانبيًا لتغيير __حجم النص__\nاضغط مع الاستمرار لـ __اختيار خلفية أو إزالتها__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "اسحب شريط التسمية التوضيحية لضبط الارتفاع";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "اسحب شريط التسمية التوضيحية لأعلى أو لأسفل\nحرر للحفظ تلقائيًا";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "اسحب معاينة التسمية التوضيحية المباشرة هذه\nتغيير المركز الرأسي على الشاشة\nحرر للحفظ تلقائيًا";
 
 /* Translated with LLM */
 "Drive ID" = "معرّف محرك الأقراص";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "اضغط على زري الصوت معًا";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "معاينة وضبط موضع التسمية التوضيحية المباشرة وحجم النص وعدد الأسطر والخلفية.";
 
 /* Translated with LLM */
 "Preview Disabled" = "المعاينة معطلة";

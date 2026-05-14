@@ -140,6 +140,9 @@
 "Adequate" = "Yeterli";
 
 /* Translated with LLM */
+"Adjust Style" = "Stili Ayarla";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Gelişmiş Ses Kodlama";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Gizli Mod";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Gizli Mod Devre Dışı";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Gizli Mod Etkin";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Gizli Ses Notları";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "___%@___ boyutunu ayarlamak için __buraya__ sürükleyin.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Yüksekliği ayarlamak için __hareketli altyazıyı__ sürükleyin\nSatır sayısını değiştirmek için çift dokunun, metin boyutunu değiştirmek için yana kaydırın\nBir arka plan seçmek veya kaldırmak için uzun basın";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Yüksekliği ayarlamak için başlık çubuğunu sürükleyin";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Altyazı çubuğunu yukarı veya aşağı sürükleyin\nOtomatik kaydetmek için bırakın";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Bu canlı altyazı önizlemesini sürükleyin\nEkrandaki dikey merkezi değiştirin\nOtomatik kaydetmek için bırakın";
 
 /* Translated with LLM */
 "Drive ID" = "Sürücü Kimliği";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Her İki Ses Düğmesine Basın";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Canlı altyazı konumunu, metin boyutunu, satır sayısını ve arka planı önizleyin ve ayarlayın.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Önizleme Devre Dışı Bırakıldı";

@@ -140,6 +140,9 @@
 "Adequate" = "가장 낮음";
 
 /* Translated with LLM */
+"Adjust Style" = "스타일 조정";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "고급 오디오 코딩 (AAC)";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "비밀 모드";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "신중 모드 비활성화";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "신중 모드 활성화";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "비밀 음성 메모";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "__여기를__ 드래그하여  \n___%@___ 크기를 조정하세요.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "__플로팅 캡션__을 드래그하여 높이 조절\n두 번 탭하여 __줄 수__ 전환, 옆으로 스와이프하여 __텍스트 크기__ 변경\n길게 눌러 __배경 선택 또는 제거__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "캡션 막대를 드래그하여 높이 조절";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "자막 막대를 위나 아래로 드래그하세요.\n놓으면 자동 저장됩니다.";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "라이브 캡션 미리보기를 드래그하여\n화면의 세로 중심을 변경하고\n놓으면 자동으로 저장됩니다";
 
 /* Translated with LLM */
 "Drive ID" = "드라이브 ID";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "두 볼륨 버튼 모두 누르기";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "실시간 자막 위치, 텍스트 크기, 줄 수 및 배경을 미리 보고 조정합니다.";
 
 /* Translated with LLM */
 "Preview Disabled" = "미리보기 비활성화됨";

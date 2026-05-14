@@ -140,6 +140,9 @@
 "Adequate" = "Adecuado";
 
 /* Translated with LLM */
+"Adjust Style" = "Ajustar estilo";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Codificación de Audio Avanzada";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Modo discreto";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Modo discreto desactivado";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Modo discreto activado";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Notas de voz discretas";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Arrastra __aquí__ para ajustar  \nel tamaño de ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Arrastra el __título flotante__ para ajustar la altura\nToca dos veces para cambiar el __número de líneas__, desliza hacia los lados para cambiar el __tamaño del texto__\nMantén presionado para __elegir o quitar un fondo__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Arrastre la barra de subtítulos para ajustar la altura";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Arrastre la barra de subtítulos hacia arriba o hacia abajo\nSuelte para guardar automáticamente";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Arrastre esta vista previa de subtítulos en vivo\nCambie el centro vertical en la pantalla\nSuelte para guardar automáticamente";
 
 /* Translated with LLM */
 "Drive ID" = "ID de Drive";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Pulsar ambos botones de volumen";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Previsualice y ajuste la posición de los subtítulos en vivo, el tamaño del texto, el número de líneas y el fondo.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Vista previa desactivada";

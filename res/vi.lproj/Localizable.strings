@@ -140,6 +140,9 @@
 "Adequate" = "Đầy đủ";
 
 /* Translated with LLM */
+"Adjust Style" = "Điều chỉnh Kiểu";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Mã hóa âm thanh nâng cao";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Chế độ kín đáo";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Chế độ ẩn đã tắt";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Chế độ ẩn đã bật";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Ghi chú giọng nói kín đáo";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Kéo __vào đây__ để điều chỉnh kích thước của ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Kéo __chú thích nổi__ để điều chỉnh độ cao\nNhấn đúp để chuyển đổi __số dòng__, vuốt sang ngang để thay đổi __kích thước chữ__\nNhấn giữ để __chọn hoặc xóa nền__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Kéo thanh chú thích để điều chỉnh độ cao";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Kéo thanh tiêu đề lên hoặc xuống\nThả ra để tự động lưu";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Kéo bản xem trước phụ đề trực tiếp này\nThay đổi vị trí trung tâm theo chiều dọc trên màn hình\nThả ra để lưu tự động";
 
 /* Translated with LLM */
 "Drive ID" = "ID Ổ Đĩa";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Nhấn Cả Hai Nút Âm Lượng";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Xem trước và điều chỉnh vị trí phụ đề trực tiếp, kích thước chữ, số dòng và nền.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Xem trước bị vô hiệu hóa";

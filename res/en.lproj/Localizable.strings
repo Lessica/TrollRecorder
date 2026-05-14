@@ -140,6 +140,9 @@
 "Adequate" = "Adequate";
 
 /* No comment provided by engineer. */
+"Adjust Style" = "Adjust Style";
+
+/* No comment provided by engineer. */
 "Advanced Audio Coding" = "Advanced Audio Coding";
 
 /* No comment provided by engineer. */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Discreet Mode";
 
 /* No comment provided by engineer. */
+"Discreet Mode Disabled" = "Discreet Mode Disabled";
+
+/* No comment provided by engineer. */
+"Discreet Mode Enabled" = "Discreet Mode Enabled";
+
+/* No comment provided by engineer. */
 "Discreet Voice Memos" = "Discreet Voice Memos";
 
 /* No comment provided by engineer. */
@@ -1002,6 +1011,18 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Drag __here__ to adjust  \nthe size of the ___%@___.";
+
+/* No comment provided by engineer. */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__";
+
+/* No comment provided by engineer. */
+"Drag the caption bar to adjust height" = "Drag the caption bar to adjust height";
+
+/* No comment provided by engineer. */
+"Drag the caption bar up or down\nRelease to save automatically" = "Drag the caption bar up or down\nRelease to save automatically";
+
+/* No comment provided by engineer. */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically";
 
 /* No comment provided by engineer. */
 "Drive ID" = "Drive ID";
@@ -2265,6 +2286,9 @@
 
 /* No comment provided by engineer. */
 "Press Both Volume Buttons" = "Press Both Volume Buttons";
+
+/* No comment provided by engineer. */
+"Preview and adjust the live caption position, text size, line count, and background." = "Preview and adjust the live caption position, text size, line count, and background.";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "Preview Disabled";

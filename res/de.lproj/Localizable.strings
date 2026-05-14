@@ -140,6 +140,9 @@
 "Adequate" = "Angemessen";
 
 /* Translated with LLM */
+"Adjust Style" = "Stil anpassen";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Erweiterte Audiocodierung";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Diskreter Modus";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Diskreter Modus deaktiviert";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Diskreter Modus aktiviert";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Diskrete Sprachnotizen";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Ziehen Sie __hier__, um die Größe des ___%@___ anzupassen.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Ziehen Sie die __schwebende Beschriftung__, um die Höhe anzupassen\nDoppeltippen, um die __Zeilenzahl__ zu wechseln, seitlich wischen, um die __Textgröße__ zu ändern\nLanges Drücken, um einen __Hintergrund auszuwählen oder zu entfernen__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Ziehen Sie die Titelleiste, um die Höhe anzupassen";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Ziehen Sie die Titelleiste nach oben oder unten\nLoslassen zum automatischen Speichern";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Ziehen Sie diese Live-Untertitelvorschau\nÄndern Sie die vertikale Mitte auf dem Bildschirm\nLoslassen zum automatischen Speichern";
 
 /* Translated with LLM */
 "Drive ID" = "Laufwerk-ID";
@@ -1612,8 +1633,8 @@
 /* Translated with LLM */
 "leading edge" = "linke Kante";
 
-/* No comment provided by engineer. */
-"Legacy Jailbreak" = "Legacy Jailbreak";
+/* Translated with LLM */
+"Legacy Jailbreak" = "Legacy-Jailbreak";
 
 /* Translated with LLM */
 "Less serious error occurred." = "Ein weniger schwerwiegender Fehler ist aufgetreten.";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Beide Lautstärketasten drücken";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Vorschau und Anpassung der Live-Untertitelposition, Textgröße, Zeilenanzahl und des Hintergrunds.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Vorschau deaktiviert";

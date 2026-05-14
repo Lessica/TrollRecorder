@@ -140,6 +140,9 @@
 "Adequate" = "Memadai";
 
 /* Translated with LLM */
+"Adjust Style" = "Sesuaikan Gaya";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Pengkodean Audio Tingkat Lanjut";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Mode Diskreet";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Mode Discreet Dinonaktifkan";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Mode Discreet Diaktifkan";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Memo Suara Rahasia";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Seret __di sini__ untuk menyesuaikan\nukuran ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Seret __teks mengambang__ untuk menyesuaikan tinggi\nKetuk dua kali untuk mengganti __jumlah baris__, usap ke samping untuk mengubah __ukuran teks__\nTekan lama untuk __memilih atau menghapus latar belakang__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Seret bilah takarir untuk menyesuaikan tinggi";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Seret bilah keterangan ke atas atau ke bawah\nLepaskan untuk menyimpan secara otomatis";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Seret pratinjau teks langsung ini\nUbah pusat vertikal pada layar\nLepaskan untuk menyimpan secara otomatis";
 
 /* Translated with LLM */
 "Drive ID" = "ID Drive";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Tekan Kedua Tombol Volume";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Pratinjau dan sesuaikan posisi teks langsung, ukuran teks, jumlah baris, dan latar belakang.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Pratinjau Dinonaktifkan";

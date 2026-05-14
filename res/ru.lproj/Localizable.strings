@@ -140,6 +140,9 @@
 "Adequate" = "Адекватное";
 
 /* Translated with LLM */
+"Adjust Style" = "Настроить стиль";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Advanced Audio Coding (AAC)";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Скрытый режим";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Дискретный режим отключен";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Дискретный режим включен";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Конфиденциальные голосовые заметки";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Перетащите __сюда__, чтобы  \nизменить размер ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Перетащите __плавающий заголовок__, чтобы изменить высоту\nДважды нажмите, чтобы переключить __количество строк__, проведите в сторону, чтобы изменить __размер текста__\nДолгое нажатие, чтобы __выбрать или удалить фон__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Перетащите строку заголовка, чтобы изменить высоту";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Перетащите строку заголовка вверх или вниз\nОтпустите для автоматического сохранения";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Перетащите этот предварительный просмотр живых субтитров\nИзмените вертикальный центр на экране\nОтпустите, чтобы сохранить автоматически";
 
 /* Translated with LLM */
 "Drive ID" = "ID диска";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Нажать обе кнопки громкости";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Предварительный просмотр и настройка положения субтитров в реальном времени, размера текста, количества строк и фона.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Предпросмотр отключен";

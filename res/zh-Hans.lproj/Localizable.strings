@@ -140,6 +140,9 @@
 "Adequate" = "最低";
 
 /* No comment provided by engineer. */
+"Adjust Style" = "调节样式";
+
+/* No comment provided by engineer. */
 "Advanced Audio Coding" = "高级音频编码 (AAC)";
 
 /* No comment provided by engineer. */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "隐秘模式";
 
 /* No comment provided by engineer. */
+"Discreet Mode Disabled" = "隐秘模式已禁用";
+
+/* No comment provided by engineer. */
+"Discreet Mode Enabled" = "隐秘模式已启用";
+
+/* No comment provided by engineer. */
 "Discreet Voice Memos" = "隐秘语音备忘录";
 
 /* No comment provided by engineer. */
@@ -1002,6 +1011,18 @@
 
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此处__ 以调节 ___%@___ 的尺寸。";
+
+/* No comment provided by engineer. */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "拖动 __悬浮字幕__ 调节高度\n双击切换 __行数__，左右划动切换 __字号__\n长按 __选择或移除背景__";
+
+/* No comment provided by engineer. */
+"Drag the caption bar to adjust height" = "拖动字幕条调节高度";
+
+/* No comment provided by engineer. */
+"Drag the caption bar up or down\nRelease to save automatically" = "拖动字幕条上下移动\n松手后自动保存";
+
+/* No comment provided by engineer. */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "拖动这个实时字幕预览\n改变屏幕上的竖直中心\n松手后自动保存";
 
 /* Translated with LLM */
 "Drive ID" = "驱动器 ID";
@@ -2265,6 +2286,9 @@
 
 /* No comment provided by engineer. */
 "Press Both Volume Buttons" = "按下两个音量键";
+
+/* No comment provided by engineer. */
+"Preview and adjust the live caption position, text size, line count, and background." = "预览并调节实时字幕的位置、字号、行数和背景。";
 
 /* No comment provided by engineer. */
 "Preview Disabled" = "预览已关闭";

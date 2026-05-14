@@ -140,6 +140,9 @@
 "Adequate" = "Adequado";
 
 /* Translated with LLM */
+"Adjust Style" = "Ajustar Estilo";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Codificação Avançada de Áudio";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Modo Discreto";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Modo Discreto Desativado";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Modo Discreto Ativado";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Memorandos de Voz Discretos";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Arraste __aqui__ para ajustar\no tamanho do ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Arraste a __legenda flutuante__ para ajustar a altura\nToque duas vezes para alternar a __contagem de linhas__, deslize para os lados para alterar o __tamanho do texto__\nPressione e segure para __escolher ou remover um plano de fundo__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Arraste a barra de legenda para ajustar a altura";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Arraste a barra de legenda para cima ou para baixo\nSolte para salvar automaticamente";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Arraste esta prévia da legenda ao vivo\nAltere o centro vertical na tela\nSolte para salvar automaticamente";
 
 /* Translated with LLM */
 "Drive ID" = "ID da unidade";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Pressione os dois botões de volume";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Visualize e ajuste a posição da legenda ao vivo, o tamanho do texto, a contagem de linhas e o plano de fundo.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Pré-visualização desativada";

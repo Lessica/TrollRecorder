@@ -140,6 +140,9 @@
 "Adequate" = "最低";
 
 /* Translated with LLM */
+"Adjust Style" = "調整樣式";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "高級音頻編碼 (AAC)";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "隱秘模式";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "隱密模式已停用";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "隱密模式已啟用";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "隱秘語音備忘錄";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "拖動 __浮動字幕__ 調整高度\n點兩下切換 __行數__，左右滑動更改 __字型大小__\n長按 __選擇或移除背景__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "拖曳字幕列以調整高度";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "向上或向下拖曳字幕條\n放開以自動儲存";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "拖曳此即時字幕預覽\n變更螢幕上的垂直中心\n放開後自動儲存";
 
 /* Translated with LLM */
 "Drive ID" = "磁碟機 ID";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "按下兩個音量鍵";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "預覽並調整即時字幕的位置、文字大小、行數和背景。";
 
 /* Translated with LLM */
 "Preview Disabled" = "預覽已關閉";

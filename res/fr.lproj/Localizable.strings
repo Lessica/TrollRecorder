@@ -140,6 +140,9 @@
 "Adequate" = "Adéquat";
 
 /* Translated with LLM */
+"Adjust Style" = "Ajuster le style";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Advanced Audio Coding (AAC)";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Mode discret";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Mode discret désactivé";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Mode discret activé";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Mémos vocaux discrets";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Faites glisser __ici__ pour ajuster  \nla taille de ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Faites glisser la __légende flottante__ pour ajuster la hauteur\nDouble-appui pour changer le __nombre de lignes__, balayez latéralement pour modifier la __taille du texte__\nAppui long pour __choisir ou supprimer un arrière-plan__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Faites glisser la barre de légende pour ajuster la hauteur";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Faites glisser la barre de sous-titres vers le haut ou vers le bas\nRelâchez pour enregistrer automatiquement";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Faites glisser cet aperçu de sous-titrage en direct\nModifiez le centre vertical à l’écran\nRelâchez pour enregistrer automatiquement";
 
 /* Translated with LLM */
 "Drive ID" = "ID du lecteur";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Appuyer sur les deux boutons de volume";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Prévisualisez et ajustez la position des sous-titres en direct, la taille du texte, le nombre de lignes et l’arrière-plan.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Prévisualisation désactivée";

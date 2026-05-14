@@ -140,6 +140,9 @@
 "Adequate" = "最低限";
 
 /* Translated with LLM */
+"Adjust Style" = "スタイル調整";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Advanced Audio Coding（AAC）";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "控えめモード";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "慎重モード無効";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "慎重モード有効";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "控えめなボイスメモ";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "ここをドラッグして\n___%@___ のサイズを調整します。";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "__フローティングキャプション__をドラッグして高さを調整\nダブルタップで__行数を切り替え__、横にスワイプで__文字サイズを変更__\n長押しで__背景を選択または削除__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "キャプションバーをドラッグして高さを調整";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "キャプションバーを上下にドラッグ\n離すと自動保存";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "このライブキャプションプレビューをドラッグ\n画面上の垂直方向の中心を変更\n離すと自動保存";
 
 /* Translated with LLM */
 "Drive ID" = "ドライブID";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "両方の音量ボタンを押す";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "ライブキャプションの位置、テキストサイズ、行数、背景をプレビューして調整できます。";
 
 /* Translated with LLM */
 "Preview Disabled" = "プレビュー無効";

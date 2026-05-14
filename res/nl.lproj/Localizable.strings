@@ -140,6 +140,9 @@
 "Adequate" = "Adequaat";
 
 /* Translated with LLM */
+"Adjust Style" = "Stijl aanpassen";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Geavanceerde audiocodering";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Discrete modus";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Discrete modus uitgeschakeld";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Discrete modus ingeschakeld";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Discrete spraakmemo’s";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Sleep __hier__ om de grootte van de ___%@___ aan te passen.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Sleep de __zwevende ondertiteling__ om de hoogte aan te passen\nDubbeltik om het __aantal regels__ te wijzigen, veeg opzij om de __tekstgrootte__ te wijzigen\nHoud lang ingedrukt om een __achtergrond te kiezen of te verwijderen__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Sleep de titelbalk om de hoogte aan te passen";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Sleep de titelbalk omhoog of omlaag\nLaat los om automatisch op te slaan";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Versleep dit live-onderschriftvoorbeeld\nWijzig het verticale midden op het scherm\nLaat los om automatisch op te slaan";
 
 /* Translated with LLM */
 "Drive ID" = "Station-ID";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Druk op beide volumeknoppen";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Bekijk een voorbeeld en pas de positie, tekstgrootte, het aantal regels en de achtergrond van live bijschriften aan.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Voorbeeld uitgeschakeld";

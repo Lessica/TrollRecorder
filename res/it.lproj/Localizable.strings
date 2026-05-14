@@ -140,6 +140,9 @@
 "Adequate" = "Adeguato";
 
 /* Translated with LLM */
+"Adjust Style" = "Regola lo stile";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Codifica audio avanzata (AAC)";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Modalità Discreta";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Modalità discreta disabilitata";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Modalità discreta abilitata";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Memo vocali discreti";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Trascina __qui__ per regolare  \nla dimensione di ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Trascina la __didascalia fluttuante__ per regolare l’altezza\nTocca due volte per cambiare il __numero di righe__, scorri lateralmente per modificare la __dimensione del testo__\nTieni premuto per __scegliere o rimuovere uno sfondo__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Trascina la barra dei sottotitoli per regolare l’altezza";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Trascina la barra dei sottotitoli verso l’alto o verso il basso\nRilascia per salvare automaticamente";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Trascina questa anteprima dei sottotitoli dal vivo\nModifica il centro verticale sullo schermo\nRilascia per salvare automaticamente";
 
 /* Translated with LLM */
 "Drive ID" = "ID unità";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Premi entrambi i pulsanti del volume";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Anteprima e regola la posizione dei sottotitoli live, la dimensione del testo, il numero di righe e lo sfondo.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Anteprima disabilitata";

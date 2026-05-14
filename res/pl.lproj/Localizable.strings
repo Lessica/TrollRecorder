@@ -140,6 +140,9 @@
 "Adequate" = "Wystarczająca";
 
 /* Translated with LLM */
+"Adjust Style" = "Dostosuj styl";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Zaawansowane kodowanie dźwięku";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Tryb dyskretny";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Tryb dyskretny wyłączony";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Tryb dyskretny włączony";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Dyskretne notatki głosowe";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Przeciągnij __tutaj__, aby dostosować  \nrozmiar ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Przeciągnij __pływający napis__, aby dostosować wysokość\nDotknij dwukrotnie, aby przełączyć __liczbę wierszy__, przesuń palcem w bok, aby zmienić __rozmiar tekstu__\nPrzytrzymaj, aby __wybrać lub usunąć tło__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Przeciągnij pasek napisów, aby dostosować wysokość";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Przeciągnij pasek napisów w górę lub w dół\nZwolnij, aby zapisać automatycznie";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Przeciągnij podgląd napisów na żywo\nZmień pionowy środek na ekranie\nPuść, aby zapisać automatycznie";
 
 /* Translated with LLM */
 "Drive ID" = "Identyfikator dysku";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Naciśnij oba przyciski głośności";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Podgląd i dostosowanie pozycji napisów na żywo, rozmiaru tekstu, liczby wierszy oraz tła.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Podgląd wyłączony";

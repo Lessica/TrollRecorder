@@ -140,6 +140,9 @@
 "Adequate" = "Dostačující";
 
 /* Translated with LLM */
+"Adjust Style" = "Upravit styl";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "Pokročilé kódování zvuku";
 
 /* Translated with LLM */
@@ -917,6 +920,12 @@
 "Discreet Mode" = "Diskrétní režim";
 
 /* Translated with LLM */
+"Discreet Mode Disabled" = "Diskrétní režim vypnut";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "Diskrétní režim zapnut";
+
+/* Translated with LLM */
 "Discreet Voice Memos" = "Diskrétní hlasové poznámky";
 
 /* Translated with LLM */
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "Přetáhněte __sem__ pro nastavení  \nvelikosti ___%@___.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "Přetažením __plovoucího titulku__ upravte výšku\nDvojitým klepnutím přepnete __počet řádků__, tažením do stran změníte __velikost textu__\nDlouhým stisknutím můžete __vybrat nebo odstranit pozadí__";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "Přetažením lišty titulků upravte výšku";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "Přetažením titulkového pruhu nahoru nebo dolů\nUvolněním se automaticky uloží";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "Přetáhněte tento živý náhled titulků\nZměňte vertikální střed na obrazovce\nUvolněním automaticky uložíte";
 
 /* Translated with LLM */
 "Drive ID" = "ID jednotky";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "Stiskněte obě tlačítka hlasitosti";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "Zobrazte náhled a upravte pozici živého titulku, velikost textu, počet řádků a pozadí.";
 
 /* Translated with LLM */
 "Preview Disabled" = "Náhled zakázán";

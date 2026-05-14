@@ -140,6 +140,9 @@
 "Adequate" = "ئەڭ تۆۋەن";
 
 /* Translated with LLM */
+"Adjust Style" = "ئۇسلۇبنى تەڭشەش";
+
+/* Translated with LLM */
 "Advanced Audio Coding" = "ئالىي ئاۋاز كودلاش (AAC)";
 
 /* Translated with LLM */
@@ -916,6 +919,12 @@
 /* Translated with LLM */
 "Discreet Mode" = "يوشۇرۇن ھالەت";
 
+/* TODO */
+"Discreet Mode Disabled" = "Discreet Mode Disabled";
+
+/* Translated with LLM */
+"Discreet Mode Enabled" = "ئاستا ھالەت قوزغىتىلدى";
+
 /* Translated with LLM */
 "Discreet Voice Memos" = "يوشۇرۇن ئاۋاز خاتىرىسى";
 
@@ -1002,6 +1011,18 @@
 
 /* Translated with LLM */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "__بۇ يەرنى__ سۆرەپ ___%@___ نىڭ چوڭلۇقىنى تەڭشەڭ.";
+
+/* Translated with LLM */
+"Drag the __floating caption__ to adjust height\nDouble-tap to switch __line count__, swipe sideways to change __text size__\nLong press to __choose or remove a background__" = "سۇزگۈچ __ئۈزۈپ تۇرغان خەت__ نىڭ ئېگىزلىكىنى تەڭشەش ئۈچۈن سۆرەڭ\nقوش چېكىش __قۇر سانى__ نى ئالماشتۇرىدۇ، يانغا سۈركەش __خەت چوڭلۇقى__ نى ئۆزگەرتەلەيدۇ\nئۇزۇن بېسىش __ئارقا كۆرۈنۈشنى تاللاش ياكى چىقىرىۋېتىش__ ئۈچۈن";
+
+/* Translated with LLM */
+"Drag the caption bar to adjust height" = "خەت بەلۋىغىنى سۆرەپ ئېگىزلىكنى تەڭشەڭ";
+
+/* Translated with LLM */
+"Drag the caption bar up or down\nRelease to save automatically" = "باش بەلگىلىك سىزىقنى يۇقىرى ياكى تۆۋەنگە سۆرەڭ\nقويۇپ بەرسىڭىز ئاپتوماتىك ساقلىنىدۇ";
+
+/* Translated with LLM */
+"Drag this live caption preview\nChange the vertical center on screen\nRelease to save automatically" = "بۇ جانلىق تارما تەگلىك كۆرۈنمىسىنى سۆرەڭ\nئېكراندا ئۇفۇقىي مەركەزنى ئۆزگەرتىڭ\nئاپتوماتىك ساقلاش ئۈچۈن قويۇپ بېرىڭ";
 
 /* Translated with LLM */
 "Drive ID" = "قوزغاتقۇچ كىملىكى";
@@ -2265,6 +2286,9 @@
 
 /* Translated with LLM */
 "Press Both Volume Buttons" = "ئىككى ئاۋاز كۇنۇپكىسىنى بېسىش";
+
+/* Translated with LLM */
+"Preview and adjust the live caption position, text size, line count, and background." = "نەق مەيدان تەگلىكىنىڭ ئورنى، تېكىست چوڭلۇقى، قۇر سانى ۋە ئارقا كۆرۈنۈشىنى كۆرۈپ تەڭشەڭ.";
 
 /* Translated with LLM */
 "Preview Disabled" = "ئالدىن كۆرۈش چەكلەندى";
